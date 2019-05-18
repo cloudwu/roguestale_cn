@@ -81,20 +81,20 @@
 "Quest editor" 任务编辑器
 "Terms of use" 使用期限
 "Settings" 设置
-"Credits" Credits
+"Credits" 积分
 "Retire rogue" 隐逸游侠
 "Key bindings" 按键设置
 "Change password" 密码修改
 "Delete account" 删除帐号
 "Exit game" 退出
-"Windowed" Windowed
+"Windowed" 视窗化
 "Gamepad" 手柄
 "Save changes" 保存更改
 "Change password" 密码修改
-"Rest in peace" Rest in peace
-"Journey onward" Journey onward
+"Rest in peace" 重置成和平模式
+"Journey onward" 继续探索旅程
 "Start a new game" 开启新游戏
-"Okay" Okay
+"Okay" 确定
 "Close" 关闭
 "Loot" This key shows the items on the ground while it is pressed.
 "Pri. Use" This key is used with the movement keys to carry out actions such as pick lock, disarm trap and open door.
