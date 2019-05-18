@@ -86,7 +86,7 @@
 "Key bindings" 按键设置
 "Change password" 密码修改
 "Delete account" 删除帐号
-"Exit game" 退出
+"Exit game" 退出游戏
 "Windowed" 视窗化
 "Gamepad" 手柄
 "Save changes" 保存更改
