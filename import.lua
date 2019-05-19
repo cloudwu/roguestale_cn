@@ -14,38 +14,47 @@ end
 local function map(trans)
 	local m = {}
 	for line in io.lines(trans) do
-		local key, value = line:match '(".-"[^ ]*) (.*)'
-		m[key] = value
+		local tag, key, value = line:match '(%a+)%.(".-"[^ ]*) (.*)'
+		m[tag .. ":" .. key] = value
 	end
 	return m
 end
 
 local function merge(xml, trans)
 	local mainkey
-	local function replace(id, value, extra)
-		local paragraph = id:match "^paragraph (%d+)"
-		local key
-		if paragraph then
-			key = mainkey .. "." .. paragraph
-		else
-			key = '"' .. id .. '"'
-			mainkey = key
-		end
-		local chinese = trans[key]
-		if chinese == nil then
-			print("Missing:", key)
-			chinese = ""
-		else
-			local escape = value:gsub("\n", "&#10;")
-			if chinese == escape then
-				chinese = "" .. extra
+	local function replace_tag(tag)
+		return function (id, value, extra)
+			local paragraph = id:match "^paragraph (%d+)"
+			local key
+			if paragraph then
+				key = mainkey .. "." .. paragraph
 			else
-				chinese = string.format(' local="%s"%s', chinese, extra)
+				key = tag .. ':"' .. id .. '"'
+				mainkey = key
 			end
-			return string.format('<str id="%s" value="%s"%s>', id, value, chinese)
+			local chinese = trans[key]
+			if chinese == nil then
+				print("Missing:", key)
+				chinese = ""
+			else
+				local escape = value:gsub("\n", "&#10;")
+				if chinese == escape then
+					chinese = "" .. extra
+				else
+					chinese = string.format(' local="%s"%s', chinese, extra)
+				end
+				return string.format('<str id="%s" value="%s"%s>', id, value, chinese)
+			end
 		end
 	end
-	return (xml:gsub('<str id="([^"]+)" value="([^"]+)"(.-)>', replace))
+
+	local function sec_replace(tag, content, endtag)
+		assert(tag == endtag)
+		local r = content:gsub('<str id="([^"]+)" value="([^"]+)"(.-)>', replace_tag(tag))
+		return string.format('<%s>%s</%s>', tag, r, endtag)
+	end
+	
+	return (xml:gsub('<(%u%a*)>(.-)</(%u%a*)>', sec_replace))
 end
 
 local function checksum(xml)

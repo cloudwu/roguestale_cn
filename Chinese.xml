@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190515)" checksum="6a262430c0233d030da9f0240ad141ba158a8c6e">
+<strings version="Version 2.00 Beta 1 (190515)" checksum="3750d8e81b2060a2a94f7718fd5e4f211824ddad">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -78,34 +78,34 @@
     <str id="LOADING_SCREEN_DESC" value="Injecting blood into daemons, please wait..." local="正在给恶魔注入鲜血，请稍后……"/>
   </Labels>
   <Buttons>
-    <str id="Accept" value="Accept"/>
-    <str id="Cancel" value="Cancel"/>
-    <str id="Return" value="Return"/>
-    <str id="Logout" value="Logout"/>
-    <str id="Play game" value="Play game"/>
-    <str id="Create new account" value="Create new account"/>
-    <str id="Login" value="Login"/>
-    <str id="Locale editor" value="Locale editor"/>
-    <str id="Dialogue editor" value="Dialogue editor"/>
-    <str id="Dungeon editor" value="Dungeon editor"/>
-    <str id="Quest editor" value="Quest editor"/>
-    <str id="Terms of use" value="Terms of use"/>
-    <str id="Settings" value="Settings"/>
-    <str id="Credits" value="Credits"/>
-    <str id="Retire rogue" value="Retire rogue"/>
-    <str id="Key bindings" value="Key bindings"/>
-    <str id="Change password" value="Change password"/>
-    <str id="Delete account" value="Delete account"/>
-    <str id="Exit game" value="Exit game"/>
-    <str id="Windowed" value="Windowed"/>
-    <str id="Gamepad" value="Gamepad"/>
-    <str id="Save changes" value="Save changes"/>
-    <str id="Change password" value="Change password"/>
-    <str id="Rest in peace" value="Rest in peace"/>
-    <str id="Journey onward" value="Journey onward"/>
-    <str id="Start a new game" value="Start a new game"/>
-    <str id="Okay" value="Okay"/>
-    <str id="Close" value="Close"/>
+    <str id="Accept" value="Accept" local="接受"/>
+    <str id="Cancel" value="Cancel" local="取消"/>
+    <str id="Return" value="Return" local="返回"/>
+    <str id="Logout" value="Logout" local="登出"/>
+    <str id="Play game" value="Play game" local="进行游戏"/>
+    <str id="Create new account" value="Create new account" local="创建账号"/>
+    <str id="Login" value="Login" local="登录"/>
+    <str id="Locale editor" value="Locale editor" local="本地化编辑器"/>
+    <str id="Dialogue editor" value="Dialogue editor" local="对话编辑器"/>
+    <str id="Dungeon editor" value="Dungeon editor" local="关卡编辑器"/>
+    <str id="Quest editor" value="Quest editor" local="任务编辑器"/>
+    <str id="Terms of use" value="Terms of use" local="使用条款"/>
+    <str id="Settings" value="Settings" local="设置"/>
+    <str id="Credits" value="Credits" local="制作人员"/>
+    <str id="Retire rogue" value="Retire rogue" local="游侠归隐"/>
+    <str id="Key bindings" value="Key bindings" local="按键绑定"/>
+    <str id="Change password" value="Change password" local="密码修改"/>
+    <str id="Delete account" value="Delete account" local="删除帐号"/>
+    <str id="Exit game" value="Exit game" local="退出游戏"/>
+    <str id="Windowed" value="Windowed" local="窗口化"/>
+    <str id="Gamepad" value="Gamepad" local="手柄"/>
+    <str id="Save changes" value="Save changes" local="保存更改"/>
+    <str id="Change password" value="Change password" local="密码修改"/>
+    <str id="Rest in peace" value="Rest in peace" local="逝者安息"/>
+    <str id="Journey onward" value="Journey onward" local="继续旅程"/>
+    <str id="Start a new game" value="Start a new game" local="开启新游戏"/>
+    <str id="Okay" value="Okay" local="确定"/>
+    <str id="Close" value="Close" local="关闭"/>
   </Buttons>
   <Keybinds>
     <str id="Loot" value="This key shows the items on the ground while it is pressed."/>
@@ -420,7 +420,7 @@
     <str id="Serrated" value="Serrated"/>
     <str id="Slow" value="Slow"/>
     <str id="Puller" value="Puller"/>
-    <str id="Digger" value="Digger" local="This weapon is great for knocking down obstacles such as orcs and walls."/>
+    <str id="Digger" value="Digger"/>
     <str id="Type:" value="Type:"/>
     <str id="Small" value="Small"/>
     <str id="Medium" value="Medium"/>
@@ -810,166 +810,166 @@
     <str id="Disease" value="Disease"/>
   </Resistances>
   <CurseNames>
-    <str id="Curse of Agony" value="Curse of Agony" local="It has a chance of causing D3 points of magic damage."/>
-    <str id="Curse of Envy" value="Curse of Envy" local="It has a chance of causing you to become envious for D6 turns. While envious, you are forced to move towards and"/>
-    <str id="Curse of Gluttony" value="Curse of Gluttony" local="It has a chance of causing you to spend a turn eating or drinking. If you don't have anything suitable to consume,"/>
-    <str id="Curse of Greed" value="Curse of Greed" local="It has a chance of causing you to become greedy for D6 turns. While greedy, you are forced to move towards the"/>
-    <str id="Curse of Hunger" value="Curse of Hunger" local="It has a chance of causing you to lose one level on the seven level hunger track (counts as up to 360 turns of food"/>
-    <str id="Curse of Lust" value="Curse of Lust" local="It has a chance of causing you to become lustful for D6 turns. While lustful, you are forced to move towards the"/>
-    <str id="Curse of Pride" value="Curse of Pride" local="It has a chance of causing you to become reckless for D6 turns. While reckless, you are forced to move towards and"/>
-    <str id="Curse of Sloth" value="Curse of Sloth" local="It has a chance of causing you to lose one point of energy and miss your next turn. This effect also forces you to"/>
-    <str id="Curse of Thirst" value="Curse of Thirst" local="It has a chance of causing you to lose one level on the seven level thirst track (counts as up to 360 turns of water"/>
-    <str id="Curse of Wrath" value="Curse of Wrath" local="It has a chance of causing you to become frenzied for D6 turns. While frenzied, you are forced to move towards and"/>
+    <str id="Curse of Agony" value="Curse of Agony"/>
+    <str id="Curse of Envy" value="Curse of Envy"/>
+    <str id="Curse of Gluttony" value="Curse of Gluttony"/>
+    <str id="Curse of Greed" value="Curse of Greed"/>
+    <str id="Curse of Hunger" value="Curse of Hunger"/>
+    <str id="Curse of Lust" value="Curse of Lust"/>
+    <str id="Curse of Pride" value="Curse of Pride"/>
+    <str id="Curse of Sloth" value="Curse of Sloth"/>
+    <str id="Curse of Thirst" value="Curse of Thirst"/>
+    <str id="Curse of Wrath" value="Curse of Wrath"/>
   </CurseNames>
   <PoisonNames>
-    <str id="Blinding Poison" value="Blinding Poison" local="It has a chance of blinding you for D6 turns. While blinded, you may act normally with the exception that you can't"/>
-    <str id="Charming Poison" value="Charming Poison" local="It has a chance of charming you for D6 turns. While charmed, you are forced to attack the nearest creature that is"/>
-    <str id="Confusing Poison" value="Confusing Poison" local="It has a chance of confusing you for D6 turns. While confused, your moves and attacks are made in a random"/>
-    <str id="Deadly Poison" value="Deadly Poison" local="It has a chance of causing D3 points of poison damage. This also forces you to re-roll successful health regeneration"/>
-    <str id="Deafening Poison" value="Deafening Poison" local="It has a chance of deafening you for D6 turns. This also applies a negative modifier on casting rolls that equals to the"/>
-    <str id="Draining Poison" value="Draining Poison" local="It has a chance of causing you to lose 1 point of energy. This also applies a negative modifier on energy"/>
-    <str id="Leeching Poison" value="Leeching Poison" local="It has a chance of causing you to lose D3 points of health. This also applies a negative modifier on health"/>
-    <str id="Paralytic Poison" value="Paralytic Poison" local="It has a chance of paralysing you for D6 turns. This also counts as a slow effect."/>
-    <str id="Silencing Poison" value="Silencing Poison" local="It has a chance of silencing you for D6 turns. While silenced, you may not cast spells, read scrolls or talk to other"/>
-    <str id="Sleeping Poison" value="Sleeping Poison" local="It has a chance of causing you to fall asleep for D6 turns. Any damage will interrupt the current sleep effect but the"/>
-    <str id="Slowing Poison" value="Slowing Poison" local="It counts as a slow effect and as an effect that may cause you to miss your next turn. This also reduces dodge, parry"/>
+    <str id="Blinding Poison" value="Blinding Poison"/>
+    <str id="Charming Poison" value="Charming Poison"/>
+    <str id="Confusing Poison" value="Confusing Poison"/>
+    <str id="Deadly Poison" value="Deadly Poison"/>
+    <str id="Deafening Poison" value="Deafening Poison"/>
+    <str id="Draining Poison" value="Draining Poison"/>
+    <str id="Leeching Poison" value="Leeching Poison"/>
+    <str id="Paralytic Poison" value="Paralytic Poison"/>
+    <str id="Silencing Poison" value="Silencing Poison"/>
+    <str id="Sleeping Poison" value="Sleeping Poison"/>
+    <str id="Slowing Poison" value="Slowing Poison"/>
   </PoisonNames>
   <DiseaseNames>
-    <str id="Aching Muscle" value="Aching Muscle" local="It has a chance of causing one point of strength damage and a chance to place a slow effect on you for D6 turns."/>
-    <str id="Bloody Flux" value="Bloody Flux" local="It has a chance of causing one point of stamina damage and a chance to cause D3 points of health damage."/>
-    <str id="Bone Plague" value="Bone Plague" local="It has a chance of causing one point of strength damage and a chance to place a paralysis effect on you for D6 turns."/>
-    <str id="Burning Lung" value="Burning Lung" local="It has a chance of causing one point of stamina damage and a chance to cause D3 points of energy damage."/>
-    <str id="Dungeon Fever" value="Dungeon Fever" local="It has a chance of triggering the effects of any other disease."/>
-    <str id="Itching Groin" value="Itching Groin" local="It has a chance of causing one point of agility damage and a chance to place a blind effect on you for D6 turns."/>
-    <str id="Putrid Breath" value="Putrid Breath" local="It has a chance of causing one point of charisma damage and a chance to place a silence effect on you for D6 turns."/>
-    <str id="Swollen Joint" value="Swollen Joint" local="It has a chance of causing one point of agility damage and a chance to place a confusion effect on you for D6 turns."/>
-    <str id="Rotting Flesh" value="Rotting Flesh" local="It has a chance of causing one point of charisma damage and a chance to place a sleep effect on you for D6 turns."/>
+    <str id="Aching Muscle" value="Aching Muscle"/>
+    <str id="Bloody Flux" value="Bloody Flux"/>
+    <str id="Bone Plague" value="Bone Plague"/>
+    <str id="Burning Lung" value="Burning Lung"/>
+    <str id="Dungeon Fever" value="Dungeon Fever"/>
+    <str id="Itching Groin" value="Itching Groin"/>
+    <str id="Putrid Breath" value="Putrid Breath"/>
+    <str id="Swollen Joint" value="Swollen Joint"/>
+    <str id="Rotting Flesh" value="Rotting Flesh"/>
   </DiseaseNames>
   <EffectNames>
-    <str id="Oogled" value="Oogled" local="You are oogled."/>
-    <str id="Afraid" value="Afraid" local="You are afraid and you are forced to run away from the source of this effect."/>
-    <str id="Asleep" value="Asleep" local="You are asleep and that causes you to miss your turn."/>
-    <str id="Blinded" value="Blinded" local="You are blinded and that allows you to bump into walls without kicking them, which is just amazing."/>
-    <str id="Charmed" value="Charmed" local="You are charmed and you are forced to attack the nearest creature that is also an enemy of the charmer or miss"/>
-    <str id="Chilled" value="Chilled" local="You are chilled and that may cause you to miss your turn."/>
-    <str id="Confused" value="Confused" local="You are confused and that allows you to play this game as if you were drunk while sober."/>
-    <str id="Deafened" value="Deafened" local="You are deafened and that prevents you from enjoying the awesome sounds of this game."/>
-    <str id="Energised" value="Energised" local="You are energised and that allows you to re-roll failed energy regeneration checks."/>
-    <str id="Envious" value="Envious" local="You are envious and you are forced to move towards and attack the nearest creature of the same gender or miss"/>
-    <str id="Frenzied" value="Frenzied" local="You are frenzied and you are forced to move towards and attack the nearest creature or miss your turn if no such"/>
-    <str id="Greedy" value="Greedy" local="You are greedy and you are forced to move towards the nearest item and attempt to pick it up or miss your turn if"/>
-    <str id="Hastened" value="Hastened" local="You are hastened and that allows you to act twice in one turn every now and then."/>
-    <str id="Insightful" value="Insightful" local="You are insightful and that allows you to identify items just by picking them up."/>
-    <str id="Invisible" value="Invisible" local="You are invisible and that is just unfair towards the lovely creatures that want to kill you."/>
-    <str id="Levitated" value="Levitated" local="You are levitated and that allows you to float over traps without getting stuck."/>
-    <str id="Lustful" value="Lustful" local="You are lustful and you are forced to move towards the nearest creature of the opposite gender and beat that"/>
-    <str id="On fire" value="On fire" local="You are on fire. You can always try to douse yourself with a water flask."/>
-    <str id="Paralysed" value="Paralysed" local="You are paralysed and that causes you to miss your turn."/>
-    <str id="Polymorphed" value="Polymorphed" local="You are polymorphed and that allows you to find Ken'nih."/>
-    <str id="Reckless" value="Reckless" local="You are reckless and you are forced to move towards and attack the nearest enemy creature or miss your turn if no"/>
-    <str id="Shocked" value="Shocked" local="You are shocked and that causes you to miss your turn."/>
-    <str id="Silenced" value="Silenced" local="You are silenced and that prevents you from casting spells and reading scrolls."/>
-    <str id="Slowed" value="Slowed" local="You are slowed and that may cause you to miss your turn."/>
-    <str id="Stunned" value="Stunned" local="You are stunned and that causes you to miss your turn."/>
-    <str id="Vitalised" value="Vitalised" local="You are vitalised and that allows you to re-roll failed health regeneration checks."/>
-    <str id="Revitalised" value="Revitalised" local="You have gained the ability to regenerate but you are also vulnerable to fire."/>
-    <str id="Literate" value="Literate" local="%s becomes literate."/>
-    <str id="Informed" value="Informed" local="%s becomes informed."/>
-    <str id="Fearless" value="Fearless" local="%s becomes fearless."/>
-    <str id="Bestial" value="Bestial" local="%s becomes bestial."/>
-    <str id="-1 Strength" value="-1 Strength" local="Your strength is decreased by 1."/>
-    <str id="-1 Agility" value="-1 Agility" local="Your agility is decreased by 1."/>
-    <str id="-1 Stamina" value="-1 Stamina" local="Your stamina is decreased by 1."/>
-    <str id="-1 Charisma" value="-1 Charisma" local="Your charisma is decreased by 1."/>
-    <str id="+1 Strength" value="+1 Strength" local="Your strength is increased by 1."/>
-    <str id="+1 Agility" value="+1 Agility" local="Your agility is increased by 1."/>
-    <str id="+1 Stamina" value="+1 Stamina" local="Your stamina is increased by 1."/>
-    <str id="+1 Charisma" value="+1 Charisma" local="Your charisma is increased by 1."/>
-    <str id="Wounded" value="Wounded" local="You are bleeding and take D3 points of bleed damage per turn."/>
+    <str id="Oogled" value="Oogled"/>
+    <str id="Afraid" value="Afraid"/>
+    <str id="Asleep" value="Asleep"/>
+    <str id="Blinded" value="Blinded"/>
+    <str id="Charmed" value="Charmed"/>
+    <str id="Chilled" value="Chilled"/>
+    <str id="Confused" value="Confused"/>
+    <str id="Deafened" value="Deafened"/>
+    <str id="Energised" value="Energised"/>
+    <str id="Envious" value="Envious"/>
+    <str id="Frenzied" value="Frenzied"/>
+    <str id="Greedy" value="Greedy"/>
+    <str id="Hastened" value="Hastened"/>
+    <str id="Insightful" value="Insightful"/>
+    <str id="Invisible" value="Invisible"/>
+    <str id="Levitated" value="Levitated"/>
+    <str id="Lustful" value="Lustful"/>
+    <str id="On fire" value="On fire"/>
+    <str id="Paralysed" value="Paralysed"/>
+    <str id="Polymorphed" value="Polymorphed"/>
+    <str id="Reckless" value="Reckless"/>
+    <str id="Shocked" value="Shocked"/>
+    <str id="Silenced" value="Silenced"/>
+    <str id="Slowed" value="Slowed"/>
+    <str id="Stunned" value="Stunned"/>
+    <str id="Vitalised" value="Vitalised"/>
+    <str id="Revitalised" value="Revitalised"/>
+    <str id="Literate" value="Literate"/>
+    <str id="Informed" value="Informed"/>
+    <str id="Fearless" value="Fearless"/>
+    <str id="Bestial" value="Bestial"/>
+    <str id="-1 Strength" value="-1 Strength"/>
+    <str id="-1 Agility" value="-1 Agility"/>
+    <str id="-1 Stamina" value="-1 Stamina"/>
+    <str id="-1 Charisma" value="-1 Charisma"/>
+    <str id="+1 Strength" value="+1 Strength"/>
+    <str id="+1 Agility" value="+1 Agility"/>
+    <str id="+1 Stamina" value="+1 Stamina"/>
+    <str id="+1 Charisma" value="+1 Charisma"/>
+    <str id="Wounded" value="Wounded"/>
   </EffectNames>
   <EffectFeels>
-    <str id="Oogled" value="You feel oogled." local="You are oogled."/>
-    <str id="Afraid" value="You feel afraid." local="You are afraid and you are forced to run away from the source of this effect."/>
-    <str id="Asleep" value="You fall asleep." local="You are asleep and that causes you to miss your turn."/>
-    <str id="Blinded" value="You are blinded." local="You are blinded and that allows you to bump into walls without kicking them, which is just amazing."/>
-    <str id="Charmed" value="You are charmed." local="You are charmed and you are forced to attack the nearest creature that is also an enemy of the charmer or miss"/>
-    <str id="Chilled" value="You are chilled." local="You are chilled and that may cause you to miss your turn."/>
-    <str id="Confused" value="You are confused." local="You are confused and that allows you to play this game as if you were drunk while sober."/>
-    <str id="Deafened" value="You are deafened." local="You are deafened and that prevents you from enjoying the awesome sounds of this game."/>
-    <str id="Energised" value="You feel energised." local="You are energised and that allows you to re-roll failed energy regeneration checks."/>
-    <str id="Envious" value="You feel envious." local="You are envious and you are forced to move towards and attack the nearest creature of the same gender or miss"/>
-    <str id="Frenzied" value="You feel frenzied." local="You are frenzied and you are forced to move towards and attack the nearest creature or miss your turn if no such"/>
-    <str id="Greedy" value="You feel greedy." local="You are greedy and you are forced to move towards the nearest item and attempt to pick it up or miss your turn if"/>
-    <str id="Hastened" value="You feel hastened." local="You are hastened and that allows you to act twice in one turn every now and then."/>
-    <str id="Insightful" value="You feel insightful." local="You are insightful and that allows you to identify items just by picking them up."/>
-    <str id="Invisible" value="You turn invisible." local="You are invisible and that is just unfair towards the lovely creatures that want to kill you."/>
-    <str id="Levitated" value="You start to levitate." local="You are levitated and that allows you to float over traps without getting stuck."/>
-    <str id="Lustful" value="You feel lustful." local="You are lustful and you are forced to move towards the nearest creature of the opposite gender and beat that"/>
-    <str id="On fire" value="You are set on fire." local="You are on fire. You can always try to douse yourself with a water flask."/>
-    <str id="Paralysed" value="You are paralysed." local="You are paralysed and that causes you to miss your turn."/>
-    <str id="Polymorphed" value="You are polymorphed." local="You are polymorphed and that allows you to find Ken'nih."/>
-    <str id="Reckless" value="You feel reckless." local="You are reckless and you are forced to move towards and attack the nearest enemy creature or miss your turn if no"/>
-    <str id="Shocked" value="You are shocked." local="You are shocked and that causes you to miss your turn."/>
-    <str id="Silenced" value="You are silenced." local="You are silenced and that prevents you from casting spells and reading scrolls."/>
-    <str id="Slowed" value="You feel slowed." local="You are slowed and that may cause you to miss your turn."/>
-    <str id="Stunned" value="You are stunned." local="You are stunned and that causes you to miss your turn."/>
-    <str id="Vitalised" value="You feel vitalised." local="You are vitalised and that allows you to re-roll failed health regeneration checks."/>
-    <str id="Revitalised" value="You feel revitalised." local="You have gained the ability to regenerate but you are also vulnerable to fire."/>
-    <str id="Literate" value="You feel literate." local="%s becomes literate."/>
-    <str id="Informed" value="You feel informed." local="%s becomes informed."/>
-    <str id="Fearless" value="You feel fearless." local="%s becomes fearless."/>
-    <str id="Bestial" value="You feel bestial." local="%s becomes bestial."/>
-    <str id="-1 Strength" value="You feel weaker." local="Your strength is decreased by 1."/>
-    <str id="-1 Agility" value="You feel clumsier." local="Your agility is decreased by 1."/>
-    <str id="-1 Stamina" value="You feel feebler." local="Your stamina is decreased by 1."/>
-    <str id="-1 Charisma" value="You feel uglier." local="Your charisma is decreased by 1."/>
-    <str id="+1 Strength" value="You feel stronger." local="Your strength is increased by 1."/>
-    <str id="+1 Agility" value="You feel nimbler." local="Your agility is increased by 1."/>
-    <str id="+1 Stamina" value="You feel tougher." local="Your stamina is increased by 1."/>
-    <str id="+1 Charisma" value="You feel prettier." local="Your charisma is increased by 1."/>
-    <str id="Wounded" value="You feel wounded." local="You are bleeding and take D3 points of bleed damage per turn."/>
+    <str id="Oogled" value="You feel oogled."/>
+    <str id="Afraid" value="You feel afraid."/>
+    <str id="Asleep" value="You fall asleep."/>
+    <str id="Blinded" value="You are blinded."/>
+    <str id="Charmed" value="You are charmed."/>
+    <str id="Chilled" value="You are chilled."/>
+    <str id="Confused" value="You are confused."/>
+    <str id="Deafened" value="You are deafened."/>
+    <str id="Energised" value="You feel energised."/>
+    <str id="Envious" value="You feel envious."/>
+    <str id="Frenzied" value="You feel frenzied."/>
+    <str id="Greedy" value="You feel greedy."/>
+    <str id="Hastened" value="You feel hastened."/>
+    <str id="Insightful" value="You feel insightful."/>
+    <str id="Invisible" value="You turn invisible."/>
+    <str id="Levitated" value="You start to levitate."/>
+    <str id="Lustful" value="You feel lustful."/>
+    <str id="On fire" value="You are set on fire."/>
+    <str id="Paralysed" value="You are paralysed."/>
+    <str id="Polymorphed" value="You are polymorphed."/>
+    <str id="Reckless" value="You feel reckless."/>
+    <str id="Shocked" value="You are shocked."/>
+    <str id="Silenced" value="You are silenced."/>
+    <str id="Slowed" value="You feel slowed."/>
+    <str id="Stunned" value="You are stunned."/>
+    <str id="Vitalised" value="You feel vitalised."/>
+    <str id="Revitalised" value="You feel revitalised."/>
+    <str id="Literate" value="You feel literate."/>
+    <str id="Informed" value="You feel informed."/>
+    <str id="Fearless" value="You feel fearless."/>
+    <str id="Bestial" value="You feel bestial."/>
+    <str id="-1 Strength" value="You feel weaker."/>
+    <str id="-1 Agility" value="You feel clumsier."/>
+    <str id="-1 Stamina" value="You feel feebler."/>
+    <str id="-1 Charisma" value="You feel uglier."/>
+    <str id="+1 Strength" value="You feel stronger."/>
+    <str id="+1 Agility" value="You feel nimbler."/>
+    <str id="+1 Stamina" value="You feel tougher."/>
+    <str id="+1 Charisma" value="You feel prettier."/>
+    <str id="Wounded" value="You feel wounded."/>
   </EffectFeels>
   <EffectSeems>
-    <str id="Oogled" value="%s seems oogled." local="You are oogled."/>
-    <str id="Afraid" value="%s becomes afraid." local="You are afraid and you are forced to run away from the source of this effect."/>
-    <str id="Asleep" value="%s falls asleep." local="You are asleep and that causes you to miss your turn."/>
-    <str id="Blinded" value="%s is blinded." local="You are blinded and that allows you to bump into walls without kicking them, which is just amazing."/>
-    <str id="Charmed" value="%s is charmed." local="You are charmed and you are forced to attack the nearest creature that is also an enemy of the charmer or miss"/>
-    <str id="Chilled" value="%s is chilled." local="You are chilled and that may cause you to miss your turn."/>
-    <str id="Confused" value="%s is confused." local="You are confused and that allows you to play this game as if you were drunk while sober."/>
-    <str id="Deafened" value="%s is deafened." local="You are deafened and that prevents you from enjoying the awesome sounds of this game."/>
-    <str id="Energised" value="%s becomes energised." local="You are energised and that allows you to re-roll failed energy regeneration checks."/>
-    <str id="Envious" value="%s becomes envious." local="You are envious and you are forced to move towards and attack the nearest creature of the same gender or miss"/>
-    <str id="Frenzied" value="%s becomes frenzied." local="You are frenzied and you are forced to move towards and attack the nearest creature or miss your turn if no such"/>
-    <str id="Greedy" value="%s becomes greedy." local="You are greedy and you are forced to move towards the nearest item and attempt to pick it up or miss your turn if"/>
-    <str id="Hastened" value="%s becomes hastened." local="You are hastened and that allows you to act twice in one turn every now and then."/>
-    <str id="Insightful" value="%s becomes insightful." local="You are insightful and that allows you to identify items just by picking them up."/>
-    <str id="Invisible" value="%s turns invisible." local="You are invisible and that is just unfair towards the lovely creatures that want to kill you."/>
-    <str id="Levitated" value="%s starts to levitate." local="You are levitated and that allows you to float over traps without getting stuck."/>
-    <str id="Lustful" value="%s becomes lustful." local="You are lustful and you are forced to move towards the nearest creature of the opposite gender and beat that"/>
-    <str id="On fire" value="%s is set on fire." local="You are on fire. You can always try to douse yourself with a water flask."/>
-    <str id="Paralysed" value="%s is paralysed." local="You are paralysed and that causes you to miss your turn."/>
-    <str id="Polymorphed" value="%s is polymorphed." local="You are polymorphed and that allows you to find Ken'nih."/>
-    <str id="Reckless" value="%s becomes reckless." local="You are reckless and you are forced to move towards and attack the nearest enemy creature or miss your turn if no"/>
-    <str id="Shocked" value="%s is shocked." local="You are shocked and that causes you to miss your turn."/>
-    <str id="Silenced" value="%s is silenced." local="You are silenced and that prevents you from casting spells and reading scrolls."/>
-    <str id="Slowed" value="%s is slowed." local="You are slowed and that may cause you to miss your turn."/>
-    <str id="Stunned" value="%s is stunned." local="You are stunned and that causes you to miss your turn."/>
-    <str id="Vitalised" value="%s is vitalised." local="You are vitalised and that allows you to re-roll failed health regeneration checks."/>
-    <str id="Revitalised" value="%s is revitalised." local="You have gained the ability to regenerate but you are also vulnerable to fire."/>
+    <str id="Oogled" value="%s seems oogled."/>
+    <str id="Afraid" value="%s becomes afraid."/>
+    <str id="Asleep" value="%s falls asleep."/>
+    <str id="Blinded" value="%s is blinded."/>
+    <str id="Charmed" value="%s is charmed."/>
+    <str id="Chilled" value="%s is chilled."/>
+    <str id="Confused" value="%s is confused."/>
+    <str id="Deafened" value="%s is deafened."/>
+    <str id="Energised" value="%s becomes energised."/>
+    <str id="Envious" value="%s becomes envious."/>
+    <str id="Frenzied" value="%s becomes frenzied."/>
+    <str id="Greedy" value="%s becomes greedy."/>
+    <str id="Hastened" value="%s becomes hastened."/>
+    <str id="Insightful" value="%s becomes insightful."/>
+    <str id="Invisible" value="%s turns invisible."/>
+    <str id="Levitated" value="%s starts to levitate."/>
+    <str id="Lustful" value="%s becomes lustful."/>
+    <str id="On fire" value="%s is set on fire."/>
+    <str id="Paralysed" value="%s is paralysed."/>
+    <str id="Polymorphed" value="%s is polymorphed."/>
+    <str id="Reckless" value="%s becomes reckless."/>
+    <str id="Shocked" value="%s is shocked."/>
+    <str id="Silenced" value="%s is silenced."/>
+    <str id="Slowed" value="%s is slowed."/>
+    <str id="Stunned" value="%s is stunned."/>
+    <str id="Vitalised" value="%s is vitalised."/>
+    <str id="Revitalised" value="%s is revitalised."/>
     <str id="Literate" value="%s becomes literate."/>
     <str id="Informed" value="%s becomes informed."/>
     <str id="Fearless" value="%s becomes fearless."/>
     <str id="Bestial" value="%s becomes bestial."/>
-    <str id="-1 Strength" value="%s seems weaker." local="Your strength is decreased by 1."/>
-    <str id="-1 Agility" value="%s seems clumsier." local="Your agility is decreased by 1."/>
-    <str id="-1 Stamina" value="%s seems feebler." local="Your stamina is decreased by 1."/>
-    <str id="-1 Charisma" value="%s seems uglier." local="Your charisma is decreased by 1."/>
-    <str id="+1 Strength" value="%s seems stronger." local="Your strength is increased by 1."/>
-    <str id="+1 Agility" value="%s seems nimbler." local="Your agility is increased by 1."/>
-    <str id="+1 Stamina" value="%s seems tougher." local="Your stamina is increased by 1."/>
-    <str id="+1 Charisma" value="%s seems prettier." local="Your charisma is increased by 1."/>
-    <str id="Wounded" value="%s seems wounded." local="You are bleeding and take D3 points of bleed damage per turn."/>
+    <str id="-1 Strength" value="%s seems weaker."/>
+    <str id="-1 Agility" value="%s seems clumsier."/>
+    <str id="-1 Stamina" value="%s seems feebler."/>
+    <str id="-1 Charisma" value="%s seems uglier."/>
+    <str id="+1 Strength" value="%s seems stronger."/>
+    <str id="+1 Agility" value="%s seems nimbler."/>
+    <str id="+1 Stamina" value="%s seems tougher."/>
+    <str id="+1 Charisma" value="%s seems prettier."/>
+    <str id="Wounded" value="%s seems wounded."/>
   </EffectSeems>
   <EffectLogs>
     <str id="You are no longer %s." value="You are no longer %s."/>
@@ -1023,33 +1023,33 @@
     <str id="%s turns corporeal." value="%s turns corporeal."/>
   </EffectLogs>
   <TalentNames>
-    <str id="Aimed Shot" value="Aimed Shot" local="Ranged attack that causes D3 extra damage instead of 1 for each point of agility bonus modifier."/>
-    <str id="Multi Shot" value="Multi Shot" local="Ranged attack that hits up to agility bonus modifier number of extra targets."/>
-    <str id="Quick Shot" value="Quick Shot" local="Ranged attack that allows the creature to move before taking the shot."/>
-    <str id="Steady Shot" value="Steady Shot" local="Ranged attack that allows the creature to re-roll a failed to-hit check and doubles damage if used while hidden."/>
-    <str id="Blade Flurry" value="Blade Flurry" local="Melee attack that gains up to one extra attack per weapon (at +1 and +3 AGI). Blade Flurry requires either two small"/>
-    <str id="Deadly Throw" value="Deadly Throw" local="Thrown weapon attack that causes D3 extra damage instead of 1 for each point of strength or agility bonus modifier,"/>
-    <str id="Heroic Charge" value="Heroic Charge" local="Allows the creature to move up to two spaces and attack a target at the end of the move."/>
-    <str id="Crushing Blow" value="Crushing Blow" local="Melee attack that causes D3 extra damage instead of 1 for each point of strength bonus modifier."/>
-    <str id="Killing Blow" value="Killing Blow" local="Melee attack that can instantly kill the target creature on hit (if the attack hits and the to-hit roll is a pair)."/>
-    <str id="Sweeping Blow" value="Sweeping Blow" local="Melee attack that hits the target creature and up to +STR adjacent targets. Requires a medium or large weapon and"/>
-    <str id="Shield Bash" value="Shield Bash" local="Shield attack that can knock back and stun the target for D3 turns. This attack cannot be blocked, dodged, or"/>
-    <str id="Silent Move" value="Silent Move" local="Move action that hides the creature in plain sight. Melee attacks made while hidden cause double damage and"/>
-    <str id="Literacy: Common" value="Literacy: Common" local="Allows the creature to read and write Common, cast spells scribed on scrolls and zap with wands."/>
-    <str id="Literacy: Celestial" value="Literacy: Celestial" local="Allows the creature to learn Celestial spells from magical tomes. Celestial spells always use Max Cast Modifier of 2"/>
-    <str id="Literacy: Draconic" value="Literacy: Draconic" local="Allows the creature to learn Draconic spells from magical tomes."/>
-    <str id="Literacy: Infernal" value="Literacy: Infernal" local="Allows the creature to learn Infernal spells from magical tomes."/>
-    <str id="Focused Cast" value="Focused Cast" local="Allows the creature to cast spells at any space within line of sight. Direct damage and healing spells receive extra"/>
-    <str id="Silent Cast" value="Silent Cast" local="Allows the creature to cast spells while silenced and halves spell to-hit range modifier rounding down."/>
-    <str id="Dark Vision" value="Dark Vision" local="Increases light radius by 1 and halves ranged attack to-hit range modifier rounding down."/>
-    <str id="Dual Wield" value="Dual Wield" local="Offhand attacks no longer receive penalties to hit and damage and parry modifier equals to agility bonus modifier"/>
-    <str id="Keen Eye" value="Keen Eye" local="Allows the creature to re-roll failed search checks, increases search radius by 1 and grants a free action that"/>
-    <str id="Sixth Sense" value="Sixth Sense" local="Allows the creature to to re-roll failed reflex checks and shows a warning before picking up or equipping an"/>
-    <str id="Strong Will" value="Strong Will" local="Allows the creature to re-roll failed mental checks and halves the duration of charm, envy, fear, frenzy, greed, lust"/>
-    <str id="Trap Master" value="Trap Master" local="Allows the creature to see hidden bear traps and step on them without triggering the effects and allows the"/>
-    <str id="Shapeshift: Wolf" value="Shapeshift: Wolf" local="Shapeshifts the creature into a wolf and replaces all talents with Heroic Charge, Silent Move, Sixth Sense and"/>
-    <str id="Shapeshift: Bear" value="Shapeshift: Bear" local="Shapeshifts the creature into a bear and replaces all talents with Heroic Charge, Crushing Blow, Strong Will and"/>
-    <str id="Bestial Wrath" value="Bestial Wrath" local="Increases physical damage by D3 while shapeshifted. This talent is also improved by the following heritages:"/>
+    <str id="Aimed Shot" value="Aimed Shot"/>
+    <str id="Multi Shot" value="Multi Shot"/>
+    <str id="Quick Shot" value="Quick Shot"/>
+    <str id="Steady Shot" value="Steady Shot"/>
+    <str id="Blade Flurry" value="Blade Flurry"/>
+    <str id="Deadly Throw" value="Deadly Throw"/>
+    <str id="Heroic Charge" value="Heroic Charge"/>
+    <str id="Crushing Blow" value="Crushing Blow"/>
+    <str id="Killing Blow" value="Killing Blow"/>
+    <str id="Sweeping Blow" value="Sweeping Blow"/>
+    <str id="Shield Bash" value="Shield Bash"/>
+    <str id="Silent Move" value="Silent Move"/>
+    <str id="Literacy: Common" value="Literacy: Common"/>
+    <str id="Literacy: Celestial" value="Literacy: Celestial"/>
+    <str id="Literacy: Draconic" value="Literacy: Draconic"/>
+    <str id="Literacy: Infernal" value="Literacy: Infernal"/>
+    <str id="Focused Cast" value="Focused Cast"/>
+    <str id="Silent Cast" value="Silent Cast"/>
+    <str id="Dark Vision" value="Dark Vision"/>
+    <str id="Dual Wield" value="Dual Wield"/>
+    <str id="Keen Eye" value="Keen Eye"/>
+    <str id="Sixth Sense" value="Sixth Sense"/>
+    <str id="Strong Will" value="Strong Will"/>
+    <str id="Trap Master" value="Trap Master"/>
+    <str id="Shapeshift: Wolf" value="Shapeshift: Wolf"/>
+    <str id="Shapeshift: Bear" value="Shapeshift: Bear"/>
+    <str id="Bestial Wrath" value="Bestial Wrath"/>
   </TalentNames>
   <TalentDescs>
     <str id="Aimed Shot" value="Ranged attack that causes D3 extra damage instead of 1 for each point of agility bonus modifier."/>
@@ -1119,79 +1119,79 @@
     </str>
   </TalentDescs>
   <SpellNames>
-    <str id="Cure Disease" value="Cure Disease" local="Attempts to remove one disease effect from the target creature."/>
-    <str id="Cure Poison" value="Cure Poison" local="Attempts to remove one poison effect from the target creature."/>
-    <str id="Dispel Magic" value="Dispel Magic" local="Attempts to remove one magical effect from the target creature, location or an item in the caster's inventory."/>
-    <str id="Divine Grace" value="Divine Grace" local="It increases agility and charisma by 1 and physical, poison and disease resistances by 1."/>
-    <str id="Divine Might" value="Divine Might" local="It increases strength and stamina by 1 and fire, frost and shock resistances by 1."/>
-    <str id="Divine Reach" value="Divine Reach" local="It allows you to cast spells at any target within line of sight."/>
-    <str id="Healing Touch" value="Healing Touch" local="Heals the target creature and attempts to restore one point of ability damage."/>
-    <str id="Healing Wave" value="Healing Wave" local="Heals the target creature and all adjacent creatures."/>
-    <str id="Renewing Touch" value="Renewing Touch" local="It heals you for D3 + CHA points per turn."/>
-    <str id="Turn Undead" value="Turn Undead" local="Causes magic damage or instantly kills the target undead creature."/>
-    <str id="Amplify Magic" value="Amplify Magic" local="It amplifies the damage of orb spells by D6."/>
-    <str id="Electric Orb" value="Electric Orb" local="Causes shock damage to the target creature and has a chance of paralysing the target."/>
-    <str id="Enlarge Orb" value="Enlarge Orb" local="It causes the next orb spell to explode upon impact causing an additional D6 + STA points of damage and the"/>
-    <str id="Flaming Orb" value="Flaming Orb" local="Causes fire damage to the target creature and has a chance of setting the target on fire."/>
-    <str id="Frozen Orb" value="Frozen Orb" local="Causes frost damage to the target creature and has a chance of slowing the target."/>
-    <str id="Illumination" value="Illumination" local="It increases light radius and search radius by 1."/>
-    <str id="Mage Armour" value="Mage Armour" local="It increases all resistances by a number equal to STA / 2, or 1, whichever is higher. This effect is automatically"/>
-    <str id="Mirror Image" value="Mirror Image" local="You should never be able to see this text unless you become an illusion."/>
-    <str id="Remove Curse" value="Remove Curse" local="Attempts to remove one curse effect from the target creature, location or an item in the caster's inventory."/>
-    <str id="Telekinesis" value="Telekinesis" local="Allows the caster to magically use remote objects such as doors, chests, levers and so on."/>
-    <str id="Banish Daemon" value="Banish Daemon" local="Causes magic damage or instantly kills the target daemon."/>
-    <str id="Bestow Curse" value="Bestow Curse" local="Attempts to place a random curse effect on the target creature or Curse of Agony if the check fails."/>
-    <str id="Capture Soul" value="Capture Soul" local="It captures your soul in a gem upon death."/>
-    <str id="Demonic Visage" value="Demonic Visage" local="It makes your face resemble that of a Kling'On and any creature attempting to attack you must pass a mental check"/>
-    <str id="Enslave Daemon" value="Enslave Daemon" local="You should never be able to see this text unless you become a daemon."/>
-    <str id="Plane Shift" value="Plane Shift" local="Attempts to teleport the caster to another location within line of sight."/>
-    <str id="Release Soul" value="Release Soul" local="Releases a soul from a random soul gem on the target creature or an item in the caster's inventory."/>
-    <str id="Summon Daemon" value="Summon Daemon" local="Attempts to summon a daemon and then attempts to enslave it."/>
-    <str id="Venomous Orb" value="Venomous Orb" local="Causes poison damage to the target creature and has a chance of applying a random poison effect."/>
-    <str id="Virulent Orb" value="Virulent Orb" local="Causes disease damage to the target creature and has a chance of applying a random disease effect."/>
-    <str id="Divine Shield" value="Divine Shield" local="It normally absorbs up to 30 points of damage before wearing off."/>
-    <str id="Conjure Daemon" value="Conjure Daemon" local="Summons a lesser daemon at the target location and enslaves it."/>
-    <str id="Identify Item" value="Identify Item" local="Identifies the targeted item in the caster's inventory."/>
-    <str id="Enchant Item" value="Enchant Item" local="Enchants the targeted item in the caster's inventory with a random enchant."/>
-    <str id="Elemental Orb" value="Elemental Orb" local="Causes fire, frost and shock damage to the target and all adjacent creatures."/>
-    <str id="Clone Creature" value="Clone Creature" local="Creates a clone of the target creature that aids the caster for awhile."/>
-    <str id="Animate Dead" value="Animate Dead" local="Permanently turns a dead human into an undead familiar."/>
-    <str id="Transmute Item" value="Transmute Item" local="Transmutes the targeted item in the caster's inventory into gold coins."/>
-    <str id="Arcane Missile" value="Arcane Missile" local="Causes magic damage or instantly kills the target creature."/>
-    <str id="Alter Terrain" value="Alter Terrain" local="Increases or decreases the height of terrain on even or odd turns respectively."/>
+    <str id="Cure Disease" value="Cure Disease"/>
+    <str id="Cure Poison" value="Cure Poison"/>
+    <str id="Dispel Magic" value="Dispel Magic"/>
+    <str id="Divine Grace" value="Divine Grace"/>
+    <str id="Divine Might" value="Divine Might"/>
+    <str id="Divine Reach" value="Divine Reach"/>
+    <str id="Healing Touch" value="Healing Touch"/>
+    <str id="Healing Wave" value="Healing Wave"/>
+    <str id="Renewing Touch" value="Renewing Touch"/>
+    <str id="Turn Undead" value="Turn Undead"/>
+    <str id="Amplify Magic" value="Amplify Magic"/>
+    <str id="Electric Orb" value="Electric Orb"/>
+    <str id="Enlarge Orb" value="Enlarge Orb"/>
+    <str id="Flaming Orb" value="Flaming Orb"/>
+    <str id="Frozen Orb" value="Frozen Orb"/>
+    <str id="Illumination" value="Illumination"/>
+    <str id="Mage Armour" value="Mage Armour"/>
+    <str id="Mirror Image" value="Mirror Image"/>
+    <str id="Remove Curse" value="Remove Curse"/>
+    <str id="Telekinesis" value="Telekinesis"/>
+    <str id="Banish Daemon" value="Banish Daemon"/>
+    <str id="Bestow Curse" value="Bestow Curse"/>
+    <str id="Capture Soul" value="Capture Soul"/>
+    <str id="Demonic Visage" value="Demonic Visage"/>
+    <str id="Enslave Daemon" value="Enslave Daemon"/>
+    <str id="Plane Shift" value="Plane Shift"/>
+    <str id="Release Soul" value="Release Soul"/>
+    <str id="Summon Daemon" value="Summon Daemon"/>
+    <str id="Venomous Orb" value="Venomous Orb"/>
+    <str id="Virulent Orb" value="Virulent Orb"/>
+    <str id="Divine Shield" value="Divine Shield"/>
+    <str id="Conjure Daemon" value="Conjure Daemon"/>
+    <str id="Identify Item" value="Identify Item"/>
+    <str id="Enchant Item" value="Enchant Item"/>
+    <str id="Elemental Orb" value="Elemental Orb"/>
+    <str id="Clone Creature" value="Clone Creature"/>
+    <str id="Animate Dead" value="Animate Dead"/>
+    <str id="Transmute Item" value="Transmute Item"/>
+    <str id="Arcane Missile" value="Arcane Missile"/>
+    <str id="Alter Terrain" value="Alter Terrain"/>
   </SpellNames>
   <SpellDescs>
     <str id="Cure Disease" value="Attempts to remove one disease effect from the target creature."/>
     <str id="Cure Poison" value="Attempts to remove one poison effect from the target creature."/>
     <str id="Dispel Magic" value="Attempts to remove one magical effect from the target creature, location or an item in the caster's inventory."/>
-    <str id="Divine Grace" value="Increases agility and charisma and physical, poison and disease resistances." local="It increases agility and charisma by 1 and physical, poison and disease resistances by 1."/>
-    <str id="Divine Might" value="Increases strength and stamina and fire, frost and shock resistances." local="It increases strength and stamina by 1 and fire, frost and shock resistances by 1."/>
-    <str id="Divine Reach" value="Allows you to cast spells at any target within line of sight or halves the spell to-hit range modifier." local="It allows you to cast spells at any target within line of sight."/>
+    <str id="Divine Grace" value="Increases agility and charisma and physical, poison and disease resistances."/>
+    <str id="Divine Might" value="Increases strength and stamina and fire, frost and shock resistances."/>
+    <str id="Divine Reach" value="Allows you to cast spells at any target within line of sight or halves the spell to-hit range modifier."/>
     <str id="Healing Touch" value="Heals the target creature and attempts to restore one point of ability damage."/>
     <str id="Healing Wave" value="Heals the target creature and all adjacent creatures."/>
-    <str id="Renewing Touch" value="Places a heal over time effect on the target creature." local="It heals you for D3 + CHA points per turn."/>
+    <str id="Renewing Touch" value="Places a heal over time effect on the target creature."/>
     <str id="Turn Undead" value="Causes magic damage or instantly kills the target undead creature."/>
-    <str id="Amplify Magic" value="Places a magical effect on you that amplifies the damage of orb spells." local="It amplifies the damage of orb spells by D6."/>
+    <str id="Amplify Magic" value="Places a magical effect on you that amplifies the damage of orb spells."/>
     <str id="Electric Orb" value="Causes shock damage to the target creature and has a chance of paralysing the target."/>
-    <str id="Enlarge Orb" value="Places a magical effect on you that enlarges the next orb spell cast while the effect lasts." local="It causes the next orb spell to explode upon impact causing an additional D6 + STA points of damage and the"/>
+    <str id="Enlarge Orb" value="Places a magical effect on you that enlarges the next orb spell cast while the effect lasts."/>
     <str id="Flaming Orb" value="Causes fire damage to the target creature and has a chance of setting the target on fire."/>
     <str id="Frozen Orb" value="Causes frost damage to the target creature and has a chance of slowing the target."/>
-    <str id="Illumination" value="Places a magical effect on all creatures within line of sight that increases light and search radius." local="It increases light radius and search radius by 1."/>
-    <str id="Mage Armour" value="Places a magical effect on you that increases all resistances (the effect is removed if your equipment changes)." local="It increases all resistances by a number equal to STA / 2, or 1, whichever is higher. This effect is automatically"/>
-    <str id="Mirror Image" value="Creates a duplicate of the caster that can distract enemies." local="You should never be able to see this text unless you become an illusion."/>
+    <str id="Illumination" value="Places a magical effect on all creatures within line of sight that increases light and search radius."/>
+    <str id="Mage Armour" value="Places a magical effect on you that increases all resistances (the effect is removed if your equipment changes)."/>
+    <str id="Mirror Image" value="Creates a duplicate of the caster that can distract enemies."/>
     <str id="Remove Curse" value="Attempts to remove one curse effect from the target creature, location or an item in the caster's inventory."/>
     <str id="Telekinesis" value="Allows the caster to magically use remote objects such as doors, chests, levers and so on."/>
     <str id="Banish Daemon" value="Causes magic damage or instantly kills the target daemon."/>
     <str id="Bestow Curse" value="Attempts to place a random curse effect on the target creature or Curse of Agony if the check fails."/>
-    <str id="Capture Soul" value="Places a magical effect on the target creature that turns its soul to a soul gem upon death." local="It captures your soul in a gem upon death."/>
-    <str id="Demonic Visage" value="Places a magical effect on you that forces attackers to take a fear check." local="It makes your face resemble that of a Kling'On and any creature attempting to attack you must pass a mental check"/>
-    <str id="Enslave Daemon" value="Attempts to temporarily charm a daemon and make it your friend." local="You should never be able to see this text unless you become a daemon."/>
+    <str id="Capture Soul" value="Places a magical effect on the target creature that turns its soul to a soul gem upon death."/>
+    <str id="Demonic Visage" value="Places a magical effect on you that forces attackers to take a fear check."/>
+    <str id="Enslave Daemon" value="Attempts to temporarily charm a daemon and make it your friend."/>
     <str id="Plane Shift" value="Attempts to teleport the caster to another location within line of sight."/>
     <str id="Release Soul" value="Releases a soul from a random soul gem on the target creature or an item in the caster's inventory."/>
     <str id="Summon Daemon" value="Attempts to summon a daemon and then attempts to enslave it."/>
     <str id="Venomous Orb" value="Causes poison damage to the target creature and has a chance of applying a random poison effect."/>
     <str id="Virulent Orb" value="Causes disease damage to the target creature and has a chance of applying a random disease effect."/>
-    <str id="Divine Shield" value="Creates a shield around the caster that absorbs damage until it breaks." local="It normally absorbs up to 30 points of damage before wearing off."/>
+    <str id="Divine Shield" value="Creates a shield around the caster that absorbs damage until it breaks."/>
     <str id="Conjure Daemon" value="Summons a lesser daemon at the target location and enslaves it."/>
     <str id="Identify Item" value="Identifies the targeted item in the caster's inventory."/>
     <str id="Enchant Item" value="Enchants the targeted item in the caster's inventory with a random enchant."/>
@@ -1273,10 +1273,10 @@
     <str id="Symbol of Vigor" value="Symbol of Vigor"/>
   </EnchantNames>
   <EnchantEffects>
-    <str id="+1 Agility" value="+1 Agility" local="Your agility is increased by 1."/>
-    <str id="+1 Charisma" value="+1 Charisma" local="Your charisma is increased by 1."/>
-    <str id="+1 Stamina" value="+1 Stamina" local="Your stamina is increased by 1."/>
-    <str id="+1 Strength" value="+1 Strength" local="Your strength is increased by 1."/>
+    <str id="+1 Agility" value="+1 Agility"/>
+    <str id="+1 Charisma" value="+1 Charisma"/>
+    <str id="+1 Stamina" value="+1 Stamina"/>
+    <str id="+1 Strength" value="+1 Strength"/>
     <str id="Immune to Blind" value="Immune to Blind"/>
     <str id="Immune to Charm" value="Immune to Charm"/>
     <str id="Immune to Confuse" value="Immune to Confuse"/>
@@ -1598,36 +1598,36 @@
   </AddonDescs>
   <AmuletNames>
     <str id="Amulet" value="Amulet"/>
-    <str id="Amulet of Abjuration" value="Amulet of Abjuration" local="Teaches a spell that creates a shield around yourself."/>
-    <str id="Amulet of Asphyxia" value="Amulet of Asphyxia" local="Suffocates the wearer over time. This amulet cannot be unequipped."/>
-    <str id="Amulet of Conjuration" value="Amulet of Conjuration" local="Teaches a spell that conjures daemons out of thin air."/>
-    <str id="Amulet of Divination" value="Amulet of Divination" local="Teaches a spell that identifies magical properties of an item."/>
-    <str id="Amulet of Enchantment" value="Amulet of Enchantment" local="Teaches a spell that enchants an item with magical properties."/>
-    <str id="Amulet of Evocation" value="Amulet of Evocation" local="Teaches an orb spell that causes a moderate elemental explosion."/>
-    <str id="Amulet of Exhaustion" value="Amulet of Exhaustion" local="Exhausts the wearer over time. This amulet cannot be unequipped."/>
-    <str id="Amulet of Fire Ward" value="Amulet of Fire Ward" local="Grants immunity against fire effects."/>
-    <str id="Amulet of Free Action" value="Amulet of Free Action" local="Grants a haste effect and immunity against slow effects."/>
-    <str id="Amulet of Frost Ward" value="Amulet of Frost Ward" local="Grants immunity against frost effects."/>
-    <str id="Amulet of Ghost Form" value="Amulet of Ghost Form" local="Ethereal: Halves physical, poison and disease damage but doubles magical and elemental damage taken."/>
-    <str id="Amulet of Illusion" value="Amulet of Illusion" local="Teaches a spell that creates a clone of another creature."/>
-    <str id="Amulet of Necromancy" value="Amulet of Necromancy" local="Teaches a spell that turns dead humans into undead familiars."/>
-    <str id="Amulet of Nine Lives" value="Amulet of Nine Lives" local="Restores the wearer to full health and energy upon death... (sometimes)"/>
-    <str id="Amulet of Pestilence" value="Amulet of Pestilence" local="Oh my G'awd... they killed Ken'nih. You bastards!"/>
-    <str id="Amulet of Protection" value="Amulet of Protection" local="Grants immunity against stun effects."/>
-    <str id="Amulet of Reflection" value="Amulet of Reflection" local="Reflects weapon and orb spell damage back at the attacker... (sometimes)"/>
-    <str id="Amulet of Seven Keys" value="Amulet of Seven Keys" local="Allows the wearer to automatically pick locks and moving no longer breaks stealth."/>
-    <str id="Amulet of Shock Ward" value="Amulet of Shock Ward" local="Grants immunity against shock effects."/>
-    <str id="Amulet of Stone Form" value="Amulet of Stone Form" local="Turns the wearer to stone over time. This amulet cannot be unequipped."/>
-    <str id="Amulet of Transmutation" value="Amulet of Transmutation" local="Teaches a spell that transmutes an item into gold coins."/>
-    <str id="Amulet of Yendor" value="Amulet of Yendor" local="Adorable piece of jewelry, contains no magical powers though."/>
-    <str id="Amulet of Battlemage" value="Amulet of Battlemage" local="Ignores negative effects to spellcasting while wearing armour and or shield."/>
-    <str id="Amulet of Domination" value="Amulet of Domination" local="Every point of damage you cause has a 17% chance to charm the target for 1 turn."/>
-    <str id="Amulet of Geomancy" value="Amulet of Geomancy" local="Teaches a spell that allows you to alter the terrain height from chasms to walls."/>
-    <str id="Amulet of Radiance" value="Amulet of Radiance" local="Gives you an aura with a radius of 1. Auras also make you immune to their effects."/>
-    <str id="Amulet of Sacrifice" value="Amulet of Sacrifice" local="This must be equipped in order to sacrifice something using a sacrificial circle and a ritual."/>
-    <str id="Amulet of Submission" value="Amulet of Submission" local="Every point of damage you receive has a 17% chance to charm you for 1 turn. This amulet cannot be unequipped."/>
-    <str id="Amulet of Uberlyft" value="Amulet of Uberlyft" local="Travel button now works after clearing 50% of the current level."/>
-    <str id="Amulet of Wizardry" value="Amulet of Wizardry" local="Teaches a spell that causes magic damage or instantly kills the target creature."/>
+    <str id="Amulet of Abjuration" value="Amulet of Abjuration"/>
+    <str id="Amulet of Asphyxia" value="Amulet of Asphyxia"/>
+    <str id="Amulet of Conjuration" value="Amulet of Conjuration"/>
+    <str id="Amulet of Divination" value="Amulet of Divination"/>
+    <str id="Amulet of Enchantment" value="Amulet of Enchantment"/>
+    <str id="Amulet of Evocation" value="Amulet of Evocation"/>
+    <str id="Amulet of Exhaustion" value="Amulet of Exhaustion"/>
+    <str id="Amulet of Fire Ward" value="Amulet of Fire Ward"/>
+    <str id="Amulet of Free Action" value="Amulet of Free Action"/>
+    <str id="Amulet of Frost Ward" value="Amulet of Frost Ward"/>
+    <str id="Amulet of Ghost Form" value="Amulet of Ghost Form"/>
+    <str id="Amulet of Illusion" value="Amulet of Illusion"/>
+    <str id="Amulet of Necromancy" value="Amulet of Necromancy"/>
+    <str id="Amulet of Nine Lives" value="Amulet of Nine Lives"/>
+    <str id="Amulet of Pestilence" value="Amulet of Pestilence"/>
+    <str id="Amulet of Protection" value="Amulet of Protection"/>
+    <str id="Amulet of Reflection" value="Amulet of Reflection"/>
+    <str id="Amulet of Seven Keys" value="Amulet of Seven Keys"/>
+    <str id="Amulet of Shock Ward" value="Amulet of Shock Ward"/>
+    <str id="Amulet of Stone Form" value="Amulet of Stone Form"/>
+    <str id="Amulet of Transmutation" value="Amulet of Transmutation"/>
+    <str id="Amulet of Yendor" value="Amulet of Yendor"/>
+    <str id="Amulet of Battlemage" value="Amulet of Battlemage"/>
+    <str id="Amulet of Domination" value="Amulet of Domination"/>
+    <str id="Amulet of Geomancy" value="Amulet of Geomancy"/>
+    <str id="Amulet of Radiance" value="Amulet of Radiance"/>
+    <str id="Amulet of Sacrifice" value="Amulet of Sacrifice"/>
+    <str id="Amulet of Submission" value="Amulet of Submission"/>
+    <str id="Amulet of Uberlyft" value="Amulet of Uberlyft"/>
+    <str id="Amulet of Wizardry" value="Amulet of Wizardry"/>
   </AmuletNames>
   <AmuletDescs>
     <str id="AmuletDesc" value="Primarily used by people who have strangulation fantasies, but they do occasionally work for others too."/>
@@ -1724,9 +1724,9 @@
     <str id="Fine Plate Helm" value="Fine Plate Helm"/>
     <str id="Royal Armour" value="Royal Armour"/>
     <str id="Royal Helm" value="Royal Helm"/>
-    <str id="Hardened Skin" value="Hardened Skin" local="Grants Woof +1 physical resistance."/>
-    <str id="Winter Fur Coat" value="Winter Fur Coat" local="Upgrades Woof's Hardened Skin to +2 physical resistance and +1 chromatic resistance at level 3."/>
-    <str id="Arctic Fur Coat" value="Arctic Fur Coat" local="Upgrades Woof's Hardened Skin to +3 physical resistance and +2 chromatic resistance at level 6."/>
+    <str id="Hardened Skin" value="Hardened Skin"/>
+    <str id="Winter Fur Coat" value="Winter Fur Coat"/>
+    <str id="Arctic Fur Coat" value="Arctic Fur Coat"/>
   </ArmourNames>
   <ArmourDescs>
     <str id="ArmourDesc" value="Note that wearing an armour may hinder spellcasting, dodging, climbing and or jumping."/>
@@ -1743,20 +1743,20 @@
     <str id="White" value="White"/>
   </ArmourDescs>
   <ArrowNames>
-    <str id="Stick" value="Stick" local="Even these simple sticks can hurt you if they are propelled by enough force."/>
-    <str id="Arrow" value="Arrow" local="The bowman's recipe of win: head, shaft and fletching propelled by enough force."/>
-    <str id="Fine Arrow" value="Fine Arrow" local="The sinister colour on these makes them more powerful than ordinary arrows."/>
-    <str id="Bolt" value="Bolt" local="The crossbowman's recipe of win: take a bolt and use more than enough force."/>
-    <str id="Fine Bolt" value="Fine Bolt" local="The sinister colour on these makes them more powerful than ordinary bolts."/>
-    <str id="Knabstick" value="Knabstick" local="All of the tears shed by knabs makes these arrows lighter than a feather."/>
+    <str id="Stick" value="Stick"/>
+    <str id="Arrow" value="Arrow"/>
+    <str id="Fine Arrow" value="Fine Arrow"/>
+    <str id="Bolt" value="Bolt"/>
+    <str id="Fine Bolt" value="Fine Bolt"/>
+    <str id="Knabstick" value="Knabstick"/>
   </ArrowNames>
   <ArrowStacks>
-    <str id="Stick" value="Sticks" local="Even these simple sticks can hurt you if they are propelled by enough force."/>
-    <str id="Arrow" value="Arrows" local="The bowman's recipe of win: head, shaft and fletching propelled by enough force."/>
-    <str id="Fine Arrow" value="Fine Arrows" local="The sinister colour on these makes them more powerful than ordinary arrows."/>
-    <str id="Bolt" value="Bolts" local="The crossbowman's recipe of win: take a bolt and use more than enough force."/>
-    <str id="Fine Bolt" value="Fine Bolts" local="The sinister colour on these makes them more powerful than ordinary bolts."/>
-    <str id="Knabstick" value="Knabsticks" local="All of the tears shed by knabs makes these arrows lighter than a feather."/>
+    <str id="Stick" value="Sticks"/>
+    <str id="Arrow" value="Arrows"/>
+    <str id="Fine Arrow" value="Fine Arrows"/>
+    <str id="Bolt" value="Bolts"/>
+    <str id="Fine Bolt" value="Fine Bolts"/>
+    <str id="Knabstick" value="Knabsticks"/>
   </ArrowStacks>
   <ArrowDescs>
     <str id="Stick" value="Even these simple sticks can hurt you if they are propelled by enough force."/>
@@ -1768,68 +1768,68 @@
   </ArrowDescs>
   <CharmNames>
     <str id="Charm" value="Charm"/>
-    <str id="Lucky Number Seven" value="Lucky Number Seven" local="All physical damage you deal to enemies also bleeds gold coins."/>
-    <str id="Fluffy Rabbit's Foot" value="Fluffy Rabbit's Foot" local="Grants immunity against stun effects."/>
-    <str id="Fragment of Volcanus" value="Fragment of Volcanus" local="Doubles the effect of fire damage enchants on weapons."/>
-    <str id="Fragment of Aquarius" value="Fragment of Aquarius" local="Doubles the effect of frost damage enchants on weapons."/>
-    <str id="Fragment of Aetherus" value="Fragment of Aetherus" local="Doubles the effect of shock damage enchants on weapons."/>
-    <str id="Fragment of Terranus" value="Fragment of Terranus" local="Increases minimum and maximum block modifier by 1."/>
-    <str id="Eye of the Beholder" value="Eye of the Beholder" local="You appear to be twice as far than you actually are (at least when calculating range modifiers)."/>
-    <str id="Crystal Tear of a Maiden" value="Crystal Tear of a Maiden" local="Increases max cast modifier of Celestial spells by 1."/>
-    <str id="Misplaced Dragon Egg" value="Misplaced Dragon Egg" local="Increases max cast modifier of Draconic spells by 1."/>
-    <str id="Pulsating Daemon's Heart" value="Pulsating Daemon's Heart" local="Increases max cast modifier of Infernal spells by 1."/>
-    <str id="Book of Fading Memories" value="Book of Fading Memories" local="Every turn spent resting with this book makes you forget a random knowledge."/>
-    <str id="Manuscript of Knowledge" value="Manuscript of Knowledge" local="All items are automatically identified when they are picked up."/>
-    <str id="High Capacity Quiver" value="High Capacity Quiver" local="Doubles the maximum stack size of bolts and arrows."/>
-    <str id="Third Leg of the Imp" value="Third Leg of the Imp" local="Use this demonic appendage with a blessed ring to permanently bind the ring's power on it."/>
-    <str id="Stone of Arcane Power" value="Stone of Arcane Power" local="Reduces the cooldown of Arcane spells by 50%."/>
-    <str id="Star Spangled Cap" value="Star Spangled Cap" local="Sadly, all this cap does is that it enrages demonrats when they see a person carrying one."/>
-    <str id="Glove of Liberalism" value="Glove of Liberalism" local="Increases physical damage by 50% against daemons."/>
-    <str id="Wristband of Liberalism" value="Wristband of Liberalism" local="Daemons must pass a mental check in order to attack you."/>
-    <str id="Black Meistercard" value="Black Meistercard" local="You can enchant items for free, at least until credits run out."/>
-    <str id="Deadly Ghoul Tooth" value="Deadly Ghoul Tooth" local="You can say 'Molar Varghulis' for dramatic effect when you throw this at your enemy."/>
-    <str id="Mad Torque Slingshot" value="Mad Torque Slingshot" local="Increases the maximum range of thrown rocks by 60% and converts their damage type to magical."/>
-    <str id="Duelist's Wristbow" value="Duelist's Wristbow" local="Shoots a bolt back at the attacker when you parry an attack."/>
-    <str id="Uberlyft's Lost Shoe" value="Uberlyft's Lost Shoe" local="Travel button works in town now and it takes you back to where you left."/>
-    <str id="Creepy Stone Face" value="Creepy Stone Face" local="Allows you to see health bars on all visible creatures."/>
-    <str id="Golden Chastity Key" value="Golden Chastity Key" local="When you pick a locked chest, a critical success adds blessed loot in the chest."/>
-    <str id="Loose Weapon Chain" value="Loose Weapon Chain" local="Grants immunity against disarm effects."/>
-    <str id="Time Dilation Device" value="Time Dilation Device" local="You can use this earring to make the game consider all turns as either even or odd."/>
-    <str id="Fishing Hook and Line" value="Fishing Hook and Line" local="Water chasms can now be used to catch fish."/>
-    <str id="Fairy Jizzed Bull Horn" value="Fairy Jizzed Bull Horn" local="Allows apprentice wizards to learn and cast Bestial spells while levitating (it's those fairies, duh)."/>
-    <str id="Engraved Pyramidion" value="Engraved Pyramidion" local="Allows apprentice wizards to learn and cast Abyssal spells while standing in a sacrificial circle."/>
+    <str id="Lucky Number Seven" value="Lucky Number Seven"/>
+    <str id="Fluffy Rabbit's Foot" value="Fluffy Rabbit's Foot"/>
+    <str id="Fragment of Volcanus" value="Fragment of Volcanus"/>
+    <str id="Fragment of Aquarius" value="Fragment of Aquarius"/>
+    <str id="Fragment of Aetherus" value="Fragment of Aetherus"/>
+    <str id="Fragment of Terranus" value="Fragment of Terranus"/>
+    <str id="Eye of the Beholder" value="Eye of the Beholder"/>
+    <str id="Crystal Tear of a Maiden" value="Crystal Tear of a Maiden"/>
+    <str id="Misplaced Dragon Egg" value="Misplaced Dragon Egg"/>
+    <str id="Pulsating Daemon's Heart" value="Pulsating Daemon's Heart"/>
+    <str id="Book of Fading Memories" value="Book of Fading Memories"/>
+    <str id="Manuscript of Knowledge" value="Manuscript of Knowledge"/>
+    <str id="High Capacity Quiver" value="High Capacity Quiver"/>
+    <str id="Third Leg of the Imp" value="Third Leg of the Imp"/>
+    <str id="Stone of Arcane Power" value="Stone of Arcane Power"/>
+    <str id="Star Spangled Cap" value="Star Spangled Cap"/>
+    <str id="Glove of Liberalism" value="Glove of Liberalism"/>
+    <str id="Wristband of Liberalism" value="Wristband of Liberalism"/>
+    <str id="Black Meistercard" value="Black Meistercard"/>
+    <str id="Deadly Ghoul Tooth" value="Deadly Ghoul Tooth"/>
+    <str id="Mad Torque Slingshot" value="Mad Torque Slingshot"/>
+    <str id="Duelist's Wristbow" value="Duelist's Wristbow"/>
+    <str id="Uberlyft's Lost Shoe" value="Uberlyft's Lost Shoe"/>
+    <str id="Creepy Stone Face" value="Creepy Stone Face"/>
+    <str id="Golden Chastity Key" value="Golden Chastity Key"/>
+    <str id="Loose Weapon Chain" value="Loose Weapon Chain"/>
+    <str id="Time Dilation Device" value="Time Dilation Device"/>
+    <str id="Fishing Hook and Line" value="Fishing Hook and Line"/>
+    <str id="Fairy Jizzed Bull Horn" value="Fairy Jizzed Bull Horn"/>
+    <str id="Engraved Pyramidion" value="Engraved Pyramidion"/>
   </CharmNames>
   <CharmDescs>
-    <str id="Lucky Number Seven" value="The house always wins, the sooner you realise that the better." local="All physical damage you deal to enemies also bleeds gold coins."/>
-    <str id="Fluffy Rabbit's Foot" value="This hare was privileged enough to limp away with the rest of its white limbs." local="Grants immunity against stun effects."/>
-    <str id="Fragment of Volcanus" value="If this is just a fragment, you wonder how hot the real thing would be." local="Doubles the effect of fire damage enchants on weapons."/>
-    <str id="Fragment of Aquarius" value="If this is just a fragment, you wonder how cold the real thing would be." local="Doubles the effect of frost damage enchants on weapons."/>
-    <str id="Fragment of Aetherus" value="If this is just a fragment, you wonder how windy the real thing would be." local="Doubles the effect of shock damage enchants on weapons."/>
-    <str id="Fragment of Terranus" value="If this is just a fragment, you wonder how tough the real thing would be." local="Increases minimum and maximum block modifier by 1."/>
-    <str id="Eye of the Beholder" value="No monsters were hurt while making this eye. It happened during the removal." local="You appear to be twice as far than you actually are (at least when calculating range modifiers)."/>
-    <str id="Crystal Tear of a Maiden" value="This tear was collected just before a young girl lost her innocence to a horde of savage raiders." local="Increases max cast modifier of Celestial spells by 1."/>
-    <str id="Misplaced Dragon Egg" value="The owner of this egg has to settle for one kingdom instead of seven." local="Increases max cast modifier of Draconic spells by 1."/>
-    <str id="Pulsating Daemon's Heart" value="This ticker just keeps on going. Perhaps it has some magic powers." local="Increases max cast modifier of Infernal spells by 1."/>
-    <str id="Book of Fading Memories" value="A gentleman bunny or hairy hands on the cover would've been too much, right?" local="Every turn spent resting with this book makes you forget a random knowledge."/>
-    <str id="Manuscript of Knowledge" value="So this is how you make items and game mechanics obsolete as time goes by." local="All items are automatically identified when they are picked up."/>
-    <str id="High Capacity Quiver" value="This turns any bow into an assault bow. Remember to shout out the name of your deity before mowing infidels." local="Doubles the maximum stack size of bolts and arrows."/>
-    <str id="Third Leg of the Imp" value="They say that Lyrion Bannister finally lost his mojo and the dwarves were no more. So sad." local="Use this demonic appendage with a blessed ring to permanently bind the ring's power on it."/>
-    <str id="Stone of Arcane Power" value="If this was black, the moon worshiping sand people would dance around it." local="Reduces the cooldown of Arcane spells by 50%."/>
-    <str id="Star Spangled Cap" value="Perhaps the 2020 written on the cap means that you win bigly." local="Sadly, all this cap does is that it enrages demonrats when they see a person carrying one."/>
-    <str id="Glove of Liberalism" value="Projects a terrible force when 'Kameha..', uhm, 'Ei' is spoken out loud." local="Increases physical damage by 50% against daemons."/>
-    <str id="Wristband of Liberalism" value="It reads 'Tafsa inte' in demonic, which roughly means 'Don't touch me' in common." local="Daemons must pass a mental check in order to attack you."/>
-    <str id="Black Meistercard" value="Debt is wealth that you never have to pay back. You should start accumulating now..." local="You can enchant items for free, at least until credits run out."/>
-    <str id="Deadly Ghoul Tooth" value="Isn't it weird that a ghoul tooth coin is the most powerful item in the game?" local="You can say 'Molar Varghulis' for dramatic effect when you throw this at your enemy."/>
-    <str id="Mad Torque Slingshot" value="Rubber will be invented in about a 1000 years. Until then, sinews and intestines will have to do." local="Increases the maximum range of thrown rocks by 60% and converts their damage type to magical."/>
-    <str id="Duelist's Wristbow" value="Anyone else get a scary, scarab-y, -ey, uhh whatever, feeling about this?" local="Shoots a bolt back at the attacker when you parry an attack."/>
-    <str id="Uberlyft's Lost Shoe" value="Clip-clop, clip-clop, Uberlyft needs its missing shoe to make you pop." local="Travel button works in town now and it takes you back to where you left."/>
-    <str id="Creepy Stone Face" value="The face of cultural appropriation panda when it got lei'd and someone said 'Aloha! Snackbar?'." local="Allows you to see health bars on all visible creatures."/>
-    <str id="Golden Chastity Key" value="These things would work if all the keys would match only one lock but when all keys match every lock..." local="When you pick a locked chest, a critical success adds blessed loot in the chest."/>
-    <str id="Loose Weapon Chain" value="Think about a tight weapon chain. Either your hand is ripped off or the chain limits your reach." local="Grants immunity against disarm effects."/>
-    <str id="Time Dilation Device" value="Wow. An unconfortably large earring in a game where there is no earring slot to equip it. Awesome." local="You can use this earring to make the game consider all turns as either even or odd."/>
-    <str id="Fishing Hook and Line" value="Oh well, this was one of those things that were never intended to be added but here we are." local="Water chasms can now be used to catch fish."/>
-    <str id="Fairy Jizzed Bull Horn" value="This horn wasn't able to avoid a busload of fairies that were offended by its toxic masculinity." local="Allows apprentice wizards to learn and cast Bestial spells while levitating (it's those fairies, duh)."/>
-    <str id="Engraved Pyramidion" value="This symbolizes the abyssal ways of clipping tips and tops of things that protrude too much." local="Allows apprentice wizards to learn and cast Abyssal spells while standing in a sacrificial circle."/>
+    <str id="Lucky Number Seven" value="The house always wins, the sooner you realise that the better."/>
+    <str id="Fluffy Rabbit's Foot" value="This hare was privileged enough to limp away with the rest of its white limbs."/>
+    <str id="Fragment of Volcanus" value="If this is just a fragment, you wonder how hot the real thing would be."/>
+    <str id="Fragment of Aquarius" value="If this is just a fragment, you wonder how cold the real thing would be."/>
+    <str id="Fragment of Aetherus" value="If this is just a fragment, you wonder how windy the real thing would be."/>
+    <str id="Fragment of Terranus" value="If this is just a fragment, you wonder how tough the real thing would be."/>
+    <str id="Eye of the Beholder" value="No monsters were hurt while making this eye. It happened during the removal."/>
+    <str id="Crystal Tear of a Maiden" value="This tear was collected just before a young girl lost her innocence to a horde of savage raiders."/>
+    <str id="Misplaced Dragon Egg" value="The owner of this egg has to settle for one kingdom instead of seven."/>
+    <str id="Pulsating Daemon's Heart" value="This ticker just keeps on going. Perhaps it has some magic powers."/>
+    <str id="Book of Fading Memories" value="A gentleman bunny or hairy hands on the cover would've been too much, right?"/>
+    <str id="Manuscript of Knowledge" value="So this is how you make items and game mechanics obsolete as time goes by."/>
+    <str id="High Capacity Quiver" value="This turns any bow into an assault bow. Remember to shout out the name of your deity before mowing infidels."/>
+    <str id="Third Leg of the Imp" value="They say that Lyrion Bannister finally lost his mojo and the dwarves were no more. So sad."/>
+    <str id="Stone of Arcane Power" value="If this was black, the moon worshiping sand people would dance around it."/>
+    <str id="Star Spangled Cap" value="Perhaps the 2020 written on the cap means that you win bigly."/>
+    <str id="Glove of Liberalism" value="Projects a terrible force when 'Kameha..', uhm, 'Ei' is spoken out loud."/>
+    <str id="Wristband of Liberalism" value="It reads 'Tafsa inte' in demonic, which roughly means 'Don't touch me' in common."/>
+    <str id="Black Meistercard" value="Debt is wealth that you never have to pay back. You should start accumulating now..."/>
+    <str id="Deadly Ghoul Tooth" value="Isn't it weird that a ghoul tooth coin is the most powerful item in the game?"/>
+    <str id="Mad Torque Slingshot" value="Rubber will be invented in about a 1000 years. Until then, sinews and intestines will have to do."/>
+    <str id="Duelist's Wristbow" value="Anyone else get a scary, scarab-y, -ey, uhh whatever, feeling about this?"/>
+    <str id="Uberlyft's Lost Shoe" value="Clip-clop, clip-clop, Uberlyft needs its missing shoe to make you pop."/>
+    <str id="Creepy Stone Face" value="The face of cultural appropriation panda when it got lei'd and someone said 'Aloha! Snackbar?'."/>
+    <str id="Golden Chastity Key" value="These things would work if all the keys would match only one lock but when all keys match every lock..."/>
+    <str id="Loose Weapon Chain" value="Think about a tight weapon chain. Either your hand is ripped off or the chain limits your reach."/>
+    <str id="Time Dilation Device" value="Wow. An unconfortably large earring in a game where there is no earring slot to equip it. Awesome."/>
+    <str id="Fishing Hook and Line" value="Oh well, this was one of those things that were never intended to be added but here we are."/>
+    <str id="Fairy Jizzed Bull Horn" value="This horn wasn't able to avoid a busload of fairies that were offended by its toxic masculinity."/>
+    <str id="Engraved Pyramidion" value="This symbolizes the abyssal ways of clipping tips and tops of things that protrude too much."/>
   </CharmDescs>
   <CharmEffects>
     <str id="Lucky Number Seven" value="All physical damage you deal to enemies also bleeds gold coins."/>
@@ -1862,60 +1862,60 @@
     <str id="Fishing Hook and Line" value="Water chasms can now be used to catch fish."/>
     <str id="Fairy Jizzed Bull Horn" value="Allows apprentice wizards to learn and cast Bestial spells while levitating (it's those fairies, duh)."/>
     <str id="Engraved Pyramidion" value="Allows apprentice wizards to learn and cast Abyssal spells while standing in a sacrificial circle."/>
-    <str id="BlessedFamiliar" value="Any drake attempting to attack you becomes your friend permanently." local="Summons and controls a drake when equipped. This ring is destroyed if the drake dies."/>
-    <str id="BlessedOutcasts" value="Summons a loot hoarder at the first level of every random dungeon." local="May contain up to six different enchants instead of one."/>
+    <str id="BlessedFamiliar" value="Any drake attempting to attack you becomes your friend permanently."/>
+    <str id="BlessedOutcasts" value="Summons a loot hoarder at the first level of every random dungeon."/>
   </CharmEffects>
   <CoinNames>
-    <str id="Gold Coin" value="Gold Coin" local="There is a total of %d gold coins in your backpack."/>
+    <str id="Gold Coin" value="Gold Coin"/>
   </CoinNames>
   <CoinStacks>
-    <str id="Gold Coin" value="Gold Coins" local="There is a total of %d gold coins in your backpack."/>
+    <str id="Gold Coin" value="Gold Coins"/>
   </CoinStacks>
   <CoinDescs>
     <str id="StoredCoins" value="There is a total of %d gold coins in your backpack and %d gold coins in the Artisans' Guild vault."/>
     <str id="Gold Coin" value="There is a total of %d gold coins in your backpack."/>
   </CoinDescs>
   <FoodNames>
-    <str id="Meat" value="Meat" local="Some people have become sick after eating raw meat."/>
-    <str id="Fried Meat" value="Fried Meat" local="Fried meat is much safer to eat than raw meat."/>
-    <str id="Ribs" value="Ribs" local="Some people have become sick after eating raw ribs."/>
-    <str id="Fried Ribs" value="Fried Ribs" local="Fried ribs are much safer to eat than raw ribs."/>
-    <str id="Fish" value="Fish" local="Some people have become sick after eating raw fish."/>
-    <str id="Fried Fish" value="Fried Fish" local="Fried fish is much safer to eat than raw fish."/>
-    <str id="Chicken" value="Chicken" local="Some people have become sick after eating raw chicken."/>
-    <str id="Fried Chicken" value="Fried Chicken" local="Fried chicken is much safer to eat than raw chicken."/>
-    <str id="Blood Cap" value="Blood Cap" local="Blood caps are said to have bad blood in them."/>
-    <str id="Fried Cap" value="Fried Cap" local="Frying supposedly removes the bad blood from blood caps."/>
-    <str id="Death Cap" value="Death Cap" local="Mmm... Yummy."/>
-    <str id="Bread" value="Bread" local="Tastes a bit dull but keeps the hunger away."/>
-    <str id="Cheese" value="Cheese" local="This wedge smells like a peasant girl's armpit."/>
-    <str id="Egg" value="Egg" local="Some people have become sick after eating a raw egg."/>
-    <str id="Fried Egg" value="Fried Egg" local="Fried egg is much safer to eat than a raw egg."/>
-    <str id="Apple" value="Apple" local="Boy, apple, arrow, miss, shovel, dig, forget."/>
-    <str id="Carrot" value="Carrot" local="What's up du... uhh, copyright infringement."/>
-    <str id="Pear" value="Pear" local="Imagine that all women look like pears. Blaaarrgghh."/>
-    <str id="Tomato" value="Tomato" local="If you are late you must ketchup. I'll get my coat."/>
-    <str id="Plum" value="Plum" local="This must be the synonym for gangrenous nut sack."/>
-    <str id="Root" value="Root" local="Stick it with a pin and somewhere someone dies."/>
-    <str id="Berries" value="Berries" local="If you weren't so sweet, we wouldn't be in this jam."/>
-    <str id="Cherries" value="Cherries" local="Popping these cherries do not lock you up."/>
-    <str id="Grapes" value="Grapes" local="Grapevines exist only because winevines sound silly."/>
-    <str id="Cabbage" value="Cabbage" local="These things are responsible for global warming."/>
-    <str id="Potato" value="Potato" local="'Tis a shame you can't cook these into salted chips."/>
-    <str id="Acorn" value="Acorn" local="There lives a small squirrel in every one of us."/>
-    <str id="Grass" value="Grass" local="Tastes great if you like to pretend that you are a goat."/>
-    <str id="Garlic" value="Garlic" local="Perhaps vampires will be added in the game at some point."/>
-    <str id="Onion" value="Onion" local="Even the worst axe murderer becomes a cry baby when you slice this."/>
-    <str id="Lemon" value="Lemon" local="Can be eaten but they can also clean porcelain toilets."/>
-    <str id="Pepper" value="Pepper" local="These are mild peppers that do not cause Bloody Flux."/>
-    <str id="Food Ration" value="Food Ration" local="A dungeon dweller's food ration is a poor man's feast."/>
-    <str id="Water Flask" value="Water Flask" local="Water flask makes well water taste like spring water."/>
-    <str id="Beer Tankard" value="Beer Tankard" local="Beer is the only reason why hunter gatherers became farmers."/>
-    <str id="Mead Bottle" value="Mead Bottle" local="Fermenting honey with water turns any man into a poet."/>
-    <str id="Cider Bottle" value="Cider Bottle" local="Too much fermented apple juice may give you a head ache."/>
-    <str id="Wine Bottle" value="Wine Bottle" local="Red or white, both are fine, tavern wench, bring me wine."/>
-    <str id="Booze Bottle" value="Booze Bottle" local="Wow, alchemists have come up with a drink that doesn't remove thirst."/>
-    <str id="Milk Jar" value="Milk Jar" local="Rogues that have not yet stopped breast feeding will love this."/>
+    <str id="Meat" value="Meat"/>
+    <str id="Fried Meat" value="Fried Meat"/>
+    <str id="Ribs" value="Ribs"/>
+    <str id="Fried Ribs" value="Fried Ribs"/>
+    <str id="Fish" value="Fish"/>
+    <str id="Fried Fish" value="Fried Fish"/>
+    <str id="Chicken" value="Chicken"/>
+    <str id="Fried Chicken" value="Fried Chicken"/>
+    <str id="Blood Cap" value="Blood Cap"/>
+    <str id="Fried Cap" value="Fried Cap"/>
+    <str id="Death Cap" value="Death Cap"/>
+    <str id="Bread" value="Bread"/>
+    <str id="Cheese" value="Cheese"/>
+    <str id="Egg" value="Egg"/>
+    <str id="Fried Egg" value="Fried Egg"/>
+    <str id="Apple" value="Apple"/>
+    <str id="Carrot" value="Carrot"/>
+    <str id="Pear" value="Pear"/>
+    <str id="Tomato" value="Tomato"/>
+    <str id="Plum" value="Plum"/>
+    <str id="Root" value="Root"/>
+    <str id="Berries" value="Berries"/>
+    <str id="Cherries" value="Cherries"/>
+    <str id="Grapes" value="Grapes"/>
+    <str id="Cabbage" value="Cabbage"/>
+    <str id="Potato" value="Potato"/>
+    <str id="Acorn" value="Acorn"/>
+    <str id="Grass" value="Grass"/>
+    <str id="Garlic" value="Garlic"/>
+    <str id="Onion" value="Onion"/>
+    <str id="Lemon" value="Lemon"/>
+    <str id="Pepper" value="Pepper"/>
+    <str id="Food Ration" value="Food Ration"/>
+    <str id="Water Flask" value="Water Flask"/>
+    <str id="Beer Tankard" value="Beer Tankard"/>
+    <str id="Mead Bottle" value="Mead Bottle"/>
+    <str id="Cider Bottle" value="Cider Bottle"/>
+    <str id="Wine Bottle" value="Wine Bottle"/>
+    <str id="Booze Bottle" value="Booze Bottle"/>
+    <str id="Milk Jar" value="Milk Jar"/>
   </FoodNames>
   <FoodDescs>
     <str id="Meat" value="Some people have become sick after eating raw meat."/>
@@ -1982,40 +1982,40 @@
   </FoodLogs>
   <PotionNames>
     <str id="Potion" value="Potion"/>
-    <str id="Potion of Antidote" value="Potion of Antidote" local="Equips the rogue with a potion of antidote at the start of the game."/>
-    <str id="Potion of Awareness" value="Potion of Awareness" local="Contains a lovely tonic that causes your pupils to dilate beyond normal range."/>
-    <str id="Potion of Blindness" value="Potion of Blindness" local="Contains blinding poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Burning" value="Potion of Burning" local="Contains a vitriolic and oily substance that burns your skin when touched."/>
-    <str id="Potion of Charming" value="Potion of Charming" local="Contains charming poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Confusion" value="Potion of Confusion" local="Contains confusing poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Deafness" value="Potion of Deafness" local="Contains deafening poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Death" value="Potion of Death" local="Contains deadly poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Draining" value="Potion of Draining" local="Contains draining poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Energy" value="Potion of Energy" local="Contains a pleasant extract made from stimulating Erythroxylum leaves."/>
-    <str id="Potion of Healing" value="Potion of Healing" local="Equips the rogue with a potion of healing at the start of the game."/>
-    <str id="Potion of Holy Water" value="Potion of Holy Water" local="Contains water but for some reason it does not quench thirst if drunk, go figure."/>
-    <str id="Potion of Insight" value="Potion of Insight" local="Contains a strong and salty alcoholic beverage that supposedly expands your mind."/>
-    <str id="Potion of Leeching" value="Potion of Leeching" local="Contains leeching poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Literacy" value="Potion of Literacy" local="Contains just another pink fluid that teaches why we don't need no education."/>
-    <str id="Potion of Paralysis" value="Potion of Paralysis" local="Contains paralytic poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Sickness" value="Potion of Sickness" local="Contains infected animal excrements that are known to cause various diseases."/>
-    <str id="Potion of Silencing" value="Potion of Silencing" local="Contains silencing poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Sleeping" value="Potion of Sleeping" local="Contains sleeping poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Slowness" value="Potion of Slowness" local="Contains slowing poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Swiftness" value="Potion of Swiftness" local="Contains dead bull juice that makes you so fast that it feels like having wings."/>
-    <str id="Potion of Troll Blood" value="Potion of Troll Blood" local="Contains the most appalling liquid you have ever seen (not counting your own snot)."/>
-    <str id="Potion of Willpower" value="Potion of Willpower" local="Contains the power extracted from a single hair of Putimir 'the Bear' Vladin."/>
-    <str id="Potion of Wolf Form" value="Potion of Wolf Form" local="Contains stuff that makes you instinctively howl even when you only smell it."/>
-    <str id="Potion of Strength" value="Potion of Strength" local="Contains a mixture that makes you stronger than you were like a minute ago."/>
-    <str id="Potion of Agility" value="Potion of Agility" local="Contains something that makes you smoother than a backwards walking pedophile."/>
-    <str id="Potion of Stamina" value="Potion of Stamina" local="Contains 'Niagra', which would be awesome if there were any action available."/>
-    <str id="Potion of Charisma" value="Potion of Charisma" local="Contains anti-wrinkle ointment that probably should be applied on your skin."/>
-    <str id="Potion of Clotting" value="Potion of Clotting" local="Contains slightly poisonous mixture that stops you from bleeding."/>
-    <str id="Potion of Floating" value="Potion of Floating" local="Contains floater blood that makes you levitate."/>
+    <str id="Potion of Antidote" value="Potion of Antidote"/>
+    <str id="Potion of Awareness" value="Potion of Awareness"/>
+    <str id="Potion of Blindness" value="Potion of Blindness"/>
+    <str id="Potion of Burning" value="Potion of Burning"/>
+    <str id="Potion of Charming" value="Potion of Charming"/>
+    <str id="Potion of Confusion" value="Potion of Confusion"/>
+    <str id="Potion of Deafness" value="Potion of Deafness"/>
+    <str id="Potion of Death" value="Potion of Death"/>
+    <str id="Potion of Draining" value="Potion of Draining"/>
+    <str id="Potion of Energy" value="Potion of Energy"/>
+    <str id="Potion of Healing" value="Potion of Healing"/>
+    <str id="Potion of Holy Water" value="Potion of Holy Water"/>
+    <str id="Potion of Insight" value="Potion of Insight"/>
+    <str id="Potion of Leeching" value="Potion of Leeching"/>
+    <str id="Potion of Literacy" value="Potion of Literacy"/>
+    <str id="Potion of Paralysis" value="Potion of Paralysis"/>
+    <str id="Potion of Sickness" value="Potion of Sickness"/>
+    <str id="Potion of Silencing" value="Potion of Silencing"/>
+    <str id="Potion of Sleeping" value="Potion of Sleeping"/>
+    <str id="Potion of Slowness" value="Potion of Slowness"/>
+    <str id="Potion of Swiftness" value="Potion of Swiftness"/>
+    <str id="Potion of Troll Blood" value="Potion of Troll Blood"/>
+    <str id="Potion of Willpower" value="Potion of Willpower"/>
+    <str id="Potion of Wolf Form" value="Potion of Wolf Form"/>
+    <str id="Potion of Strength" value="Potion of Strength"/>
+    <str id="Potion of Agility" value="Potion of Agility"/>
+    <str id="Potion of Stamina" value="Potion of Stamina"/>
+    <str id="Potion of Charisma" value="Potion of Charisma"/>
+    <str id="Potion of Clotting" value="Potion of Clotting"/>
+    <str id="Potion of Floating" value="Potion of Floating"/>
   </PotionNames>
   <PotionDescs>
     <str id="PotionDesc" value="Remember that most potions are made by mixing mucus and excrements of some unspecified animal."/>
-    <str id="Potion of Antidote" value="Contains a mixture that smells and tastes bad enough to cure poisons and diseases." local="Equips the rogue with a potion of antidote at the start of the game."/>
+    <str id="Potion of Antidote" value="Contains a mixture that smells and tastes bad enough to cure poisons and diseases."/>
     <str id="Potion of Awareness" value="Contains a lovely tonic that causes your pupils to dilate beyond normal range."/>
     <str id="Potion of Blindness" value="Contains blinding poison. How and where it is made remains a mystery though."/>
     <str id="Potion of Burning" value="Contains a vitriolic and oily substance that burns your skin when touched."/>
@@ -2025,7 +2025,7 @@
     <str id="Potion of Death" value="Contains deadly poison. How and where it is made remains a mystery though."/>
     <str id="Potion of Draining" value="Contains draining poison. How and where it is made remains a mystery though."/>
     <str id="Potion of Energy" value="Contains a pleasant extract made from stimulating Erythroxylum leaves."/>
-    <str id="Potion of Healing" value="Contains a sweet sparkling soft drink that is made exclusively from vegetable extracts." local="Equips the rogue with a potion of healing at the start of the game."/>
+    <str id="Potion of Healing" value="Contains a sweet sparkling soft drink that is made exclusively from vegetable extracts."/>
     <str id="Potion of Holy Water" value="Contains water but for some reason it does not quench thirst if drunk, go figure."/>
     <str id="Potion of Insight" value="Contains a strong and salty alcoholic beverage that supposedly expands your mind."/>
     <str id="Potion of Leeching" value="Contains leeching poison. How and where it is made remains a mystery though."/>
@@ -2062,37 +2062,37 @@
   </PotionLogs>
   <RingNames>
     <str id="Ring" value="Ring"/>
-    <str id="Ring of Ebbin" value="Ring of Ebbin" local="Another ring to rule them all. This one is now your precious!"/>
-    <str id="Ring of Accuracy" value="Ring of Accuracy" local="Allows the wearer to re-roll misses with ranged and thrown weapons."/>
-    <str id="Ring of Adornment" value="Ring of Adornment" local="Looks impressive but contains no magical powers."/>
-    <str id="Ring of Brutality" value="Ring of Brutality" local="Allows the wearer to re-roll misses with melee weapons."/>
-    <str id="Ring of Clarity" value="Ring of Clarity" local="Grants immunity against blind, deafen and silence effects."/>
-    <str id="Ring of Control" value="Ring of Control" local="Grants immunity against charm, confuse and paralyse effects."/>
-    <str id="Ring of Deflection" value="Ring of Deflection" local="Doubles the wearer's parry modifier. This effect does not stack."/>
-    <str id="Ring of Elements" value="Ring of Elements" local="Grants immunity against fire, frost and shock effects."/>
-    <str id="Ring of Evasion" value="Ring of Evasion" local="Increases either block, dodge or parry modifier by 1. This effect does not stack."/>
-    <str id="Ring of Familiar" value="Ring of Familiar" local="Summons and controls a whelp when equipped. This ring is destroyed if the whelp dies."/>
-    <str id="Ring of Fortitude" value="Ring of Fortitude" local="Grants immunity against sleep and fear effects."/>
-    <str id="Ring of Freedom" value="Ring of Freedom" local="Grants immunity against slow, knockback and polymorph effects."/>
-    <str id="Ring of Grease" value="Ring of Grease" local="Forces the wearer to re-roll ranged hits. This ring cannot be unequipped."/>
-    <str id="Ring of Haste" value="Ring of Haste" local="Grants a haste effect at the expense of doubling the food and water consumption rates."/>
-    <str id="Ring of Hunger" value="Ring of Hunger" local="Triples food consumption rate. This ring cannot be unequipped."/>
-    <str id="Ring of Immunity" value="Ring of Immunity" local="Grants immunity against poison, disease and curse effects."/>
-    <str id="Ring of Outcasts" value="Ring of Outcasts" local="May contain up to three different enchants instead of one."/>
-    <str id="Ring of Regeneration" value="Ring of Regeneration" local="Allows the wearer to re-roll failed energy regeneration checks and makes him vulnerable to fire."/>
-    <str id="Ring of Resilience" value="Ring of Resilience" local="Grants immunity against leech, drain and instant death effects."/>
-    <str id="Ring of Scholars" value="Ring of Scholars" local="Automatically identifies scrolls and tomes when they are picked up."/>
-    <str id="Ring of Searching" value="Ring of Searching" local="Grants a free search action and allows the wielder to re-roll failed search checks. This effect does not stack."/>
-    <str id="Ring of Sustenance" value="Ring of Sustenance" local="Ignores food and water consumption on either even or odd game turns (main hand or offhand)."/>
-    <str id="Ring of Thirst" value="Ring of Thirst" local="Triples water consumption rate. This ring cannot be unequipped."/>
-    <str id="Ring of Anxiety" value="Ring of Anxiety" local="Makes you vulnerable to all damage. This ring cannot be unequipped."/>
-    <str id="Ring of Bloodlust" value="Ring of Bloodlust" local="Heals you for 20% of the physical weapon damage you cause."/>
-    <str id="Ring of Conversion" value="Ring of Conversion" local="Converts all weapon damage you receive into physical damage and reduces it by 10%."/>
-    <str id="Ring of Cracking" value="Ring of Cracking" local="Increases physical damage by 20% with melee and ranged weapons."/>
-    <str id="Ring of Noobery" value="Ring of Noobery" local="Halves experience gained. This effect does not stack."/>
-    <str id="Ring of Shadows" value="Ring of Shadows" local="Hides you in plain sight when you take damage."/>
-    <str id="Ring of Shielding" value="Ring of Shielding" local="Each point of energy counts as 3 points of health. This effect does not stack."/>
-    <str id="Ring of Underdog" value="Ring of Underdog" local="Increases all resistances by up to 5, the lower your health."/>
+    <str id="Ring of Ebbin" value="Ring of Ebbin"/>
+    <str id="Ring of Accuracy" value="Ring of Accuracy"/>
+    <str id="Ring of Adornment" value="Ring of Adornment"/>
+    <str id="Ring of Brutality" value="Ring of Brutality"/>
+    <str id="Ring of Clarity" value="Ring of Clarity"/>
+    <str id="Ring of Control" value="Ring of Control"/>
+    <str id="Ring of Deflection" value="Ring of Deflection"/>
+    <str id="Ring of Elements" value="Ring of Elements"/>
+    <str id="Ring of Evasion" value="Ring of Evasion"/>
+    <str id="Ring of Familiar" value="Ring of Familiar"/>
+    <str id="Ring of Fortitude" value="Ring of Fortitude"/>
+    <str id="Ring of Freedom" value="Ring of Freedom"/>
+    <str id="Ring of Grease" value="Ring of Grease"/>
+    <str id="Ring of Haste" value="Ring of Haste"/>
+    <str id="Ring of Hunger" value="Ring of Hunger"/>
+    <str id="Ring of Immunity" value="Ring of Immunity"/>
+    <str id="Ring of Outcasts" value="Ring of Outcasts"/>
+    <str id="Ring of Regeneration" value="Ring of Regeneration"/>
+    <str id="Ring of Resilience" value="Ring of Resilience"/>
+    <str id="Ring of Scholars" value="Ring of Scholars"/>
+    <str id="Ring of Searching" value="Ring of Searching"/>
+    <str id="Ring of Sustenance" value="Ring of Sustenance"/>
+    <str id="Ring of Thirst" value="Ring of Thirst"/>
+    <str id="Ring of Anxiety" value="Ring of Anxiety"/>
+    <str id="Ring of Bloodlust" value="Ring of Bloodlust"/>
+    <str id="Ring of Conversion" value="Ring of Conversion"/>
+    <str id="Ring of Cracking" value="Ring of Cracking"/>
+    <str id="Ring of Noobery" value="Ring of Noobery"/>
+    <str id="Ring of Shadows" value="Ring of Shadows"/>
+    <str id="Ring of Shielding" value="Ring of Shielding"/>
+    <str id="Ring of Underdog" value="Ring of Underdog"/>
   </RingNames>
   <RingDescs>
     <str id="RingDesc" value="In addition to being signs of spousal servitude, some rings can provide incredibly powerful effects."/>
@@ -2174,7 +2174,7 @@
     <str id="Rune of Might" value="Rune of Might"/>
     <str id="Rune of Power" value="Rune of Power"/>
     <str id="Rune of Vigor" value="Rune of Vigor"/>
-    <str id="Rune of the Imp" value="Rune of the Imp" local="This rune gives legendary status to a weapon making it unbreakable and allows you to name the weapon."/>
+    <str id="Rune of the Imp" value="Rune of the Imp"/>
   </RuneNames>
   <RuneDescs>
     <str id="RuneDesc" value="It's such a shame that an entire race had to die for this rune to exist."/>
@@ -2182,36 +2182,36 @@
   </RuneDescs>
   <ScrollNames>
     <str id="Scroll" value="Scroll"/>
-    <str id="Scroll of Aggravation" value="Scroll of Aggravation" local="Aggravates all creatures in the current level."/>
-    <str id="Scroll of Amnesia" value="Scroll of Amnesia" local="Causes the caster to forget a random knowledge."/>
-    <str id="Scroll of Animation" value="Scroll of Animation" local="Permanently turns a dead human into an undead familiar."/>
-    <str id="Scroll of Banishment" value="Scroll of Banishment" local="Attempts to banish all daemons within line of sight."/>
-    <str id="Scroll of Blessing" value="Scroll of Blessing" local="Removes all curse effects from the target creature, location or an item."/>
-    <str id="Scroll of Darkness" value="Scroll of Darkness" local="Blinds the caster temporarily."/>
-    <str id="Scroll of Detection" value="Scroll of Detection" local="Reveals all hidden map objects to the caster."/>
-    <str id="Scroll of Dislocation" value="Scroll of Dislocation" local="Teleports the target creature to a random location."/>
-    <str id="Scroll of Dispel" value="Scroll of Dispel" local="Removes all magical effects from the target creature, location or an item."/>
-    <str id="Scroll of Enchanting" value="Scroll of Enchanting" local="Enchants an item in the caster's inventory."/>
-    <str id="Scroll of Identify" value="Scroll of Identify" local="Identifies an item in the caster's inventory."/>
-    <str id="Scroll of Invisibility" value="Scroll of Invisibility" local="Turns the target creature invisible."/>
-    <str id="Scroll of Knowledge" value="Scroll of Knowledge" local="Teaches the caster a random knowledge."/>
-    <str id="Scroll of Levitation" value="Scroll of Levitation" local="Levitates the target creature."/>
-    <str id="Scroll of Light" value="Scroll of Light" local="Turns on all light sources in the current level."/>
-    <str id="Scroll of Polymorph" value="Scroll of Polymorph" local="Polymorphs the target creature into a giant rat."/>
-    <str id="Scroll of Recharging" value="Scroll of Recharging" local="Charges a wand in the caster's inventory."/>
-    <str id="Scroll of Summoning" value="Scroll of Summoning" local="Summons a daemon at the target location and enslaves it."/>
-    <str id="Scroll of Teleport" value="Scroll of Teleport" local="Teleports the caster to the target location within line of sight."/>
-    <str id="Scroll of Turning" value="Scroll of Turning" local="Attempts to turn all undead creatures within line of sight."/>
-    <str id="Scroll of Boomshroom" value="Scroll of Boomshroom" local="Causes the targeted mushroom patch to explode. May cause a chain reaction."/>
-    <str id="Scroll of Cultivation" value="Scroll of Cultivation" local="Springs up a number of mushroom patches over a large area."/>
-    <str id="Scroll of Disorder" value="Scroll of Disorder" local="Summons a snake pit and possibly some snakes around it."/>
-    <str id="Scroll of Distraction" value="Scroll of Distraction" local="Summons up to 6 mirror images and hides you in plain sight."/>
-    <str id="Scroll of Entangling" value="Scroll of Entangling" local="Captures the target in a spider web and summons some spiders."/>
-    <str id="Scroll of First Aid" value="Scroll of First Aid" local="Stops you from bleeding and applies a renewing touch effect."/>
-    <str id="Scroll of Forestation" value="Scroll of Forestation" local="Causes the targeted mushroom patch to spawn a treeman. May cause a chain reaction."/>
-    <str id="Scroll of Gimmiedat" value="Scroll of Gimmiedat" local="Disarms the target by equipping its main hand weapon in your empty thieving leprachaun hands."/>
-    <str id="Scroll of Soothing" value="Scroll of Soothing" local="Soothes all beasts within line of sight."/>
-    <str id="Scroll of Time Warp" value="Scroll of Time Warp" local="Cancels your current quest and returns you to town, allowing you to try it again later."/>
+    <str id="Scroll of Aggravation" value="Scroll of Aggravation"/>
+    <str id="Scroll of Amnesia" value="Scroll of Amnesia"/>
+    <str id="Scroll of Animation" value="Scroll of Animation"/>
+    <str id="Scroll of Banishment" value="Scroll of Banishment"/>
+    <str id="Scroll of Blessing" value="Scroll of Blessing"/>
+    <str id="Scroll of Darkness" value="Scroll of Darkness"/>
+    <str id="Scroll of Detection" value="Scroll of Detection"/>
+    <str id="Scroll of Dislocation" value="Scroll of Dislocation"/>
+    <str id="Scroll of Dispel" value="Scroll of Dispel"/>
+    <str id="Scroll of Enchanting" value="Scroll of Enchanting"/>
+    <str id="Scroll of Identify" value="Scroll of Identify"/>
+    <str id="Scroll of Invisibility" value="Scroll of Invisibility"/>
+    <str id="Scroll of Knowledge" value="Scroll of Knowledge"/>
+    <str id="Scroll of Levitation" value="Scroll of Levitation"/>
+    <str id="Scroll of Light" value="Scroll of Light"/>
+    <str id="Scroll of Polymorph" value="Scroll of Polymorph"/>
+    <str id="Scroll of Recharging" value="Scroll of Recharging"/>
+    <str id="Scroll of Summoning" value="Scroll of Summoning"/>
+    <str id="Scroll of Teleport" value="Scroll of Teleport"/>
+    <str id="Scroll of Turning" value="Scroll of Turning"/>
+    <str id="Scroll of Boomshroom" value="Scroll of Boomshroom"/>
+    <str id="Scroll of Cultivation" value="Scroll of Cultivation"/>
+    <str id="Scroll of Disorder" value="Scroll of Disorder"/>
+    <str id="Scroll of Distraction" value="Scroll of Distraction"/>
+    <str id="Scroll of Entangling" value="Scroll of Entangling"/>
+    <str id="Scroll of First Aid" value="Scroll of First Aid"/>
+    <str id="Scroll of Forestation" value="Scroll of Forestation"/>
+    <str id="Scroll of Gimmiedat" value="Scroll of Gimmiedat"/>
+    <str id="Scroll of Soothing" value="Scroll of Soothing"/>
+    <str id="Scroll of Time Warp" value="Scroll of Time Warp"/>
   </ScrollNames>
   <ScrollDescs>
     <str id="ScrollDesc" value="In addition to being an excellent form of kindling, scrolls can prove out to be very useful in certain situations."/>
@@ -2281,7 +2281,7 @@
     <str id="Fine Target" value="Fine Target"/>
     <str id="Fine Shield" value="Fine Shield"/>
     <str id="Fine Barrier" value="Fine Barrier"/>
-    <str id="Dawid's Shield" value="Dawid's Shield" local="This used to belong to Dawid the Paladin before he joined his battle brothers in the afterlife."/>
+    <str id="Dawid's Shield" value="Dawid's Shield"/>
   </ShieldNames>
   <ShieldDescs>
     <str id="ShieldDesc" value="It is very difficult to cast Draconic and Infernal spells while wielding a shield."/>
@@ -2357,19 +2357,19 @@
     <str id="Your %s shimmers brightly before shattering to pieces." value="Your %s shimmers brightly before shattering to pieces."/>
   </TomeLogs>
   <ToolNames>
-    <str id="Smoke Bomb" value="Smoke Bomb" local="Hides you in plain sight. Prolonged use might cause lung cancer according to the sticker at the bottom."/>
-    <str id="Bear Trap" value="Bear Trap" local="A trap master can arm this without losing too many fingers."/>
-    <str id="Magic Trap" value="Magic Trap" local="A trap master can arm this without getting burnt in the process."/>
-    <str id="Tithril Ore" value="Tithril Ore" local="This metal seems to become firmer when touched gently."/>
-    <str id="Bearskin" value="Bearskin" local="No animals were harmed during the skinning process."/>
-    <str id="Flexweave" value="Flexweave" local="This thread was first seen in the mines of Khevlar."/>
-    <str id="Hardwood" value="Hardwood" local="This wood really puts the angio in a spermous tree."/>
-    <str id="Scrap" value="Scrap" local="One man's reusable scrap is another man's treasure."/>
-    <str id="Schematic" value="Schematic" local="This is one of Leo Noerde's schematics and he probably wants it back."/>
-    <str id="Crown" value="Crown" local="Fits perfectly on the head of a King that wants to rule his people with an iron fist."/>
-    <str id="Dog Collar" value="Dog Collar" local="This collar can be used to safely store Woof while you do whatever it is that you do when you're alone."/>
-    <str id="Soul Gem" value="Soul Gem" local="These gems are said to contain the souls of innocent victims but in reality there is no such thing as innocent..."/>
-    <str id="Black Soul Gem" value="Black Soul Gem" local="These gems are said to contain the souls of innocent victims but this one doesn't seem all that innocent..."/>
+    <str id="Smoke Bomb" value="Smoke Bomb"/>
+    <str id="Bear Trap" value="Bear Trap"/>
+    <str id="Magic Trap" value="Magic Trap"/>
+    <str id="Tithril Ore" value="Tithril Ore"/>
+    <str id="Bearskin" value="Bearskin"/>
+    <str id="Flexweave" value="Flexweave"/>
+    <str id="Hardwood" value="Hardwood"/>
+    <str id="Scrap" value="Scrap"/>
+    <str id="Schematic" value="Schematic"/>
+    <str id="Crown" value="Crown"/>
+    <str id="Dog Collar" value="Dog Collar"/>
+    <str id="Soul Gem" value="Soul Gem"/>
+    <str id="Black Soul Gem" value="Black Soul Gem"/>
     <str id="Soul Gem of Agony" value="Soul Gem of Agony"/>
     <str id="Soul Gem of Envy" value="Soul Gem of Envy"/>
     <str id="Soul Gem of Gluttony" value="Soul Gem of Gluttony"/>
@@ -2380,7 +2380,7 @@
     <str id="Soul Gem of Sloth" value="Soul Gem of Sloth"/>
     <str id="Soul Gem of Thirst" value="Soul Gem of Thirst"/>
     <str id="Soul Gem of Wrath" value="Soul Gem of Wrath"/>
-    <str id="Equalizer" value="Equalizer" local="There's an engraving on the handle saying 'Shall not be infringed'."/>
+    <str id="Equalizer" value="Equalizer"/>
   </ToolNames>
   <ToolDescs>
     <str id="Smoke Bomb" value="Hides you in plain sight. Prolonged use might cause lung cancer according to the sticker at the bottom."/>
@@ -2400,36 +2400,36 @@
   </ToolDescs>
   <WandNames>
     <str id="Wand" value="Wand"/>
-    <str id="Wand of Blizzard" value="Wand of Blizzard" local="Shoots an amplified and enlarged frozen orb at the target location."/>
-    <str id="Wand of Burning" value="Wand of Burning" local="Shoots a flaming stream at the target location hitting everyone on the path."/>
-    <str id="Wand of Channeling" value="Wand of Channeling" local="Allows the caster to channel a known spell through the wand."/>
-    <str id="Wand of Chilling" value="Wand of Chilling" local="Shoots a frozen stream at the target location hitting everyone on the path."/>
-    <str id="Wand of Corruption" value="Wand of Corruption" local="Creates a cloud of corruption at the target location hitting everyone inside."/>
-    <str id="Wand of Crippling" value="Wand of Crippling" local="Shoots a crippling stream at the target location hitting everyone on the path."/>
-    <str id="Wand of Crushing" value="Wand of Crushing" local="Causes a boulder to fall from the ceiling at the target location."/>
-    <str id="Wand of Entrapment" value="Wand of Entrapment" local="Creates a web explosion at the target location trapping everyone inside."/>
-    <str id="Wand of Excavation" value="Wand of Excavation" local="The creator of this wand clearly favours brains over muscles."/>
-    <str id="Wand of Freezing" value="Wand of Freezing" local="Causes frost damage or instantly kills the target creature."/>
-    <str id="Wand of Infection" value="Wand of Infection" local="Shoots an amplified and enlarged virulent orb at the target location."/>
-    <str id="Wand of Inferno" value="Wand of Inferno" local="Shoots an amplified and enlarged flaming orb at the target location."/>
-    <str id="Wand of Knocking" value="Wand of Knocking" local="Damages and knocks the target creature back."/>
-    <str id="Wand of Maelstrom" value="Wand of Maelstrom" local="Creates a death vortex at the target location hitting everyone inside."/>
-    <str id="Wand of Melting" value="Wand of Melting" local="Causes fire damage or instantly kills the target creature."/>
-    <str id="Wand of Pollution" value="Wand of Pollution" local="Shoots an amplified and enlarged venomous orb at the target location."/>
-    <str id="Wand of Shifting" value="Wand of Shifting" local="Teleports the caster to the target location."/>
-    <str id="Wand of Shocking" value="Wand of Shocking" local="Shoots an electric stream at the target location hitting everyone on the path."/>
-    <str id="Wand of Tempest" value="Wand of Tempest" local="Shoots an amplified and enlarged electric orb at the target location."/>
-    <str id="Wand of Wishing" value="Wand of Wishing" local="Stroke me gently and your wish might just come true."/>
-    <str id="Wand of Wonders" value="Wand of Wonders" local="The creator of this wand really likes to gamble."/>
-    <str id="Wand of Zapping" value="Wand of Zapping" local="Causes shock damage or instantly kills the target creature."/>
-    <str id="Wand of Baffling" value="Wand of Baffling" local="Shuffles the locations of all creatures within line of sight and confuses them."/>
-    <str id="Wand of Bloodletting" value="Wand of Bloodletting" local="Causes the target to bleed to death (in most cases)."/>
-    <str id="Wand of Disarming" value="Wand of Disarming" local="Disarms the target by dropping its main hand weapon on the floor."/>
-    <str id="Wand of Ensnaring" value="Wand of Ensnaring" local="Snares the target in a bear trap and summons some wolves."/>
-    <str id="Wand of Gobsmacking" value="Wand of Gobsmacking" local="Stuns a friend until you break the effect by swapping places."/>
-    <str id="Wand of Rituals" value="Wand of Rituals" local="Conjures a 3x3 sacrificial circle that is centered on the cursor."/>
-    <str id="Wand of Scripting" value="Wand of Scripting" local="Creates an average quality duplicate of a scroll."/>
-    <str id="Wand of Torture" value="Wand of Torture" local="Causes immense magical damage but never enough to kill the target."/>
+    <str id="Wand of Blizzard" value="Wand of Blizzard"/>
+    <str id="Wand of Burning" value="Wand of Burning"/>
+    <str id="Wand of Channeling" value="Wand of Channeling"/>
+    <str id="Wand of Chilling" value="Wand of Chilling"/>
+    <str id="Wand of Corruption" value="Wand of Corruption"/>
+    <str id="Wand of Crippling" value="Wand of Crippling"/>
+    <str id="Wand of Crushing" value="Wand of Crushing"/>
+    <str id="Wand of Entrapment" value="Wand of Entrapment"/>
+    <str id="Wand of Excavation" value="Wand of Excavation"/>
+    <str id="Wand of Freezing" value="Wand of Freezing"/>
+    <str id="Wand of Infection" value="Wand of Infection"/>
+    <str id="Wand of Inferno" value="Wand of Inferno"/>
+    <str id="Wand of Knocking" value="Wand of Knocking"/>
+    <str id="Wand of Maelstrom" value="Wand of Maelstrom"/>
+    <str id="Wand of Melting" value="Wand of Melting"/>
+    <str id="Wand of Pollution" value="Wand of Pollution"/>
+    <str id="Wand of Shifting" value="Wand of Shifting"/>
+    <str id="Wand of Shocking" value="Wand of Shocking"/>
+    <str id="Wand of Tempest" value="Wand of Tempest"/>
+    <str id="Wand of Wishing" value="Wand of Wishing"/>
+    <str id="Wand of Wonders" value="Wand of Wonders"/>
+    <str id="Wand of Zapping" value="Wand of Zapping"/>
+    <str id="Wand of Baffling" value="Wand of Baffling"/>
+    <str id="Wand of Bloodletting" value="Wand of Bloodletting"/>
+    <str id="Wand of Disarming" value="Wand of Disarming"/>
+    <str id="Wand of Ensnaring" value="Wand of Ensnaring"/>
+    <str id="Wand of Gobsmacking" value="Wand of Gobsmacking"/>
+    <str id="Wand of Rituals" value="Wand of Rituals"/>
+    <str id="Wand of Scripting" value="Wand of Scripting"/>
+    <str id="Wand of Torture" value="Wand of Torture"/>
   </WandNames>
   <WandDescs>
     <str id="WandDesc" value="There appears to be inscription on the wand that is written in some unknown language."/>
@@ -2489,7 +2489,7 @@
     <str id="Corrosive Bite" value="Corrosive Bite"/>
     <str id="Ferocius Bite" value="Ferocius Bite"/>
     <str id="Infectious Bite" value="Infectious Bite"/>
-    <str id="Vampiric Bite" value="Vampiric Bite" local="Adds a leech effect to your attacks in wolf form."/>
+    <str id="Vampiric Bite" value="Vampiric Bite"/>
     <str id="Venomous Bite" value="Venomous Bite"/>
     <str id="Vicious Bite" value="Vicious Bite"/>
     <str id="Skittering Bite" value="Skittering Bite"/>
@@ -2502,77 +2502,77 @@
     <str id="Electric Fist" value="Electric Fist"/>
     <str id="Flaming Fist" value="Flaming Fist"/>
     <str id="Frozen Fist" value="Frozen Fist"/>
-    <str id="Dagger" value="Dagger" local="This is a piercing weapon and as such has a chance of ignoring the target's physical resistance."/>
-    <str id="Talon" value="Talon" local="This weapon is perfect against those nasty kidneys that keep coming in its way."/>
-    <str id="Hatchet" value="Hatchet" local="This is a thrown melee weapon and as such can be both equipped and thrown for full damage."/>
-    <str id="Sword" value="Sword" local="This is a slashing weapon and as such has a good chance of doubling the base damage against weaker targets."/>
-    <str id="Claw" value="Claw" local="This claw feels like an extension of some kind but it actually works pretty well."/>
-    <str id="Axe" value="Axe" local="This weapon is great for chopping down trees and orcs which grow rampant in the dungeons."/>
-    <str id="Club" value="Club" local="This weapon should only be used as a last resort unless you're born with a green skin."/>
-    <str id="Mace" value="Mace" local="This is a crushing weapon and as such has a good chance of halving the target's physical resistance."/>
-    <str id="Hammer" value="Hammer" local="This weapon is durable and as such it allows to re-roll failed durability checks."/>
-    <str id="Flail" value="Flail" local="This is a flailing weapon and as such has a good chance of ignoring the target's parry or block modifiers."/>
-    <str id="Branch" value="Branch" local="Tie a string on a tree branch, fletch some sticks and take over the world."/>
-    <str id="Bow" value="Bow" local="This is a ranged weapon and as such must be equipped with the right kind of arrows in the offhand."/>
-    <str id="Recurve" value="Recurve" local="Get a horse and call yourself a Khan. Barring that, it also works in a closed environment."/>
-    <str id="Mangler" value="Mangler" local="This sword is perfectly balanced to keep those pesky peasants in line."/>
-    <str id="Chopper" value="Chopper" local="A man who can cut down a tree with an axe can cut down a bigger tree with this."/>
-    <str id="Crusher" value="Crusher" local="Works brilliantly in situations where you must crush or be crushed."/>
-    <str id="Digger" value="Digger" local="This weapon is great for knocking down obstacles such as orcs and walls."/>
-    <str id="Spear" value="Spear" local="This weapon is a polearm and as such has a range of up to two tiles with the attack button."/>
-    <str id="Staff" value="Staff" local="This weapon is a conduit and as such it allows the wielder to re-roll failed spell to-hit rolls."/>
-    <str id="Crossbow" value="Crossbow" local="This is a slow weapon and as such must be rearmed after every time it is used."/>
-    <str id="Repeater" value="Repeater" local="Unlike regular crossbows, the ones on the receiving end of a repeater won't get to tell their story."/>
-    <str id="Rock" value="Rock" local="This rock looks fancier and rests more fittingly in your palm than many other rocks."/>
-    <str id="Throwing Knife" value="Throwing Knife" local="This knife is perfectly balanced to stop those weaklings who try to run away."/>
-    <str id="Throwing Star" value="Throwing Star" local="This weapon is great for those villains who don't mind robbing their victims."/>
-    <str id="Fine Dagger" value="Fine Dagger" local="This is a piercing weapon and as such has a chance of ignoring the target's physical resistance."/>
-    <str id="Fine Talon" value="Fine Talon" local="This weapon is perfect against those nasty kidneys that keep coming in its way."/>
-    <str id="Fine Hatchet" value="Fine Hatchet" local="This is a thrown melee weapon and as such can be both equipped and thrown for full damage."/>
-    <str id="Fine Sword" value="Fine Sword" local="This is a slashing weapon and as such has a good chance of doubling the base damage against weaker targets."/>
-    <str id="Fine Claw" value="Fine Claw" local="This claw feels like an extension of some kind but it actually works pretty well."/>
-    <str id="Fine Axe" value="Fine Axe" local="This weapon is great for chopping down trees and orcs which grow rampant in the dungeons."/>
-    <str id="Fine Club" value="Fine Club" local="This weapon should only be used as a last resort unless you're born with a green skin."/>
-    <str id="Fine Mace" value="Fine Mace" local="This is a crushing weapon and as such has a good chance of halving the target's physical resistance."/>
-    <str id="Fine Hammer" value="Fine Hammer" local="This weapon is durable and as such it allows to re-roll failed durability checks."/>
-    <str id="Fine Flail" value="Fine Flail" local="This is a flailing weapon and as such has a good chance of ignoring the target's parry or block modifiers."/>
-    <str id="Fine Branch" value="Fine Branch" local="Tie a string on a tree branch, fletch some sticks and take over the world."/>
-    <str id="Fine Bow" value="Fine Bow" local="This is a ranged weapon and as such must be equipped with the right kind of arrows in the offhand."/>
-    <str id="Fine Recurve" value="Fine Recurve" local="Get a horse and call yourself a Khan. Barring that, it also works in a closed environment."/>
-    <str id="Fine Mangler" value="Fine Mangler" local="This sword is perfectly balanced to keep those pesky peasants in line."/>
-    <str id="Fine Chopper" value="Fine Chopper" local="A man who can cut down a tree with an axe can cut down a bigger tree with this."/>
-    <str id="Fine Crusher" value="Fine Crusher" local="Works brilliantly in situations where you must crush or be crushed."/>
-    <str id="Fine Digger" value="Fine Digger" local="This weapon is great for knocking down obstacles such as orcs and walls."/>
-    <str id="Fine Spear" value="Fine Spear" local="This weapon is a polearm and as such has a range of up to two tiles with the attack button."/>
-    <str id="Fine Staff" value="Fine Staff" local="This weapon is a conduit and as such it allows the wielder to re-roll failed spell to-hit rolls."/>
-    <str id="Fine Crossbow" value="Fine Crossbow" local="This is a slow weapon and as such must be rearmed after every time it is used."/>
-    <str id="Fine Repeater" value="Fine Repeater" local="Unlike regular crossbows, the ones on the receiving end of a repeater won't get to tell their story."/>
-    <str id="Wizard Staff" value="Wizard Staff" local="This weapon teaches its wielder how to cast one of the five orb spells."/>
-    <str id="Wizard Staff 0" value="Wizard Staff" local="This weapon teaches its wielder how to cast the Flaming Orb spell."/>
-    <str id="Wizard Staff 1" value="Wizard Staff" local="This weapon teaches its wielder how to cast the Frozen Orb spell."/>
-    <str id="Wizard Staff 2" value="Wizard Staff" local="This weapon teaches its wielder how to cast the Electric Orb spell."/>
-    <str id="Wizard Staff 3" value="Wizard Staff" local="This weapon teaches its wielder how to cast the Venomous Orb spell."/>
-    <str id="Wizard Staff 4" value="Wizard Staff" local="This weapon teaches its wielder how to cast the Virulent Orb spell."/>
-    <str id="Wizard Staff 5" value="Wizard Staff" local="This weapon teaches its wielder how to cast the Release Soul spell."/>
-    <str id="Celestial Staff" value="Celestial Staff" local="Description..."/>
-    <str id="Draconic Staff" value="Draconic Staff" local="Description..."/>
-    <str id="Infernal Staff" value="Infernal Staff" local="Description..."/>
-    <str id="Arcane Staff" value="Arcane Staff" local="Description..."/>
-    <str id="Bestial Staff" value="Bestial Staff" local="Description..."/>
-    <str id="Abyssal Staff" value="Abyssal Staff" local="Description..."/>
-    <str id="Fine Throwing Knife" value="Fine Throwing Knife" local="This knife is perfectly balanced to stop those weaklings who try to run away."/>
-    <str id="Fine Throwing Star" value="Fine Throwing Star" local="This weapon is great for those villains who don't mind robbing their victims."/>
-    <str id="Gifin's Claw" value="Gifin's Claw" local="This used to belong to Master Gifin-Gif before you snatched it from his dead body."/>
-    <str id="Gareth's Axe" value="Gareth's Axe" local="This used to belong to Beartamer Gareth before you looted it from his corpse."/>
-    <str id="Dawid's Hammer" value="Dawid's Hammer" local="This used to belong to Dawid the Paladin before he joined his battle brothers in the afterlife."/>
-    <str id="Royal Mace" value="Royal Mace" local="This is one of those toys that you get to have as a King. Enjoy while it's yours."/>
-    <str id="Satyr's Sting" value="Satyr's Sting" local="This used to belong to Ranger Satyr'Dae before you picked it up from his remains."/>
-    <str id="Logar's Blade" value="Logar's Blade" local="This used to belong to Swordmaster Logar before you took it from his cold dead hands."/>
-    <str id="Altren's Kiss" value="Altren's Kiss" local="This used to belong to Prince Altren and there's a carving on the stock that says XLVII, whatever that means."/>
-    <str id="Staff of the Trickster" value="Staff of the Trickster" local="This used to belong to Ryan the Trickster and it teaches its wielder how to cast the Virulent Orb spell."/>
-    <str id="Staff of the Archmage" value="Staff of the Archmage" local="This used to belong to Archmage Gyffendal and it teaches its wielder how to cast the Flaming Orb spell."/>
-    <str id="Staff of the Ice Queen" value="Staff of the Ice Queen" local="This used to belong to Ice Queen Altara and it teaches its wielder how to cast the Frozen Orb spell."/>
-    <str id="Death Star" value="Death Star" local="These throwing stars are one of the deadliest tools used by the Blackhand assassins."/>
+    <str id="Dagger" value="Dagger"/>
+    <str id="Talon" value="Talon"/>
+    <str id="Hatchet" value="Hatchet"/>
+    <str id="Sword" value="Sword"/>
+    <str id="Claw" value="Claw"/>
+    <str id="Axe" value="Axe"/>
+    <str id="Club" value="Club"/>
+    <str id="Mace" value="Mace"/>
+    <str id="Hammer" value="Hammer"/>
+    <str id="Flail" value="Flail"/>
+    <str id="Branch" value="Branch"/>
+    <str id="Bow" value="Bow"/>
+    <str id="Recurve" value="Recurve"/>
+    <str id="Mangler" value="Mangler"/>
+    <str id="Chopper" value="Chopper"/>
+    <str id="Crusher" value="Crusher"/>
+    <str id="Digger" value="Digger"/>
+    <str id="Spear" value="Spear"/>
+    <str id="Staff" value="Staff"/>
+    <str id="Crossbow" value="Crossbow"/>
+    <str id="Repeater" value="Repeater"/>
+    <str id="Rock" value="Rock"/>
+    <str id="Throwing Knife" value="Throwing Knife"/>
+    <str id="Throwing Star" value="Throwing Star"/>
+    <str id="Fine Dagger" value="Fine Dagger"/>
+    <str id="Fine Talon" value="Fine Talon"/>
+    <str id="Fine Hatchet" value="Fine Hatchet"/>
+    <str id="Fine Sword" value="Fine Sword"/>
+    <str id="Fine Claw" value="Fine Claw"/>
+    <str id="Fine Axe" value="Fine Axe"/>
+    <str id="Fine Club" value="Fine Club"/>
+    <str id="Fine Mace" value="Fine Mace"/>
+    <str id="Fine Hammer" value="Fine Hammer"/>
+    <str id="Fine Flail" value="Fine Flail"/>
+    <str id="Fine Branch" value="Fine Branch"/>
+    <str id="Fine Bow" value="Fine Bow"/>
+    <str id="Fine Recurve" value="Fine Recurve"/>
+    <str id="Fine Mangler" value="Fine Mangler"/>
+    <str id="Fine Chopper" value="Fine Chopper"/>
+    <str id="Fine Crusher" value="Fine Crusher"/>
+    <str id="Fine Digger" value="Fine Digger"/>
+    <str id="Fine Spear" value="Fine Spear"/>
+    <str id="Fine Staff" value="Fine Staff"/>
+    <str id="Fine Crossbow" value="Fine Crossbow"/>
+    <str id="Fine Repeater" value="Fine Repeater"/>
+    <str id="Wizard Staff" value="Wizard Staff"/>
+    <str id="Wizard Staff 0" value="Wizard Staff"/>
+    <str id="Wizard Staff 1" value="Wizard Staff"/>
+    <str id="Wizard Staff 2" value="Wizard Staff"/>
+    <str id="Wizard Staff 3" value="Wizard Staff"/>
+    <str id="Wizard Staff 4" value="Wizard Staff"/>
+    <str id="Wizard Staff 5" value="Wizard Staff"/>
+    <str id="Celestial Staff" value="Celestial Staff"/>
+    <str id="Draconic Staff" value="Draconic Staff"/>
+    <str id="Infernal Staff" value="Infernal Staff"/>
+    <str id="Arcane Staff" value="Arcane Staff"/>
+    <str id="Bestial Staff" value="Bestial Staff"/>
+    <str id="Abyssal Staff" value="Abyssal Staff"/>
+    <str id="Fine Throwing Knife" value="Fine Throwing Knife"/>
+    <str id="Fine Throwing Star" value="Fine Throwing Star"/>
+    <str id="Gifin's Claw" value="Gifin's Claw"/>
+    <str id="Gareth's Axe" value="Gareth's Axe"/>
+    <str id="Dawid's Hammer" value="Dawid's Hammer"/>
+    <str id="Royal Mace" value="Royal Mace"/>
+    <str id="Satyr's Sting" value="Satyr's Sting"/>
+    <str id="Logar's Blade" value="Logar's Blade"/>
+    <str id="Altren's Kiss" value="Altren's Kiss"/>
+    <str id="Staff of the Trickster" value="Staff of the Trickster"/>
+    <str id="Staff of the Archmage" value="Staff of the Archmage"/>
+    <str id="Staff of the Ice Queen" value="Staff of the Ice Queen"/>
+    <str id="Death Star" value="Death Star"/>
   </WeaponNames>
   <WeaponDescs>
     <str id="Dagger" value="This is a piercing weapon and as such has a chance of ignoring the target's physical resistance."/>
@@ -2648,28 +2648,28 @@
     <str id="Death Star" value="These throwing stars are one of the deadliest tools used by the Blackhand assassins."/>
   </WeaponDescs>
   <LegendaryNames>
-    <str id="Cheesy Musk" value="Cheesy Musk" local="This legendary effect can be imbued by taming a cave bear."/>
-    <str id="Death Proof" value="Death Proof" local="This legendary effect can be imbued by casting Divine Shield while below 25% health and adjacent to an enemy."/>
-    <str id="Flashlight" value="Flashlight" local="This legendary effect can be imbued by reading a master's scroll of light."/>
-    <str id="Hateful Aura" value="Hateful Aura" local="This legendary effect can be imbued by killing a demonrat."/>
-    <str id="Leap of Faith" value="Leap of Faith" local="This legendary effect can be imbued by jumping over a lava chasm."/>
-    <str id="Misinvisicast" value="Misinvisicast" local="This legendary effect can be imbued by turning invisible when you cast Plane Shift."/>
-    <str id="Nightshade" value="Nightshade" local="This legendary effect can be imbued by applying a potent deadly poison on the weapon."/>
-    <str id="Orbus Bomba" value="Orbus Bomba" local="This legendary effect can be imbued by killing an enemy with splash damage of an enlarged orb."/>
-    <str id="Zombie Dog" value="Zombie Dog" local="This legendary effect can be imbued by killing Woof."/>
+    <str id="Cheesy Musk" value="Cheesy Musk"/>
+    <str id="Death Proof" value="Death Proof"/>
+    <str id="Flashlight" value="Flashlight"/>
+    <str id="Hateful Aura" value="Hateful Aura"/>
+    <str id="Leap of Faith" value="Leap of Faith"/>
+    <str id="Misinvisicast" value="Misinvisicast"/>
+    <str id="Nightshade" value="Nightshade"/>
+    <str id="Orbus Bomba" value="Orbus Bomba"/>
+    <str id="Zombie Dog" value="Zombie Dog"/>
   </LegendaryNames>
   <LegendaryDescs>
     <str id="WeaponDesc" value="Well, like it or not, this weapon is now extra shiny with a cool name and it's also unbreakable."/>
     <str id="EffectDesc" value="This weapon can gain a legendary effect if it's equipped in the main hand while imbuement conditions are met."/>
-    <str id="Cheesy Musk" value="Cave bears are now automatically tamed when they try to attack you." local="This legendary effect can be imbued by taming a cave bear."/>
-    <str id="Death Proof" value="Divine Shield is automatically cast if this effect is not on cooldown and damage taken would kill you." local="This legendary effect can be imbued by casting Divine Shield while below 25% health and adjacent to an enemy."/>
-    <str id="Flashlight" value="Everyone who can see this weapon at the end of their own turn will be illuminated." local="This legendary effect can be imbued by reading a master's scroll of light."/>
-    <str id="Hateful Aura" value="33% of damage taken is copied to all nearby creatures and you are healed for half of the damage caused this way." local="This legendary effect can be imbued by killing a demonrat."/>
-    <str id="Leap of Faith" value="Jumping no longer requires energy and it always succeeds." local="This legendary effect can be imbued by jumping over a lava chasm."/>
-    <str id="Misinvisicast" value="Miscasting always turns you invisible in addition to other effects." local="This legendary effect can be imbued by turning invisible when you cast Plane Shift."/>
-    <str id="Nightshade" value="Poisons applied to weapons last forever and count as potent when they are applied." local="This legendary effect can be imbued by applying a potent deadly poison on the weapon."/>
-    <str id="Orbus Bomba" value="Automatically casts Enlarge Orb at the end of your turn if you are not already affected by it." local="This legendary effect can be imbued by killing an enemy with splash damage of an enlarged orb."/>
-    <str id="Zombie Dog" value="Woof comes back to life at the start of a new dungeon if he happens to be dead (reset dungeon in town)." local="This legendary effect can be imbued by killing Woof."/>
+    <str id="Cheesy Musk" value="Cave bears are now automatically tamed when they try to attack you."/>
+    <str id="Death Proof" value="Divine Shield is automatically cast if this effect is not on cooldown and damage taken would kill you."/>
+    <str id="Flashlight" value="Everyone who can see this weapon at the end of their own turn will be illuminated."/>
+    <str id="Hateful Aura" value="33% of damage taken is copied to all nearby creatures and you are healed for half of the damage caused this way."/>
+    <str id="Leap of Faith" value="Jumping no longer requires energy and it always succeeds."/>
+    <str id="Misinvisicast" value="Miscasting always turns you invisible in addition to other effects."/>
+    <str id="Nightshade" value="Poisons applied to weapons last forever and count as potent when they are applied."/>
+    <str id="Orbus Bomba" value="Automatically casts Enlarge Orb at the end of your turn if you are not already affected by it."/>
+    <str id="Zombie Dog" value="Woof comes back to life at the start of a new dungeon if he happens to be dead (reset dungeon in town)."/>
   </LegendaryDescs>
   <CreatureNames>
     <str id="Invisible creature" value="Invisible creature"/>
@@ -3191,34 +3191,34 @@
     <str id="Good start" value="Good start"/>
   </Achievements>
   <TutorialNames>
-    <str id="Introduction 1" value="Introduction 1" local="Why hello there. I'm the annoying user interface dog and my super accurate canine senses tell me that this is the"/>
-    <str id="Introduction 2" value="Introduction 2" local="Please pay attention now. I'll be telling this only once and failure to comprehend will lead you to ask silly questions"/>
-    <str id="Move Buttons" value="Move Buttons" local="Allrighty then. You can move onto any of the eight adjacent tiles by using the keypad or by clicking in the desired"/>
-    <str id="Basic Attack" value="Basic Attack" local="Now that looks like a nasty creature. If you want, you can attack it by moving towards it..."/>
-    <str id="Use Button" value="Use Button" local="You can use adjacent map objects or items by holding down the Ctrl-key and pressing the relevant movement key"/>
-    <str id="Loot Button" value="Loot Button" local="You can view the loot under your feet by holding down the Loot-key (Default: Alt) or by clicking the right side of the"/>
-    <str id="Rest Button" value="Rest Button" local="Whenever you're fatigued or wounded, you can rest and gain energy or health with the Rest-button (Default: Keypad5)"/>
-    <str id="Satiated Rest" value="Satiated Rest" local="Note, however, that in order to gain health, you must have both hunger and thirst satiated (see the bottom right"/>
-    <str id="Equip Button" value="Equip Button" local="You can equip and use items in the inventory after bringing it up with the Equip-button (Default: E) or by clicking on"/>
-    <str id="Offhand Equip" value="Offhand Equip" local="While the inventory is shown, you can equip and use items with the Enter-key. If you also hold down the Shift-key"/>
-    <str id="Mouse Equip" value="Mouse Equip" local="Alternatively, you can click an item to use or equip it or you can drag and drop the item in the chosen slot (or out of"/>
-    <str id="Drop Button" value="Drop Button" local="You can drop items from the inventory after bringing it up with the Drop-button (Default: D) or you can drag and"/>
-    <str id="Throw Button" value="Throw Button" local="You can throw items from the inventory after bringing it up with the Throw-button (Default: F) or you can right-click"/>
-    <str id="Attack Button" value="Attack Button" local="Excellent! I see you have found yourself a ranged weapon. You can make ranged attacks with the Attack-button"/>
-    <str id="Rearm Button" value="Rearm Button" local="Your weapon needs to be rearmed before it can be used again. This is done automatically if you rest while having"/>
-    <str id="Use Entrances" value="Use Entrances" local="You can use stairs and ladders by pressing the Enter-key..."/>
-    <str id="Talent Gain 1" value="Talent Gain 1" local="Oh look, you have earned your first talent point. You can spend it by visiting a trainer or by using one of the trainer"/>
-    <str id="Talent Gain 2" value="Talent Gain 2" local="Note, however, that you can learn a maximum of six talents and there's no money back guarantee, so choose them"/>
-    <str id="Use Talents" value="Use Talents" local="Great choice! You can use the talent you just learned through the spellbook by pressing the Cast-button (Default: C)..."/>
-    <str id="Cast Spells" value="Cast Spells" local="Way to go you little Wizard! You can cast the spell you just learned through the spellbook by pressing the Cast-button"/>
-    <str id="Bind Hotkeys" value="Bind Hotkeys" local="You can bind and unbind spells and active talents on hotkeys by selecting one and pressing a Hotkey-button"/>
-    <str id="Order Button" value="Order Button" local="Oh look, you have gained a friend. You can order friends to follow you, move to a location or attack a target with the"/>
-    <str id="Travel Button" value="Travel Button" local="Great job, you've cleared the dungeon. Now you can quickly travel back to town with the Travel-button (Default: T)..."/>
-    <str id="Search Button" value="Search Button" local="Ouch, that's gotta hurt. I don't want to rub it in but you could've found the trap with the Search-button (Default: S)..."/>
-    <str id="Jump Button" value="Jump Button" local="So that's where I dug the hole. You can try to jump over it with the Jump-button (Default: Q)..."/>
-    <str id="Look Button" value="Look Button" local="If you can't seem to figure out what something is you can take a look at it with the Look-button (Default: V)..."/>
-    <str id="Sort Button" value="Sort Button" local="Look at all that junk... I mean valuables! If you need some quick space you can arrange your inventory with the"/>
-    <str id="Gain Heritage" value="Gain Heritage" local="Yikes, you might actually have what it takes to beat this game. You can check your heritage rewards by pressing F3..."/>
+    <str id="Introduction 1" value="Introduction 1"/>
+    <str id="Introduction 2" value="Introduction 2"/>
+    <str id="Move Buttons" value="Move Buttons"/>
+    <str id="Basic Attack" value="Basic Attack"/>
+    <str id="Use Button" value="Use Button"/>
+    <str id="Loot Button" value="Loot Button"/>
+    <str id="Rest Button" value="Rest Button"/>
+    <str id="Satiated Rest" value="Satiated Rest"/>
+    <str id="Equip Button" value="Equip Button"/>
+    <str id="Offhand Equip" value="Offhand Equip"/>
+    <str id="Mouse Equip" value="Mouse Equip"/>
+    <str id="Drop Button" value="Drop Button"/>
+    <str id="Throw Button" value="Throw Button"/>
+    <str id="Attack Button" value="Attack Button"/>
+    <str id="Rearm Button" value="Rearm Button"/>
+    <str id="Use Entrances" value="Use Entrances"/>
+    <str id="Talent Gain 1" value="Talent Gain 1"/>
+    <str id="Talent Gain 2" value="Talent Gain 2"/>
+    <str id="Use Talents" value="Use Talents"/>
+    <str id="Cast Spells" value="Cast Spells"/>
+    <str id="Bind Hotkeys" value="Bind Hotkeys"/>
+    <str id="Order Button" value="Order Button"/>
+    <str id="Travel Button" value="Travel Button"/>
+    <str id="Search Button" value="Search Button"/>
+    <str id="Jump Button" value="Jump Button"/>
+    <str id="Look Button" value="Look Button"/>
+    <str id="Sort Button" value="Sort Button"/>
+    <str id="Gain Heritage" value="Gain Heritage"/>
   </TutorialNames>
   <TutorialDescs>
     <str id="Introduction 1" value="Why hello there. I'm the annoying user interface dog and my super accurate canine senses tell me that this is the" space="True">
@@ -3292,60 +3292,60 @@
     <str id="Press and hold %s to view all tutorial entries." value="Press and hold %s to view all tutorial entries."/>
   </TutorialDescs>
   <HeritageNames>
-    <str id="Wizard's Staff" value="Wizard's Staff" local="Equips the rogue with a staff at the start of the game."/>
-    <str id="Bow and Arrows" value="Bow and Arrows" local="Equips the rogue with a bow and arrows at the start of the game."/>
-    <str id="Throwing Knives" value="Throwing Knives" local="Equips the rogue with 3 throwing knives at the start of the game."/>
-    <str id="Sword and Buckler" value="Sword and Buckler" local="Equips the rogue with a sword and buckler at the start of the game."/>
-    <str id="Leather Armour Set" value="Leather Armour Set" local="Equips the rogue with a leather armour set at the start of the game."/>
-    <str id="Potion of Antidote" value="Potion of Antidote" local="Equips the rogue with a potion of antidote at the start of the game."/>
-    <str id="Potion of Healing" value="Potion of Healing" local="Equips the rogue with a potion of healing at the start of the game."/>
-    <str id="The Seventh Talent" value="The Seventh Talent" local="Teaches Literacy: Common as the seventh talent at the start of the game."/>
-    <str id="The Interface Dog" value="The Interface Dog" local="Places a blessing on the main hand weapon at the start of the game."/>
-    <str id="The Silver Spoon" value="The Silver Spoon" local="Places a random enchant on the main hand weapon at the start of the game."/>
-    <str id="One Strange Trip" value="One Strange Trip" local="Grants immunity against mushroom effects."/>
-    <str id="The Pandamonium" value="The Pandamonium" local="Grants ability to use the following talents while unarmed:%s"/>
-    <str id="Arcane Gimmickry" value="Arcane Gimmickry" local="Improves Trap Master talent so that it also works with magic traps."/>
-    <str id="Lightning Reflexes" value="Lightning Reflexes" local="Grants a +1 modifier to all reflex checks."/>
-    <str id="Heroes of Hallwood" value="Heroes of Hallwood" local="Increases physical resistance by 1."/>
-    <str id="Fire Resistant" value="Fire Resistant" local="Increases fire resistance by 1."/>
-    <str id="Frost Resistant" value="Frost Resistant" local="Increases frost resistance by 1."/>
-    <str id="Shock Resistant" value="Shock Resistant" local="Increases shock resistance by 1."/>
-    <str id="Poison Resistant" value="Poison Resistant" local="Increases poison resistance by 1."/>
-    <str id="Disease Resistant" value="Disease Resistant" local="Increases disease resistance by 1."/>
-    <str id="Blissful Ignorance" value="Blissful Ignorance" local="Grants ability to use wands without learning how to read."/>
-    <str id="Celestial Mastery" value="Celestial Mastery" local="Grants knowledge of one random Celestial spell at the start of the game."/>
-    <str id="Draconic Mastery" value="Draconic Mastery" local="Grants knowledge of one random Draconic spell at the start of the game."/>
-    <str id="Infernal Mastery" value="Infernal Mastery" local="Grants knowledge of one random Infernal spell at the start of the game."/>
-    <str id="Arcane Mastery" value="Arcane Mastery" local="Allows you to learn Arcane spells with Literacy: Common while using any amulet."/>
-    <str id="Bestial Mastery" value="Bestial Mastery" local="Allows you to learn Bestial spells with Literacy: Common and without levitation."/>
-    <str id="Abyssal Mastery" value="Abyssal Mastery" local="Allows you to learn Abyssal spells with Literacy: Common and without sacrifice."/>
-    <str id="Amulet Knowledge" value="Amulet Knowledge" local="Grants knowledge of all amulet effects at the start of the game."/>
-    <str id="Ring Knowledge" value="Ring Knowledge" local="Grants knowledge of all ring effects at the start of the game."/>
-    <str id="Wand Knowledge" value="Wand Knowledge" local="Grants knowledge of all wand effects at the start of the game."/>
-    <str id="Scroll Knowledge" value="Scroll Knowledge" local="Grants knowledge of all scroll effects at the start of the game."/>
-    <str id="Potion Knowledge" value="Potion Knowledge" local="Grants knowledge of all potion effects at the start of the game."/>
-    <str id="Enchant Knowledge" value="Enchant Knowledge" local="Grants knowledge of all enchant effects at the start of the game and gives you a 20% discount at the Wizards' Guild."/>
-    <str id="Defile This" value="Defile This" local="Allows you to enchant your black shirt or robe."/>
-    <str id="Healthy Diet" value="Healthy Diet" local="Allows you to enchant your red shirt or robe."/>
-    <str id="Mighty Hulk" value="Mighty Hulk" local="Allows you to enchant your green shirt or robe."/>
-    <str id="Loose Weight" value="Loose Weight" local="Allows you to enchant your blue shirt or robe."/>
-    <str id="The Wanderer" value="The Wanderer" local="Allows you to enchant your orange shirt or robe."/>
-    <str id="Three Tails" value="Three Tails" local="Allows you to enchant your yellow shirt or robe."/>
-    <str id="The Pink Order" value="The Pink Order" local="Allows you to enchant your pink shirt or robe."/>
-    <str id="Big Bada Boom" value="Big Bada Boom" local="Allows you to enchant your white shirt or robe."/>
-    <str id="Over 9000" value="Over 9000" local="Your shirt or robe is now blessed and it may contain two enchants."/>
-    <str id="Gurmur's End" value="Gurmur's End" local="Gives you absolutely nothing since you obviously don't need any help."/>
-    <str id="Canis Woofus" value="Canis Woofus" local="Gives you a dog named Woof at the start of the game."/>
-    <str id="Familiaripathy" value="Familiaripathy" local="Allows you to see Woof's health bar."/>
-    <str id="Traps Are Bad" value="Traps Are Bad" local="Makes Woof immune to snares."/>
-    <str id="Hardened Skin" value="Hardened Skin" local="Grants Woof +1 physical resistance."/>
-    <str id="Winter Fur Coat" value="Winter Fur Coat" local="Upgrades Woof's Hardened Skin to +2 physical resistance and +1 chromatic resistance at level 3."/>
-    <str id="Arctic Fur Coat" value="Arctic Fur Coat" local="Upgrades Woof's Hardened Skin to +3 physical resistance and +2 chromatic resistance at level 6."/>
-    <str id="Ferocious Bite" value="Ferocious Bite" local="Upgrades Woof's Vicious Bite to Ferocius Bite at level 9."/>
-    <str id="Sharpened Fangs" value="Sharpened Fangs" local="Grants Woof +D3 physical damage at level 12."/>
-    <str id="Rare Breed" value="Rare Breed" local="Grants Woof +1 agility and +1 stamina at the start of the game and Heroic Charge at level 3."/>
-    <str id="Epic Breed" value="Epic Breed" local="Grants Woof +1 agility and +1 stamina at the start of the game and Strong Will at level 6."/>
-    <str id="Craftalicious" value="Craftalicious" local="Allows the player to craft items in the Artisans' Guild (and enables crafting items in the loot tables)."/>
+    <str id="Wizard's Staff" value="Wizard's Staff"/>
+    <str id="Bow and Arrows" value="Bow and Arrows"/>
+    <str id="Throwing Knives" value="Throwing Knives"/>
+    <str id="Sword and Buckler" value="Sword and Buckler"/>
+    <str id="Leather Armour Set" value="Leather Armour Set"/>
+    <str id="Potion of Antidote" value="Potion of Antidote"/>
+    <str id="Potion of Healing" value="Potion of Healing"/>
+    <str id="The Seventh Talent" value="The Seventh Talent"/>
+    <str id="The Interface Dog" value="The Interface Dog"/>
+    <str id="The Silver Spoon" value="The Silver Spoon"/>
+    <str id="One Strange Trip" value="One Strange Trip"/>
+    <str id="The Pandamonium" value="The Pandamonium"/>
+    <str id="Arcane Gimmickry" value="Arcane Gimmickry"/>
+    <str id="Lightning Reflexes" value="Lightning Reflexes"/>
+    <str id="Heroes of Hallwood" value="Heroes of Hallwood"/>
+    <str id="Fire Resistant" value="Fire Resistant"/>
+    <str id="Frost Resistant" value="Frost Resistant"/>
+    <str id="Shock Resistant" value="Shock Resistant"/>
+    <str id="Poison Resistant" value="Poison Resistant"/>
+    <str id="Disease Resistant" value="Disease Resistant"/>
+    <str id="Blissful Ignorance" value="Blissful Ignorance"/>
+    <str id="Celestial Mastery" value="Celestial Mastery"/>
+    <str id="Draconic Mastery" value="Draconic Mastery"/>
+    <str id="Infernal Mastery" value="Infernal Mastery"/>
+    <str id="Arcane Mastery" value="Arcane Mastery"/>
+    <str id="Bestial Mastery" value="Bestial Mastery"/>
+    <str id="Abyssal Mastery" value="Abyssal Mastery"/>
+    <str id="Amulet Knowledge" value="Amulet Knowledge"/>
+    <str id="Ring Knowledge" value="Ring Knowledge"/>
+    <str id="Wand Knowledge" value="Wand Knowledge"/>
+    <str id="Scroll Knowledge" value="Scroll Knowledge"/>
+    <str id="Potion Knowledge" value="Potion Knowledge"/>
+    <str id="Enchant Knowledge" value="Enchant Knowledge"/>
+    <str id="Defile This" value="Defile This"/>
+    <str id="Healthy Diet" value="Healthy Diet"/>
+    <str id="Mighty Hulk" value="Mighty Hulk"/>
+    <str id="Loose Weight" value="Loose Weight"/>
+    <str id="The Wanderer" value="The Wanderer"/>
+    <str id="Three Tails" value="Three Tails"/>
+    <str id="The Pink Order" value="The Pink Order"/>
+    <str id="Big Bada Boom" value="Big Bada Boom"/>
+    <str id="Over 9000" value="Over 9000"/>
+    <str id="Gurmur's End" value="Gurmur's End"/>
+    <str id="Canis Woofus" value="Canis Woofus"/>
+    <str id="Familiaripathy" value="Familiaripathy"/>
+    <str id="Traps Are Bad" value="Traps Are Bad"/>
+    <str id="Hardened Skin" value="Hardened Skin"/>
+    <str id="Winter Fur Coat" value="Winter Fur Coat"/>
+    <str id="Arctic Fur Coat" value="Arctic Fur Coat"/>
+    <str id="Ferocious Bite" value="Ferocious Bite"/>
+    <str id="Sharpened Fangs" value="Sharpened Fangs"/>
+    <str id="Rare Breed" value="Rare Breed"/>
+    <str id="Epic Breed" value="Epic Breed"/>
+    <str id="Craftalicious" value="Craftalicious"/>
     <str id="Swords 'n Stuff" value="Swords 'n Stuff"/>
     <str id="Just Smashing" value="Just Smashing"/>
     <str id="Heavy Hitters" value="Heavy Hitters"/>
@@ -3358,20 +3358,20 @@
     <str id="Brace For Impact" value="Brace For Impact"/>
     <str id="Hairy Handguards" value="Hairy Handguards"/>
     <str id="Don't Tread On Me" value="Don't Tread On Me"/>
-    <str id="Patron of Arts" value="Patron of Arts" local="Crafted items are now enchanted and the enchant is guaranteed to be appropriate for the item as well as the player."/>
-    <str id="Spiritual Guidance" value="Spiritual Guidance" local="Allows you to use spirit totems without killing bears for spiritual attunement."/>
-    <str id="Bestial Vigour" value="Bestial Vigour" local="Improves bestial wrath talent so that it also casts renewing touch on you when you shapeshift."/>
-    <str id="Leader of the Pack" value="Leader of the Pack" local="Improves bestial wrath talent so that it also heals all your beast friends while shapeshifted."/>
-    <str id="That's Grizzly" value="That's Grizzly" local="Increases strength by 1 in bear form."/>
-    <str id="Ursus Horribilis" value="Ursus Horribilis" local="Adds an instant kill effect to your attacks in bear form."/>
-    <str id="Blood Frenzy" value="Blood Frenzy" local="Casts renewing touch on you when you critically hit in bear form."/>
-    <str id="Lupine Grace" value="Lupine Grace" local="Increases agility by 1 in wolf form."/>
-    <str id="Vampiric Bite" value="Vampiric Bite" local="Adds a leech effect to your attacks in wolf form."/>
-    <str id="Face Muncher" value="Face Muncher" local="Casts renewing touch on you when you critically hit in wolf form."/>
-    <str id="Monster Chow" value="Monster Chow" local="Increases health and energy while shapeshifted."/>
-    <str id="Second Amendment" value="Second Amendment" local="Allows you to learn spells from Arcane tomes while having a matching amulet equipped (*)."/>
-    <str id="Rise of Fairies" value="Rise of Fairies" local="Allows you to learn spells from Bestial tomes with a Fairy Jizzed Bull Horn while levitating (*)."/>
-    <str id="Wester Worshipper" value="Wester Worshipper" local="Allows you to learn spells from Abyssal tomes with an Engraved Pyramidion and a sacrifice (*)."/>
+    <str id="Patron of Arts" value="Patron of Arts"/>
+    <str id="Spiritual Guidance" value="Spiritual Guidance"/>
+    <str id="Bestial Vigour" value="Bestial Vigour"/>
+    <str id="Leader of the Pack" value="Leader of the Pack"/>
+    <str id="That's Grizzly" value="That's Grizzly"/>
+    <str id="Ursus Horribilis" value="Ursus Horribilis"/>
+    <str id="Blood Frenzy" value="Blood Frenzy"/>
+    <str id="Lupine Grace" value="Lupine Grace"/>
+    <str id="Vampiric Bite" value="Vampiric Bite"/>
+    <str id="Face Muncher" value="Face Muncher"/>
+    <str id="Monster Chow" value="Monster Chow"/>
+    <str id="Second Amendment" value="Second Amendment"/>
+    <str id="Rise of Fairies" value="Rise of Fairies"/>
+    <str id="Wester Worshipper" value="Wester Worshipper"/>
   </HeritageNames>
   <HeritageDescs>
     <str id="This heritage can't be unlocked on casual difficulty level." value="This heritage can't be unlocked on casual difficulty level."/>
@@ -3596,73 +3596,73 @@
     </str>
   </HeritageDescs>
   <ChallengeNames>
-    <str id="Bottled Rage" value="Bottled Rage" local="This challenge can be completed by killing an enemy with a healing potion."/>
-    <str id="One Stray Shot" value="One Stray Shot" local="This challenge can be completed by causing 25 or more damage to an enemy with a single shot."/>
-    <str id="The Curve Ball" value="The Curve Ball" local="This challenge can be completed by killing an uninjured level 10+ enemy with a single hit from a thrown weapon."/>
-    <str id="Itch Be Slapped" value="Itch Be Slapped" local="This challenge can be completed by killing an uninjured monster while causing damage only with your bare hands."/>
-    <str id="The Ghostbuster" value="The Ghostbuster" local="This challenge can be completed by killing all Heroes of Hallwood in the final battle."/>
-    <str id="Against the Odds" value="Against the Odds" local="This challenge can be completed by clearing a dungeon consisting of three or more levels with cursed jewelry."/>
-    <str id="Dark Passenger" value="Dark Passenger" local="This challenge can be completed by reaching level 20 without lighting any torches."/>
-    <str id="The Loose Knot" value="The Loose Knot" local="This challenge can be completed by killing yourself using telekinesis."/>
-    <str id="True Devotion" value="True Devotion" local="This challenge can be completed by completing all other challenges."/>
-    <str id="Control Freak" value="Control Freak" local="This challenge can be completed by enslaving a daemon while having a human, undead, beast and monster friends"/>
-    <str id="Meticulous One" value="Meticulous One" local="This challenge can be completed by finishing the following encounters in a single game:"/>
-    <str id="Feel the Power" value="Feel the Power" local="This challenge can be completed by having %d or more ability points without buffs or debuffs."/>
-    <str id="Peaceful Hippie" value="Peaceful Hippie" local="This challenge can be completed by reaching level %d without killing anyone or anything."/>
-    <str id="The Bubble Boy" value="The Bubble Boy" local="This challenge can be completed by regaining full health after casting Divine Shield while having only one health"/>
-    <str id="The Prodigal Son" value="The Prodigal Son" local="This challenge can be completed by having six unused talent points."/>
-    <str id="Merchant's Tale" value="Merchant's Tale" local="This challenge can be completed by having %d gold coins in your backpack."/>
-    <str id="Bigger They Are" value="Bigger They Are" local="This challenge can be completed by killing an uninjured monster with a single blow."/>
-    <str id="That's Cheating" value="That's Cheating" local="This challenge can be completed by looting the crown after dying at least once."/>
-    <str id="The Epic Splat" value="The Epic Splat" local="This challenge can be completed by failing a reflex check while having Lightning Reflexes heritage and Sixth Sense"/>
-    <str id="One Nasty Flu" value="One Nasty Flu" local="This challenge can be completed by having 20 ability damage effects that reduce all abilities by 5."/>
-    <str id="Just a Scratch" value="Just a Scratch" local="This challenge can be completed by killing a creature that has hit you for %d or more points of damage with a single"/>
-    <str id="Idle Bookworm" value="Idle Bookworm" local="This challenge can be completed by learning all Celestial, Draconic and Infernal spells in a single game."/>
-    <str id="Bad Romance" value="Bad Romance" local="Enables the cloak style and color selection during character creation."/>
-    <str id="Undead Party" value="Undead Party" local="Unlocks the option to select left and right cloak styles at the start of the game."/>
-    <str id="The Red Mist" value="The Red Mist" local="Unlocks the option to select red cloak color at the start of the game."/>
-    <str id="Poison Blade" value="Poison Blade" local="Unlocks the option to select green cloak color at the start of the game."/>
-    <str id="Frosty Touch" value="Frosty Touch" local="Unlocks the option to select blue cloak color at the start of the game."/>
-    <str id="My Precious" value="My Precious" local="Unlocks the option to select purple cloak color at the start of the game."/>
-    <str id="Dark Shroud" value="Dark Shroud" local="Unlocks the option to select black cloak color at the start of the game."/>
-    <str id="Fully Buffed" value="Fully Buffed" local="Unlocks the option to select white cloak color at the start of the game."/>
-    <str id="Acne Treatment" value="Acne Treatment" local="This challenge can be completed by regaining full health after spending %d or more turns in lava."/>
-    <str id="Feeling Slimy" value="Feeling Slimy" local="This challenge can be completed by regaining full health after being surrounded by %d dwellers and/or lurkers."/>
-    <str id="Tax Evasion" value="Tax Evasion" local="This challenge can be completed by killing %d enemies in a row without being hit by a melee, ranged or spell attack."/>
-    <str id="Blood Sucker" value="Blood Sucker" local="This challenge can be completed by regaining %d points of health by life draining enemies."/>
-    <str id="El Presidente" value="El Presidente" local="This challenge can be completed by doing the following:"/>
-    <str id="Main Course" value="Main Course" local="This challenge can be completed by by eating the following monsters while polymorphed:"/>
-    <str id="Road to Hell" value="Road to Hell" local="This challenge can be completed by killing %d under aged daemons at level 20 after typing:"/>
-    <str id="Howdy Ho!" value="Howdy Ho!" local="This challenge can be completed by finding and resurrecting Ken'nih before his corpse is eaten by rats."/>
-    <str id="Dog Whisperer" value="Dog Whisperer" local="This challenge can be completed by having Woof cause any damage to the King."/>
-    <str id="I Got This!" value="I Got This!" local="This challenge can be completed by looting the crown on heroic difficulty level."/>
-    <str id="Nabon's Demise" value="Nabon's Demise" local="This challenge can be completed by killing Dreadlord Nabon and ending his reign of terror."/>
-    <str id="Dwarfageddon" value="Dwarfageddon" local="Unlocks &quot;%s&quot; title and adds runes to loot tables."/>
-    <str id="Mental Disorder" value="Mental Disorder" local="This challenge can be completed by befriending an infernal."/>
-    <str id="Mother of Drakes" value="Mother of Drakes" local="This challenge can be completed by having three permanent drake friends at the same time."/>
-    <str id="It's Elementary" value="It's Elementary" local="This challenge can be completed by causing at least %d points of enchanted elemental damage before resistances"/>
-    <str id="Safety Conscious" value="Safety Conscious" local="This challenge can be completed by viewing your stats while having %d immunities (press Ctrl in the inventory)."/>
-    <str id="Who's Trolling" value="Who's Trolling" local="This challenge can be completed by completing the following steps:%s"/>
-    <str id="Greenhouse Effect" value="Greenhouse Effect" local="This challenge can be completed by having a treeman heal four or more other treemen in one turn."/>
-    <str id="Rat Lives Matter" value="Rat Lives Matter" local="This challenge can be completed by killing a merchant and all his henchmen with giant rats."/>
-    <str id="Triggered Much?" value="Triggered Much?" local="This challenge can be completed by slaying a demonrat that is properly triggered."/>
-    <str id="Drain the Swamp" value="Drain the Swamp" local="Unlocks &quot;%s&quot; title and enables legendary effects."/>
-    <str id="Cheesy Musk" value="Cheesy Musk" local="This legendary effect can be imbued by taming a cave bear."/>
-    <str id="Death Proof" value="Death Proof" local="This legendary effect can be imbued by casting Divine Shield while below 25% health and adjacent to an enemy."/>
-    <str id="Flashlight" value="Flashlight" local="This legendary effect can be imbued by reading a master's scroll of light."/>
-    <str id="Hateful Aura" value="Hateful Aura" local="This legendary effect can be imbued by killing a demonrat."/>
-    <str id="Leap of Faith" value="Leap of Faith" local="This legendary effect can be imbued by jumping over a lava chasm."/>
-    <str id="Misinvisicast" value="Misinvisicast" local="This legendary effect can be imbued by turning invisible when you cast Plane Shift."/>
-    <str id="Nightshade" value="Nightshade" local="This legendary effect can be imbued by applying a potent deadly poison on the weapon."/>
-    <str id="Orbus Bomba" value="Orbus Bomba" local="This legendary effect can be imbued by killing an enemy with splash damage of an enlarged orb."/>
-    <str id="Zombie Dog" value="Zombie Dog" local="This legendary effect can be imbued by killing Woof."/>
-    <str id="Path of Wisdom" value="Path of Wisdom" local="%s"/>
-    <str id="Path of Justice" value="Path of Justice" local="%s"/>
-    <str id="Path of Decency" value="Path of Decency" local="%s"/>
-    <str id="Path of Kindness" value="Path of Kindness" local="%s"/>
-    <str id="Path of Cruelty" value="Path of Cruelty" local="%s"/>
-    <str id="Path of Fairness" value="Path of Fairness" local="%s"/>
-    <str id="Path of Compassion" value="Path of Compassion" local="%s"/>
+    <str id="Bottled Rage" value="Bottled Rage"/>
+    <str id="One Stray Shot" value="One Stray Shot"/>
+    <str id="The Curve Ball" value="The Curve Ball"/>
+    <str id="Itch Be Slapped" value="Itch Be Slapped"/>
+    <str id="The Ghostbuster" value="The Ghostbuster"/>
+    <str id="Against the Odds" value="Against the Odds"/>
+    <str id="Dark Passenger" value="Dark Passenger"/>
+    <str id="The Loose Knot" value="The Loose Knot"/>
+    <str id="True Devotion" value="True Devotion"/>
+    <str id="Control Freak" value="Control Freak"/>
+    <str id="Meticulous One" value="Meticulous One"/>
+    <str id="Feel the Power" value="Feel the Power"/>
+    <str id="Peaceful Hippie" value="Peaceful Hippie"/>
+    <str id="The Bubble Boy" value="The Bubble Boy"/>
+    <str id="The Prodigal Son" value="The Prodigal Son"/>
+    <str id="Merchant's Tale" value="Merchant's Tale"/>
+    <str id="Bigger They Are" value="Bigger They Are"/>
+    <str id="That's Cheating" value="That's Cheating"/>
+    <str id="The Epic Splat" value="The Epic Splat"/>
+    <str id="One Nasty Flu" value="One Nasty Flu"/>
+    <str id="Just a Scratch" value="Just a Scratch"/>
+    <str id="Idle Bookworm" value="Idle Bookworm"/>
+    <str id="Bad Romance" value="Bad Romance"/>
+    <str id="Undead Party" value="Undead Party"/>
+    <str id="The Red Mist" value="The Red Mist"/>
+    <str id="Poison Blade" value="Poison Blade"/>
+    <str id="Frosty Touch" value="Frosty Touch"/>
+    <str id="My Precious" value="My Precious"/>
+    <str id="Dark Shroud" value="Dark Shroud"/>
+    <str id="Fully Buffed" value="Fully Buffed"/>
+    <str id="Acne Treatment" value="Acne Treatment"/>
+    <str id="Feeling Slimy" value="Feeling Slimy"/>
+    <str id="Tax Evasion" value="Tax Evasion"/>
+    <str id="Blood Sucker" value="Blood Sucker"/>
+    <str id="El Presidente" value="El Presidente"/>
+    <str id="Main Course" value="Main Course"/>
+    <str id="Road to Hell" value="Road to Hell"/>
+    <str id="Howdy Ho!" value="Howdy Ho!"/>
+    <str id="Dog Whisperer" value="Dog Whisperer"/>
+    <str id="I Got This!" value="I Got This!"/>
+    <str id="Nabon's Demise" value="Nabon's Demise"/>
+    <str id="Dwarfageddon" value="Dwarfageddon"/>
+    <str id="Mental Disorder" value="Mental Disorder"/>
+    <str id="Mother of Drakes" value="Mother of Drakes"/>
+    <str id="It's Elementary" value="It's Elementary"/>
+    <str id="Safety Conscious" value="Safety Conscious"/>
+    <str id="Who's Trolling" value="Who's Trolling"/>
+    <str id="Greenhouse Effect" value="Greenhouse Effect"/>
+    <str id="Rat Lives Matter" value="Rat Lives Matter"/>
+    <str id="Triggered Much?" value="Triggered Much?"/>
+    <str id="Drain the Swamp" value="Drain the Swamp"/>
+    <str id="Cheesy Musk" value="Cheesy Musk"/>
+    <str id="Death Proof" value="Death Proof"/>
+    <str id="Flashlight" value="Flashlight"/>
+    <str id="Hateful Aura" value="Hateful Aura"/>
+    <str id="Leap of Faith" value="Leap of Faith"/>
+    <str id="Misinvisicast" value="Misinvisicast"/>
+    <str id="Nightshade" value="Nightshade"/>
+    <str id="Orbus Bomba" value="Orbus Bomba"/>
+    <str id="Zombie Dog" value="Zombie Dog"/>
+    <str id="Path of Wisdom" value="Path of Wisdom"/>
+    <str id="Path of Justice" value="Path of Justice"/>
+    <str id="Path of Decency" value="Path of Decency"/>
+    <str id="Path of Kindness" value="Path of Kindness"/>
+    <str id="Path of Cruelty" value="Path of Cruelty"/>
+    <str id="Path of Fairness" value="Path of Fairness"/>
+    <str id="Path of Compassion" value="Path of Compassion"/>
   </ChallengeNames>
   <ChallengeDescs>
     <str id="Unlocks &quot;%s&quot; title." value="Unlocks &quot;%s&quot; title."/>
