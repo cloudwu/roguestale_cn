@@ -79,20 +79,20 @@
 "Dialogue editor" 对话编辑器
 "Dungeon editor" 关卡编辑器
 "Quest editor" 任务编辑器
-"Terms of use" 使用期限
+"Terms of use" 使用条款
 "Settings" 设置
-"Credits" 积分
-"Retire rogue" 隐逸游侠
-"Key bindings" 按键设置
-"Change password" 密码修改
+"Credits" 制作人员
+"Retire rogue" 游侠归隐
+"Key bindings" 按键绑定
+"Change password" 修改密码
 "Delete account" 删除帐号
 "Exit game" 退出游戏
-"Windowed" 视窗化
+"Windowed" 窗口化
 "Gamepad" 手柄
 "Save changes" 保存更改
 "Change password" 密码修改
-"Rest in peace" 重置成和平模式
-"Journey onward" 继续探索旅程
+"Rest in peace" 逝者安息
+"Journey onward" 继续旅程
 "Start a new game" 开启新游戏
 "Okay" 确定
 "Close" 关闭
