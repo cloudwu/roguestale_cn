@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190515)" checksum="39bcb52db41ba62c1b0f48345c3b4a06a737cef5">
+<strings version="Version 2.00 Beta 1 (190515)" checksum="be3ef0ffe5d986a215723f951f57b703571d69d9">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -146,42 +146,42 @@
     <str id="Enables the use of a Playstation 4 gamepad." value="Enables the use of a Playstation 4 gamepad."/>
   </Tooltips>
   <GUITown>
-    <str id="Trade items" value="Trade items"/>
-    <str id="Craft items" value="Craft items"/>
-    <str id="Repair items" value="Repair items"/>
-    <str id="Identify items" value="Identify items"/>
-    <str id="Enchant items" value="Enchant items"/>
-    <str id="Dispel magics" value="Dispel magics"/>
-    <str id="Cure illnesses" value="Cure illnesses"/>
-    <str id="Rest in the inn" value="Rest in the inn"/>
-    <str id="Reset dungeon" value="Reset dungeon"/>
-    <str id="Enter dungeon" value="Enter dungeon"/>
-    <str id="Weaponsmith" value="Weaponsmith"/>
-    <str id="Armoursmith 1" value="Armoursmith 1"/>
-    <str id="Armoursmith 2" value="Armoursmith 2"/>
-    <str id="Shieldsmith" value="Shieldsmith"/>
-    <str id="Arrowsmith" value="Arrowsmith"/>
-    <str id="Jewelsmith" value="Jewelsmith"/>
-    <str id="Arcanist" value="Arcanist"/>
-    <str id="Provisioner" value="Provisioner"/>
-    <str id="One-handed" value="One-handed"/>
-    <str id="Two-handed" value="Two-handed"/>
-    <str id="Thrown" value="Thrown"/>
-    <str id="Ranged" value="Ranged"/>
-    <str id="Shields" value="Shields"/>
-    <str id="Armours" value="Armours"/>
-    <str id="Helmets" value="Helmets"/>
-    <str id="Spaulders" value="Spaulders"/>
-    <str id="Vambraces" value="Vambraces"/>
-    <str id="Gloves" value="Gloves"/>
-    <str id="Boots" value="Boots"/>
-    <str id="STORED MATERIALS:" value="STORED MATERIALS:"/>
-    <str id="Destroy bound amulet" value="Destroy bound amulet"/>
-    <str id="Destroy bound ring" value="Destroy bound ring"/>
+    <str id="Trade items" value="Trade items" local="物品交易"/>
+    <str id="Craft items" value="Craft items" local="物品制造"/>
+    <str id="Repair items" value="Repair items" local="物品修理"/>
+    <str id="Identify items" value="Identify items" local="物品鉴定"/>
+    <str id="Enchant items" value="Enchant items" local="物品附魔"/>
+    <str id="Dispel magics" value="Dispel magics" local="魔法驱散"/>
+    <str id="Cure illnesses" value="Cure illnesses" local="疾病治疗"/>
+    <str id="Rest in the inn" value="Rest in the inn" local="客栈休息"/>
+    <str id="Reset dungeon" value="Reset dungeon" local="重置地牢"/>
+    <str id="Enter dungeon" value="Enter dungeon" local="进入地牢"/>
+    <str id="Weaponsmith" value="Weaponsmith" local="武器匠"/>
+    <str id="Armoursmith 1" value="Armoursmith 1" local="盔甲匠 1"/>
+    <str id="Armoursmith 2" value="Armoursmith 2" local="盔甲匠 2"/>
+    <str id="Shieldsmith" value="Shieldsmith" local="盾牌匠"/>
+    <str id="Arrowsmith" value="Arrowsmith" local="弓箭匠"/>
+    <str id="Jewelsmith" value="Jewelsmith" local="珠宝匠"/>
+    <str id="Arcanist" value="Arcanist" local="奥术师"/>
+    <str id="Provisioner" value="Provisioner" local="杂货商"/>
+    <str id="One-handed" value="One-handed" local="单手"/>
+    <str id="Two-handed" value="Two-handed" local="双手"/>
+    <str id="Thrown" value="Thrown" local="投掷"/>
+    <str id="Ranged" value="Ranged" local="远程"/>
+    <str id="Shields" value="Shields" local="盾牌"/>
+    <str id="Armours" value="Armours" local="盔甲"/>
+    <str id="Helmets" value="Helmets" local="头盔"/>
+    <str id="Spaulders" value="Spaulders" local="肩甲"/>
+    <str id="Vambraces" value="Vambraces" local="臂甲"/>
+    <str id="Gloves" value="Gloves" local="手套"/>
+    <str id="Boots" value="Boots" local="靴子"/>
+    <str id="STORED MATERIALS:" value="STORED MATERIALS:" local="入库材料："/>
+    <str id="Destroy bound amulet" value="Destroy bound amulet" local="摧毁绑定的护身符"/>
+    <str id="Destroy bound ring" value="Destroy bound ring" local="摧毁绑定的戒指"/>
     <str id="%dg" value="%dg"/>
-    <str id="Donate %dg" value="Donate %dg"/>
-    <str id="Feast and rest (%dg)" value="Feast and rest (%dg)"/>
-    <str id="I'm fully prepared!" value="I'm fully prepared!"/>
+    <str id="Donate %dg" value="Donate %dg" local="捐献 %dg"/>
+    <str id="Feast and rest (%dg)" value="Feast and rest (%dg)" local="饱餐并休息 (%dg)"/>
+    <str id="I'm fully prepared!" value="I'm fully prepared!" local="我已完全准备好了！"/>
   </GUITown>
   <GUIDesc>
     <str id="MARKET_SQUARE" value="You have entered the Market Quarter and here you can trade items with various merchants.">

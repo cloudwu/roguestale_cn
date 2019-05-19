@@ -128,42 +128,42 @@ Keybinds."Rest".1 Note that Keypad 5 requires that Num Lock is on and the 5 is a
 Tooltips."Hover mouse over the checkboxes to find out how to unlock them." Hover mouse over the checkboxes to find out how to unlock them.
 Tooltips."Sets the account name when the program is launched." Sets the account name when the program is launched.
 Tooltips."Enables the use of a Playstation 4 gamepad." Enables the use of a Playstation 4 gamepad.
-GUITown."Trade items" Trade items
-GUITown."Craft items" Craft items
-GUITown."Repair items" Repair items
-GUITown."Identify items" Identify items
-GUITown."Enchant items" Enchant items
-GUITown."Dispel magics" Dispel magics
-GUITown."Cure illnesses" Cure illnesses
-GUITown."Rest in the inn" Rest in the inn
-GUITown."Reset dungeon" Reset dungeon
-GUITown."Enter dungeon" Enter dungeon
-GUITown."Weaponsmith" Weaponsmith
-GUITown."Armoursmith 1" Armoursmith 1
-GUITown."Armoursmith 2" Armoursmith 2
-GUITown."Shieldsmith" Shieldsmith
-GUITown."Arrowsmith" Arrowsmith
-GUITown."Jewelsmith" Jewelsmith
-GUITown."Arcanist" Arcanist
-GUITown."Provisioner" Provisioner
-GUITown."One-handed" One-handed
-GUITown."Two-handed" Two-handed
-GUITown."Thrown" Thrown
-GUITown."Ranged" Ranged
-GUITown."Shields" Shields
-GUITown."Armours" Armours
-GUITown."Helmets" Helmets
-GUITown."Spaulders" Spaulders
-GUITown."Vambraces" Vambraces
-GUITown."Gloves" Gloves
-GUITown."Boots" Boots
-GUITown."STORED MATERIALS:" STORED MATERIALS:
-GUITown."Destroy bound amulet" Destroy bound amulet
-GUITown."Destroy bound ring" Destroy bound ring
+GUITown."Trade items" 物品交易
+GUITown."Craft items" 物品制造
+GUITown."Repair items" 物品修理
+GUITown."Identify items" 物品鉴定
+GUITown."Enchant items" 物品附魔
+GUITown."Dispel magics" 魔法驱散
+GUITown."Cure illnesses" 疾病治疗
+GUITown."Rest in the inn" 客栈休息
+GUITown."Reset dungeon" 重置地牢
+GUITown."Enter dungeon" 进入地牢
+GUITown."Weaponsmith" 武器匠
+GUITown."Armoursmith 1" 盔甲匠 1
+GUITown."Armoursmith 2" 盔甲匠 2
+GUITown."Shieldsmith" 盾牌匠
+GUITown."Arrowsmith" 弓箭匠
+GUITown."Jewelsmith" 珠宝匠
+GUITown."Arcanist" 奥术师
+GUITown."Provisioner" 杂货商
+GUITown."One-handed" 单手
+GUITown."Two-handed" 双手
+GUITown."Thrown" 投掷
+GUITown."Ranged" 远程
+GUITown."Shields" 盾牌
+GUITown."Armours" 盔甲
+GUITown."Helmets" 头盔
+GUITown."Spaulders" 肩甲
+GUITown."Vambraces" 臂甲
+GUITown."Gloves" 手套
+GUITown."Boots" 靴子
+GUITown."STORED MATERIALS:" 入库材料：
+GUITown."Destroy bound amulet" 摧毁绑定的护身符
+GUITown."Destroy bound ring" 摧毁绑定的戒指
 GUITown."%dg" %dg
-GUITown."Donate %dg" Donate %dg
-GUITown."Feast and rest (%dg)" Feast and rest (%dg)
-GUITown."I'm fully prepared!" I'm fully prepared!
+GUITown."Donate %dg" 捐献 %dg
+GUITown."Feast and rest (%dg)" 饱餐并休息 (%dg)
+GUITown."I'm fully prepared!" 我已完全准备好了！
 GUIDesc."MARKET_SQUARE" You have entered the Market Quarter and here you can trade items with various merchants.
 GUIDesc."MARKET_SQUARE".1 Note that once the merchants' inventories  are filled with junk, you can reset them by resting in the inn.
 GUIDesc."LEOS_WORKSHOP" You have entered Leo's Workshop and here you can have items crafted in exchange for materials and a few gold coins.

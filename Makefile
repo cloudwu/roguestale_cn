@@ -1,4 +1,4 @@
-LUA_LIB = -LC:/msys64/mingw64/bin -llua53
+LUA_LIB = -L/usr/local/bin -llua53
 LUA_INC = -I/usr/local/include
 
 sha1.dll : lsha1.c
