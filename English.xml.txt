@@ -67,7 +67,7 @@ Labels."CONFIG_SCREEN_DESC" 你可以为每个动作绑定一个额外的按键�
 Labels."CONFIG_SCREEN_DESC".1 只需聚焦到特定按钮，然后按下
 Labels."CONFIG_SCREEN_DESC".2 除了 %s，%s，%s 以及 %s 之外的键。&#10;
 Labels."CONFIG_SCREEN_DESC".3 点一下按钮可以清除与之绑定的按键。
-Labels."LOADING_SCREEN_DESC" 正在给恶魔注入鲜血，请稍后……
+Labels."LOADING_SCREEN_DESC" 正在给恶魔注入鲜血，请稍候……
 Buttons."Accept" 接受
 Buttons."Cancel" 取消
 Buttons."Return" 返回
@@ -728,46 +728,46 @@ CombatTexts."Triggered" Triggered
 CombatTexts."'Molar Varghulis'" 'Molar Varghulis'
 CombatTexts."Charmed (%d)" Charmed (%d)
 CombatTexts."Equalized" Equalized
-Abilities."Strength" Strength
-Abilities."Agility" Agility
-Abilities."Stamina" Stamina
-Abilities."Charisma" Charisma
-Resistances."Physical" Physical
-Resistances."Fire" Fire
-Resistances."Frost" Frost
-Resistances."Shock" Shock
-Resistances."Poison" Poison
-Resistances."Disease" Disease
-CurseNames."Curse of Agony" Curse of Agony
-CurseNames."Curse of Envy" Curse of Envy
-CurseNames."Curse of Gluttony" Curse of Gluttony
-CurseNames."Curse of Greed" Curse of Greed
-CurseNames."Curse of Hunger" Curse of Hunger
-CurseNames."Curse of Lust" Curse of Lust
-CurseNames."Curse of Pride" Curse of Pride
-CurseNames."Curse of Sloth" Curse of Sloth
-CurseNames."Curse of Thirst" Curse of Thirst
-CurseNames."Curse of Wrath" Curse of Wrath
-PoisonNames."Blinding Poison" Blinding Poison
-PoisonNames."Charming Poison" Charming Poison
-PoisonNames."Confusing Poison" Confusing Poison
-PoisonNames."Deadly Poison" Deadly Poison
-PoisonNames."Deafening Poison" Deafening Poison
-PoisonNames."Draining Poison" Draining Poison
-PoisonNames."Leeching Poison" Leeching Poison
-PoisonNames."Paralytic Poison" Paralytic Poison
-PoisonNames."Silencing Poison" Silencing Poison
-PoisonNames."Sleeping Poison" Sleeping Poison
-PoisonNames."Slowing Poison" Slowing Poison
-DiseaseNames."Aching Muscle" Aching Muscle
-DiseaseNames."Bloody Flux" Bloody Flux
-DiseaseNames."Bone Plague" Bone Plague
-DiseaseNames."Burning Lung" Burning Lung
-DiseaseNames."Dungeon Fever" Dungeon Fever
-DiseaseNames."Itching Groin" Itching Groin
-DiseaseNames."Putrid Breath" Putrid Breath
-DiseaseNames."Swollen Joint" Swollen Joint
-DiseaseNames."Rotting Flesh" Rotting Flesh
+Abilities."Strength" 力量
+Abilities."Agility" 敏捷
+Abilities."Stamina" 耐力
+Abilities."Charisma" 魅力
+Resistances."Physical" 物理
+Resistances."Fire" 火焰
+Resistances."Frost" 冰霜
+Resistances."Shock" 震击
+Resistances."Poison" 毒害
+Resistances."Disease" 疾病
+CurseNames."Curse of Agony" 痛苦诅咒
+CurseNames."Curse of Envy" 忌妒诅咒
+CurseNames."Curse of Gluttony" 贪食诅咒
+CurseNames."Curse of Greed" 贪婪诅咒
+CurseNames."Curse of Hunger" 饥饿诅咒
+CurseNames."Curse of Lust" 淫欲诅咒
+CurseNames."Curse of Pride" 傲慢诅咒
+CurseNames."Curse of Sloth" 懒惰诅咒
+CurseNames."Curse of Thirst" 干渴诅咒
+CurseNames."Curse of Wrath" 愤怒诅咒
+PoisonNames."Blinding Poison" 致盲之毒
+PoisonNames."Charming Poison" 魅惑之毒
+PoisonNames."Confusing Poison" 混乱之毒
+PoisonNames."Deadly Poison" 死亡之毒
+PoisonNames."Deafening Poison" 震聋之毒
+PoisonNames."Draining Poison" 枯竭之毒
+PoisonNames."Leeching Poison" 吸血之毒
+PoisonNames."Paralytic Poison" 麻痹之毒
+PoisonNames."Silencing Poison" 沉默之毒
+PoisonNames."Sleeping Poison" 沉睡之毒
+PoisonNames."Slowing Poison" 迟缓之毒
+DiseaseNames."Aching Muscle" 肌肉疼痛
+DiseaseNames."Bloody Flux" 血瘟
+DiseaseNames."Bone Plague" 骨病
+DiseaseNames."Burning Lung" 肺病
+DiseaseNames."Dungeon Fever" 地城热
+DiseaseNames."Itching Groin" 下体瘙痒
+DiseaseNames."Putrid Breath" 腐烂气息
+DiseaseNames."Swollen Joint" 关节肿胀
+DiseaseNames."Rotting Flesh" 肌肉腐烂
 EffectNames."Oogled" Oogled
 EffectNames."Afraid" Afraid
 EffectNames."Asleep" Asleep
@@ -937,33 +937,33 @@ EffectLogs."You turn ethereal." You turn ethereal.
 EffectLogs."%s turns ethereal." %s turns ethereal.
 EffectLogs."You turn corporeal." You turn corporeal.
 EffectLogs."%s turns corporeal." %s turns corporeal.
-TalentNames."Aimed Shot" Aimed Shot
-TalentNames."Multi Shot" Multi Shot
-TalentNames."Quick Shot" Quick Shot
-TalentNames."Steady Shot" Steady Shot
-TalentNames."Blade Flurry" Blade Flurry
-TalentNames."Deadly Throw" Deadly Throw
-TalentNames."Heroic Charge" Heroic Charge
-TalentNames."Crushing Blow" Crushing Blow
-TalentNames."Killing Blow" Killing Blow
-TalentNames."Sweeping Blow" Sweeping Blow
-TalentNames."Shield Bash" Shield Bash
-TalentNames."Silent Move" Silent Move
-TalentNames."Literacy: Common" Literacy: Common
-TalentNames."Literacy: Celestial" Literacy: Celestial
-TalentNames."Literacy: Draconic" Literacy: Draconic
-TalentNames."Literacy: Infernal" Literacy: Infernal
-TalentNames."Focused Cast" Focused Cast
-TalentNames."Silent Cast" Silent Cast
-TalentNames."Dark Vision" Dark Vision
-TalentNames."Dual Wield" Dual Wield
-TalentNames."Keen Eye" Keen Eye
-TalentNames."Sixth Sense" Sixth Sense
-TalentNames."Strong Will" Strong Will
-TalentNames."Trap Master" Trap Master
-TalentNames."Shapeshift: Wolf" Shapeshift: Wolf
-TalentNames."Shapeshift: Bear" Shapeshift: Bear
-TalentNames."Bestial Wrath" Bestial Wrath
+TalentNames."Aimed Shot" 瞄准射击
+TalentNames."Multi Shot" 多重射击
+TalentNames."Quick Shot" 快速射击
+TalentNames."Steady Shot" 稳定射击
+TalentNames."Blade Flurry" 剑刃乱舞
+TalentNames."Deadly Throw" 致命投掷
+TalentNames."Heroic Charge" 英勇冲锋
+TalentNames."Crushing Blow" 粉碎打击
+TalentNames."Killing Blow" 致命一击
+TalentNames."Sweeping Blow" 横扫打击
+TalentNames."Shield Bash" 盾击
+TalentNames."Silent Move" 潜行
+TalentNames."Literacy: Common" 读写：常识
+TalentNames."Literacy: Celestial" 读写：天使
+TalentNames."Literacy: Draconic" 读写：龙系
+TalentNames."Literacy: Infernal" 读写：地狱
+TalentNames."Focused Cast" 专注施法
+TalentNames."Silent Cast" 沉默施法
+TalentNames."Dark Vision" 黑暗视觉
+TalentNames."Dual Wield" 双持
+TalentNames."Keen Eye" 锐利目光
+TalentNames."Sixth Sense" 第六感
+TalentNames."Strong Will" 坚强意志
+TalentNames."Trap Master" 陷阱大师
+TalentNames."Shapeshift: Wolf" 变形：狼
+TalentNames."Shapeshift: Bear" 变形：熊
+TalentNames."Bestial Wrath" 狂野怒火
 TalentDescs."Aimed Shot" Ranged attack that causes D3 extra damage instead of 1 for each point of agility bonus modifier.
 TalentDescs."Multi Shot" Ranged attack that hits up to agility bonus modifier number of extra targets.
 TalentDescs."Quick Shot" Ranged attack that allows the creature to move before taking the shot.
@@ -1010,46 +1010,46 @@ TalentDescs."Shapeshift: Bear" Shapeshifts the creature into a bear and replaces
 TalentDescs."Shapeshift: Bear".1 Keen Eye (based on level).
 TalentDescs."Bestial Wrath" Increases physical damage by D3 while shapeshifted. This talent is also improved by the following heritages:
 TalentDescs."Bestial Wrath".1 Bestial Vigour, Leader of the Pack.
-SpellNames."Cure Disease" Cure Disease
-SpellNames."Cure Poison" Cure Poison
-SpellNames."Dispel Magic" Dispel Magic
-SpellNames."Divine Grace" Divine Grace
-SpellNames."Divine Might" Divine Might
-SpellNames."Divine Reach" Divine Reach
-SpellNames."Healing Touch" Healing Touch
-SpellNames."Healing Wave" Healing Wave
-SpellNames."Renewing Touch" Renewing Touch
-SpellNames."Turn Undead" Turn Undead
-SpellNames."Amplify Magic" Amplify Magic
-SpellNames."Electric Orb" Electric Orb
-SpellNames."Enlarge Orb" Enlarge Orb
-SpellNames."Flaming Orb" Flaming Orb
-SpellNames."Frozen Orb" Frozen Orb
-SpellNames."Illumination" Illumination
-SpellNames."Mage Armour" Mage Armour
-SpellNames."Mirror Image" Mirror Image
-SpellNames."Remove Curse" Remove Curse
-SpellNames."Telekinesis" Telekinesis
-SpellNames."Banish Daemon" Banish Daemon
-SpellNames."Bestow Curse" Bestow Curse
-SpellNames."Capture Soul" Capture Soul
-SpellNames."Demonic Visage" Demonic Visage
-SpellNames."Enslave Daemon" Enslave Daemon
-SpellNames."Plane Shift" Plane Shift
-SpellNames."Release Soul" Release Soul
-SpellNames."Summon Daemon" Summon Daemon
-SpellNames."Venomous Orb" Venomous Orb
-SpellNames."Virulent Orb" Virulent Orb
-SpellNames."Divine Shield" Divine Shield
-SpellNames."Conjure Daemon" Conjure Daemon
-SpellNames."Identify Item" Identify Item
-SpellNames."Enchant Item" Enchant Item
-SpellNames."Elemental Orb" Elemental Orb
-SpellNames."Clone Creature" Clone Creature
-SpellNames."Animate Dead" Animate Dead
-SpellNames."Transmute Item" Transmute Item
-SpellNames."Arcane Missile" Arcane Missile
-SpellNames."Alter Terrain" Alter Terrain
+SpellNames."Cure Disease" 治疗疾病
+SpellNames."Cure Poison" 治疗中毒
+SpellNames."Dispel Magic" 驱散魔法
+SpellNames."Divine Grace" 神之恩典
+SpellNames."Divine Might" 天赋神力
+SpellNames."Divine Reach" 神圣领域
+SpellNames."Healing Touch" 治疗之触
+SpellNames."Healing Wave" 治疗光波
+SpellNames."Renewing Touch" 回复之触
+SpellNames."Turn Undead" 超度亡魂
+SpellNames."Amplify Magic" 魔法增效
+SpellNames."Electric Orb" 电球术
+SpellNames."Enlarge Orb" 法术球增大
+SpellNames."Flaming Orb" 火球术
+SpellNames."Frozen Orb" 冰球术
+SpellNames."Illumination" 照明术
+SpellNames."Mage Armour" 魔法盔甲
+SpellNames."Mirror Image" 镜像术
+SpellNames."Remove Curse" 移除诅咒
+SpellNames."Telekinesis" 念动力
+SpellNames."Banish Daemon" 放逐恶魔
+SpellNames."Bestow Curse" 降咒术
+SpellNames."Capture Soul" 灵魂捕捉
+SpellNames."Demonic Visage" 魔鬼面容
+SpellNames."Enslave Daemon" 奴役恶魔
+SpellNames."Plane Shift" 位面传送
+SpellNames."Release Soul" 释放灵魂
+SpellNames."Summon Daemon" 召唤恶魔
+SpellNames."Venomous Orb" 毒球术
+SpellNames."Virulent Orb" 病球术
+SpellNames."Divine Shield" 神圣之盾
+SpellNames."Conjure Daemon" 驱逐恶魔
+SpellNames."Identify Item" 物品鉴定
+SpellNames."Enchant Item" 物品附魔
+SpellNames."Elemental Orb" 元素球
+SpellNames."Clone Creature" 克隆生物
+SpellNames."Animate Dead" 亡灵复生
+SpellNames."Transmute Item" 物品变形
+SpellNames."Arcane Missile" 奥术飞弹
+SpellNames."Alter Terrain" 地表变形
 SpellDescs."Cure Disease" Attempts to remove one disease effect from the target creature.
 SpellDescs."Cure Poison" Attempts to remove one poison effect from the target creature.
 SpellDescs."Dispel Magic" Attempts to remove one magical effect from the target creature, location or an item in the caster's inventory.
@@ -1156,10 +1156,10 @@ EnchantNames."Symbol of Luck" Symbol of Luck
 EnchantNames."Symbol of Might" Symbol of Might
 EnchantNames."Symbol of Power" Symbol of Power
 EnchantNames."Symbol of Vigor" Symbol of Vigor
-EnchantEffects."+1 Agility" +1 Agility
-EnchantEffects."+1 Charisma" +1 Charisma
-EnchantEffects."+1 Stamina" +1 Stamina
-EnchantEffects."+1 Strength" +1 Strength
+EnchantEffects."+1 Agility" +1 敏捷
+EnchantEffects."+1 Charisma" +1 魅力
+EnchantEffects."+1 Stamina" +1 耐力
+EnchantEffects."+1 Strength" +1 力量
 EnchantEffects."Immune to Blind" Immune to Blind
 EnchantEffects."Immune to Charm" Immune to Charm
 EnchantEffects."Immune to Confuse" Immune to Confuse
@@ -1180,8 +1180,8 @@ EnchantEffects."Frost Resistance" Frost Resistance
 EnchantEffects."Shock Resistance" Shock Resistance
 EnchantEffects."Immune to Instant Death" Immune to Instant Death
 EnchantEffects."Immune to Fear" Immune to Fear
-EnchantEffects."+X Health" +X Health
-EnchantEffects."+%d Health" +%d Health
+EnchantEffects."+X Health" +X 生命
+EnchantEffects."+%d Health" +%d 生命
 EnchantEffects."+1 Light Radius" +1 Light Radius
 EnchantEffects."Increases Chance to Crit" Increases Chance to Crit
 EnchantEffects."Physical Resistance" Physical Resistance
@@ -1200,22 +1200,22 @@ EnchantEffects."Chance to Silence" Chance to Silence
 EnchantEffects."Chance to Sleep" Chance to Sleep
 EnchantEffects."Chance to Slow" Chance to Slow
 EnchantEffects."Chance to Bestow Curse" Chance to Bestow Curse
-EnchantEffects."+D6 Disease Damage" +D6 Disease Damage
-EnchantEffects."+D6 Poison Damage" +D6 Poison Damage
-EnchantEffects."+D6 Fire Damage" +D6 Fire Damage
-EnchantEffects."+D6 Frost Damage" +D6 Frost Damage
-EnchantEffects."+D6 Shock Damage" +D6 Shock Damage
+EnchantEffects."+D6 Disease Damage" +D6 疾病伤害
+EnchantEffects."+D6 Poison Damage" +D6 毒伤害
+EnchantEffects."+D6 Fire Damage" +D6 火焰伤害
+EnchantEffects."+D6 Frost Damage" +D6 冰霜伤害
+EnchantEffects."+D6 Shock Damage" +D6 震击伤害
 EnchantEffects."Chance to Instantly Kill" Chance to Instantly Kill
 EnchantEffects."Chance to Fear" Chance to Fear
-EnchantEffects."+X Health" +X Health
+EnchantEffects."+X Health" +X 生命
 EnchantEffects."+1 Light Radius" +1 Light Radius
 EnchantEffects."Increases Chance to Crit" Increases Chance to Crit
-EnchantEffects."+D3 Physical Damage" +D3 Physical Damage
-EnchantEffects."+D3 Spell Damage" +D3 Spell Damage
-EnchantEffects."+1 Energy" +1 Energy
-EnchantEffects."+2D6 Fire Damage" +2D6 Fire Damage
-EnchantEffects."+2D6 Frost Damage" +2D6 Frost Damage
-EnchantEffects."+2D6 Shock Damage" +2D6 Shock Damage
+EnchantEffects."+D3 Physical Damage" +D3 物理伤害
+EnchantEffects."+D3 Spell Damage" +D3 法术伤害
+EnchantEffects."+1 Energy" +1 精力
+EnchantEffects."+2D6 Fire Damage" +2D6 火焰伤害
+EnchantEffects."+2D6 Frost Damage" +2D6 冰霜伤害
+EnchantEffects."+2D6 Shock Damage" +2D6 震击伤害
 EnchantPrefixes."Archer's " Archer's 
 EnchantPrefixes."Priest's " Priest's 
 EnchantPrefixes."Wizard's " Wizard's 
@@ -2495,28 +2495,28 @@ CreatureNames."Living air" Living air
 CreatureNames."Living fire" Living fire
 CreatureNames."Living water" Living water
 CreatureNames."Human" Human
-CreatureNames."Assassin" Assassin
-CreatureNames."Duelist" Duelist
-CreatureNames."Fighter" Fighter
-CreatureNames."Warrior" Warrior
-CreatureNames."Paladin" Paladin
-CreatureNames."Archer" Archer
-CreatureNames."Bowman" Bowman
-CreatureNames."Ranger" Ranger
-CreatureNames."Cleric" Cleric
-CreatureNames."Priest" Priest
-CreatureNames."Wizard" Wizard
-CreatureNames."Warlock" Warlock
-CreatureNames."Bandit leader" Bandit leader
-CreatureNames."Merchant" Merchant
-CreatureNames."Henchman" Henchman
-CreatureNames."Cultist" Cultist
-CreatureNames."Guard" Guard
-CreatureNames."Sentry" Sentry
-CreatureNames."Sorcerer" Sorcerer
-CreatureNames."Sorceress" Sorceress
-CreatureNames."Knight" Knight
-CreatureNames."Archmage" Archmage
+CreatureNames."Assassin" 刺客
+CreatureNames."Duelist" 斗士
+CreatureNames."Fighter" 战士
+CreatureNames."Warrior" 勇士
+CreatureNames."Paladin" 圣骑士
+CreatureNames."Archer" 射手
+CreatureNames."Bowman" 弓箭手
+CreatureNames."Ranger" 独行侠
+CreatureNames."Cleric" 牧师
+CreatureNames."Priest" 祭司
+CreatureNames."Wizard" 法师
+CreatureNames."Warlock" 术士
+CreatureNames."Bandit leader" 匪首
+CreatureNames."Merchant" 商人
+CreatureNames."Henchman" 侍从
+CreatureNames."Cultist" 教众
+CreatureNames."Guard" 守卫
+CreatureNames."Sentry" 哨兵
+CreatureNames."Sorcerer" 男巫
+CreatureNames."Sorceress" 女巫
+CreatureNames."Knight" 骑士
+CreatureNames."Archmage" 大法师
 CreatureNames."Blackhand" Blackhand
 CreatureNames."Prince Altren" Prince Altren
 CreatureNames."Master Gifin-Gif" Master Gifin-Gif

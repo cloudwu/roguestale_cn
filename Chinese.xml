@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190515)" checksum="3750d8e81b2060a2a94f7718fd5e4f211824ddad">
+<strings version="Version 2.00 Beta 1 (190515)" checksum="39bcb52db41ba62c1b0f48345c3b4a06a737cef5">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -75,7 +75,7 @@
 " local="除了 %s，%s，%s 以及 %s 之外的键。&#10;"/>
       <str id="paragraph 3" value="A key bind can be removed by clicking the button." local="点一下按钮可以清除与之绑定的按键。"/>
     </str>
-    <str id="LOADING_SCREEN_DESC" value="Injecting blood into daemons, please wait..." local="正在给恶魔注入鲜血，请稍后……"/>
+    <str id="LOADING_SCREEN_DESC" value="Injecting blood into daemons, please wait..." local="正在给恶魔注入鲜血，请稍候……"/>
   </Labels>
   <Buttons>
     <str id="Accept" value="Accept" local="接受"/>
@@ -796,54 +796,54 @@
     <str id="Equalized" value="Equalized"/>
   </CombatTexts>
   <Abilities>
-    <str id="Strength" value="Strength"/>
-    <str id="Agility" value="Agility"/>
-    <str id="Stamina" value="Stamina"/>
-    <str id="Charisma" value="Charisma"/>
+    <str id="Strength" value="Strength" local="力量"/>
+    <str id="Agility" value="Agility" local="敏捷"/>
+    <str id="Stamina" value="Stamina" local="耐力"/>
+    <str id="Charisma" value="Charisma" local="魅力"/>
   </Abilities>
   <Resistances>
-    <str id="Physical" value="Physical"/>
-    <str id="Fire" value="Fire"/>
-    <str id="Frost" value="Frost"/>
-    <str id="Shock" value="Shock"/>
-    <str id="Poison" value="Poison"/>
-    <str id="Disease" value="Disease"/>
+    <str id="Physical" value="Physical" local="物理"/>
+    <str id="Fire" value="Fire" local="火焰"/>
+    <str id="Frost" value="Frost" local="冰霜"/>
+    <str id="Shock" value="Shock" local="震击"/>
+    <str id="Poison" value="Poison" local="毒害"/>
+    <str id="Disease" value="Disease" local="疾病"/>
   </Resistances>
   <CurseNames>
-    <str id="Curse of Agony" value="Curse of Agony"/>
-    <str id="Curse of Envy" value="Curse of Envy"/>
-    <str id="Curse of Gluttony" value="Curse of Gluttony"/>
-    <str id="Curse of Greed" value="Curse of Greed"/>
-    <str id="Curse of Hunger" value="Curse of Hunger"/>
-    <str id="Curse of Lust" value="Curse of Lust"/>
-    <str id="Curse of Pride" value="Curse of Pride"/>
-    <str id="Curse of Sloth" value="Curse of Sloth"/>
-    <str id="Curse of Thirst" value="Curse of Thirst"/>
-    <str id="Curse of Wrath" value="Curse of Wrath"/>
+    <str id="Curse of Agony" value="Curse of Agony" local="痛苦诅咒"/>
+    <str id="Curse of Envy" value="Curse of Envy" local="忌妒诅咒"/>
+    <str id="Curse of Gluttony" value="Curse of Gluttony" local="贪食诅咒"/>
+    <str id="Curse of Greed" value="Curse of Greed" local="贪婪诅咒"/>
+    <str id="Curse of Hunger" value="Curse of Hunger" local="饥饿诅咒"/>
+    <str id="Curse of Lust" value="Curse of Lust" local="淫欲诅咒"/>
+    <str id="Curse of Pride" value="Curse of Pride" local="傲慢诅咒"/>
+    <str id="Curse of Sloth" value="Curse of Sloth" local="懒惰诅咒"/>
+    <str id="Curse of Thirst" value="Curse of Thirst" local="干渴诅咒"/>
+    <str id="Curse of Wrath" value="Curse of Wrath" local="愤怒诅咒"/>
   </CurseNames>
   <PoisonNames>
-    <str id="Blinding Poison" value="Blinding Poison"/>
-    <str id="Charming Poison" value="Charming Poison"/>
-    <str id="Confusing Poison" value="Confusing Poison"/>
-    <str id="Deadly Poison" value="Deadly Poison"/>
-    <str id="Deafening Poison" value="Deafening Poison"/>
-    <str id="Draining Poison" value="Draining Poison"/>
-    <str id="Leeching Poison" value="Leeching Poison"/>
-    <str id="Paralytic Poison" value="Paralytic Poison"/>
-    <str id="Silencing Poison" value="Silencing Poison"/>
-    <str id="Sleeping Poison" value="Sleeping Poison"/>
-    <str id="Slowing Poison" value="Slowing Poison"/>
+    <str id="Blinding Poison" value="Blinding Poison" local="致盲之毒"/>
+    <str id="Charming Poison" value="Charming Poison" local="魅惑之毒"/>
+    <str id="Confusing Poison" value="Confusing Poison" local="混乱之毒"/>
+    <str id="Deadly Poison" value="Deadly Poison" local="死亡之毒"/>
+    <str id="Deafening Poison" value="Deafening Poison" local="震聋之毒"/>
+    <str id="Draining Poison" value="Draining Poison" local="枯竭之毒"/>
+    <str id="Leeching Poison" value="Leeching Poison" local="吸血之毒"/>
+    <str id="Paralytic Poison" value="Paralytic Poison" local="麻痹之毒"/>
+    <str id="Silencing Poison" value="Silencing Poison" local="沉默之毒"/>
+    <str id="Sleeping Poison" value="Sleeping Poison" local="沉睡之毒"/>
+    <str id="Slowing Poison" value="Slowing Poison" local="迟缓之毒"/>
   </PoisonNames>
   <DiseaseNames>
-    <str id="Aching Muscle" value="Aching Muscle"/>
-    <str id="Bloody Flux" value="Bloody Flux"/>
-    <str id="Bone Plague" value="Bone Plague"/>
-    <str id="Burning Lung" value="Burning Lung"/>
-    <str id="Dungeon Fever" value="Dungeon Fever"/>
-    <str id="Itching Groin" value="Itching Groin"/>
-    <str id="Putrid Breath" value="Putrid Breath"/>
-    <str id="Swollen Joint" value="Swollen Joint"/>
-    <str id="Rotting Flesh" value="Rotting Flesh"/>
+    <str id="Aching Muscle" value="Aching Muscle" local="肌肉疼痛"/>
+    <str id="Bloody Flux" value="Bloody Flux" local="血瘟"/>
+    <str id="Bone Plague" value="Bone Plague" local="骨病"/>
+    <str id="Burning Lung" value="Burning Lung" local="肺病"/>
+    <str id="Dungeon Fever" value="Dungeon Fever" local="地城热"/>
+    <str id="Itching Groin" value="Itching Groin" local="下体瘙痒"/>
+    <str id="Putrid Breath" value="Putrid Breath" local="腐烂气息"/>
+    <str id="Swollen Joint" value="Swollen Joint" local="关节肿胀"/>
+    <str id="Rotting Flesh" value="Rotting Flesh" local="肌肉腐烂"/>
   </DiseaseNames>
   <EffectNames>
     <str id="Oogled" value="Oogled"/>
@@ -1023,33 +1023,33 @@
     <str id="%s turns corporeal." value="%s turns corporeal."/>
   </EffectLogs>
   <TalentNames>
-    <str id="Aimed Shot" value="Aimed Shot"/>
-    <str id="Multi Shot" value="Multi Shot"/>
-    <str id="Quick Shot" value="Quick Shot"/>
-    <str id="Steady Shot" value="Steady Shot"/>
-    <str id="Blade Flurry" value="Blade Flurry"/>
-    <str id="Deadly Throw" value="Deadly Throw"/>
-    <str id="Heroic Charge" value="Heroic Charge"/>
-    <str id="Crushing Blow" value="Crushing Blow"/>
-    <str id="Killing Blow" value="Killing Blow"/>
-    <str id="Sweeping Blow" value="Sweeping Blow"/>
-    <str id="Shield Bash" value="Shield Bash"/>
-    <str id="Silent Move" value="Silent Move"/>
-    <str id="Literacy: Common" value="Literacy: Common"/>
-    <str id="Literacy: Celestial" value="Literacy: Celestial"/>
-    <str id="Literacy: Draconic" value="Literacy: Draconic"/>
-    <str id="Literacy: Infernal" value="Literacy: Infernal"/>
-    <str id="Focused Cast" value="Focused Cast"/>
-    <str id="Silent Cast" value="Silent Cast"/>
-    <str id="Dark Vision" value="Dark Vision"/>
-    <str id="Dual Wield" value="Dual Wield"/>
-    <str id="Keen Eye" value="Keen Eye"/>
-    <str id="Sixth Sense" value="Sixth Sense"/>
-    <str id="Strong Will" value="Strong Will"/>
-    <str id="Trap Master" value="Trap Master"/>
-    <str id="Shapeshift: Wolf" value="Shapeshift: Wolf"/>
-    <str id="Shapeshift: Bear" value="Shapeshift: Bear"/>
-    <str id="Bestial Wrath" value="Bestial Wrath"/>
+    <str id="Aimed Shot" value="Aimed Shot" local="瞄准射击"/>
+    <str id="Multi Shot" value="Multi Shot" local="多重射击"/>
+    <str id="Quick Shot" value="Quick Shot" local="快速射击"/>
+    <str id="Steady Shot" value="Steady Shot" local="稳定射击"/>
+    <str id="Blade Flurry" value="Blade Flurry" local="剑刃乱舞"/>
+    <str id="Deadly Throw" value="Deadly Throw" local="致命投掷"/>
+    <str id="Heroic Charge" value="Heroic Charge" local="英勇冲锋"/>
+    <str id="Crushing Blow" value="Crushing Blow" local="粉碎打击"/>
+    <str id="Killing Blow" value="Killing Blow" local="致命一击"/>
+    <str id="Sweeping Blow" value="Sweeping Blow" local="横扫打击"/>
+    <str id="Shield Bash" value="Shield Bash" local="盾击"/>
+    <str id="Silent Move" value="Silent Move" local="潜行"/>
+    <str id="Literacy: Common" value="Literacy: Common" local="读写：常识"/>
+    <str id="Literacy: Celestial" value="Literacy: Celestial" local="读写：天使"/>
+    <str id="Literacy: Draconic" value="Literacy: Draconic" local="读写：龙系"/>
+    <str id="Literacy: Infernal" value="Literacy: Infernal" local="读写：地狱"/>
+    <str id="Focused Cast" value="Focused Cast" local="专注施法"/>
+    <str id="Silent Cast" value="Silent Cast" local="沉默施法"/>
+    <str id="Dark Vision" value="Dark Vision" local="黑暗视觉"/>
+    <str id="Dual Wield" value="Dual Wield" local="双持"/>
+    <str id="Keen Eye" value="Keen Eye" local="锐利目光"/>
+    <str id="Sixth Sense" value="Sixth Sense" local="第六感"/>
+    <str id="Strong Will" value="Strong Will" local="坚强意志"/>
+    <str id="Trap Master" value="Trap Master" local="陷阱大师"/>
+    <str id="Shapeshift: Wolf" value="Shapeshift: Wolf" local="变形：狼"/>
+    <str id="Shapeshift: Bear" value="Shapeshift: Bear" local="变形：熊"/>
+    <str id="Bestial Wrath" value="Bestial Wrath" local="狂野怒火"/>
   </TalentNames>
   <TalentDescs>
     <str id="Aimed Shot" value="Ranged attack that causes D3 extra damage instead of 1 for each point of agility bonus modifier."/>
@@ -1119,46 +1119,46 @@
     </str>
   </TalentDescs>
   <SpellNames>
-    <str id="Cure Disease" value="Cure Disease"/>
-    <str id="Cure Poison" value="Cure Poison"/>
-    <str id="Dispel Magic" value="Dispel Magic"/>
-    <str id="Divine Grace" value="Divine Grace"/>
-    <str id="Divine Might" value="Divine Might"/>
-    <str id="Divine Reach" value="Divine Reach"/>
-    <str id="Healing Touch" value="Healing Touch"/>
-    <str id="Healing Wave" value="Healing Wave"/>
-    <str id="Renewing Touch" value="Renewing Touch"/>
-    <str id="Turn Undead" value="Turn Undead"/>
-    <str id="Amplify Magic" value="Amplify Magic"/>
-    <str id="Electric Orb" value="Electric Orb"/>
-    <str id="Enlarge Orb" value="Enlarge Orb"/>
-    <str id="Flaming Orb" value="Flaming Orb"/>
-    <str id="Frozen Orb" value="Frozen Orb"/>
-    <str id="Illumination" value="Illumination"/>
-    <str id="Mage Armour" value="Mage Armour"/>
-    <str id="Mirror Image" value="Mirror Image"/>
-    <str id="Remove Curse" value="Remove Curse"/>
-    <str id="Telekinesis" value="Telekinesis"/>
-    <str id="Banish Daemon" value="Banish Daemon"/>
-    <str id="Bestow Curse" value="Bestow Curse"/>
-    <str id="Capture Soul" value="Capture Soul"/>
-    <str id="Demonic Visage" value="Demonic Visage"/>
-    <str id="Enslave Daemon" value="Enslave Daemon"/>
-    <str id="Plane Shift" value="Plane Shift"/>
-    <str id="Release Soul" value="Release Soul"/>
-    <str id="Summon Daemon" value="Summon Daemon"/>
-    <str id="Venomous Orb" value="Venomous Orb"/>
-    <str id="Virulent Orb" value="Virulent Orb"/>
-    <str id="Divine Shield" value="Divine Shield"/>
-    <str id="Conjure Daemon" value="Conjure Daemon"/>
-    <str id="Identify Item" value="Identify Item"/>
-    <str id="Enchant Item" value="Enchant Item"/>
-    <str id="Elemental Orb" value="Elemental Orb"/>
-    <str id="Clone Creature" value="Clone Creature"/>
-    <str id="Animate Dead" value="Animate Dead"/>
-    <str id="Transmute Item" value="Transmute Item"/>
-    <str id="Arcane Missile" value="Arcane Missile"/>
-    <str id="Alter Terrain" value="Alter Terrain"/>
+    <str id="Cure Disease" value="Cure Disease" local="治疗疾病"/>
+    <str id="Cure Poison" value="Cure Poison" local="治疗中毒"/>
+    <str id="Dispel Magic" value="Dispel Magic" local="驱散魔法"/>
+    <str id="Divine Grace" value="Divine Grace" local="神之恩典"/>
+    <str id="Divine Might" value="Divine Might" local="天赋神力"/>
+    <str id="Divine Reach" value="Divine Reach" local="神圣领域"/>
+    <str id="Healing Touch" value="Healing Touch" local="治疗之触"/>
+    <str id="Healing Wave" value="Healing Wave" local="治疗光波"/>
+    <str id="Renewing Touch" value="Renewing Touch" local="回复之触"/>
+    <str id="Turn Undead" value="Turn Undead" local="超度亡魂"/>
+    <str id="Amplify Magic" value="Amplify Magic" local="魔法增效"/>
+    <str id="Electric Orb" value="Electric Orb" local="电球术"/>
+    <str id="Enlarge Orb" value="Enlarge Orb" local="法术球增大"/>
+    <str id="Flaming Orb" value="Flaming Orb" local="火球术"/>
+    <str id="Frozen Orb" value="Frozen Orb" local="冰球术"/>
+    <str id="Illumination" value="Illumination" local="照明术"/>
+    <str id="Mage Armour" value="Mage Armour" local="魔法盔甲"/>
+    <str id="Mirror Image" value="Mirror Image" local="镜像术"/>
+    <str id="Remove Curse" value="Remove Curse" local="移除诅咒"/>
+    <str id="Telekinesis" value="Telekinesis" local="念动力"/>
+    <str id="Banish Daemon" value="Banish Daemon" local="放逐恶魔"/>
+    <str id="Bestow Curse" value="Bestow Curse" local="降咒术"/>
+    <str id="Capture Soul" value="Capture Soul" local="灵魂捕捉"/>
+    <str id="Demonic Visage" value="Demonic Visage" local="魔鬼面容"/>
+    <str id="Enslave Daemon" value="Enslave Daemon" local="奴役恶魔"/>
+    <str id="Plane Shift" value="Plane Shift" local="位面传送"/>
+    <str id="Release Soul" value="Release Soul" local="释放灵魂"/>
+    <str id="Summon Daemon" value="Summon Daemon" local="召唤恶魔"/>
+    <str id="Venomous Orb" value="Venomous Orb" local="毒球术"/>
+    <str id="Virulent Orb" value="Virulent Orb" local="病球术"/>
+    <str id="Divine Shield" value="Divine Shield" local="神圣之盾"/>
+    <str id="Conjure Daemon" value="Conjure Daemon" local="驱逐恶魔"/>
+    <str id="Identify Item" value="Identify Item" local="物品鉴定"/>
+    <str id="Enchant Item" value="Enchant Item" local="物品附魔"/>
+    <str id="Elemental Orb" value="Elemental Orb" local="元素球"/>
+    <str id="Clone Creature" value="Clone Creature" local="克隆生物"/>
+    <str id="Animate Dead" value="Animate Dead" local="亡灵复生"/>
+    <str id="Transmute Item" value="Transmute Item" local="物品变形"/>
+    <str id="Arcane Missile" value="Arcane Missile" local="奥术飞弹"/>
+    <str id="Alter Terrain" value="Alter Terrain" local="地表变形"/>
   </SpellNames>
   <SpellDescs>
     <str id="Cure Disease" value="Attempts to remove one disease effect from the target creature."/>
@@ -1273,10 +1273,10 @@
     <str id="Symbol of Vigor" value="Symbol of Vigor"/>
   </EnchantNames>
   <EnchantEffects>
-    <str id="+1 Agility" value="+1 Agility"/>
-    <str id="+1 Charisma" value="+1 Charisma"/>
-    <str id="+1 Stamina" value="+1 Stamina"/>
-    <str id="+1 Strength" value="+1 Strength"/>
+    <str id="+1 Agility" value="+1 Agility" local="+1 敏捷"/>
+    <str id="+1 Charisma" value="+1 Charisma" local="+1 魅力"/>
+    <str id="+1 Stamina" value="+1 Stamina" local="+1 耐力"/>
+    <str id="+1 Strength" value="+1 Strength" local="+1 力量"/>
     <str id="Immune to Blind" value="Immune to Blind"/>
     <str id="Immune to Charm" value="Immune to Charm"/>
     <str id="Immune to Confuse" value="Immune to Confuse"/>
@@ -1297,13 +1297,13 @@
     <str id="Shock Resistance" value="Shock Resistance"/>
     <str id="Immune to Instant Death" value="Immune to Instant Death"/>
     <str id="Immune to Fear" value="Immune to Fear"/>
-    <str id="+X Health" value="+X Health"/>
-    <str id="+%d Health" value="+%d Health"/>
+    <str id="+X Health" value="+X Health" local="+X 生命"/>
+    <str id="+%d Health" value="+%d Health" local="+%d 生命"/>
     <str id="+1 Light Radius" value="+1 Light Radius"/>
     <str id="Increases Chance to Crit" value="Increases Chance to Crit"/>
     <str id="Physical Resistance" value="Physical Resistance"/>
     <str id="+D3 Healing Power" value="+D3 Healing Power"/>
-    <str id="+1 Energy" value="+1 Energy"/>
+    <str id="+1 Energy" value="+1 Energy" local="+1 精力"/>
     <str id="Chance to Blind" value="Chance to Blind"/>
     <str id="Chance to Charm" value="Chance to Charm"/>
     <str id="Chance to Confuse" value="Chance to Confuse"/>
@@ -1317,22 +1317,22 @@
     <str id="Chance to Sleep" value="Chance to Sleep"/>
     <str id="Chance to Slow" value="Chance to Slow"/>
     <str id="Chance to Bestow Curse" value="Chance to Bestow Curse"/>
-    <str id="+D6 Disease Damage" value="+D6 Disease Damage"/>
-    <str id="+D6 Poison Damage" value="+D6 Poison Damage"/>
-    <str id="+D6 Fire Damage" value="+D6 Fire Damage"/>
-    <str id="+D6 Frost Damage" value="+D6 Frost Damage"/>
-    <str id="+D6 Shock Damage" value="+D6 Shock Damage"/>
+    <str id="+D6 Disease Damage" value="+D6 Disease Damage" local="+D6 疾病伤害"/>
+    <str id="+D6 Poison Damage" value="+D6 Poison Damage" local="+D6 毒伤害"/>
+    <str id="+D6 Fire Damage" value="+D6 Fire Damage" local="+D6 火焰伤害"/>
+    <str id="+D6 Frost Damage" value="+D6 Frost Damage" local="+D6 冰霜伤害"/>
+    <str id="+D6 Shock Damage" value="+D6 Shock Damage" local="+D6 震击伤害"/>
     <str id="Chance to Instantly Kill" value="Chance to Instantly Kill"/>
     <str id="Chance to Fear" value="Chance to Fear"/>
-    <str id="+X Health" value="+X Health"/>
+    <str id="+X Health" value="+X Health" local="+X 生命"/>
     <str id="+1 Light Radius" value="+1 Light Radius"/>
     <str id="Increases Chance to Crit" value="Increases Chance to Crit"/>
-    <str id="+D3 Physical Damage" value="+D3 Physical Damage"/>
-    <str id="+D3 Spell Damage" value="+D3 Spell Damage"/>
-    <str id="+1 Energy" value="+1 Energy"/>
-    <str id="+2D6 Fire Damage" value="+2D6 Fire Damage"/>
-    <str id="+2D6 Frost Damage" value="+2D6 Frost Damage"/>
-    <str id="+2D6 Shock Damage" value="+2D6 Shock Damage"/>
+    <str id="+D3 Physical Damage" value="+D3 Physical Damage" local="+D3 物理伤害"/>
+    <str id="+D3 Spell Damage" value="+D3 Spell Damage" local="+D3 法术伤害"/>
+    <str id="+1 Energy" value="+1 Energy" local="+1 精力"/>
+    <str id="+2D6 Fire Damage" value="+2D6 Fire Damage" local="+2D6 火焰伤害"/>
+    <str id="+2D6 Frost Damage" value="+2D6 Frost Damage" local="+2D6 冰霜伤害"/>
+    <str id="+2D6 Shock Damage" value="+2D6 Shock Damage" local="+2D6 震击伤害"/>
   </EnchantEffects>
   <EnchantPrefixes>
     <str id="Archer's " value="Archer's "/>
@@ -2706,28 +2706,28 @@
     <str id="Living fire" value="Living fire"/>
     <str id="Living water" value="Living water"/>
     <str id="Human" value="Human"/>
-    <str id="Assassin" value="Assassin"/>
-    <str id="Duelist" value="Duelist"/>
-    <str id="Fighter" value="Fighter"/>
-    <str id="Warrior" value="Warrior"/>
-    <str id="Paladin" value="Paladin"/>
-    <str id="Archer" value="Archer"/>
-    <str id="Bowman" value="Bowman"/>
-    <str id="Ranger" value="Ranger"/>
-    <str id="Cleric" value="Cleric"/>
-    <str id="Priest" value="Priest"/>
-    <str id="Wizard" value="Wizard"/>
-    <str id="Warlock" value="Warlock"/>
-    <str id="Bandit leader" value="Bandit leader"/>
-    <str id="Merchant" value="Merchant"/>
-    <str id="Henchman" value="Henchman"/>
-    <str id="Cultist" value="Cultist"/>
-    <str id="Guard" value="Guard"/>
-    <str id="Sentry" value="Sentry"/>
-    <str id="Sorcerer" value="Sorcerer"/>
-    <str id="Sorceress" value="Sorceress"/>
-    <str id="Knight" value="Knight"/>
-    <str id="Archmage" value="Archmage"/>
+    <str id="Assassin" value="Assassin" local="刺客"/>
+    <str id="Duelist" value="Duelist" local="斗士"/>
+    <str id="Fighter" value="Fighter" local="战士"/>
+    <str id="Warrior" value="Warrior" local="勇士"/>
+    <str id="Paladin" value="Paladin" local="圣骑士"/>
+    <str id="Archer" value="Archer" local="射手"/>
+    <str id="Bowman" value="Bowman" local="弓箭手"/>
+    <str id="Ranger" value="Ranger" local="独行侠"/>
+    <str id="Cleric" value="Cleric" local="牧师"/>
+    <str id="Priest" value="Priest" local="祭司"/>
+    <str id="Wizard" value="Wizard" local="法师"/>
+    <str id="Warlock" value="Warlock" local="术士"/>
+    <str id="Bandit leader" value="Bandit leader" local="匪首"/>
+    <str id="Merchant" value="Merchant" local="商人"/>
+    <str id="Henchman" value="Henchman" local="侍从"/>
+    <str id="Cultist" value="Cultist" local="教众"/>
+    <str id="Guard" value="Guard" local="守卫"/>
+    <str id="Sentry" value="Sentry" local="哨兵"/>
+    <str id="Sorcerer" value="Sorcerer" local="男巫"/>
+    <str id="Sorceress" value="Sorceress" local="女巫"/>
+    <str id="Knight" value="Knight" local="骑士"/>
+    <str id="Archmage" value="Archmage" local="大法师"/>
     <str id="Blackhand" value="Blackhand"/>
     <str id="Prince Altren" value="Prince Altren"/>
     <str id="Master Gifin-Gif" value="Master Gifin-Gif"/>
