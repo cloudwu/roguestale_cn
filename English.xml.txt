@@ -72,7 +72,7 @@ Buttons."Accept" 接受
 Buttons."Cancel" 取消
 Buttons."Return" 返回
 Buttons."Logout" 登出
-Buttons."Play game" 进行游戏
+Buttons."Play game" 开始游戏
 Buttons."Create new account" 创建账号
 Buttons."Login" 登录
 Buttons."Locale editor" 本地化编辑器
@@ -2498,7 +2498,7 @@ CreatureNames."Human" Human
 CreatureNames."Assassin" 刺客
 CreatureNames."Duelist" 斗士
 CreatureNames."Fighter" 战士
-CreatureNames."Warrior" 勇士
+CreatureNames."Warrior" 武士
 CreatureNames."Paladin" 圣骑士
 CreatureNames."Archer" 射手
 CreatureNames."Bowman" 弓箭手
@@ -3456,7 +3456,7 @@ ChallengeDescs."Path of Fairness" %s
 ChallengeDescs."Path of Fairness".1 If you answer the test with fair answers only, you will be known as '%s'.
 ChallengeDescs."Path of Compassion" %s
 ChallengeDescs."Path of Compassion".1 If you answer the test with gentle answers only, you will be known as '%s'.
-ChallengeTitles."Select Title" Select Title
+ChallengeTitles."Select Title" 选择头衔
 ChallengeTitles."the Alchemist" the Alchemist
 ChallengeTitles."the Archer" the Archer
 ChallengeTitles."the Assassin" the Assassin
@@ -4027,72 +4027,72 @@ DeathScreen."INVENTORY:" INVENTORY:
 DeathScreen."SPELLS:" SPELLS:
 DeathScreen."TALENTS:" TALENTS:
 DeathScreen."KNOWLEDGE:" KNOWLEDGE:
-HeroScreen."Name" Name
-HeroScreen."Base Color" Base Color
-HeroScreen."Hair Style" Hair Style
-HeroScreen."Hair Color" Hair Color
-HeroScreen."Cloak Style" Cloak Style
-HeroScreen."Cloak Color" Cloak Color
-HeroScreen."Select Title" Select Title
-HeroScreen."Points remaining:" Points remaining:
-HeroScreen."Please don't hurt me!" Please don't hurt me!
-HeroScreen."Select Class" Select Class
-HeroScreen."Warrior" Warrior
-HeroScreen."Archer" Archer
-HeroScreen."Assassin" Assassin
-HeroScreen."Paladin" Paladin
-HeroScreen."Wizard" Wizard
-HeroScreen."Warlock" Warlock
-HeroScreen."Rogue" Rogue
-HeroScreen."Wizard's staff" Wizard's staff
-HeroScreen."Bow and arrows" Bow and arrows
-HeroScreen."Throwing knives" Throwing knives
-HeroScreen."Sword and buckler" Sword and buckler
-HeroScreen."Leather armour set" Leather armour set
-HeroScreen."Potion of antidote" Potion of antidote
-HeroScreen."Potion of healing" Potion of healing
-HeroScreen."Common literacy" Common literacy
-HeroScreen."Dog companion" Dog companion
-HeroScreen."This heritage" This heritage
-HeroScreen."Casual difficulty level:" Casual difficulty level:
-HeroScreen."- Start with class specific abilities." - Start with class specific abilities.
-HeroScreen."- Start with class specific equipment." - Start with class specific equipment.
-HeroScreen."- Start with class specific talents." - Start with class specific talents.
-HeroScreen."- Enemies are progressively weaker." - Enemies are progressively weaker.
-HeroScreen."- Traps and snares do less damage." - Traps and snares do less damage.
-HeroScreen."- Unidentified items can be sold." - Unidentified items can be sold.
-HeroScreen."- Artisans have more materials." - Artisans have more materials.
-HeroScreen."- Some heritages can't be unlocked." - Some heritages can't be unlocked.
-HeroScreen."- Challenges can't be unlocked." - Challenges can't be unlocked.
-HeroScreen."- Kings won't be remembered." - Kings won't be remembered.
-HeroScreen."HERO_SCREEN_WARRIOR_DESC" Warriors rely on brute force and melee weapons to deal with their enemies.
-HeroScreen."HERO_SCREEN_WARRIOR_DESC".1 They quickly approach their enemies and finish them off with a series of crushing blows.
-HeroScreen."HERO_SCREEN_WARRIOR_DESC".2 Talents:&#10;- %s&#10;- %s&#10;- %s
-HeroScreen."HERO_SCREEN_ARCHER_DESC" Archers rely on perception and ranged weapons to deal with their enemies.
-HeroScreen."HERO_SCREEN_ARCHER_DESC".1 They maintain optimal range to their enemies and snipe them down with a few well aimed shots.
-HeroScreen."HERO_SCREEN_ARCHER_DESC".2 Talents:&#10;- %s&#10;- %s&#10;- %s
-HeroScreen."HERO_SCREEN_ASSASSIN_DESC" Assassins rely on stealth and initiative to deal with their enemies.
-HeroScreen."HERO_SCREEN_ASSASSIN_DESC".1 They silently move in for the first strike and quickly finish any survivors with a blade flurry.
-HeroScreen."HERO_SCREEN_ASSASSIN_DESC".2 Talents:&#10;- %s&#10;- %s&#10;- %s
-HeroScreen."HERO_SCREEN_PALADIN_DESC" Paladins rely on Celestial magic to buff them and keep them alive as they rid the world of evil.
-HeroScreen."HERO_SCREEN_PALADIN_DESC".1 Talents:&#10;- %s&#10;- %s&#10;- %s
-HeroScreen."HERO_SCREEN_PALADIN_DESC".2 Spells:&#10;- %s&#10;- %s
-HeroScreen."HERO_SCREEN_WIZARD_DESC" Wizards rely on Draconic magic to aid them in their innate quest to seek more knowledge and power.
-HeroScreen."HERO_SCREEN_WIZARD_DESC".1 Talents:&#10;- %s&#10;- %s&#10;- %s
-HeroScreen."HERO_SCREEN_WIZARD_DESC".2 Spells:&#10;- %s&#10;- %s
-HeroScreen."HERO_SCREEN_WARLOCK_DESC" Warlocks rely on Infernal magic to help them accomplish their nefarious deeds and ambitions.
-HeroScreen."HERO_SCREEN_WARLOCK_DESC".1 Talents:&#10;- %s&#10;- %s&#10;- %s
-HeroScreen."HERO_SCREEN_WARLOCK_DESC".2 Spells:&#10;- %s&#10;- %s
-HeroScreen."Heroic difficulty level:" Heroic difficulty level:
-HeroScreen."- Start with average abilities." - Start with average abilities.
-HeroScreen."- Start with a shirt and dagger." - Start with a shirt and dagger.
-HeroScreen."- Level 20 enemies are stronger." - Level 20 enemies are stronger.
-HeroScreen."- Enemies are better equipped." - Enemies are better equipped.
-HeroScreen."- Most heritages are not available." - Most heritages are not available.
-HeroScreen."- Artisans have no materials." - Artisans have no materials.
-HeroScreen."- The snail cushion is not there." - The snail cushion is not there.
-HeroScreen."- The cultists should be stopped." - The cultists should be stopped.
-HeroScreen."- Unlocks the Kingslayer title." - Unlocks the Kingslayer title.
+HeroScreen."Name" 名字
+HeroScreen."Base Color" 基础色
+HeroScreen."Hair Style" 发型
+HeroScreen."Hair Color" 发色
+HeroScreen."Cloak Style" 披风样式
+HeroScreen."Cloak Color" 披风颜色
+HeroScreen."Select Title" 选择头衔
+HeroScreen."Points remaining:" 剩余点数：
+HeroScreen."Please don't hurt me!" 不要伤害我！
+HeroScreen."Select Class" 选择职业
+HeroScreen."Warrior" 武士
+HeroScreen."Archer" 射手
+HeroScreen."Assassin" 刺客
+HeroScreen."Paladin" 圣骑士
+HeroScreen."Wizard" 法师
+HeroScreen."Warlock" 术士
+HeroScreen."Rogue" 游侠
+HeroScreen."Wizard's staff" 法杖
+HeroScreen."Bow and arrows" 弓箭
+HeroScreen."Throwing knives" 飞刀
+HeroScreen."Sword and buckler" 剑盾
+HeroScreen."Leather armour set" 皮质盔甲套装
+HeroScreen."Potion of antidote" 解毒药水
+HeroScreen."Potion of healing" 生命药水
+HeroScreen."Common literacy" 读写常识
+HeroScreen."Dog companion" 狗同伴
+HeroScreen."This heritage" 这项遗产
+HeroScreen."Casual difficulty level:" 休闲难度级别：
+HeroScreen."- Start with class specific abilities." - 开始就拥有职业关联能力。
+HeroScreen."- Start with class specific equipment." - 开始就拥有职业关联装备。
+HeroScreen."- Start with class specific talents." - 开始就拥有职业关联天赋。
+HeroScreen."- Enemies are progressively weaker." - 敌人逐渐衰弱。
+HeroScreen."- Traps and snares do less damage." - 陷阱造成的伤害更少。
+HeroScreen."- Unidentified items can be sold." - 物品不经鉴定即可售卖。
+HeroScreen."- Artisans have more materials." - 工匠有更多材料。
+HeroScreen."- Some heritages can't be unlocked." - 一些遗产无法解锁。
+HeroScreen."- Challenges can't be unlocked." - 挑战无法解锁。
+HeroScreen."- Kings won't be remembered." - 成为国王后无法被记录。
+HeroScreen."HERO_SCREEN_WARRIOR_DESC" 武士用蛮力和近战武器对付敌人。
+HeroScreen."HERO_SCREEN_WARRIOR_DESC".1 他们迅速接近敌人，用一套粉碎打击干掉他们。
+HeroScreen."HERO_SCREEN_WARRIOR_DESC".2 天赋：&#10;- %s&#10;- %s&#10;- %s
+HeroScreen."HERO_SCREEN_ARCHER_DESC" 射手已其洞察力和远程武器干掉敌人。
+HeroScreen."HERO_SCREEN_ARCHER_DESC".1 他们和敌人拉开距离，通过几发精确的射击干掉他们。
+HeroScreen."HERO_SCREEN_ARCHER_DESC".2 天赋：&#10;- %s&#10;- %s&#10;- %s
+HeroScreen."HERO_SCREEN_ASSASSIN_DESC" 刺客依靠隐秘行动对他们的敌人主动发起攻击。
+HeroScreen."HERO_SCREEN_ASSASSIN_DESC".1 他们潜行抢先发起攻击，然后用剑刃乱舞快速解决一息尚存的敌人。
+HeroScreen."HERO_SCREEN_ASSASSIN_DESC".2 天赋：&#10;- %s&#10;- %s&#10;- %s
+HeroScreen."HERO_SCREEN_PALADIN_DESC" 圣骑士依靠天使系法术活下来驱散世界中的邪恶。
+HeroScreen."HERO_SCREEN_PALADIN_DESC".1 天赋：&#10;- %s&#10;- %s&#10;- %s
+HeroScreen."HERO_SCREEN_PALADIN_DESC".2 法术：&#10;- %s&#10;- %s
+HeroScreen."HERO_SCREEN_WIZARD_DESC" 法师依靠龙系法术来追寻更多知识和力量来完成他们的使命。
+HeroScreen."HERO_SCREEN_WIZARD_DESC".1 天赋：&#10;- %s&#10;- %s&#10;- %s
+HeroScreen."HERO_SCREEN_WIZARD_DESC".2 法术：&#10;- %s&#10;- %s
+HeroScreen."HERO_SCREEN_WARLOCK_DESC" 术士依靠地狱系法术来完成他们邪恶的野心。
+HeroScreen."HERO_SCREEN_WARLOCK_DESC".1 天赋：&#10;- %s&#10;- %s&#10;- %s
+HeroScreen."HERO_SCREEN_WARLOCK_DESC".2 法术：&#10;- %s&#10;- %s
+HeroScreen."Heroic difficulty level:" 英雄难度级别：
+HeroScreen."- Start with average abilities." - 以平均能力开局。
+HeroScreen."- Start with a shirt and dagger." - 开始只装备有衬衫和匕首。
+HeroScreen."- Level 20 enemies are stronger." - 20 级的敌人更强大。
+HeroScreen."- Enemies are better equipped." - 敌人有更好的装备。
+HeroScreen."- Most heritages are not available." - 所有遗产都不可使用。
+HeroScreen."- Artisans have no materials." - 工匠没有材料。
+HeroScreen."- The snail cushion is not there." - 没有蜗牛。
+HeroScreen."- The cultists should be stopped." - 必须制止信徒。
+HeroScreen."- Unlocks the Kingslayer title." - 解锁 弑君者 头衔。
 ErrorStrings."Steam must be running to play this game." Steam must be running to play this game.
 ErrorStrings."Unable to connect to the server." Unable to connect to the server.
 ErrorStrings."Disconnected by the server." Disconnected by the server.

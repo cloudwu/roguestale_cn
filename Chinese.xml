@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190515)" checksum="be3ef0ffe5d986a215723f951f57b703571d69d9">
+<strings version="Version 2.00 Beta 1 (190515)" checksum="69cf19d344dc3056f19ec9f819ca9de4d354676d">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -82,7 +82,7 @@
     <str id="Cancel" value="Cancel" local="取消"/>
     <str id="Return" value="Return" local="返回"/>
     <str id="Logout" value="Logout" local="登出"/>
-    <str id="Play game" value="Play game" local="进行游戏"/>
+    <str id="Play game" value="Play game" local="开始游戏"/>
     <str id="Create new account" value="Create new account" local="创建账号"/>
     <str id="Login" value="Login" local="登录"/>
     <str id="Locale editor" value="Locale editor" local="本地化编辑器"/>
@@ -2709,7 +2709,7 @@
     <str id="Assassin" value="Assassin" local="刺客"/>
     <str id="Duelist" value="Duelist" local="斗士"/>
     <str id="Fighter" value="Fighter" local="战士"/>
-    <str id="Warrior" value="Warrior" local="勇士"/>
+    <str id="Warrior" value="Warrior" local="武士"/>
     <str id="Paladin" value="Paladin" local="圣骑士"/>
     <str id="Archer" value="Archer" local="射手"/>
     <str id="Bowman" value="Bowman" local="弓箭手"/>
@@ -3823,7 +3823,7 @@
     </str>
   </ChallengeDescs>
   <ChallengeTitles>
-    <str id="Select Title" value="Select Title"/>
+    <str id="Select Title" value="Select Title" local="选择头衔"/>
     <str id="the Alchemist" value="the Alchemist"/>
     <str id="the Archer" value="the Archer"/>
     <str id="the Assassin" value="the Assassin"/>
@@ -4461,102 +4461,102 @@
     <str id="KNOWLEDGE:" value="KNOWLEDGE:"/>
   </DeathScreen>
   <HeroScreen>
-    <str id="Name" value="Name"/>
-    <str id="Base Color" value="Base Color"/>
-    <str id="Hair Style" value="Hair Style"/>
-    <str id="Hair Color" value="Hair Color"/>
-    <str id="Cloak Style" value="Cloak Style"/>
-    <str id="Cloak Color" value="Cloak Color"/>
-    <str id="Select Title" value="Select Title"/>
-    <str id="Points remaining:" value="Points remaining:"/>
-    <str id="Please don't hurt me!" value="Please don't hurt me!"/>
-    <str id="Select Class" value="Select Class"/>
-    <str id="Warrior" value="Warrior"/>
-    <str id="Archer" value="Archer"/>
-    <str id="Assassin" value="Assassin"/>
-    <str id="Paladin" value="Paladin"/>
-    <str id="Wizard" value="Wizard"/>
-    <str id="Warlock" value="Warlock"/>
-    <str id="Rogue" value="Rogue"/>
-    <str id="Wizard's staff" value="Wizard's staff"/>
-    <str id="Bow and arrows" value="Bow and arrows"/>
-    <str id="Throwing knives" value="Throwing knives"/>
-    <str id="Sword and buckler" value="Sword and buckler"/>
-    <str id="Leather armour set" value="Leather armour set"/>
-    <str id="Potion of antidote" value="Potion of antidote"/>
-    <str id="Potion of healing" value="Potion of healing"/>
-    <str id="Common literacy" value="Common literacy"/>
-    <str id="Dog companion" value="Dog companion"/>
-    <str id="This heritage" value="This heritage"/>
-    <str id="Casual difficulty level:" value="Casual difficulty level:"/>
-    <str id="- Start with class specific abilities." value="- Start with class specific abilities."/>
-    <str id="- Start with class specific equipment." value="- Start with class specific equipment."/>
-    <str id="- Start with class specific talents." value="- Start with class specific talents."/>
-    <str id="- Enemies are progressively weaker." value="- Enemies are progressively weaker."/>
-    <str id="- Traps and snares do less damage." value="- Traps and snares do less damage."/>
-    <str id="- Unidentified items can be sold." value="- Unidentified items can be sold."/>
-    <str id="- Artisans have more materials." value="- Artisans have more materials."/>
-    <str id="- Some heritages can't be unlocked." value="- Some heritages can't be unlocked."/>
-    <str id="- Challenges can't be unlocked." value="- Challenges can't be unlocked."/>
-    <str id="- Kings won't be remembered." value="- Kings won't be remembered."/>
-    <str id="HERO_SCREEN_WARRIOR_DESC" value="Warriors rely on brute force and melee weapons to deal with their enemies.">
-      <str id="paragraph 1" value="They quickly approach their enemies and finish them off with a series of crushing blows."/>
+    <str id="Name" value="Name" local="名字"/>
+    <str id="Base Color" value="Base Color" local="基础色"/>
+    <str id="Hair Style" value="Hair Style" local="发型"/>
+    <str id="Hair Color" value="Hair Color" local="发色"/>
+    <str id="Cloak Style" value="Cloak Style" local="披风样式"/>
+    <str id="Cloak Color" value="Cloak Color" local="披风颜色"/>
+    <str id="Select Title" value="Select Title" local="选择头衔"/>
+    <str id="Points remaining:" value="Points remaining:" local="剩余点数："/>
+    <str id="Please don't hurt me!" value="Please don't hurt me!" local="不要伤害我！"/>
+    <str id="Select Class" value="Select Class" local="选择职业"/>
+    <str id="Warrior" value="Warrior" local="武士"/>
+    <str id="Archer" value="Archer" local="射手"/>
+    <str id="Assassin" value="Assassin" local="刺客"/>
+    <str id="Paladin" value="Paladin" local="圣骑士"/>
+    <str id="Wizard" value="Wizard" local="法师"/>
+    <str id="Warlock" value="Warlock" local="术士"/>
+    <str id="Rogue" value="Rogue" local="游侠"/>
+    <str id="Wizard's staff" value="Wizard's staff" local="法杖"/>
+    <str id="Bow and arrows" value="Bow and arrows" local="弓箭"/>
+    <str id="Throwing knives" value="Throwing knives" local="飞刀"/>
+    <str id="Sword and buckler" value="Sword and buckler" local="剑盾"/>
+    <str id="Leather armour set" value="Leather armour set" local="皮质盔甲套装"/>
+    <str id="Potion of antidote" value="Potion of antidote" local="解毒药水"/>
+    <str id="Potion of healing" value="Potion of healing" local="生命药水"/>
+    <str id="Common literacy" value="Common literacy" local="读写常识"/>
+    <str id="Dog companion" value="Dog companion" local="狗同伴"/>
+    <str id="This heritage" value="This heritage" local="这项遗产"/>
+    <str id="Casual difficulty level:" value="Casual difficulty level:" local="休闲难度级别："/>
+    <str id="- Start with class specific abilities." value="- Start with class specific abilities." local="- 开始就拥有职业关联能力。"/>
+    <str id="- Start with class specific equipment." value="- Start with class specific equipment." local="- 开始就拥有职业关联装备。"/>
+    <str id="- Start with class specific talents." value="- Start with class specific talents." local="- 开始就拥有职业关联天赋。"/>
+    <str id="- Enemies are progressively weaker." value="- Enemies are progressively weaker." local="- 敌人逐渐衰弱。"/>
+    <str id="- Traps and snares do less damage." value="- Traps and snares do less damage." local="- 陷阱造成的伤害更少。"/>
+    <str id="- Unidentified items can be sold." value="- Unidentified items can be sold." local="- 物品不经鉴定即可售卖。"/>
+    <str id="- Artisans have more materials." value="- Artisans have more materials." local="- 工匠有更多材料。"/>
+    <str id="- Some heritages can't be unlocked." value="- Some heritages can't be unlocked." local="- 一些遗产无法解锁。"/>
+    <str id="- Challenges can't be unlocked." value="- Challenges can't be unlocked." local="- 挑战无法解锁。"/>
+    <str id="- Kings won't be remembered." value="- Kings won't be remembered." local="- 成为国王后无法被记录。"/>
+    <str id="HERO_SCREEN_WARRIOR_DESC" value="Warriors rely on brute force and melee weapons to deal with their enemies." local="武士用蛮力和近战武器对付敌人。">
+      <str id="paragraph 1" value="They quickly approach their enemies and finish them off with a series of crushing blows." local="他们迅速接近敌人，用一套粉碎打击干掉他们。"/>
       <str id="paragraph 2" value="Talents:
 - %s
 - %s
-- %s"/>
+- %s" local="天赋：&#10;- %s&#10;- %s&#10;- %s"/>
     </str>
-    <str id="HERO_SCREEN_ARCHER_DESC" value="Archers rely on perception and ranged weapons to deal with their enemies.">
-      <str id="paragraph 1" value="They maintain optimal range to their enemies and snipe them down with a few well aimed shots."/>
+    <str id="HERO_SCREEN_ARCHER_DESC" value="Archers rely on perception and ranged weapons to deal with their enemies." local="射手已其洞察力和远程武器干掉敌人。">
+      <str id="paragraph 1" value="They maintain optimal range to their enemies and snipe them down with a few well aimed shots." local="他们和敌人拉开距离，通过几发精确的射击干掉他们。"/>
       <str id="paragraph 2" value="Talents:
 - %s
 - %s
-- %s"/>
+- %s" local="天赋：&#10;- %s&#10;- %s&#10;- %s"/>
     </str>
-    <str id="HERO_SCREEN_ASSASSIN_DESC" value="Assassins rely on stealth and initiative to deal with their enemies.">
-      <str id="paragraph 1" value="They silently move in for the first strike and quickly finish any survivors with a blade flurry."/>
+    <str id="HERO_SCREEN_ASSASSIN_DESC" value="Assassins rely on stealth and initiative to deal with their enemies." local="刺客依靠隐秘行动对他们的敌人主动发起攻击。">
+      <str id="paragraph 1" value="They silently move in for the first strike and quickly finish any survivors with a blade flurry." local="他们潜行抢先发起攻击，然后用剑刃乱舞快速解决一息尚存的敌人。"/>
       <str id="paragraph 2" value="Talents:
 - %s
 - %s
-- %s"/>
+- %s" local="天赋：&#10;- %s&#10;- %s&#10;- %s"/>
     </str>
-    <str id="HERO_SCREEN_PALADIN_DESC" value="Paladins rely on Celestial magic to buff them and keep them alive as they rid the world of evil.">
+    <str id="HERO_SCREEN_PALADIN_DESC" value="Paladins rely on Celestial magic to buff them and keep them alive as they rid the world of evil." local="圣骑士依靠天使系法术活下来驱散世界中的邪恶。">
       <str id="paragraph 1" value="Talents:
 - %s
 - %s
-- %s"/>
+- %s" local="天赋：&#10;- %s&#10;- %s&#10;- %s"/>
       <str id="paragraph 2" value="Spells:
 - %s
-- %s"/>
+- %s" local="法术：&#10;- %s&#10;- %s"/>
     </str>
-    <str id="HERO_SCREEN_WIZARD_DESC" value="Wizards rely on Draconic magic to aid them in their innate quest to seek more knowledge and power.">
+    <str id="HERO_SCREEN_WIZARD_DESC" value="Wizards rely on Draconic magic to aid them in their innate quest to seek more knowledge and power." local="法师依靠龙系法术来追寻更多知识和力量来完成他们的使命。">
       <str id="paragraph 1" value="Talents:
 - %s
 - %s
-- %s"/>
+- %s" local="天赋：&#10;- %s&#10;- %s&#10;- %s"/>
       <str id="paragraph 2" value="Spells:
 - %s
-- %s"/>
+- %s" local="法术：&#10;- %s&#10;- %s"/>
     </str>
-    <str id="HERO_SCREEN_WARLOCK_DESC" value="Warlocks rely on Infernal magic to help them accomplish their nefarious deeds and ambitions.">
+    <str id="HERO_SCREEN_WARLOCK_DESC" value="Warlocks rely on Infernal magic to help them accomplish their nefarious deeds and ambitions." local="术士依靠地狱系法术来完成他们邪恶的野心。">
       <str id="paragraph 1" value="Talents:
 - %s
 - %s
-- %s"/>
+- %s" local="天赋：&#10;- %s&#10;- %s&#10;- %s"/>
       <str id="paragraph 2" value="Spells:
 - %s
-- %s"/>
+- %s" local="法术：&#10;- %s&#10;- %s"/>
     </str>
-    <str id="Heroic difficulty level:" value="Heroic difficulty level:"/>
-    <str id="- Start with average abilities." value="- Start with average abilities."/>
-    <str id="- Start with a shirt and dagger." value="- Start with a shirt and dagger."/>
-    <str id="- Level 20 enemies are stronger." value="- Level 20 enemies are stronger."/>
-    <str id="- Enemies are better equipped." value="- Enemies are better equipped."/>
-    <str id="- Most heritages are not available." value="- Most heritages are not available."/>
-    <str id="- Artisans have no materials." value="- Artisans have no materials."/>
-    <str id="- The snail cushion is not there." value="- The snail cushion is not there."/>
-    <str id="- The cultists should be stopped." value="- The cultists should be stopped."/>
-    <str id="- Unlocks the Kingslayer title." value="- Unlocks the Kingslayer title."/>
+    <str id="Heroic difficulty level:" value="Heroic difficulty level:" local="英雄难度级别："/>
+    <str id="- Start with average abilities." value="- Start with average abilities." local="- 以平均能力开局。"/>
+    <str id="- Start with a shirt and dagger." value="- Start with a shirt and dagger." local="- 开始只装备有衬衫和匕首。"/>
+    <str id="- Level 20 enemies are stronger." value="- Level 20 enemies are stronger." local="- 20 级的敌人更强大。"/>
+    <str id="- Enemies are better equipped." value="- Enemies are better equipped." local="- 敌人有更好的装备。"/>
+    <str id="- Most heritages are not available." value="- Most heritages are not available." local="- 所有遗产都不可使用。"/>
+    <str id="- Artisans have no materials." value="- Artisans have no materials." local="- 工匠没有材料。"/>
+    <str id="- The snail cushion is not there." value="- The snail cushion is not there." local="- 没有蜗牛。"/>
+    <str id="- The cultists should be stopped." value="- The cultists should be stopped." local="- 必须制止信徒。"/>
+    <str id="- Unlocks the Kingslayer title." value="- Unlocks the Kingslayer title." local="- 解锁 弑君者 头衔。"/>
   </HeroScreen>
   <ErrorStrings>
     <str id="Steam must be running to play this game." value="Steam must be running to play this game."/>
