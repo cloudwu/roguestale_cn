@@ -68,34 +68,34 @@
 "CONFIG_SCREEN_DESC".2 除了 %s，%s，%s 以及 %s 之外的键。&#10;
 "CONFIG_SCREEN_DESC".3 点一下按钮可以清除与之绑定的按键。
 "LOADING_SCREEN_DESC" 正在给恶魔注入鲜血，请稍后……
-"Accept" Accept
-"Cancel" Cancel
-"Return" Return
-"Logout" Logout
-"Play game" Play game
-"Create new account" Create new account
-"Login" Login
-"Locale editor" Locale editor
-"Dialogue editor" Dialogue editor
-"Dungeon editor" Dungeon editor
-"Quest editor" Quest editor
-"Terms of use" Terms of use
-"Settings" Settings
-"Credits" Credits
-"Retire rogue" Retire rogue
-"Key bindings" Key bindings
-"Change password" Change password
-"Delete account" Delete account
-"Exit game" Exit game
-"Windowed" Windowed
-"Gamepad" Gamepad
-"Save changes" Save changes
-"Change password" Change password
-"Rest in peace" Rest in peace
-"Journey onward" Journey onward
-"Start a new game" Start a new game
-"Okay" Okay
-"Close" Close
+"Accept" 接受
+"Cancel" 取消
+"Return" 返回
+"Logout" 登出
+"Play game" 进行游戏
+"Create new account" 创建账号
+"Login" 登录
+"Locale editor" 本地化编辑器
+"Dialogue editor" 对话编辑器
+"Dungeon editor" 关卡编辑器
+"Quest editor" 任务编辑器
+"Terms of use" 使用条款
+"Settings" 设置
+"Credits" 制作人员
+"Retire rogue" 游侠归隐
+"Key bindings" 按键绑定
+"Change password" 修改密码
+"Delete account" 删除帐号
+"Exit game" 退出游戏
+"Windowed" 窗口化
+"Gamepad" 手柄
+"Save changes" 保存更改
+"Change password" 密码修改
+"Rest in peace" 逝者安息
+"Journey onward" 继续旅程
+"Start a new game" 开启新游戏
+"Okay" 确定
+"Close" 关闭
 "Loot" This key shows the items on the ground while it is pressed.
 "Pri. Use" This key is used with the movement keys to carry out actions such as pick lock, disarm trap and open door.
 "Sec. Use" This key is used with a hotkey to self cast spells, equip weapons in the offhand and to equip a ring on the offhand finger.
