@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190520)" checksum="74d269d3d893e1c26830ddecb2a941925683a2d9">
+<strings version="Version 2.00 Beta 1 (190520)" checksum="324653238d5e3607b0d03fdc8f3aef45e94a3083">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -846,130 +846,130 @@
     <str id="Rotting Flesh" value="Rotting Flesh" local="肌肉腐烂"/>
   </DiseaseNames>
   <EffectNames>
-    <str id="Oogled" value="Oogled"/>
-    <str id="Afraid" value="Afraid"/>
-    <str id="Asleep" value="Asleep"/>
-    <str id="Blinded" value="Blinded"/>
-    <str id="Charmed" value="Charmed"/>
-    <str id="Chilled" value="Chilled"/>
-    <str id="Confused" value="Confused"/>
-    <str id="Deafened" value="Deafened"/>
-    <str id="Energised" value="Energised"/>
-    <str id="Envious" value="Envious"/>
-    <str id="Frenzied" value="Frenzied"/>
-    <str id="Greedy" value="Greedy"/>
-    <str id="Hastened" value="Hastened"/>
-    <str id="Insightful" value="Insightful"/>
-    <str id="Invisible" value="Invisible"/>
-    <str id="Levitated" value="Levitated"/>
-    <str id="Lustful" value="Lustful"/>
-    <str id="On fire" value="On fire"/>
-    <str id="Paralysed" value="Paralysed"/>
-    <str id="Polymorphed" value="Polymorphed"/>
-    <str id="Reckless" value="Reckless"/>
-    <str id="Shocked" value="Shocked"/>
-    <str id="Silenced" value="Silenced"/>
-    <str id="Slowed" value="Slowed"/>
-    <str id="Stunned" value="Stunned"/>
-    <str id="Vitalised" value="Vitalised"/>
-    <str id="Revitalised" value="Revitalised"/>
-    <str id="Literate" value="Literate"/>
-    <str id="Informed" value="Informed"/>
-    <str id="Fearless" value="Fearless"/>
-    <str id="Bestial" value="Bestial"/>
-    <str id="-1 Strength" value="-1 Strength"/>
-    <str id="-1 Agility" value="-1 Agility"/>
-    <str id="-1 Stamina" value="-1 Stamina"/>
-    <str id="-1 Charisma" value="-1 Charisma"/>
-    <str id="+1 Strength" value="+1 Strength"/>
-    <str id="+1 Agility" value="+1 Agility"/>
-    <str id="+1 Stamina" value="+1 Stamina"/>
-    <str id="+1 Charisma" value="+1 Charisma"/>
-    <str id="Wounded" value="Wounded"/>
+    <str id="Oogled" value="Oogled" local="洗劫"/>
+    <str id="Afraid" value="Afraid" local="害怕"/>
+    <str id="Asleep" value="Asleep" local="睡着"/>
+    <str id="Blinded" value="Blinded" local="眼盲"/>
+    <str id="Charmed" value="Charmed" local="着迷"/>
+    <str id="Chilled" value="Chilled" local="冰冻"/>
+    <str id="Confused" value="Confused" local="混乱"/>
+    <str id="Deafened" value="Deafened" local="耳聋"/>
+    <str id="Energised" value="Energised" local="兴奋"/>
+    <str id="Envious" value="Envious" local="嫉妒"/>
+    <str id="Frenzied" value="Frenzied" local="狂乱"/>
+    <str id="Greedy" value="Greedy" local="贪婪"/>
+    <str id="Hastened" value="Hastened" local="加速"/>
+    <str id="Insightful" value="Insightful" local="顿悟"/>
+    <str id="Invisible" value="Invisible" local="隐身"/>
+    <str id="Levitated" value="Levitated" local="悬空"/>
+    <str id="Lustful" value="Lustful" local="淫荡"/>
+    <str id="On fire" value="On fire" local="燃烧"/>
+    <str id="Paralysed" value="Paralysed" local="麻痹"/>
+    <str id="Polymorphed" value="Polymorphed" local="变形"/>
+    <str id="Reckless" value="Reckless" local="鲁莽"/>
+    <str id="Shocked" value="Shocked" local="震击"/>
+    <str id="Silenced" value="Silenced" local="沉默"/>
+    <str id="Slowed" value="Slowed" local="迟缓"/>
+    <str id="Stunned" value="Stunned" local="眩晕"/>
+    <str id="Vitalised" value="Vitalised" local="激发"/>
+    <str id="Revitalised" value="Revitalised" local="复活"/>
+    <str id="Literate" value="Literate" local="开化"/>
+    <str id="Informed" value="Informed" local="见识"/>
+    <str id="Fearless" value="Fearless" local="无畏"/>
+    <str id="Bestial" value="Bestial" local="兽化"/>
+    <str id="-1 Strength" value="-1 Strength" local="-1 力量"/>
+    <str id="-1 Agility" value="-1 Agility" local="-1 敏捷"/>
+    <str id="-1 Stamina" value="-1 Stamina" local="-1 耐力"/>
+    <str id="-1 Charisma" value="-1 Charisma" local="-1 魅力"/>
+    <str id="+1 Strength" value="+1 Strength" local="+1 力量"/>
+    <str id="+1 Agility" value="+1 Agility" local="+1 敏捷"/>
+    <str id="+1 Stamina" value="+1 Stamina" local="+1 耐力"/>
+    <str id="+1 Charisma" value="+1 Charisma" local="+1 魅力"/>
+    <str id="Wounded" value="Wounded" local="负伤"/>
   </EffectNames>
   <EffectFeels>
-    <str id="Oogled" value="You feel oogled."/>
-    <str id="Afraid" value="You feel afraid."/>
-    <str id="Asleep" value="You fall asleep."/>
-    <str id="Blinded" value="You are blinded."/>
-    <str id="Charmed" value="You are charmed."/>
-    <str id="Chilled" value="You are chilled."/>
-    <str id="Confused" value="You are confused."/>
-    <str id="Deafened" value="You are deafened."/>
-    <str id="Energised" value="You feel energised."/>
-    <str id="Envious" value="You feel envious."/>
-    <str id="Frenzied" value="You feel frenzied."/>
-    <str id="Greedy" value="You feel greedy."/>
-    <str id="Hastened" value="You feel hastened."/>
-    <str id="Insightful" value="You feel insightful."/>
-    <str id="Invisible" value="You turn invisible."/>
-    <str id="Levitated" value="You start to levitate."/>
-    <str id="Lustful" value="You feel lustful."/>
-    <str id="On fire" value="You are set on fire."/>
-    <str id="Paralysed" value="You are paralysed."/>
-    <str id="Polymorphed" value="You are polymorphed."/>
-    <str id="Reckless" value="You feel reckless."/>
-    <str id="Shocked" value="You are shocked."/>
-    <str id="Silenced" value="You are silenced."/>
-    <str id="Slowed" value="You feel slowed."/>
-    <str id="Stunned" value="You are stunned."/>
-    <str id="Vitalised" value="You feel vitalised."/>
-    <str id="Revitalised" value="You feel revitalised."/>
-    <str id="Literate" value="You feel literate."/>
-    <str id="Informed" value="You feel informed."/>
-    <str id="Fearless" value="You feel fearless."/>
-    <str id="Bestial" value="You feel bestial."/>
-    <str id="-1 Strength" value="You feel weaker."/>
-    <str id="-1 Agility" value="You feel clumsier."/>
-    <str id="-1 Stamina" value="You feel feebler."/>
-    <str id="-1 Charisma" value="You feel uglier."/>
-    <str id="+1 Strength" value="You feel stronger."/>
-    <str id="+1 Agility" value="You feel nimbler."/>
-    <str id="+1 Stamina" value="You feel tougher."/>
-    <str id="+1 Charisma" value="You feel prettier."/>
-    <str id="Wounded" value="You feel wounded."/>
+    <str id="Oogled" value="You feel oogled." local="你感觉被洗劫了。"/>
+    <str id="Afraid" value="You feel afraid." local="你感到害怕。"/>
+    <str id="Asleep" value="You fall asleep." local="你睡着了。"/>
+    <str id="Blinded" value="You are blinded." local="你瞎了。"/>
+    <str id="Charmed" value="You are charmed." local="你被迷惑了。"/>
+    <str id="Chilled" value="You are chilled." local="你被冻僵了。"/>
+    <str id="Confused" value="You are confused." local="你很混乱。"/>
+    <str id="Deafened" value="You are deafened." local="你聋了。"/>
+    <str id="Energised" value="You feel energised." local="你感到很兴奋。"/>
+    <str id="Envious" value="You feel envious." local="你嫉妒了。"/>
+    <str id="Frenzied" value="You feel frenzied." local="你很疯狂。"/>
+    <str id="Greedy" value="You feel greedy." local="你很贪婪。"/>
+    <str id="Hastened" value="You feel hastened." local="你觉得被加速了。"/>
+    <str id="Insightful" value="You feel insightful." local="你顿悟了。"/>
+    <str id="Invisible" value="You turn invisible." local="你隐身呢。"/>
+    <str id="Levitated" value="You start to levitate." local="你漂浮起来。"/>
+    <str id="Lustful" value="You feel lustful." local="你很淫荡。"/>
+    <str id="On fire" value="You are set on fire." local="你在燃烧。"/>
+    <str id="Paralysed" value="You are paralysed." local="你被麻痹了。"/>
+    <str id="Polymorphed" value="You are polymorphed." local="你被变形了。"/>
+    <str id="Reckless" value="You feel reckless." local="你不顾一切。"/>
+    <str id="Shocked" value="You are shocked." local="你被震撼了。"/>
+    <str id="Silenced" value="You are silenced." local="你被沉默了。"/>
+    <str id="Slowed" value="You feel slowed." local="你被迟缓了。"/>
+    <str id="Stunned" value="You are stunned." local="你被眩晕了。"/>
+    <str id="Vitalised" value="You feel vitalised." local="你生气勃勃。"/>
+    <str id="Revitalised" value="You feel revitalised." local="你感到死而复生。"/>
+    <str id="Literate" value="You feel literate." local="你感觉文采飞扬。"/>
+    <str id="Informed" value="You feel informed." local="你感觉见多识广。"/>
+    <str id="Fearless" value="You feel fearless." local="你感觉无所畏惧。"/>
+    <str id="Bestial" value="You feel bestial." local="你感觉兽性大发。"/>
+    <str id="-1 Strength" value="You feel weaker." local="你变得软弱。"/>
+    <str id="-1 Agility" value="You feel clumsier." local="你变得笨拙。"/>
+    <str id="-1 Stamina" value="You feel feebler." local="你变得虚弱。"/>
+    <str id="-1 Charisma" value="You feel uglier." local="你变得丑陋。"/>
+    <str id="+1 Strength" value="You feel stronger." local="你变得强壮。"/>
+    <str id="+1 Agility" value="You feel nimbler." local="你变得敏捷。"/>
+    <str id="+1 Stamina" value="You feel tougher." local="你变得坚韧。"/>
+    <str id="+1 Charisma" value="You feel prettier." local="你变得好看。"/>
+    <str id="Wounded" value="You feel wounded." local="你感觉负伤了。"/>
   </EffectFeels>
   <EffectSeems>
-    <str id="Oogled" value="%s seems oogled."/>
-    <str id="Afraid" value="%s becomes afraid."/>
-    <str id="Asleep" value="%s falls asleep."/>
-    <str id="Blinded" value="%s is blinded."/>
-    <str id="Charmed" value="%s is charmed."/>
-    <str id="Chilled" value="%s is chilled."/>
-    <str id="Confused" value="%s is confused."/>
-    <str id="Deafened" value="%s is deafened."/>
-    <str id="Energised" value="%s becomes energised."/>
-    <str id="Envious" value="%s becomes envious."/>
-    <str id="Frenzied" value="%s becomes frenzied."/>
-    <str id="Greedy" value="%s becomes greedy."/>
-    <str id="Hastened" value="%s becomes hastened."/>
-    <str id="Insightful" value="%s becomes insightful."/>
-    <str id="Invisible" value="%s turns invisible."/>
-    <str id="Levitated" value="%s starts to levitate."/>
-    <str id="Lustful" value="%s becomes lustful."/>
-    <str id="On fire" value="%s is set on fire."/>
-    <str id="Paralysed" value="%s is paralysed."/>
-    <str id="Polymorphed" value="%s is polymorphed."/>
-    <str id="Reckless" value="%s becomes reckless."/>
-    <str id="Shocked" value="%s is shocked."/>
-    <str id="Silenced" value="%s is silenced."/>
-    <str id="Slowed" value="%s is slowed."/>
-    <str id="Stunned" value="%s is stunned."/>
-    <str id="Vitalised" value="%s is vitalised."/>
-    <str id="Revitalised" value="%s is revitalised."/>
-    <str id="Literate" value="%s becomes literate."/>
-    <str id="Informed" value="%s becomes informed."/>
-    <str id="Fearless" value="%s becomes fearless."/>
-    <str id="Bestial" value="%s becomes bestial."/>
-    <str id="-1 Strength" value="%s seems weaker."/>
-    <str id="-1 Agility" value="%s seems clumsier."/>
-    <str id="-1 Stamina" value="%s seems feebler."/>
-    <str id="-1 Charisma" value="%s seems uglier."/>
-    <str id="+1 Strength" value="%s seems stronger."/>
-    <str id="+1 Agility" value="%s seems nimbler."/>
-    <str id="+1 Stamina" value="%s seems tougher."/>
-    <str id="+1 Charisma" value="%s seems prettier."/>
-    <str id="Wounded" value="%s seems wounded."/>
+    <str id="Oogled" value="%s seems oogled." local="%s 看起来被洗劫了。"/>
+    <str id="Afraid" value="%s becomes afraid." local="%s 变得害怕。"/>
+    <str id="Asleep" value="%s falls asleep." local="%s 睡着了。"/>
+    <str id="Blinded" value="%s is blinded." local="%s 眼瞎了。"/>
+    <str id="Charmed" value="%s is charmed." local="%s 被迷惑了。"/>
+    <str id="Chilled" value="%s is chilled." local="%s 被冻僵了。"/>
+    <str id="Confused" value="%s is confused." local="%s 很混乱。"/>
+    <str id="Deafened" value="%s is deafened." local="%s 耳聋了。"/>
+    <str id="Energised" value="%s becomes energised." local="%s 变得兴奋。"/>
+    <str id="Envious" value="%s becomes envious." local="%s 变得好胜。"/>
+    <str id="Frenzied" value="%s becomes frenzied." local="%s 疯狂了。"/>
+    <str id="Greedy" value="%s becomes greedy." local="%s 变得贪婪。"/>
+    <str id="Hastened" value="%s becomes hastened." local="%s 被加速了。"/>
+    <str id="Insightful" value="%s becomes insightful." local="%s 开悟了。"/>
+    <str id="Invisible" value="%s turns invisible." local="%s 隐身了。"/>
+    <str id="Levitated" value="%s starts to levitate." local="%s 漂了起来。"/>
+    <str id="Lustful" value="%s becomes lustful." local="%s 变得淫荡。"/>
+    <str id="On fire" value="%s is set on fire." local="%s 被点燃了。"/>
+    <str id="Paralysed" value="%s is paralysed." local="%s 被麻痹了。"/>
+    <str id="Polymorphed" value="%s is polymorphed." local="%s 被变形了。"/>
+    <str id="Reckless" value="%s becomes reckless." local="%s 不顾一切。"/>
+    <str id="Shocked" value="%s is shocked." local="%s 被震撼了。"/>
+    <str id="Silenced" value="%s is silenced." local="%s 被沉默了。"/>
+    <str id="Slowed" value="%s is slowed." local="%s 被迟缓了。"/>
+    <str id="Stunned" value="%s is stunned." local="%s 被眩晕了。"/>
+    <str id="Vitalised" value="%s is vitalised." local="%s 生气勃勃。"/>
+    <str id="Revitalised" value="%s is revitalised." local="%s 死而复生。"/>
+    <str id="Literate" value="%s becomes literate." local="%s 变得文采飞扬。"/>
+    <str id="Informed" value="%s becomes informed." local="%s 变得见多识广。"/>
+    <str id="Fearless" value="%s becomes fearless." local="%s 变得无所畏惧。"/>
+    <str id="Bestial" value="%s becomes bestial." local="%s 变得兽性大发。"/>
+    <str id="-1 Strength" value="%s seems weaker." local="%s 看起来变得软弱。"/>
+    <str id="-1 Agility" value="%s seems clumsier." local="%s 看起来变得笨拙。"/>
+    <str id="-1 Stamina" value="%s seems feebler." local="%s 看起来变得虚弱。"/>
+    <str id="-1 Charisma" value="%s seems uglier." local="%s 看起来变得丑陋。"/>
+    <str id="+1 Strength" value="%s seems stronger." local="%s 看起来变得强壮。"/>
+    <str id="+1 Agility" value="%s seems nimbler." local="%s 看起来变得敏捷。"/>
+    <str id="+1 Stamina" value="%s seems tougher." local="%s 看起来变得坚韧。"/>
+    <str id="+1 Charisma" value="%s seems prettier." local="%s 看起来变得好看。"/>
+    <str id="Wounded" value="%s seems wounded." local="%s 看起来受伤了。"/>
   </EffectSeems>
   <EffectLogs>
     <str id="You are no longer %s." value="You are no longer %s."/>

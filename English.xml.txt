@@ -768,126 +768,126 @@ DiseaseNames."Itching Groin" 下体瘙痒
 DiseaseNames."Putrid Breath" 腐烂气息
 DiseaseNames."Swollen Joint" 关节肿胀
 DiseaseNames."Rotting Flesh" 肌肉腐烂
-EffectNames."Oogled" Oogled
-EffectNames."Afraid" Afraid
-EffectNames."Asleep" Asleep
-EffectNames."Blinded" Blinded
-EffectNames."Charmed" Charmed
-EffectNames."Chilled" Chilled
-EffectNames."Confused" Confused
-EffectNames."Deafened" Deafened
-EffectNames."Energised" Energised
-EffectNames."Envious" Envious
-EffectNames."Frenzied" Frenzied
-EffectNames."Greedy" Greedy
-EffectNames."Hastened" Hastened
-EffectNames."Insightful" Insightful
-EffectNames."Invisible" Invisible
-EffectNames."Levitated" Levitated
-EffectNames."Lustful" Lustful
-EffectNames."On fire" On fire
-EffectNames."Paralysed" Paralysed
-EffectNames."Polymorphed" Polymorphed
-EffectNames."Reckless" Reckless
-EffectNames."Shocked" Shocked
-EffectNames."Silenced" Silenced
-EffectNames."Slowed" Slowed
-EffectNames."Stunned" Stunned
-EffectNames."Vitalised" Vitalised
-EffectNames."Revitalised" Revitalised
-EffectNames."Literate" Literate
-EffectNames."Informed" Informed
-EffectNames."Fearless" Fearless
-EffectNames."Bestial" Bestial
-EffectNames."-1 Strength" -1 Strength
-EffectNames."-1 Agility" -1 Agility
-EffectNames."-1 Stamina" -1 Stamina
-EffectNames."-1 Charisma" -1 Charisma
-EffectNames."+1 Strength" +1 Strength
-EffectNames."+1 Agility" +1 Agility
-EffectNames."+1 Stamina" +1 Stamina
-EffectNames."+1 Charisma" +1 Charisma
-EffectNames."Wounded" Wounded
-EffectFeels."Oogled" You feel oogled.
-EffectFeels."Afraid" You feel afraid.
-EffectFeels."Asleep" You fall asleep.
-EffectFeels."Blinded" You are blinded.
-EffectFeels."Charmed" You are charmed.
-EffectFeels."Chilled" You are chilled.
-EffectFeels."Confused" You are confused.
-EffectFeels."Deafened" You are deafened.
-EffectFeels."Energised" You feel energised.
-EffectFeels."Envious" You feel envious.
-EffectFeels."Frenzied" You feel frenzied.
-EffectFeels."Greedy" You feel greedy.
-EffectFeels."Hastened" You feel hastened.
-EffectFeels."Insightful" You feel insightful.
-EffectFeels."Invisible" You turn invisible.
-EffectFeels."Levitated" You start to levitate.
-EffectFeels."Lustful" You feel lustful.
-EffectFeels."On fire" You are set on fire.
-EffectFeels."Paralysed" You are paralysed.
-EffectFeels."Polymorphed" You are polymorphed.
-EffectFeels."Reckless" You feel reckless.
-EffectFeels."Shocked" You are shocked.
-EffectFeels."Silenced" You are silenced.
-EffectFeels."Slowed" You feel slowed.
-EffectFeels."Stunned" You are stunned.
-EffectFeels."Vitalised" You feel vitalised.
-EffectFeels."Revitalised" You feel revitalised.
-EffectFeels."Literate" You feel literate.
-EffectFeels."Informed" You feel informed.
-EffectFeels."Fearless" You feel fearless.
-EffectFeels."Bestial" You feel bestial.
-EffectFeels."-1 Strength" You feel weaker.
-EffectFeels."-1 Agility" You feel clumsier.
-EffectFeels."-1 Stamina" You feel feebler.
-EffectFeels."-1 Charisma" You feel uglier.
-EffectFeels."+1 Strength" You feel stronger.
-EffectFeels."+1 Agility" You feel nimbler.
-EffectFeels."+1 Stamina" You feel tougher.
-EffectFeels."+1 Charisma" You feel prettier.
-EffectFeels."Wounded" You feel wounded.
-EffectSeems."Oogled" %s seems oogled.
-EffectSeems."Afraid" %s becomes afraid.
-EffectSeems."Asleep" %s falls asleep.
-EffectSeems."Blinded" %s is blinded.
-EffectSeems."Charmed" %s is charmed.
-EffectSeems."Chilled" %s is chilled.
-EffectSeems."Confused" %s is confused.
-EffectSeems."Deafened" %s is deafened.
-EffectSeems."Energised" %s becomes energised.
-EffectSeems."Envious" %s becomes envious.
-EffectSeems."Frenzied" %s becomes frenzied.
-EffectSeems."Greedy" %s becomes greedy.
-EffectSeems."Hastened" %s becomes hastened.
-EffectSeems."Insightful" %s becomes insightful.
-EffectSeems."Invisible" %s turns invisible.
-EffectSeems."Levitated" %s starts to levitate.
-EffectSeems."Lustful" %s becomes lustful.
-EffectSeems."On fire" %s is set on fire.
-EffectSeems."Paralysed" %s is paralysed.
-EffectSeems."Polymorphed" %s is polymorphed.
-EffectSeems."Reckless" %s becomes reckless.
-EffectSeems."Shocked" %s is shocked.
-EffectSeems."Silenced" %s is silenced.
-EffectSeems."Slowed" %s is slowed.
-EffectSeems."Stunned" %s is stunned.
-EffectSeems."Vitalised" %s is vitalised.
-EffectSeems."Revitalised" %s is revitalised.
-EffectSeems."Literate" %s becomes literate.
-EffectSeems."Informed" %s becomes informed.
-EffectSeems."Fearless" %s becomes fearless.
-EffectSeems."Bestial" %s becomes bestial.
-EffectSeems."-1 Strength" %s seems weaker.
-EffectSeems."-1 Agility" %s seems clumsier.
-EffectSeems."-1 Stamina" %s seems feebler.
-EffectSeems."-1 Charisma" %s seems uglier.
-EffectSeems."+1 Strength" %s seems stronger.
-EffectSeems."+1 Agility" %s seems nimbler.
-EffectSeems."+1 Stamina" %s seems tougher.
-EffectSeems."+1 Charisma" %s seems prettier.
-EffectSeems."Wounded" %s seems wounded.
+EffectNames."Oogled" 洗劫
+EffectNames."Afraid" 害怕
+EffectNames."Asleep" 睡着
+EffectNames."Blinded" 眼盲
+EffectNames."Charmed" 着迷
+EffectNames."Chilled" 冰冻
+EffectNames."Confused" 混乱
+EffectNames."Deafened" 耳聋
+EffectNames."Energised" 兴奋
+EffectNames."Envious" 嫉妒
+EffectNames."Frenzied" 狂乱
+EffectNames."Greedy" 贪婪
+EffectNames."Hastened" 加速
+EffectNames."Insightful" 顿悟
+EffectNames."Invisible" 隐身
+EffectNames."Levitated" 悬空
+EffectNames."Lustful" 淫荡
+EffectNames."On fire" 燃烧
+EffectNames."Paralysed" 麻痹
+EffectNames."Polymorphed" 变形
+EffectNames."Reckless" 鲁莽
+EffectNames."Shocked" 震击
+EffectNames."Silenced" 沉默
+EffectNames."Slowed" 迟缓
+EffectNames."Stunned" 眩晕
+EffectNames."Vitalised" 激发
+EffectNames."Revitalised" 复活
+EffectNames."Literate" 开化
+EffectNames."Informed" 见识
+EffectNames."Fearless" 无畏
+EffectNames."Bestial" 兽化
+EffectNames."-1 Strength" -1 力量
+EffectNames."-1 Agility" -1 敏捷
+EffectNames."-1 Stamina" -1 耐力
+EffectNames."-1 Charisma" -1 魅力
+EffectNames."+1 Strength" +1 力量
+EffectNames."+1 Agility" +1 敏捷
+EffectNames."+1 Stamina" +1 耐力
+EffectNames."+1 Charisma" +1 魅力
+EffectNames."Wounded" 负伤
+EffectFeels."Oogled" 你感觉被洗劫了。
+EffectFeels."Afraid" 你感到害怕。
+EffectFeels."Asleep" 你睡着了。
+EffectFeels."Blinded" 你瞎了。
+EffectFeels."Charmed" 你被迷惑了。
+EffectFeels."Chilled" 你被冻僵了。
+EffectFeels."Confused" 你很混乱。
+EffectFeels."Deafened" 你聋了。
+EffectFeels."Energised" 你感到很兴奋。
+EffectFeels."Envious" 你嫉妒了。
+EffectFeels."Frenzied" 你很疯狂。
+EffectFeels."Greedy" 你很贪婪。
+EffectFeels."Hastened" 你觉得被加速了。
+EffectFeels."Insightful" 你顿悟了。
+EffectFeels."Invisible" 你隐身呢。
+EffectFeels."Levitated" 你漂浮起来。
+EffectFeels."Lustful" 你很淫荡。
+EffectFeels."On fire" 你在燃烧。
+EffectFeels."Paralysed" 你被麻痹了。
+EffectFeels."Polymorphed" 你被变形了。
+EffectFeels."Reckless" 你不顾一切。
+EffectFeels."Shocked" 你被震撼了。
+EffectFeels."Silenced" 你被沉默了。
+EffectFeels."Slowed" 你被迟缓了。
+EffectFeels."Stunned" 你被眩晕了。
+EffectFeels."Vitalised" 你生气勃勃。
+EffectFeels."Revitalised" 你感到死而复生。
+EffectFeels."Literate" 你感觉文采飞扬。
+EffectFeels."Informed" 你感觉见多识广。
+EffectFeels."Fearless" 你感觉无所畏惧。
+EffectFeels."Bestial" 你感觉兽性大发。
+EffectFeels."-1 Strength" 你变得软弱。
+EffectFeels."-1 Agility" 你变得笨拙。
+EffectFeels."-1 Stamina" 你变得虚弱。
+EffectFeels."-1 Charisma" 你变得丑陋。
+EffectFeels."+1 Strength" 你变得强壮。
+EffectFeels."+1 Agility" 你变得敏捷。
+EffectFeels."+1 Stamina" 你变得坚韧。
+EffectFeels."+1 Charisma" 你变得好看。
+EffectFeels."Wounded" 你感觉负伤了。
+EffectSeems."Oogled" %s 看起来被洗劫了。
+EffectSeems."Afraid" %s 变得害怕。
+EffectSeems."Asleep" %s 睡着了。
+EffectSeems."Blinded" %s 眼瞎了。
+EffectSeems."Charmed" %s 被迷惑了。
+EffectSeems."Chilled" %s 被冻僵了。
+EffectSeems."Confused" %s 很混乱。
+EffectSeems."Deafened" %s 耳聋了。
+EffectSeems."Energised" %s 变得兴奋。
+EffectSeems."Envious" %s 变得好胜。
+EffectSeems."Frenzied" %s 疯狂了。
+EffectSeems."Greedy" %s 变得贪婪。
+EffectSeems."Hastened" %s 被加速了。
+EffectSeems."Insightful" %s 开悟了。
+EffectSeems."Invisible" %s 隐身了。
+EffectSeems."Levitated" %s 漂了起来。
+EffectSeems."Lustful" %s 变得淫荡。
+EffectSeems."On fire" %s 被点燃了。
+EffectSeems."Paralysed" %s 被麻痹了。
+EffectSeems."Polymorphed" %s 被变形了。
+EffectSeems."Reckless" %s 不顾一切。
+EffectSeems."Shocked" %s 被震撼了。
+EffectSeems."Silenced" %s 被沉默了。
+EffectSeems."Slowed" %s 被迟缓了。
+EffectSeems."Stunned" %s 被眩晕了。
+EffectSeems."Vitalised" %s 生气勃勃。
+EffectSeems."Revitalised" %s 死而复生。
+EffectSeems."Literate" %s 变得文采飞扬。
+EffectSeems."Informed" %s 变得见多识广。
+EffectSeems."Fearless" %s 变得无所畏惧。
+EffectSeems."Bestial" %s 变得兽性大发。
+EffectSeems."-1 Strength" %s 看起来变得软弱。
+EffectSeems."-1 Agility" %s 看起来变得笨拙。
+EffectSeems."-1 Stamina" %s 看起来变得虚弱。
+EffectSeems."-1 Charisma" %s 看起来变得丑陋。
+EffectSeems."+1 Strength" %s 看起来变得强壮。
+EffectSeems."+1 Agility" %s 看起来变得敏捷。
+EffectSeems."+1 Stamina" %s 看起来变得坚韧。
+EffectSeems."+1 Charisma" %s 看起来变得好看。
+EffectSeems."Wounded" %s 看起来受伤了。
 EffectLogs."You are no longer %s." You are no longer %s.
 EffectLogs."%s is no longer %s." %s is no longer %s.
 EffectLogs."You are no longer affected by %s." You are no longer affected by %s.
