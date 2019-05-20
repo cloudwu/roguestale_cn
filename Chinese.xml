@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190520)" checksum="b3206c6c83d7cb7cc2e837adff3851dd0fa18fa3">
+<strings version="Version 2.00 Beta 1 (190520)" checksum="e2cd3f6a566036a1e496445811764d0ed1f7f428">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -2482,10 +2482,10 @@
     <str id="You don't have room for the duplicated %s." value="You don't have room for the duplicated %s."/>
   </WandLogs>
   <WeaponNames>
-    <str id="Fist" value="Fist"/>
-    <str id="Stone" value="Stone"/>
-    <str id="Barbed Whip" value="Barbed Whip"/>
-    <str id="Massive Claw" value="Massive Claw"/>
+    <str id="Fist" value="Fist" local="拳套"/>
+    <str id="Stone" value="Stone" local="石块"/>
+    <str id="Barbed Whip" value="Barbed Whip" local="荆棘之鞭"/>
+    <str id="Massive Claw" value="Massive Claw" local="巨爪"/>
     <str id="Corrosive Bite" value="Corrosive Bite"/>
     <str id="Ferocius Bite" value="Ferocius Bite"/>
     <str id="Infectious Bite" value="Infectious Bite"/>
@@ -2493,86 +2493,86 @@
     <str id="Venomous Bite" value="Venomous Bite"/>
     <str id="Vicious Bite" value="Vicious Bite"/>
     <str id="Skittering Bite" value="Skittering Bite"/>
-    <str id="Fire Breath" value="Fire Breath"/>
-    <str id="Frost Breath" value="Frost Breath"/>
-    <str id="Ghostly Touch" value="Ghostly Touch"/>
-    <str id="Giant Tentacle" value="Giant Tentacle"/>
-    <str id="Venomous Branch" value="Venomous Branch"/>
-    <str id="Virulent Fist" value="Virulent Fist"/>
-    <str id="Electric Fist" value="Electric Fist"/>
-    <str id="Flaming Fist" value="Flaming Fist"/>
-    <str id="Frozen Fist" value="Frozen Fist"/>
-    <str id="Dagger" value="Dagger"/>
-    <str id="Talon" value="Talon"/>
-    <str id="Hatchet" value="Hatchet"/>
-    <str id="Sword" value="Sword"/>
-    <str id="Claw" value="Claw"/>
-    <str id="Axe" value="Axe"/>
-    <str id="Club" value="Club"/>
-    <str id="Mace" value="Mace"/>
-    <str id="Hammer" value="Hammer"/>
-    <str id="Flail" value="Flail"/>
-    <str id="Branch" value="Branch"/>
-    <str id="Bow" value="Bow"/>
-    <str id="Recurve" value="Recurve"/>
-    <str id="Mangler" value="Mangler"/>
-    <str id="Chopper" value="Chopper"/>
-    <str id="Crusher" value="Crusher"/>
-    <str id="Digger" value="Digger"/>
-    <str id="Spear" value="Spear"/>
-    <str id="Staff" value="Staff"/>
-    <str id="Crossbow" value="Crossbow"/>
-    <str id="Repeater" value="Repeater"/>
-    <str id="Rock" value="Rock"/>
-    <str id="Throwing Knife" value="Throwing Knife"/>
-    <str id="Throwing Star" value="Throwing Star"/>
-    <str id="Fine Dagger" value="Fine Dagger"/>
-    <str id="Fine Talon" value="Fine Talon"/>
-    <str id="Fine Hatchet" value="Fine Hatchet"/>
-    <str id="Fine Sword" value="Fine Sword"/>
-    <str id="Fine Claw" value="Fine Claw"/>
-    <str id="Fine Axe" value="Fine Axe"/>
-    <str id="Fine Club" value="Fine Club"/>
-    <str id="Fine Mace" value="Fine Mace"/>
-    <str id="Fine Hammer" value="Fine Hammer"/>
-    <str id="Fine Flail" value="Fine Flail"/>
-    <str id="Fine Branch" value="Fine Branch"/>
-    <str id="Fine Bow" value="Fine Bow"/>
-    <str id="Fine Recurve" value="Fine Recurve"/>
-    <str id="Fine Mangler" value="Fine Mangler"/>
-    <str id="Fine Chopper" value="Fine Chopper"/>
-    <str id="Fine Crusher" value="Fine Crusher"/>
-    <str id="Fine Digger" value="Fine Digger"/>
-    <str id="Fine Spear" value="Fine Spear"/>
-    <str id="Fine Staff" value="Fine Staff"/>
-    <str id="Fine Crossbow" value="Fine Crossbow"/>
-    <str id="Fine Repeater" value="Fine Repeater"/>
-    <str id="Wizard Staff" value="Wizard Staff"/>
-    <str id="Wizard Staff 0" value="Wizard Staff"/>
-    <str id="Wizard Staff 1" value="Wizard Staff"/>
-    <str id="Wizard Staff 2" value="Wizard Staff"/>
-    <str id="Wizard Staff 3" value="Wizard Staff"/>
-    <str id="Wizard Staff 4" value="Wizard Staff"/>
-    <str id="Wizard Staff 5" value="Wizard Staff"/>
-    <str id="Celestial Staff" value="Celestial Staff"/>
-    <str id="Draconic Staff" value="Draconic Staff"/>
-    <str id="Infernal Staff" value="Infernal Staff"/>
-    <str id="Arcane Staff" value="Arcane Staff"/>
-    <str id="Bestial Staff" value="Bestial Staff"/>
-    <str id="Abyssal Staff" value="Abyssal Staff"/>
-    <str id="Fine Throwing Knife" value="Fine Throwing Knife"/>
-    <str id="Fine Throwing Star" value="Fine Throwing Star"/>
-    <str id="Gifin's Claw" value="Gifin's Claw"/>
-    <str id="Gareth's Axe" value="Gareth's Axe"/>
-    <str id="Dawid's Hammer" value="Dawid's Hammer"/>
-    <str id="Royal Mace" value="Royal Mace"/>
-    <str id="Satyr's Sting" value="Satyr's Sting"/>
-    <str id="Logar's Blade" value="Logar's Blade"/>
-    <str id="Altren's Kiss" value="Altren's Kiss"/>
-    <str id="Staff of the Trickster" value="Staff of the Trickster"/>
-    <str id="Staff of the Archmage" value="Staff of the Archmage"/>
-    <str id="Staff of the Ice Queen" value="Staff of the Ice Queen"/>
-    <str id="Death Star" value="Death Star"/>
+    <str id="Fire Breath" value="Fire Breath" local="火焰之息"/>
+    <str id="Frost Breath" value="Frost Breath" local="冰霜之息"/>
+    <str id="Ghostly Touch" value="Ghostly Touch" local="幽灵之触"/>
+    <str id="Giant Tentacle" value="Giant Tentacle" local="巨人触角"/>
+    <str id="Venomous Branch" value="Venomous Branch" local="毒枝"/>
+    <str id="Virulent Fist" value="Virulent Fist" local="剧毒拳套"/>
+    <str id="Electric Fist" value="Electric Fist" local="电力拳套"/>
+    <str id="Flaming Fist" value="Flaming Fist" local="火焰拳套"/>
+    <str id="Frozen Fist" value="Frozen Fist" local="冰霜拳套"/>
+    <str id="Dagger" value="Dagger" local="匕首"/>
+    <str id="Talon" value="Talon" local="利爪"/>
+    <str id="Hatchet" value="Hatchet" local="小斧"/>
+    <str id="Sword" value="Sword" local="剑"/>
+    <str id="Claw" value="Claw" local="长爪"/>
+    <str id="Axe" value="Axe" local="斧"/>
+    <str id="Club" value="Club" local="棒"/>
+    <str id="Mace" value="Mace" local="锤矛"/>
+    <str id="Hammer" value="Hammer" local="锤"/>
+    <str id="Flail" value="Flail" local="连枷"/>
+    <str id="Branch" value="Branch" local="树枝"/>
+    <str id="Bow" value="Bow" local="弓"/>
+    <str id="Recurve" value="Recurve" local="反曲弓"/>
+    <str id="Mangler" value="Mangler" local="大剑"/>
+    <str id="Chopper" value="Chopper" local="大斧"/>
+    <str id="Crusher" value="Crusher" local="大锤"/>
+    <str id="Digger" value="Digger" local="镐"/>
+    <str id="Spear" value="Spear" local="长枪"/>
+    <str id="Staff" value="Staff" local="杖"/>
+    <str id="Crossbow" value="Crossbow" local="十字弓"/>
+    <str id="Repeater" value="Repeater" local="连弩"/>
+    <str id="Rock" value="Rock" local="岩石"/>
+    <str id="Throwing Knife" value="Throwing Knife" local="飞刀"/>
+    <str id="Throwing Star" value="Throwing Star" local="手里剑"/>
+    <str id="Fine Dagger" value="Fine Dagger" local="精美匕首"/>
+    <str id="Fine Talon" value="Fine Talon" local="精美利爪"/>
+    <str id="Fine Hatchet" value="Fine Hatchet" local="精美小斧"/>
+    <str id="Fine Sword" value="Fine Sword" local="精美之剑"/>
+    <str id="Fine Claw" value="Fine Claw" local="精美长爪"/>
+    <str id="Fine Axe" value="Fine Axe" local="精美之斧"/>
+    <str id="Fine Club" value="Fine Club" local="精美之棒"/>
+    <str id="Fine Mace" value="Fine Mace" local="精美锤矛"/>
+    <str id="Fine Hammer" value="Fine Hammer" local="精美之锤"/>
+    <str id="Fine Flail" value="Fine Flail" local="精美连枷"/>
+    <str id="Fine Branch" value="Fine Branch" local="精美树枝"/>
+    <str id="Fine Bow" value="Fine Bow" local="精美之弓"/>
+    <str id="Fine Recurve" value="Fine Recurve" local="精美反曲弓"/>
+    <str id="Fine Mangler" value="Fine Mangler" local="精美大剑"/>
+    <str id="Fine Chopper" value="Fine Chopper" local="精美大斧"/>
+    <str id="Fine Crusher" value="Fine Crusher" local="精美大锤"/>
+    <str id="Fine Digger" value="Fine Digger" local="精美之镐"/>
+    <str id="Fine Spear" value="Fine Spear" local="精美长枪"/>
+    <str id="Fine Staff" value="Fine Staff" local="精美之杖"/>
+    <str id="Fine Crossbow" value="Fine Crossbow" local="精美十字弓"/>
+    <str id="Fine Repeater" value="Fine Repeater" local="精美连弩"/>
+    <str id="Wizard Staff" value="Wizard Staff" local="法杖"/>
+    <str id="Wizard Staff 0" value="Wizard Staff" local="法杖"/>
+    <str id="Wizard Staff 1" value="Wizard Staff" local="法杖"/>
+    <str id="Wizard Staff 2" value="Wizard Staff" local="法杖"/>
+    <str id="Wizard Staff 3" value="Wizard Staff" local="法杖"/>
+    <str id="Wizard Staff 4" value="Wizard Staff" local="法杖"/>
+    <str id="Wizard Staff 5" value="Wizard Staff" local="法杖"/>
+    <str id="Celestial Staff" value="Celestial Staff" local="天使之杖"/>
+    <str id="Draconic Staff" value="Draconic Staff" local="龙之杖"/>
+    <str id="Infernal Staff" value="Infernal Staff" local="地狱之杖"/>
+    <str id="Arcane Staff" value="Arcane Staff" local="奥术之杖"/>
+    <str id="Bestial Staff" value="Bestial Staff" local="兽性之杖"/>
+    <str id="Abyssal Staff" value="Abyssal Staff" local="深渊之杖"/>
+    <str id="Fine Throwing Knife" value="Fine Throwing Knife" local="精美飞刀"/>
+    <str id="Fine Throwing Star" value="Fine Throwing Star" local="精美手里剑"/>
+    <str id="Gifin's Claw" value="Gifin's Claw" local="Gifin 之爪"/>
+    <str id="Gareth's Axe" value="Gareth's Axe" local="Gareth 之斧"/>
+    <str id="Dawid's Hammer" value="Dawid's Hammer" local="Dawid 之锤"/>
+    <str id="Royal Mace" value="Royal Mace" local="皇家锤矛"/>
+    <str id="Satyr's Sting" value="Satyr's Sting" local="Satyr 之刺"/>
+    <str id="Logar's Blade" value="Logar's Blade" local="Logar 之刃"/>
+    <str id="Altren's Kiss" value="Altren's Kiss" local="Altren 之吻"/>
+    <str id="Staff of the Trickster" value="Staff of the Trickster" local="魔术师之杖"/>
+    <str id="Staff of the Archmage" value="Staff of the Archmage" local="大法师之杖"/>
+    <str id="Staff of the Ice Queen" value="Staff of the Ice Queen" local="冰霜女王之杖"/>
+    <str id="Death Star" value="Death Star" local="死星"/>
   </WeaponNames>
   <WeaponDescs>
     <str id="Dagger" value="This is a piercing weapon and as such has a chance of ignoring the target's physical resistance."/>

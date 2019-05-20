@@ -2279,10 +2279,10 @@ WandLogs."%s has lost its blessing." %s has lost its blessing.
 WandLogs."%s has reached its maximum charges." %s has reached its maximum charges.
 WandLogs."You create a duplicate of %s." You create a duplicate of %s.
 WandLogs."You don't have room for the duplicated %s." You don't have room for the duplicated %s.
-WeaponNames."Fist" Fist
-WeaponNames."Stone" Stone
-WeaponNames."Barbed Whip" Barbed Whip
-WeaponNames."Massive Claw" Massive Claw
+WeaponNames."Fist" 拳套
+WeaponNames."Stone" 石块
+WeaponNames."Barbed Whip" 荆棘之鞭
+WeaponNames."Massive Claw" 巨爪
 WeaponNames."Corrosive Bite" Corrosive Bite
 WeaponNames."Ferocius Bite" Ferocius Bite
 WeaponNames."Infectious Bite" Infectious Bite
@@ -2290,86 +2290,86 @@ WeaponNames."Vampiric Bite" Vampiric Bite
 WeaponNames."Venomous Bite" Venomous Bite
 WeaponNames."Vicious Bite" Vicious Bite
 WeaponNames."Skittering Bite" Skittering Bite
-WeaponNames."Fire Breath" Fire Breath
-WeaponNames."Frost Breath" Frost Breath
-WeaponNames."Ghostly Touch" Ghostly Touch
-WeaponNames."Giant Tentacle" Giant Tentacle
-WeaponNames."Venomous Branch" Venomous Branch
-WeaponNames."Virulent Fist" Virulent Fist
-WeaponNames."Electric Fist" Electric Fist
-WeaponNames."Flaming Fist" Flaming Fist
-WeaponNames."Frozen Fist" Frozen Fist
-WeaponNames."Dagger" Dagger
-WeaponNames."Talon" Talon
-WeaponNames."Hatchet" Hatchet
-WeaponNames."Sword" Sword
-WeaponNames."Claw" Claw
-WeaponNames."Axe" Axe
-WeaponNames."Club" Club
-WeaponNames."Mace" Mace
-WeaponNames."Hammer" Hammer
-WeaponNames."Flail" Flail
-WeaponNames."Branch" Branch
-WeaponNames."Bow" Bow
-WeaponNames."Recurve" Recurve
-WeaponNames."Mangler" Mangler
-WeaponNames."Chopper" Chopper
-WeaponNames."Crusher" Crusher
-WeaponNames."Digger" Digger
-WeaponNames."Spear" Spear
-WeaponNames."Staff" Staff
-WeaponNames."Crossbow" Crossbow
-WeaponNames."Repeater" Repeater
-WeaponNames."Rock" Rock
-WeaponNames."Throwing Knife" Throwing Knife
-WeaponNames."Throwing Star" Throwing Star
-WeaponNames."Fine Dagger" Fine Dagger
-WeaponNames."Fine Talon" Fine Talon
-WeaponNames."Fine Hatchet" Fine Hatchet
-WeaponNames."Fine Sword" Fine Sword
-WeaponNames."Fine Claw" Fine Claw
-WeaponNames."Fine Axe" Fine Axe
-WeaponNames."Fine Club" Fine Club
-WeaponNames."Fine Mace" Fine Mace
-WeaponNames."Fine Hammer" Fine Hammer
-WeaponNames."Fine Flail" Fine Flail
-WeaponNames."Fine Branch" Fine Branch
-WeaponNames."Fine Bow" Fine Bow
-WeaponNames."Fine Recurve" Fine Recurve
-WeaponNames."Fine Mangler" Fine Mangler
-WeaponNames."Fine Chopper" Fine Chopper
-WeaponNames."Fine Crusher" Fine Crusher
-WeaponNames."Fine Digger" Fine Digger
-WeaponNames."Fine Spear" Fine Spear
-WeaponNames."Fine Staff" Fine Staff
-WeaponNames."Fine Crossbow" Fine Crossbow
-WeaponNames."Fine Repeater" Fine Repeater
-WeaponNames."Wizard Staff" Wizard Staff
-WeaponNames."Wizard Staff 0" Wizard Staff
-WeaponNames."Wizard Staff 1" Wizard Staff
-WeaponNames."Wizard Staff 2" Wizard Staff
-WeaponNames."Wizard Staff 3" Wizard Staff
-WeaponNames."Wizard Staff 4" Wizard Staff
-WeaponNames."Wizard Staff 5" Wizard Staff
-WeaponNames."Celestial Staff" Celestial Staff
-WeaponNames."Draconic Staff" Draconic Staff
-WeaponNames."Infernal Staff" Infernal Staff
-WeaponNames."Arcane Staff" Arcane Staff
-WeaponNames."Bestial Staff" Bestial Staff
-WeaponNames."Abyssal Staff" Abyssal Staff
-WeaponNames."Fine Throwing Knife" Fine Throwing Knife
-WeaponNames."Fine Throwing Star" Fine Throwing Star
-WeaponNames."Gifin's Claw" Gifin's Claw
-WeaponNames."Gareth's Axe" Gareth's Axe
-WeaponNames."Dawid's Hammer" Dawid's Hammer
-WeaponNames."Royal Mace" Royal Mace
-WeaponNames."Satyr's Sting" Satyr's Sting
-WeaponNames."Logar's Blade" Logar's Blade
-WeaponNames."Altren's Kiss" Altren's Kiss
-WeaponNames."Staff of the Trickster" Staff of the Trickster
-WeaponNames."Staff of the Archmage" Staff of the Archmage
-WeaponNames."Staff of the Ice Queen" Staff of the Ice Queen
-WeaponNames."Death Star" Death Star
+WeaponNames."Fire Breath" 火焰之息
+WeaponNames."Frost Breath" 冰霜之息
+WeaponNames."Ghostly Touch" 幽灵之触
+WeaponNames."Giant Tentacle" 巨人触角
+WeaponNames."Venomous Branch" 毒枝
+WeaponNames."Virulent Fist" 剧毒拳套
+WeaponNames."Electric Fist" 电力拳套
+WeaponNames."Flaming Fist" 火焰拳套
+WeaponNames."Frozen Fist" 冰霜拳套
+WeaponNames."Dagger" 匕首
+WeaponNames."Talon" 利爪
+WeaponNames."Hatchet" 小斧
+WeaponNames."Sword" 剑
+WeaponNames."Claw" 长爪
+WeaponNames."Axe" 斧
+WeaponNames."Club" 棒
+WeaponNames."Mace" 锤矛
+WeaponNames."Hammer" 锤
+WeaponNames."Flail" 连枷
+WeaponNames."Branch" 树枝
+WeaponNames."Bow" 弓
+WeaponNames."Recurve" 反曲弓
+WeaponNames."Mangler" 大剑
+WeaponNames."Chopper" 大斧
+WeaponNames."Crusher" 大锤
+WeaponNames."Digger" 镐
+WeaponNames."Spear" 长枪
+WeaponNames."Staff" 杖
+WeaponNames."Crossbow" 十字弓
+WeaponNames."Repeater" 连弩
+WeaponNames."Rock" 岩石
+WeaponNames."Throwing Knife" 飞刀
+WeaponNames."Throwing Star" 手里剑
+WeaponNames."Fine Dagger" 精美匕首
+WeaponNames."Fine Talon" 精美利爪
+WeaponNames."Fine Hatchet" 精美小斧
+WeaponNames."Fine Sword" 精美之剑
+WeaponNames."Fine Claw" 精美长爪
+WeaponNames."Fine Axe" 精美之斧
+WeaponNames."Fine Club" 精美之棒
+WeaponNames."Fine Mace" 精美锤矛
+WeaponNames."Fine Hammer" 精美之锤
+WeaponNames."Fine Flail" 精美连枷
+WeaponNames."Fine Branch" 精美树枝
+WeaponNames."Fine Bow" 精美之弓
+WeaponNames."Fine Recurve" 精美反曲弓
+WeaponNames."Fine Mangler" 精美大剑
+WeaponNames."Fine Chopper" 精美大斧
+WeaponNames."Fine Crusher" 精美大锤
+WeaponNames."Fine Digger" 精美之镐
+WeaponNames."Fine Spear" 精美长枪
+WeaponNames."Fine Staff" 精美之杖
+WeaponNames."Fine Crossbow" 精美十字弓
+WeaponNames."Fine Repeater" 精美连弩
+WeaponNames."Wizard Staff" 法杖
+WeaponNames."Wizard Staff 0" 法杖
+WeaponNames."Wizard Staff 1" 法杖
+WeaponNames."Wizard Staff 2" 法杖
+WeaponNames."Wizard Staff 3" 法杖
+WeaponNames."Wizard Staff 4" 法杖
+WeaponNames."Wizard Staff 5" 法杖
+WeaponNames."Celestial Staff" 天使之杖
+WeaponNames."Draconic Staff" 龙之杖
+WeaponNames."Infernal Staff" 地狱之杖
+WeaponNames."Arcane Staff" 奥术之杖
+WeaponNames."Bestial Staff" 兽性之杖
+WeaponNames."Abyssal Staff" 深渊之杖
+WeaponNames."Fine Throwing Knife" 精美飞刀
+WeaponNames."Fine Throwing Star" 精美手里剑
+WeaponNames."Gifin's Claw" Gifin 之爪
+WeaponNames."Gareth's Axe" Gareth 之斧
+WeaponNames."Dawid's Hammer" Dawid 之锤
+WeaponNames."Royal Mace" 皇家锤矛
+WeaponNames."Satyr's Sting" Satyr 之刺
+WeaponNames."Logar's Blade" Logar 之刃
+WeaponNames."Altren's Kiss" Altren 之吻
+WeaponNames."Staff of the Trickster" 魔术师之杖
+WeaponNames."Staff of the Archmage" 大法师之杖
+WeaponNames."Staff of the Ice Queen" 冰霜女王之杖
+WeaponNames."Death Star" 死星
 WeaponDescs."Dagger" This is a piercing weapon and as such has a chance of ignoring the target's physical resistance.
 WeaponDescs."Talon" This weapon is perfect against those nasty kidneys that keep coming in its way.
 WeaponDescs."Hatchet" This is a thrown melee weapon and as such can be both equipped and thrown for full damage.
