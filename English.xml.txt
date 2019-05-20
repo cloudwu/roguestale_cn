@@ -204,9 +204,9 @@ GUILogs."You prepare yourself for the new challenge ahead..." You prepare yourse
 GUILogs."You tell your friends to head out to the new dungeon..." You tell your friends to head out to the new dungeon...
 GUILogs."Failed to load map [%s]. Perhaps you should contact the developer..." Failed to load map [%s]. Perhaps you should contact the developer...
 GUIPops."%s is now properly buried at the shrine of the forgotten heroes and %s should not haunt us anymore." %s is now properly buried at the shrine of the forgotten heroes and %s should not haunt us anymore.
-GUIPops."You have reached" You have reached
-GUIPops."Level %d" Level %d
-GUIPops."You have entered" You have entered
+GUIPops."You have reached" 你抵达了
+GUIPops."Level %d" 等级 %d
+GUIPops."You have entered" 你进入了
 Quests."I got plenty of money!" I got plenty of money!
 Quests."Pay the price (%dg)" Pay the price (%dg)
 Quests."Consider him shaved!" Consider him shaved!
@@ -315,136 +315,136 @@ Travelers."the banshee" the banshee
 Travelers."the elemental" the elemental
 Travelers."the troll" the troll
 Travelers."the demonrat" the demonrat
-LootTips."Blessed" Blessed
-LootTips."Cursed" Cursed
-LootTips."Worn" Worn
-LootTips."Damaged" Damaged
-LootTips."Potent" Potent
-LootTips."Diluted" Diluted
-LootTips."Adept's" Adept's
-LootTips."Master's" Master's
-LootTips."Depleted" Depleted
-LootTips."Fresh" Fresh
-LootTips."Rotten" Rotten
-LootTips."Cooldown: %d turns" Cooldown: %d turns
-LootTips."Physical Resistance: %d" Physical Resistance: %d
-LootTips."Fire Resistance: %d" Fire Resistance: %d
-LootTips."Frost Resistance: %d" Frost Resistance: %d
-LootTips."Shock Resistance: %d" Shock Resistance: %d
-LootTips."Poison Resistance: %d" Poison Resistance: %d
-LootTips."Disease Resistance: %d" Disease Resistance: %d
-LootTips."Chromatic Resistance: %d" Chromatic Resistance: %d
-LootTips."All Resistances: %d" All Resistances: %d
-LootTips."Shield Bash Damage: %s" Shield Bash Damage: %s
-LootTips."Min Block Modifier: %d" Min Block Modifier: %d
-LootTips."Max Block Modifier: %d" Max Block Modifier: %d
-LootTips."Max Block Modifier: +%d" Max Block Modifier: +%d
-LootTips."Max Dodge Modifier: %d" Max Dodge Modifier: %d
-LootTips."Max Dodge Modifier: +%d" Max Dodge Modifier: +%d
-LootTips."Max Parry Modifier: %d" Max Parry Modifier: %d
-LootTips."Max Parry Modifier: +%d" Max Parry Modifier: +%d
-LootTips."Max Cast Modifier: %d" Max Cast Modifier: %d
-LootTips."Weight Modifier: %d" Weight Modifier: %d
-LootTips."+%d Strength" +%d Strength
-LootTips."+%d Agility" +%d Agility
-LootTips."+%d Stamina" +%d Stamina
-LootTips."+%d Charisma" +%d Charisma
-LootTips."Increase Health: %d" Increase Health: %d
-LootTips."Regeneration: %d" Regeneration: %d
-LootTips."+%d Light Radius" +%d Light Radius
-LootTips."+%d Search Radius" +%d Search Radius
-LootTips."Random: Drop Melee Weapon" Random: Drop Melee Weapon
-LootTips."Charges: %d" Charges: %d
-LootTips."Remaining: %d/%d" Remaining: %d/%d
-LootTips."Set Bonus (%d/%d):" Set Bonus (%d/%d):
-LootTips."Credits remaining: %d" Credits remaining: %d
-LootTips."Current setting: Even" Current setting: Even
-LootTips."Current setting: Odd" Current setting: Odd
-LootTips."Fire Aura" Fire Aura
-LootTips."Frost Aura" Frost Aura
-LootTips."Shock Aura" Shock Aura
-LootTips."Poison Aura" Poison Aura
-LootTips."Disease Aura" Disease Aura
-LootTips."Damage: %s" Damage: %s
-LootTips."Conduit" Conduit
-LootTips."Crushing" Crushing
-LootTips."Durable" Durable
-LootTips."Flailing" Flailing
-LootTips."Piercing" Piercing
-LootTips."Polearm" Polearm
-LootTips."Slashing" Slashing
-LootTips."Serrated" Serrated
-LootTips."Slow" Slow
-LootTips."Puller" Puller
-LootTips."Digger" Digger
-LootTips."Type:" Type:
-LootTips."Small" Small
-LootTips."Medium" Medium
-LootTips."Large" Large
-LootTips."Melee" Melee
-LootTips."Ranged" Ranged
-LootTips."Thrown" Thrown
-LootTips."%s x %d (%d - %d turns)" %s x %d (%d - %d turns)
-LootTips."Legendary Item" Legendary Item
-LootTips."Unique Item" Unique Item
-LootTips."Unidentified" Unidentified
-LootTips."Cannot be enchanted" Cannot be enchanted
-LootTips."Already known" Already known
-LootTips."Crafting Item" Crafting Item
-LootTips."Main Hand To-Hit Modifier: %d" Main Hand To-Hit Modifier: %d
-LootTips."Main Hand Damage Modifier: %d" Main Hand Damage Modifier: %d
-LootTips."Offhand To-Hit Modifier: %d" Offhand To-Hit Modifier: %d
-LootTips."Offhand Damage Modifier: %d" Offhand Damage Modifier: %d
-LootTips."Thrown To-Hit Modifier: %d" Thrown To-Hit Modifier: %d
-LootTips."Thrown Damage Modifier: %d" Thrown Damage Modifier: %d
-LootTips."Ranged To-Hit Modifier: %d" Ranged To-Hit Modifier: %d
-LootTips."Ranged Damage Modifier: %d" Ranged Damage Modifier: %d
-LootTips."Sh. Bash To-Hit Modifier: %d" Sh. Bash To-Hit Modifier: %d
-LootTips."Sh. Bash Damage Modifier: %d" Sh. Bash Damage Modifier: %d
-LootTips."Critical Hit Modifier: %d (%s)" Critical Hit Modifier: %d (%s)
-LootTips."Block Modifier: %d/%d" Block Modifier: %d/%d
-LootTips."Dodge Modifier: %d/%d" Dodge Modifier: %d/%d
-LootTips."Parry Modifier: %d/%d" Parry Modifier: %d/%d
-LootTips."Deflect Modifier: %d" Deflect Modifier: %d
-LootTips."Evasion Modifier: %d" Evasion Modifier: %d
-LootTips."Immunities (%d/%d):" Immunities (%d/%d):
-LootTips."Immune to Fire" Immune to Fire
-LootTips."Immune to Frost" Immune to Frost
-LootTips."Immune to Shock" Immune to Shock
-LootTips."Immune to Poison" Immune to Poison
-LootTips."Immune to Disease" Immune to Disease
-LootTips."Immune to Curses" Immune to Curses
-LootTips."Immune to Blind" Immune to Blind
-LootTips."Immune to Deafen" Immune to Deafen
-LootTips."Immune to Silence" Immune to Silence
-LootTips."Immune to Charm" Immune to Charm
-LootTips."Immune to Confuse" Immune to Confuse
-LootTips."Immune to Paralysis" Immune to Paralysis
-LootTips."Immune to Sleep" Immune to Sleep
-LootTips."Immune to Fear" Immune to Fear
-LootTips."Immune to Slow" Immune to Slow
-LootTips."Immune to Knockback" Immune to Knockback
-LootTips."Immune to Polymorph" Immune to Polymorph
-LootTips."Immune to Life Drain" Immune to Life Drain
-LootTips."Immune to Energy Drain" Immune to Energy Drain
-LootTips."Immune to Instant Death" Immune to Instant Death
-LootTips."Immune to Disarm" Immune to Disarm
-LootTips."Immune to Stun" Immune to Stun
-LootTips."You are not immune to anything" You are not immune to anything
-LookLogs."You see a man who desperately needs a selfie stick." You see a man who desperately needs a selfie stick.
-LookLogs."You see a woman who desperately needs a selfie stick." You see a woman who desperately needs a selfie stick.
-LookLogs."You see yourself." You see yourself.
-LookLogs."You see %s." You see %s.
-LookLogs."%s looks almost dead." %s looks almost dead.
-LookLogs."%s looks badly hurt." %s looks badly hurt.
-LookLogs."%s looks injured." %s looks injured.
-LookLogs."You see a lava chasm." You see a lava chasm.
-LookLogs."You see a water chasm." You see a water chasm.
-LookLogs."You see a floor." You see a floor.
-LookLogs."You see a wall." You see a wall.
-LookLogs."You see an obstacle." You see an obstacle.
-LookLogs."You see darkness." You see darkness.
-LookLogs."STR: %s - AGI: %s - STA: %s - CHA: %s - PhR: %s - Level: %s" STR: %s - AGI: %s - STA: %s - CHA: %s - PhR: %s - Level: %s
+LootTips."Blessed" 神圣的
+LootTips."Cursed" 诅咒的
+LootTips."Worn" 磨损的
+LootTips."Damaged" 损坏的
+LootTips."Potent" 强效
+LootTips."Diluted" 稀释
+LootTips."Adept's" 专家级
+LootTips."Master's" 大师级
+LootTips."Depleted" 耗尽的
+LootTips."Fresh" 新鲜的
+LootTips."Rotten" 腐烂的
+LootTips."Cooldown: %d turns" 冷却：%d 回合
+LootTips."Physical Resistance: %d" 物理抗性：%d
+LootTips."Fire Resistance: %d" 火焰抗性：%d
+LootTips."Frost Resistance: %d" 冰霜抗性：%d
+LootTips."Shock Resistance: %d" 震击抗性：%d
+LootTips."Poison Resistance: %d" 毒害抗性：%d
+LootTips."Disease Resistance: %d" 疾病抗性：%d
+LootTips."Chromatic Resistance: %d" 魔法抗性：%d
+LootTips."All Resistances: %d" 所有抗性：%d
+LootTips."Shield Bash Damage: %s" 盾击伤害：%s
+LootTips."Min Block Modifier: %d" 最小格挡修正：%d
+LootTips."Max Block Modifier: %d" 最大格挡修正：%d
+LootTips."Max Block Modifier: +%d" 最大格挡修正：+%d
+LootTips."Max Dodge Modifier: %d" 最大闪避修正：%d
+LootTips."Max Dodge Modifier: +%d" 最大闪避修正：+%d
+LootTips."Max Parry Modifier: %d" 最大招架修正：%d
+LootTips."Max Parry Modifier: +%d" 最大招架修正：+%d
+LootTips."Max Cast Modifier: %d" 最大施法修正：%d
+LootTips."Weight Modifier: %d" 重量修正：%d
+LootTips."+%d Strength" +%d 力量
+LootTips."+%d Agility" +%d 敏捷
+LootTips."+%d Stamina" +%d 耐力
+LootTips."+%d Charisma" +%d 魅力
+LootTips."Increase Health: %d" 增加生命：%d
+LootTips."Regeneration: %d" 自动回复：%d
+LootTips."+%d Light Radius" +%d 光照半径
+LootTips."+%d Search Radius" +%d 搜索半径
+LootTips."Random: Drop Melee Weapon" 随机：掉落近战武器
+LootTips."Charges: %d" 次数：%d
+LootTips."Remaining: %d/%d" 剩余：%d/%d
+LootTips."Set Bonus (%d/%d):" 套装奖励（%d/%d）：
+LootTips."Credits remaining: %d" 信用剩余：%d
+LootTips."Current setting: Even" 当前设置：偶数
+LootTips."Current setting: Odd" 当前设置：奇数
+LootTips."Fire Aura" 火焰光环
+LootTips."Frost Aura" 冰霜光环
+LootTips."Shock Aura" 震击光环
+LootTips."Poison Aura" 毒害光环
+LootTips."Disease Aura" 疾病光环
+LootTips."Damage: %s" 伤害：%s
+LootTips."Conduit" 导器
+LootTips."Crushing" 粉碎
+LootTips."Durable" 耐用
+LootTips."Flailing" 连打
+LootTips."Piercing" 穿刺
+LootTips."Polearm" 长柄
+LootTips."Slashing" 劈砍
+LootTips."Serrated" 锯齿
+LootTips."Slow" 迟缓
+LootTips."Puller" 拉具
+LootTips."Digger" 挖掘器
+LootTips."Type:" 类型：
+LootTips."Small" 小型
+LootTips."Medium" 中型
+LootTips."Large" 大型
+LootTips."Melee" 近战
+LootTips."Ranged" 远程
+LootTips."Thrown" 投掷
+LootTips."%s x %d (%d - %d turns)" %s x %d （%d - %d 回合）
+LootTips."Legendary Item" 传奇物品
+LootTips."Unique Item" 独特物品
+LootTips."Unidentified" 未鉴定的
+LootTips."Cannot be enchanted" 不能被附魔
+LootTips."Already known" 已经知晓
+LootTips."Crafting Item" 锻造物品
+LootTips."Main Hand To-Hit Modifier: %d" 主手命中修正：%d
+LootTips."Main Hand Damage Modifier: %d" 主手伤害修正：%d
+LootTips."Offhand To-Hit Modifier: %d" 副手命中修正：%d
+LootTips."Offhand Damage Modifier: %d" 副手伤害修正：%d
+LootTips."Thrown To-Hit Modifier: %d" 投掷命中修正：%d
+LootTips."Thrown Damage Modifier: %d" 投掷伤害修正：%d
+LootTips."Ranged To-Hit Modifier: %d" 远程命中修正：%d
+LootTips."Ranged Damage Modifier: %d" 远程伤害修正：%d
+LootTips."Sh. Bash To-Hit Modifier: %d" 盾击命中修正：%d
+LootTips."Sh. Bash Damage Modifier: %d" 盾击伤害修正：%d
+LootTips."Critical Hit Modifier: %d (%s)" 暴击命中修正：%d (%s)
+LootTips."Block Modifier: %d/%d" 格挡修正：%d/%d
+LootTips."Dodge Modifier: %d/%d" 闪避修正：%d/%d
+LootTips."Parry Modifier: %d/%d" 招架修正：%d/%d
+LootTips."Deflect Modifier: %d" 偏斜修正：%d
+LootTips."Evasion Modifier: %d" 回避修正：%d
+LootTips."Immunities (%d/%d):" 免疫(%d/%d) ：
+LootTips."Immune to Fire" 免疫火焰
+LootTips."Immune to Frost" 免疫冰霜
+LootTips."Immune to Shock" 免疫震击
+LootTips."Immune to Poison" 免疫毒害
+LootTips."Immune to Disease" 免疫疾病
+LootTips."Immune to Curses" 免疫诅咒
+LootTips."Immune to Blind" 免疫盲眼
+LootTips."Immune to Deafen" 免疫耳聋
+LootTips."Immune to Silence" 免疫沉默
+LootTips."Immune to Charm" 免疫魅惑
+LootTips."Immune to Confuse" 免疫混乱
+LootTips."Immune to Paralysis" 免疫麻痹
+LootTips."Immune to Sleep" 免疫沉睡
+LootTips."Immune to Fear" 免疫恐惧
+LootTips."Immune to Slow" 免疫迟缓
+LootTips."Immune to Knockback" 免疫击退
+LootTips."Immune to Polymorph" 免疫变形
+LootTips."Immune to Life Drain" 免疫吸血
+LootTips."Immune to Energy Drain" 免疫吸精
+LootTips."Immune to Instant Death" 免疫即死
+LootTips."Immune to Disarm" 免疫缴械
+LootTips."Immune to Stun" 免疫眩晕
+LootTips."You are not immune to anything" 你对一切免疫
+LookLogs."You see a man who desperately needs a selfie stick." 你看见了一个急需自拍杆的男人。
+LookLogs."You see a woman who desperately needs a selfie stick." 你看见了一个急需自拍杆的女人。
+LookLogs."You see yourself." 你看见了自己。
+LookLogs."You see %s." 你看见了 %s 。
+LookLogs."%s looks almost dead." %s 看起来快死了。
+LookLogs."%s looks badly hurt." %s 看起来受了重伤。
+LookLogs."%s looks injured." %s 看起来受伤了。
+LookLogs."You see a lava chasm." 你看见了一处熔岩裂口。
+LookLogs."You see a water chasm." 你看见了一处水沟。
+LookLogs."You see a floor." 你看见了一块地板。
+LookLogs."You see a wall." 你看见了一堵墙。
+LookLogs."You see an obstacle." 你看见了一个障碍物。
+LookLogs."You see darkness." 所见之处一片黑暗。
+LookLogs."STR: %s - AGI: %s - STA: %s - CHA: %s - PhR: %s - Level: %s" 力量：%s - 敏捷：%s - 耐力：%s - 魅力：%s - 物防：%s - 等级：%s
 FocusLogs."You order your friends to spread out." You order your friends to spread out.
 FocusLogs."You order your friends to follow you." You order your friends to follow you.
 FocusLogs."You order your friends to attack %s." You order your friends to attack %s.
@@ -1160,56 +1160,56 @@ EnchantEffects."+1 Agility" +1 敏捷
 EnchantEffects."+1 Charisma" +1 魅力
 EnchantEffects."+1 Stamina" +1 耐力
 EnchantEffects."+1 Strength" +1 力量
-EnchantEffects."Immune to Blind" Immune to Blind
-EnchantEffects."Immune to Charm" Immune to Charm
-EnchantEffects."Immune to Confuse" Immune to Confuse
-EnchantEffects."Immune to Deafen" Immune to Deafen
-EnchantEffects."Immune to Energy Drain" Immune to Energy Drain
-EnchantEffects."Immune to Knockback" Immune to Knockback
-EnchantEffects."Immune to Life Drain" Immune to Life Drain
-EnchantEffects."Immune to Polymorph" Immune to Polymorph
-EnchantEffects."Immune to Paralysis" Immune to Paralysis
-EnchantEffects."Immune to Silence" Immune to Silence
-EnchantEffects."Immune to Sleep" Immune to Sleep
-EnchantEffects."Immune to Slow" Immune to Slow
-EnchantEffects."Immune to Curses" Immune to Curses
-EnchantEffects."Disease Resistance" Disease Resistance
-EnchantEffects."Poison Resistance" Poison Resistance
-EnchantEffects."Fire Resistance" Fire Resistance
-EnchantEffects."Frost Resistance" Frost Resistance
-EnchantEffects."Shock Resistance" Shock Resistance
-EnchantEffects."Immune to Instant Death" Immune to Instant Death
-EnchantEffects."Immune to Fear" Immune to Fear
+EnchantEffects."Immune to Blind" 免疫盲眼
+EnchantEffects."Immune to Charm" 免疫魅惑
+EnchantEffects."Immune to Confuse" 免疫混乱
+EnchantEffects."Immune to Deafen" 免疫耳聋
+EnchantEffects."Immune to Energy Drain" 免疫吸精
+EnchantEffects."Immune to Knockback" 免疫击退
+EnchantEffects."Immune to Life Drain" 免疫吸血
+EnchantEffects."Immune to Polymorph" 免疫变形
+EnchantEffects."Immune to Paralysis" 免疫麻痹
+EnchantEffects."Immune to Silence" 免疫沉默
+EnchantEffects."Immune to Sleep" 免疫沉睡
+EnchantEffects."Immune to Slow" 免疫迟缓
+EnchantEffects."Immune to Curses" 免疫诅咒
+EnchantEffects."Disease Resistance" 疾病抗性
+EnchantEffects."Poison Resistance" 毒害抗性
+EnchantEffects."Fire Resistance" 火焰抗性
+EnchantEffects."Frost Resistance" 冰霜抗性
+EnchantEffects."Shock Resistance" 震击抗性
+EnchantEffects."Immune to Instant Death" 免疫即死
+EnchantEffects."Immune to Fear" 免疫恐惧
 EnchantEffects."+X Health" +X 生命
 EnchantEffects."+%d Health" +%d 生命
-EnchantEffects."+1 Light Radius" +1 Light Radius
-EnchantEffects."Increases Chance to Crit" Increases Chance to Crit
-EnchantEffects."Physical Resistance" Physical Resistance
-EnchantEffects."+D3 Healing Power" +D3 Healing Power
-EnchantEffects."+1 Energy" +1 Energy
-EnchantEffects."Chance to Blind" Chance to Blind
-EnchantEffects."Chance to Charm" Chance to Charm
-EnchantEffects."Chance to Confuse" Chance to Confuse
-EnchantEffects."Chance to Deafen" Chance to Deafen
-EnchantEffects."Drain Energy" Drain Energy
-EnchantEffects."Knockback" Knockback
-EnchantEffects."Drain Health" Drain Health
-EnchantEffects."Chance to Polymorph" Chance to Polymorph
-EnchantEffects."Chance to Paralyse" Chance to Paralyse
-EnchantEffects."Chance to Silence" Chance to Silence
-EnchantEffects."Chance to Sleep" Chance to Sleep
-EnchantEffects."Chance to Slow" Chance to Slow
-EnchantEffects."Chance to Bestow Curse" Chance to Bestow Curse
+EnchantEffects."+1 Light Radius" +1 光照半径
+EnchantEffects."Increases Chance to Crit" 增加暴击机会
+EnchantEffects."Physical Resistance" 物理抗性
+EnchantEffects."+D3 Healing Power" +D3 治疗威力
+EnchantEffects."+1 Energy" +1 精力
+EnchantEffects."Chance to Blind" 有机会致盲
+EnchantEffects."Chance to Charm" 有机会魅惑
+EnchantEffects."Chance to Confuse" 有机会混乱
+EnchantEffects."Chance to Deafen" 有机会致聋
+EnchantEffects."Drain Energy" 吸取精力
+EnchantEffects."Knockback" 击退
+EnchantEffects."Drain Health" 吸取生命
+EnchantEffects."Chance to Polymorph" 有机会变形
+EnchantEffects."Chance to Paralyse" 有机会麻痹
+EnchantEffects."Chance to Silence" 有机会沉默
+EnchantEffects."Chance to Sleep" 有机会沉睡
+EnchantEffects."Chance to Slow" 有机会迟缓
+EnchantEffects."Chance to Bestow Curse" 有机会降咒
 EnchantEffects."+D6 Disease Damage" +D6 疾病伤害
 EnchantEffects."+D6 Poison Damage" +D6 毒伤害
 EnchantEffects."+D6 Fire Damage" +D6 火焰伤害
 EnchantEffects."+D6 Frost Damage" +D6 冰霜伤害
 EnchantEffects."+D6 Shock Damage" +D6 震击伤害
-EnchantEffects."Chance to Instantly Kill" Chance to Instantly Kill
-EnchantEffects."Chance to Fear" Chance to Fear
+EnchantEffects."Chance to Instantly Kill" 有机会即死
+EnchantEffects."Chance to Fear" 有机会恐惧
 EnchantEffects."+X Health" +X 生命
-EnchantEffects."+1 Light Radius" +1 Light Radius
-EnchantEffects."Increases Chance to Crit" Increases Chance to Crit
+EnchantEffects."+1 Light Radius" +1 光照半径
+EnchantEffects."Increases Chance to Crit" 增加暴击机会
 EnchantEffects."+D3 Physical Damage" +D3 物理伤害
 EnchantEffects."+D3 Spell Damage" +D3 法术伤害
 EnchantEffects."+1 Energy" +1 精力
@@ -1536,74 +1536,74 @@ AmuletDescs."BlessedDomination" Every point of damage you cause has a 33% chance
 AmuletDescs."BlessedRadiance" Gives you an aura with a radius of 2. Auras also make you immune to their effects.
 AmuletDescs."BlessedSacrifice" This must be in your possession in order to sacrifice something using a sacrificial circle and a ritual.
 AmuletDescs."BlessedUberlyft" Travel button now works after clearing 25% of the current level.
-ArmourNames."Robe" Robe
-ArmourNames."Shirt" Shirt
-ArmourNames."Hood" Hood
-ArmourNames."Padded Armour" Padded Armour
-ArmourNames."Leather Armour" Leather Armour
-ArmourNames."Studded Armour" Studded Armour
-ArmourNames."Chain Armour" Chain Armour
-ArmourNames."Plate Armour" Plate Armour
-ArmourNames."Winter Armour" Winter Armour
-ArmourNames."Dragonhide Armour" Dragonhide Armour
-ArmourNames."Bloodrage Armour" Bloodrage Armour
-ArmourNames."Blackthorn Armour" Blackthorn Armour
-ArmourNames."Ebonheart Armour" Ebonheart Armour
-ArmourNames."Celestial Robe" Celestial Robe
-ArmourNames."Draconic Robe" Draconic Robe
-ArmourNames."Infernal Robe" Infernal Robe
-ArmourNames."Arcane Robe" Arcane Robe
-ArmourNames."Bestial Robe" Bestial Robe
-ArmourNames."Abyssal Robe" Abyssal Robe
-ArmourNames."Padded Cap" Padded Cap
-ArmourNames."Leather Cap" Leather Cap
-ArmourNames."Studded Cap" Studded Cap
-ArmourNames."Plate Cap" Plate Cap
-ArmourNames."Leather Helm" Leather Helm
-ArmourNames."Studded Helm" Studded Helm
-ArmourNames."Chain Helm" Chain Helm
-ArmourNames."Plate Helm" Plate Helm
-ArmourNames."Winter Helm" Winter Helm
-ArmourNames."Dragonhide Helm" Dragonhide Helm
-ArmourNames."Bloodrage Helm" Bloodrage Helm
-ArmourNames."Blackthorn Helm" Blackthorn Helm
-ArmourNames."Ebonheart Helm" Ebonheart Helm
-ArmourNames."Celestial Cowl" Celestial Cowl
-ArmourNames."Draconic Cowl" Draconic Cowl
-ArmourNames."Infernal Cowl" Infernal Cowl
-ArmourNames."Arcane Cowl" Arcane Cowl
-ArmourNames."Bestial Cowl" Bestial Cowl
-ArmourNames."Abyssal Cowl" Abyssal Cowl
-ArmourNames."Fine Padded Armour" Fine Padded Armour
-ArmourNames."Fine Leather Armour" Fine Leather Armour
-ArmourNames."Fine Studded Armour" Fine Studded Armour
-ArmourNames."Fine Chain Armour" Fine Chain Armour
-ArmourNames."Fine Plate Armour" Fine Plate Armour
-ArmourNames."Fine Padded Cap" Fine Padded Cap
-ArmourNames."Fine Leather Cap" Fine Leather Cap
-ArmourNames."Fine Studded Cap" Fine Studded Cap
-ArmourNames."Fine Plate Cap" Fine Plate Cap
-ArmourNames."Fine Leather Helm" Fine Leather Helm
-ArmourNames."Fine Studded Helm" Fine Studded Helm
-ArmourNames."Fine Chain Helm" Fine Chain Helm
-ArmourNames."Fine Plate Helm" Fine Plate Helm
-ArmourNames."Royal Armour" Royal Armour
-ArmourNames."Royal Helm" Royal Helm
-ArmourNames."Hardened Skin" Hardened Skin
-ArmourNames."Winter Fur Coat" Winter Fur Coat
-ArmourNames."Arctic Fur Coat" Arctic Fur Coat
-ArmourDescs."ArmourDesc" Note that wearing an armour may hinder spellcasting, dodging, climbing and or jumping.
-ArmourDescs."HelmetDesc" Note that wearing a helmet may hinder spellcasting, dodging, climbing and or jumping.
-ArmourDescs."ShirtDesc" If the creatures weren't anosmic, they would die when you enter the level.
-ArmourDescs."HoodDesc" This hood feels as if it were part of your head and detached at the same time.
-ArmourDescs."Black" Black
-ArmourDescs."Red" Red
-ArmourDescs."Green" Green
-ArmourDescs."Blue" Blue
-ArmourDescs."Orange" Orange
-ArmourDescs."Yellow" Yellow
-ArmourDescs."Pink" Pink
-ArmourDescs."White" White
+ArmourNames."Robe" 长袍
+ArmourNames."Shirt" 衬衫
+ArmourNames."Hood" 头巾
+ArmourNames."Padded Armour" 棉甲
+ArmourNames."Leather Armour" 皮甲
+ArmourNames."Studded Armour" 札甲
+ArmourNames."Chain Armour" 链甲
+ArmourNames."Plate Armour" 板甲
+ArmourNames."Winter Armour" 严冬铠甲
+ArmourNames."Dragonhide Armour" 龙皮铠甲
+ArmourNames."Bloodrage Armour" 血怒铠甲
+ArmourNames."Blackthorn Armour" 黑棘铠甲
+ArmourNames."Ebonheart Armour" 乌木凯甲
+ArmourNames."Celestial Robe" 天使长袍
+ArmourNames."Draconic Robe" 巨龙长袍
+ArmourNames."Infernal Robe" 地狱长袍
+ArmourNames."Arcane Robe" 奥术长袍
+ArmourNames."Bestial Robe" 兽性长袍
+ArmourNames."Abyssal Robe" 深渊长袍
+ArmourNames."Padded Cap" 棉帽
+ArmourNames."Leather Cap" 皮帽
+ArmourNames."Studded Cap" 札帽
+ArmourNames."Plate Cap" 板帽
+ArmourNames."Leather Helm" 皮盔
+ArmourNames."Studded Helm" 札盔
+ArmourNames."Chain Helm" 链盔
+ArmourNames."Plate Helm" 板盔
+ArmourNames."Winter Helm" 严冬头盔
+ArmourNames."Dragonhide Helm" 龙皮头盔
+ArmourNames."Bloodrage Helm" 血怒头盔
+ArmourNames."Blackthorn Helm" 黑棘头盔
+ArmourNames."Ebonheart Helm" 乌木头盔
+ArmourNames."Celestial Cowl" 天使风帽
+ArmourNames."Draconic Cowl" 巨龙风帽
+ArmourNames."Infernal Cowl" 地狱风帽
+ArmourNames."Arcane Cowl" 奥术风帽
+ArmourNames."Bestial Cowl" 兽性风帽
+ArmourNames."Abyssal Cowl" 深渊风帽
+ArmourNames."Fine Padded Armour" 精美棉甲
+ArmourNames."Fine Leather Armour" 精美皮甲
+ArmourNames."Fine Studded Armour" 精美札甲
+ArmourNames."Fine Chain Armour" 精美链甲
+ArmourNames."Fine Plate Armour" 精美板甲
+ArmourNames."Fine Padded Cap" 精美棉帽
+ArmourNames."Fine Leather Cap" 精美皮帽
+ArmourNames."Fine Studded Cap" 精美札帽
+ArmourNames."Fine Plate Cap" 精美板帽
+ArmourNames."Fine Leather Helm" 精美皮盔
+ArmourNames."Fine Studded Helm" 精美札盔
+ArmourNames."Fine Chain Helm" 精美链盔
+ArmourNames."Fine Plate Helm" 精美板盔
+ArmourNames."Royal Armour" 皇家铠甲
+ArmourNames."Royal Helm" 皇家头盔
+ArmourNames."Hardened Skin" 硬化皮肤
+ArmourNames."Winter Fur Coat" 严冬皮草
+ArmourNames."Arctic Fur Coat" 北极皮草
+ArmourDescs."ArmourDesc" @(30)注意：穿戴铠甲会妨碍施法、闪避、攀爬、跳跃。
+ArmourDescs."HelmetDesc" @(30)注意：穿戴头盔会妨碍施法、闪避、攀爬、跳跃。
+ArmourDescs."ShirtDesc" @(30)你下到地牢时，所有有嗅觉的生物都会被熏死。
+ArmourDescs."HoodDesc" @(30)这块头巾摸上去感觉像是你脑袋的一部分，又似乎不存在。
+ArmourDescs."Black" 黑色
+ArmourDescs."Red" 红色
+ArmourDescs."Green" 绿色
+ArmourDescs."Blue" 蓝色
+ArmourDescs."Orange" 橙色
+ArmourDescs."Yellow" 黄色
+ArmourDescs."Pink" 粉色
+ArmourDescs."White" 白色
 ArrowNames."Stick" Stick
 ArrowNames."Arrow" Arrow
 ArrowNames."Fine Arrow" Fine Arrow

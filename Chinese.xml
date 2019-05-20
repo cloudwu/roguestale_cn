@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190520)" checksum="f3c22bf06c08d7b0a20b154e5dd81df59eab8ee5">
+<strings version="Version 2.00 Beta 1 (190520)" checksum="74d269d3d893e1c26830ddecb2a941925683a2d9">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -234,9 +234,9 @@
   </GUILogs>
   <GUIPops>
     <str id="%s is now properly buried at the shrine of the forgotten heroes and %s should not haunt us anymore." value="%s is now properly buried at the shrine of the forgotten heroes and %s should not haunt us anymore."/>
-    <str id="You have reached" value="You have reached"/>
-    <str id="Level %d" value="Level %d"/>
-    <str id="You have entered" value="You have entered"/>
+    <str id="You have reached" value="You have reached" local="你抵达了"/>
+    <str id="Level %d" value="Level %d" local="等级 %d"/>
+    <str id="You have entered" value="You have entered" local="你进入了"/>
   </GUIPops>
   <Quests>
     <str id="I got plenty of money!" value="I got plenty of money!"/>
@@ -359,138 +359,138 @@
     <str id="the demonrat" value="the demonrat"/>
   </Travelers>
   <LootTips>
-    <str id="Blessed" value="Blessed"/>
-    <str id="Cursed" value="Cursed"/>
-    <str id="Worn" value="Worn"/>
-    <str id="Damaged" value="Damaged"/>
-    <str id="Potent" value="Potent"/>
-    <str id="Diluted" value="Diluted"/>
-    <str id="Adept's" value="Adept's"/>
-    <str id="Master's" value="Master's"/>
-    <str id="Depleted" value="Depleted"/>
-    <str id="Fresh" value="Fresh"/>
-    <str id="Rotten" value="Rotten"/>
-    <str id="Cooldown: %d turns" value="Cooldown: %d turns"/>
-    <str id="Physical Resistance: %d" value="Physical Resistance: %d"/>
-    <str id="Fire Resistance: %d" value="Fire Resistance: %d"/>
-    <str id="Frost Resistance: %d" value="Frost Resistance: %d"/>
-    <str id="Shock Resistance: %d" value="Shock Resistance: %d"/>
-    <str id="Poison Resistance: %d" value="Poison Resistance: %d"/>
-    <str id="Disease Resistance: %d" value="Disease Resistance: %d"/>
-    <str id="Chromatic Resistance: %d" value="Chromatic Resistance: %d"/>
-    <str id="All Resistances: %d" value="All Resistances: %d"/>
-    <str id="Shield Bash Damage: %s" value="Shield Bash Damage: %s"/>
-    <str id="Min Block Modifier: %d" value="Min Block Modifier: %d"/>
-    <str id="Max Block Modifier: %d" value="Max Block Modifier: %d"/>
-    <str id="Max Block Modifier: +%d" value="Max Block Modifier: +%d"/>
-    <str id="Max Dodge Modifier: %d" value="Max Dodge Modifier: %d"/>
-    <str id="Max Dodge Modifier: +%d" value="Max Dodge Modifier: +%d"/>
-    <str id="Max Parry Modifier: %d" value="Max Parry Modifier: %d"/>
-    <str id="Max Parry Modifier: +%d" value="Max Parry Modifier: +%d"/>
-    <str id="Max Cast Modifier: %d" value="Max Cast Modifier: %d"/>
-    <str id="Weight Modifier: %d" value="Weight Modifier: %d"/>
-    <str id="+%d Strength" value="+%d Strength"/>
-    <str id="+%d Agility" value="+%d Agility"/>
-    <str id="+%d Stamina" value="+%d Stamina"/>
-    <str id="+%d Charisma" value="+%d Charisma"/>
-    <str id="Increase Health: %d" value="Increase Health: %d"/>
-    <str id="Regeneration: %d" value="Regeneration: %d"/>
-    <str id="+%d Light Radius" value="+%d Light Radius"/>
-    <str id="+%d Search Radius" value="+%d Search Radius"/>
-    <str id="Random: Drop Melee Weapon" value="Random: Drop Melee Weapon"/>
-    <str id="Charges: %d" value="Charges: %d"/>
-    <str id="Remaining: %d/%d" value="Remaining: %d/%d"/>
-    <str id="Set Bonus (%d/%d):" value="Set Bonus (%d/%d):"/>
-    <str id="Credits remaining: %d" value="Credits remaining: %d"/>
-    <str id="Current setting: Even" value="Current setting: Even"/>
-    <str id="Current setting: Odd" value="Current setting: Odd"/>
-    <str id="Fire Aura" value="Fire Aura"/>
-    <str id="Frost Aura" value="Frost Aura"/>
-    <str id="Shock Aura" value="Shock Aura"/>
-    <str id="Poison Aura" value="Poison Aura"/>
-    <str id="Disease Aura" value="Disease Aura"/>
-    <str id="Damage: %s" value="Damage: %s"/>
-    <str id="Conduit" value="Conduit"/>
-    <str id="Crushing" value="Crushing"/>
-    <str id="Durable" value="Durable"/>
-    <str id="Flailing" value="Flailing"/>
-    <str id="Piercing" value="Piercing"/>
-    <str id="Polearm" value="Polearm"/>
-    <str id="Slashing" value="Slashing"/>
-    <str id="Serrated" value="Serrated"/>
-    <str id="Slow" value="Slow"/>
-    <str id="Puller" value="Puller"/>
-    <str id="Digger" value="Digger"/>
-    <str id="Type:" value="Type:"/>
-    <str id="Small" value="Small"/>
-    <str id="Medium" value="Medium"/>
-    <str id="Large" value="Large"/>
-    <str id="Melee" value="Melee"/>
-    <str id="Ranged" value="Ranged"/>
-    <str id="Thrown" value="Thrown"/>
-    <str id="%s x %d (%d - %d turns)" value="%s x %d (%d - %d turns)"/>
-    <str id="Legendary Item" value="Legendary Item"/>
-    <str id="Unique Item" value="Unique Item"/>
-    <str id="Unidentified" value="Unidentified"/>
-    <str id="Cannot be enchanted" value="Cannot be enchanted"/>
-    <str id="Already known" value="Already known"/>
-    <str id="Crafting Item" value="Crafting Item"/>
-    <str id="Main Hand To-Hit Modifier: %d" value="Main Hand To-Hit Modifier: %d"/>
-    <str id="Main Hand Damage Modifier: %d" value="Main Hand Damage Modifier: %d"/>
-    <str id="Offhand To-Hit Modifier: %d" value="Offhand To-Hit Modifier: %d"/>
-    <str id="Offhand Damage Modifier: %d" value="Offhand Damage Modifier: %d"/>
-    <str id="Thrown To-Hit Modifier: %d" value="Thrown To-Hit Modifier: %d"/>
-    <str id="Thrown Damage Modifier: %d" value="Thrown Damage Modifier: %d"/>
-    <str id="Ranged To-Hit Modifier: %d" value="Ranged To-Hit Modifier: %d"/>
-    <str id="Ranged Damage Modifier: %d" value="Ranged Damage Modifier: %d"/>
-    <str id="Sh. Bash To-Hit Modifier: %d" value="Sh. Bash To-Hit Modifier: %d"/>
-    <str id="Sh. Bash Damage Modifier: %d" value="Sh. Bash Damage Modifier: %d"/>
-    <str id="Critical Hit Modifier: %d (%s)" value="Critical Hit Modifier: %d (%s)"/>
-    <str id="Block Modifier: %d/%d" value="Block Modifier: %d/%d"/>
-    <str id="Dodge Modifier: %d/%d" value="Dodge Modifier: %d/%d"/>
-    <str id="Parry Modifier: %d/%d" value="Parry Modifier: %d/%d"/>
-    <str id="Deflect Modifier: %d" value="Deflect Modifier: %d"/>
-    <str id="Evasion Modifier: %d" value="Evasion Modifier: %d"/>
-    <str id="Immunities (%d/%d):" value="Immunities (%d/%d):"/>
-    <str id="Immune to Fire" value="Immune to Fire"/>
-    <str id="Immune to Frost" value="Immune to Frost"/>
-    <str id="Immune to Shock" value="Immune to Shock"/>
-    <str id="Immune to Poison" value="Immune to Poison"/>
-    <str id="Immune to Disease" value="Immune to Disease"/>
-    <str id="Immune to Curses" value="Immune to Curses"/>
-    <str id="Immune to Blind" value="Immune to Blind"/>
-    <str id="Immune to Deafen" value="Immune to Deafen"/>
-    <str id="Immune to Silence" value="Immune to Silence"/>
-    <str id="Immune to Charm" value="Immune to Charm"/>
-    <str id="Immune to Confuse" value="Immune to Confuse"/>
-    <str id="Immune to Paralysis" value="Immune to Paralysis"/>
-    <str id="Immune to Sleep" value="Immune to Sleep"/>
-    <str id="Immune to Fear" value="Immune to Fear"/>
-    <str id="Immune to Slow" value="Immune to Slow"/>
-    <str id="Immune to Knockback" value="Immune to Knockback"/>
-    <str id="Immune to Polymorph" value="Immune to Polymorph"/>
-    <str id="Immune to Life Drain" value="Immune to Life Drain"/>
-    <str id="Immune to Energy Drain" value="Immune to Energy Drain"/>
-    <str id="Immune to Instant Death" value="Immune to Instant Death"/>
-    <str id="Immune to Disarm" value="Immune to Disarm"/>
-    <str id="Immune to Stun" value="Immune to Stun"/>
-    <str id="You are not immune to anything" value="You are not immune to anything"/>
+    <str id="Blessed" value="Blessed" local="神圣的"/>
+    <str id="Cursed" value="Cursed" local="诅咒的"/>
+    <str id="Worn" value="Worn" local="磨损的"/>
+    <str id="Damaged" value="Damaged" local="损坏的"/>
+    <str id="Potent" value="Potent" local="强效"/>
+    <str id="Diluted" value="Diluted" local="稀释"/>
+    <str id="Adept's" value="Adept's" local="专家级"/>
+    <str id="Master's" value="Master's" local="大师级"/>
+    <str id="Depleted" value="Depleted" local="耗尽的"/>
+    <str id="Fresh" value="Fresh" local="新鲜的"/>
+    <str id="Rotten" value="Rotten" local="腐烂的"/>
+    <str id="Cooldown: %d turns" value="Cooldown: %d turns" local="冷却：%d 回合"/>
+    <str id="Physical Resistance: %d" value="Physical Resistance: %d" local="物理抗性：%d"/>
+    <str id="Fire Resistance: %d" value="Fire Resistance: %d" local="火焰抗性：%d"/>
+    <str id="Frost Resistance: %d" value="Frost Resistance: %d" local="冰霜抗性：%d"/>
+    <str id="Shock Resistance: %d" value="Shock Resistance: %d" local="震击抗性：%d"/>
+    <str id="Poison Resistance: %d" value="Poison Resistance: %d" local="毒害抗性：%d"/>
+    <str id="Disease Resistance: %d" value="Disease Resistance: %d" local="疾病抗性：%d"/>
+    <str id="Chromatic Resistance: %d" value="Chromatic Resistance: %d" local="魔法抗性：%d"/>
+    <str id="All Resistances: %d" value="All Resistances: %d" local="所有抗性：%d"/>
+    <str id="Shield Bash Damage: %s" value="Shield Bash Damage: %s" local="盾击伤害：%s"/>
+    <str id="Min Block Modifier: %d" value="Min Block Modifier: %d" local="最小格挡修正：%d"/>
+    <str id="Max Block Modifier: %d" value="Max Block Modifier: %d" local="最大格挡修正：%d"/>
+    <str id="Max Block Modifier: +%d" value="Max Block Modifier: +%d" local="最大格挡修正：+%d"/>
+    <str id="Max Dodge Modifier: %d" value="Max Dodge Modifier: %d" local="最大闪避修正：%d"/>
+    <str id="Max Dodge Modifier: +%d" value="Max Dodge Modifier: +%d" local="最大闪避修正：+%d"/>
+    <str id="Max Parry Modifier: %d" value="Max Parry Modifier: %d" local="最大招架修正：%d"/>
+    <str id="Max Parry Modifier: +%d" value="Max Parry Modifier: +%d" local="最大招架修正：+%d"/>
+    <str id="Max Cast Modifier: %d" value="Max Cast Modifier: %d" local="最大施法修正：%d"/>
+    <str id="Weight Modifier: %d" value="Weight Modifier: %d" local="重量修正：%d"/>
+    <str id="+%d Strength" value="+%d Strength" local="+%d 力量"/>
+    <str id="+%d Agility" value="+%d Agility" local="+%d 敏捷"/>
+    <str id="+%d Stamina" value="+%d Stamina" local="+%d 耐力"/>
+    <str id="+%d Charisma" value="+%d Charisma" local="+%d 魅力"/>
+    <str id="Increase Health: %d" value="Increase Health: %d" local="增加生命：%d"/>
+    <str id="Regeneration: %d" value="Regeneration: %d" local="自动回复：%d"/>
+    <str id="+%d Light Radius" value="+%d Light Radius" local="+%d 光照半径"/>
+    <str id="+%d Search Radius" value="+%d Search Radius" local="+%d 搜索半径"/>
+    <str id="Random: Drop Melee Weapon" value="Random: Drop Melee Weapon" local="随机：掉落近战武器"/>
+    <str id="Charges: %d" value="Charges: %d" local="次数：%d"/>
+    <str id="Remaining: %d/%d" value="Remaining: %d/%d" local="剩余：%d/%d"/>
+    <str id="Set Bonus (%d/%d):" value="Set Bonus (%d/%d):" local="套装奖励（%d/%d）："/>
+    <str id="Credits remaining: %d" value="Credits remaining: %d" local="信用剩余：%d"/>
+    <str id="Current setting: Even" value="Current setting: Even" local="当前设置：偶数"/>
+    <str id="Current setting: Odd" value="Current setting: Odd" local="当前设置：奇数"/>
+    <str id="Fire Aura" value="Fire Aura" local="火焰光环"/>
+    <str id="Frost Aura" value="Frost Aura" local="冰霜光环"/>
+    <str id="Shock Aura" value="Shock Aura" local="震击光环"/>
+    <str id="Poison Aura" value="Poison Aura" local="毒害光环"/>
+    <str id="Disease Aura" value="Disease Aura" local="疾病光环"/>
+    <str id="Damage: %s" value="Damage: %s" local="伤害：%s"/>
+    <str id="Conduit" value="Conduit" local="导器"/>
+    <str id="Crushing" value="Crushing" local="粉碎"/>
+    <str id="Durable" value="Durable" local="耐用"/>
+    <str id="Flailing" value="Flailing" local="连打"/>
+    <str id="Piercing" value="Piercing" local="穿刺"/>
+    <str id="Polearm" value="Polearm" local="长柄"/>
+    <str id="Slashing" value="Slashing" local="劈砍"/>
+    <str id="Serrated" value="Serrated" local="锯齿"/>
+    <str id="Slow" value="Slow" local="迟缓"/>
+    <str id="Puller" value="Puller" local="拉具"/>
+    <str id="Digger" value="Digger" local="挖掘器"/>
+    <str id="Type:" value="Type:" local="类型："/>
+    <str id="Small" value="Small" local="小型"/>
+    <str id="Medium" value="Medium" local="中型"/>
+    <str id="Large" value="Large" local="大型"/>
+    <str id="Melee" value="Melee" local="近战"/>
+    <str id="Ranged" value="Ranged" local="远程"/>
+    <str id="Thrown" value="Thrown" local="投掷"/>
+    <str id="%s x %d (%d - %d turns)" value="%s x %d (%d - %d turns)" local="%s x %d （%d - %d 回合）"/>
+    <str id="Legendary Item" value="Legendary Item" local="传奇物品"/>
+    <str id="Unique Item" value="Unique Item" local="独特物品"/>
+    <str id="Unidentified" value="Unidentified" local="未鉴定的"/>
+    <str id="Cannot be enchanted" value="Cannot be enchanted" local="不能被附魔"/>
+    <str id="Already known" value="Already known" local="已经知晓"/>
+    <str id="Crafting Item" value="Crafting Item" local="锻造物品"/>
+    <str id="Main Hand To-Hit Modifier: %d" value="Main Hand To-Hit Modifier: %d" local="主手命中修正：%d"/>
+    <str id="Main Hand Damage Modifier: %d" value="Main Hand Damage Modifier: %d" local="主手伤害修正：%d"/>
+    <str id="Offhand To-Hit Modifier: %d" value="Offhand To-Hit Modifier: %d" local="副手命中修正：%d"/>
+    <str id="Offhand Damage Modifier: %d" value="Offhand Damage Modifier: %d" local="副手伤害修正：%d"/>
+    <str id="Thrown To-Hit Modifier: %d" value="Thrown To-Hit Modifier: %d" local="投掷命中修正：%d"/>
+    <str id="Thrown Damage Modifier: %d" value="Thrown Damage Modifier: %d" local="投掷伤害修正：%d"/>
+    <str id="Ranged To-Hit Modifier: %d" value="Ranged To-Hit Modifier: %d" local="远程命中修正：%d"/>
+    <str id="Ranged Damage Modifier: %d" value="Ranged Damage Modifier: %d" local="远程伤害修正：%d"/>
+    <str id="Sh. Bash To-Hit Modifier: %d" value="Sh. Bash To-Hit Modifier: %d" local="盾击命中修正：%d"/>
+    <str id="Sh. Bash Damage Modifier: %d" value="Sh. Bash Damage Modifier: %d" local="盾击伤害修正：%d"/>
+    <str id="Critical Hit Modifier: %d (%s)" value="Critical Hit Modifier: %d (%s)" local="暴击命中修正：%d (%s)"/>
+    <str id="Block Modifier: %d/%d" value="Block Modifier: %d/%d" local="格挡修正：%d/%d"/>
+    <str id="Dodge Modifier: %d/%d" value="Dodge Modifier: %d/%d" local="闪避修正：%d/%d"/>
+    <str id="Parry Modifier: %d/%d" value="Parry Modifier: %d/%d" local="招架修正：%d/%d"/>
+    <str id="Deflect Modifier: %d" value="Deflect Modifier: %d" local="偏斜修正：%d"/>
+    <str id="Evasion Modifier: %d" value="Evasion Modifier: %d" local="回避修正：%d"/>
+    <str id="Immunities (%d/%d):" value="Immunities (%d/%d):" local="免疫(%d/%d) ："/>
+    <str id="Immune to Fire" value="Immune to Fire" local="免疫火焰"/>
+    <str id="Immune to Frost" value="Immune to Frost" local="免疫冰霜"/>
+    <str id="Immune to Shock" value="Immune to Shock" local="免疫震击"/>
+    <str id="Immune to Poison" value="Immune to Poison" local="免疫毒害"/>
+    <str id="Immune to Disease" value="Immune to Disease" local="免疫疾病"/>
+    <str id="Immune to Curses" value="Immune to Curses" local="免疫诅咒"/>
+    <str id="Immune to Blind" value="Immune to Blind" local="免疫盲眼"/>
+    <str id="Immune to Deafen" value="Immune to Deafen" local="免疫耳聋"/>
+    <str id="Immune to Silence" value="Immune to Silence" local="免疫沉默"/>
+    <str id="Immune to Charm" value="Immune to Charm" local="免疫魅惑"/>
+    <str id="Immune to Confuse" value="Immune to Confuse" local="免疫混乱"/>
+    <str id="Immune to Paralysis" value="Immune to Paralysis" local="免疫麻痹"/>
+    <str id="Immune to Sleep" value="Immune to Sleep" local="免疫沉睡"/>
+    <str id="Immune to Fear" value="Immune to Fear" local="免疫恐惧"/>
+    <str id="Immune to Slow" value="Immune to Slow" local="免疫迟缓"/>
+    <str id="Immune to Knockback" value="Immune to Knockback" local="免疫击退"/>
+    <str id="Immune to Polymorph" value="Immune to Polymorph" local="免疫变形"/>
+    <str id="Immune to Life Drain" value="Immune to Life Drain" local="免疫吸血"/>
+    <str id="Immune to Energy Drain" value="Immune to Energy Drain" local="免疫吸精"/>
+    <str id="Immune to Instant Death" value="Immune to Instant Death" local="免疫即死"/>
+    <str id="Immune to Disarm" value="Immune to Disarm" local="免疫缴械"/>
+    <str id="Immune to Stun" value="Immune to Stun" local="免疫眩晕"/>
+    <str id="You are not immune to anything" value="You are not immune to anything" local="你对一切免疫"/>
   </LootTips>
   <LookLogs>
-    <str id="You see a man who desperately needs a selfie stick." value="You see a man who desperately needs a selfie stick."/>
-    <str id="You see a woman who desperately needs a selfie stick." value="You see a woman who desperately needs a selfie stick."/>
-    <str id="You see yourself." value="You see yourself."/>
-    <str id="You see %s." value="You see %s."/>
-    <str id="%s looks almost dead." value="%s looks almost dead."/>
-    <str id="%s looks badly hurt." value="%s looks badly hurt."/>
-    <str id="%s looks injured." value="%s looks injured."/>
-    <str id="You see a lava chasm." value="You see a lava chasm."/>
-    <str id="You see a water chasm." value="You see a water chasm."/>
-    <str id="You see a floor." value="You see a floor."/>
-    <str id="You see a wall." value="You see a wall."/>
-    <str id="You see an obstacle." value="You see an obstacle."/>
-    <str id="You see darkness." value="You see darkness."/>
-    <str id="STR: %s - AGI: %s - STA: %s - CHA: %s - PhR: %s - Level: %s" value="STR: %s - AGI: %s - STA: %s - CHA: %s - PhR: %s - Level: %s"/>
+    <str id="You see a man who desperately needs a selfie stick." value="You see a man who desperately needs a selfie stick." local="你看见了一个急需自拍杆的男人。"/>
+    <str id="You see a woman who desperately needs a selfie stick." value="You see a woman who desperately needs a selfie stick." local="你看见了一个急需自拍杆的女人。"/>
+    <str id="You see yourself." value="You see yourself." local="你看见了自己。"/>
+    <str id="You see %s." value="You see %s." local="你看见了 %s 。"/>
+    <str id="%s looks almost dead." value="%s looks almost dead." local="%s 看起来快死了。"/>
+    <str id="%s looks badly hurt." value="%s looks badly hurt." local="%s 看起来受了重伤。"/>
+    <str id="%s looks injured." value="%s looks injured." local="%s 看起来受伤了。"/>
+    <str id="You see a lava chasm." value="You see a lava chasm." local="你看见了一处熔岩裂口。"/>
+    <str id="You see a water chasm." value="You see a water chasm." local="你看见了一处水沟。"/>
+    <str id="You see a floor." value="You see a floor." local="你看见了一块地板。"/>
+    <str id="You see a wall." value="You see a wall." local="你看见了一堵墙。"/>
+    <str id="You see an obstacle." value="You see an obstacle." local="你看见了一个障碍物。"/>
+    <str id="You see darkness." value="You see darkness." local="所见之处一片黑暗。"/>
+    <str id="STR: %s - AGI: %s - STA: %s - CHA: %s - PhR: %s - Level: %s" value="STR: %s - AGI: %s - STA: %s - CHA: %s - PhR: %s - Level: %s" local="力量：%s - 敏捷：%s - 耐力：%s - 魅力：%s - 物防：%s - 等级：%s"/>
   </LookLogs>
   <FocusLogs>
     <str id="You order your friends to spread out." value="You order your friends to spread out."/>
@@ -1277,56 +1277,56 @@
     <str id="+1 Charisma" value="+1 Charisma" local="+1 魅力"/>
     <str id="+1 Stamina" value="+1 Stamina" local="+1 耐力"/>
     <str id="+1 Strength" value="+1 Strength" local="+1 力量"/>
-    <str id="Immune to Blind" value="Immune to Blind"/>
-    <str id="Immune to Charm" value="Immune to Charm"/>
-    <str id="Immune to Confuse" value="Immune to Confuse"/>
-    <str id="Immune to Deafen" value="Immune to Deafen"/>
-    <str id="Immune to Energy Drain" value="Immune to Energy Drain"/>
-    <str id="Immune to Knockback" value="Immune to Knockback"/>
-    <str id="Immune to Life Drain" value="Immune to Life Drain"/>
-    <str id="Immune to Polymorph" value="Immune to Polymorph"/>
-    <str id="Immune to Paralysis" value="Immune to Paralysis"/>
-    <str id="Immune to Silence" value="Immune to Silence"/>
-    <str id="Immune to Sleep" value="Immune to Sleep"/>
-    <str id="Immune to Slow" value="Immune to Slow"/>
-    <str id="Immune to Curses" value="Immune to Curses"/>
-    <str id="Disease Resistance" value="Disease Resistance"/>
-    <str id="Poison Resistance" value="Poison Resistance"/>
-    <str id="Fire Resistance" value="Fire Resistance"/>
-    <str id="Frost Resistance" value="Frost Resistance"/>
-    <str id="Shock Resistance" value="Shock Resistance"/>
-    <str id="Immune to Instant Death" value="Immune to Instant Death"/>
-    <str id="Immune to Fear" value="Immune to Fear"/>
+    <str id="Immune to Blind" value="Immune to Blind" local="免疫盲眼"/>
+    <str id="Immune to Charm" value="Immune to Charm" local="免疫魅惑"/>
+    <str id="Immune to Confuse" value="Immune to Confuse" local="免疫混乱"/>
+    <str id="Immune to Deafen" value="Immune to Deafen" local="免疫耳聋"/>
+    <str id="Immune to Energy Drain" value="Immune to Energy Drain" local="免疫吸精"/>
+    <str id="Immune to Knockback" value="Immune to Knockback" local="免疫击退"/>
+    <str id="Immune to Life Drain" value="Immune to Life Drain" local="免疫吸血"/>
+    <str id="Immune to Polymorph" value="Immune to Polymorph" local="免疫变形"/>
+    <str id="Immune to Paralysis" value="Immune to Paralysis" local="免疫麻痹"/>
+    <str id="Immune to Silence" value="Immune to Silence" local="免疫沉默"/>
+    <str id="Immune to Sleep" value="Immune to Sleep" local="免疫沉睡"/>
+    <str id="Immune to Slow" value="Immune to Slow" local="免疫迟缓"/>
+    <str id="Immune to Curses" value="Immune to Curses" local="免疫诅咒"/>
+    <str id="Disease Resistance" value="Disease Resistance" local="疾病抗性"/>
+    <str id="Poison Resistance" value="Poison Resistance" local="毒害抗性"/>
+    <str id="Fire Resistance" value="Fire Resistance" local="火焰抗性"/>
+    <str id="Frost Resistance" value="Frost Resistance" local="冰霜抗性"/>
+    <str id="Shock Resistance" value="Shock Resistance" local="震击抗性"/>
+    <str id="Immune to Instant Death" value="Immune to Instant Death" local="免疫即死"/>
+    <str id="Immune to Fear" value="Immune to Fear" local="免疫恐惧"/>
     <str id="+X Health" value="+X Health" local="+X 生命"/>
     <str id="+%d Health" value="+%d Health" local="+%d 生命"/>
-    <str id="+1 Light Radius" value="+1 Light Radius"/>
-    <str id="Increases Chance to Crit" value="Increases Chance to Crit"/>
-    <str id="Physical Resistance" value="Physical Resistance"/>
-    <str id="+D3 Healing Power" value="+D3 Healing Power"/>
+    <str id="+1 Light Radius" value="+1 Light Radius" local="+1 光照半径"/>
+    <str id="Increases Chance to Crit" value="Increases Chance to Crit" local="增加暴击机会"/>
+    <str id="Physical Resistance" value="Physical Resistance" local="物理抗性"/>
+    <str id="+D3 Healing Power" value="+D3 Healing Power" local="+D3 治疗威力"/>
     <str id="+1 Energy" value="+1 Energy" local="+1 精力"/>
-    <str id="Chance to Blind" value="Chance to Blind"/>
-    <str id="Chance to Charm" value="Chance to Charm"/>
-    <str id="Chance to Confuse" value="Chance to Confuse"/>
-    <str id="Chance to Deafen" value="Chance to Deafen"/>
-    <str id="Drain Energy" value="Drain Energy"/>
-    <str id="Knockback" value="Knockback"/>
-    <str id="Drain Health" value="Drain Health"/>
-    <str id="Chance to Polymorph" value="Chance to Polymorph"/>
-    <str id="Chance to Paralyse" value="Chance to Paralyse"/>
-    <str id="Chance to Silence" value="Chance to Silence"/>
-    <str id="Chance to Sleep" value="Chance to Sleep"/>
-    <str id="Chance to Slow" value="Chance to Slow"/>
-    <str id="Chance to Bestow Curse" value="Chance to Bestow Curse"/>
+    <str id="Chance to Blind" value="Chance to Blind" local="有机会致盲"/>
+    <str id="Chance to Charm" value="Chance to Charm" local="有机会魅惑"/>
+    <str id="Chance to Confuse" value="Chance to Confuse" local="有机会混乱"/>
+    <str id="Chance to Deafen" value="Chance to Deafen" local="有机会致聋"/>
+    <str id="Drain Energy" value="Drain Energy" local="吸取精力"/>
+    <str id="Knockback" value="Knockback" local="击退"/>
+    <str id="Drain Health" value="Drain Health" local="吸取生命"/>
+    <str id="Chance to Polymorph" value="Chance to Polymorph" local="有机会变形"/>
+    <str id="Chance to Paralyse" value="Chance to Paralyse" local="有机会麻痹"/>
+    <str id="Chance to Silence" value="Chance to Silence" local="有机会沉默"/>
+    <str id="Chance to Sleep" value="Chance to Sleep" local="有机会沉睡"/>
+    <str id="Chance to Slow" value="Chance to Slow" local="有机会迟缓"/>
+    <str id="Chance to Bestow Curse" value="Chance to Bestow Curse" local="有机会降咒"/>
     <str id="+D6 Disease Damage" value="+D6 Disease Damage" local="+D6 疾病伤害"/>
     <str id="+D6 Poison Damage" value="+D6 Poison Damage" local="+D6 毒伤害"/>
     <str id="+D6 Fire Damage" value="+D6 Fire Damage" local="+D6 火焰伤害"/>
     <str id="+D6 Frost Damage" value="+D6 Frost Damage" local="+D6 冰霜伤害"/>
     <str id="+D6 Shock Damage" value="+D6 Shock Damage" local="+D6 震击伤害"/>
-    <str id="Chance to Instantly Kill" value="Chance to Instantly Kill"/>
-    <str id="Chance to Fear" value="Chance to Fear"/>
+    <str id="Chance to Instantly Kill" value="Chance to Instantly Kill" local="有机会即死"/>
+    <str id="Chance to Fear" value="Chance to Fear" local="有机会恐惧"/>
     <str id="+X Health" value="+X Health" local="+X 生命"/>
-    <str id="+1 Light Radius" value="+1 Light Radius"/>
-    <str id="Increases Chance to Crit" value="Increases Chance to Crit"/>
+    <str id="+1 Light Radius" value="+1 Light Radius" local="+1 光照半径"/>
+    <str id="Increases Chance to Crit" value="Increases Chance to Crit" local="增加暴击机会"/>
     <str id="+D3 Physical Damage" value="+D3 Physical Damage" local="+D3 物理伤害"/>
     <str id="+D3 Spell Damage" value="+D3 Spell Damage" local="+D3 法术伤害"/>
     <str id="+1 Energy" value="+1 Energy" local="+1 精力"/>
@@ -1671,76 +1671,76 @@
     <str id="BlessedUberlyft" value="Travel button now works after clearing 25% of the current level."/>
   </AmuletDescs>
   <ArmourNames>
-    <str id="Robe" value="Robe"/>
-    <str id="Shirt" value="Shirt"/>
-    <str id="Hood" value="Hood"/>
-    <str id="Padded Armour" value="Padded Armour"/>
-    <str id="Leather Armour" value="Leather Armour"/>
-    <str id="Studded Armour" value="Studded Armour"/>
-    <str id="Chain Armour" value="Chain Armour"/>
-    <str id="Plate Armour" value="Plate Armour"/>
-    <str id="Winter Armour" value="Winter Armour"/>
-    <str id="Dragonhide Armour" value="Dragonhide Armour"/>
-    <str id="Bloodrage Armour" value="Bloodrage Armour"/>
-    <str id="Blackthorn Armour" value="Blackthorn Armour"/>
-    <str id="Ebonheart Armour" value="Ebonheart Armour"/>
-    <str id="Celestial Robe" value="Celestial Robe"/>
-    <str id="Draconic Robe" value="Draconic Robe"/>
-    <str id="Infernal Robe" value="Infernal Robe"/>
-    <str id="Arcane Robe" value="Arcane Robe"/>
-    <str id="Bestial Robe" value="Bestial Robe"/>
-    <str id="Abyssal Robe" value="Abyssal Robe"/>
-    <str id="Padded Cap" value="Padded Cap"/>
-    <str id="Leather Cap" value="Leather Cap"/>
-    <str id="Studded Cap" value="Studded Cap"/>
-    <str id="Plate Cap" value="Plate Cap"/>
-    <str id="Leather Helm" value="Leather Helm"/>
-    <str id="Studded Helm" value="Studded Helm"/>
-    <str id="Chain Helm" value="Chain Helm"/>
-    <str id="Plate Helm" value="Plate Helm"/>
-    <str id="Winter Helm" value="Winter Helm"/>
-    <str id="Dragonhide Helm" value="Dragonhide Helm"/>
-    <str id="Bloodrage Helm" value="Bloodrage Helm"/>
-    <str id="Blackthorn Helm" value="Blackthorn Helm"/>
-    <str id="Ebonheart Helm" value="Ebonheart Helm"/>
-    <str id="Celestial Cowl" value="Celestial Cowl"/>
-    <str id="Draconic Cowl" value="Draconic Cowl"/>
-    <str id="Infernal Cowl" value="Infernal Cowl"/>
-    <str id="Arcane Cowl" value="Arcane Cowl"/>
-    <str id="Bestial Cowl" value="Bestial Cowl"/>
-    <str id="Abyssal Cowl" value="Abyssal Cowl"/>
-    <str id="Fine Padded Armour" value="Fine Padded Armour"/>
-    <str id="Fine Leather Armour" value="Fine Leather Armour"/>
-    <str id="Fine Studded Armour" value="Fine Studded Armour"/>
-    <str id="Fine Chain Armour" value="Fine Chain Armour"/>
-    <str id="Fine Plate Armour" value="Fine Plate Armour"/>
-    <str id="Fine Padded Cap" value="Fine Padded Cap"/>
-    <str id="Fine Leather Cap" value="Fine Leather Cap"/>
-    <str id="Fine Studded Cap" value="Fine Studded Cap"/>
-    <str id="Fine Plate Cap" value="Fine Plate Cap"/>
-    <str id="Fine Leather Helm" value="Fine Leather Helm"/>
-    <str id="Fine Studded Helm" value="Fine Studded Helm"/>
-    <str id="Fine Chain Helm" value="Fine Chain Helm"/>
-    <str id="Fine Plate Helm" value="Fine Plate Helm"/>
-    <str id="Royal Armour" value="Royal Armour"/>
-    <str id="Royal Helm" value="Royal Helm"/>
-    <str id="Hardened Skin" value="Hardened Skin"/>
-    <str id="Winter Fur Coat" value="Winter Fur Coat"/>
-    <str id="Arctic Fur Coat" value="Arctic Fur Coat"/>
+    <str id="Robe" value="Robe" local="长袍"/>
+    <str id="Shirt" value="Shirt" local="衬衫"/>
+    <str id="Hood" value="Hood" local="头巾"/>
+    <str id="Padded Armour" value="Padded Armour" local="棉甲"/>
+    <str id="Leather Armour" value="Leather Armour" local="皮甲"/>
+    <str id="Studded Armour" value="Studded Armour" local="札甲"/>
+    <str id="Chain Armour" value="Chain Armour" local="链甲"/>
+    <str id="Plate Armour" value="Plate Armour" local="板甲"/>
+    <str id="Winter Armour" value="Winter Armour" local="严冬铠甲"/>
+    <str id="Dragonhide Armour" value="Dragonhide Armour" local="龙皮铠甲"/>
+    <str id="Bloodrage Armour" value="Bloodrage Armour" local="血怒铠甲"/>
+    <str id="Blackthorn Armour" value="Blackthorn Armour" local="黑棘铠甲"/>
+    <str id="Ebonheart Armour" value="Ebonheart Armour" local="乌木凯甲"/>
+    <str id="Celestial Robe" value="Celestial Robe" local="天使长袍"/>
+    <str id="Draconic Robe" value="Draconic Robe" local="巨龙长袍"/>
+    <str id="Infernal Robe" value="Infernal Robe" local="地狱长袍"/>
+    <str id="Arcane Robe" value="Arcane Robe" local="奥术长袍"/>
+    <str id="Bestial Robe" value="Bestial Robe" local="兽性长袍"/>
+    <str id="Abyssal Robe" value="Abyssal Robe" local="深渊长袍"/>
+    <str id="Padded Cap" value="Padded Cap" local="棉帽"/>
+    <str id="Leather Cap" value="Leather Cap" local="皮帽"/>
+    <str id="Studded Cap" value="Studded Cap" local="札帽"/>
+    <str id="Plate Cap" value="Plate Cap" local="板帽"/>
+    <str id="Leather Helm" value="Leather Helm" local="皮盔"/>
+    <str id="Studded Helm" value="Studded Helm" local="札盔"/>
+    <str id="Chain Helm" value="Chain Helm" local="链盔"/>
+    <str id="Plate Helm" value="Plate Helm" local="板盔"/>
+    <str id="Winter Helm" value="Winter Helm" local="严冬头盔"/>
+    <str id="Dragonhide Helm" value="Dragonhide Helm" local="龙皮头盔"/>
+    <str id="Bloodrage Helm" value="Bloodrage Helm" local="血怒头盔"/>
+    <str id="Blackthorn Helm" value="Blackthorn Helm" local="黑棘头盔"/>
+    <str id="Ebonheart Helm" value="Ebonheart Helm" local="乌木头盔"/>
+    <str id="Celestial Cowl" value="Celestial Cowl" local="天使风帽"/>
+    <str id="Draconic Cowl" value="Draconic Cowl" local="巨龙风帽"/>
+    <str id="Infernal Cowl" value="Infernal Cowl" local="地狱风帽"/>
+    <str id="Arcane Cowl" value="Arcane Cowl" local="奥术风帽"/>
+    <str id="Bestial Cowl" value="Bestial Cowl" local="兽性风帽"/>
+    <str id="Abyssal Cowl" value="Abyssal Cowl" local="深渊风帽"/>
+    <str id="Fine Padded Armour" value="Fine Padded Armour" local="精美棉甲"/>
+    <str id="Fine Leather Armour" value="Fine Leather Armour" local="精美皮甲"/>
+    <str id="Fine Studded Armour" value="Fine Studded Armour" local="精美札甲"/>
+    <str id="Fine Chain Armour" value="Fine Chain Armour" local="精美链甲"/>
+    <str id="Fine Plate Armour" value="Fine Plate Armour" local="精美板甲"/>
+    <str id="Fine Padded Cap" value="Fine Padded Cap" local="精美棉帽"/>
+    <str id="Fine Leather Cap" value="Fine Leather Cap" local="精美皮帽"/>
+    <str id="Fine Studded Cap" value="Fine Studded Cap" local="精美札帽"/>
+    <str id="Fine Plate Cap" value="Fine Plate Cap" local="精美板帽"/>
+    <str id="Fine Leather Helm" value="Fine Leather Helm" local="精美皮盔"/>
+    <str id="Fine Studded Helm" value="Fine Studded Helm" local="精美札盔"/>
+    <str id="Fine Chain Helm" value="Fine Chain Helm" local="精美链盔"/>
+    <str id="Fine Plate Helm" value="Fine Plate Helm" local="精美板盔"/>
+    <str id="Royal Armour" value="Royal Armour" local="皇家铠甲"/>
+    <str id="Royal Helm" value="Royal Helm" local="皇家头盔"/>
+    <str id="Hardened Skin" value="Hardened Skin" local="硬化皮肤"/>
+    <str id="Winter Fur Coat" value="Winter Fur Coat" local="严冬皮草"/>
+    <str id="Arctic Fur Coat" value="Arctic Fur Coat" local="北极皮草"/>
   </ArmourNames>
   <ArmourDescs>
-    <str id="ArmourDesc" value="Note that wearing an armour may hinder spellcasting, dodging, climbing and or jumping."/>
-    <str id="HelmetDesc" value="Note that wearing a helmet may hinder spellcasting, dodging, climbing and or jumping."/>
-    <str id="ShirtDesc" value="If the creatures weren't anosmic, they would die when you enter the level."/>
-    <str id="HoodDesc" value="This hood feels as if it were part of your head and detached at the same time."/>
-    <str id="Black" value="Black"/>
-    <str id="Red" value="Red"/>
-    <str id="Green" value="Green"/>
-    <str id="Blue" value="Blue"/>
-    <str id="Orange" value="Orange"/>
-    <str id="Yellow" value="Yellow"/>
-    <str id="Pink" value="Pink"/>
-    <str id="White" value="White"/>
+    <str id="ArmourDesc" value="Note that wearing an armour may hinder spellcasting, dodging, climbing and or jumping." local="注意：穿戴铠甲会妨碍施法、闪避&#10;、攀爬、跳跃。"/>
+    <str id="HelmetDesc" value="Note that wearing a helmet may hinder spellcasting, dodging, climbing and or jumping." local="注意：穿戴头盔会妨碍施法、闪避&#10;、攀爬、跳跃。"/>
+    <str id="ShirtDesc" value="If the creatures weren't anosmic, they would die when you enter the level." local="你下到地牢时，所有有嗅觉的生物&#10;都会被熏死。"/>
+    <str id="HoodDesc" value="This hood feels as if it were part of your head and detached at the same time." local="这块头巾摸上去感觉像是你脑袋的&#10;一部分，又似乎不存在。"/>
+    <str id="Black" value="Black" local="黑色"/>
+    <str id="Red" value="Red" local="红色"/>
+    <str id="Green" value="Green" local="绿色"/>
+    <str id="Blue" value="Blue" local="蓝色"/>
+    <str id="Orange" value="Orange" local="橙色"/>
+    <str id="Yellow" value="Yellow" local="黄色"/>
+    <str id="Pink" value="Pink" local="粉色"/>
+    <str id="White" value="White" local="白色"/>
   </ArmourDescs>
   <ArrowNames>
     <str id="Stick" value="Stick"/>
