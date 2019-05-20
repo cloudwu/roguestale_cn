@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190520)" checksum="ff96876db8000d8723141843c582d1082d12f022">
+<strings version="Version 2.00 Beta 1 (190520)" checksum="b3206c6c83d7cb7cc2e837adff3851dd0fa18fa3">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -184,36 +184,36 @@
     <str id="I'm fully prepared!" value="I'm fully prepared!" local="我已完全准备好了！"/>
   </GUITown>
   <GUIDesc>
-    <str id="MARKET_SQUARE" value="You have entered the Market Quarter and here you can trade items with various merchants.">
-      <str id="paragraph 1" value="Note that once the merchants' inventories  are filled with junk, you can reset them by resting in the inn."/>
+    <str id="MARKET_SQUARE" value="You have entered the Market Quarter and here you can trade items with various merchants." local="你进入了商业集市，这里可以和各式&#10;商人交易物品。">
+      <str id="paragraph 1" value="Note that once the merchants' inventories  are filled with junk, you can reset them by resting in the inn." local="注意：如果商人的货架被垃圾堆满的&#10;话，你可以通过在旅店休息重置它们&#10;。"/>
     </str>
-    <str id="LEOS_WORKSHOP" value="You have entered Leo's Workshop and here you can have items crafted in exchange for materials and a few gold coins.">
-      <str id="paragraph 1" value="If you have crafting materials, schematics or gold, you can store them here to free up some inventory space."/>
-      <str id="paragraph 2" value="Note that only stored materials can be used for crafting (drop an item to store it)."/>
+    <str id="LEOS_WORKSHOP" value="You have entered Leo's Workshop and here you can have items crafted in exchange for materials and a few gold coins." local="你进入了里奥的工坊，在这里你可以&#10;交纳一些材料和一点金币打造你要的&#10;物品。">
+      <str id="paragraph 1" value="If you have crafting materials, schematics or gold, you can store them here to free up some inventory space." local="如果你有制造材料，图纸或金币，你&#10;可以免费存放在这里。"/>
+      <str id="paragraph 2" value="Note that only stored materials can be used for crafting (drop an item to store it)." local="注意：仓储材料只可被用于制造（将&#10;物品拖进来可以存放它）。"/>
     </str>
-    <str id="ARTISAN_GUILD" value="You have entered the Artisans' Guild and here you can have your items repaired.">
-      <str id="paragraph 1" value="If you have unique items, you can donate them to the guild with a drag and drop."/>
-      <str id="paragraph 2" value="If you have unidentified charms, you can identify them for free by attempting to donate them to the guild."/>
-      <str id="paragraph 3" value="Note that if you ever need to return some quest item then this is the place to do so."/>
+    <str id="ARTISAN_GUILD" value="You have entered the Artisans' Guild and here you can have your items repaired." local="你进入了工匠行会，在这里你可以修&#10;理你的物品。">
+      <str id="paragraph 1" value="If you have unique items, you can donate them to the guild with a drag and drop." local="如果你获得了独特物品，可以通过拖&#10;拽进行会捐献它们。"/>
+      <str id="paragraph 2" value="If you have unidentified charms, you can identify them for free by attempting to donate them to the guild." local="如果你有未鉴定的护身符，你可以尝&#10;试将它们捐献给行会来获得免费鉴定&#10;。"/>
+      <str id="paragraph 3" value="Note that if you ever need to return some quest item then this is the place to do so." local="注意：如果你需要返还一些任务物品&#10;，这里就是做这事的地方。"/>
     </str>
-    <str id="DIVINER_GUILD" value="You have entered the Diviners' Guild and here you can have your items identified."/>
-    <str id="WIZARD_GUILD" value="You have entered the Wizards' Guild and here you can have your items enchanted.">
-      <str id="paragraph 1" value="Items can usually have one enchant on them and blessed items can have two enchants."/>
-      <str id="paragraph 2" value="When you enchant an item you are given an option to choose from three possible outcomes."/>
-      <str id="paragraph 3" value="You can also cancel the selection in which case nothing changes, but you will not get your gold back."/>
-      <str id="paragraph 4" value="Note that some items, such as thrown weapons, do not give you a choice because they have their own rules for enchanting."/>
+    <str id="DIVINER_GUILD" value="You have entered the Diviners' Guild and here you can have your items identified." local="你进入了占卜师行会，在这里你可以&#10;鉴定你的物品。"/>
+    <str id="WIZARD_GUILD" value="You have entered the Wizards' Guild and here you can have your items enchanted." local="你进入了法师行会，在这里你可以对&#10;你的物品附魔。">
+      <str id="paragraph 1" value="Items can usually have one enchant on them and blessed items can have two enchants." local="物品通常可以附魔一次，但神圣的物&#10;品可以附魔两次。"/>
+      <str id="paragraph 2" value="When you enchant an item you are given an option to choose from three possible outcomes." local="每当你对物品附魔时，你可以在三个&#10;效果中选择一个。"/>
+      <str id="paragraph 3" value="You can also cancel the selection in which case nothing changes, but you will not get your gold back." local="你可以取消选择而中止附魔，但是没&#10;有退款。"/>
+      <str id="paragraph 4" value="Note that some items, such as thrown weapons, do not give you a choice because they have their own rules for enchanting." local="注意：一些物品，比如投掷类武器，&#10;没有选择因为它们有自己的附魔规则&#10;。"/>
     </str>
-    <str id="NIBAR_SHRINE" value="You have entered the Shrine of Nibar and here you can remove curses and magical effects for a minor donation."/>
-    <str id="FUBAR_SHRINE" value="You have entered the Shrine of Fubar and here you can remove poison and disease effects for a minor donation."/>
-    <str id="FROSTMOURN_INN" value="You have entered the Frostmourn Inn where you can feast and rest while time passes by.">
-      <str id="paragraph 1" value="If you choose to stay in the inn you will be fully healed and your hunger and thirst will be satiated."/>
-      <str id="paragraph 2" value="Another thing that happens is that the merchants in the Market Quarter will have their stocks reset."/>
-      <str id="paragraph 3" value="Finally, you will hear about a new dungeon nearby, which allows you to reset your current dungeon."/>
-      <str id="paragraph 4" value="Note that this also increases your chance of finding a random encounter when you do clear a dungeon."/>
+    <str id="NIBAR_SHRINE" value="You have entered the Shrine of Nibar and here you can remove curses and magical effects for a minor donation." local="你进入了力霸神殿，在这里你可以移&#10;除诅咒或魔法效果，但需要一点香火&#10;钱。"/>
+    <str id="FUBAR_SHRINE" value="You have entered the Shrine of Fubar and here you can remove poison and disease effects for a minor donation." local="你进入了福霸神殿，在这里你可以移&#10;除毒害或疾病效果，但需要一点香火&#10;钱。"/>
+    <str id="FROSTMOURN_INN" value="You have entered the Frostmourn Inn where you can feast and rest while time passes by." local="你进入了霜之哀伤旅店，在这里你可以饱餐&#10;休息让时光流逝。">
+      <str id="paragraph 1" value="If you choose to stay in the inn you will be fully healed and your hunger and thirst will be satiated." local="如果你选择住进旅店，你的生命将完全恢复&#10;，饱腹度和饥渴度都将回到满足状态。"/>
+      <str id="paragraph 2" value="Another thing that happens is that the merchants in the Market Quarter will have their stocks reset." local="另一件事情将会发生，商业集市里的商人会&#10;重置他的货物。"/>
+      <str id="paragraph 3" value="Finally, you will hear about a new dungeon nearby, which allows you to reset your current dungeon." local="最后，你将打听到附近一座新的地牢，这意&#10;味着你当前的地牢将重置。"/>
+      <str id="paragraph 4" value="Note that this also increases your chance of finding a random encounter when you do clear a dungeon." local="注意：这还会提升下一次你清空地牢后发生&#10;一场随机遭遇战的机会。"/>
     </str>
-    <str id="RESET_DUNGEON" value="Whether you have explored the current dungeon or spent some time feasting and resting, it matters not.">
-      <str id="paragraph 1" value="You are now ready to face new challenges just as soon as you want."/>
-      <str id="paragraph 2" value="Be warned, however, that you should make sure you are fully prepared for anything that might show up..."/>
+    <str id="RESET_DUNGEON" value="Whether you have explored the current dungeon or spent some time feasting and resting, it matters not." local="你是否探索完当前的地牢，或是在旅&#10;店休整了一段时间，这并不重要。">
+      <str id="paragraph 1" value="You are now ready to face new challenges just as soon as you want." local="如你所愿，现在你准备接受新的挑战&#10;。"/>
+      <str id="paragraph 2" value="Be warned, however, that you should make sure you are fully prepared for anything that might show up..." local="然而要提醒的是，你要确定是否做好&#10;了面对一切的完全准备……"/>
     </str>
   </GUIDesc>
   <GUILogs>

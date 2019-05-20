@@ -164,31 +164,31 @@ GUITown."%dg" %dg
 GUITown."Donate %dg" 捐献 %dg
 GUITown."Feast and rest (%dg)" 饱餐并休息 (%dg)
 GUITown."I'm fully prepared!" 我已完全准备好了！
-GUIDesc."MARKET_SQUARE" You have entered the Market Quarter and here you can trade items with various merchants.
-GUIDesc."MARKET_SQUARE".1 Note that once the merchants' inventories  are filled with junk, you can reset them by resting in the inn.
-GUIDesc."LEOS_WORKSHOP" You have entered Leo's Workshop and here you can have items crafted in exchange for materials and a few gold coins.
-GUIDesc."LEOS_WORKSHOP".1 If you have crafting materials, schematics or gold, you can store them here to free up some inventory space.
-GUIDesc."LEOS_WORKSHOP".2 Note that only stored materials can be used for crafting (drop an item to store it).
-GUIDesc."ARTISAN_GUILD" You have entered the Artisans' Guild and here you can have your items repaired.
-GUIDesc."ARTISAN_GUILD".1 If you have unique items, you can donate them to the guild with a drag and drop.
-GUIDesc."ARTISAN_GUILD".2 If you have unidentified charms, you can identify them for free by attempting to donate them to the guild.
-GUIDesc."ARTISAN_GUILD".3 Note that if you ever need to return some quest item then this is the place to do so.
-GUIDesc."DIVINER_GUILD" You have entered the Diviners' Guild and here you can have your items identified.
-GUIDesc."WIZARD_GUILD" You have entered the Wizards' Guild and here you can have your items enchanted.
-GUIDesc."WIZARD_GUILD".1 Items can usually have one enchant on them and blessed items can have two enchants.
-GUIDesc."WIZARD_GUILD".2 When you enchant an item you are given an option to choose from three possible outcomes.
-GUIDesc."WIZARD_GUILD".3 You can also cancel the selection in which case nothing changes, but you will not get your gold back.
-GUIDesc."WIZARD_GUILD".4 Note that some items, such as thrown weapons, do not give you a choice because they have their own rules for enchanting.
-GUIDesc."NIBAR_SHRINE" You have entered the Shrine of Nibar and here you can remove curses and magical effects for a minor donation.
-GUIDesc."FUBAR_SHRINE" You have entered the Shrine of Fubar and here you can remove poison and disease effects for a minor donation.
-GUIDesc."FROSTMOURN_INN" You have entered the Frostmourn Inn where you can feast and rest while time passes by.
-GUIDesc."FROSTMOURN_INN".1 If you choose to stay in the inn you will be fully healed and your hunger and thirst will be satiated.
-GUIDesc."FROSTMOURN_INN".2 Another thing that happens is that the merchants in the Market Quarter will have their stocks reset.
-GUIDesc."FROSTMOURN_INN".3 Finally, you will hear about a new dungeon nearby, which allows you to reset your current dungeon.
-GUIDesc."FROSTMOURN_INN".4 Note that this also increases your chance of finding a random encounter when you do clear a dungeon.
-GUIDesc."RESET_DUNGEON" Whether you have explored the current dungeon or spent some time feasting and resting, it matters not.
-GUIDesc."RESET_DUNGEON".1 You are now ready to face new challenges just as soon as you want.
-GUIDesc."RESET_DUNGEON".2 Be warned, however, that you should make sure you are fully prepared for anything that might show up...
+GUIDesc."MARKET_SQUARE" @(32)你进入了商业集市，这里可以和各式商人交易物品。
+GUIDesc."MARKET_SQUARE".1 @(32)注意：如果商人的货架被垃圾堆满的话，你可以通过在旅店休息重置它们。
+GUIDesc."LEOS_WORKSHOP" @(32)你进入了里奥的工坊，在这里你可以交纳一些材料和一点金币打造你要的物品。
+GUIDesc."LEOS_WORKSHOP".1 @(32)如果你有制造材料，图纸或金币，你可以免费存放在这里。
+GUIDesc."LEOS_WORKSHOP".2 @(32)注意：仓储材料只可被用于制造（将物品拖进来可以存放它）。
+GUIDesc."ARTISAN_GUILD" @(32)你进入了工匠行会，在这里你可以修理你的物品。
+GUIDesc."ARTISAN_GUILD".1 @(32)如果你获得了独特物品，可以通过拖拽进行会捐献它们。
+GUIDesc."ARTISAN_GUILD".2 @(32)如果你有未鉴定的护身符，你可以尝试将它们捐献给行会来获得免费鉴定。
+GUIDesc."ARTISAN_GUILD".3 @(32)注意：如果你需要返还一些任务物品，这里就是做这事的地方。
+GUIDesc."DIVINER_GUILD" @(32)你进入了占卜师行会，在这里你可以鉴定你的物品。
+GUIDesc."WIZARD_GUILD" @(32)你进入了法师行会，在这里你可以对你的物品附魔。
+GUIDesc."WIZARD_GUILD".1 @(32)物品通常可以附魔一次，但神圣的物品可以附魔两次。
+GUIDesc."WIZARD_GUILD".2 @(32)每当你对物品附魔时，你可以在三个效果中选择一个。
+GUIDesc."WIZARD_GUILD".3 @(32)你可以取消选择而中止附魔，但是没有退款。
+GUIDesc."WIZARD_GUILD".4 @(32)注意：一些物品，比如投掷类武器，没有选择因为它们有自己的附魔规则。
+GUIDesc."NIBAR_SHRINE" @(32)你进入了力霸神殿，在这里你可以移除诅咒或魔法效果，但需要一点香火钱。
+GUIDesc."FUBAR_SHRINE" @(32)你进入了福霸神殿，在这里你可以移除毒害或疾病效果，但需要一点香火钱。
+GUIDesc."FROSTMOURN_INN" @(38)你进入了霜之哀伤旅店，在这里你可以饱餐休息让时光流逝。
+GUIDesc."FROSTMOURN_INN".1 @(38)如果你选择住进旅店，你的生命将完全恢复，饱腹度和饥渴度都将回到满足状态。
+GUIDesc."FROSTMOURN_INN".2 @(38)另一件事情将会发生，商业集市里的商人会重置他的货物。
+GUIDesc."FROSTMOURN_INN".3 @(38)最后，你将打听到附近一座新的地牢，这意味着你当前的地牢将重置。
+GUIDesc."FROSTMOURN_INN".4 @(38)注意：这还会提升下一次你清空地牢后发生一场随机遭遇战的机会。
+GUIDesc."RESET_DUNGEON" @(32)你是否探索完当前的地牢，或是在旅店休整了一段时间，这并不重要。
+GUIDesc."RESET_DUNGEON".1 @(32)如你所愿，现在你准备接受新的挑战。
+GUIDesc."RESET_DUNGEON".2 @(32)然而要提醒的是，你要确定是否做好了面对一切的完全准备……
 GUILogs."You donate %d gold coins and %s is removed." You donate %d gold coins and %s is removed.
 GUILogs."You can't afford to donate %d gold coins." You can't afford to donate %d gold coins.
 GUILogs."Shrine of Nibar thanks you and all curse and magic effects are removed." Shrine of Nibar thanks you and all curse and magic effects are removed.
