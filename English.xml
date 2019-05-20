@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190515)" checksum="7e71a9fe1d2df4e1d2d5b33de46be596a0f6147a">
+<strings version="Version 2.00 Beta 1 (190520)" checksum="e4e558b48a567c851a632fea58a34ced6e34628f">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -4578,6 +4578,7 @@
     <str id="Unknown server error!" value="Unknown server error!"/>
   </ErrorStrings>
   <ChatStrings>
+    <str id="Admin:" value="Admin:"/>
     <str id="Server:" value="Server:"/>
     <str id="Town crier:" value="Town crier:"/>
     <str id="All hail %s!" value="All hail %s!"/>

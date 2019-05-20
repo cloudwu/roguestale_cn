@@ -6,3 +6,6 @@ sha1.dll : lsha1.c
 
 clean :
 	rm -rf sha1.dll
+
+install : Chinese.xml
+	lua import.lua && cp $^ "/c/Users/cloudwu/Documents/Rogue's Tale/2.0/mods/locales"

@@ -8,9 +8,12 @@ end
 local function export(text)
 	local list = {}
 	local n = 0
-	for id, value in text:gmatch '<str id="([^"]+)" value="([^"]+)".->' do
-		n = n + 1
-		list[n] = { id, value }
+	for tag, content, endtag in text:gmatch '<(%u%a*)>(.-)</(%u%a*)>' do
+		assert(tag == endtag)
+		for id, value in content:gmatch '<str id="([^"]+)" value="([^"]+)".->' do
+			n = n + 1
+			list[n] = { tag, id, value }
+		end
 	end
 	return list
 end
@@ -22,7 +25,7 @@ local function main(filename)
 	local mainkey
 	local n = 0
 	for _, item in ipairs(list) do
-		local id, value = item[1], item[2]
+		local tag, id, value = item[1], item[2], item[3]
 		local paragraph = id:match "^paragraph (%d+)"
 		if paragraph then
 			id = mainkey .. "." .. paragraph
@@ -32,7 +35,7 @@ local function main(filename)
 		end
 		n = n + 1
 		value = value:gsub("\n", "&#10;")
-		e[n] = string.format("%s %s", id, value)
+		e[n] = string.format("%s.%s %s", tag, id, value)
 	end
 	local f = io.open(filename .. ".txt", "wb")
 	f:write((table.concat(e, "\n")))
