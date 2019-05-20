@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190520)" checksum="ecf458bae7543b55168b564cd54ef355241d7706">
+<strings version="Version 2.00 Beta 1 (190520)" checksum="5c19a31a6bb965f2235bdf2b62febf4a782cd20f">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -4216,52 +4216,52 @@
     <str id="You can't learn more talents at the moment." value="You can't learn more talents at the moment."/>
   </DialogueWindow>
   <StatusBarAnim>
-    <str id="Satiated" value="Satiated"/>
-    <str id="Dying" value="Dying"/>
-    <str id="Famished" value="Famished"/>
-    <str id="Starving" value="Starving"/>
-    <str id="Hungry" value="Hungry"/>
-    <str id="Bloated" value="Bloated"/>
-    <str id="Choking" value="Choking"/>
-    <str id="Parched" value="Parched"/>
-    <str id="Dehydrated" value="Dehydrated"/>
-    <str id="Thirsty" value="Thirsty"/>
-    <str id="Hydrated" value="Hydrated"/>
-    <str id="Drenched" value="Drenched"/>
-    <str id="You feel like choking to death." value="You feel like choking to death."/>
-    <str id="You feel like dying of hunger." value="You feel like dying of hunger."/>
-    <str id="You feel like drowning to death." value="You feel like drowning to death."/>
-    <str id="You feel like dying of thirst." value="You feel like dying of thirst."/>
-    <str id="Level" value="Level"/>
-    <str id="Maxed Out" value="Maxed Out"/>
-    <str id="STRENGTH_MODIFIER_DESC" value="Strength modifier applies to melee to-hit rolls, melee damage rolls, thrown weapon damage rolls, block modifier," space="True">
-      <str id="paragraph 1" value="break checks, climb checks, snare checks, disarm checks and intimidation checks."/>
+    <str id="Satiated" value="Satiated" local="满足"/>
+    <str id="Dying" value="Dying" local="濒死"/>
+    <str id="Famished" value="Famished" local="极饿"/>
+    <str id="Starving" value="Starving" local="很饿"/>
+    <str id="Hungry" value="Hungry" local="饿了"/>
+    <str id="Bloated" value="Bloated" local="过饱"/>
+    <str id="Choking" value="Choking" local="吃撑"/>
+    <str id="Parched" value="Parched" local="极渴"/>
+    <str id="Dehydrated" value="Dehydrated" local="很渴"/>
+    <str id="Thirsty" value="Thirsty" local="渴了"/>
+    <str id="Hydrated" value="Hydrated" local="喝多"/>
+    <str id="Drenched" value="Drenched" local="喝撑"/>
+    <str id="You feel like choking to death." value="You feel like choking to death." local="你感觉快撑死了。"/>
+    <str id="You feel like dying of hunger." value="You feel like dying of hunger." local="你感觉快饿死了。"/>
+    <str id="You feel like drowning to death." value="You feel like drowning to death." local="你感觉喝得太多快要死了。"/>
+    <str id="You feel like dying of thirst." value="You feel like dying of thirst." local="你感觉快渴死了。"/>
+    <str id="Level" value="Level" local="等级"/>
+    <str id="Maxed Out" value="Maxed Out" local="封顶"/>
+    <str id="STRENGTH_MODIFIER_DESC" value="Strength modifier applies to melee to-hit rolls, melee damage rolls, thrown weapon damage rolls, block modifier," local="力量修正影响近战命中骰，近战伤害骰，投掷武器&#10;伤害骰，格挡骰，破门检定，攀爬检定，陷阱检定&#10;，缴械检定，恐吓检定。" space="True">
+      <str id="paragraph 1" value="break checks, climb checks, snare checks, disarm checks and intimidation checks." local=""/>
     </str>
-    <str id="AGILITY_MODIFIER_DESC" value="Agility modifier applies to ranged to-hit rolls, ranged damage rolls, thrown weapon to-hit rolls, melee to-hit and" space="True">
-      <str id="paragraph 1" value="damage rolls with small and medium weapons (when used two-handedly), dodge modifier, parry modifier, disarm"/>
-      <str id="paragraph 2" value="trap checks, pick lock checks, sneak checks and jump checks."/>
+    <str id="AGILITY_MODIFIER_DESC" value="Agility modifier applies to ranged to-hit rolls, ranged damage rolls, thrown weapon to-hit rolls, melee to-hit and" local="敏捷修正影响远程命中骰，远程伤害骰，投掷武器&#10;命中骰，小型武器及（双手使用的）中型武器的命&#10;中和伤害骰，闪避修正，招架修正，陷阱拆除检定&#10;，开锁检定，潜行检定，跳跃检定。" space="True">
+      <str id="paragraph 1" value="damage rolls with small and medium weapons (when used two-handedly), dodge modifier, parry modifier, disarm" local=""/>
+      <str id="paragraph 2" value="trap checks, pick lock checks, sneak checks and jump checks." local=""/>
     </str>
-    <str id="STAMINA_MODIFIER_DESC" value="Stamina modifier applies to spell to-hit rolls with destructive and or offensive spells, mental checks, search checks," space="True">
-      <str id="paragraph 1" value="health points, energy points, as well as health and energy regeneration checks."/>
+    <str id="STAMINA_MODIFIER_DESC" value="Stamina modifier applies to spell to-hit rolls with destructive and or offensive spells, mental checks, search checks," local="耐力修正影响毁灭性法术和攻击性法术的命中骰，&#10;精神检定、搜索检定，生命点数，精力点数，以及&#10;生命点和精力点的恢复检定。" space="True">
+      <str id="paragraph 1" value="health points, energy points, as well as health and energy regeneration checks." local=""/>
     </str>
-    <str id="CHARISMA_MODIFIER_DESC" value="Charisma modifier applies to spell to-hit rolls with restorative and or defensive spells, persuasion checks and" space="True">
-      <str id="paragraph 1" value="merchant prices. Charisma may also open special conversation options with NPC's."/>
+    <str id="CHARISMA_MODIFIER_DESC" value="Charisma modifier applies to spell to-hit rolls with restorative and or defensive spells, persuasion checks and" local="魅力修正影响恢复性法术和防御性法术的命中骰，&#10;说服检定，商品价格。魅力还有机会开启和 NPC 的&#10;特殊交互菜单。" space="True">
+      <str id="paragraph 1" value="merchant prices. Charisma may also open special conversation options with NPC's." local=""/>
     </str>
-    <str id="Stamina based hit modifiers, damage and duration:" value="Stamina based hit modifiers, damage and duration:"/>
-    <str id="Charisma based hit modifiers, damage and duration:" value="Charisma based hit modifiers, damage and duration:"/>
-    <str id="Celestial Spell Hit Modifier: %d (Max: %d)" value="Celestial Spell Hit Modifier: %d (Max: %d)"/>
-    <str id="Draconic Spell Hit Modifier: %d (Max: %d)" value="Draconic Spell Hit Modifier: %d (Max: %d)"/>
-    <str id="Infernal Spell Hit Modifier: %d (Max: %d)" value="Infernal Spell Hit Modifier: %d (Max: %d)"/>
-    <str id="Celestial Orb Spell Damage:" value="Celestial Orb Spell Damage:"/>
-    <str id="Draconic Orb Spell Damage:" value="Draconic Orb Spell Damage:"/>
-    <str id="Infernal Orb Spell Damage:" value="Infernal Orb Spell Damage:"/>
-    <str id="Celestial Buff Duration:" value="Celestial Buff Duration:"/>
-    <str id="Draconic Buff Duration:" value="Draconic Buff Duration:"/>
-    <str id="Infernal Buff Duration:" value="Infernal Buff Duration:"/>
-    <str id="RESISTANCE_DESC" value="These are the six resistances from left to right: Physical, Fire, Frost, Shock, Poison and Disease.">
-      <str id="paragraph 1" value="The left and right values indicate resistance against critical hits (head) and normal hits (body)."/>
-      <str id="paragraph 2" value="Besides having different hit location, critical hits can also confuse, disarm or cause bleeding."/>
-      <str id="paragraph 3" value="Note that you can halve the duration of the confusion effect by using a closed helmet."/>
+    <str id="Stamina based hit modifiers, damage and duration:" value="Stamina based hit modifiers, damage and duration:" local="命中修正，伤害，持续时间，基于耐力："/>
+    <str id="Charisma based hit modifiers, damage and duration:" value="Charisma based hit modifiers, damage and duration:" local="命中修正，伤害，持续时间，基于魅力："/>
+    <str id="Celestial Spell Hit Modifier: %d (Max: %d)" value="Celestial Spell Hit Modifier: %d (Max: %d)" local="天使系法术命中修正：%d （最高：%d）"/>
+    <str id="Draconic Spell Hit Modifier: %d (Max: %d)" value="Draconic Spell Hit Modifier: %d (Max: %d)" local="龙系法术命中修正：%d （最高：%d）"/>
+    <str id="Infernal Spell Hit Modifier: %d (Max: %d)" value="Infernal Spell Hit Modifier: %d (Max: %d)" local="地狱系法术命中修正：%d （最高：%d）"/>
+    <str id="Celestial Orb Spell Damage:" value="Celestial Orb Spell Damage:" local="天使系法球伤害："/>
+    <str id="Draconic Orb Spell Damage:" value="Draconic Orb Spell Damage:" local="龙系法球伤害："/>
+    <str id="Infernal Orb Spell Damage:" value="Infernal Orb Spell Damage:" local="地狱系法球伤害："/>
+    <str id="Celestial Buff Duration:" value="Celestial Buff Duration:" local="天使系 Buff 持续时间："/>
+    <str id="Draconic Buff Duration:" value="Draconic Buff Duration:" local="龙系 Buff 持续时间："/>
+    <str id="Infernal Buff Duration:" value="Infernal Buff Duration:" local="地域系 Buff 持续时间："/>
+    <str id="RESISTANCE_DESC" value="These are the six resistances from left to right: Physical, Fire, Frost, Shock, Poison and Disease." local="从左至右共有六项抗性：物理、火焰、冰霜、震击&#10;、毒害、疾病。">
+      <str id="paragraph 1" value="The left and right values indicate resistance against critical hits (head) and normal hits (body)." local="左右两项值分别表示针对暴击（头部）和普通攻击&#10;（身体）的抗性。"/>
+      <str id="paragraph 2" value="Besides having different hit location, critical hits can also confuse, disarm or cause bleeding." local="除了攻击部位不同，暴击还会引起混乱、缴械、导&#10;致流血。"/>
+      <str id="paragraph 3" value="Note that you can halve the duration of the confusion effect by using a closed helmet." local="注意：带上一个封闭型头盔可以让混乱效果的持续&#10;时间减半。"/>
     </str>
   </StatusBarAnim>
   <ConsoleAnim>

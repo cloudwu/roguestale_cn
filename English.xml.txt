@@ -3828,48 +3828,48 @@ DialogueWindow."I would like to learn this '%s'." I would like to learn this '%s
 DialogueWindow."Can you teach me this '%s' spell?" Can you teach me this '%s' spell?
 DialogueWindow."You already know %s." You already know %s.
 DialogueWindow."You can't learn more talents at the moment." You can't learn more talents at the moment.
-StatusBarAnim."Satiated" Satiated
-StatusBarAnim."Dying" Dying
-StatusBarAnim."Famished" Famished
-StatusBarAnim."Starving" Starving
-StatusBarAnim."Hungry" Hungry
-StatusBarAnim."Bloated" Bloated
-StatusBarAnim."Choking" Choking
-StatusBarAnim."Parched" Parched
-StatusBarAnim."Dehydrated" Dehydrated
-StatusBarAnim."Thirsty" Thirsty
-StatusBarAnim."Hydrated" Hydrated
-StatusBarAnim."Drenched" Drenched
-StatusBarAnim."You feel like choking to death." You feel like choking to death.
-StatusBarAnim."You feel like dying of hunger." You feel like dying of hunger.
-StatusBarAnim."You feel like drowning to death." You feel like drowning to death.
-StatusBarAnim."You feel like dying of thirst." You feel like dying of thirst.
-StatusBarAnim."Level" Level
-StatusBarAnim."Maxed Out" Maxed Out
-StatusBarAnim."STRENGTH_MODIFIER_DESC" Strength modifier applies to melee to-hit rolls, melee damage rolls, thrown weapon damage rolls, block modifier,
-StatusBarAnim."STRENGTH_MODIFIER_DESC".1 break checks, climb checks, snare checks, disarm checks and intimidation checks.
-StatusBarAnim."AGILITY_MODIFIER_DESC" Agility modifier applies to ranged to-hit rolls, ranged damage rolls, thrown weapon to-hit rolls, melee to-hit and
-StatusBarAnim."AGILITY_MODIFIER_DESC".1 damage rolls with small and medium weapons (when used two-handedly), dodge modifier, parry modifier, disarm
-StatusBarAnim."AGILITY_MODIFIER_DESC".2 trap checks, pick lock checks, sneak checks and jump checks.
-StatusBarAnim."STAMINA_MODIFIER_DESC" Stamina modifier applies to spell to-hit rolls with destructive and or offensive spells, mental checks, search checks,
-StatusBarAnim."STAMINA_MODIFIER_DESC".1 health points, energy points, as well as health and energy regeneration checks.
-StatusBarAnim."CHARISMA_MODIFIER_DESC" Charisma modifier applies to spell to-hit rolls with restorative and or defensive spells, persuasion checks and
-StatusBarAnim."CHARISMA_MODIFIER_DESC".1 merchant prices. Charisma may also open special conversation options with NPC's.
-StatusBarAnim."Stamina based hit modifiers, damage and duration:" Stamina based hit modifiers, damage and duration:
-StatusBarAnim."Charisma based hit modifiers, damage and duration:" Charisma based hit modifiers, damage and duration:
-StatusBarAnim."Celestial Spell Hit Modifier: %d (Max: %d)" Celestial Spell Hit Modifier: %d (Max: %d)
-StatusBarAnim."Draconic Spell Hit Modifier: %d (Max: %d)" Draconic Spell Hit Modifier: %d (Max: %d)
-StatusBarAnim."Infernal Spell Hit Modifier: %d (Max: %d)" Infernal Spell Hit Modifier: %d (Max: %d)
-StatusBarAnim."Celestial Orb Spell Damage:" Celestial Orb Spell Damage:
-StatusBarAnim."Draconic Orb Spell Damage:" Draconic Orb Spell Damage:
-StatusBarAnim."Infernal Orb Spell Damage:" Infernal Orb Spell Damage:
-StatusBarAnim."Celestial Buff Duration:" Celestial Buff Duration:
-StatusBarAnim."Draconic Buff Duration:" Draconic Buff Duration:
-StatusBarAnim."Infernal Buff Duration:" Infernal Buff Duration:
-StatusBarAnim."RESISTANCE_DESC" These are the six resistances from left to right: Physical, Fire, Frost, Shock, Poison and Disease.
-StatusBarAnim."RESISTANCE_DESC".1 The left and right values indicate resistance against critical hits (head) and normal hits (body).
-StatusBarAnim."RESISTANCE_DESC".2 Besides having different hit location, critical hits can also confuse, disarm or cause bleeding.
-StatusBarAnim."RESISTANCE_DESC".3 Note that you can halve the duration of the confusion effect by using a closed helmet.
+StatusBarAnim."Satiated" 满足
+StatusBarAnim."Dying" 濒死
+StatusBarAnim."Famished" 极饿
+StatusBarAnim."Starving" 很饿
+StatusBarAnim."Hungry" 饿了
+StatusBarAnim."Bloated" 过饱
+StatusBarAnim."Choking" 吃撑
+StatusBarAnim."Parched" 极渴
+StatusBarAnim."Dehydrated" 很渴
+StatusBarAnim."Thirsty" 渴了
+StatusBarAnim."Hydrated" 喝多
+StatusBarAnim."Drenched" 喝撑
+StatusBarAnim."You feel like choking to death." 你感觉快撑死了。
+StatusBarAnim."You feel like dying of hunger." 你感觉快饿死了。
+StatusBarAnim."You feel like drowning to death." 你感觉喝得太多快要死了。
+StatusBarAnim."You feel like dying of thirst." 你感觉快渴死了。
+StatusBarAnim."Level" 等级
+StatusBarAnim."Maxed Out" 封顶
+StatusBarAnim."STRENGTH_MODIFIER_DESC" @(44)力量修正影响近战命中骰，近战伤害骰，投掷武器伤害骰，格挡骰，破门检定，攀爬检定，陷阱检定，缴械检定，恐吓检定。
+StatusBarAnim."STRENGTH_MODIFIER_DESC".1 
+StatusBarAnim."AGILITY_MODIFIER_DESC" @(44)敏捷修正影响远程命中骰，远程伤害骰，投掷武器命中骰，小型武器及（双手使用的）中型武器的命中和伤害骰，闪避修正，招架修正，陷阱拆除检定，开锁检定，潜行检定，跳跃检定。
+StatusBarAnim."AGILITY_MODIFIER_DESC".1 
+StatusBarAnim."AGILITY_MODIFIER_DESC".2 
+StatusBarAnim."STAMINA_MODIFIER_DESC" @(44)耐力修正影响毁灭性法术和攻击性法术的命中骰，精神检定、搜索检定，生命点数，精力点数，以及生命点和精力点的恢复检定。
+StatusBarAnim."STAMINA_MODIFIER_DESC".1 
+StatusBarAnim."CHARISMA_MODIFIER_DESC" @(44)魅力修正影响恢复性法术和防御性法术的命中骰，说服检定，商品价格。魅力还有机会开启和 NPC 的特殊交互菜单。
+StatusBarAnim."CHARISMA_MODIFIER_DESC".1 
+StatusBarAnim."Stamina based hit modifiers, damage and duration:" 命中修正，伤害，持续时间，基于耐力：
+StatusBarAnim."Charisma based hit modifiers, damage and duration:" 命中修正，伤害，持续时间，基于魅力：
+StatusBarAnim."Celestial Spell Hit Modifier: %d (Max: %d)" 天使系法术命中修正：%d （最高：%d）
+StatusBarAnim."Draconic Spell Hit Modifier: %d (Max: %d)" 龙系法术命中修正：%d （最高：%d）
+StatusBarAnim."Infernal Spell Hit Modifier: %d (Max: %d)" 地狱系法术命中修正：%d （最高：%d）
+StatusBarAnim."Celestial Orb Spell Damage:" 天使系法球伤害：
+StatusBarAnim."Draconic Orb Spell Damage:" 龙系法球伤害：
+StatusBarAnim."Infernal Orb Spell Damage:" 地狱系法球伤害：
+StatusBarAnim."Celestial Buff Duration:" 天使系 Buff 持续时间：
+StatusBarAnim."Draconic Buff Duration:" 龙系 Buff 持续时间：
+StatusBarAnim."Infernal Buff Duration:" 地域系 Buff 持续时间：
+StatusBarAnim."RESISTANCE_DESC" @(44)从左至右共有六项抗性：物理、火焰、冰霜、震击、毒害、疾病。
+StatusBarAnim."RESISTANCE_DESC".1 @(44)左右两项值分别表示针对暴击（头部）和普通攻击（身体）的抗性。
+StatusBarAnim."RESISTANCE_DESC".2 @(44)除了攻击部位不同，暴击还会引起混乱、缴械、导致流血。
+StatusBarAnim."RESISTANCE_DESC".3 @(44)注意：带上一个封闭型头盔可以让混乱效果的持续时间减半。
 ConsoleAnim."Type the name of your legendary weapon or press %s to cancel:" Type the name of your legendary weapon or press %s to cancel:
 ConsoleAnim."You can't give a blank name to your weapon." You can't give a blank name to your weapon.
 CursorAnim."Select a target to attack at and press %s:" Select a target to attack at and press %s:
