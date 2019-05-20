@@ -964,52 +964,52 @@ TalentNames."Trap Master" 陷阱大师
 TalentNames."Shapeshift: Wolf" 变形：狼
 TalentNames."Shapeshift: Bear" 变形：熊
 TalentNames."Bestial Wrath" 狂野怒火
-TalentDescs."Aimed Shot" Ranged attack that causes D3 extra damage instead of 1 for each point of agility bonus modifier.
-TalentDescs."Multi Shot" Ranged attack that hits up to agility bonus modifier number of extra targets.
-TalentDescs."Quick Shot" Ranged attack that allows the creature to move before taking the shot.
-TalentDescs."Steady Shot" Ranged attack that allows the creature to re-roll a failed to-hit check and doubles damage if used while hidden.
-TalentDescs."Blade Flurry" Melee attack that gains up to one extra attack per weapon (at +1 and +3 AGI). Blade Flurry requires either two small
-TalentDescs."Blade Flurry".1 weapons or a medium weapon that is used two-handedly.
-TalentDescs."Deadly Throw" Thrown weapon attack that causes D3 extra damage instead of 1 for each point of strength or agility bonus modifier,
-TalentDescs."Deadly Throw".1 whichever is higher (modifier also applies to to-hit checks).
-TalentDescs."Heroic Charge" Allows the creature to move up to two spaces and attack a target at the end of the move.
-TalentDescs."Heroic Charge".1 Also adds +1 damage modifier for the attack.
-TalentDescs."Crushing Blow" Melee attack that causes D3 extra damage instead of 1 for each point of strength bonus modifier.
-TalentDescs."Crushing Blow".1 Requires a medium or large weapon.
-TalentDescs."Killing Blow" Melee attack that can instantly kill the target creature on hit (if the attack hits and the to-hit roll is a pair).
-TalentDescs."Killing Blow".1 Requires a medium or large weapon.
-TalentDescs."Sweeping Blow" Melee attack that hits the target creature and up to +STR adjacent targets. Requires a medium or large weapon and
-TalentDescs."Sweeping Blow".1 grants +1 min block and +1 max parry modifier with large weapons.
-TalentDescs."Shield Bash" Shield attack that can knock back and stun the target for D3 turns. This attack cannot be blocked, dodged, or
-TalentDescs."Shield Bash".1 parried and causes the creature's deflect modifier to equal block modifier.
-TalentDescs."Silent Move" Move action that hides the creature in plain sight. Melee attacks made while hidden cause double damage and
-TalentDescs."Silent Move".1 cannot be blocked, dodged or parried.
-TalentDescs."Literacy: Common" Allows the creature to read and write Common, cast spells scribed on scrolls and zap with wands.
-TalentDescs."Literacy: Celestial" Allows the creature to learn Celestial spells from magical tomes. Celestial spells always use Max Cast Modifier of 2
-TalentDescs."Literacy: Celestial".1 or more regardless of armour.
-TalentDescs."Literacy: Draconic" Allows the creature to learn Draconic spells from magical tomes.
-TalentDescs."Literacy: Infernal" Allows the creature to learn Infernal spells from magical tomes.
-TalentDescs."Focused Cast" Allows the creature to cast spells at any space within line of sight. Direct damage and healing spells receive extra
-TalentDescs."Focused Cast".1 damage or healing depending on the relevant bonus modifier.
-TalentDescs."Silent Cast" Allows the creature to cast spells while silenced and halves spell to-hit range modifier rounding down.
-TalentDescs."Silent Cast".1 Silent Cast also teaches Clearcasting.
-TalentDescs."Dark Vision" Increases light radius by 1 and halves ranged attack to-hit range modifier rounding down.
-TalentDescs."Dual Wield" Offhand attacks no longer receive penalties to hit and damage and parry modifier equals to agility bonus modifier
-TalentDescs."Dual Wield".1 instead of one half of it.
-TalentDescs."Keen Eye" Allows the creature to re-roll failed search checks, increases search radius by 1 and grants a free action that
-TalentDescs."Keen Eye".1 searches the surroundings when taking a move or rest action.
-TalentDescs."Sixth Sense" Allows the creature to to re-roll failed reflex checks and shows a warning before picking up or equipping an
-TalentDescs."Sixth Sense".1 unidentified cursed item.
-TalentDescs."Strong Will" Allows the creature to re-roll failed mental checks and halves the duration of charm, envy, fear, frenzy, greed, lust
-TalentDescs."Strong Will".1 and reckless effects, rounding down.
-TalentDescs."Trap Master" Allows the creature to see hidden bear traps and step on them without triggering the effects and allows the
-TalentDescs."Trap Master".1 creature to disassemble bear traps into trap kits for later use.
-TalentDescs."Shapeshift: Wolf" Shapeshifts the creature into a wolf and replaces all talents with Heroic Charge, Silent Move, Sixth Sense and
-TalentDescs."Shapeshift: Wolf".1 Keen Eye (based on level).
-TalentDescs."Shapeshift: Bear" Shapeshifts the creature into a bear and replaces all talents with Heroic Charge, Crushing Blow, Strong Will and
-TalentDescs."Shapeshift: Bear".1 Keen Eye (based on level).
-TalentDescs."Bestial Wrath" Increases physical damage by D3 while shapeshifted. This talent is also improved by the following heritages:
-TalentDescs."Bestial Wrath".1 Bestial Vigour, Leader of the Pack.
+TalentDescs."Aimed Shot" @(30)远程攻击每点敏捷增益修正获得 D3 的额外伤害，取代普通的 1 点额外伤害。
+TalentDescs."Multi Shot" @(30)远程攻击将命中目标生物邻接的多个额外生物目标，数量等于敏捷增益修正值。
+TalentDescs."Quick Shot" @(30)远程攻击的射击前生物可以先移动。
+TalentDescs."Steady Shot" @(30)远程攻击时，可以重投失败的命中检定，在隐秘状态下能造成双倍伤害。
+TalentDescs."Blade Flurry" @(30)近战攻击的每把武器（当敏捷增益修正 +1 或更高时，可针对主手武器；+3 或更高时针对副手武器）获得最一次额外攻击机会。剑刃乱舞需要两把小型武器或将一把中型武器双手使用。
+TalentDescs."Blade Flurry".1 
+TalentDescs."Deadly Throw" @(30)投掷武器攻击的每点属性增益修正获得 D3 额外伤害，取代普通的 1 点额外伤害，依据的属性取力量和敏捷中的较高值。（修正同时针对命中检定）。
+TalentDescs."Deadly Throw".1 
+TalentDescs."Heroic Charge" @(30)允许生物最多移动两格，然后在移动停止后攻击目标。
+TalentDescs."Heroic Charge".1 @(30)英勇冲锋还会增加 1 点伤害修正。
+TalentDescs."Crushing Blow" @(30)近战攻击的每点力量增益修正都获得 D3 额外伤害，取代普通的 1 点额外伤害。
+TalentDescs."Crushing Blow".1 @(30)粉碎打击需要一把中型或大型武器。
+TalentDescs."Killing Blow" @(30)近战攻击在攻击命中且命中骰投出一对时，立即杀死对方。
+TalentDescs."Killing Blow".1 @(30)致命一击需要一把中型或大型武器。
+TalentDescs."Sweeping Blow" @(30)主手近战武器将命中和攻击者邻接的多个额外生物目标，其数量取决于力量增益修正。横扫打击需要一把中型或大型武器。当装备大型武器时，还会获得 +1 最小格档修正以及 +1 最大招架修正。
+TalentDescs."Sweeping Blow".1 
+TalentDescs."Shield Bash" @(30)用盾牌攻击可将目标击退并眩晕目标 D3 回合。盾击不会被格档、闪避或招架。盾牌还会将偏斜修正设为和格档修正相同。
+TalentDescs."Shield Bash".1 
+TalentDescs."Silent Move" @(30)移动行动让生物在视野中隐秘。在隐秘状态下发动近战攻击将造成双倍伤害，且无法格档、闪避和招架。
+TalentDescs."Silent Move".1 
+TalentDescs."Literacy: Common" @(30)允许生物常规读写，释放记录在魔法卷轴上的法术，释放魔杖的能力。
+TalentDescs."Literacy: Celestial" @(30)允许生物从魔法书中学习天使系法术。天使系法术的最大施法修正无视所穿盔甲，永远为 2 或更高。
+TalentDescs."Literacy: Celestial".1 
+TalentDescs."Literacy: Draconic" @(30)允许生物从魔法书中学习龙系法术。
+TalentDescs."Literacy: Infernal" @(30)允许生物从魔法书中学习地狱系法术。
+TalentDescs."Focused Cast" @(30)允许生物定位任何在视野直线可达区的目标并释放法术。另外，直接伤害或治疗法术都会因对应的属性增益修正获得额外的效果。
+TalentDescs."Focused Cast".1 
+TalentDescs."Silent Cast" @(30)允许生物在沉默状态释放法术，且将施法的距离修正减半向下取整。
+TalentDescs."Silent Cast".1 @(30)沉默施法还会教会沉静施法。
+TalentDescs."Dark Vision" @(30)增加一格视野，并将距离修正减半向下取整。
+TalentDescs."Dual Wield" @(30)副手攻击不再承受的命中修正的惩罚，伤害和招架修正取敏捷修正而不是其一半。
+TalentDescs."Dual Wield".1 
+TalentDescs."Keen Eye" @(30)增加一格搜索半径，并在移动或休息行动时获得一次搜索周围的免费行动。锐利目光还会在失败的搜索检定后重掷。
+TalentDescs."Keen Eye".1 
+TalentDescs."Sixth Sense" @(30)允许生物重掷反射检定，并在拾起装备或使用未鉴定的被诅咒物品前给出警告。
+TalentDescs."Sixth Sense".1 
+TalentDescs."Strong Will" @(30)允许生物重掷失败的精神检定，并将媚惑、忌妒、恐惧、狂暴、贪婪、欲望、鲁莽效果的持续时间减半，向下取整。
+TalentDescs."Strong Will".1 
+TalentDescs."Trap Master" @(30)允许生物看见隐藏的捕熊夹，站在其上不会触发效果。陷阱大师还能拆解可见的捕熊夹留到以后使用。
+TalentDescs."Trap Master".1 
+TalentDescs."Shapeshift: Wolf" @(30)将生物变为一只狼，把天赋替换为 英勇冲锋，潜行，第六感，敏锐目光（根据等级开放）。
+TalentDescs."Shapeshift: Wolf".1 
+TalentDescs."Shapeshift: Bear" @(30)将生物变为一头熊，把天赋替换为 英勇冲锋，粉碎打击，坚强意志，敏锐目光（根据等级开放）。
+TalentDescs."Shapeshift: Bear".1 
+TalentDescs."Bestial Wrath" @(30)在变形时增加 D3 物理伤害。这个天赋还会被下列遗产增强：
+TalentDescs."Bestial Wrath".1 Bestial Vigour ，Leader of the Pack 。
 SpellNames."Cure Disease" 治疗疾病
 SpellNames."Cure Poison" 治疗中毒
 SpellNames."Dispel Magic" 驱散魔法
@@ -2973,7 +2973,7 @@ TutorialNames."Loot Button" 拾取 按钮
 TutorialNames."Rest Button" 休息 按钮
 TutorialNames."Satiated Rest" 充沛休息
 TutorialNames."Equip Button" 装备 按钮
-TutorialNames."Offhand Equip" 预备 按钮
+TutorialNames."Offhand Equip" 副手 按钮
 TutorialNames."Mouse Equip" 鼠标装备
 TutorialNames."Drop Button" 丢弃 按钮
 TutorialNames."Throw Button" 投掷 按钮
@@ -3009,7 +3009,7 @@ TutorialDescs."Satiated Rest" @(40)注意：要获得生命值，必须不在饥
 TutorialDescs."Satiated Rest".1 
 TutorialDescs."Equip Button" @(40)你可以在物品界面使用和装备物品，按装备按钮（默认：E）可以弹出。用鼠标点击屏幕右侧也可以…… 
 TutorialDescs."Equip Button".1 
-TutorialDescs."Offhand Equip" @(40)在物品界面显示时，你可以通过 Enter 键装备或使用物品。你还可以按下 Shift 键把物品装备在预备栏位……
+TutorialDescs."Offhand Equip" @(40)在物品界面显示时，你可以通过 Enter 键装备或使用物品。你还可以按下 Shift 键把物品装备在副手栏位……
 TutorialDescs."Offhand Equip".1 
 TutorialDescs."Mouse Equip" @(40)第二种选择是，你可以鼠标点击物品来装备或使用它，也可以拖拽物品到指定槽位（或拖出物品界面）……
 TutorialDescs."Mouse Equip".1 

@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190520)" checksum="5c19a31a6bb965f2235bdf2b62febf4a782cd20f">
+<strings version="Version 2.00 Beta 1 (190520)" checksum="6426ebe4a37837d7d10b8c2757dda022f93dba87">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -1052,70 +1052,70 @@
     <str id="Bestial Wrath" value="Bestial Wrath" local="狂野怒火"/>
   </TalentNames>
   <TalentDescs>
-    <str id="Aimed Shot" value="Ranged attack that causes D3 extra damage instead of 1 for each point of agility bonus modifier."/>
-    <str id="Multi Shot" value="Ranged attack that hits up to agility bonus modifier number of extra targets."/>
-    <str id="Quick Shot" value="Ranged attack that allows the creature to move before taking the shot."/>
-    <str id="Steady Shot" value="Ranged attack that allows the creature to re-roll a failed to-hit check and doubles damage if used while hidden."/>
-    <str id="Blade Flurry" value="Melee attack that gains up to one extra attack per weapon (at +1 and +3 AGI). Blade Flurry requires either two small" space="True">
-      <str id="paragraph 1" value="weapons or a medium weapon that is used two-handedly."/>
+    <str id="Aimed Shot" value="Ranged attack that causes D3 extra damage instead of 1 for each point of agility bonus modifier." local="远程攻击每点敏捷增益修正获得 D&#10;3 的额外伤害，取代普通的 1 点额&#10;外伤害。"/>
+    <str id="Multi Shot" value="Ranged attack that hits up to agility bonus modifier number of extra targets." local="远程攻击将命中目标生物邻接的多&#10;个额外生物目标，数量等于敏捷增&#10;益修正值。"/>
+    <str id="Quick Shot" value="Ranged attack that allows the creature to move before taking the shot." local="远程攻击的射击前生物可以先移动&#10;。"/>
+    <str id="Steady Shot" value="Ranged attack that allows the creature to re-roll a failed to-hit check and doubles damage if used while hidden." local="远程攻击时，可以重投失败的命中&#10;检定，在隐秘状态下能造成双倍伤&#10;害。"/>
+    <str id="Blade Flurry" value="Melee attack that gains up to one extra attack per weapon (at +1 and +3 AGI). Blade Flurry requires either two small" local="近战攻击的每把武器（当敏捷增益&#10;修正 +1 或更高时，可针对主手武&#10;器；+3 或更高时针对副手武器）获&#10;得最一次额外攻击机会。剑刃乱舞&#10;需要两把小型武器或将一把中型武&#10;器双手使用。" space="True">
+      <str id="paragraph 1" value="weapons or a medium weapon that is used two-handedly." local=""/>
     </str>
-    <str id="Deadly Throw" value="Thrown weapon attack that causes D3 extra damage instead of 1 for each point of strength or agility bonus modifier," space="True">
-      <str id="paragraph 1" value="whichever is higher (modifier also applies to to-hit checks)."/>
+    <str id="Deadly Throw" value="Thrown weapon attack that causes D3 extra damage instead of 1 for each point of strength or agility bonus modifier," local="投掷武器攻击的每点属性增益修正&#10;获得 D3 额外伤害，取代普通的 1&#10; 点额外伤害，依据的属性取力量和&#10;敏捷中的较高值。（修正同时针对&#10;命中检定）。" space="True">
+      <str id="paragraph 1" value="whichever is higher (modifier also applies to to-hit checks)." local=""/>
     </str>
-    <str id="Heroic Charge" value="Allows the creature to move up to two spaces and attack a target at the end of the move." space="True">
-      <str id="paragraph 1" value="Also adds +1 damage modifier for the attack."/>
+    <str id="Heroic Charge" value="Allows the creature to move up to two spaces and attack a target at the end of the move." local="允许生物最多移动两格，然后在移&#10;动停止后攻击目标。" space="True">
+      <str id="paragraph 1" value="Also adds +1 damage modifier for the attack." local="英勇冲锋还会增加 1 点伤害修正。"/>
     </str>
-    <str id="Crushing Blow" value="Melee attack that causes D3 extra damage instead of 1 for each point of strength bonus modifier." space="True">
-      <str id="paragraph 1" value="Requires a medium or large weapon."/>
+    <str id="Crushing Blow" value="Melee attack that causes D3 extra damage instead of 1 for each point of strength bonus modifier." local="近战攻击的每点力量增益修正都获&#10;得 D3 额外伤害，取代普通的 1 点&#10;额外伤害。" space="True">
+      <str id="paragraph 1" value="Requires a medium or large weapon." local="粉碎打击需要一把中型或大型武器&#10;。"/>
     </str>
-    <str id="Killing Blow" value="Melee attack that can instantly kill the target creature on hit (if the attack hits and the to-hit roll is a pair)." space="True">
-      <str id="paragraph 1" value="Requires a medium or large weapon."/>
+    <str id="Killing Blow" value="Melee attack that can instantly kill the target creature on hit (if the attack hits and the to-hit roll is a pair)." local="近战攻击在攻击命中且命中骰投出&#10;一对时，立即杀死对方。" space="True">
+      <str id="paragraph 1" value="Requires a medium or large weapon." local="致命一击需要一把中型或大型武器&#10;。"/>
     </str>
-    <str id="Sweeping Blow" value="Melee attack that hits the target creature and up to +STR adjacent targets. Requires a medium or large weapon and" space="True">
-      <str id="paragraph 1" value="grants +1 min block and +1 max parry modifier with large weapons."/>
+    <str id="Sweeping Blow" value="Melee attack that hits the target creature and up to +STR adjacent targets. Requires a medium or large weapon and" local="主手近战武器将命中和攻击者邻接&#10;的多个额外生物目标，其数量取决&#10;于力量增益修正。横扫打击需要一&#10;把中型或大型武器。当装备大型武&#10;器时，还会获得 +1 最小格档修正&#10;以及 +1 最大招架修正。" space="True">
+      <str id="paragraph 1" value="grants +1 min block and +1 max parry modifier with large weapons." local=""/>
     </str>
-    <str id="Shield Bash" value="Shield attack that can knock back and stun the target for D3 turns. This attack cannot be blocked, dodged, or" space="True">
-      <str id="paragraph 1" value="parried and causes the creature's deflect modifier to equal block modifier."/>
+    <str id="Shield Bash" value="Shield attack that can knock back and stun the target for D3 turns. This attack cannot be blocked, dodged, or" local="用盾牌攻击可将目标击退并眩晕目&#10;标 D3 回合。盾击不会被格档、闪&#10;避或招架。盾牌还会将偏斜修正设&#10;为和格档修正相同。" space="True">
+      <str id="paragraph 1" value="parried and causes the creature's deflect modifier to equal block modifier." local=""/>
     </str>
-    <str id="Silent Move" value="Move action that hides the creature in plain sight. Melee attacks made while hidden cause double damage and" space="True">
-      <str id="paragraph 1" value="cannot be blocked, dodged or parried."/>
+    <str id="Silent Move" value="Move action that hides the creature in plain sight. Melee attacks made while hidden cause double damage and" local="移动行动让生物在视野中隐秘。在&#10;隐秘状态下发动近战攻击将造成双&#10;倍伤害，且无法格档、闪避和招架&#10;。" space="True">
+      <str id="paragraph 1" value="cannot be blocked, dodged or parried." local=""/>
     </str>
-    <str id="Literacy: Common" value="Allows the creature to read and write Common, cast spells scribed on scrolls and zap with wands."/>
-    <str id="Literacy: Celestial" value="Allows the creature to learn Celestial spells from magical tomes. Celestial spells always use Max Cast Modifier of 2" space="True">
-      <str id="paragraph 1" value="or more regardless of armour."/>
+    <str id="Literacy: Common" value="Allows the creature to read and write Common, cast spells scribed on scrolls and zap with wands." local="允许生物常规读写，释放记录在魔&#10;法卷轴上的法术，释放魔杖的能力&#10;。"/>
+    <str id="Literacy: Celestial" value="Allows the creature to learn Celestial spells from magical tomes. Celestial spells always use Max Cast Modifier of 2" local="允许生物从魔法书中学习天使系法&#10;术。天使系法术的最大施法修正无&#10;视所穿盔甲，永远为 2 或更高。" space="True">
+      <str id="paragraph 1" value="or more regardless of armour." local=""/>
     </str>
-    <str id="Literacy: Draconic" value="Allows the creature to learn Draconic spells from magical tomes."/>
-    <str id="Literacy: Infernal" value="Allows the creature to learn Infernal spells from magical tomes."/>
-    <str id="Focused Cast" value="Allows the creature to cast spells at any space within line of sight. Direct damage and healing spells receive extra" space="True">
-      <str id="paragraph 1" value="damage or healing depending on the relevant bonus modifier."/>
+    <str id="Literacy: Draconic" value="Allows the creature to learn Draconic spells from magical tomes." local="允许生物从魔法书中学习龙系法术&#10;。"/>
+    <str id="Literacy: Infernal" value="Allows the creature to learn Infernal spells from magical tomes." local="允许生物从魔法书中学习地狱系法&#10;术。"/>
+    <str id="Focused Cast" value="Allows the creature to cast spells at any space within line of sight. Direct damage and healing spells receive extra" local="允许生物定位任何在视野直线可达&#10;区的目标并释放法术。另外，直接&#10;伤害或治疗法术都会因对应的属性&#10;增益修正获得额外的效果。" space="True">
+      <str id="paragraph 1" value="damage or healing depending on the relevant bonus modifier." local=""/>
     </str>
-    <str id="Silent Cast" value="Allows the creature to cast spells while silenced and halves spell to-hit range modifier rounding down." space="True">
-      <str id="paragraph 1" value="Silent Cast also teaches Clearcasting."/>
+    <str id="Silent Cast" value="Allows the creature to cast spells while silenced and halves spell to-hit range modifier rounding down." local="允许生物在沉默状态释放法术，且&#10;将施法的距离修正减半向下取整。" space="True">
+      <str id="paragraph 1" value="Silent Cast also teaches Clearcasting." local="沉默施法还会教会沉静施法。"/>
     </str>
-    <str id="Dark Vision" value="Increases light radius by 1 and halves ranged attack to-hit range modifier rounding down."/>
-    <str id="Dual Wield" value="Offhand attacks no longer receive penalties to hit and damage and parry modifier equals to agility bonus modifier" space="True">
-      <str id="paragraph 1" value="instead of one half of it."/>
+    <str id="Dark Vision" value="Increases light radius by 1 and halves ranged attack to-hit range modifier rounding down." local="增加一格视野，并将距离修正减半&#10;向下取整。"/>
+    <str id="Dual Wield" value="Offhand attacks no longer receive penalties to hit and damage and parry modifier equals to agility bonus modifier" local="副手攻击不再承受的命中修正的惩&#10;罚，伤害和招架修正取敏捷修正而&#10;不是其一半。" space="True">
+      <str id="paragraph 1" value="instead of one half of it." local=""/>
     </str>
-    <str id="Keen Eye" value="Allows the creature to re-roll failed search checks, increases search radius by 1 and grants a free action that" space="True">
-      <str id="paragraph 1" value="searches the surroundings when taking a move or rest action."/>
+    <str id="Keen Eye" value="Allows the creature to re-roll failed search checks, increases search radius by 1 and grants a free action that" local="增加一格搜索半径，并在移动或休&#10;息行动时获得一次搜索周围的免费&#10;行动。锐利目光还会在失败的搜索&#10;检定后重掷。" space="True">
+      <str id="paragraph 1" value="searches the surroundings when taking a move or rest action." local=""/>
     </str>
-    <str id="Sixth Sense" value="Allows the creature to to re-roll failed reflex checks and shows a warning before picking up or equipping an" space="True">
-      <str id="paragraph 1" value="unidentified cursed item."/>
+    <str id="Sixth Sense" value="Allows the creature to to re-roll failed reflex checks and shows a warning before picking up or equipping an" local="允许生物重掷反射检定，并在拾起&#10;装备或使用未鉴定的被诅咒物品前&#10;给出警告。" space="True">
+      <str id="paragraph 1" value="unidentified cursed item." local=""/>
     </str>
-    <str id="Strong Will" value="Allows the creature to re-roll failed mental checks and halves the duration of charm, envy, fear, frenzy, greed, lust" space="True">
-      <str id="paragraph 1" value="and reckless effects, rounding down."/>
+    <str id="Strong Will" value="Allows the creature to re-roll failed mental checks and halves the duration of charm, envy, fear, frenzy, greed, lust" local="允许生物重掷失败的精神检定，并&#10;将媚惑、忌妒、恐惧、狂暴、贪婪&#10;、欲望、鲁莽效果的持续时间减半&#10;，向下取整。" space="True">
+      <str id="paragraph 1" value="and reckless effects, rounding down." local=""/>
     </str>
-    <str id="Trap Master" value="Allows the creature to see hidden bear traps and step on them without triggering the effects and allows the" space="True">
-      <str id="paragraph 1" value="creature to disassemble bear traps into trap kits for later use."/>
+    <str id="Trap Master" value="Allows the creature to see hidden bear traps and step on them without triggering the effects and allows the" local="允许生物看见隐藏的捕熊夹，站在&#10;其上不会触发效果。陷阱大师还能&#10;拆解可见的捕熊夹留到以后使用。" space="True">
+      <str id="paragraph 1" value="creature to disassemble bear traps into trap kits for later use." local=""/>
     </str>
-    <str id="Shapeshift: Wolf" value="Shapeshifts the creature into a wolf and replaces all talents with Heroic Charge, Silent Move, Sixth Sense and" space="True">
-      <str id="paragraph 1" value="Keen Eye (based on level)."/>
+    <str id="Shapeshift: Wolf" value="Shapeshifts the creature into a wolf and replaces all talents with Heroic Charge, Silent Move, Sixth Sense and" local="将生物变为一只狼，把天赋替换为&#10; 英勇冲锋，潜行，第六感，敏锐目&#10;光（根据等级开放）。" space="True">
+      <str id="paragraph 1" value="Keen Eye (based on level)." local=""/>
     </str>
-    <str id="Shapeshift: Bear" value="Shapeshifts the creature into a bear and replaces all talents with Heroic Charge, Crushing Blow, Strong Will and" space="True">
-      <str id="paragraph 1" value="Keen Eye (based on level)."/>
+    <str id="Shapeshift: Bear" value="Shapeshifts the creature into a bear and replaces all talents with Heroic Charge, Crushing Blow, Strong Will and" local="将生物变为一头熊，把天赋替换为&#10; 英勇冲锋，粉碎打击，坚强意志，&#10;敏锐目光（根据等级开放）。" space="True">
+      <str id="paragraph 1" value="Keen Eye (based on level)." local=""/>
     </str>
-    <str id="Bestial Wrath" value="Increases physical damage by D3 while shapeshifted. This talent is also improved by the following heritages:" space="True">
-      <str id="paragraph 1" value="Bestial Vigour, Leader of the Pack."/>
+    <str id="Bestial Wrath" value="Increases physical damage by D3 while shapeshifted. This talent is also improved by the following heritages:" local="在变形时增加 D3 物理伤害。这个&#10;天赋还会被下列遗产增强：" space="True">
+      <str id="paragraph 1" value="Bestial Vigour, Leader of the Pack." local="Bestial Vigour ，Leader of the Pack 。"/>
     </str>
   </TalentDescs>
   <SpellNames>
@@ -3200,7 +3200,7 @@
     <str id="Rest Button" value="Rest Button" local="休息 按钮"/>
     <str id="Satiated Rest" value="Satiated Rest" local="充沛休息"/>
     <str id="Equip Button" value="Equip Button" local="装备 按钮"/>
-    <str id="Offhand Equip" value="Offhand Equip" local="预备 按钮"/>
+    <str id="Offhand Equip" value="Offhand Equip" local="副手 按钮"/>
     <str id="Mouse Equip" value="Mouse Equip" local="鼠标装备"/>
     <str id="Drop Button" value="Drop Button" local="丢弃 按钮"/>
     <str id="Throw Button" value="Throw Button" local="投掷 按钮"/>
@@ -3246,7 +3246,7 @@
     <str id="Equip Button" value="You can equip and use items in the inventory after bringing it up with the Equip-button (Default: E) or by clicking on" local="你可以在物品界面使用和装备物品，按装备按&#10;钮（默认：E）可以弹出。用鼠标点击屏幕右侧&#10;也可以…… " space="True">
       <str id="paragraph 1" value="the right side of the screen..." local=""/>
     </str>
-    <str id="Offhand Equip" value="While the inventory is shown, you can equip and use items with the Enter-key. If you also hold down the Shift-key" local="在物品界面显示时，你可以通过 Enter 键装备&#10;或使用物品。你还可以按下 Shift 键把物品装&#10;备在预备栏位……" space="True">
+    <str id="Offhand Equip" value="While the inventory is shown, you can equip and use items with the Enter-key. If you also hold down the Shift-key" local="在物品界面显示时，你可以通过 Enter 键装备&#10;或使用物品。你还可以按下 Shift 键把物品装&#10;备在副手栏位……" space="True">
       <str id="paragraph 1" value="you can equip an item in the offhand..." local=""/>
     </str>
     <str id="Mouse Equip" value="Alternatively, you can click an item to use or equip it or you can drag and drop the item in the chosen slot (or out of" local="第二种选择是，你可以鼠标点击物品来装备或&#10;使用它，也可以拖拽物品到指定槽位（或拖出&#10;物品界面）……" space="True">
