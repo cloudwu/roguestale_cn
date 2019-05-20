@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190515)" checksum="1011572a34b6a97da1c6db6e3bcea9b3ac1c02bb">
+<strings version="Version 2.00 Beta 1 (190520)" checksum="ecf458bae7543b55168b564cd54ef355241d7706">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -3221,74 +3221,74 @@
     <str id="Gain Heritage" value="Gain Heritage" local="获得遗产"/>
   </TutorialNames>
   <TutorialDescs>
-    <str id="Introduction 1" value="Why hello there. I'm the annoying user interface dog and my super accurate canine senses tell me that this is the" local="为什么要说你好。我是只讨人嫌的界面狗，我敏锐的直觉告诉我" space="True">
-      <str id="paragraph 1" value="first time you're playing this game..." local="这是你第一次玩这个游戏……"/>
+    <str id="Introduction 1" value="Why hello there. I'm the annoying user interface dog and my super accurate canine senses tell me that this is the" local="为什么要说你好。我是只讨人嫌的界面狗，我&#10;敏锐的直觉告诉我这是你第一次玩这个游戏……" space="True">
+      <str id="paragraph 1" value="first time you're playing this game..." local=""/>
     </str>
-    <str id="Introduction 2" value="Please pay attention now. I'll be telling this only once and failure to comprehend will lead you to ask silly questions" local="请注意听讲。我只说一次，如果你不仔细听以后肯定会" space="True">
-      <str id="paragraph 1" value="over the Internet..." local="跑到网上问各种傻问题……"/>
+    <str id="Introduction 2" value="Please pay attention now. I'll be telling this only once and failure to comprehend will lead you to ask silly questions" local="请注意听讲。我只说一次，如果你不仔细听以&#10;后肯定会跑到网上问各种傻问题……" space="True">
+      <str id="paragraph 1" value="over the Internet..." local=""/>
     </str>
-    <str id="Move Buttons" value="Allrighty then. You can move onto any of the eight adjacent tiles by using the keypad or by clicking in the desired" local="让我们开始吧。你可以按键盘向邻接的八个地块移动，鼠标点击想去的" space="True">
-      <str id="paragraph 1" value="direction..." local="方向也可以……"/>
+    <str id="Move Buttons" value="Allrighty then. You can move onto any of the eight adjacent tiles by using the keypad or by clicking in the desired" local="让我们开始吧。你可以按小键盘数字键向邻近&#10;的八个地块移动，鼠标点击想去的方向也可以&#10;……" space="True">
+      <str id="paragraph 1" value="direction..." local=""/>
     </str>
-    <str id="Basic Attack" value="Now that looks like a nasty creature. If you want, you can attack it by moving towards it..." local="现在那里有个讨厌的生物。如果你想攻击它只需要向它移动……"/>
-    <str id="Use Button" value="You can use adjacent map objects or items by holding down the Ctrl-key and pressing the relevant movement key" local="要可以使用临近的地图物品，可以按住 Ctrl 键再按对应的方向，" space="True">
-      <str id="paragraph 1" value="or by right-clicking in the desired direction..." local="或是用鼠标右键点击对应的方向也可以……"/>
+    <str id="Basic Attack" value="Now that looks like a nasty creature. If you want, you can attack it by moving towards it..." local="现在那里有个讨厌的生物。如果你想攻击它只&#10;需要向它移动……"/>
+    <str id="Use Button" value="You can use adjacent map objects or items by holding down the Ctrl-key and pressing the relevant movement key" local="想使用旁边的地图物品，可以按住 Ctrl 键再&#10;按对应的方向，或是用鼠标右键点击对应的方&#10;向也可以……" space="True">
+      <str id="paragraph 1" value="or by right-clicking in the desired direction..." local=""/>
     </str>
-    <str id="Loot Button" value="You can view the loot under your feet by holding down the Loot-key (Default: Alt) or by clicking the right side of the" local="按住拾取键（默认：Alt）可以浏览你脚下的拾取品，" space="True">
-      <str id="paragraph 1" value="screen..." local="或是用鼠标点击屏幕右侧……"/>
+    <str id="Loot Button" value="You can view the loot under your feet by holding down the Loot-key (Default: Alt) or by clicking the right side of the" local="按住拾取键（默认：Alt）可以浏览你脚下的拾&#10;取品，或是用鼠标点击屏幕右侧……" space="True">
+      <str id="paragraph 1" value="screen..." local=""/>
     </str>
-    <str id="Rest Button" value="Whenever you're fatigued or wounded, you can rest and gain energy or health with the Rest-button (Default: Keypad5)" local="一旦你开始疲惫或受伤，你可以通过按下休息按钮（默认：小键盘 5 ）休息来获得精力和生命点，" space="True">
-      <str id="paragraph 1" value="or by clicking yourself..." local="鼠标点自己也可以……"/>
+    <str id="Rest Button" value="Whenever you're fatigued or wounded, you can rest and gain energy or health with the Rest-button (Default: Keypad5)" local="一旦你开始疲惫或受伤，你可以通过按下休息&#10;按钮（默认：小键盘 5）休息来获得精力和生&#10;命点，鼠标点自己也可以……" space="True">
+      <str id="paragraph 1" value="or by clicking yourself..." local=""/>
     </str>
-    <str id="Satiated Rest" value="Note, however, that in order to gain health, you must have both hunger and thirst satiated (see the bottom right" local="注意：要获得生命值，必须在不饥饿和口渴的状态下（看一下" space="True">
-      <str id="paragraph 1" value="corner)..." local="右下角）……"/>
+    <str id="Satiated Rest" value="Note, however, that in order to gain health, you must have both hunger and thirst satiated (see the bottom right" local="注意：要获得生命值，必须不在饥饿和口渴的&#10;状态下（看一下右下角）……" space="True">
+      <str id="paragraph 1" value="corner)..." local=""/>
     </str>
-    <str id="Equip Button" value="You can equip and use items in the inventory after bringing it up with the Equip-button (Default: E) or by clicking on" local="你可以在物品界面使用和装备物品，按装备按钮（默认：E）可以弹出。 " space="True">
-      <str id="paragraph 1" value="the right side of the screen..." local="用鼠标点击屏幕右侧也可以……"/>
+    <str id="Equip Button" value="You can equip and use items in the inventory after bringing it up with the Equip-button (Default: E) or by clicking on" local="你可以在物品界面使用和装备物品，按装备按&#10;钮（默认：E）可以弹出。用鼠标点击屏幕右侧&#10;也可以…… " space="True">
+      <str id="paragraph 1" value="the right side of the screen..." local=""/>
     </str>
-    <str id="Offhand Equip" value="While the inventory is shown, you can equip and use items with the Enter-key. If you also hold down the Shift-key" local="在物品界面显示时，你可以通过 Enter 键装备或使用物品。你还可以按下 Shift 键" space="True">
-      <str id="paragraph 1" value="you can equip an item in the offhand..." local="把物品装备在预备栏位……"/>
+    <str id="Offhand Equip" value="While the inventory is shown, you can equip and use items with the Enter-key. If you also hold down the Shift-key" local="在物品界面显示时，你可以通过 Enter 键装备&#10;或使用物品。你还可以按下 Shift 键把物品装&#10;备在预备栏位……" space="True">
+      <str id="paragraph 1" value="you can equip an item in the offhand..." local=""/>
     </str>
-    <str id="Mouse Equip" value="Alternatively, you can click an item to use or equip it or you can drag and drop the item in the chosen slot (or out of" local="第二种选择是，你可以鼠标点击物品来装备或使用它，也可以拖拽物品到指定槽位（或" space="True">
-      <str id="paragraph 1" value="the inventory)..." local="拖出物品界面）……"/>
+    <str id="Mouse Equip" value="Alternatively, you can click an item to use or equip it or you can drag and drop the item in the chosen slot (or out of" local="第二种选择是，你可以鼠标点击物品来装备或&#10;使用它，也可以拖拽物品到指定槽位（或拖出&#10;物品界面）……" space="True">
+      <str id="paragraph 1" value="the inventory)..." local=""/>
     </str>
-    <str id="Drop Button" value="You can drop items from the inventory after bringing it up with the Drop-button (Default: D) or you can drag and" local="你可以按下丢弃按钮（默认：D）弹出物品界面，然后丢弃物品。用鼠标" space="True">
-      <str id="paragraph 1" value="drop them using a mouse..." local="拖拽也可以……"/>
+    <str id="Drop Button" value="You can drop items from the inventory after bringing it up with the Drop-button (Default: D) or you can drag and" local="你可以按下丢弃按钮（默认：D）弹出物品界面&#10;，然后丢弃物品。用鼠标拖拽也可以……" space="True">
+      <str id="paragraph 1" value="drop them using a mouse..." local=""/>
     </str>
-    <str id="Throw Button" value="You can throw items from the inventory after bringing it up with the Throw-button (Default: F) or you can right-click" local="你可以按下投掷按钮（默认：F）弹出物品界面，然后投掷物品。用鼠标" space="True">
-      <str id="paragraph 1" value="throw them with a mouse..." local="右键也可以投掷……"/>
+    <str id="Throw Button" value="You can throw items from the inventory after bringing it up with the Throw-button (Default: F) or you can right-click" local="你可以按下投掷按钮（默认：F）弹出物品界面&#10;，然后投掷物品。用鼠标右键也可以投掷……" space="True">
+      <str id="paragraph 1" value="throw them with a mouse..." local=""/>
     </str>
-    <str id="Attack Button" value="Excellent! I see you have found yourself a ranged weapon. You can make ranged attacks with the Attack-button" local="太棒了！我发现你自己找到了一件远程武器。你可以通过攻击按钮" space="True">
-      <str id="paragraph 1" value="(Default: A)..." local="（默认：A）进行远程攻击……"/>
+    <str id="Attack Button" value="Excellent! I see you have found yourself a ranged weapon. You can make ranged attacks with the Attack-button" local="太棒了！我发现你自己找到了一件远程武器。&#10;你可以通过攻击按钮（默认：A）进行远程攻击&#10;……" space="True">
+      <str id="paragraph 1" value="(Default: A)..." local=""/>
     </str>
-    <str id="Rearm Button" value="Your weapon needs to be rearmed before it can be used again. This is done automatically if you rest while having" local="你的武器需要进行整备才能再次使用。这个过程在你装备有该武器时" space="True">
-      <str id="paragraph 1" value="such a weapon equipped..." local="通过休息可以自动完成……"/>
+    <str id="Rearm Button" value="Your weapon needs to be rearmed before it can be used again. This is done automatically if you rest while having" local="你的武器需要进行整备才能再次使用。这个过&#10;程在你装备有该武器时通过休息可以自动完成&#10;……" space="True">
+      <str id="paragraph 1" value="such a weapon equipped..." local=""/>
     </str>
     <str id="Use Entrances" value="You can use stairs and ladders by pressing the Enter-key..." local="按一下 Enter 键可以使用楼梯或梯子……"/>
-    <str id="Talent Gain 1" value="Oh look, you have earned your first talent point. You can spend it by visiting a trainer or by using one of the trainer" local="看，你获得了第一个天赋点。你可以通过拜访导师或使用训练地块" space="True">
-      <str id="paragraph 1" value="tiles..." local="来用掉它……"/>
+    <str id="Talent Gain 1" value="Oh look, you have earned your first talent point. You can spend it by visiting a trainer or by using one of the trainer" local="看，你获得了第一个天赋点。你可以通过拜访&#10;导师或使用训练地块来用掉它……" space="True">
+      <str id="paragraph 1" value="tiles..." local=""/>
     </str>
-    <str id="Talent Gain 2" value="Note, however, that you can learn a maximum of six talents and there's no money back guarantee, so choose them" local="注意：你最多只能学习六项天赋，没有退款服务。所以，" space="True">
-      <str id="paragraph 1" value="wisely..." local="想好了再选……"/>
+    <str id="Talent Gain 2" value="Note, however, that you can learn a maximum of six talents and there's no money back guarantee, so choose them" local="注意：你最多只能学习六项天赋，没有退款服&#10;务。所以，想好了再选……" space="True">
+      <str id="paragraph 1" value="wisely..." local=""/>
     </str>
-    <str id="Use Talents" value="Great choice! You can use the talent you just learned through the spellbook by pressing the Cast-button (Default: C)..." local="明智的选择！你可以通过按下施法按钮（默认：C）打开法术书使用你刚学到的天赋……"/>
-    <str id="Cast Spells" value="Way to go you little Wizard! You can cast the spell you just learned through the spellbook by pressing the Cast-button" local="小法师出击！你可以通过按下施法按钮（默认：C）打开法术书" space="True">
-      <str id="paragraph 1" value="(Default: C)..." local="施展你刚学的法术……"/>
+    <str id="Use Talents" value="Great choice! You can use the talent you just learned through the spellbook by pressing the Cast-button (Default: C)..." local="明智的选择！你可以通过按下施法按钮（默认&#10;：C）打开法术书使用你刚学到的天赋……"/>
+    <str id="Cast Spells" value="Way to go you little Wizard! You can cast the spell you just learned through the spellbook by pressing the Cast-button" local="小法师出击！你可以通过按下施法按钮（默认&#10;：C）打开法术书施展你刚学的法术……" space="True">
+      <str id="paragraph 1" value="(Default: C)..." local=""/>
     </str>
-    <str id="Bind Hotkeys" value="You can bind and unbind spells and active talents on hotkeys by selecting one and pressing a Hotkey-button" local="你可以将主动天赋和法术绑定到热键或解绑，只需选择它然后按下热键" space="True">
-      <str id="paragraph 1" value="(Default: 1,2,3,4,5,6,7)..." local="（默认：1,2,3,4,5,6,7 ）……"/>
+    <str id="Bind Hotkeys" value="You can bind and unbind spells and active talents on hotkeys by selecting one and pressing a Hotkey-button" local="你可以将主动天赋和法术绑定到热键或解绑，&#10;只需选择它然后按下热键（默认：1,2,3,4,5,&#10;6,7 ）……" space="True">
+      <str id="paragraph 1" value="(Default: 1,2,3,4,5,6,7)..." local=""/>
     </str>
-    <str id="Order Button" value="Oh look, you have gained a friend. You can order friends to follow you, move to a location or attack a target with the" local="看，你获得了一个朋友。你可以命令朋友跟随你、移动到一个位置、或攻击一个目标，" space="True">
-      <str id="paragraph 1" value="Focus-key (Default: X)..." local="按下聚焦键即可（默认：X）……"/>
+    <str id="Order Button" value="Oh look, you have gained a friend. You can order friends to follow you, move to a location or attack a target with the" local="看，你获得了一个朋友。你可以命令朋友跟随&#10;你、移动到一个位置、或攻击一个目标，按下&#10;聚焦键即可（默认：X）……" space="True">
+      <str id="paragraph 1" value="Focus-key (Default: X)..." local=""/>
     </str>
-    <str id="Travel Button" value="Great job, you've cleared the dungeon. Now you can quickly travel back to town with the Travel-button (Default: T)..." local="干得漂亮，你清空了地牢。现在你可以按下旅行（默认：T）快速回到城镇……"/>
-    <str id="Search Button" value="Ouch, that's gotta hurt. I don't want to rub it in but you could've found the trap with the Search-button (Default: S)..." local="哎哟，好疼。我不想重复唠叨，其实你可以通过按下搜索按钮（默认：S）来提前发现陷阱的……"/>
-    <str id="Jump Button" value="So that's where I dug the hole. You can try to jump over it with the Jump-button (Default: Q)..." local="这里是我挖的一个洞。你可以试一下按跳跃按钮（默认：Q）越过它……"/>
-    <str id="Look Button" value="If you can't seem to figure out what something is you can take a look at it with the Look-button (Default: V)..." local="如果你不确定那个东西是什么，你可以按下观察按钮（默认：V）看一眼……"/>
-    <str id="Sort Button" value="Look at all that junk... I mean valuables! If you need some quick space you can arrange your inventory with the" local="看看这些垃圾…… 我的意思是这些宝贝！如果你需要腾点空间出来，你可以按下排序按钮" space="True">
-      <str id="paragraph 1" value="Sort-button (Default: R)..." local="（默认：R）整理一下……"/>
+    <str id="Travel Button" value="Great job, you've cleared the dungeon. Now you can quickly travel back to town with the Travel-button (Default: T)..." local="干得漂亮，你清空了地牢。现在你可以按下旅&#10;行（默认：T）快速回到城镇……"/>
+    <str id="Search Button" value="Ouch, that's gotta hurt. I don't want to rub it in but you could've found the trap with the Search-button (Default: S)..." local="哎哟，好疼。我不想重复唠叨，其实你可以通&#10;过按下搜索按钮（默认：Ｓ）来提前发现陷阱&#10;的……"/>
+    <str id="Jump Button" value="So that's where I dug the hole. You can try to jump over it with the Jump-button (Default: Q)..." local="这里是我挖的一个洞。你可以试一下按跳跃按&#10;钮（默认：Q）越过它……"/>
+    <str id="Look Button" value="If you can't seem to figure out what something is you can take a look at it with the Look-button (Default: V)..." local="如果你不确定那个东西是什么，你可以按下观&#10;察按钮（默认：V）看一眼……"/>
+    <str id="Sort Button" value="Look at all that junk... I mean valuables! If you need some quick space you can arrange your inventory with the" local="看看这些垃圾…… 我的意思是这些宝贝！如果你&#10;需要腾点空间出来，你可以按下排序按钮（默&#10;认：R）整理一下……" space="True">
+      <str id="paragraph 1" value="Sort-button (Default: R)..." local=""/>
     </str>
-    <str id="Gain Heritage" value="Yikes, you might actually have what it takes to beat this game. You can check your heritage rewards by pressing F3..." local="呀！你可能获得了通关这个游戏的关键。按一下 F3 查看一下你的遗产奖励……"/>
+    <str id="Gain Heritage" value="Yikes, you might actually have what it takes to beat this game. You can check your heritage rewards by pressing F3..." local="呀！你可能获得了通关这个游戏的关键。按一&#10;下 F3 查看一下你的遗产奖励……"/>
     <str id="Press and hold %s to view all tutorial entries." value="Press and hold %s to view all tutorial entries." local="按住 %s 浏览所有的教学项。"/>
   </TutorialDescs>
   <HeritageNames>
@@ -4499,28 +4499,28 @@
     <str id="- Some heritages can't be unlocked." value="- Some heritages can't be unlocked." local="- 一些遗产无法解锁。"/>
     <str id="- Challenges can't be unlocked." value="- Challenges can't be unlocked." local="- 挑战无法解锁。"/>
     <str id="- Kings won't be remembered." value="- Kings won't be remembered." local="- 成为国王后无法被记录。"/>
-    <str id="HERO_SCREEN_WARRIOR_DESC" value="Warriors rely on brute force and melee weapons to deal with their enemies." local="武士用蛮力和近战武器对付敌人。">
-      <str id="paragraph 1" value="They quickly approach their enemies and finish them off with a series of crushing blows." local="他们迅速接近敌人，用一套粉碎打击干掉他们。"/>
+    <str id="HERO_SCREEN_WARRIOR_DESC" value="Warriors rely on brute force and melee weapons to deal with their enemies." local="武士善用蛮力和近战武器对付敌人&#10;。">
+      <str id="paragraph 1" value="They quickly approach their enemies and finish them off with a series of crushing blows." local="他们迅速地接近敌人，用一套粉碎&#10;打击干掉对手。"/>
       <str id="paragraph 2" value="Talents:
 - %s
 - %s
 - %s" local="天赋：&#10;- %s&#10;- %s&#10;- %s"/>
     </str>
-    <str id="HERO_SCREEN_ARCHER_DESC" value="Archers rely on perception and ranged weapons to deal with their enemies." local="射手以其洞察力和远程武器干掉敌人。">
-      <str id="paragraph 1" value="They maintain optimal range to their enemies and snipe them down with a few well aimed shots." local="他们和敌人拉开距离，通过几发精确的射击干掉他们。"/>
+    <str id="HERO_SCREEN_ARCHER_DESC" value="Archers rely on perception and ranged weapons to deal with their enemies." local="射手极具洞察力，善用远程武器干&#10;掉敌人。">
+      <str id="paragraph 1" value="They maintain optimal range to their enemies and snipe them down with a few well aimed shots." local="他们尽量和敌人拉开距离，通过几&#10;发精准的射击干掉对手。"/>
       <str id="paragraph 2" value="Talents:
 - %s
 - %s
 - %s" local="天赋：&#10;- %s&#10;- %s&#10;- %s"/>
     </str>
-    <str id="HERO_SCREEN_ASSASSIN_DESC" value="Assassins rely on stealth and initiative to deal with their enemies." local="刺客依靠隐秘行动对他们的敌人主动发起攻击。">
-      <str id="paragraph 1" value="They silently move in for the first strike and quickly finish any survivors with a blade flurry." local="他们潜行抢先发起攻击，然后用剑刃乱舞快速解决一息尚存的敌人。"/>
+    <str id="HERO_SCREEN_ASSASSIN_DESC" value="Assassins rely on stealth and initiative to deal with their enemies." local="刺客擅长隐秘行动，对敌人主动发&#10;起攻击。">
+      <str id="paragraph 1" value="They silently move in for the first strike and quickly finish any survivors with a blade flurry." local="他们潜行抢先发起攻击，用剑刃乱&#10;舞快速地解决一息尚存的敌人。"/>
       <str id="paragraph 2" value="Talents:
 - %s
 - %s
 - %s" local="天赋：&#10;- %s&#10;- %s&#10;- %s"/>
     </str>
-    <str id="HERO_SCREEN_PALADIN_DESC" value="Paladins rely on Celestial magic to buff them and keep them alive as they rid the world of evil." local="圣骑士依靠天使系法术活下来驱散世界中的邪恶。">
+    <str id="HERO_SCREEN_PALADIN_DESC" value="Paladins rely on Celestial magic to buff them and keep them alive as they rid the world of evil." local="天使系法术让圣骑士活下来驱散世&#10;界中的邪恶。">
       <str id="paragraph 1" value="Talents:
 - %s
 - %s
@@ -4529,7 +4529,7 @@
 - %s
 - %s" local="法术：&#10;- %s&#10;- %s"/>
     </str>
-    <str id="HERO_SCREEN_WIZARD_DESC" value="Wizards rely on Draconic magic to aid them in their innate quest to seek more knowledge and power." local="法师依靠龙系法术来追寻更多知识和力量来完成他们的使命。">
+    <str id="HERO_SCREEN_WIZARD_DESC" value="Wizards rely on Draconic magic to aid them in their innate quest to seek more knowledge and power." local="法师依靠龙系法术来追寻更多知识&#10;和力量来完成他们的使命。">
       <str id="paragraph 1" value="Talents:
 - %s
 - %s
@@ -4538,7 +4538,7 @@
 - %s
 - %s" local="法术：&#10;- %s&#10;- %s"/>
     </str>
-    <str id="HERO_SCREEN_WARLOCK_DESC" value="Warlocks rely on Infernal magic to help them accomplish their nefarious deeds and ambitions." local="术士依靠地狱系法术来完成他们邪恶的野心。">
+    <str id="HERO_SCREEN_WARLOCK_DESC" value="Warlocks rely on Infernal magic to help them accomplish their nefarious deeds and ambitions." local="术士依靠地狱系法术来完成他们邪&#10;恶的野心。">
       <str id="paragraph 1" value="Talents:
 - %s
 - %s
@@ -4578,6 +4578,7 @@
     <str id="Unknown server error!" value="Unknown server error!"/>
   </ErrorStrings>
   <ChatStrings>
+    <str id="Admin:" value="Admin:"/>
     <str id="Server:" value="Server:"/>
     <str id="Town crier:" value="Town crier:"/>
     <str id="All hail %s!" value="All hail %s!"/>

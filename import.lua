@@ -11,11 +11,44 @@ local function readfile(filename)
 	return t
 end
 
+local function composing(line)
+	local width, content = line:match '^@%((%d+)%)(.*)'
+	if not width then
+		return line
+	end
+	width = tonumber(width)
+	content = content:gsub('&#10;', '\n')
+	local encode = {}
+	local n = 0
+	for p, c in utf8.codes(content) do
+		if n >= width then
+			table.insert(encode, 10)
+			n = 0
+		end
+		if c < 0x3000 then
+			if c == 10 then
+				n = 0
+			else
+				n = n + 1
+			end
+		else
+			n = n + 2
+		end
+		table.insert(encode, c)
+	end
+	local str = utf8.char(table.unpack(encode))
+	return str:gsub('\n', '&#10;')
+end
+
 local function map(trans)
 	local m = {}
 	for line in io.lines(trans) do
-		local tag, key, value = line:match '(%a+)%.(".-"[^ ]*) (.*)'
-		m[tag .. ":" .. key] = value
+		-- ignore comments
+		if not line:match '^%s*#' then
+			local tag, key, value = line:match '(%a+)%.(".-"[^ ]*) (.*)'
+			value = composing(value)
+			m[tag .. ":" .. key] = value
+		end
 	end
 	return m
 end
@@ -53,7 +86,7 @@ local function merge(xml, trans)
 		local r = content:gsub('<str id="([^"]+)" value="([^"]+)"(.-)>', replace_tag(tag))
 		return string.format('<%s>%s</%s>', tag, r, endtag)
 	end
-	
+
 	return (xml:gsub('<(%u%a*)>(.-)</(%u%a*)>', sec_replace))
 end
 
