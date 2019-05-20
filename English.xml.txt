@@ -1047,51 +1047,51 @@ SpellNames."Enchant Item" 物品附魔
 SpellNames."Elemental Orb" 元素球
 SpellNames."Clone Creature" 克隆生物
 SpellNames."Animate Dead" 亡灵复生
-SpellNames."Transmute Item" 物品变形
+SpellNames."Transmute Item" 物品炼金
 SpellNames."Arcane Missile" 奥术飞弹
 SpellNames."Alter Terrain" 地表变形
-SpellDescs."Cure Disease" Attempts to remove one disease effect from the target creature.
-SpellDescs."Cure Poison" Attempts to remove one poison effect from the target creature.
-SpellDescs."Dispel Magic" Attempts to remove one magical effect from the target creature, location or an item in the caster's inventory.
-SpellDescs."Divine Grace" Increases agility and charisma and physical, poison and disease resistances.
-SpellDescs."Divine Might" Increases strength and stamina and fire, frost and shock resistances.
-SpellDescs."Divine Reach" Allows you to cast spells at any target within line of sight or halves the spell to-hit range modifier.
-SpellDescs."Healing Touch" Heals the target creature and attempts to restore one point of ability damage.
-SpellDescs."Healing Wave" Heals the target creature and all adjacent creatures.
-SpellDescs."Renewing Touch" Places a heal over time effect on the target creature.
-SpellDescs."Turn Undead" Causes magic damage or instantly kills the target undead creature.
-SpellDescs."Amplify Magic" Places a magical effect on you that amplifies the damage of orb spells.
-SpellDescs."Electric Orb" Causes shock damage to the target creature and has a chance of paralysing the target.
-SpellDescs."Enlarge Orb" Places a magical effect on you that enlarges the next orb spell cast while the effect lasts.
-SpellDescs."Flaming Orb" Causes fire damage to the target creature and has a chance of setting the target on fire.
-SpellDescs."Frozen Orb" Causes frost damage to the target creature and has a chance of slowing the target.
-SpellDescs."Illumination" Places a magical effect on all creatures within line of sight that increases light and search radius.
-SpellDescs."Mage Armour" Places a magical effect on you that increases all resistances (the effect is removed if your equipment changes).
-SpellDescs."Mirror Image" Creates a duplicate of the caster that can distract enemies.
-SpellDescs."Remove Curse" Attempts to remove one curse effect from the target creature, location or an item in the caster's inventory.
-SpellDescs."Telekinesis" Allows the caster to magically use remote objects such as doors, chests, levers and so on.
-SpellDescs."Banish Daemon" Causes magic damage or instantly kills the target daemon.
-SpellDescs."Bestow Curse" Attempts to place a random curse effect on the target creature or Curse of Agony if the check fails.
-SpellDescs."Capture Soul" Places a magical effect on the target creature that turns its soul to a soul gem upon death.
-SpellDescs."Demonic Visage" Places a magical effect on you that forces attackers to take a fear check.
-SpellDescs."Enslave Daemon" Attempts to temporarily charm a daemon and make it your friend.
-SpellDescs."Plane Shift" Attempts to teleport the caster to another location within line of sight.
-SpellDescs."Release Soul" Releases a soul from a random soul gem on the target creature or an item in the caster's inventory.
-SpellDescs."Summon Daemon" Attempts to summon a daemon and then attempts to enslave it.
-SpellDescs."Venomous Orb" Causes poison damage to the target creature and has a chance of applying a random poison effect.
-SpellDescs."Virulent Orb" Causes disease damage to the target creature and has a chance of applying a random disease effect.
-SpellDescs."Divine Shield" Creates a shield around the caster that absorbs damage until it breaks.
-SpellDescs."Conjure Daemon" Summons a lesser daemon at the target location and enslaves it.
-SpellDescs."Identify Item" Identifies the targeted item in the caster's inventory.
-SpellDescs."Enchant Item" Enchants the targeted item in the caster's inventory with a random enchant.
-SpellDescs."Elemental Orb" Causes fire, frost and shock damage to the target and all adjacent creatures.
-SpellDescs."Clone Creature" Creates a clone of the target creature that aids the caster for awhile.
-SpellDescs."Animate Dead" Permanently turns a dead human into an undead familiar.
-SpellDescs."Transmute Item" Transmutes the targeted item in the caster's inventory into gold coins.
-SpellDescs."Arcane Missile" Causes magic damage or instantly kills the target creature.
-SpellDescs."Alter Terrain" Increases or decreases the height of terrain on even or odd turns respectively.
-SpellDescs."Hit Modifier: Charisma" Hit Modifier: Charisma
-SpellDescs."Hit Modifier: Stamina" Hit Modifier: Stamina
+SpellDescs."Cure Disease" @(30)尝试移除目标生物身上的一个疫病效果。
+SpellDescs."Cure Poison" @(30)尝试移除目标生物身上的一个中毒效果。
+SpellDescs."Dispel Magic" @(30)尝试移除目标生物身上，或特定地点，施法者物品栏中的物品上的一个魔法效果。
+SpellDescs."Divine Grace" @(30)增加敏捷和魅力属性，增强物理抗性、毒害抗性和疾病抗性。
+SpellDescs."Divine Might" @(30)增加力量和耐力属性，增强火焰抗性、冰霜抗性和震击抗性。
+SpellDescs."Divine Reach" @(30)允许你对视线内的任何目标施放法术，或是将施法命中距离修正减半。
+SpellDescs."Healing Touch" @(30)治疗目标生物并尝试回复一点属性伤害。
+SpellDescs."Healing Wave" @(30)治疗目标生物及所有和该目标邻接的生物。
+SpellDescs."Renewing Touch" @(30)赋予目标生物一个治疗的持续效果。
+SpellDescs."Turn Undead" @(30)立刻杀死目标不死生物，或对其造成魔法伤害。
+SpellDescs."Amplify Magic" @(30)赋予你一个持续效果，它可以增强法术球的伤害。
+SpellDescs."Electric Orb" @(30)对目标生物造成震击伤害，有一定机会使目标麻痹。
+SpellDescs."Enlarge Orb" @(30)赋予你一个持续效果，在效果结束前可以让下一个法术球变大。
+SpellDescs."Flaming Orb" @(30)对目标生物造成火焰伤害，有一定机会使目标燃烧。
+SpellDescs."Frozen Orb" @(30)对目标生物造成冰霜伤害，有一定机会使目标迟缓。
+SpellDescs."Illumination" @(30)对视线内所有生物附加一个魔法效果，增加他们的亮度和搜索范围。
+SpellDescs."Mage Armour" @(30)给你附加一个魔法效果，增强所有的抗性（这个效果会在变更装备时移除）。
+SpellDescs."Mirror Image" @(30)复制一个施法者，可使敌人分心。
+SpellDescs."Remove Curse" @(30)尝试移除目标生物身上，或特定地点，施法者物品栏中的物品上的一个诅咒效果。
+SpellDescs."Telekinesis" @(30)允许施法者使用魔法来操纵远程物体，像门、宝箱、开关等这类东西。
+SpellDescs."Banish Daemon" @(30)立刻杀死目标恶魔，或对其造成魔法伤害。
+SpellDescs."Bestow Curse" @(30)尝试给目标生物施加一个随机的诅咒效果，或在检定失败时施加痛苦诅咒。
+SpellDescs."Capture Soul" @(30)给目标生物附加一个魔法效果，若目标生物死亡，该生物的灵魂将被捕获进一颗晶石中。
+SpellDescs."Demonic Visage" @(30)给你施加一个魔法效果，任何试图攻击你的生物都必须先通过一次恐惧检定。
+SpellDescs."Enslave Daemon" @(30)尝试临时魅惑一个恶魔，使其成为你的伙伴。
+SpellDescs."Plane Shift" @(30)将施法者立即传送到视野内的另一个位置。
+SpellDescs."Release Soul" @(30)将魂晶中的灵魂释放到目标生物或是施法者物品栏中的物品上。
+SpellDescs."Summon Daemon" @(30)尝试召唤一个恶魔并尝试奴役它。
+SpellDescs."Venomous Orb" @(30)对目标生物造成毒伤害，有一定机会附加一个随机的毒害效果。
+SpellDescs."Virulent Orb" @(30)对目标生物造成疾病伤害，有一定机会附加一个随机的疾病效果。
+SpellDescs."Divine Shield" @(30)在施法者周围创建出一层护盾，护盾会吸收伤害直至破碎。
+SpellDescs."Conjure Daemon" @(30)在目标位置召唤一个小点的恶魔，并奴役它。
+SpellDescs."Identify Item" @(30)鉴定施法者物品栏中的指定物品。
+SpellDescs."Enchant Item" @(30)给施法者物品栏中指定物品进行一次随机附魔。
+SpellDescs."Elemental Orb" @(30)对目标生物及它的邻接生物造成火焰、冰霜和震击伤害。
+SpellDescs."Clone Creature" @(30)给目标生物制造一个克隆体，它能协助施法者一小段时间。
+SpellDescs."Animate Dead" @(30)永久的将一个死去的人类转变为一个亡灵朋友。
+SpellDescs."Transmute Item" @(30)将施法者物品栏中的目标物品炼成金币。
+SpellDescs."Arcane Missile" @(30)立刻杀死目标生物，或对其造成魔法伤害。
+SpellDescs."Alter Terrain" @(30)在偶数回合抬高，在奇数回合降低地块高度。
+SpellDescs."Hit Modifier: Charisma" 命中修正：魅力
+SpellDescs."Hit Modifier: Stamina" 命中修正：耐力
 SpellLogs."You gain clearcasting and cast the spell for free." You gain clearcasting and cast the spell for free.
 SpellLogs."You have a feeling that the spell didn't come out right." You have a feeling that the spell didn't come out right.
 SpellLogs."But apparently the spell just fizzles." But apparently the spell just fizzles.

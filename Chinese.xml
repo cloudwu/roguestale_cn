@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190520)" checksum="6426ebe4a37837d7d10b8c2757dda022f93dba87">
+<strings version="Version 2.00 Beta 1 (190520)" checksum="f3c22bf06c08d7b0a20b154e5dd81df59eab8ee5">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -1156,53 +1156,53 @@
     <str id="Elemental Orb" value="Elemental Orb" local="元素球"/>
     <str id="Clone Creature" value="Clone Creature" local="克隆生物"/>
     <str id="Animate Dead" value="Animate Dead" local="亡灵复生"/>
-    <str id="Transmute Item" value="Transmute Item" local="物品变形"/>
+    <str id="Transmute Item" value="Transmute Item" local="物品炼金"/>
     <str id="Arcane Missile" value="Arcane Missile" local="奥术飞弹"/>
     <str id="Alter Terrain" value="Alter Terrain" local="地表变形"/>
   </SpellNames>
   <SpellDescs>
-    <str id="Cure Disease" value="Attempts to remove one disease effect from the target creature."/>
-    <str id="Cure Poison" value="Attempts to remove one poison effect from the target creature."/>
-    <str id="Dispel Magic" value="Attempts to remove one magical effect from the target creature, location or an item in the caster's inventory."/>
-    <str id="Divine Grace" value="Increases agility and charisma and physical, poison and disease resistances."/>
-    <str id="Divine Might" value="Increases strength and stamina and fire, frost and shock resistances."/>
-    <str id="Divine Reach" value="Allows you to cast spells at any target within line of sight or halves the spell to-hit range modifier."/>
-    <str id="Healing Touch" value="Heals the target creature and attempts to restore one point of ability damage."/>
-    <str id="Healing Wave" value="Heals the target creature and all adjacent creatures."/>
-    <str id="Renewing Touch" value="Places a heal over time effect on the target creature."/>
-    <str id="Turn Undead" value="Causes magic damage or instantly kills the target undead creature."/>
-    <str id="Amplify Magic" value="Places a magical effect on you that amplifies the damage of orb spells."/>
-    <str id="Electric Orb" value="Causes shock damage to the target creature and has a chance of paralysing the target."/>
-    <str id="Enlarge Orb" value="Places a magical effect on you that enlarges the next orb spell cast while the effect lasts."/>
-    <str id="Flaming Orb" value="Causes fire damage to the target creature and has a chance of setting the target on fire."/>
-    <str id="Frozen Orb" value="Causes frost damage to the target creature and has a chance of slowing the target."/>
-    <str id="Illumination" value="Places a magical effect on all creatures within line of sight that increases light and search radius."/>
-    <str id="Mage Armour" value="Places a magical effect on you that increases all resistances (the effect is removed if your equipment changes)."/>
-    <str id="Mirror Image" value="Creates a duplicate of the caster that can distract enemies."/>
-    <str id="Remove Curse" value="Attempts to remove one curse effect from the target creature, location or an item in the caster's inventory."/>
-    <str id="Telekinesis" value="Allows the caster to magically use remote objects such as doors, chests, levers and so on."/>
-    <str id="Banish Daemon" value="Causes magic damage or instantly kills the target daemon."/>
-    <str id="Bestow Curse" value="Attempts to place a random curse effect on the target creature or Curse of Agony if the check fails."/>
-    <str id="Capture Soul" value="Places a magical effect on the target creature that turns its soul to a soul gem upon death."/>
-    <str id="Demonic Visage" value="Places a magical effect on you that forces attackers to take a fear check."/>
-    <str id="Enslave Daemon" value="Attempts to temporarily charm a daemon and make it your friend."/>
-    <str id="Plane Shift" value="Attempts to teleport the caster to another location within line of sight."/>
-    <str id="Release Soul" value="Releases a soul from a random soul gem on the target creature or an item in the caster's inventory."/>
-    <str id="Summon Daemon" value="Attempts to summon a daemon and then attempts to enslave it."/>
-    <str id="Venomous Orb" value="Causes poison damage to the target creature and has a chance of applying a random poison effect."/>
-    <str id="Virulent Orb" value="Causes disease damage to the target creature and has a chance of applying a random disease effect."/>
-    <str id="Divine Shield" value="Creates a shield around the caster that absorbs damage until it breaks."/>
-    <str id="Conjure Daemon" value="Summons a lesser daemon at the target location and enslaves it."/>
-    <str id="Identify Item" value="Identifies the targeted item in the caster's inventory."/>
-    <str id="Enchant Item" value="Enchants the targeted item in the caster's inventory with a random enchant."/>
-    <str id="Elemental Orb" value="Causes fire, frost and shock damage to the target and all adjacent creatures."/>
-    <str id="Clone Creature" value="Creates a clone of the target creature that aids the caster for awhile."/>
-    <str id="Animate Dead" value="Permanently turns a dead human into an undead familiar."/>
-    <str id="Transmute Item" value="Transmutes the targeted item in the caster's inventory into gold coins."/>
-    <str id="Arcane Missile" value="Causes magic damage or instantly kills the target creature."/>
-    <str id="Alter Terrain" value="Increases or decreases the height of terrain on even or odd turns respectively."/>
-    <str id="Hit Modifier: Charisma" value="Hit Modifier: Charisma"/>
-    <str id="Hit Modifier: Stamina" value="Hit Modifier: Stamina"/>
+    <str id="Cure Disease" value="Attempts to remove one disease effect from the target creature." local="尝试移除目标生物身上的一个疫病&#10;效果。"/>
+    <str id="Cure Poison" value="Attempts to remove one poison effect from the target creature." local="尝试移除目标生物身上的一个中毒&#10;效果。"/>
+    <str id="Dispel Magic" value="Attempts to remove one magical effect from the target creature, location or an item in the caster's inventory." local="尝试移除目标生物身上，或特定地&#10;点，施法者物品栏中的物品上的一&#10;个魔法效果。"/>
+    <str id="Divine Grace" value="Increases agility and charisma and physical, poison and disease resistances." local="增加敏捷和魅力属性，增强物理抗&#10;性、毒害抗性和疾病抗性。"/>
+    <str id="Divine Might" value="Increases strength and stamina and fire, frost and shock resistances." local="增加力量和耐力属性，增强火焰抗&#10;性、冰霜抗性和震击抗性。"/>
+    <str id="Divine Reach" value="Allows you to cast spells at any target within line of sight or halves the spell to-hit range modifier." local="允许你对视线内的任何目标施放法&#10;术，或是将施法命中距离修正减半&#10;。"/>
+    <str id="Healing Touch" value="Heals the target creature and attempts to restore one point of ability damage." local="治疗目标生物并尝试回复一点属性&#10;伤害。"/>
+    <str id="Healing Wave" value="Heals the target creature and all adjacent creatures." local="治疗目标生物及所有和该目标邻接&#10;的生物。"/>
+    <str id="Renewing Touch" value="Places a heal over time effect on the target creature." local="赋予目标生物一个治疗的持续效果&#10;。"/>
+    <str id="Turn Undead" value="Causes magic damage or instantly kills the target undead creature." local="立刻杀死目标不死生物，或对其造&#10;成魔法伤害。"/>
+    <str id="Amplify Magic" value="Places a magical effect on you that amplifies the damage of orb spells." local="赋予你一个持续效果，它可以增强&#10;法术球的伤害。"/>
+    <str id="Electric Orb" value="Causes shock damage to the target creature and has a chance of paralysing the target." local="对目标生物造成震击伤害，有一定&#10;机会使目标麻痹。"/>
+    <str id="Enlarge Orb" value="Places a magical effect on you that enlarges the next orb spell cast while the effect lasts." local="赋予你一个持续效果，在效果结束&#10;前可以让下一个法术球变大。"/>
+    <str id="Flaming Orb" value="Causes fire damage to the target creature and has a chance of setting the target on fire." local="对目标生物造成火焰伤害，有一定&#10;机会使目标燃烧。"/>
+    <str id="Frozen Orb" value="Causes frost damage to the target creature and has a chance of slowing the target." local="对目标生物造成冰霜伤害，有一定&#10;机会使目标迟缓。"/>
+    <str id="Illumination" value="Places a magical effect on all creatures within line of sight that increases light and search radius." local="对视线内所有生物附加一个魔法效&#10;果，增加他们的亮度和搜索范围。"/>
+    <str id="Mage Armour" value="Places a magical effect on you that increases all resistances (the effect is removed if your equipment changes)." local="给你附加一个魔法效果，增强所有&#10;的抗性（这个效果会在变更装备时&#10;移除）。"/>
+    <str id="Mirror Image" value="Creates a duplicate of the caster that can distract enemies." local="复制一个施法者，可使敌人分心。"/>
+    <str id="Remove Curse" value="Attempts to remove one curse effect from the target creature, location or an item in the caster's inventory." local="尝试移除目标生物身上，或特定地&#10;点，施法者物品栏中的物品上的一&#10;个诅咒效果。"/>
+    <str id="Telekinesis" value="Allows the caster to magically use remote objects such as doors, chests, levers and so on." local="允许施法者使用魔法来操纵远程物&#10;体，像门、宝箱、开关等这类东西&#10;。"/>
+    <str id="Banish Daemon" value="Causes magic damage or instantly kills the target daemon." local="立刻杀死目标恶魔，或对其造成魔&#10;法伤害。"/>
+    <str id="Bestow Curse" value="Attempts to place a random curse effect on the target creature or Curse of Agony if the check fails." local="尝试给目标生物施加一个随机的诅&#10;咒效果，或在检定失败时施加痛苦&#10;诅咒。"/>
+    <str id="Capture Soul" value="Places a magical effect on the target creature that turns its soul to a soul gem upon death." local="给目标生物附加一个魔法效果，若&#10;目标生物死亡，该生物的灵魂将被&#10;捕获进一颗晶石中。"/>
+    <str id="Demonic Visage" value="Places a magical effect on you that forces attackers to take a fear check." local="给你施加一个魔法效果，任何试图&#10;攻击你的生物都必须先通过一次恐&#10;惧检定。"/>
+    <str id="Enslave Daemon" value="Attempts to temporarily charm a daemon and make it your friend." local="尝试临时魅惑一个恶魔，使其成为&#10;你的伙伴。"/>
+    <str id="Plane Shift" value="Attempts to teleport the caster to another location within line of sight." local="将施法者立即传送到视野内的另一&#10;个位置。"/>
+    <str id="Release Soul" value="Releases a soul from a random soul gem on the target creature or an item in the caster's inventory." local="将魂晶中的灵魂释放到目标生物或&#10;是施法者物品栏中的物品上。"/>
+    <str id="Summon Daemon" value="Attempts to summon a daemon and then attempts to enslave it." local="尝试召唤一个恶魔并尝试奴役它。"/>
+    <str id="Venomous Orb" value="Causes poison damage to the target creature and has a chance of applying a random poison effect." local="对目标生物造成毒伤害，有一定机&#10;会附加一个随机的毒害效果。"/>
+    <str id="Virulent Orb" value="Causes disease damage to the target creature and has a chance of applying a random disease effect." local="对目标生物造成疾病伤害，有一定&#10;机会附加一个随机的疾病效果。"/>
+    <str id="Divine Shield" value="Creates a shield around the caster that absorbs damage until it breaks." local="在施法者周围创建出一层护盾，护&#10;盾会吸收伤害直至破碎。"/>
+    <str id="Conjure Daemon" value="Summons a lesser daemon at the target location and enslaves it." local="在目标位置召唤一个小点的恶魔，&#10;并奴役它。"/>
+    <str id="Identify Item" value="Identifies the targeted item in the caster's inventory." local="鉴定施法者物品栏中的指定物品。"/>
+    <str id="Enchant Item" value="Enchants the targeted item in the caster's inventory with a random enchant." local="给施法者物品栏中指定物品进行一&#10;次随机附魔。"/>
+    <str id="Elemental Orb" value="Causes fire, frost and shock damage to the target and all adjacent creatures." local="对目标生物及它的邻接生物造成火&#10;焰、冰霜和震击伤害。"/>
+    <str id="Clone Creature" value="Creates a clone of the target creature that aids the caster for awhile." local="给目标生物制造一个克隆体，它能&#10;协助施法者一小段时间。"/>
+    <str id="Animate Dead" value="Permanently turns a dead human into an undead familiar." local="永久的将一个死去的人类转变为一&#10;个亡灵朋友。"/>
+    <str id="Transmute Item" value="Transmutes the targeted item in the caster's inventory into gold coins." local="将施法者物品栏中的目标物品炼成&#10;金币。"/>
+    <str id="Arcane Missile" value="Causes magic damage or instantly kills the target creature." local="立刻杀死目标生物，或对其造成魔&#10;法伤害。"/>
+    <str id="Alter Terrain" value="Increases or decreases the height of terrain on even or odd turns respectively." local="在偶数回合抬高，在奇数回合降低&#10;地块高度。"/>
+    <str id="Hit Modifier: Charisma" value="Hit Modifier: Charisma" local="命中修正：魅力"/>
+    <str id="Hit Modifier: Stamina" value="Hit Modifier: Stamina" local="命中修正：耐力"/>
   </SpellDescs>
   <SpellLogs>
     <str id="You gain clearcasting and cast the spell for free." value="You gain clearcasting and cast the spell for free."/>
