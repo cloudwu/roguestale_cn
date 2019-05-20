@@ -1216,93 +1216,93 @@ EnchantEffects."+1 Energy" +1 精力
 EnchantEffects."+2D6 Fire Damage" +2D6 火焰伤害
 EnchantEffects."+2D6 Frost Damage" +2D6 冰霜伤害
 EnchantEffects."+2D6 Shock Damage" +2D6 震击伤害
-EnchantPrefixes."Archer's " Archer's 
-EnchantPrefixes."Priest's " Priest's 
-EnchantPrefixes."Wizard's " Wizard's 
-EnchantPrefixes."Warrior's " Warrior's 
-EnchantPrefixes."Thief's " Thief's 
-EnchantPrefixes."Seducer's " Seducer's 
-EnchantPrefixes."Clown's " Clown's 
-EnchantPrefixes."Bard's " Bard's 
-EnchantPrefixes."Slaver's " Slaver's 
-EnchantPrefixes."Duelist's " Duelist's 
-EnchantPrefixes."Vampire's " Vampire's 
-EnchantPrefixes."Trickster's " Trickster's 
-EnchantPrefixes."Paralytic " Paralytic 
-EnchantPrefixes."Assassin's " Assassin's 
-EnchantPrefixes."Sandman's " Sandman's 
-EnchantPrefixes."Trapper's " Trapper's 
-EnchantPrefixes."Warlock's " Warlock's 
-EnchantPrefixes."Vermin's " Vermin's 
-EnchantPrefixes."Serpent's " Serpent's 
-EnchantPrefixes."Flaming " Flaming 
-EnchantPrefixes."Frozen " Frozen 
-EnchantPrefixes."Electric " Electric 
-EnchantPrefixes."Deadly " Deadly 
-EnchantPrefixes."Demonic " Demonic 
-EnchantPrefixes."Cleric's " Cleric's 
-EnchantPrefixes."Dweller's " Dweller's 
-EnchantPrefixes."Prophet's " Prophet's 
-EnchantPrefixes."Knight's " Knight's 
-EnchantPrefixes."Arcanist's " Arcanist's 
-EnchantPrefixes."Jester's " Jester's 
-EnchantSuffixes." of Agility"  of Agility
-EnchantSuffixes." of Charisma"  of Charisma
-EnchantSuffixes." of Stamina"  of Stamina
-EnchantSuffixes." of Strength"  of Strength
-EnchantSuffixes." of Shade"  of Shade
-EnchantSuffixes." of Command"  of Command
-EnchantSuffixes." of Order"  of Order
-EnchantSuffixes." of Muffler"  of Muffler
-EnchantSuffixes." of Rebound"  of Rebound
-EnchantSuffixes." of Stability"  of Stability
-EnchantSuffixes." of Buffer"  of Buffer
-EnchantSuffixes." of the Form"  of the Form
-EnchantSuffixes." of Activity"  of Activity
-EnchantSuffixes." of Speech"  of Speech
-EnchantSuffixes." of Arousal"  of Arousal
-EnchantSuffixes." of Advance"  of Advance
-EnchantSuffixes." of Mercy"  of Mercy
-EnchantSuffixes." of Remedy"  of Remedy
-EnchantSuffixes." of Foliage"  of Foliage
-EnchantSuffixes." of Dousing"  of Dousing
-EnchantSuffixes." of Thawing"  of Thawing
-EnchantSuffixes." of Grounding"  of Grounding
-EnchantSuffixes." of Spirit"  of Spirit
-EnchantSuffixes." of Willpower"  of Willpower
-EnchantSuffixes." of Vigour"  of Vigour
-EnchantSuffixes." of the Moon"  of the Moon
-EnchantSuffixes." of Faith"  of Faith
-EnchantSuffixes." of Hallwood"  of Hallwood
-EnchantSuffixes." of Healing"  of Healing
-EnchantSuffixes." of Potency"  of Potency
-EnchantSuffixes." of Flash"  of Flash
-EnchantSuffixes." of Pleasing"  of Pleasing
-EnchantSuffixes." of Chaos"  of Chaos
-EnchantSuffixes." of Noise"  of Noise
-EnchantSuffixes." of Draining"  of Draining
-EnchantSuffixes." of Striking"  of Striking
-EnchantSuffixes." of Leeching"  of Leeching
-EnchantSuffixes." of Squealing"  of Squealing
-EnchantSuffixes." of Paralysis"  of Paralysis
-EnchantSuffixes." of Muting"  of Muting
-EnchantSuffixes." of Calming"  of Calming
-EnchantSuffixes." of Impeding"  of Impeding
-EnchantSuffixes." of Malice"  of Malice
-EnchantSuffixes." of Malady"  of Malady
-EnchantSuffixes." of Venom"  of Venom
-EnchantSuffixes." of Burning"  of Burning
-EnchantSuffixes." of Freezing"  of Freezing
-EnchantSuffixes." of Shocking"  of Shocking
-EnchantSuffixes." of Death"  of Death
-EnchantSuffixes." of Panic"  of Panic
-EnchantSuffixes." of Vitality"  of Vitality
-EnchantSuffixes." of the Sun"  of the Sun
-EnchantSuffixes." of Truth"  of Truth
-EnchantSuffixes." of Battle"  of Battle
-EnchantSuffixes." of Sorcery"  of Sorcery
-EnchantSuffixes." of Zeal"  of Zeal
-EnchantSuffixes." of Legends"  of Legends
+EnchantPrefixes."Archer's " 射手之
+EnchantPrefixes."Priest's " 祭祀之
+EnchantPrefixes."Wizard's " 法师之
+EnchantPrefixes."Warrior's " 武士之
+EnchantPrefixes."Thief's " 盗贼之
+EnchantPrefixes."Seducer's " 骗子之
+EnchantPrefixes."Clown's " 小丑之
+EnchantPrefixes."Bard's " 诗人之
+EnchantPrefixes."Slaver's " 奴隶贩子之
+EnchantPrefixes."Duelist's " 斗士之
+EnchantPrefixes."Vampire's " 吸血鬼之
+EnchantPrefixes."Trickster's " 魔术师之
+EnchantPrefixes."Paralytic " 麻痹之 
+EnchantPrefixes."Assassin's " 刺客之
+EnchantPrefixes."Sandman's " 睡魔之
+EnchantPrefixes."Trapper's " 捕兽者之
+EnchantPrefixes."Warlock's " 术士之
+EnchantPrefixes."Vermin's " 寄生虫之
+EnchantPrefixes."Serpent's " 毒蛇之
+EnchantPrefixes."Flaming " 燃烧之
+EnchantPrefixes."Frozen " 冰霜之
+EnchantPrefixes."Electric " 雷电之
+EnchantPrefixes."Deadly " 死亡之
+EnchantPrefixes."Demonic " 恶魔之
+EnchantPrefixes."Cleric's " 牧师之
+EnchantPrefixes."Dweller's " 土著之 
+EnchantPrefixes."Prophet's " 先知之
+EnchantPrefixes."Knight's " 骑士之
+EnchantPrefixes."Arcanist's " 巧匠之
+EnchantPrefixes."Jester's " 弄丞之 
+EnchantSuffixes." of Agility" （敏捷）
+EnchantSuffixes." of Charisma" （魅力）
+EnchantSuffixes." of Stamina" （耐力）
+EnchantSuffixes." of Strength" （力量）
+EnchantSuffixes." of Shade" （阴影）
+EnchantSuffixes." of Command" （命令）
+EnchantSuffixes." of Order" （秩序）
+EnchantSuffixes." of Muffler" （消音）
+EnchantSuffixes." of Rebound" （反弹）
+EnchantSuffixes." of Stability" （稳定）
+EnchantSuffixes." of Buffer" （缓冲）
+EnchantSuffixes." of the Form" （形式）
+EnchantSuffixes." of Activity" （活跃）
+EnchantSuffixes." of Speech" （演说）
+EnchantSuffixes." of Arousal" （觉醒）
+EnchantSuffixes." of Advance" （发展）
+EnchantSuffixes." of Mercy" （仁慈）
+EnchantSuffixes." of Remedy" （治疗）
+EnchantSuffixes." of Foliage" （植物）
+EnchantSuffixes." of Dousing" （熄灭）
+EnchantSuffixes." of Thawing" （融化）
+EnchantSuffixes." of Grounding" （接地）
+EnchantSuffixes." of Spirit" （精神）
+EnchantSuffixes." of Willpower" （意志）
+EnchantSuffixes." of Vigour" （活力）
+EnchantSuffixes." of the Moon" （月亮）
+EnchantSuffixes." of Faith" （信仰）
+EnchantSuffixes." of Hallwood" （神圣）
+EnchantSuffixes." of Healing" （治愈）
+EnchantSuffixes." of Potency" （潜力）
+EnchantSuffixes." of Flash" （闪光）
+EnchantSuffixes." of Pleasing" （愉悦）
+EnchantSuffixes." of Chaos" （混乱）
+EnchantSuffixes." of Noise" （噪声）
+EnchantSuffixes." of Draining" （吸精）
+EnchantSuffixes." of Striking" （冲击）
+EnchantSuffixes." of Leeching" （吸血）
+EnchantSuffixes." of Squealing" （啸声）
+EnchantSuffixes." of Paralysis" （麻痹）
+EnchantSuffixes." of Muting" （静音）
+EnchantSuffixes." of Calming" （镇定）
+EnchantSuffixes." of Impeding" （妨碍）
+EnchantSuffixes." of Malice" （怨恨）
+EnchantSuffixes." of Malady" （腐败）
+EnchantSuffixes." of Venom" （毒液）
+EnchantSuffixes." of Burning" （燃烧）
+EnchantSuffixes." of Freezing" （冰冻）
+EnchantSuffixes." of Shocking" （震击）
+EnchantSuffixes." of Death" （死亡）
+EnchantSuffixes." of Panic" （恐慌）
+EnchantSuffixes." of Vitality" （活力）
+EnchantSuffixes." of the Sun" （太阳）
+EnchantSuffixes." of Truth" （真理）
+EnchantSuffixes." of Battle" （战斗）
+EnchantSuffixes." of Sorcery" （巫术）
+EnchantSuffixes." of Zeal" （热忱）
+EnchantSuffixes." of Legends" （传奇）
 ItemLogs."You see %s here." You see %s here.
 ItemLogs."You see %s." You see %s.
 ItemLogs."%s is no longer blessed." %s is no longer blessed.

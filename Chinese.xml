@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190520)" checksum="324653238d5e3607b0d03fdc8f3aef45e94a3083">
+<strings version="Version 2.00 Beta 1 (190520)" checksum="ff96876db8000d8723141843c582d1082d12f022">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -1335,95 +1335,95 @@
     <str id="+2D6 Shock Damage" value="+2D6 Shock Damage" local="+2D6 震击伤害"/>
   </EnchantEffects>
   <EnchantPrefixes>
-    <str id="Archer's " value="Archer's "/>
-    <str id="Priest's " value="Priest's "/>
-    <str id="Wizard's " value="Wizard's "/>
-    <str id="Warrior's " value="Warrior's "/>
-    <str id="Thief's " value="Thief's "/>
-    <str id="Seducer's " value="Seducer's "/>
-    <str id="Clown's " value="Clown's "/>
-    <str id="Bard's " value="Bard's "/>
-    <str id="Slaver's " value="Slaver's "/>
-    <str id="Duelist's " value="Duelist's "/>
-    <str id="Vampire's " value="Vampire's "/>
-    <str id="Trickster's " value="Trickster's "/>
-    <str id="Paralytic " value="Paralytic "/>
-    <str id="Assassin's " value="Assassin's "/>
-    <str id="Sandman's " value="Sandman's "/>
-    <str id="Trapper's " value="Trapper's "/>
-    <str id="Warlock's " value="Warlock's "/>
-    <str id="Vermin's " value="Vermin's "/>
-    <str id="Serpent's " value="Serpent's "/>
-    <str id="Flaming " value="Flaming "/>
-    <str id="Frozen " value="Frozen "/>
-    <str id="Electric " value="Electric "/>
-    <str id="Deadly " value="Deadly "/>
-    <str id="Demonic " value="Demonic "/>
-    <str id="Cleric's " value="Cleric's "/>
-    <str id="Dweller's " value="Dweller's "/>
-    <str id="Prophet's " value="Prophet's "/>
-    <str id="Knight's " value="Knight's "/>
-    <str id="Arcanist's " value="Arcanist's "/>
-    <str id="Jester's " value="Jester's "/>
+    <str id="Archer's " value="Archer's " local="射手之"/>
+    <str id="Priest's " value="Priest's " local="祭祀之"/>
+    <str id="Wizard's " value="Wizard's " local="法师之"/>
+    <str id="Warrior's " value="Warrior's " local="武士之"/>
+    <str id="Thief's " value="Thief's " local="盗贼之"/>
+    <str id="Seducer's " value="Seducer's " local="骗子之"/>
+    <str id="Clown's " value="Clown's " local="小丑之"/>
+    <str id="Bard's " value="Bard's " local="诗人之"/>
+    <str id="Slaver's " value="Slaver's " local="奴隶贩子之"/>
+    <str id="Duelist's " value="Duelist's " local="斗士之"/>
+    <str id="Vampire's " value="Vampire's " local="吸血鬼之"/>
+    <str id="Trickster's " value="Trickster's " local="魔术师之"/>
+    <str id="Paralytic " value="Paralytic " local="麻痹之 "/>
+    <str id="Assassin's " value="Assassin's " local="刺客之"/>
+    <str id="Sandman's " value="Sandman's " local="睡魔之"/>
+    <str id="Trapper's " value="Trapper's " local="捕兽者之"/>
+    <str id="Warlock's " value="Warlock's " local="术士之"/>
+    <str id="Vermin's " value="Vermin's " local="寄生虫之"/>
+    <str id="Serpent's " value="Serpent's " local="毒蛇之"/>
+    <str id="Flaming " value="Flaming " local="燃烧之"/>
+    <str id="Frozen " value="Frozen " local="冰霜之"/>
+    <str id="Electric " value="Electric " local="雷电之"/>
+    <str id="Deadly " value="Deadly " local="死亡之"/>
+    <str id="Demonic " value="Demonic " local="恶魔之"/>
+    <str id="Cleric's " value="Cleric's " local="牧师之"/>
+    <str id="Dweller's " value="Dweller's " local="土著之 "/>
+    <str id="Prophet's " value="Prophet's " local="先知之"/>
+    <str id="Knight's " value="Knight's " local="骑士之"/>
+    <str id="Arcanist's " value="Arcanist's " local="巧匠之"/>
+    <str id="Jester's " value="Jester's " local="弄丞之 "/>
   </EnchantPrefixes>
   <EnchantSuffixes>
-    <str id=" of Agility" value=" of Agility"/>
-    <str id=" of Charisma" value=" of Charisma"/>
-    <str id=" of Stamina" value=" of Stamina"/>
-    <str id=" of Strength" value=" of Strength"/>
-    <str id=" of Shade" value=" of Shade"/>
-    <str id=" of Command" value=" of Command"/>
-    <str id=" of Order" value=" of Order"/>
-    <str id=" of Muffler" value=" of Muffler"/>
-    <str id=" of Rebound" value=" of Rebound"/>
-    <str id=" of Stability" value=" of Stability"/>
-    <str id=" of Buffer" value=" of Buffer"/>
-    <str id=" of the Form" value=" of the Form"/>
-    <str id=" of Activity" value=" of Activity"/>
-    <str id=" of Speech" value=" of Speech"/>
-    <str id=" of Arousal" value=" of Arousal"/>
-    <str id=" of Advance" value=" of Advance"/>
-    <str id=" of Mercy" value=" of Mercy"/>
-    <str id=" of Remedy" value=" of Remedy"/>
-    <str id=" of Foliage" value=" of Foliage"/>
-    <str id=" of Dousing" value=" of Dousing"/>
-    <str id=" of Thawing" value=" of Thawing"/>
-    <str id=" of Grounding" value=" of Grounding"/>
-    <str id=" of Spirit" value=" of Spirit"/>
-    <str id=" of Willpower" value=" of Willpower"/>
-    <str id=" of Vigour" value=" of Vigour"/>
-    <str id=" of the Moon" value=" of the Moon"/>
-    <str id=" of Faith" value=" of Faith"/>
-    <str id=" of Hallwood" value=" of Hallwood"/>
-    <str id=" of Healing" value=" of Healing"/>
-    <str id=" of Potency" value=" of Potency"/>
-    <str id=" of Flash" value=" of Flash"/>
-    <str id=" of Pleasing" value=" of Pleasing"/>
-    <str id=" of Chaos" value=" of Chaos"/>
-    <str id=" of Noise" value=" of Noise"/>
-    <str id=" of Draining" value=" of Draining"/>
-    <str id=" of Striking" value=" of Striking"/>
-    <str id=" of Leeching" value=" of Leeching"/>
-    <str id=" of Squealing" value=" of Squealing"/>
-    <str id=" of Paralysis" value=" of Paralysis"/>
-    <str id=" of Muting" value=" of Muting"/>
-    <str id=" of Calming" value=" of Calming"/>
-    <str id=" of Impeding" value=" of Impeding"/>
-    <str id=" of Malice" value=" of Malice"/>
-    <str id=" of Malady" value=" of Malady"/>
-    <str id=" of Venom" value=" of Venom"/>
-    <str id=" of Burning" value=" of Burning"/>
-    <str id=" of Freezing" value=" of Freezing"/>
-    <str id=" of Shocking" value=" of Shocking"/>
-    <str id=" of Death" value=" of Death"/>
-    <str id=" of Panic" value=" of Panic"/>
-    <str id=" of Vitality" value=" of Vitality"/>
-    <str id=" of the Sun" value=" of the Sun"/>
-    <str id=" of Truth" value=" of Truth"/>
-    <str id=" of Battle" value=" of Battle"/>
-    <str id=" of Sorcery" value=" of Sorcery"/>
-    <str id=" of Zeal" value=" of Zeal"/>
-    <str id=" of Legends" value=" of Legends"/>
+    <str id=" of Agility" value=" of Agility" local="（敏捷）"/>
+    <str id=" of Charisma" value=" of Charisma" local="（魅力）"/>
+    <str id=" of Stamina" value=" of Stamina" local="（耐力）"/>
+    <str id=" of Strength" value=" of Strength" local="（力量）"/>
+    <str id=" of Shade" value=" of Shade" local="（阴影）"/>
+    <str id=" of Command" value=" of Command" local="（命令）"/>
+    <str id=" of Order" value=" of Order" local="（秩序）"/>
+    <str id=" of Muffler" value=" of Muffler" local="（消音）"/>
+    <str id=" of Rebound" value=" of Rebound" local="（反弹）"/>
+    <str id=" of Stability" value=" of Stability" local="（稳定）"/>
+    <str id=" of Buffer" value=" of Buffer" local="（缓冲）"/>
+    <str id=" of the Form" value=" of the Form" local="（形式）"/>
+    <str id=" of Activity" value=" of Activity" local="（活跃）"/>
+    <str id=" of Speech" value=" of Speech" local="（演说）"/>
+    <str id=" of Arousal" value=" of Arousal" local="（觉醒）"/>
+    <str id=" of Advance" value=" of Advance" local="（发展）"/>
+    <str id=" of Mercy" value=" of Mercy" local="（仁慈）"/>
+    <str id=" of Remedy" value=" of Remedy" local="（治疗）"/>
+    <str id=" of Foliage" value=" of Foliage" local="（植物）"/>
+    <str id=" of Dousing" value=" of Dousing" local="（熄灭）"/>
+    <str id=" of Thawing" value=" of Thawing" local="（融化）"/>
+    <str id=" of Grounding" value=" of Grounding" local="（接地）"/>
+    <str id=" of Spirit" value=" of Spirit" local="（精神）"/>
+    <str id=" of Willpower" value=" of Willpower" local="（意志）"/>
+    <str id=" of Vigour" value=" of Vigour" local="（活力）"/>
+    <str id=" of the Moon" value=" of the Moon" local="（月亮）"/>
+    <str id=" of Faith" value=" of Faith" local="（信仰）"/>
+    <str id=" of Hallwood" value=" of Hallwood" local="（神圣）"/>
+    <str id=" of Healing" value=" of Healing" local="（治愈）"/>
+    <str id=" of Potency" value=" of Potency" local="（潜力）"/>
+    <str id=" of Flash" value=" of Flash" local="（闪光）"/>
+    <str id=" of Pleasing" value=" of Pleasing" local="（愉悦）"/>
+    <str id=" of Chaos" value=" of Chaos" local="（混乱）"/>
+    <str id=" of Noise" value=" of Noise" local="（噪声）"/>
+    <str id=" of Draining" value=" of Draining" local="（吸精）"/>
+    <str id=" of Striking" value=" of Striking" local="（冲击）"/>
+    <str id=" of Leeching" value=" of Leeching" local="（吸血）"/>
+    <str id=" of Squealing" value=" of Squealing" local="（啸声）"/>
+    <str id=" of Paralysis" value=" of Paralysis" local="（麻痹）"/>
+    <str id=" of Muting" value=" of Muting" local="（静音）"/>
+    <str id=" of Calming" value=" of Calming" local="（镇定）"/>
+    <str id=" of Impeding" value=" of Impeding" local="（妨碍）"/>
+    <str id=" of Malice" value=" of Malice" local="（怨恨）"/>
+    <str id=" of Malady" value=" of Malady" local="（腐败）"/>
+    <str id=" of Venom" value=" of Venom" local="（毒液）"/>
+    <str id=" of Burning" value=" of Burning" local="（燃烧）"/>
+    <str id=" of Freezing" value=" of Freezing" local="（冰冻）"/>
+    <str id=" of Shocking" value=" of Shocking" local="（震击）"/>
+    <str id=" of Death" value=" of Death" local="（死亡）"/>
+    <str id=" of Panic" value=" of Panic" local="（恐慌）"/>
+    <str id=" of Vitality" value=" of Vitality" local="（活力）"/>
+    <str id=" of the Sun" value=" of the Sun" local="（太阳）"/>
+    <str id=" of Truth" value=" of Truth" local="（真理）"/>
+    <str id=" of Battle" value=" of Battle" local="（战斗）"/>
+    <str id=" of Sorcery" value=" of Sorcery" local="（巫术）"/>
+    <str id=" of Zeal" value=" of Zeal" local="（热忱）"/>
+    <str id=" of Legends" value=" of Legends" local="（传奇）"/>
   </EnchantSuffixes>
   <ItemLogs>
     <str id="You see %s here." value="You see %s here."/>
