@@ -1,49 +1,49 @@
-<strings version="Version 2.00 Beta 1 (190520)" checksum="e2cd3f6a566036a1e496445811764d0ed1f7f428">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="e0fc0f42fdfc2b3a1cb5e335d1b03b233d7b90cc">
   <Grammar>
-    <str id="a" value="a"/>
-    <str id="an" value="an"/>
-    <str id="the" value="the"/>
-    <str id="you" value="you"/>
-    <str id="your" value="your"/>
-    <str id="A" value="A"/>
-    <str id="An" value="An"/>
-    <str id="The" value="The"/>
-    <str id="You" value="You"/>
-    <str id="Your" value="Your"/>
-    <str id="a pair of" value="a pair of"/>
-    <str id="the pair of" value="the pair of"/>
-    <str id="A pair of" value="A pair of"/>
-    <str id="The pair of" value="The pair of"/>
-    <str id="PRONOUN_he" value="he"/>
-    <str id="PRONOUN_his" value="his"/>
-    <str id="PRONOUN_a_man" value="a man"/>
-    <str id="PRONOUN_him" value="him"/>
-    <str id="PRONOUN_himself" value="himself"/>
-    <str id="PRONOUN_He" value="He"/>
-    <str id="PRONOUN_His" value="His"/>
-    <str id="PRONOUN_A_man" value="A man"/>
-    <str id="PRONOUN_Him" value="Him"/>
-    <str id="PRONOUN_Himself" value="Himself"/>
-    <str id="PRONOUN_she" value="she"/>
-    <str id="PRONOUN_hers" value="her"/>
-    <str id="PRONOUN_a_woman" value="a woman"/>
-    <str id="PRONOUN_her" value="her"/>
-    <str id="PRONOUN_herself" value="herself"/>
-    <str id="PRONOUN_She" value="She"/>
-    <str id="PRONOUN_Hers" value="Her"/>
-    <str id="PRONOUN_A_woman" value="A woman"/>
-    <str id="PRONOUN_Her" value="Her"/>
-    <str id="PRONOUN_Herself" value="Herself"/>
-    <str id="PRONOUN_it_sub" value="it"/>
-    <str id="PRONOUN_its" value="its"/>
-    <str id="PRONOUN_a_creature" value="a creature"/>
-    <str id="PRONOUN_it_obj" value="it"/>
-    <str id="PRONOUN_itself" value="itself"/>
-    <str id="PRONOUN_It_sub" value="It"/>
-    <str id="PRONOUN_Its" value="Its"/>
-    <str id="PRONOUN_A_creature" value="A creature"/>
-    <str id="PRONOUN_It_obj" value="It"/>
-    <str id="PRONOUN_Itself" value="Itself"/>
+    <str id="a" value="a" local=""/>
+    <str id="an" value="an" local=""/>
+    <str id="the" value="the" local="这个"/>
+    <str id="you" value="you" local="你"/>
+    <str id="your" value="your" local="你的"/>
+    <str id="A" value="A" local=""/>
+    <str id="An" value="An" local=""/>
+    <str id="The" value="The" local="这个"/>
+    <str id="You" value="You" local="你"/>
+    <str id="Your" value="Your" local="你的"/>
+    <str id="a pair of" value="a pair of" local="一对"/>
+    <str id="the pair of" value="the pair of" local="这对"/>
+    <str id="A pair of" value="A pair of" local="一对"/>
+    <str id="The pair of" value="The pair of" local="这对"/>
+    <str id="PRONOUN_he" value="he" local="他"/>
+    <str id="PRONOUN_his" value="his" local="他的"/>
+    <str id="PRONOUN_a_man" value="a man" local="一个男人"/>
+    <str id="PRONOUN_him" value="him" local="他"/>
+    <str id="PRONOUN_himself" value="himself" local="他自己"/>
+    <str id="PRONOUN_He" value="He" local="他"/>
+    <str id="PRONOUN_His" value="His" local="他的"/>
+    <str id="PRONOUN_A_man" value="A man" local="一个男人"/>
+    <str id="PRONOUN_Him" value="Him" local="他"/>
+    <str id="PRONOUN_Himself" value="Himself" local="他自己"/>
+    <str id="PRONOUN_she" value="she" local="她"/>
+    <str id="PRONOUN_hers" value="her" local="她的"/>
+    <str id="PRONOUN_a_woman" value="a woman" local="一个女人"/>
+    <str id="PRONOUN_her" value="her" local="她"/>
+    <str id="PRONOUN_herself" value="herself" local="她自己"/>
+    <str id="PRONOUN_She" value="She" local="她"/>
+    <str id="PRONOUN_Hers" value="Her" local="她的"/>
+    <str id="PRONOUN_A_woman" value="A woman" local="一个女人"/>
+    <str id="PRONOUN_Her" value="Her" local="她"/>
+    <str id="PRONOUN_Herself" value="Herself" local="她自己"/>
+    <str id="PRONOUN_it_sub" value="it" local="它"/>
+    <str id="PRONOUN_its" value="its" local="它的"/>
+    <str id="PRONOUN_a_creature" value="a creature" local="一个生物"/>
+    <str id="PRONOUN_it_obj" value="it" local="它"/>
+    <str id="PRONOUN_itself" value="itself" local="它自己"/>
+    <str id="PRONOUN_It_sub" value="It" local="它"/>
+    <str id="PRONOUN_Its" value="Its" local="它的"/>
+    <str id="PRONOUN_A_creature" value="A creature" local="一个生物"/>
+    <str id="PRONOUN_It_obj" value="It" local="它"/>
+    <str id="PRONOUN_Itself" value="Itself" local="它自己"/>
   </Grammar>
   <Labels>
     <str id="Game server" value="Game server" local="游戏服务器"/>
@@ -176,7 +176,7 @@
     <str id="Gloves" value="Gloves" local="手套"/>
     <str id="Boots" value="Boots" local="靴子"/>
     <str id="STORED MATERIALS:" value="STORED MATERIALS:" local="入库材料："/>
-    <str id="Destroy bound amulet" value="Destroy bound amulet" local="摧毁绑定的护身符"/>
+    <str id="Destroy bound amulet" value="Destroy bound amulet" local="摧毁绑定的护符"/>
     <str id="Destroy bound ring" value="Destroy bound ring" local="摧毁绑定的戒指"/>
     <str id="%dg" value="%dg"/>
     <str id="Donate %dg" value="Donate %dg" local="捐献 %dg"/>
@@ -193,7 +193,7 @@
     </str>
     <str id="ARTISAN_GUILD" value="You have entered the Artisans' Guild and here you can have your items repaired." local="你进入了工匠行会，在这里你可以修&#10;理你的物品。">
       <str id="paragraph 1" value="If you have unique items, you can donate them to the guild with a drag and drop." local="如果你获得了独特物品，可以通过拖&#10;拽进行会捐献它们。"/>
-      <str id="paragraph 2" value="If you have unidentified charms, you can identify them for free by attempting to donate them to the guild." local="如果你有未鉴定的护身符，你可以尝&#10;试将它们捐献给行会来获得免费鉴定&#10;。"/>
+      <str id="paragraph 2" value="If you have unidentified charms, you can identify them for free by attempting to donate them to the guild." local="如果你有未鉴定的护符，你可以尝试&#10;将它们捐献给行会来获得免费鉴定。"/>
       <str id="paragraph 3" value="Note that if you ever need to return some quest item then this is the place to do so." local="注意：如果你需要返还一些任务物品&#10;，这里就是做这事的地方。"/>
     </str>
     <str id="DIVINER_GUILD" value="You have entered the Diviners' Guild and here you can have your items identified." local="你进入了占卜师行会，在这里你可以&#10;鉴定你的物品。"/>
@@ -470,7 +470,7 @@
     <str id="Immune to Knockback" value="Immune to Knockback" local="免疫击退"/>
     <str id="Immune to Polymorph" value="Immune to Polymorph" local="免疫变形"/>
     <str id="Immune to Life Drain" value="Immune to Life Drain" local="免疫吸血"/>
-    <str id="Immune to Energy Drain" value="Immune to Energy Drain" local="免疫吸精"/>
+    <str id="Immune to Energy Drain" value="Immune to Energy Drain" local="免疫噬精"/>
     <str id="Immune to Instant Death" value="Immune to Instant Death" local="免疫即死"/>
     <str id="Immune to Disarm" value="Immune to Disarm" local="免疫缴械"/>
     <str id="Immune to Stun" value="Immune to Stun" local="免疫眩晕"/>
@@ -489,7 +489,7 @@
     <str id="You see a floor." value="You see a floor." local="你看见了一块地板。"/>
     <str id="You see a wall." value="You see a wall." local="你看见了一堵墙。"/>
     <str id="You see an obstacle." value="You see an obstacle." local="你看见了一个障碍物。"/>
-    <str id="You see darkness." value="You see darkness." local="所见之处一片黑暗。"/>
+    <str id="You see darkness." value="You see darkness." local="所望之处一片黑暗。"/>
     <str id="STR: %s - AGI: %s - STA: %s - CHA: %s - PhR: %s - Level: %s" value="STR: %s - AGI: %s - STA: %s - CHA: %s - PhR: %s - Level: %s" local="力量：%s - 敏捷：%s - 耐力：%s - 魅力：%s - 物防：%s - 等级：%s"/>
   </LookLogs>
   <FocusLogs>
@@ -1241,36 +1241,36 @@
     <str id="The floor crumbles and reveals a chasm." value="The floor crumbles and reveals a chasm."/>
   </SpellLogs>
   <EnchantNames>
-    <str id="Mark of Agility" value="Mark of Agility"/>
-    <str id="Mark of Charisma" value="Mark of Charisma"/>
-    <str id="Mark of Stamina" value="Mark of Stamina"/>
-    <str id="Mark of Strength" value="Mark of Strength"/>
-    <str id="Seal of Blinding" value="Seal of Blinding"/>
-    <str id="Seal of Charming" value="Seal of Charming"/>
-    <str id="Seal of Confusion" value="Seal of Confusion"/>
-    <str id="Seal of Deafening" value="Seal of Deafening"/>
-    <str id="Seal of Draining" value="Seal of Draining"/>
-    <str id="Seal of Knocking" value="Seal of Knocking"/>
-    <str id="Seal of Leeching" value="Seal of Leeching"/>
-    <str id="Seal of Morphing" value="Seal of Morphing"/>
-    <str id="Seal of Paralysis" value="Seal of Paralysis"/>
-    <str id="Seal of Silencing" value="Seal of Silencing"/>
-    <str id="Seal of Sleeping" value="Seal of Sleeping"/>
-    <str id="Seal of Slowing" value="Seal of Slowing"/>
-    <str id="Sigil of Curse" value="Sigil of Curse"/>
-    <str id="Sigil of Disease" value="Sigil of Disease"/>
-    <str id="Sigil of Poison" value="Sigil of Poison"/>
-    <str id="Sign of Fire" value="Sign of Fire"/>
-    <str id="Sign of Frost" value="Sign of Frost"/>
-    <str id="Sign of Shock" value="Sign of Shock"/>
-    <str id="Symbol of Death" value="Symbol of Death"/>
-    <str id="Symbol of Fear" value="Symbol of Fear"/>
-    <str id="Symbol of Life" value="Symbol of Life"/>
-    <str id="Symbol of Light" value="Symbol of Light"/>
-    <str id="Symbol of Luck" value="Symbol of Luck"/>
-    <str id="Symbol of Might" value="Symbol of Might"/>
-    <str id="Symbol of Power" value="Symbol of Power"/>
-    <str id="Symbol of Vigor" value="Symbol of Vigor"/>
+    <str id="Mark of Agility" value="Mark of Agility" local="敏捷印记"/>
+    <str id="Mark of Charisma" value="Mark of Charisma" local="魅力印记"/>
+    <str id="Mark of Stamina" value="Mark of Stamina" local="耐力印记"/>
+    <str id="Mark of Strength" value="Mark of Strength" local="力量印记"/>
+    <str id="Seal of Blinding" value="Seal of Blinding" local="盲眼密印"/>
+    <str id="Seal of Charming" value="Seal of Charming" local="魅惑密印"/>
+    <str id="Seal of Confusion" value="Seal of Confusion" local="混乱密印"/>
+    <str id="Seal of Deafening" value="Seal of Deafening" local="聋耳密印"/>
+    <str id="Seal of Draining" value="Seal of Draining" local="噬精密印"/>
+    <str id="Seal of Knocking" value="Seal of Knocking" local="击退密印"/>
+    <str id="Seal of Leeching" value="Seal of Leeching" local="吸血密印"/>
+    <str id="Seal of Morphing" value="Seal of Morphing" local="变形密印"/>
+    <str id="Seal of Paralysis" value="Seal of Paralysis" local="麻痹密印"/>
+    <str id="Seal of Silencing" value="Seal of Silencing" local="沉默密印"/>
+    <str id="Seal of Sleeping" value="Seal of Sleeping" local="沉睡密印"/>
+    <str id="Seal of Slowing" value="Seal of Slowing" local="迟缓密印"/>
+    <str id="Sigil of Curse" value="Sigil of Curse" local="诅咒魔符"/>
+    <str id="Sigil of Disease" value="Sigil of Disease" local="疾病魔符"/>
+    <str id="Sigil of Poison" value="Sigil of Poison" local="毒害魔符"/>
+    <str id="Sign of Fire" value="Sign of Fire" local="火焰之符"/>
+    <str id="Sign of Frost" value="Sign of Frost" local="冰霜之符"/>
+    <str id="Sign of Shock" value="Sign of Shock" local="震击之符"/>
+    <str id="Symbol of Death" value="Symbol of Death" local="死亡标记"/>
+    <str id="Symbol of Fear" value="Symbol of Fear" local="恐惧标记"/>
+    <str id="Symbol of Life" value="Symbol of Life" local="生命标记"/>
+    <str id="Symbol of Light" value="Symbol of Light" local="光明标记"/>
+    <str id="Symbol of Luck" value="Symbol of Luck" local="幸运标记"/>
+    <str id="Symbol of Might" value="Symbol of Might" local="威力标记"/>
+    <str id="Symbol of Power" value="Symbol of Power" local="能量标记"/>
+    <str id="Symbol of Vigor" value="Symbol of Vigor" local="活力标记"/>
   </EnchantNames>
   <EnchantEffects>
     <str id="+1 Agility" value="+1 Agility" local="+1 敏捷"/>
@@ -1281,7 +1281,7 @@
     <str id="Immune to Charm" value="Immune to Charm" local="免疫魅惑"/>
     <str id="Immune to Confuse" value="Immune to Confuse" local="免疫混乱"/>
     <str id="Immune to Deafen" value="Immune to Deafen" local="免疫耳聋"/>
-    <str id="Immune to Energy Drain" value="Immune to Energy Drain" local="免疫吸精"/>
+    <str id="Immune to Energy Drain" value="Immune to Energy Drain" local="免疫噬精"/>
     <str id="Immune to Knockback" value="Immune to Knockback" local="免疫击退"/>
     <str id="Immune to Life Drain" value="Immune to Life Drain" local="免疫吸血"/>
     <str id="Immune to Polymorph" value="Immune to Polymorph" local="免疫变形"/>
@@ -1401,7 +1401,7 @@
     <str id=" of Pleasing" value=" of Pleasing" local="（愉悦）"/>
     <str id=" of Chaos" value=" of Chaos" local="（混乱）"/>
     <str id=" of Noise" value=" of Noise" local="（噪声）"/>
-    <str id=" of Draining" value=" of Draining" local="（吸精）"/>
+    <str id=" of Draining" value=" of Draining" local="（噬精）"/>
     <str id=" of Striking" value=" of Striking" local="（冲击）"/>
     <str id=" of Leeching" value=" of Leeching" local="（吸血）"/>
     <str id=" of Squealing" value=" of Squealing" local="（啸声）"/>
@@ -1597,37 +1597,37 @@
     <str id="BootsDesc" value="Boots force the system to attempt a sidestep if a knockback would push you into a chasm or trap."/>
   </AddonDescs>
   <AmuletNames>
-    <str id="Amulet" value="Amulet"/>
-    <str id="Amulet of Abjuration" value="Amulet of Abjuration"/>
-    <str id="Amulet of Asphyxia" value="Amulet of Asphyxia"/>
-    <str id="Amulet of Conjuration" value="Amulet of Conjuration"/>
-    <str id="Amulet of Divination" value="Amulet of Divination"/>
-    <str id="Amulet of Enchantment" value="Amulet of Enchantment"/>
-    <str id="Amulet of Evocation" value="Amulet of Evocation"/>
-    <str id="Amulet of Exhaustion" value="Amulet of Exhaustion"/>
-    <str id="Amulet of Fire Ward" value="Amulet of Fire Ward"/>
-    <str id="Amulet of Free Action" value="Amulet of Free Action"/>
-    <str id="Amulet of Frost Ward" value="Amulet of Frost Ward"/>
-    <str id="Amulet of Ghost Form" value="Amulet of Ghost Form"/>
-    <str id="Amulet of Illusion" value="Amulet of Illusion"/>
-    <str id="Amulet of Necromancy" value="Amulet of Necromancy"/>
-    <str id="Amulet of Nine Lives" value="Amulet of Nine Lives"/>
-    <str id="Amulet of Pestilence" value="Amulet of Pestilence"/>
-    <str id="Amulet of Protection" value="Amulet of Protection"/>
-    <str id="Amulet of Reflection" value="Amulet of Reflection"/>
-    <str id="Amulet of Seven Keys" value="Amulet of Seven Keys"/>
-    <str id="Amulet of Shock Ward" value="Amulet of Shock Ward"/>
-    <str id="Amulet of Stone Form" value="Amulet of Stone Form"/>
-    <str id="Amulet of Transmutation" value="Amulet of Transmutation"/>
-    <str id="Amulet of Yendor" value="Amulet of Yendor"/>
-    <str id="Amulet of Battlemage" value="Amulet of Battlemage"/>
-    <str id="Amulet of Domination" value="Amulet of Domination"/>
-    <str id="Amulet of Geomancy" value="Amulet of Geomancy"/>
-    <str id="Amulet of Radiance" value="Amulet of Radiance"/>
-    <str id="Amulet of Sacrifice" value="Amulet of Sacrifice"/>
-    <str id="Amulet of Submission" value="Amulet of Submission"/>
-    <str id="Amulet of Uberlyft" value="Amulet of Uberlyft"/>
-    <str id="Amulet of Wizardry" value="Amulet of Wizardry"/>
+    <str id="Amulet" value="Amulet" local="护符"/>
+    <str id="Amulet of Abjuration" value="Amulet of Abjuration" local="结界护符"/>
+    <str id="Amulet of Asphyxia" value="Amulet of Asphyxia" local="窒息护符"/>
+    <str id="Amulet of Conjuration" value="Amulet of Conjuration" local="驱魔护符"/>
+    <str id="Amulet of Divination" value="Amulet of Divination" local="占卜护符"/>
+    <str id="Amulet of Enchantment" value="Amulet of Enchantment" local="附魔护符"/>
+    <str id="Amulet of Evocation" value="Amulet of Evocation" local="降灵护符"/>
+    <str id="Amulet of Exhaustion" value="Amulet of Exhaustion" local="枯竭护符"/>
+    <str id="Amulet of Fire Ward" value="Amulet of Fire Ward" local="防火护符"/>
+    <str id="Amulet of Free Action" value="Amulet of Free Action" local="自由护符"/>
+    <str id="Amulet of Frost Ward" value="Amulet of Frost Ward" local="防冰护符"/>
+    <str id="Amulet of Ghost Form" value="Amulet of Ghost Form" local="幽灵护符"/>
+    <str id="Amulet of Illusion" value="Amulet of Illusion" local="幻影护符"/>
+    <str id="Amulet of Necromancy" value="Amulet of Necromancy" local="死灵护符"/>
+    <str id="Amulet of Nine Lives" value="Amulet of Nine Lives" local="九命护符"/>
+    <str id="Amulet of Pestilence" value="Amulet of Pestilence" local="鼠疫护符"/>
+    <str id="Amulet of Protection" value="Amulet of Protection" local="防护护符"/>
+    <str id="Amulet of Reflection" value="Amulet of Reflection" local="反射护符"/>
+    <str id="Amulet of Seven Keys" value="Amulet of Seven Keys" local="密钥护符"/>
+    <str id="Amulet of Shock Ward" value="Amulet of Shock Ward" local="防震护符"/>
+    <str id="Amulet of Stone Form" value="Amulet of Stone Form" local="石化护符"/>
+    <str id="Amulet of Transmutation" value="Amulet of Transmutation" local="点金护符"/>
+    <str id="Amulet of Yendor" value="Amulet of Yendor" local="炎达护符"/>
+    <str id="Amulet of Battlemage" value="Amulet of Battlemage" local="战法护符"/>
+    <str id="Amulet of Domination" value="Amulet of Domination" local="控制护符"/>
+    <str id="Amulet of Geomancy" value="Amulet of Geomancy" local="风水护符"/>
+    <str id="Amulet of Radiance" value="Amulet of Radiance" local="辐射护符"/>
+    <str id="Amulet of Sacrifice" value="Amulet of Sacrifice" local="献祭护符"/>
+    <str id="Amulet of Submission" value="Amulet of Submission" local="投降护符"/>
+    <str id="Amulet of Uberlyft" value="Amulet of Uberlyft" local="优步护符"/>
+    <str id="Amulet of Wizardry" value="Amulet of Wizardry" local="巫术护符"/>
   </AmuletNames>
   <AmuletDescs>
     <str id="AmuletDesc" value="Primarily used by people who have strangulation fantasies, but they do occasionally work for others too."/>
@@ -1743,20 +1743,20 @@
     <str id="White" value="White" local="白色"/>
   </ArmourDescs>
   <ArrowNames>
-    <str id="Stick" value="Stick"/>
-    <str id="Arrow" value="Arrow"/>
-    <str id="Fine Arrow" value="Fine Arrow"/>
-    <str id="Bolt" value="Bolt"/>
-    <str id="Fine Bolt" value="Fine Bolt"/>
-    <str id="Knabstick" value="Knabstick"/>
+    <str id="Stick" value="Stick" local="树棍"/>
+    <str id="Arrow" value="Arrow" local="羽箭"/>
+    <str id="Fine Arrow" value="Fine Arrow" local="精美羽箭"/>
+    <str id="Bolt" value="Bolt" local="箭头"/>
+    <str id="Fine Bolt" value="Fine Bolt" local="精美箭头"/>
+    <str id="Knabstick" value="Knabstick" local="Knab 之箭"/>
   </ArrowNames>
   <ArrowStacks>
-    <str id="Stick" value="Sticks"/>
-    <str id="Arrow" value="Arrows"/>
-    <str id="Fine Arrow" value="Fine Arrows"/>
-    <str id="Bolt" value="Bolts"/>
-    <str id="Fine Bolt" value="Fine Bolts"/>
-    <str id="Knabstick" value="Knabsticks"/>
+    <str id="Stick" value="Sticks" local="一扎树棍"/>
+    <str id="Arrow" value="Arrows" local="一扎羽箭"/>
+    <str id="Fine Arrow" value="Fine Arrows" local="一扎精美羽箭"/>
+    <str id="Bolt" value="Bolts" local="Bolts 一组箭头"/>
+    <str id="Fine Bolt" value="Fine Bolts" local="一组精美箭头"/>
+    <str id="Knabstick" value="Knabsticks" local="一组 Knab 之箭"/>
   </ArrowStacks>
   <ArrowDescs>
     <str id="Stick" value="Even these simple sticks can hurt you if they are propelled by enough force."/>
@@ -1981,37 +1981,37 @@
     <str id="You feel a burning stomach ache and your bowel hurts." value="You feel a burning stomach ache and your bowel hurts."/>
   </FoodLogs>
   <PotionNames>
-    <str id="Potion" value="Potion"/>
-    <str id="Potion of Antidote" value="Potion of Antidote"/>
-    <str id="Potion of Awareness" value="Potion of Awareness"/>
-    <str id="Potion of Blindness" value="Potion of Blindness"/>
-    <str id="Potion of Burning" value="Potion of Burning"/>
-    <str id="Potion of Charming" value="Potion of Charming"/>
-    <str id="Potion of Confusion" value="Potion of Confusion"/>
-    <str id="Potion of Deafness" value="Potion of Deafness"/>
-    <str id="Potion of Death" value="Potion of Death"/>
-    <str id="Potion of Draining" value="Potion of Draining"/>
-    <str id="Potion of Energy" value="Potion of Energy"/>
-    <str id="Potion of Healing" value="Potion of Healing"/>
-    <str id="Potion of Holy Water" value="Potion of Holy Water"/>
-    <str id="Potion of Insight" value="Potion of Insight"/>
-    <str id="Potion of Leeching" value="Potion of Leeching"/>
-    <str id="Potion of Literacy" value="Potion of Literacy"/>
-    <str id="Potion of Paralysis" value="Potion of Paralysis"/>
-    <str id="Potion of Sickness" value="Potion of Sickness"/>
-    <str id="Potion of Silencing" value="Potion of Silencing"/>
-    <str id="Potion of Sleeping" value="Potion of Sleeping"/>
-    <str id="Potion of Slowness" value="Potion of Slowness"/>
-    <str id="Potion of Swiftness" value="Potion of Swiftness"/>
-    <str id="Potion of Troll Blood" value="Potion of Troll Blood"/>
-    <str id="Potion of Willpower" value="Potion of Willpower"/>
-    <str id="Potion of Wolf Form" value="Potion of Wolf Form"/>
-    <str id="Potion of Strength" value="Potion of Strength"/>
-    <str id="Potion of Agility" value="Potion of Agility"/>
-    <str id="Potion of Stamina" value="Potion of Stamina"/>
-    <str id="Potion of Charisma" value="Potion of Charisma"/>
-    <str id="Potion of Clotting" value="Potion of Clotting"/>
-    <str id="Potion of Floating" value="Potion of Floating"/>
+    <str id="Potion" value="Potion" local="药剂"/>
+    <str id="Potion of Antidote" value="Potion of Antidote" local="解毒药剂"/>
+    <str id="Potion of Awareness" value="Potion of Awareness" local="意识药剂"/>
+    <str id="Potion of Blindness" value="Potion of Blindness" local="致盲药剂"/>
+    <str id="Potion of Burning" value="Potion of Burning" local="燃烧药剂"/>
+    <str id="Potion of Charming" value="Potion of Charming" local="魅惑药剂"/>
+    <str id="Potion of Confusion" value="Potion of Confusion" local="混乱药剂"/>
+    <str id="Potion of Deafness" value="Potion of Deafness" local="致聋药剂"/>
+    <str id="Potion of Death" value="Potion of Death" local="剧毒药剂"/>
+    <str id="Potion of Draining" value="Potion of Draining" local="噬精药剂"/>
+    <str id="Potion of Energy" value="Potion of Energy" local="精力药剂"/>
+    <str id="Potion of Healing" value="Potion of Healing" local="治疗药剂"/>
+    <str id="Potion of Holy Water" value="Potion of Holy Water" local="神圣之水"/>
+    <str id="Potion of Insight" value="Potion of Insight" local="洞察药剂"/>
+    <str id="Potion of Leeching" value="Potion of Leeching" local="吸血药剂"/>
+    <str id="Potion of Literacy" value="Potion of Literacy" local="读写药剂"/>
+    <str id="Potion of Paralysis" value="Potion of Paralysis" local="麻痹药剂"/>
+    <str id="Potion of Sickness" value="Potion of Sickness" local="虚弱药剂"/>
+    <str id="Potion of Silencing" value="Potion of Silencing" local="沉默药剂"/>
+    <str id="Potion of Sleeping" value="Potion of Sleeping" local="沉睡药剂"/>
+    <str id="Potion of Slowness" value="Potion of Slowness" local="迟缓药剂"/>
+    <str id="Potion of Swiftness" value="Potion of Swiftness" local="加速药剂"/>
+    <str id="Potion of Troll Blood" value="Potion of Troll Blood" local="巨魔之血"/>
+    <str id="Potion of Willpower" value="Potion of Willpower" local="意志药剂"/>
+    <str id="Potion of Wolf Form" value="Potion of Wolf Form" local="狼型药剂"/>
+    <str id="Potion of Strength" value="Potion of Strength" local="力量药剂"/>
+    <str id="Potion of Agility" value="Potion of Agility" local="敏捷药剂"/>
+    <str id="Potion of Stamina" value="Potion of Stamina" local="耐力药剂"/>
+    <str id="Potion of Charisma" value="Potion of Charisma" local="魅力药剂"/>
+    <str id="Potion of Clotting" value="Potion of Clotting" local="凝血药剂"/>
+    <str id="Potion of Floating" value="Potion of Floating" local="漂浮药剂"/>
   </PotionNames>
   <PotionDescs>
     <str id="PotionDesc" value="Remember that most potions are made by mixing mucus and excrements of some unspecified animal."/>
@@ -2061,38 +2061,38 @@
     <str id="bleed effect" value="bleed effect"/>
   </PotionLogs>
   <RingNames>
-    <str id="Ring" value="Ring"/>
-    <str id="Ring of Ebbin" value="Ring of Ebbin"/>
-    <str id="Ring of Accuracy" value="Ring of Accuracy"/>
-    <str id="Ring of Adornment" value="Ring of Adornment"/>
-    <str id="Ring of Brutality" value="Ring of Brutality"/>
-    <str id="Ring of Clarity" value="Ring of Clarity"/>
-    <str id="Ring of Control" value="Ring of Control"/>
-    <str id="Ring of Deflection" value="Ring of Deflection"/>
-    <str id="Ring of Elements" value="Ring of Elements"/>
-    <str id="Ring of Evasion" value="Ring of Evasion"/>
-    <str id="Ring of Familiar" value="Ring of Familiar"/>
-    <str id="Ring of Fortitude" value="Ring of Fortitude"/>
-    <str id="Ring of Freedom" value="Ring of Freedom"/>
-    <str id="Ring of Grease" value="Ring of Grease"/>
-    <str id="Ring of Haste" value="Ring of Haste"/>
-    <str id="Ring of Hunger" value="Ring of Hunger"/>
-    <str id="Ring of Immunity" value="Ring of Immunity"/>
-    <str id="Ring of Outcasts" value="Ring of Outcasts"/>
-    <str id="Ring of Regeneration" value="Ring of Regeneration"/>
-    <str id="Ring of Resilience" value="Ring of Resilience"/>
-    <str id="Ring of Scholars" value="Ring of Scholars"/>
-    <str id="Ring of Searching" value="Ring of Searching"/>
-    <str id="Ring of Sustenance" value="Ring of Sustenance"/>
-    <str id="Ring of Thirst" value="Ring of Thirst"/>
-    <str id="Ring of Anxiety" value="Ring of Anxiety"/>
-    <str id="Ring of Bloodlust" value="Ring of Bloodlust"/>
-    <str id="Ring of Conversion" value="Ring of Conversion"/>
-    <str id="Ring of Cracking" value="Ring of Cracking"/>
-    <str id="Ring of Noobery" value="Ring of Noobery"/>
-    <str id="Ring of Shadows" value="Ring of Shadows"/>
-    <str id="Ring of Shielding" value="Ring of Shielding"/>
-    <str id="Ring of Underdog" value="Ring of Underdog"/>
+    <str id="Ring" value="Ring" local="戒指"/>
+    <str id="Ring of Ebbin" value="Ring of Ebbin" local="艾宾之戒"/>
+    <str id="Ring of Accuracy" value="Ring of Accuracy" local="精准之戒"/>
+    <str id="Ring of Adornment" value="Ring of Adornment" local="装饰之戒"/>
+    <str id="Ring of Brutality" value="Ring of Brutality" local="凶残之戒"/>
+    <str id="Ring of Clarity" value="Ring of Clarity" local="清澈之戒"/>
+    <str id="Ring of Control" value="Ring of Control" local="控制之戒"/>
+    <str id="Ring of Deflection" value="Ring of Deflection" local="偏斜之戒"/>
+    <str id="Ring of Elements" value="Ring of Elements" local="元素之戒"/>
+    <str id="Ring of Evasion" value="Ring of Evasion" local="闪避之戒"/>
+    <str id="Ring of Familiar" value="Ring of Familiar" local="密友之戒"/>
+    <str id="Ring of Fortitude" value="Ring of Fortitude" local="刚毅之戒"/>
+    <str id="Ring of Freedom" value="Ring of Freedom" local="自由之戒"/>
+    <str id="Ring of Grease" value="Ring of Grease" local="油腻之戒"/>
+    <str id="Ring of Haste" value="Ring of Haste" local="迅捷之戒"/>
+    <str id="Ring of Hunger" value="Ring of Hunger" local="饥饿之戒"/>
+    <str id="Ring of Immunity" value="Ring of Immunity" local="免疫之戒"/>
+    <str id="Ring of Outcasts" value="Ring of Outcasts" local="放逐之戒"/>
+    <str id="Ring of Regeneration" value="Ring of Regeneration" local="再生之戒"/>
+    <str id="Ring of Resilience" value="Ring of Resilience" local="韧性之戒"/>
+    <str id="Ring of Scholars" value="Ring of Scholars" local="博学之戒"/>
+    <str id="Ring of Searching" value="Ring of Searching" local="探索之戒"/>
+    <str id="Ring of Sustenance" value="Ring of Sustenance" local="维生之戒"/>
+    <str id="Ring of Thirst" value="Ring of Thirst" local="饥渴之戒"/>
+    <str id="Ring of Anxiety" value="Ring of Anxiety" local="焦虑之戒"/>
+    <str id="Ring of Bloodlust" value="Ring of Bloodlust" local="杀戮之戒"/>
+    <str id="Ring of Conversion" value="Ring of Conversion" local="兑换之戒"/>
+    <str id="Ring of Cracking" value="Ring of Cracking" local="裂解之戒"/>
+    <str id="Ring of Noobery" value="Ring of Noobery" local="愚笨之戒"/>
+    <str id="Ring of Shadows" value="Ring of Shadows" local="暗影之戒"/>
+    <str id="Ring of Shielding" value="Ring of Shielding" local="护盾之戒"/>
+    <str id="Ring of Underdog" value="Ring of Underdog" local="弱势之戒"/>
   </RingNames>
   <RingDescs>
     <str id="RingDesc" value="In addition to being signs of spousal servitude, some rings can provide incredibly powerful effects."/>
@@ -2272,20 +2272,20 @@
     <str id="You suddenly get a strange deja vu feeling." value="You suddenly get a strange deja vu feeling."/>
   </ScrollLogs>
   <ShieldNames>
-    <str id="Fist" value="Fist"/>
-    <str id="Buckler" value="Buckler"/>
-    <str id="Target" value="Target"/>
-    <str id="Shield" value="Shield"/>
-    <str id="Barrier" value="Barrier"/>
-    <str id="Fine Buckler" value="Fine Buckler"/>
-    <str id="Fine Target" value="Fine Target"/>
-    <str id="Fine Shield" value="Fine Shield"/>
-    <str id="Fine Barrier" value="Fine Barrier"/>
-    <str id="Dawid's Shield" value="Dawid's Shield"/>
+    <str id="Fist" value="Fist" local="拳套"/>
+    <str id="Buckler" value="Buckler" local="小盾"/>
+    <str id="Target" value="Target" local="圆盾"/>
+    <str id="Shield" value="Shield" local="大盾"/>
+    <str id="Barrier" value="Barrier" local="巨盾"/>
+    <str id="Fine Buckler" value="Fine Buckler" local="精美小盾"/>
+    <str id="Fine Target" value="Fine Target" local="精美圆盾"/>
+    <str id="Fine Shield" value="Fine Shield" local="精美大盾"/>
+    <str id="Fine Barrier" value="Fine Barrier" local="精美巨盾"/>
+    <str id="Dawid's Shield" value="Dawid's Shield" local="Dawid 之盾"/>
   </ShieldNames>
   <ShieldDescs>
-    <str id="ShieldDesc" value="It is very difficult to cast Draconic and Infernal spells while wielding a shield."/>
-    <str id="Dawid's Shield" value="This used to belong to Dawid the Paladin before he joined his battle brothers in the afterlife."/>
+    <str id="ShieldDesc" value="It is very difficult to cast Draconic and Infernal spells while wielding a shield." local="在装备了盾牌后，施放龙系和地狱&#10;系法术将变得困难。"/>
+    <str id="Dawid's Shield" value="This used to belong to Dawid the Paladin before he joined his battle brothers in the afterlife." local="这曾是圣骑士 Dawid 生前用过的盾牌。"/>
   </ShieldDescs>
   <TomeNames>
     <str id="Tome" value="Tome"/>

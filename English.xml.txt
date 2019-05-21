@@ -1,47 +1,47 @@
-Grammar."a" a
-Grammar."an" an
-Grammar."the" the
-Grammar."you" you
-Grammar."your" your
-Grammar."A" A
-Grammar."An" An
-Grammar."The" The
-Grammar."You" You
-Grammar."Your" Your
-Grammar."a pair of" a pair of
-Grammar."the pair of" the pair of
-Grammar."A pair of" A pair of
-Grammar."The pair of" The pair of
-Grammar."PRONOUN_he" he
-Grammar."PRONOUN_his" his
-Grammar."PRONOUN_a_man" a man
-Grammar."PRONOUN_him" him
-Grammar."PRONOUN_himself" himself
-Grammar."PRONOUN_He" He
-Grammar."PRONOUN_His" His
-Grammar."PRONOUN_A_man" A man
-Grammar."PRONOUN_Him" Him
-Grammar."PRONOUN_Himself" Himself
-Grammar."PRONOUN_she" she
-Grammar."PRONOUN_hers" her
-Grammar."PRONOUN_a_woman" a woman
-Grammar."PRONOUN_her" her
-Grammar."PRONOUN_herself" herself
-Grammar."PRONOUN_She" She
-Grammar."PRONOUN_Hers" Her
-Grammar."PRONOUN_A_woman" A woman
-Grammar."PRONOUN_Her" Her
-Grammar."PRONOUN_Herself" Herself
-Grammar."PRONOUN_it_sub" it
-Grammar."PRONOUN_its" its
-Grammar."PRONOUN_a_creature" a creature
-Grammar."PRONOUN_it_obj" it
-Grammar."PRONOUN_itself" itself
-Grammar."PRONOUN_It_sub" It
-Grammar."PRONOUN_Its" Its
-Grammar."PRONOUN_A_creature" A creature
-Grammar."PRONOUN_It_obj" It
-Grammar."PRONOUN_Itself" Itself
+Grammar."a" 
+Grammar."an" 
+Grammar."the" 这个
+Grammar."you" 你
+Grammar."your" 你的
+Grammar."A" 
+Grammar."An" 
+Grammar."The" 这个
+Grammar."You" 你
+Grammar."Your" 你的
+Grammar."a pair of" 一对
+Grammar."the pair of" 这对
+Grammar."A pair of" 一对
+Grammar."The pair of" 这对
+Grammar."PRONOUN_he" 他
+Grammar."PRONOUN_his" 他的
+Grammar."PRONOUN_a_man" 一个男人
+Grammar."PRONOUN_him" 他
+Grammar."PRONOUN_himself" 他自己
+Grammar."PRONOUN_He" 他
+Grammar."PRONOUN_His" 他的
+Grammar."PRONOUN_A_man" 一个男人
+Grammar."PRONOUN_Him" 他
+Grammar."PRONOUN_Himself" 他自己
+Grammar."PRONOUN_she" 她
+Grammar."PRONOUN_hers" 她的
+Grammar."PRONOUN_a_woman" 一个女人
+Grammar."PRONOUN_her" 她
+Grammar."PRONOUN_herself" 她自己
+Grammar."PRONOUN_She" 她
+Grammar."PRONOUN_Hers" 她的
+Grammar."PRONOUN_A_woman" 一个女人
+Grammar."PRONOUN_Her" 她
+Grammar."PRONOUN_Herself" 她自己
+Grammar."PRONOUN_it_sub" 它
+Grammar."PRONOUN_its" 它的
+Grammar."PRONOUN_a_creature" 一个生物
+Grammar."PRONOUN_it_obj" 它
+Grammar."PRONOUN_itself" 它自己
+Grammar."PRONOUN_It_sub" 它
+Grammar."PRONOUN_Its" 它的
+Grammar."PRONOUN_A_creature" 一个生物
+Grammar."PRONOUN_It_obj" 它
+Grammar."PRONOUN_Itself" 它自己
 Labels."Game server" 游戏服务器
 Labels."Account name" 账户名
 Labels."Password" 密码
@@ -158,7 +158,7 @@ GUITown."Vambraces" 臂甲
 GUITown."Gloves" 手套
 GUITown."Boots" 靴子
 GUITown."STORED MATERIALS:" 入库材料：
-GUITown."Destroy bound amulet" 摧毁绑定的护身符
+GUITown."Destroy bound amulet" 摧毁绑定的护符
 GUITown."Destroy bound ring" 摧毁绑定的戒指
 GUITown."%dg" %dg
 GUITown."Donate %dg" 捐献 %dg
@@ -171,7 +171,7 @@ GUIDesc."LEOS_WORKSHOP".1 @(32)如果你有制造材料，图纸或金币，你�
 GUIDesc."LEOS_WORKSHOP".2 @(32)注意：仓储材料只可被用于制造（将物品拖进来可以存放它）。
 GUIDesc."ARTISAN_GUILD" @(32)你进入了工匠行会，在这里你可以修理你的物品。
 GUIDesc."ARTISAN_GUILD".1 @(32)如果你获得了独特物品，可以通过拖拽进行会捐献它们。
-GUIDesc."ARTISAN_GUILD".2 @(32)如果你有未鉴定的护身符，你可以尝试将它们捐献给行会来获得免费鉴定。
+GUIDesc."ARTISAN_GUILD".2 @(32)如果你有未鉴定的护符，你可以尝试将它们捐献给行会来获得免费鉴定。
 GUIDesc."ARTISAN_GUILD".3 @(32)注意：如果你需要返还一些任务物品，这里就是做这事的地方。
 GUIDesc."DIVINER_GUILD" @(32)你进入了占卜师行会，在这里你可以鉴定你的物品。
 GUIDesc."WIZARD_GUILD" @(32)你进入了法师行会，在这里你可以对你的物品附魔。
@@ -426,7 +426,7 @@ LootTips."Immune to Slow" 免疫迟缓
 LootTips."Immune to Knockback" 免疫击退
 LootTips."Immune to Polymorph" 免疫变形
 LootTips."Immune to Life Drain" 免疫吸血
-LootTips."Immune to Energy Drain" 免疫吸精
+LootTips."Immune to Energy Drain" 免疫噬精
 LootTips."Immune to Instant Death" 免疫即死
 LootTips."Immune to Disarm" 免疫缴械
 LootTips."Immune to Stun" 免疫眩晕
@@ -443,7 +443,7 @@ LookLogs."You see a water chasm." 你看见了一处水沟。
 LookLogs."You see a floor." 你看见了一块地板。
 LookLogs."You see a wall." 你看见了一堵墙。
 LookLogs."You see an obstacle." 你看见了一个障碍物。
-LookLogs."You see darkness." 所见之处一片黑暗。
+LookLogs."You see darkness." 所望之处一片黑暗。
 LookLogs."STR: %s - AGI: %s - STA: %s - CHA: %s - PhR: %s - Level: %s" 力量：%s - 敏捷：%s - 耐力：%s - 魅力：%s - 物防：%s - 等级：%s
 FocusLogs."You order your friends to spread out." You order your friends to spread out.
 FocusLogs."You order your friends to follow you." You order your friends to follow you.
@@ -1126,36 +1126,36 @@ SpellLogs."The chasm fills up and becomes a floor." The chasm fills up and becom
 SpellLogs."The floor rises up and becomes a wall." The floor rises up and becomes a wall.
 SpellLogs."The wall crumbles and reveals a floor." The wall crumbles and reveals a floor.
 SpellLogs."The floor crumbles and reveals a chasm." The floor crumbles and reveals a chasm.
-EnchantNames."Mark of Agility" Mark of Agility
-EnchantNames."Mark of Charisma" Mark of Charisma
-EnchantNames."Mark of Stamina" Mark of Stamina
-EnchantNames."Mark of Strength" Mark of Strength
-EnchantNames."Seal of Blinding" Seal of Blinding
-EnchantNames."Seal of Charming" Seal of Charming
-EnchantNames."Seal of Confusion" Seal of Confusion
-EnchantNames."Seal of Deafening" Seal of Deafening
-EnchantNames."Seal of Draining" Seal of Draining
-EnchantNames."Seal of Knocking" Seal of Knocking
-EnchantNames."Seal of Leeching" Seal of Leeching
-EnchantNames."Seal of Morphing" Seal of Morphing
-EnchantNames."Seal of Paralysis" Seal of Paralysis
-EnchantNames."Seal of Silencing" Seal of Silencing
-EnchantNames."Seal of Sleeping" Seal of Sleeping
-EnchantNames."Seal of Slowing" Seal of Slowing
-EnchantNames."Sigil of Curse" Sigil of Curse
-EnchantNames."Sigil of Disease" Sigil of Disease
-EnchantNames."Sigil of Poison" Sigil of Poison
-EnchantNames."Sign of Fire" Sign of Fire
-EnchantNames."Sign of Frost" Sign of Frost
-EnchantNames."Sign of Shock" Sign of Shock
-EnchantNames."Symbol of Death" Symbol of Death
-EnchantNames."Symbol of Fear" Symbol of Fear
-EnchantNames."Symbol of Life" Symbol of Life
-EnchantNames."Symbol of Light" Symbol of Light
-EnchantNames."Symbol of Luck" Symbol of Luck
-EnchantNames."Symbol of Might" Symbol of Might
-EnchantNames."Symbol of Power" Symbol of Power
-EnchantNames."Symbol of Vigor" Symbol of Vigor
+EnchantNames."Mark of Agility" 敏捷印记
+EnchantNames."Mark of Charisma" 魅力印记
+EnchantNames."Mark of Stamina" 耐力印记
+EnchantNames."Mark of Strength" 力量印记
+EnchantNames."Seal of Blinding" 盲眼密印
+EnchantNames."Seal of Charming" 魅惑密印
+EnchantNames."Seal of Confusion" 混乱密印
+EnchantNames."Seal of Deafening" 聋耳密印
+EnchantNames."Seal of Draining" 噬精密印
+EnchantNames."Seal of Knocking" 击退密印
+EnchantNames."Seal of Leeching" 吸血密印
+EnchantNames."Seal of Morphing" 变形密印
+EnchantNames."Seal of Paralysis" 麻痹密印
+EnchantNames."Seal of Silencing" 沉默密印
+EnchantNames."Seal of Sleeping" 沉睡密印
+EnchantNames."Seal of Slowing" 迟缓密印
+EnchantNames."Sigil of Curse" 诅咒魔符
+EnchantNames."Sigil of Disease" 疾病魔符
+EnchantNames."Sigil of Poison" 毒害魔符
+EnchantNames."Sign of Fire" 火焰之符
+EnchantNames."Sign of Frost" 冰霜之符
+EnchantNames."Sign of Shock" 震击之符
+EnchantNames."Symbol of Death" 死亡标记
+EnchantNames."Symbol of Fear" 恐惧标记
+EnchantNames."Symbol of Life" 生命标记
+EnchantNames."Symbol of Light" 光明标记
+EnchantNames."Symbol of Luck" 幸运标记
+EnchantNames."Symbol of Might" 威力标记
+EnchantNames."Symbol of Power" 能量标记
+EnchantNames."Symbol of Vigor" 活力标记
 EnchantEffects."+1 Agility" +1 敏捷
 EnchantEffects."+1 Charisma" +1 魅力
 EnchantEffects."+1 Stamina" +1 耐力
@@ -1164,7 +1164,7 @@ EnchantEffects."Immune to Blind" 免疫盲眼
 EnchantEffects."Immune to Charm" 免疫魅惑
 EnchantEffects."Immune to Confuse" 免疫混乱
 EnchantEffects."Immune to Deafen" 免疫耳聋
-EnchantEffects."Immune to Energy Drain" 免疫吸精
+EnchantEffects."Immune to Energy Drain" 免疫噬精
 EnchantEffects."Immune to Knockback" 免疫击退
 EnchantEffects."Immune to Life Drain" 免疫吸血
 EnchantEffects."Immune to Polymorph" 免疫变形
@@ -1280,7 +1280,7 @@ EnchantSuffixes." of Flash" （闪光）
 EnchantSuffixes." of Pleasing" （愉悦）
 EnchantSuffixes." of Chaos" （混乱）
 EnchantSuffixes." of Noise" （噪声）
-EnchantSuffixes." of Draining" （吸精）
+EnchantSuffixes." of Draining" （噬精）
 EnchantSuffixes." of Striking" （冲击）
 EnchantSuffixes." of Leeching" （吸血）
 EnchantSuffixes." of Squealing" （啸声）
@@ -1466,37 +1466,37 @@ AddonDescs."SpauldersDesc" Spaulders increase your base chance to resist a criti
 AddonDescs."VambracesDesc" Vambraces force the system to re-roll the disarm check if you are disarmed by a critical hit.
 AddonDescs."GlovesDesc" Gloves cause your disarmed weapon to be placed in your inventory instead of the ground.
 AddonDescs."BootsDesc" Boots force the system to attempt a sidestep if a knockback would push you into a chasm or trap.
-AmuletNames."Amulet" Amulet
-AmuletNames."Amulet of Abjuration" Amulet of Abjuration
-AmuletNames."Amulet of Asphyxia" Amulet of Asphyxia
-AmuletNames."Amulet of Conjuration" Amulet of Conjuration
-AmuletNames."Amulet of Divination" Amulet of Divination
-AmuletNames."Amulet of Enchantment" Amulet of Enchantment
-AmuletNames."Amulet of Evocation" Amulet of Evocation
-AmuletNames."Amulet of Exhaustion" Amulet of Exhaustion
-AmuletNames."Amulet of Fire Ward" Amulet of Fire Ward
-AmuletNames."Amulet of Free Action" Amulet of Free Action
-AmuletNames."Amulet of Frost Ward" Amulet of Frost Ward
-AmuletNames."Amulet of Ghost Form" Amulet of Ghost Form
-AmuletNames."Amulet of Illusion" Amulet of Illusion
-AmuletNames."Amulet of Necromancy" Amulet of Necromancy
-AmuletNames."Amulet of Nine Lives" Amulet of Nine Lives
-AmuletNames."Amulet of Pestilence" Amulet of Pestilence
-AmuletNames."Amulet of Protection" Amulet of Protection
-AmuletNames."Amulet of Reflection" Amulet of Reflection
-AmuletNames."Amulet of Seven Keys" Amulet of Seven Keys
-AmuletNames."Amulet of Shock Ward" Amulet of Shock Ward
-AmuletNames."Amulet of Stone Form" Amulet of Stone Form
-AmuletNames."Amulet of Transmutation" Amulet of Transmutation
-AmuletNames."Amulet of Yendor" Amulet of Yendor
-AmuletNames."Amulet of Battlemage" Amulet of Battlemage
-AmuletNames."Amulet of Domination" Amulet of Domination
-AmuletNames."Amulet of Geomancy" Amulet of Geomancy
-AmuletNames."Amulet of Radiance" Amulet of Radiance
-AmuletNames."Amulet of Sacrifice" Amulet of Sacrifice
-AmuletNames."Amulet of Submission" Amulet of Submission
-AmuletNames."Amulet of Uberlyft" Amulet of Uberlyft
-AmuletNames."Amulet of Wizardry" Amulet of Wizardry
+AmuletNames."Amulet" 护符
+AmuletNames."Amulet of Abjuration" 结界护符
+AmuletNames."Amulet of Asphyxia" 窒息护符
+AmuletNames."Amulet of Conjuration" 驱魔护符
+AmuletNames."Amulet of Divination" 占卜护符
+AmuletNames."Amulet of Enchantment" 附魔护符
+AmuletNames."Amulet of Evocation" 降灵护符
+AmuletNames."Amulet of Exhaustion" 枯竭护符
+AmuletNames."Amulet of Fire Ward" 防火护符
+AmuletNames."Amulet of Free Action" 自由护符
+AmuletNames."Amulet of Frost Ward" 防冰护符
+AmuletNames."Amulet of Ghost Form" 幽灵护符
+AmuletNames."Amulet of Illusion" 幻影护符
+AmuletNames."Amulet of Necromancy" 死灵护符
+AmuletNames."Amulet of Nine Lives" 九命护符
+AmuletNames."Amulet of Pestilence" 鼠疫护符
+AmuletNames."Amulet of Protection" 防护护符
+AmuletNames."Amulet of Reflection" 反射护符
+AmuletNames."Amulet of Seven Keys" 密钥护符
+AmuletNames."Amulet of Shock Ward" 防震护符
+AmuletNames."Amulet of Stone Form" 石化护符
+AmuletNames."Amulet of Transmutation" 点金护符
+AmuletNames."Amulet of Yendor" 炎达护符
+AmuletNames."Amulet of Battlemage" 战法护符
+AmuletNames."Amulet of Domination" 控制护符
+AmuletNames."Amulet of Geomancy" 风水护符
+AmuletNames."Amulet of Radiance" 辐射护符
+AmuletNames."Amulet of Sacrifice" 献祭护符
+AmuletNames."Amulet of Submission" 投降护符
+AmuletNames."Amulet of Uberlyft" 优步护符
+AmuletNames."Amulet of Wizardry" 巫术护符
 AmuletDescs."AmuletDesc" Primarily used by people who have strangulation fantasies, but they do occasionally work for others too.
 AmuletDescs."Amulet of Abjuration" Teaches a spell that creates a shield around yourself.
 AmuletDescs."Amulet of Asphyxia" Suffocates the wearer over time. This amulet cannot be unequipped.
@@ -1604,18 +1604,18 @@ ArmourDescs."Orange" 橙色
 ArmourDescs."Yellow" 黄色
 ArmourDescs."Pink" 粉色
 ArmourDescs."White" 白色
-ArrowNames."Stick" Stick
-ArrowNames."Arrow" Arrow
-ArrowNames."Fine Arrow" Fine Arrow
-ArrowNames."Bolt" Bolt
-ArrowNames."Fine Bolt" Fine Bolt
-ArrowNames."Knabstick" Knabstick
-ArrowStacks."Stick" Sticks
-ArrowStacks."Arrow" Arrows
-ArrowStacks."Fine Arrow" Fine Arrows
-ArrowStacks."Bolt" Bolts
-ArrowStacks."Fine Bolt" Fine Bolts
-ArrowStacks."Knabstick" Knabsticks
+ArrowNames."Stick" 树棍
+ArrowNames."Arrow" 羽箭
+ArrowNames."Fine Arrow" 精美羽箭
+ArrowNames."Bolt" 箭头
+ArrowNames."Fine Bolt" 精美箭头
+ArrowNames."Knabstick" Knab 之箭
+ArrowStacks."Stick" 一扎树棍
+ArrowStacks."Arrow" 一扎羽箭
+ArrowStacks."Fine Arrow" 一扎精美羽箭
+ArrowStacks."Bolt" Bolts 一组箭头
+ArrowStacks."Fine Bolt" 一组精美箭头
+ArrowStacks."Knabstick" 一组 Knab 之箭
 ArrowDescs."Stick" Even these simple sticks can hurt you if they are propelled by enough force.
 ArrowDescs."Arrow" The bowman's recipe of win: head, shaft and fletching propelled by enough force.
 ArrowDescs."Fine Arrow" The sinister colour on these makes them more powerful than ordinary arrows.
@@ -1818,37 +1818,37 @@ FoodLogs."You drink %s." You drink %s.
 FoodLogs."You pour water on yourself and douse the fire." You pour water on yourself and douse the fire.
 FoodLogs."You pour water on yourself and weaken the fire." You pour water on yourself and weaken the fire.
 FoodLogs."You feel a burning stomach ache and your bowel hurts." You feel a burning stomach ache and your bowel hurts.
-PotionNames."Potion" Potion
-PotionNames."Potion of Antidote" Potion of Antidote
-PotionNames."Potion of Awareness" Potion of Awareness
-PotionNames."Potion of Blindness" Potion of Blindness
-PotionNames."Potion of Burning" Potion of Burning
-PotionNames."Potion of Charming" Potion of Charming
-PotionNames."Potion of Confusion" Potion of Confusion
-PotionNames."Potion of Deafness" Potion of Deafness
-PotionNames."Potion of Death" Potion of Death
-PotionNames."Potion of Draining" Potion of Draining
-PotionNames."Potion of Energy" Potion of Energy
-PotionNames."Potion of Healing" Potion of Healing
-PotionNames."Potion of Holy Water" Potion of Holy Water
-PotionNames."Potion of Insight" Potion of Insight
-PotionNames."Potion of Leeching" Potion of Leeching
-PotionNames."Potion of Literacy" Potion of Literacy
-PotionNames."Potion of Paralysis" Potion of Paralysis
-PotionNames."Potion of Sickness" Potion of Sickness
-PotionNames."Potion of Silencing" Potion of Silencing
-PotionNames."Potion of Sleeping" Potion of Sleeping
-PotionNames."Potion of Slowness" Potion of Slowness
-PotionNames."Potion of Swiftness" Potion of Swiftness
-PotionNames."Potion of Troll Blood" Potion of Troll Blood
-PotionNames."Potion of Willpower" Potion of Willpower
-PotionNames."Potion of Wolf Form" Potion of Wolf Form
-PotionNames."Potion of Strength" Potion of Strength
-PotionNames."Potion of Agility" Potion of Agility
-PotionNames."Potion of Stamina" Potion of Stamina
-PotionNames."Potion of Charisma" Potion of Charisma
-PotionNames."Potion of Clotting" Potion of Clotting
-PotionNames."Potion of Floating" Potion of Floating
+PotionNames."Potion" 药剂
+PotionNames."Potion of Antidote" 解毒药剂
+PotionNames."Potion of Awareness" 意识药剂
+PotionNames."Potion of Blindness" 致盲药剂
+PotionNames."Potion of Burning" 燃烧药剂
+PotionNames."Potion of Charming" 魅惑药剂
+PotionNames."Potion of Confusion" 混乱药剂
+PotionNames."Potion of Deafness" 致聋药剂
+PotionNames."Potion of Death" 剧毒药剂
+PotionNames."Potion of Draining" 噬精药剂
+PotionNames."Potion of Energy" 精力药剂
+PotionNames."Potion of Healing" 治疗药剂
+PotionNames."Potion of Holy Water" 神圣之水
+PotionNames."Potion of Insight" 洞察药剂
+PotionNames."Potion of Leeching" 吸血药剂
+PotionNames."Potion of Literacy" 读写药剂
+PotionNames."Potion of Paralysis" 麻痹药剂
+PotionNames."Potion of Sickness" 虚弱药剂
+PotionNames."Potion of Silencing" 沉默药剂
+PotionNames."Potion of Sleeping" 沉睡药剂
+PotionNames."Potion of Slowness" 迟缓药剂
+PotionNames."Potion of Swiftness" 加速药剂
+PotionNames."Potion of Troll Blood" 巨魔之血
+PotionNames."Potion of Willpower" 意志药剂
+PotionNames."Potion of Wolf Form" 狼型药剂
+PotionNames."Potion of Strength" 力量药剂
+PotionNames."Potion of Agility" 敏捷药剂
+PotionNames."Potion of Stamina" 耐力药剂
+PotionNames."Potion of Charisma" 魅力药剂
+PotionNames."Potion of Clotting" 凝血药剂
+PotionNames."Potion of Floating" 漂浮药剂
 PotionDescs."PotionDesc" Remember that most potions are made by mixing mucus and excrements of some unspecified animal.
 PotionDescs."Potion of Antidote" Contains a mixture that smells and tastes bad enough to cure poisons and diseases.
 PotionDescs."Potion of Awareness" Contains a lovely tonic that causes your pupils to dilate beyond normal range.
@@ -1892,38 +1892,38 @@ PotionLogs."hastened effect" hastened effect
 PotionLogs."regeneration effect" regeneration effect
 PotionLogs."levitation effect" levitation effect
 PotionLogs."bleed effect" bleed effect
-RingNames."Ring" Ring
-RingNames."Ring of Ebbin" Ring of Ebbin
-RingNames."Ring of Accuracy" Ring of Accuracy
-RingNames."Ring of Adornment" Ring of Adornment
-RingNames."Ring of Brutality" Ring of Brutality
-RingNames."Ring of Clarity" Ring of Clarity
-RingNames."Ring of Control" Ring of Control
-RingNames."Ring of Deflection" Ring of Deflection
-RingNames."Ring of Elements" Ring of Elements
-RingNames."Ring of Evasion" Ring of Evasion
-RingNames."Ring of Familiar" Ring of Familiar
-RingNames."Ring of Fortitude" Ring of Fortitude
-RingNames."Ring of Freedom" Ring of Freedom
-RingNames."Ring of Grease" Ring of Grease
-RingNames."Ring of Haste" Ring of Haste
-RingNames."Ring of Hunger" Ring of Hunger
-RingNames."Ring of Immunity" Ring of Immunity
-RingNames."Ring of Outcasts" Ring of Outcasts
-RingNames."Ring of Regeneration" Ring of Regeneration
-RingNames."Ring of Resilience" Ring of Resilience
-RingNames."Ring of Scholars" Ring of Scholars
-RingNames."Ring of Searching" Ring of Searching
-RingNames."Ring of Sustenance" Ring of Sustenance
-RingNames."Ring of Thirst" Ring of Thirst
-RingNames."Ring of Anxiety" Ring of Anxiety
-RingNames."Ring of Bloodlust" Ring of Bloodlust
-RingNames."Ring of Conversion" Ring of Conversion
-RingNames."Ring of Cracking" Ring of Cracking
-RingNames."Ring of Noobery" Ring of Noobery
-RingNames."Ring of Shadows" Ring of Shadows
-RingNames."Ring of Shielding" Ring of Shielding
-RingNames."Ring of Underdog" Ring of Underdog
+RingNames."Ring" 戒指
+RingNames."Ring of Ebbin" 艾宾之戒
+RingNames."Ring of Accuracy" 精准之戒
+RingNames."Ring of Adornment" 装饰之戒
+RingNames."Ring of Brutality" 凶残之戒
+RingNames."Ring of Clarity" 清澈之戒
+RingNames."Ring of Control" 控制之戒
+RingNames."Ring of Deflection" 偏斜之戒
+RingNames."Ring of Elements" 元素之戒
+RingNames."Ring of Evasion" 闪避之戒
+RingNames."Ring of Familiar" 密友之戒
+RingNames."Ring of Fortitude" 刚毅之戒
+RingNames."Ring of Freedom" 自由之戒
+RingNames."Ring of Grease" 油腻之戒
+RingNames."Ring of Haste" 迅捷之戒
+RingNames."Ring of Hunger" 饥饿之戒
+RingNames."Ring of Immunity" 免疫之戒
+RingNames."Ring of Outcasts" 放逐之戒
+RingNames."Ring of Regeneration" 再生之戒
+RingNames."Ring of Resilience" 韧性之戒
+RingNames."Ring of Scholars" 博学之戒
+RingNames."Ring of Searching" 探索之戒
+RingNames."Ring of Sustenance" 维生之戒
+RingNames."Ring of Thirst" 饥渴之戒
+RingNames."Ring of Anxiety" 焦虑之戒
+RingNames."Ring of Bloodlust" 杀戮之戒
+RingNames."Ring of Conversion" 兑换之戒
+RingNames."Ring of Cracking" 裂解之戒
+RingNames."Ring of Noobery" 愚笨之戒
+RingNames."Ring of Shadows" 暗影之戒
+RingNames."Ring of Shielding" 护盾之戒
+RingNames."Ring of Underdog" 弱势之戒
 RingDescs."RingDesc" In addition to being signs of spousal servitude, some rings can provide incredibly powerful effects.
 RingDescs."Ring of Ebbin" Another ring to rule them all. This one is now your precious!
 RingDescs."Ring of Accuracy" Allows the wearer to re-roll misses with ranged and thrown weapons.
@@ -2089,18 +2089,18 @@ ScrollLogs."You teleport to a new location." You teleport to a new location.
 ScrollLogs."You feel death chill in your bones." You feel death chill in your bones.
 ScrollLogs."You suddenly feel as if you've traveled 88 mph." You suddenly feel as if you've traveled 88 mph.
 ScrollLogs."You suddenly get a strange deja vu feeling." You suddenly get a strange deja vu feeling.
-ShieldNames."Fist" Fist
-ShieldNames."Buckler" Buckler
-ShieldNames."Target" Target
-ShieldNames."Shield" Shield
-ShieldNames."Barrier" Barrier
-ShieldNames."Fine Buckler" Fine Buckler
-ShieldNames."Fine Target" Fine Target
-ShieldNames."Fine Shield" Fine Shield
-ShieldNames."Fine Barrier" Fine Barrier
-ShieldNames."Dawid's Shield" Dawid's Shield
-ShieldDescs."ShieldDesc" It is very difficult to cast Draconic and Infernal spells while wielding a shield.
-ShieldDescs."Dawid's Shield" This used to belong to Dawid the Paladin before he joined his battle brothers in the afterlife.
+ShieldNames."Fist" 拳套
+ShieldNames."Buckler" 小盾
+ShieldNames."Target" 圆盾
+ShieldNames."Shield" 大盾
+ShieldNames."Barrier" 巨盾
+ShieldNames."Fine Buckler" 精美小盾
+ShieldNames."Fine Target" 精美圆盾
+ShieldNames."Fine Shield" 精美大盾
+ShieldNames."Fine Barrier" 精美巨盾
+ShieldNames."Dawid's Shield" Dawid 之盾
+ShieldDescs."ShieldDesc" @(30)在装备了盾牌后，施放龙系和地狱系法术将变得困难。
+ShieldDescs."Dawid's Shield" 这曾是圣骑士 Dawid 生前用过的盾牌。
 TomeNames."Tome" Tome
 TomeNames."Tome of Cure Disease" Tome of Cure Disease
 TomeNames."Tome of Cure Poison" Tome of Cure Poison
