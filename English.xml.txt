@@ -795,7 +795,7 @@ EffectNames."Slowed" 迟缓
 EffectNames."Stunned" 眩晕
 EffectNames."Vitalised" 激发
 EffectNames."Revitalised" 复活
-EffectNames."Literate" 开化
+EffectNames."Literate" 启蒙
 EffectNames."Informed" 见识
 EffectNames."Fearless" 无畏
 EffectNames."Bestial" 兽化
@@ -985,10 +985,10 @@ TalentDescs."Shield Bash".1
 TalentDescs."Silent Move" @(30)移动行动让生物在视野中隐秘。在隐秘状态下发动近战攻击将造成双倍伤害，且无法格档、闪避和招架。
 TalentDescs."Silent Move".1 
 TalentDescs."Literacy: Common" @(30)允许生物常规读写，释放记录在魔法卷轴上的法术，释放魔杖的能力。
-TalentDescs."Literacy: Celestial" @(30)允许生物从魔法书中学习天使系法术。天使系法术的最大施法修正无视所穿盔甲，永远为 2 或更高。
+TalentDescs."Literacy: Celestial" @(30)允许生物从魔法典籍中学习天使系法术。天使系法术的最大施法修正无视所穿盔甲，永远为 2 或更高。
 TalentDescs."Literacy: Celestial".1 
-TalentDescs."Literacy: Draconic" @(30)允许生物从魔法书中学习龙系法术。
-TalentDescs."Literacy: Infernal" @(30)允许生物从魔法书中学习地狱系法术。
+TalentDescs."Literacy: Draconic" @(30)允许生物从魔法典籍中学习龙系法术。
+TalentDescs."Literacy: Infernal" @(30)允许生物从魔法典籍中学习地狱系法术。
 TalentDescs."Focused Cast" @(30)允许生物定位任何在视野直线可达区的目标并释放法术。另外，直接伤害或治疗法术都会因对应的属性增益修正获得额外的效果。
 TalentDescs."Focused Cast".1 
 TalentDescs."Silent Cast" @(30)允许生物在沉默状态释放法术，且将施法的距离修正减半向下取整。
@@ -1009,7 +1009,7 @@ TalentDescs."Shapeshift: Wolf".1
 TalentDescs."Shapeshift: Bear" @(30)将生物变为一头熊，把天赋替换为 英勇冲锋，粉碎打击，坚强意志，敏锐目光（根据等级开放）。
 TalentDescs."Shapeshift: Bear".1 
 TalentDescs."Bestial Wrath" @(30)在变形时增加 D3 物理伤害。这个天赋还会被下列遗产增强：
-TalentDescs."Bestial Wrath".1 Bestial Vigour ，Leader of the Pack 。
+TalentDescs."Bestial Wrath".1 兽性大发 ，团队领袖 。
 SpellNames."Cure Disease" 治疗疾病
 SpellNames."Cure Poison" 治疗中毒
 SpellNames."Dispel Magic" 驱散魔法
@@ -1153,8 +1153,8 @@ EnchantNames."Symbol of Fear" 恐惧标记
 EnchantNames."Symbol of Life" 生命标记
 EnchantNames."Symbol of Light" 光明标记
 EnchantNames."Symbol of Luck" 幸运标记
-EnchantNames."Symbol of Might" 威力标记
-EnchantNames."Symbol of Power" 能量标记
+EnchantNames."Symbol of Might" 神力标记
+EnchantNames."Symbol of Power" 威能标记
 EnchantNames."Symbol of Vigor" 活力标记
 EnchantEffects."+1 Agility" +1 敏捷
 EnchantEffects."+1 Charisma" +1 魅力
@@ -1622,37 +1622,37 @@ ArrowDescs."Fine Arrow" The sinister colour on these makes them more powerful th
 ArrowDescs."Bolt" The crossbowman's recipe of win: take a bolt and use more than enough force.
 ArrowDescs."Fine Bolt" The sinister colour on these makes them more powerful than ordinary bolts.
 ArrowDescs."Knabstick" All of the tears shed by knabs makes these arrows lighter than a feather.
-CharmNames."Charm" Charm
-CharmNames."Lucky Number Seven" Lucky Number Seven
-CharmNames."Fluffy Rabbit's Foot" Fluffy Rabbit's Foot
-CharmNames."Fragment of Volcanus" Fragment of Volcanus
-CharmNames."Fragment of Aquarius" Fragment of Aquarius
-CharmNames."Fragment of Aetherus" Fragment of Aetherus
-CharmNames."Fragment of Terranus" Fragment of Terranus
-CharmNames."Eye of the Beholder" Eye of the Beholder
-CharmNames."Crystal Tear of a Maiden" Crystal Tear of a Maiden
-CharmNames."Misplaced Dragon Egg" Misplaced Dragon Egg
-CharmNames."Pulsating Daemon's Heart" Pulsating Daemon's Heart
-CharmNames."Book of Fading Memories" Book of Fading Memories
-CharmNames."Manuscript of Knowledge" Manuscript of Knowledge
-CharmNames."High Capacity Quiver" High Capacity Quiver
-CharmNames."Third Leg of the Imp" Third Leg of the Imp
-CharmNames."Stone of Arcane Power" Stone of Arcane Power
-CharmNames."Star Spangled Cap" Star Spangled Cap
-CharmNames."Glove of Liberalism" Glove of Liberalism
-CharmNames."Wristband of Liberalism" Wristband of Liberalism
-CharmNames."Black Meistercard" Black Meistercard
-CharmNames."Deadly Ghoul Tooth" Deadly Ghoul Tooth
-CharmNames."Mad Torque Slingshot" Mad Torque Slingshot
-CharmNames."Duelist's Wristbow" Duelist's Wristbow
-CharmNames."Uberlyft's Lost Shoe" Uberlyft's Lost Shoe
-CharmNames."Creepy Stone Face" Creepy Stone Face
-CharmNames."Golden Chastity Key" Golden Chastity Key
-CharmNames."Loose Weapon Chain" Loose Weapon Chain
-CharmNames."Time Dilation Device" Time Dilation Device
-CharmNames."Fishing Hook and Line" Fishing Hook and Line
-CharmNames."Fairy Jizzed Bull Horn" Fairy Jizzed Bull Horn
-CharmNames."Engraved Pyramidion" Engraved Pyramidion
+CharmNames."Charm" 饰品
+CharmNames."Lucky Number Seven" 幸运七号
+CharmNames."Fluffy Rabbit's Foot" 毛毛兔的脚
+CharmNames."Fragment of Volcanus" 火山碎片
+CharmNames."Fragment of Aquarius" 宝瓶碎片
+CharmNames."Fragment of Aetherus" 以太碎片
+CharmNames."Fragment of Terranus" 地核碎片
+CharmNames."Eye of the Beholder" 旁观之眼
+CharmNames."Crystal Tear of a Maiden" 圣女之泪
+CharmNames."Misplaced Dragon Egg" 错位龙蛋
+CharmNames."Pulsating Daemon's Heart" 恶魔之心
+CharmNames."Book of Fading Memories" 遗忘之书
+CharmNames."Manuscript of Knowledge" 知识原稿
+CharmNames."High Capacity Quiver" 高容箭囊
+CharmNames."Third Leg of the Imp" 妖精的第三只脚
+CharmNames."Stone of Arcane Power" 奥术之石
+CharmNames."Star Spangled Cap" 闪耀之帽
+CharmNames."Glove of Liberalism" 自由手套
+CharmNames."Wristband of Liberalism" 只有护腕
+CharmNames."Black Meistercard" 黑色卡片
+CharmNames."Deadly Ghoul Tooth" 食尸鬼之牙
+CharmNames."Mad Torque Slingshot" 狂力弹弓
+CharmNames."Duelist's Wristbow" 死士袖箭
+CharmNames."Uberlyft's Lost Shoe" 优步遗失的鞋
+CharmNames."Creepy Stone Face" 恐怖石像
+CharmNames."Golden Chastity Key" 金色贞洁钥匙
+CharmNames."Loose Weapon Chain" 宽松的武器链
+CharmNames."Time Dilation Device" 时间膨胀装置
+CharmNames."Fishing Hook and Line" 钓鱼套件
+CharmNames."Fairy Jizzed Bull Horn" 精灵遗弃的牛角
+CharmNames."Engraved Pyramidion" 雕花金字塔
 CharmDescs."Lucky Number Seven" The house always wins, the sooner you realise that the better.
 CharmDescs."Fluffy Rabbit's Foot" This hare was privileged enough to limp away with the rest of its white limbs.
 CharmDescs."Fragment of Volcanus" If this is just a fragment, you wonder how hot the real thing would be.
@@ -1970,71 +1970,71 @@ RingDescs."BlessedNoobery" Quarters experience gained. This effect does not stac
 RingDescs."BlessedShadows" Hides you in plain sight and blinds the possible attacker when you take damage.
 RingDescs."BlessedShielding" Each point of energy counts as 5 points of health. This effect does not stack.
 RingDescs."BlessedUnderdog" Increases all resistances by up to 8, the lower your health.
-RuneNames."Rune" Rune
-RuneNames."Rune of Agility" Rune of Agility
-RuneNames."Rune of Charisma" Rune of Charisma
-RuneNames."Rune of Stamina" Rune of Stamina
-RuneNames."Rune of Strength" Rune of Strength
-RuneNames."Rune of Blinding" Rune of Blinding
-RuneNames."Rune of Charming" Rune of Charming
-RuneNames."Rune of Confusion" Rune of Confusion
-RuneNames."Rune of Deafening" Rune of Deafening
-RuneNames."Rune of Draining" Rune of Draining
-RuneNames."Rune of Knocking" Rune of Knocking
-RuneNames."Rune of Leeching" Rune of Leeching
-RuneNames."Rune of Morphing" Rune of Morphing
-RuneNames."Rune of Paralysis" Rune of Paralysis
-RuneNames."Rune of Silencing" Rune of Silencing
-RuneNames."Rune of Sleeping" Rune of Sleeping
-RuneNames."Rune of Slowing" Rune of Slowing
-RuneNames."Rune of Curse" Rune of Curse
-RuneNames."Rune of Disease" Rune of Disease
-RuneNames."Rune of Poison" Rune of Poison
-RuneNames."Rune of Fire" Rune of Fire
-RuneNames."Rune of Frost" Rune of Frost
-RuneNames."Rune of Shock" Rune of Shock
-RuneNames."Rune of Death" Rune of Death
-RuneNames."Rune of Fear" Rune of Fear
-RuneNames."Rune of Life" Rune of Life
-RuneNames."Rune of Light" Rune of Light
-RuneNames."Rune of Luck" Rune of Luck
-RuneNames."Rune of Might" Rune of Might
-RuneNames."Rune of Power" Rune of Power
-RuneNames."Rune of Vigor" Rune of Vigor
-RuneNames."Rune of the Imp" Rune of the Imp
+RuneNames."Rune" 符石
+RuneNames."Rune of Agility" 敏捷符石
+RuneNames."Rune of Charisma" 魅力符石
+RuneNames."Rune of Stamina" 耐力符石
+RuneNames."Rune of Strength" 力量符石
+RuneNames."Rune of Blinding" 盲眼符石
+RuneNames."Rune of Charming" 魅惑符石
+RuneNames."Rune of Confusion" 混乱符石
+RuneNames."Rune of Deafening" 聋耳符石
+RuneNames."Rune of Draining" 噬精符石
+RuneNames."Rune of Knocking" 击退符石
+RuneNames."Rune of Leeching" 吸血符石
+RuneNames."Rune of Morphing" 变形符石
+RuneNames."Rune of Paralysis" 麻痹符石
+RuneNames."Rune of Silencing" 沉默符石
+RuneNames."Rune of Sleeping" 沉睡符石
+RuneNames."Rune of Slowing" 迟缓符石
+RuneNames."Rune of Curse" 诅咒符石
+RuneNames."Rune of Disease" 疾病符石
+RuneNames."Rune of Poison" 毒害符石
+RuneNames."Rune of Fire" 火焰符石
+RuneNames."Rune of Frost" 冰霜符石
+RuneNames."Rune of Shock" 震击符石
+RuneNames."Rune of Death" 死亡符石
+RuneNames."Rune of Fear" 恐惧符石
+RuneNames."Rune of Life" 生命符石
+RuneNames."Rune of Light" 光明符石
+RuneNames."Rune of Luck" 幸运符石
+RuneNames."Rune of Might" 神力符石
+RuneNames."Rune of Power" 威能符石
+RuneNames."Rune of Vigor" 活力符石
+RuneNames."Rune of the Imp" 妖精符石
 RuneDescs."RuneDesc" It's such a shame that an entire race had to die for this rune to exist.
 RuneDescs."Rune of the Imp" This rune gives legendary status to a weapon making it unbreakable and allows you to name the weapon.
-ScrollNames."Scroll" Scroll
-ScrollNames."Scroll of Aggravation" Scroll of Aggravation
-ScrollNames."Scroll of Amnesia" Scroll of Amnesia
-ScrollNames."Scroll of Animation" Scroll of Animation
-ScrollNames."Scroll of Banishment" Scroll of Banishment
-ScrollNames."Scroll of Blessing" Scroll of Blessing
-ScrollNames."Scroll of Darkness" Scroll of Darkness
-ScrollNames."Scroll of Detection" Scroll of Detection
-ScrollNames."Scroll of Dislocation" Scroll of Dislocation
-ScrollNames."Scroll of Dispel" Scroll of Dispel
-ScrollNames."Scroll of Enchanting" Scroll of Enchanting
-ScrollNames."Scroll of Identify" Scroll of Identify
-ScrollNames."Scroll of Invisibility" Scroll of Invisibility
-ScrollNames."Scroll of Knowledge" Scroll of Knowledge
-ScrollNames."Scroll of Levitation" Scroll of Levitation
-ScrollNames."Scroll of Light" Scroll of Light
-ScrollNames."Scroll of Polymorph" Scroll of Polymorph
-ScrollNames."Scroll of Recharging" Scroll of Recharging
-ScrollNames."Scroll of Summoning" Scroll of Summoning
-ScrollNames."Scroll of Teleport" Scroll of Teleport
-ScrollNames."Scroll of Turning" Scroll of Turning
-ScrollNames."Scroll of Boomshroom" Scroll of Boomshroom
-ScrollNames."Scroll of Cultivation" Scroll of Cultivation
-ScrollNames."Scroll of Disorder" Scroll of Disorder
-ScrollNames."Scroll of Distraction" Scroll of Distraction
-ScrollNames."Scroll of Entangling" Scroll of Entangling
-ScrollNames."Scroll of First Aid" Scroll of First Aid
-ScrollNames."Scroll of Forestation" Scroll of Forestation
-ScrollNames."Scroll of Gimmiedat" Scroll of Gimmiedat
-ScrollNames."Scroll of Soothing" Scroll of Soothing
-ScrollNames."Scroll of Time Warp" Scroll of Time Warp
+ScrollNames."Scroll" 卷轴
+ScrollNames."Scroll of Aggravation" 激怒卷轴
+ScrollNames."Scroll of Amnesia" 健忘卷轴
+ScrollNames."Scroll of Animation" 复活卷轴
+ScrollNames."Scroll of Banishment" 放逐卷轴
+ScrollNames."Scroll of Blessing" 祝福卷轴
+ScrollNames."Scroll of Darkness" 黑暗卷轴
+ScrollNames."Scroll of Detection" 侦察卷轴
+ScrollNames."Scroll of Dislocation" 移位卷轴
+ScrollNames."Scroll of Dispel" 驱散卷轴
+ScrollNames."Scroll of Enchanting" 附魔卷轴
+ScrollNames."Scroll of Identify" 鉴定卷轴
+ScrollNames."Scroll of Invisibility" 隐形卷轴
+ScrollNames."Scroll of Knowledge" 知识卷轴
+ScrollNames."Scroll of Levitation" 漂浮卷轴
+ScrollNames."Scroll of Light" 光明卷轴
+ScrollNames."Scroll of Polymorph" 变形卷轴
+ScrollNames."Scroll of Recharging" 充能卷轴
+ScrollNames."Scroll of Summoning" 召唤卷轴
+ScrollNames."Scroll of Teleport" 传送卷轴
+ScrollNames."Scroll of Turning" 超度卷轴
+ScrollNames."Scroll of Boomshroom" 爆炸菇卷轴
+ScrollNames."Scroll of Cultivation" 耕种卷轴
+ScrollNames."Scroll of Disorder" 混乱卷轴
+ScrollNames."Scroll of Distraction" 干扰卷轴
+ScrollNames."Scroll of Entangling" 蛛网卷轴
+ScrollNames."Scroll of First Aid" 急救卷轴
+ScrollNames."Scroll of Forestation" 造林卷轴
+ScrollNames."Scroll of Gimmiedat" 空手入白刃卷轴
+ScrollNames."Scroll of Soothing" 抚慰卷轴
+ScrollNames."Scroll of Time Warp" 时空卷轴
 ScrollDescs."ScrollDesc" In addition to being an excellent form of kindling, scrolls can prove out to be very useful in certain situations.
 ScrollDescs."Scroll of Aggravation" Aggravates all creatures in the current level.
 ScrollDescs."Scroll of Amnesia" Causes the caster to forget a random knowledge.
@@ -2101,47 +2101,47 @@ ShieldNames."Fine Barrier" 精美巨盾
 ShieldNames."Dawid's Shield" Dawid 之盾
 ShieldDescs."ShieldDesc" @(30)在装备了盾牌后，施放龙系和地狱系法术将变得困难。
 ShieldDescs."Dawid's Shield" 这曾是圣骑士 Dawid 生前用过的盾牌。
-TomeNames."Tome" Tome
-TomeNames."Tome of Cure Disease" Tome of Cure Disease
-TomeNames."Tome of Cure Poison" Tome of Cure Poison
-TomeNames."Tome of Dispel Magic" Tome of Dispel Magic
-TomeNames."Tome of Divine Grace" Tome of Divine Grace
-TomeNames."Tome of Divine Might" Tome of Divine Might
-TomeNames."Tome of Divine Reach" Tome of Divine Reach
-TomeNames."Tome of Healing Touch" Tome of Healing Touch
-TomeNames."Tome of Healing Wave" Tome of Healing Wave
-TomeNames."Tome of Renewing Touch" Tome of Renewing Touch
-TomeNames."Tome of Turn Undead" Tome of Turn Undead
-TomeNames."Tome of Amplify Magic" Tome of Amplify Magic
-TomeNames."Tome of Electric Orb" Tome of Electric Orb
-TomeNames."Tome of Enlarge Orb" Tome of Enlarge Orb
-TomeNames."Tome of Flaming Orb" Tome of Flaming Orb
-TomeNames."Tome of Frozen Orb" Tome of Frozen Orb
-TomeNames."Tome of Illumination" Tome of Illumination
-TomeNames."Tome of Mage Armour" Tome of Mage Armour
-TomeNames."Tome of Mirror Image" Tome of Mirror Image
-TomeNames."Tome of Remove Curse" Tome of Remove Curse
-TomeNames."Tome of Telekinesis" Tome of Telekinesis
-TomeNames."Tome of Banish Daemon" Tome of Banish Daemon
-TomeNames."Tome of Bestow Curse" Tome of Bestow Curse
-TomeNames."Tome of Capture Soul" Tome of Capture Soul
-TomeNames."Tome of Demonic Visage" Tome of Demonic Visage
-TomeNames."Tome of Enslave Daemon" Tome of Enslave Daemon
-TomeNames."Tome of Plane Shift" Tome of Plane Shift
-TomeNames."Tome of Release Soul" Tome of Release Soul
-TomeNames."Tome of Summon Daemon" Tome of Summon Daemon
-TomeNames."Tome of Venomous Orb" Tome of Venomous Orb
-TomeNames."Tome of Virulent Orb" Tome of Virulent Orb
-TomeNames."Tome of Divine Shield" Tome of Divine Shield
-TomeNames."Tome of Conjure Daemon" Tome of Conjure Daemon
-TomeNames."Tome of Identify Item" Tome of Identify Item
-TomeNames."Tome of Enchant Item" Tome of Enchant Item
-TomeNames."Tome of Elemental Orb" Tome of Elemental Orb
-TomeNames."Tome of Clone Creature" Tome of Clone Creature
-TomeNames."Tome of Animate Dead" Tome of Animate Dead
-TomeNames."Tome of Transmute Item" Tome of Transmute Item
-TomeNames."Tome of Alter Terrain" Tome of Alter Terrain
-TomeNames."Tome of Arcane Missile" Tome of Arcane Missile
+TomeNames."Tome" 典籍
+TomeNames."Tome of Cure Disease" 典籍：治疗疾病
+TomeNames."Tome of Cure Poison" 典籍：治疗中毒
+TomeNames."Tome of Dispel Magic" 典籍：驱散魔法
+TomeNames."Tome of Divine Grace" 典籍：神之恩典
+TomeNames."Tome of Divine Might" 典籍：天赋神力
+TomeNames."Tome of Divine Reach" 典籍：神圣领域
+TomeNames."Tome of Healing Touch" 典籍：治疗之触
+TomeNames."Tome of Healing Wave" 典籍：治疗光波
+TomeNames."Tome of Renewing Touch" 典籍：回复之触
+TomeNames."Tome of Turn Undead" 典籍：超度亡魂
+TomeNames."Tome of Amplify Magic" 典籍：魔法增效
+TomeNames."Tome of Electric Orb" 典籍：电球术
+TomeNames."Tome of Enlarge Orb" 典籍：法术球增大
+TomeNames."Tome of Flaming Orb" 典籍：火球术
+TomeNames."Tome of Frozen Orb" 典籍：冰球术
+TomeNames."Tome of Illumination" 典籍：照明术
+TomeNames."Tome of Mage Armour" 典籍：魔法盔甲
+TomeNames."Tome of Mirror Image" 典籍：镜像术
+TomeNames."Tome of Remove Curse" 典籍：移除诅咒
+TomeNames."Tome of Telekinesis" 典籍：念动力
+TomeNames."Tome of Banish Daemon" 典籍：放逐恶魔
+TomeNames."Tome of Bestow Curse" 典籍：降咒术
+TomeNames."Tome of Capture Soul" 典籍：灵魂捕捉
+TomeNames."Tome of Demonic Visage" 典籍：魔鬼面容
+TomeNames."Tome of Enslave Daemon" 典籍：奴役恶魔
+TomeNames."Tome of Plane Shift" 典籍：位面传送
+TomeNames."Tome of Release Soul" 典籍：释放灵魂
+TomeNames."Tome of Summon Daemon" 典籍：召唤恶魔
+TomeNames."Tome of Venomous Orb" 典籍：毒球术
+TomeNames."Tome of Virulent Orb" 典籍：病球术
+TomeNames."Tome of Divine Shield" 典籍：神圣之盾
+TomeNames."Tome of Conjure Daemon" 典籍：驱逐恶魔
+TomeNames."Tome of Identify Item" 典籍：物品鉴定
+TomeNames."Tome of Enchant Item" 典籍：物品附魔
+TomeNames."Tome of Elemental Orb" 典籍：元素球
+TomeNames."Tome of Clone Creature" 典籍：克隆生物
+TomeNames."Tome of Animate Dead" 典籍：亡灵复生
+TomeNames."Tome of Transmute Item" 典籍：物品炼金
+TomeNames."Tome of Alter Terrain" 典籍：地表变形
+TomeNames."Tome of Arcane Missile" 典籍：奥术飞弹
 TomeDescs."BlessedTomeDesc" You have identified that this tome is blessed and it contains the %s spell.
 TomeDescs."CursedTomeDesc" You have identified that this tome is cursed and it contains the %s spell.
 TomeDescs."IdentifiedTomeDesc" You have identified that this tome contains the %s spell.
@@ -2164,30 +2164,30 @@ TomeLogs."You finish reading the tome and you forget something." You finish read
 TomeLogs."You finish reading the tome and you forget how to walk straight." You finish reading the tome and you forget how to walk straight.
 TomeLogs."You browse through the tome and look for pretty pictures." You browse through the tome and look for pretty pictures.
 TomeLogs."Your %s shimmers brightly before shattering to pieces." Your %s shimmers brightly before shattering to pieces.
-ToolNames."Smoke Bomb" Smoke Bomb
-ToolNames."Bear Trap" Bear Trap
-ToolNames."Magic Trap" Magic Trap
-ToolNames."Tithril Ore" Tithril Ore
-ToolNames."Bearskin" Bearskin
-ToolNames."Flexweave" Flexweave
-ToolNames."Hardwood" Hardwood
-ToolNames."Scrap" Scrap
-ToolNames."Schematic" Schematic
-ToolNames."Crown" Crown
-ToolNames."Dog Collar" Dog Collar
-ToolNames."Soul Gem" Soul Gem
-ToolNames."Black Soul Gem" Black Soul Gem
-ToolNames."Soul Gem of Agony" Soul Gem of Agony
-ToolNames."Soul Gem of Envy" Soul Gem of Envy
-ToolNames."Soul Gem of Gluttony" Soul Gem of Gluttony
-ToolNames."Soul Gem of Greed" Soul Gem of Greed
-ToolNames."Soul Gem of Hunger" Soul Gem of Hunger
-ToolNames."Soul Gem of Lust" Soul Gem of Lust
-ToolNames."Soul Gem of Pride" Soul Gem of Pride
-ToolNames."Soul Gem of Sloth" Soul Gem of Sloth
-ToolNames."Soul Gem of Thirst" Soul Gem of Thirst
-ToolNames."Soul Gem of Wrath" Soul Gem of Wrath
-ToolNames."Equalizer" Equalizer
+ToolNames."Smoke Bomb" 烟雾弹
+ToolNames."Bear Trap" 捕熊夹
+ToolNames."Magic Trap" 魔法陷阱
+ToolNames."Tithril Ore" 钛石矿
+ToolNames."Bearskin" 熊皮
+ToolNames."Flexweave" 蛛丝
+ToolNames."Hardwood" 硬木
+ToolNames."Scrap" 碎片
+ToolNames."Schematic" 图纸
+ToolNames."Crown" 王冠
+ToolNames."Dog Collar" 狗项圈
+ToolNames."Soul Gem" 魂晶
+ToolNames."Black Soul Gem" 黑魂晶
+ToolNames."Soul Gem of Agony" 痛苦魂晶
+ToolNames."Soul Gem of Envy" 嫉妒魂晶
+ToolNames."Soul Gem of Gluttony" 贪食魂晶
+ToolNames."Soul Gem of Greed" 贪婪魂晶
+ToolNames."Soul Gem of Hunger" 饥饿魂晶
+ToolNames."Soul Gem of Lust" 淫欲魂晶
+ToolNames."Soul Gem of Pride" 傲慢魂晶
+ToolNames."Soul Gem of Sloth" 懒惰魂晶
+ToolNames."Soul Gem of Thirst" 干渴魂晶
+ToolNames."Soul Gem of Wrath" 愤怒魂晶
+ToolNames."Equalizer" 均衡器
 ToolDescs."Smoke Bomb" Hides you in plain sight. Prolonged use might cause lung cancer according to the sticker at the bottom.
 ToolDescs."Bear Trap" A trap master can arm this without losing too many fingers.
 ToolDescs."Magic Trap" A trap master can arm this without getting burnt in the process.
@@ -2202,37 +2202,37 @@ ToolDescs."Dog Collar" This collar can be used to safely store Woof while you do
 ToolDescs."Soul Gem" These gems are said to contain the souls of innocent victims but in reality there is no such thing as innocent...
 ToolDescs."Black Soul Gem" These gems are said to contain the souls of innocent victims but this one doesn't seem all that innocent...
 ToolDescs."Equalizer" There's an engraving on the handle saying 'Shall not be infringed'.
-WandNames."Wand" Wand
-WandNames."Wand of Blizzard" Wand of Blizzard
-WandNames."Wand of Burning" Wand of Burning
-WandNames."Wand of Channeling" Wand of Channeling
-WandNames."Wand of Chilling" Wand of Chilling
-WandNames."Wand of Corruption" Wand of Corruption
-WandNames."Wand of Crippling" Wand of Crippling
-WandNames."Wand of Crushing" Wand of Crushing
-WandNames."Wand of Entrapment" Wand of Entrapment
-WandNames."Wand of Excavation" Wand of Excavation
-WandNames."Wand of Freezing" Wand of Freezing
-WandNames."Wand of Infection" Wand of Infection
-WandNames."Wand of Inferno" Wand of Inferno
-WandNames."Wand of Knocking" Wand of Knocking
-WandNames."Wand of Maelstrom" Wand of Maelstrom
-WandNames."Wand of Melting" Wand of Melting
-WandNames."Wand of Pollution" Wand of Pollution
-WandNames."Wand of Shifting" Wand of Shifting
-WandNames."Wand of Shocking" Wand of Shocking
-WandNames."Wand of Tempest" Wand of Tempest
-WandNames."Wand of Wishing" Wand of Wishing
-WandNames."Wand of Wonders" Wand of Wonders
-WandNames."Wand of Zapping" Wand of Zapping
-WandNames."Wand of Baffling" Wand of Baffling
-WandNames."Wand of Bloodletting" Wand of Bloodletting
-WandNames."Wand of Disarming" Wand of Disarming
-WandNames."Wand of Ensnaring" Wand of Ensnaring
-WandNames."Wand of Gobsmacking" Wand of Gobsmacking
-WandNames."Wand of Rituals" Wand of Rituals
-WandNames."Wand of Scripting" Wand of Scripting
-WandNames."Wand of Torture" Wand of Torture
+WandNames."Wand" 魔杖
+WandNames."Wand of Blizzard" 暴雪魔杖
+WandNames."Wand of Burning" 燃烧魔杖
+WandNames."Wand of Channeling" 通导魔杖
+WandNames."Wand of Chilling" 严寒魔杖
+WandNames."Wand of Corruption" 腐败魔杖
+WandNames."Wand of Crippling" 毁灭魔杖
+WandNames."Wand of Crushing" 落石魔杖
+WandNames."Wand of Entrapment" 诱捕魔杖
+WandNames."Wand of Excavation" 挖掘魔杖
+WandNames."Wand of Freezing" 冰冻魔杖
+WandNames."Wand of Infection" 感染魔杖
+WandNames."Wand of Inferno" 怒火魔杖
+WandNames."Wand of Knocking" 击退魔杖
+WandNames."Wand of Maelstrom" 漩涡魔杖
+WandNames."Wand of Melting" 融化魔杖
+WandNames."Wand of Pollution" 污染魔杖
+WandNames."Wand of Shifting" 位移魔杖
+WandNames."Wand of Shocking" 震击魔杖
+WandNames."Wand of Tempest" 风暴魔杖
+WandNames."Wand of Wishing" 许愿魔杖
+WandNames."Wand of Wonders" 奇迹魔杖
+WandNames."Wand of Zapping" 闪光魔杖
+WandNames."Wand of Baffling" 唠叨魔杖
+WandNames."Wand of Bloodletting" 噬血魔杖
+WandNames."Wand of Disarming" 缴械魔杖
+WandNames."Wand of Ensnaring" 陷阱魔杖
+WandNames."Wand of Gobsmacking" 震惊魔杖
+WandNames."Wand of Rituals" 祭奠魔杖
+WandNames."Wand of Scripting" 抄写魔杖
+WandNames."Wand of Torture" 肆虐魔杖
 WandDescs."WandDesc" There appears to be inscription on the wand that is written in some unknown language.
 WandDescs."WandDescLiterate" The inscription on the wand says &quot;Point and click&quot;. Imagine if you would have to learn how to read for this?!?
 WandDescs."Wand of Blizzard" Shoots an amplified and enlarged frozen orb at the target location.
@@ -2283,13 +2283,13 @@ WeaponNames."Fist" 拳套
 WeaponNames."Stone" 石块
 WeaponNames."Barbed Whip" 荆棘之鞭
 WeaponNames."Massive Claw" 巨爪
-WeaponNames."Corrosive Bite" Corrosive Bite
-WeaponNames."Ferocius Bite" Ferocius Bite
-WeaponNames."Infectious Bite" Infectious Bite
-WeaponNames."Vampiric Bite" Vampiric Bite
-WeaponNames."Venomous Bite" Venomous Bite
-WeaponNames."Vicious Bite" Vicious Bite
-WeaponNames."Skittering Bite" Skittering Bite
+WeaponNames."Corrosive Bite" 侵蚀之噬
+WeaponNames."Ferocius Bite" 暴虐之噬
+WeaponNames."Infectious Bite" 瘟疫之噬
+WeaponNames."Vampiric Bite" 吸血之噬
+WeaponNames."Venomous Bite" 毒液之噬
+WeaponNames."Vicious Bite" 恶毒之噬
+WeaponNames."Skittering Bite" 破碎之噬
 WeaponNames."Fire Breath" 火焰之息
 WeaponNames."Frost Breath" 冰霜之息
 WeaponNames."Ghostly Touch" 幽灵之触
@@ -2461,40 +2461,40 @@ LegendaryDescs."Misinvisicast" Miscasting always turns you invisible in addition
 LegendaryDescs."Nightshade" Poisons applied to weapons last forever and count as potent when they are applied.
 LegendaryDescs."Orbus Bomba" Automatically casts Enlarge Orb at the end of your turn if you are not already affected by it.
 LegendaryDescs."Zombie Dog" Woof comes back to life at the start of a new dungeon if he happens to be dead (reset dungeon in town).
-CreatureNames."Invisible creature" Invisible creature
-CreatureNames."the corpse of %s" the corpse of %s
-CreatureNames."a dead %s" a dead %s
-CreatureNames."ghastly skull" ghastly skull
-CreatureNames."pile of bones" pile of bones
-CreatureNames."Beast" Beast
-CreatureNames."Woof" Woof
-CreatureNames."Dire wolf" Dire wolf
-CreatureNames."Dog" Dog
-CreatureNames."Dread bat" Dread bat
-CreatureNames."Giant rat" Giant rat
-CreatureNames."Giant snail" Giant snail
-CreatureNames."Snake" Snake
-CreatureNames."Spider" Spider
-CreatureNames."Whelp" Whelp
-CreatureNames."Dread wolf" Dread wolf
-CreatureNames."Bat swarm" Bat swarm
-CreatureNames."Rat swarm" Rat swarm
-CreatureNames."Snake swarm" Snake swarm
-CreatureNames."Spider swarm" Spider swarm
-CreatureNames."Snail swarm" Snail swarm
-CreatureNames."Boss" Boss
-CreatureNames."Gurmur" Gurmur
+CreatureNames."Invisible creature" 隐形生物
+CreatureNames."the corpse of %s" %s 的尸体
+CreatureNames."a dead %s" 死去的 %s
+CreatureNames."ghastly skull" 可拍的骷髅
+CreatureNames."pile of bones" 骨堆
+CreatureNames."Beast" 野兽
+CreatureNames."Woof" 狼
+CreatureNames."Dire wolf" 凶狼
+CreatureNames."Dog" 狗
+CreatureNames."Dread bat" 蝙蝠
+CreatureNames."Giant rat" 巨鼠
+CreatureNames."Giant snail" 巨蛇
+CreatureNames."Snake" 蛇
+CreatureNames."Spider" 蜘蛛
+CreatureNames."Whelp" 幼龙
+CreatureNames."Dread wolf" 骇狼
+CreatureNames."Bat swarm" 蝙蝠群
+CreatureNames."Rat swarm" 鼠群
+CreatureNames."Snake swarm" 蛇群
+CreatureNames."Spider swarm" 蜘蛛群
+CreatureNames."Snail swarm" 蜗牛群
+CreatureNames."Boss" 首领
+CreatureNames."Gurmur" 咕呣
 CreatureNames."Dreadlord Nabon" 黑暗之主腊崩
-CreatureNames."Triggered Demonrat" Triggered Demonrat
-CreatureNames."Daemon" Daemon
-CreatureNames."Impaler" Impaler
-CreatureNames."Devourer" Devourer
-CreatureNames."Elemental" Elemental
-CreatureNames."Living earth" Living earth
-CreatureNames."Living air" Living air
-CreatureNames."Living fire" Living fire
-CreatureNames."Living water" Living water
-CreatureNames."Human" Human
+CreatureNames."Triggered Demonrat" 触发的恶魔鼠
+CreatureNames."Daemon" 恶魔
+CreatureNames."Impaler" 吸血鬼
+CreatureNames."Devourer" 吞噬者
+CreatureNames."Elemental" 元素怪
+CreatureNames."Living earth" 地元素
+CreatureNames."Living air" 气元素
+CreatureNames."Living fire" 火元素
+CreatureNames."Living water" 水元素
+CreatureNames."Human" 人类
 CreatureNames."Assassin" 刺客
 CreatureNames."Duelist" 斗士
 CreatureNames."Fighter" 战士
@@ -2517,7 +2517,7 @@ CreatureNames."Sorcerer" 男巫
 CreatureNames."Sorceress" 女巫
 CreatureNames."Knight" 骑士
 CreatureNames."Archmage" 大法师
-CreatureNames."Blackhand" Blackhand
+CreatureNames."Blackhand" 黑手
 CreatureNames."Prince Altren" Prince Altren
 CreatureNames."Master Gifin-Gif" Master Gifin-Gif
 CreatureNames."Beartamer Gareth" Beartamer Gareth
@@ -2576,12 +2576,12 @@ CreatureNames."Cruel" Cruel
 CreatureNames."Fair" Fair
 CreatureNames."Gentle" Gentle
 CreatureNames."Haxxor" Haxxor
-CreatureNames."Undead" Undead
-CreatureNames."Undead warrior" Undead warrior
-CreatureNames."Undead archer" Undead archer
-CreatureNames."Undead mage" Undead mage
-CreatureNames."Undead captain" Undead captain
-CreatureNames."Ghost" Ghost
+CreatureNames."Undead" 亡灵
+CreatureNames."Undead warrior" 亡灵战士
+CreatureNames."Undead archer" 亡灵射手
+CreatureNames."Undead mage" 亡灵法师
+CreatureNames."Undead captain" 亡灵队长
+CreatureNames."Ghost" 鬼魂
 CreatureNames."Ghost of Arnold" Ghost of Arnold
 CreatureNames."Ghost of Bruce" Ghost of Bruce
 CreatureNames."Ghost of Dolph" Ghost of Dolph
@@ -2591,7 +2591,7 @@ CreatureNames."Ghost of Lyman" Ghost of Lyman
 CreatureNames."Ghost of Norris" Ghost of Norris
 CreatureNames."Ghost of Randy" Ghost of Randy
 CreatureNames."Ghost of Sylvie" Ghost of Sylvie
-CreatureNames."Immortal" Immortal
+CreatureNames."Immortal" 不朽者
 CreatureLogs."You have gained a friend." You have gained a friend.
 CreatureLogs."You have lost a friend." You have lost a friend.
 CreatureLogs."%s summons %s." %s summons %s.
@@ -2606,54 +2606,54 @@ CreatureLogs."%s pushes you aside as it comes out from the depths." %s pushes yo
 CreatureLogs."%s plunges straight through your body as it comes out from the depths." %s plunges straight through your body as it comes out from the depths.
 CreatureLogs."%s seems somewhat triggered by your deplorable presence." %s seems somewhat triggered by your deplorable presence.
 CreatureLogs."%s yells: %s, come forth and fulfill your oath!" %s yells: %s, come forth and fulfill your oath!
-TileNames."blood pool" blood pool
-TileNames."boulder" boulder
-TileNames."bridge" bridge
-TileNames."magical symbol" magical symbol
-TileNames."door" door
-TileNames."entrance" entrance
-TileNames."stairs" stairs
-TileNames."a ladder" a ladder
-TileNames."gate" gate
-TileNames."grave" grave
-TileNames."lever" lever
-TileNames."pillar" pillar
-TileNames."mushroom patch" mushroom patch
-TileNames."sign" sign
-TileNames."dark pit" dark pit
-TileNames."barrel" barrel
-TileNames."cask" cask
-TileNames."crate" crate
-TileNames."chest" chest
-TileNames."bookcase" bookcase
-TileNames."cupboard" cupboard
-TileNames."table" table
-TileNames."wall torch" wall torch
-TileNames."training dummy" training dummy
-TileNames."archery target" archery target
-TileNames."dark well" dark well
-TileNames."magical altar" magical altar
-TileNames."camp fire" camp fire
-TileNames."spirit totem" spirit totem
-TileNames."bear trap" bear trap
-TileNames."spike trap" spike trap
-TileNames."spider web" spider web
-TileNames."spiked pit" spiked pit
-TileNames."water pit" water pit
-TileNames."magic trap" magic trap
-TileNames."tripwire" tripwire
-TileNames."a broken %s" a broken %s
-TileNames."the broken %s" the broken %s
-TileNames."a wall" a wall
-TileNames."the wall" the wall
-TileNames."a floor" a floor
-TileNames."the floor" the floor
-TileNames."a lava chasm" a lava chasm
-TileNames."the lava chasm" the lava chasm
-TileNames."a water chasm" a water chasm
-TileNames."the water chasm" the water chasm
-TileNames."something icky" something icky
-TileNames."something squishy" something squishy
+TileNames."blood pool" 血池
+TileNames."boulder" 巨石
+TileNames."bridge" 桥
+TileNames."magical symbol" 魔法印记
+TileNames."door" 门
+TileNames."entrance" 入口
+TileNames."stairs" 楼梯
+TileNames."a ladder" 梯子
+TileNames."gate" 大门
+TileNames."grave" 坟墓
+TileNames."lever" 控制杆
+TileNames."pillar" 柱子
+TileNames."mushroom patch" 蘑菇碎片
+TileNames."sign" 记号
+TileNames."dark pit" 暗坑
+TileNames."barrel" 桶
+TileNames."cask" 木桶
+TileNames."crate" 箱子
+TileNames."chest" 柜子
+TileNames."bookcase" 书架
+TileNames."cupboard" 橱柜
+TileNames."table" 桌子
+TileNames."wall torch" 壁火
+TileNames."training dummy" 训练假人
+TileNames."archery target" 射击靶
+TileNames."dark well" 幽暗水井
+TileNames."magical altar" 魔法祭坛
+TileNames."camp fire" 营火
+TileNames."spirit totem" 精灵图腾
+TileNames."bear trap" 捕熊夹
+TileNames."spike trap" 尖刺陷阱
+TileNames."spider web" 蜘蛛网
+TileNames."spiked pit" 尖刺坑
+TileNames."water pit" 水坑
+TileNames."magic trap" 魔法陷阱
+TileNames."tripwire" 绊网
+TileNames."a broken %s" 一个破碎的 %s
+TileNames."the broken %s" 这个破碎的 %s
+TileNames."a wall" 一口井
+TileNames."the wall" 这口井
+TileNames."a floor" 一块地板
+TileNames."the floor" 这块地板
+TileNames."a lava chasm" 一个熔岩峡谷
+TileNames."the lava chasm" 这个熔岩峡谷
+TileNames."a water chasm" 一个深水峡谷
+TileNames."the water chasm" 这个深水峡谷
+TileNames."something icky" 讨厌的东西
+TileNames."something squishy" 黏糊糊的东西
 TileLogs."You see %s." You see %s.
 TileLogs."You see a blank %s." You see a blank %s.
 TileLogs."You see a broken %s." You see a broken %s.
@@ -2915,17 +2915,17 @@ CauseOfDeath."COD_SPELL_DAMAGE_2" %s died of %s damage caused by %s's %s.
 CauseOfDeath."COD_INSTANT_DEATH_1" %s died of an instant death effect caused by %s own %s.
 CauseOfDeath."COD_INSTANT_DEATH_2" %s died of an instant death effect caused by %s's %s.
 CauseOfDeath."COD_TRANSMUTE_FAIL" %s died of too many lost chest hairs caused by failed transmutation.
-DamageTypes."physical" physical
-DamageTypes."fire" fire
-DamageTypes."frost" frost
-DamageTypes."shock" shock
-DamageTypes."poison" poison
-DamageTypes."disease" disease
-DamageTypes."magic" magic
-DamageTypes."elemental" elemental
-DamageTypes."crush" crush
-DamageTypes."fall" fall
-DamageTypes."bleed" bleed
+DamageTypes."physical" 物理
+DamageTypes."fire" 火焰
+DamageTypes."frost" 冰霜
+DamageTypes."shock" 震击
+DamageTypes."poison" 毒害
+DamageTypes."disease" 疾病
+DamageTypes."magic" 魔法
+DamageTypes."elemental" 元素
+DamageTypes."crush" 粉碎
+DamageTypes."fall" 跌落
+DamageTypes."bleed" 流血
 Achievements."You have returned a schematic titled '%s'!" You have returned a schematic titled '%s'!
 Achievements."You have unlocked '%s' heritage!" You have unlocked '%s' heritage!
 Achievements."You have completed '%s' challenge!" You have completed '%s' challenge!
@@ -3041,86 +3041,86 @@ TutorialDescs."Sort Button" @(40)看看这些垃圾…… 我的意思是这些�
 TutorialDescs."Sort Button".1 
 TutorialDescs."Gain Heritage" @(40)呀！你可能获得了通关这个游戏的关键。按一下 F3 查看一下你的遗产奖励……
 TutorialDescs."Press and hold %s to view all tutorial entries." 按住 %s 浏览所有的教学项。
-HeritageNames."Wizard's Staff" Wizard's Staff
-HeritageNames."Bow and Arrows" Bow and Arrows
-HeritageNames."Throwing Knives" Throwing Knives
-HeritageNames."Sword and Buckler" Sword and Buckler
-HeritageNames."Leather Armour Set" Leather Armour Set
-HeritageNames."Potion of Antidote" Potion of Antidote
-HeritageNames."Potion of Healing" Potion of Healing
-HeritageNames."The Seventh Talent" The Seventh Talent
-HeritageNames."The Interface Dog" The Interface Dog
-HeritageNames."The Silver Spoon" The Silver Spoon
-HeritageNames."One Strange Trip" One Strange Trip
-HeritageNames."The Pandamonium" The Pandamonium
-HeritageNames."Arcane Gimmickry" Arcane Gimmickry
-HeritageNames."Lightning Reflexes" Lightning Reflexes
-HeritageNames."Heroes of Hallwood" Heroes of Hallwood
-HeritageNames."Fire Resistant" Fire Resistant
-HeritageNames."Frost Resistant" Frost Resistant
-HeritageNames."Shock Resistant" Shock Resistant
-HeritageNames."Poison Resistant" Poison Resistant
-HeritageNames."Disease Resistant" Disease Resistant
-HeritageNames."Blissful Ignorance" Blissful Ignorance
-HeritageNames."Celestial Mastery" Celestial Mastery
-HeritageNames."Draconic Mastery" Draconic Mastery
-HeritageNames."Infernal Mastery" Infernal Mastery
-HeritageNames."Arcane Mastery" Arcane Mastery
-HeritageNames."Bestial Mastery" Bestial Mastery
-HeritageNames."Abyssal Mastery" Abyssal Mastery
-HeritageNames."Amulet Knowledge" Amulet Knowledge
-HeritageNames."Ring Knowledge" Ring Knowledge
-HeritageNames."Wand Knowledge" Wand Knowledge
-HeritageNames."Scroll Knowledge" Scroll Knowledge
-HeritageNames."Potion Knowledge" Potion Knowledge
-HeritageNames."Enchant Knowledge" Enchant Knowledge
-HeritageNames."Defile This" Defile This
-HeritageNames."Healthy Diet" Healthy Diet
-HeritageNames."Mighty Hulk" Mighty Hulk
-HeritageNames."Loose Weight" Loose Weight
-HeritageNames."The Wanderer" The Wanderer
-HeritageNames."Three Tails" Three Tails
-HeritageNames."The Pink Order" The Pink Order
-HeritageNames."Big Bada Boom" Big Bada Boom
-HeritageNames."Over 9000" Over 9000
-HeritageNames."Gurmur's End" Gurmur's End
-HeritageNames."Canis Woofus" Canis Woofus
-HeritageNames."Familiaripathy" Familiaripathy
-HeritageNames."Traps Are Bad" Traps Are Bad
-HeritageNames."Hardened Skin" Hardened Skin
-HeritageNames."Winter Fur Coat" Winter Fur Coat
-HeritageNames."Arctic Fur Coat" Arctic Fur Coat
-HeritageNames."Ferocious Bite" Ferocious Bite
-HeritageNames."Sharpened Fangs" Sharpened Fangs
-HeritageNames."Rare Breed" Rare Breed
-HeritageNames."Epic Breed" Epic Breed
-HeritageNames."Craftalicious" Craftalicious
-HeritageNames."Swords 'n Stuff" Swords 'n Stuff
-HeritageNames."Just Smashing" Just Smashing
-HeritageNames."Heavy Hitters" Heavy Hitters
-HeritageNames."Flying Tithril" Flying Tithril
-HeritageNames."Complex Tension" Complex Tension
-HeritageNames."Solid Protection" Solid Protection
-HeritageNames."Hardened Skull" Hardened Skull
-HeritageNames."Smart Clothing" Smart Clothing
-HeritageNames."Cry On My Shoulder" Cry On My Shoulder
-HeritageNames."Brace For Impact" Brace For Impact
-HeritageNames."Hairy Handguards" Hairy Handguards
-HeritageNames."Don't Tread On Me" Don't Tread On Me
-HeritageNames."Patron of Arts" Patron of Arts
-HeritageNames."Spiritual Guidance" Spiritual Guidance
-HeritageNames."Bestial Vigour" Bestial Vigour
-HeritageNames."Leader of the Pack" Leader of the Pack
-HeritageNames."That's Grizzly" That's Grizzly
-HeritageNames."Ursus Horribilis" Ursus Horribilis
-HeritageNames."Blood Frenzy" Blood Frenzy
-HeritageNames."Lupine Grace" Lupine Grace
-HeritageNames."Vampiric Bite" Vampiric Bite
-HeritageNames."Face Muncher" Face Muncher
-HeritageNames."Monster Chow" Monster Chow
-HeritageNames."Second Amendment" Second Amendment
-HeritageNames."Rise of Fairies" Rise of Fairies
-HeritageNames."Wester Worshipper" Wester Worshipper
+HeritageNames."Wizard's Staff" 法师之杖
+HeritageNames."Bow and Arrows" 弓箭
+HeritageNames."Throwing Knives" 飞刀
+HeritageNames."Sword and Buckler" 剑盾
+HeritageNames."Leather Armour Set" 皮质护甲套装
+HeritageNames."Potion of Antidote" 解毒药剂
+HeritageNames."Potion of Healing" 生命药剂
+HeritageNames."The Seventh Talent" 第七天赋
+HeritageNames."The Interface Dog" 界面狗
+HeritageNames."The Silver Spoon" 银勺子
+HeritageNames."One Strange Trip" 奇怪的旅程
+HeritageNames."The Pandamonium" 功夫熊猫
+HeritageNames."Arcane Gimmickry" 奥术机关
+HeritageNames."Lightning Reflexes" 闪电反应
+HeritageNames."Heroes of Hallwood" 神圣英雄
+HeritageNames."Fire Resistant" 火焰抗性
+HeritageNames."Frost Resistant" 冰霜抗性
+HeritageNames."Shock Resistant" 震击抗性
+HeritageNames."Poison Resistant" 毒害抗性
+HeritageNames."Disease Resistant" 疾病抗性
+HeritageNames."Blissful Ignorance" 无知无畏
+HeritageNames."Celestial Mastery" 天使系专精
+HeritageNames."Draconic Mastery" 龙系专精
+HeritageNames."Infernal Mastery" 地狱系专精
+HeritageNames."Arcane Mastery" 奥术专精
+HeritageNames."Bestial Mastery" 兽性专精
+HeritageNames."Abyssal Mastery" 深渊专精
+HeritageNames."Amulet Knowledge" 护身符知识
+HeritageNames."Ring Knowledge" 戒指知识
+HeritageNames."Wand Knowledge" 魔杖知识
+HeritageNames."Scroll Knowledge" 卷轴知识
+HeritageNames."Potion Knowledge" 药剂知识
+HeritageNames."Enchant Knowledge" 附魔知识
+HeritageNames."Defile This" 亵渎这个
+HeritageNames."Healthy Diet" 健康饮食
+HeritageNames."Mighty Hulk" 绿巨人
+HeritageNames."Loose Weight" 减重
+HeritageNames."The Wanderer" 流浪者
+HeritageNames."Three Tails" 三条
+HeritageNames."The Pink Order" 粉色骑士团
+HeritageNames."Big Bada Boom" 大爆炸
+HeritageNames."Over 9000" 超过 9000
+HeritageNames."Gurmur's End" 咕呣的末日
+HeritageNames."Canis Woofus" 狼狗
+HeritageNames."Familiaripathy" 亲密感
+HeritageNames."Traps Are Bad" 糟糕的陷阱
+HeritageNames."Hardened Skin" 硬化皮肤
+HeritageNames."Winter Fur Coat" 严冬毛皮
+HeritageNames."Arctic Fur Coat" 极地毛皮
+HeritageNames."Ferocious Bite" 凶残之咬
+HeritageNames."Sharpened Fangs" 铁齿钢牙
+HeritageNames."Rare Breed" 稀有血统
+HeritageNames."Epic Breed" 精英血统
+HeritageNames."Craftalicious" 能工巧匠
+HeritageNames."Swords 'n Stuff" 刀剑工厂
+HeritageNames."Just Smashing" 砸烂一切
+HeritageNames."Heavy Hitters" 重型打击
+HeritageNames."Flying Tithril" 钛石飞扬
+HeritageNames."Complex Tension" 张力无限
+HeritageNames."Solid Protection" 严密保护
+HeritageNames."Hardened Skull" 硬化头颅
+HeritageNames."Smart Clothing" 精美外衣
+HeritageNames."Cry On My Shoulder" 肩部呐喊
+HeritageNames."Brace For Impact" 手腕冲击
+HeritageNames."Hairy Handguards" 吓人护手
+HeritageNames."Don't Tread On Me" 不要踩我
+HeritageNames."Patron of Arts" 赞助的艺术
+HeritageNames."Spiritual Guidance" 精神引导
+HeritageNames."Bestial Vigour" 兽性大发
+HeritageNames."Leader of the Pack" 团队领袖
+HeritageNames."That's Grizzly" 那有灰熊
+HeritageNames."Ursus Horribilis" 熊的恐怖
+HeritageNames."Blood Frenzy" 狂暴之血
+HeritageNames."Lupine Grace" 优雅之狼
+HeritageNames."Vampiric Bite" 吸血之咬
+HeritageNames."Face Muncher" 正面咀嚼
+HeritageNames."Monster Chow" 怪物大餐
+HeritageNames."Second Amendment" 第二修正案
+HeritageNames."Rise of Fairies" 精灵飞升
+HeritageNames."Wester Worshipper" 西风崇拜者
 HeritageDescs."This heritage can't be unlocked on casual difficulty level." This heritage can't be unlocked on casual difficulty level.
 HeritageDescs."This heritage is not available on heroic difficulty level." This heritage is not available on heroic difficulty level.
 HeritageDescs."Wizard's Staff" Equips the rogue with a staff at the start of the game.
@@ -4117,14 +4117,14 @@ ChatStrings."Town crier:" Town crier:
 ChatStrings."All hail %s!" All hail %s!
 ChatStrings."%s You have to wait two seconds before sending another message." %s You have to wait two seconds before sending another message.
 ChatStrings."You can view and change key bindings in the main menu %s." You can view and change key bindings in the main menu %s.
-ChatStrings."Commands:" Commands:
-ChatStrings."/search" /search
-ChatStrings."/score" /score
-ChatStrings."/sort" /sort
-ChatStrings."/dog" /dog
-ChatStrings."/resetdog" /resetdog
-ChatStrings."/skipnull" /skipnull
-ChatStrings."/mrgsteam" /mrgsteam
+ChatStrings."Commands:" 命令：
+ChatStrings."/search" /search（搜索）
+ChatStrings."/score" /score（得分）
+ChatStrings."/sort" /sort（排序）
+ChatStrings."/dog" /dog（狗）
+ChatStrings."/resetdog" /resetdog（重置狗）
+ChatStrings."/skipnull" /skipnull（跳过）
+ChatStrings."/mrgsteam" /mrgsteam（导入Steam）
 ChatStrings."Type %s to set the number of search attempts (using values 1 through 6)." Type %s to set the number of search attempts (using values 1 through 6).
 ChatStrings."Search attempts has been set to %d." Search attempts has been set to %d.
 ChatStrings."Your current score is %d." Your current score is %d.

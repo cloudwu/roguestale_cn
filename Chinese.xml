@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="ac72f7bc68e7043aef5dfcc3a7a91e66ce8394af">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="dc1708e6e5cddf455b074b58186090dd0bd6353f">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -873,7 +873,7 @@
     <str id="Stunned" value="Stunned" local="眩晕"/>
     <str id="Vitalised" value="Vitalised" local="激发"/>
     <str id="Revitalised" value="Revitalised" local="复活"/>
-    <str id="Literate" value="Literate" local="开化"/>
+    <str id="Literate" value="Literate" local="启蒙"/>
     <str id="Informed" value="Informed" local="见识"/>
     <str id="Fearless" value="Fearless" local="无畏"/>
     <str id="Bestial" value="Bestial" local="兽化"/>
@@ -1081,11 +1081,11 @@
       <str id="paragraph 1" value="cannot be blocked, dodged or parried." local=""/>
     </str>
     <str id="Literacy: Common" value="Allows the creature to read and write Common, cast spells scribed on scrolls and zap with wands." local="允许生物常规读写，释放记录在魔&#10;法卷轴上的法术，释放魔杖的能力&#10;。"/>
-    <str id="Literacy: Celestial" value="Allows the creature to learn Celestial spells from magical tomes. Celestial spells always use Max Cast Modifier of 2" local="允许生物从魔法书中学习天使系法&#10;术。天使系法术的最大施法修正无&#10;视所穿盔甲，永远为 2 或更高。" space="True">
+    <str id="Literacy: Celestial" value="Allows the creature to learn Celestial spells from magical tomes. Celestial spells always use Max Cast Modifier of 2" local="允许生物从魔法典籍中学习天使系&#10;法术。天使系法术的最大施法修正&#10;无视所穿盔甲，永远为 2 或更高。" space="True">
       <str id="paragraph 1" value="or more regardless of armour." local=""/>
     </str>
-    <str id="Literacy: Draconic" value="Allows the creature to learn Draconic spells from magical tomes." local="允许生物从魔法书中学习龙系法术&#10;。"/>
-    <str id="Literacy: Infernal" value="Allows the creature to learn Infernal spells from magical tomes." local="允许生物从魔法书中学习地狱系法&#10;术。"/>
+    <str id="Literacy: Draconic" value="Allows the creature to learn Draconic spells from magical tomes." local="允许生物从魔法典籍中学习龙系法&#10;术。"/>
+    <str id="Literacy: Infernal" value="Allows the creature to learn Infernal spells from magical tomes." local="允许生物从魔法典籍中学习地狱系&#10;法术。"/>
     <str id="Focused Cast" value="Allows the creature to cast spells at any space within line of sight. Direct damage and healing spells receive extra" local="允许生物定位任何在视野直线可达&#10;区的目标并释放法术。另外，直接&#10;伤害或治疗法术都会因对应的属性&#10;增益修正获得额外的效果。" space="True">
       <str id="paragraph 1" value="damage or healing depending on the relevant bonus modifier." local=""/>
     </str>
@@ -1115,7 +1115,7 @@
       <str id="paragraph 1" value="Keen Eye (based on level)." local=""/>
     </str>
     <str id="Bestial Wrath" value="Increases physical damage by D3 while shapeshifted. This talent is also improved by the following heritages:" local="在变形时增加 D3 物理伤害。这个&#10;天赋还会被下列遗产增强：" space="True">
-      <str id="paragraph 1" value="Bestial Vigour, Leader of the Pack." local="Bestial Vigour ，Leader of the Pack 。"/>
+      <str id="paragraph 1" value="Bestial Vigour, Leader of the Pack." local="兽性大发 ，团队领袖 。"/>
     </str>
   </TalentDescs>
   <SpellNames>
@@ -1268,8 +1268,8 @@
     <str id="Symbol of Life" value="Symbol of Life" local="生命标记"/>
     <str id="Symbol of Light" value="Symbol of Light" local="光明标记"/>
     <str id="Symbol of Luck" value="Symbol of Luck" local="幸运标记"/>
-    <str id="Symbol of Might" value="Symbol of Might" local="威力标记"/>
-    <str id="Symbol of Power" value="Symbol of Power" local="能量标记"/>
+    <str id="Symbol of Might" value="Symbol of Might" local="神力标记"/>
+    <str id="Symbol of Power" value="Symbol of Power" local="威能标记"/>
     <str id="Symbol of Vigor" value="Symbol of Vigor" local="活力标记"/>
   </EnchantNames>
   <EnchantEffects>
@@ -1767,37 +1767,37 @@
     <str id="Knabstick" value="All of the tears shed by knabs makes these arrows lighter than a feather."/>
   </ArrowDescs>
   <CharmNames>
-    <str id="Charm" value="Charm"/>
-    <str id="Lucky Number Seven" value="Lucky Number Seven"/>
-    <str id="Fluffy Rabbit's Foot" value="Fluffy Rabbit's Foot"/>
-    <str id="Fragment of Volcanus" value="Fragment of Volcanus"/>
-    <str id="Fragment of Aquarius" value="Fragment of Aquarius"/>
-    <str id="Fragment of Aetherus" value="Fragment of Aetherus"/>
-    <str id="Fragment of Terranus" value="Fragment of Terranus"/>
-    <str id="Eye of the Beholder" value="Eye of the Beholder"/>
-    <str id="Crystal Tear of a Maiden" value="Crystal Tear of a Maiden"/>
-    <str id="Misplaced Dragon Egg" value="Misplaced Dragon Egg"/>
-    <str id="Pulsating Daemon's Heart" value="Pulsating Daemon's Heart"/>
-    <str id="Book of Fading Memories" value="Book of Fading Memories"/>
-    <str id="Manuscript of Knowledge" value="Manuscript of Knowledge"/>
-    <str id="High Capacity Quiver" value="High Capacity Quiver"/>
-    <str id="Third Leg of the Imp" value="Third Leg of the Imp"/>
-    <str id="Stone of Arcane Power" value="Stone of Arcane Power"/>
-    <str id="Star Spangled Cap" value="Star Spangled Cap"/>
-    <str id="Glove of Liberalism" value="Glove of Liberalism"/>
-    <str id="Wristband of Liberalism" value="Wristband of Liberalism"/>
-    <str id="Black Meistercard" value="Black Meistercard"/>
-    <str id="Deadly Ghoul Tooth" value="Deadly Ghoul Tooth"/>
-    <str id="Mad Torque Slingshot" value="Mad Torque Slingshot"/>
-    <str id="Duelist's Wristbow" value="Duelist's Wristbow"/>
-    <str id="Uberlyft's Lost Shoe" value="Uberlyft's Lost Shoe"/>
-    <str id="Creepy Stone Face" value="Creepy Stone Face"/>
-    <str id="Golden Chastity Key" value="Golden Chastity Key"/>
-    <str id="Loose Weapon Chain" value="Loose Weapon Chain"/>
-    <str id="Time Dilation Device" value="Time Dilation Device"/>
-    <str id="Fishing Hook and Line" value="Fishing Hook and Line"/>
-    <str id="Fairy Jizzed Bull Horn" value="Fairy Jizzed Bull Horn"/>
-    <str id="Engraved Pyramidion" value="Engraved Pyramidion"/>
+    <str id="Charm" value="Charm" local="饰品"/>
+    <str id="Lucky Number Seven" value="Lucky Number Seven" local="幸运七号"/>
+    <str id="Fluffy Rabbit's Foot" value="Fluffy Rabbit's Foot" local="毛毛兔的脚"/>
+    <str id="Fragment of Volcanus" value="Fragment of Volcanus" local="火山碎片"/>
+    <str id="Fragment of Aquarius" value="Fragment of Aquarius" local="宝瓶碎片"/>
+    <str id="Fragment of Aetherus" value="Fragment of Aetherus" local="以太碎片"/>
+    <str id="Fragment of Terranus" value="Fragment of Terranus" local="地核碎片"/>
+    <str id="Eye of the Beholder" value="Eye of the Beholder" local="旁观之眼"/>
+    <str id="Crystal Tear of a Maiden" value="Crystal Tear of a Maiden" local="圣女之泪"/>
+    <str id="Misplaced Dragon Egg" value="Misplaced Dragon Egg" local="错位龙蛋"/>
+    <str id="Pulsating Daemon's Heart" value="Pulsating Daemon's Heart" local="恶魔之心"/>
+    <str id="Book of Fading Memories" value="Book of Fading Memories" local="遗忘之书"/>
+    <str id="Manuscript of Knowledge" value="Manuscript of Knowledge" local="知识原稿"/>
+    <str id="High Capacity Quiver" value="High Capacity Quiver" local="高容箭囊"/>
+    <str id="Third Leg of the Imp" value="Third Leg of the Imp" local="妖精的第三只脚"/>
+    <str id="Stone of Arcane Power" value="Stone of Arcane Power" local="奥术之石"/>
+    <str id="Star Spangled Cap" value="Star Spangled Cap" local="闪耀之帽"/>
+    <str id="Glove of Liberalism" value="Glove of Liberalism" local="自由手套"/>
+    <str id="Wristband of Liberalism" value="Wristband of Liberalism" local="只有护腕"/>
+    <str id="Black Meistercard" value="Black Meistercard" local="黑色卡片"/>
+    <str id="Deadly Ghoul Tooth" value="Deadly Ghoul Tooth" local="食尸鬼之牙"/>
+    <str id="Mad Torque Slingshot" value="Mad Torque Slingshot" local="狂力弹弓"/>
+    <str id="Duelist's Wristbow" value="Duelist's Wristbow" local="死士袖箭"/>
+    <str id="Uberlyft's Lost Shoe" value="Uberlyft's Lost Shoe" local="优步遗失的鞋"/>
+    <str id="Creepy Stone Face" value="Creepy Stone Face" local="恐怖石像"/>
+    <str id="Golden Chastity Key" value="Golden Chastity Key" local="金色贞洁钥匙"/>
+    <str id="Loose Weapon Chain" value="Loose Weapon Chain" local="宽松的武器链"/>
+    <str id="Time Dilation Device" value="Time Dilation Device" local="时间膨胀装置"/>
+    <str id="Fishing Hook and Line" value="Fishing Hook and Line" local="钓鱼套件"/>
+    <str id="Fairy Jizzed Bull Horn" value="Fairy Jizzed Bull Horn" local="精灵遗弃的牛角"/>
+    <str id="Engraved Pyramidion" value="Engraved Pyramidion" local="雕花金字塔"/>
   </CharmNames>
   <CharmDescs>
     <str id="Lucky Number Seven" value="The house always wins, the sooner you realise that the better."/>
@@ -2143,75 +2143,75 @@
     <str id="BlessedUnderdog" value="Increases all resistances by up to 8, the lower your health."/>
   </RingDescs>
   <RuneNames>
-    <str id="Rune" value="Rune"/>
-    <str id="Rune of Agility" value="Rune of Agility"/>
-    <str id="Rune of Charisma" value="Rune of Charisma"/>
-    <str id="Rune of Stamina" value="Rune of Stamina"/>
-    <str id="Rune of Strength" value="Rune of Strength"/>
-    <str id="Rune of Blinding" value="Rune of Blinding"/>
-    <str id="Rune of Charming" value="Rune of Charming"/>
-    <str id="Rune of Confusion" value="Rune of Confusion"/>
-    <str id="Rune of Deafening" value="Rune of Deafening"/>
-    <str id="Rune of Draining" value="Rune of Draining"/>
-    <str id="Rune of Knocking" value="Rune of Knocking"/>
-    <str id="Rune of Leeching" value="Rune of Leeching"/>
-    <str id="Rune of Morphing" value="Rune of Morphing"/>
-    <str id="Rune of Paralysis" value="Rune of Paralysis"/>
-    <str id="Rune of Silencing" value="Rune of Silencing"/>
-    <str id="Rune of Sleeping" value="Rune of Sleeping"/>
-    <str id="Rune of Slowing" value="Rune of Slowing"/>
-    <str id="Rune of Curse" value="Rune of Curse"/>
-    <str id="Rune of Disease" value="Rune of Disease"/>
-    <str id="Rune of Poison" value="Rune of Poison"/>
-    <str id="Rune of Fire" value="Rune of Fire"/>
-    <str id="Rune of Frost" value="Rune of Frost"/>
-    <str id="Rune of Shock" value="Rune of Shock"/>
-    <str id="Rune of Death" value="Rune of Death"/>
-    <str id="Rune of Fear" value="Rune of Fear"/>
-    <str id="Rune of Life" value="Rune of Life"/>
-    <str id="Rune of Light" value="Rune of Light"/>
-    <str id="Rune of Luck" value="Rune of Luck"/>
-    <str id="Rune of Might" value="Rune of Might"/>
-    <str id="Rune of Power" value="Rune of Power"/>
-    <str id="Rune of Vigor" value="Rune of Vigor"/>
-    <str id="Rune of the Imp" value="Rune of the Imp"/>
+    <str id="Rune" value="Rune" local="符石"/>
+    <str id="Rune of Agility" value="Rune of Agility" local="敏捷符石"/>
+    <str id="Rune of Charisma" value="Rune of Charisma" local="魅力符石"/>
+    <str id="Rune of Stamina" value="Rune of Stamina" local="耐力符石"/>
+    <str id="Rune of Strength" value="Rune of Strength" local="力量符石"/>
+    <str id="Rune of Blinding" value="Rune of Blinding" local="盲眼符石"/>
+    <str id="Rune of Charming" value="Rune of Charming" local="魅惑符石"/>
+    <str id="Rune of Confusion" value="Rune of Confusion" local="混乱符石"/>
+    <str id="Rune of Deafening" value="Rune of Deafening" local="聋耳符石"/>
+    <str id="Rune of Draining" value="Rune of Draining" local="噬精符石"/>
+    <str id="Rune of Knocking" value="Rune of Knocking" local="击退符石"/>
+    <str id="Rune of Leeching" value="Rune of Leeching" local="吸血符石"/>
+    <str id="Rune of Morphing" value="Rune of Morphing" local="变形符石"/>
+    <str id="Rune of Paralysis" value="Rune of Paralysis" local="麻痹符石"/>
+    <str id="Rune of Silencing" value="Rune of Silencing" local="沉默符石"/>
+    <str id="Rune of Sleeping" value="Rune of Sleeping" local="沉睡符石"/>
+    <str id="Rune of Slowing" value="Rune of Slowing" local="迟缓符石"/>
+    <str id="Rune of Curse" value="Rune of Curse" local="诅咒符石"/>
+    <str id="Rune of Disease" value="Rune of Disease" local="疾病符石"/>
+    <str id="Rune of Poison" value="Rune of Poison" local="毒害符石"/>
+    <str id="Rune of Fire" value="Rune of Fire" local="火焰符石"/>
+    <str id="Rune of Frost" value="Rune of Frost" local="冰霜符石"/>
+    <str id="Rune of Shock" value="Rune of Shock" local="震击符石"/>
+    <str id="Rune of Death" value="Rune of Death" local="死亡符石"/>
+    <str id="Rune of Fear" value="Rune of Fear" local="恐惧符石"/>
+    <str id="Rune of Life" value="Rune of Life" local="生命符石"/>
+    <str id="Rune of Light" value="Rune of Light" local="光明符石"/>
+    <str id="Rune of Luck" value="Rune of Luck" local="幸运符石"/>
+    <str id="Rune of Might" value="Rune of Might" local="神力符石"/>
+    <str id="Rune of Power" value="Rune of Power" local="威能符石"/>
+    <str id="Rune of Vigor" value="Rune of Vigor" local="活力符石"/>
+    <str id="Rune of the Imp" value="Rune of the Imp" local="妖精符石"/>
   </RuneNames>
   <RuneDescs>
     <str id="RuneDesc" value="It's such a shame that an entire race had to die for this rune to exist."/>
     <str id="Rune of the Imp" value="This rune gives legendary status to a weapon making it unbreakable and allows you to name the weapon."/>
   </RuneDescs>
   <ScrollNames>
-    <str id="Scroll" value="Scroll"/>
-    <str id="Scroll of Aggravation" value="Scroll of Aggravation"/>
-    <str id="Scroll of Amnesia" value="Scroll of Amnesia"/>
-    <str id="Scroll of Animation" value="Scroll of Animation"/>
-    <str id="Scroll of Banishment" value="Scroll of Banishment"/>
-    <str id="Scroll of Blessing" value="Scroll of Blessing"/>
-    <str id="Scroll of Darkness" value="Scroll of Darkness"/>
-    <str id="Scroll of Detection" value="Scroll of Detection"/>
-    <str id="Scroll of Dislocation" value="Scroll of Dislocation"/>
-    <str id="Scroll of Dispel" value="Scroll of Dispel"/>
-    <str id="Scroll of Enchanting" value="Scroll of Enchanting"/>
-    <str id="Scroll of Identify" value="Scroll of Identify"/>
-    <str id="Scroll of Invisibility" value="Scroll of Invisibility"/>
-    <str id="Scroll of Knowledge" value="Scroll of Knowledge"/>
-    <str id="Scroll of Levitation" value="Scroll of Levitation"/>
-    <str id="Scroll of Light" value="Scroll of Light"/>
-    <str id="Scroll of Polymorph" value="Scroll of Polymorph"/>
-    <str id="Scroll of Recharging" value="Scroll of Recharging"/>
-    <str id="Scroll of Summoning" value="Scroll of Summoning"/>
-    <str id="Scroll of Teleport" value="Scroll of Teleport"/>
-    <str id="Scroll of Turning" value="Scroll of Turning"/>
-    <str id="Scroll of Boomshroom" value="Scroll of Boomshroom"/>
-    <str id="Scroll of Cultivation" value="Scroll of Cultivation"/>
-    <str id="Scroll of Disorder" value="Scroll of Disorder"/>
-    <str id="Scroll of Distraction" value="Scroll of Distraction"/>
-    <str id="Scroll of Entangling" value="Scroll of Entangling"/>
-    <str id="Scroll of First Aid" value="Scroll of First Aid"/>
-    <str id="Scroll of Forestation" value="Scroll of Forestation"/>
-    <str id="Scroll of Gimmiedat" value="Scroll of Gimmiedat"/>
-    <str id="Scroll of Soothing" value="Scroll of Soothing"/>
-    <str id="Scroll of Time Warp" value="Scroll of Time Warp"/>
+    <str id="Scroll" value="Scroll" local="卷轴"/>
+    <str id="Scroll of Aggravation" value="Scroll of Aggravation" local="激怒卷轴"/>
+    <str id="Scroll of Amnesia" value="Scroll of Amnesia" local="健忘卷轴"/>
+    <str id="Scroll of Animation" value="Scroll of Animation" local="复活卷轴"/>
+    <str id="Scroll of Banishment" value="Scroll of Banishment" local="放逐卷轴"/>
+    <str id="Scroll of Blessing" value="Scroll of Blessing" local="祝福卷轴"/>
+    <str id="Scroll of Darkness" value="Scroll of Darkness" local="黑暗卷轴"/>
+    <str id="Scroll of Detection" value="Scroll of Detection" local="侦察卷轴"/>
+    <str id="Scroll of Dislocation" value="Scroll of Dislocation" local="移位卷轴"/>
+    <str id="Scroll of Dispel" value="Scroll of Dispel" local="驱散卷轴"/>
+    <str id="Scroll of Enchanting" value="Scroll of Enchanting" local="附魔卷轴"/>
+    <str id="Scroll of Identify" value="Scroll of Identify" local="鉴定卷轴"/>
+    <str id="Scroll of Invisibility" value="Scroll of Invisibility" local="隐形卷轴"/>
+    <str id="Scroll of Knowledge" value="Scroll of Knowledge" local="知识卷轴"/>
+    <str id="Scroll of Levitation" value="Scroll of Levitation" local="漂浮卷轴"/>
+    <str id="Scroll of Light" value="Scroll of Light" local="光明卷轴"/>
+    <str id="Scroll of Polymorph" value="Scroll of Polymorph" local="变形卷轴"/>
+    <str id="Scroll of Recharging" value="Scroll of Recharging" local="充能卷轴"/>
+    <str id="Scroll of Summoning" value="Scroll of Summoning" local="召唤卷轴"/>
+    <str id="Scroll of Teleport" value="Scroll of Teleport" local="传送卷轴"/>
+    <str id="Scroll of Turning" value="Scroll of Turning" local="超度卷轴"/>
+    <str id="Scroll of Boomshroom" value="Scroll of Boomshroom" local="爆炸菇卷轴"/>
+    <str id="Scroll of Cultivation" value="Scroll of Cultivation" local="耕种卷轴"/>
+    <str id="Scroll of Disorder" value="Scroll of Disorder" local="混乱卷轴"/>
+    <str id="Scroll of Distraction" value="Scroll of Distraction" local="干扰卷轴"/>
+    <str id="Scroll of Entangling" value="Scroll of Entangling" local="蛛网卷轴"/>
+    <str id="Scroll of First Aid" value="Scroll of First Aid" local="急救卷轴"/>
+    <str id="Scroll of Forestation" value="Scroll of Forestation" local="造林卷轴"/>
+    <str id="Scroll of Gimmiedat" value="Scroll of Gimmiedat" local="空手入白刃卷轴"/>
+    <str id="Scroll of Soothing" value="Scroll of Soothing" local="抚慰卷轴"/>
+    <str id="Scroll of Time Warp" value="Scroll of Time Warp" local="时空卷轴"/>
   </ScrollNames>
   <ScrollDescs>
     <str id="ScrollDesc" value="In addition to being an excellent form of kindling, scrolls can prove out to be very useful in certain situations."/>
@@ -2288,47 +2288,47 @@
     <str id="Dawid's Shield" value="This used to belong to Dawid the Paladin before he joined his battle brothers in the afterlife." local="这曾是圣骑士 Dawid 生前用过的盾牌。"/>
   </ShieldDescs>
   <TomeNames>
-    <str id="Tome" value="Tome"/>
-    <str id="Tome of Cure Disease" value="Tome of Cure Disease"/>
-    <str id="Tome of Cure Poison" value="Tome of Cure Poison"/>
-    <str id="Tome of Dispel Magic" value="Tome of Dispel Magic"/>
-    <str id="Tome of Divine Grace" value="Tome of Divine Grace"/>
-    <str id="Tome of Divine Might" value="Tome of Divine Might"/>
-    <str id="Tome of Divine Reach" value="Tome of Divine Reach"/>
-    <str id="Tome of Healing Touch" value="Tome of Healing Touch"/>
-    <str id="Tome of Healing Wave" value="Tome of Healing Wave"/>
-    <str id="Tome of Renewing Touch" value="Tome of Renewing Touch"/>
-    <str id="Tome of Turn Undead" value="Tome of Turn Undead"/>
-    <str id="Tome of Amplify Magic" value="Tome of Amplify Magic"/>
-    <str id="Tome of Electric Orb" value="Tome of Electric Orb"/>
-    <str id="Tome of Enlarge Orb" value="Tome of Enlarge Orb"/>
-    <str id="Tome of Flaming Orb" value="Tome of Flaming Orb"/>
-    <str id="Tome of Frozen Orb" value="Tome of Frozen Orb"/>
-    <str id="Tome of Illumination" value="Tome of Illumination"/>
-    <str id="Tome of Mage Armour" value="Tome of Mage Armour"/>
-    <str id="Tome of Mirror Image" value="Tome of Mirror Image"/>
-    <str id="Tome of Remove Curse" value="Tome of Remove Curse"/>
-    <str id="Tome of Telekinesis" value="Tome of Telekinesis"/>
-    <str id="Tome of Banish Daemon" value="Tome of Banish Daemon"/>
-    <str id="Tome of Bestow Curse" value="Tome of Bestow Curse"/>
-    <str id="Tome of Capture Soul" value="Tome of Capture Soul"/>
-    <str id="Tome of Demonic Visage" value="Tome of Demonic Visage"/>
-    <str id="Tome of Enslave Daemon" value="Tome of Enslave Daemon"/>
-    <str id="Tome of Plane Shift" value="Tome of Plane Shift"/>
-    <str id="Tome of Release Soul" value="Tome of Release Soul"/>
-    <str id="Tome of Summon Daemon" value="Tome of Summon Daemon"/>
-    <str id="Tome of Venomous Orb" value="Tome of Venomous Orb"/>
-    <str id="Tome of Virulent Orb" value="Tome of Virulent Orb"/>
-    <str id="Tome of Divine Shield" value="Tome of Divine Shield"/>
-    <str id="Tome of Conjure Daemon" value="Tome of Conjure Daemon"/>
-    <str id="Tome of Identify Item" value="Tome of Identify Item"/>
-    <str id="Tome of Enchant Item" value="Tome of Enchant Item"/>
-    <str id="Tome of Elemental Orb" value="Tome of Elemental Orb"/>
-    <str id="Tome of Clone Creature" value="Tome of Clone Creature"/>
-    <str id="Tome of Animate Dead" value="Tome of Animate Dead"/>
-    <str id="Tome of Transmute Item" value="Tome of Transmute Item"/>
-    <str id="Tome of Alter Terrain" value="Tome of Alter Terrain"/>
-    <str id="Tome of Arcane Missile" value="Tome of Arcane Missile"/>
+    <str id="Tome" value="Tome" local="典籍"/>
+    <str id="Tome of Cure Disease" value="Tome of Cure Disease" local="典籍：治疗疾病"/>
+    <str id="Tome of Cure Poison" value="Tome of Cure Poison" local="典籍：治疗中毒"/>
+    <str id="Tome of Dispel Magic" value="Tome of Dispel Magic" local="典籍：驱散魔法"/>
+    <str id="Tome of Divine Grace" value="Tome of Divine Grace" local="典籍：神之恩典"/>
+    <str id="Tome of Divine Might" value="Tome of Divine Might" local="典籍：天赋神力"/>
+    <str id="Tome of Divine Reach" value="Tome of Divine Reach" local="典籍：神圣领域"/>
+    <str id="Tome of Healing Touch" value="Tome of Healing Touch" local="典籍：治疗之触"/>
+    <str id="Tome of Healing Wave" value="Tome of Healing Wave" local="典籍：治疗光波"/>
+    <str id="Tome of Renewing Touch" value="Tome of Renewing Touch" local="典籍：回复之触"/>
+    <str id="Tome of Turn Undead" value="Tome of Turn Undead" local="典籍：超度亡魂"/>
+    <str id="Tome of Amplify Magic" value="Tome of Amplify Magic" local="典籍：魔法增效"/>
+    <str id="Tome of Electric Orb" value="Tome of Electric Orb" local="典籍：电球术"/>
+    <str id="Tome of Enlarge Orb" value="Tome of Enlarge Orb" local="典籍：法术球增大"/>
+    <str id="Tome of Flaming Orb" value="Tome of Flaming Orb" local="典籍：火球术"/>
+    <str id="Tome of Frozen Orb" value="Tome of Frozen Orb" local="典籍：冰球术"/>
+    <str id="Tome of Illumination" value="Tome of Illumination" local="典籍：照明术"/>
+    <str id="Tome of Mage Armour" value="Tome of Mage Armour" local="典籍：魔法盔甲"/>
+    <str id="Tome of Mirror Image" value="Tome of Mirror Image" local="典籍：镜像术"/>
+    <str id="Tome of Remove Curse" value="Tome of Remove Curse" local="典籍：移除诅咒"/>
+    <str id="Tome of Telekinesis" value="Tome of Telekinesis" local="典籍：念动力"/>
+    <str id="Tome of Banish Daemon" value="Tome of Banish Daemon" local="典籍：放逐恶魔"/>
+    <str id="Tome of Bestow Curse" value="Tome of Bestow Curse" local="典籍：降咒术"/>
+    <str id="Tome of Capture Soul" value="Tome of Capture Soul" local="典籍：灵魂捕捉"/>
+    <str id="Tome of Demonic Visage" value="Tome of Demonic Visage" local="典籍：魔鬼面容"/>
+    <str id="Tome of Enslave Daemon" value="Tome of Enslave Daemon" local="典籍：奴役恶魔"/>
+    <str id="Tome of Plane Shift" value="Tome of Plane Shift" local="典籍：位面传送"/>
+    <str id="Tome of Release Soul" value="Tome of Release Soul" local="典籍：释放灵魂"/>
+    <str id="Tome of Summon Daemon" value="Tome of Summon Daemon" local="典籍：召唤恶魔"/>
+    <str id="Tome of Venomous Orb" value="Tome of Venomous Orb" local="典籍：毒球术"/>
+    <str id="Tome of Virulent Orb" value="Tome of Virulent Orb" local="典籍：病球术"/>
+    <str id="Tome of Divine Shield" value="Tome of Divine Shield" local="典籍：神圣之盾"/>
+    <str id="Tome of Conjure Daemon" value="Tome of Conjure Daemon" local="典籍：驱逐恶魔"/>
+    <str id="Tome of Identify Item" value="Tome of Identify Item" local="典籍：物品鉴定"/>
+    <str id="Tome of Enchant Item" value="Tome of Enchant Item" local="典籍：物品附魔"/>
+    <str id="Tome of Elemental Orb" value="Tome of Elemental Orb" local="典籍：元素球"/>
+    <str id="Tome of Clone Creature" value="Tome of Clone Creature" local="典籍：克隆生物"/>
+    <str id="Tome of Animate Dead" value="Tome of Animate Dead" local="典籍：亡灵复生"/>
+    <str id="Tome of Transmute Item" value="Tome of Transmute Item" local="典籍：物品炼金"/>
+    <str id="Tome of Alter Terrain" value="Tome of Alter Terrain" local="典籍：地表变形"/>
+    <str id="Tome of Arcane Missile" value="Tome of Arcane Missile" local="典籍：奥术飞弹"/>
   </TomeNames>
   <TomeDescs>
     <str id="BlessedTomeDesc" value="You have identified that this tome is blessed and it contains the %s spell."/>
@@ -2357,30 +2357,30 @@
     <str id="Your %s shimmers brightly before shattering to pieces." value="Your %s shimmers brightly before shattering to pieces."/>
   </TomeLogs>
   <ToolNames>
-    <str id="Smoke Bomb" value="Smoke Bomb"/>
-    <str id="Bear Trap" value="Bear Trap"/>
-    <str id="Magic Trap" value="Magic Trap"/>
-    <str id="Tithril Ore" value="Tithril Ore"/>
-    <str id="Bearskin" value="Bearskin"/>
-    <str id="Flexweave" value="Flexweave"/>
-    <str id="Hardwood" value="Hardwood"/>
-    <str id="Scrap" value="Scrap"/>
-    <str id="Schematic" value="Schematic"/>
-    <str id="Crown" value="Crown"/>
-    <str id="Dog Collar" value="Dog Collar"/>
-    <str id="Soul Gem" value="Soul Gem"/>
-    <str id="Black Soul Gem" value="Black Soul Gem"/>
-    <str id="Soul Gem of Agony" value="Soul Gem of Agony"/>
-    <str id="Soul Gem of Envy" value="Soul Gem of Envy"/>
-    <str id="Soul Gem of Gluttony" value="Soul Gem of Gluttony"/>
-    <str id="Soul Gem of Greed" value="Soul Gem of Greed"/>
-    <str id="Soul Gem of Hunger" value="Soul Gem of Hunger"/>
-    <str id="Soul Gem of Lust" value="Soul Gem of Lust"/>
-    <str id="Soul Gem of Pride" value="Soul Gem of Pride"/>
-    <str id="Soul Gem of Sloth" value="Soul Gem of Sloth"/>
-    <str id="Soul Gem of Thirst" value="Soul Gem of Thirst"/>
-    <str id="Soul Gem of Wrath" value="Soul Gem of Wrath"/>
-    <str id="Equalizer" value="Equalizer"/>
+    <str id="Smoke Bomb" value="Smoke Bomb" local="烟雾弹"/>
+    <str id="Bear Trap" value="Bear Trap" local="捕熊夹"/>
+    <str id="Magic Trap" value="Magic Trap" local="魔法陷阱"/>
+    <str id="Tithril Ore" value="Tithril Ore" local="钛石矿"/>
+    <str id="Bearskin" value="Bearskin" local="熊皮"/>
+    <str id="Flexweave" value="Flexweave" local="蛛丝"/>
+    <str id="Hardwood" value="Hardwood" local="硬木"/>
+    <str id="Scrap" value="Scrap" local="碎片"/>
+    <str id="Schematic" value="Schematic" local="图纸"/>
+    <str id="Crown" value="Crown" local="王冠"/>
+    <str id="Dog Collar" value="Dog Collar" local="狗项圈"/>
+    <str id="Soul Gem" value="Soul Gem" local="魂晶"/>
+    <str id="Black Soul Gem" value="Black Soul Gem" local="黑魂晶"/>
+    <str id="Soul Gem of Agony" value="Soul Gem of Agony" local="痛苦魂晶"/>
+    <str id="Soul Gem of Envy" value="Soul Gem of Envy" local="嫉妒魂晶"/>
+    <str id="Soul Gem of Gluttony" value="Soul Gem of Gluttony" local="贪食魂晶"/>
+    <str id="Soul Gem of Greed" value="Soul Gem of Greed" local="贪婪魂晶"/>
+    <str id="Soul Gem of Hunger" value="Soul Gem of Hunger" local="饥饿魂晶"/>
+    <str id="Soul Gem of Lust" value="Soul Gem of Lust" local="淫欲魂晶"/>
+    <str id="Soul Gem of Pride" value="Soul Gem of Pride" local="傲慢魂晶"/>
+    <str id="Soul Gem of Sloth" value="Soul Gem of Sloth" local="懒惰魂晶"/>
+    <str id="Soul Gem of Thirst" value="Soul Gem of Thirst" local="干渴魂晶"/>
+    <str id="Soul Gem of Wrath" value="Soul Gem of Wrath" local="愤怒魂晶"/>
+    <str id="Equalizer" value="Equalizer" local="均衡器"/>
   </ToolNames>
   <ToolDescs>
     <str id="Smoke Bomb" value="Hides you in plain sight. Prolonged use might cause lung cancer according to the sticker at the bottom."/>
@@ -2399,37 +2399,37 @@
     <str id="Equalizer" value="There's an engraving on the handle saying 'Shall not be infringed'."/>
   </ToolDescs>
   <WandNames>
-    <str id="Wand" value="Wand"/>
-    <str id="Wand of Blizzard" value="Wand of Blizzard"/>
-    <str id="Wand of Burning" value="Wand of Burning"/>
-    <str id="Wand of Channeling" value="Wand of Channeling"/>
-    <str id="Wand of Chilling" value="Wand of Chilling"/>
-    <str id="Wand of Corruption" value="Wand of Corruption"/>
-    <str id="Wand of Crippling" value="Wand of Crippling"/>
-    <str id="Wand of Crushing" value="Wand of Crushing"/>
-    <str id="Wand of Entrapment" value="Wand of Entrapment"/>
-    <str id="Wand of Excavation" value="Wand of Excavation"/>
-    <str id="Wand of Freezing" value="Wand of Freezing"/>
-    <str id="Wand of Infection" value="Wand of Infection"/>
-    <str id="Wand of Inferno" value="Wand of Inferno"/>
-    <str id="Wand of Knocking" value="Wand of Knocking"/>
-    <str id="Wand of Maelstrom" value="Wand of Maelstrom"/>
-    <str id="Wand of Melting" value="Wand of Melting"/>
-    <str id="Wand of Pollution" value="Wand of Pollution"/>
-    <str id="Wand of Shifting" value="Wand of Shifting"/>
-    <str id="Wand of Shocking" value="Wand of Shocking"/>
-    <str id="Wand of Tempest" value="Wand of Tempest"/>
-    <str id="Wand of Wishing" value="Wand of Wishing"/>
-    <str id="Wand of Wonders" value="Wand of Wonders"/>
-    <str id="Wand of Zapping" value="Wand of Zapping"/>
-    <str id="Wand of Baffling" value="Wand of Baffling"/>
-    <str id="Wand of Bloodletting" value="Wand of Bloodletting"/>
-    <str id="Wand of Disarming" value="Wand of Disarming"/>
-    <str id="Wand of Ensnaring" value="Wand of Ensnaring"/>
-    <str id="Wand of Gobsmacking" value="Wand of Gobsmacking"/>
-    <str id="Wand of Rituals" value="Wand of Rituals"/>
-    <str id="Wand of Scripting" value="Wand of Scripting"/>
-    <str id="Wand of Torture" value="Wand of Torture"/>
+    <str id="Wand" value="Wand" local="魔杖"/>
+    <str id="Wand of Blizzard" value="Wand of Blizzard" local="暴雪魔杖"/>
+    <str id="Wand of Burning" value="Wand of Burning" local="燃烧魔杖"/>
+    <str id="Wand of Channeling" value="Wand of Channeling" local="通导魔杖"/>
+    <str id="Wand of Chilling" value="Wand of Chilling" local="严寒魔杖"/>
+    <str id="Wand of Corruption" value="Wand of Corruption" local="腐败魔杖"/>
+    <str id="Wand of Crippling" value="Wand of Crippling" local="毁灭魔杖"/>
+    <str id="Wand of Crushing" value="Wand of Crushing" local="落石魔杖"/>
+    <str id="Wand of Entrapment" value="Wand of Entrapment" local="诱捕魔杖"/>
+    <str id="Wand of Excavation" value="Wand of Excavation" local="挖掘魔杖"/>
+    <str id="Wand of Freezing" value="Wand of Freezing" local="冰冻魔杖"/>
+    <str id="Wand of Infection" value="Wand of Infection" local="感染魔杖"/>
+    <str id="Wand of Inferno" value="Wand of Inferno" local="怒火魔杖"/>
+    <str id="Wand of Knocking" value="Wand of Knocking" local="击退魔杖"/>
+    <str id="Wand of Maelstrom" value="Wand of Maelstrom" local="漩涡魔杖"/>
+    <str id="Wand of Melting" value="Wand of Melting" local="融化魔杖"/>
+    <str id="Wand of Pollution" value="Wand of Pollution" local="污染魔杖"/>
+    <str id="Wand of Shifting" value="Wand of Shifting" local="位移魔杖"/>
+    <str id="Wand of Shocking" value="Wand of Shocking" local="震击魔杖"/>
+    <str id="Wand of Tempest" value="Wand of Tempest" local="风暴魔杖"/>
+    <str id="Wand of Wishing" value="Wand of Wishing" local="许愿魔杖"/>
+    <str id="Wand of Wonders" value="Wand of Wonders" local="奇迹魔杖"/>
+    <str id="Wand of Zapping" value="Wand of Zapping" local="闪光魔杖"/>
+    <str id="Wand of Baffling" value="Wand of Baffling" local="唠叨魔杖"/>
+    <str id="Wand of Bloodletting" value="Wand of Bloodletting" local="噬血魔杖"/>
+    <str id="Wand of Disarming" value="Wand of Disarming" local="缴械魔杖"/>
+    <str id="Wand of Ensnaring" value="Wand of Ensnaring" local="陷阱魔杖"/>
+    <str id="Wand of Gobsmacking" value="Wand of Gobsmacking" local="震惊魔杖"/>
+    <str id="Wand of Rituals" value="Wand of Rituals" local="祭奠魔杖"/>
+    <str id="Wand of Scripting" value="Wand of Scripting" local="抄写魔杖"/>
+    <str id="Wand of Torture" value="Wand of Torture" local="肆虐魔杖"/>
   </WandNames>
   <WandDescs>
     <str id="WandDesc" value="There appears to be inscription on the wand that is written in some unknown language."/>
@@ -2486,13 +2486,13 @@
     <str id="Stone" value="Stone" local="石块"/>
     <str id="Barbed Whip" value="Barbed Whip" local="荆棘之鞭"/>
     <str id="Massive Claw" value="Massive Claw" local="巨爪"/>
-    <str id="Corrosive Bite" value="Corrosive Bite"/>
-    <str id="Ferocius Bite" value="Ferocius Bite"/>
-    <str id="Infectious Bite" value="Infectious Bite"/>
-    <str id="Vampiric Bite" value="Vampiric Bite"/>
-    <str id="Venomous Bite" value="Venomous Bite"/>
-    <str id="Vicious Bite" value="Vicious Bite"/>
-    <str id="Skittering Bite" value="Skittering Bite"/>
+    <str id="Corrosive Bite" value="Corrosive Bite" local="侵蚀之噬"/>
+    <str id="Ferocius Bite" value="Ferocius Bite" local="暴虐之噬"/>
+    <str id="Infectious Bite" value="Infectious Bite" local="瘟疫之噬"/>
+    <str id="Vampiric Bite" value="Vampiric Bite" local="吸血之噬"/>
+    <str id="Venomous Bite" value="Venomous Bite" local="毒液之噬"/>
+    <str id="Vicious Bite" value="Vicious Bite" local="恶毒之噬"/>
+    <str id="Skittering Bite" value="Skittering Bite" local="破碎之噬"/>
     <str id="Fire Breath" value="Fire Breath" local="火焰之息"/>
     <str id="Frost Breath" value="Frost Breath" local="冰霜之息"/>
     <str id="Ghostly Touch" value="Ghostly Touch" local="幽灵之触"/>
@@ -2672,40 +2672,40 @@
     <str id="Zombie Dog" value="Woof comes back to life at the start of a new dungeon if he happens to be dead (reset dungeon in town)."/>
   </LegendaryDescs>
   <CreatureNames>
-    <str id="Invisible creature" value="Invisible creature"/>
-    <str id="the corpse of %s" value="the corpse of %s"/>
-    <str id="a dead %s" value="a dead %s"/>
-    <str id="ghastly skull" value="ghastly skull"/>
-    <str id="pile of bones" value="pile of bones"/>
-    <str id="Beast" value="Beast"/>
-    <str id="Woof" value="Woof"/>
-    <str id="Dire wolf" value="Dire wolf"/>
-    <str id="Dog" value="Dog"/>
-    <str id="Dread bat" value="Dread bat"/>
-    <str id="Giant rat" value="Giant rat"/>
-    <str id="Giant snail" value="Giant snail"/>
-    <str id="Snake" value="Snake"/>
-    <str id="Spider" value="Spider"/>
-    <str id="Whelp" value="Whelp"/>
-    <str id="Dread wolf" value="Dread wolf"/>
-    <str id="Bat swarm" value="Bat swarm"/>
-    <str id="Rat swarm" value="Rat swarm"/>
-    <str id="Snake swarm" value="Snake swarm"/>
-    <str id="Spider swarm" value="Spider swarm"/>
-    <str id="Snail swarm" value="Snail swarm"/>
-    <str id="Boss" value="Boss"/>
-    <str id="Gurmur" value="Gurmur"/>
+    <str id="Invisible creature" value="Invisible creature" local="隐形生物"/>
+    <str id="the corpse of %s" value="the corpse of %s" local="%s 的尸体"/>
+    <str id="a dead %s" value="a dead %s" local="死去的 %s"/>
+    <str id="ghastly skull" value="ghastly skull" local="可拍的骷髅"/>
+    <str id="pile of bones" value="pile of bones" local="骨堆"/>
+    <str id="Beast" value="Beast" local="野兽"/>
+    <str id="Woof" value="Woof" local="狼"/>
+    <str id="Dire wolf" value="Dire wolf" local="凶狼"/>
+    <str id="Dog" value="Dog" local="狗"/>
+    <str id="Dread bat" value="Dread bat" local="蝙蝠"/>
+    <str id="Giant rat" value="Giant rat" local="巨鼠"/>
+    <str id="Giant snail" value="Giant snail" local="巨蛇"/>
+    <str id="Snake" value="Snake" local="蛇"/>
+    <str id="Spider" value="Spider" local="蜘蛛"/>
+    <str id="Whelp" value="Whelp" local="幼龙"/>
+    <str id="Dread wolf" value="Dread wolf" local="骇狼"/>
+    <str id="Bat swarm" value="Bat swarm" local="蝙蝠群"/>
+    <str id="Rat swarm" value="Rat swarm" local="鼠群"/>
+    <str id="Snake swarm" value="Snake swarm" local="蛇群"/>
+    <str id="Spider swarm" value="Spider swarm" local="蜘蛛群"/>
+    <str id="Snail swarm" value="Snail swarm" local="蜗牛群"/>
+    <str id="Boss" value="Boss" local="首领"/>
+    <str id="Gurmur" value="Gurmur" local="咕呣"/>
     <str id="Dreadlord Nabon" value="Dreadlord Nabon" local="黑暗之主腊崩"/>
-    <str id="Triggered Demonrat" value="Triggered Demonrat"/>
-    <str id="Daemon" value="Daemon"/>
-    <str id="Impaler" value="Impaler"/>
-    <str id="Devourer" value="Devourer"/>
-    <str id="Elemental" value="Elemental"/>
-    <str id="Living earth" value="Living earth"/>
-    <str id="Living air" value="Living air"/>
-    <str id="Living fire" value="Living fire"/>
-    <str id="Living water" value="Living water"/>
-    <str id="Human" value="Human"/>
+    <str id="Triggered Demonrat" value="Triggered Demonrat" local="触发的恶魔鼠"/>
+    <str id="Daemon" value="Daemon" local="恶魔"/>
+    <str id="Impaler" value="Impaler" local="吸血鬼"/>
+    <str id="Devourer" value="Devourer" local="吞噬者"/>
+    <str id="Elemental" value="Elemental" local="元素怪"/>
+    <str id="Living earth" value="Living earth" local="地元素"/>
+    <str id="Living air" value="Living air" local="气元素"/>
+    <str id="Living fire" value="Living fire" local="火元素"/>
+    <str id="Living water" value="Living water" local="水元素"/>
+    <str id="Human" value="Human" local="人类"/>
     <str id="Assassin" value="Assassin" local="刺客"/>
     <str id="Duelist" value="Duelist" local="斗士"/>
     <str id="Fighter" value="Fighter" local="战士"/>
@@ -2728,7 +2728,7 @@
     <str id="Sorceress" value="Sorceress" local="女巫"/>
     <str id="Knight" value="Knight" local="骑士"/>
     <str id="Archmage" value="Archmage" local="大法师"/>
-    <str id="Blackhand" value="Blackhand"/>
+    <str id="Blackhand" value="Blackhand" local="黑手"/>
     <str id="Prince Altren" value="Prince Altren"/>
     <str id="Master Gifin-Gif" value="Master Gifin-Gif"/>
     <str id="Beartamer Gareth" value="Beartamer Gareth"/>
@@ -2787,12 +2787,12 @@
     <str id="Fair" value="Fair"/>
     <str id="Gentle" value="Gentle"/>
     <str id="Haxxor" value="Haxxor"/>
-    <str id="Undead" value="Undead"/>
-    <str id="Undead warrior" value="Undead warrior"/>
-    <str id="Undead archer" value="Undead archer"/>
-    <str id="Undead mage" value="Undead mage"/>
-    <str id="Undead captain" value="Undead captain"/>
-    <str id="Ghost" value="Ghost"/>
+    <str id="Undead" value="Undead" local="亡灵"/>
+    <str id="Undead warrior" value="Undead warrior" local="亡灵战士"/>
+    <str id="Undead archer" value="Undead archer" local="亡灵射手"/>
+    <str id="Undead mage" value="Undead mage" local="亡灵法师"/>
+    <str id="Undead captain" value="Undead captain" local="亡灵队长"/>
+    <str id="Ghost" value="Ghost" local="鬼魂"/>
     <str id="Ghost of Arnold" value="Ghost of Arnold"/>
     <str id="Ghost of Bruce" value="Ghost of Bruce"/>
     <str id="Ghost of Dolph" value="Ghost of Dolph"/>
@@ -2802,7 +2802,7 @@
     <str id="Ghost of Norris" value="Ghost of Norris"/>
     <str id="Ghost of Randy" value="Ghost of Randy"/>
     <str id="Ghost of Sylvie" value="Ghost of Sylvie"/>
-    <str id="Immortal" value="Immortal"/>
+    <str id="Immortal" value="Immortal" local="不朽者"/>
   </CreatureNames>
   <CreatureLogs>
     <str id="You have gained a friend." value="You have gained a friend."/>
@@ -2821,54 +2821,54 @@
     <str id="%s yells: %s, come forth and fulfill your oath!" value="%s yells: %s, come forth and fulfill your oath!"/>
   </CreatureLogs>
   <TileNames>
-    <str id="blood pool" value="blood pool"/>
-    <str id="boulder" value="boulder"/>
-    <str id="bridge" value="bridge"/>
-    <str id="magical symbol" value="magical symbol"/>
-    <str id="door" value="door"/>
-    <str id="entrance" value="entrance"/>
-    <str id="stairs" value="stairs"/>
-    <str id="a ladder" value="a ladder"/>
-    <str id="gate" value="gate"/>
-    <str id="grave" value="grave"/>
-    <str id="lever" value="lever"/>
-    <str id="pillar" value="pillar"/>
-    <str id="mushroom patch" value="mushroom patch"/>
-    <str id="sign" value="sign"/>
-    <str id="dark pit" value="dark pit"/>
-    <str id="barrel" value="barrel"/>
-    <str id="cask" value="cask"/>
-    <str id="crate" value="crate"/>
-    <str id="chest" value="chest"/>
-    <str id="bookcase" value="bookcase"/>
-    <str id="cupboard" value="cupboard"/>
-    <str id="table" value="table"/>
-    <str id="wall torch" value="wall torch"/>
-    <str id="training dummy" value="training dummy"/>
-    <str id="archery target" value="archery target"/>
-    <str id="dark well" value="dark well"/>
-    <str id="magical altar" value="magical altar"/>
-    <str id="camp fire" value="camp fire"/>
-    <str id="spirit totem" value="spirit totem"/>
-    <str id="bear trap" value="bear trap"/>
-    <str id="spike trap" value="spike trap"/>
-    <str id="spider web" value="spider web"/>
-    <str id="spiked pit" value="spiked pit"/>
-    <str id="water pit" value="water pit"/>
-    <str id="magic trap" value="magic trap"/>
-    <str id="tripwire" value="tripwire"/>
-    <str id="a broken %s" value="a broken %s"/>
-    <str id="the broken %s" value="the broken %s"/>
-    <str id="a wall" value="a wall"/>
-    <str id="the wall" value="the wall"/>
-    <str id="a floor" value="a floor"/>
-    <str id="the floor" value="the floor"/>
-    <str id="a lava chasm" value="a lava chasm"/>
-    <str id="the lava chasm" value="the lava chasm"/>
-    <str id="a water chasm" value="a water chasm"/>
-    <str id="the water chasm" value="the water chasm"/>
-    <str id="something icky" value="something icky"/>
-    <str id="something squishy" value="something squishy"/>
+    <str id="blood pool" value="blood pool" local="血池"/>
+    <str id="boulder" value="boulder" local="巨石"/>
+    <str id="bridge" value="bridge" local="桥"/>
+    <str id="magical symbol" value="magical symbol" local="魔法印记"/>
+    <str id="door" value="door" local="门"/>
+    <str id="entrance" value="entrance" local="入口"/>
+    <str id="stairs" value="stairs" local="楼梯"/>
+    <str id="a ladder" value="a ladder" local="梯子"/>
+    <str id="gate" value="gate" local="大门"/>
+    <str id="grave" value="grave" local="坟墓"/>
+    <str id="lever" value="lever" local="控制杆"/>
+    <str id="pillar" value="pillar" local="柱子"/>
+    <str id="mushroom patch" value="mushroom patch" local="蘑菇碎片"/>
+    <str id="sign" value="sign" local="记号"/>
+    <str id="dark pit" value="dark pit" local="暗坑"/>
+    <str id="barrel" value="barrel" local="桶"/>
+    <str id="cask" value="cask" local="木桶"/>
+    <str id="crate" value="crate" local="箱子"/>
+    <str id="chest" value="chest" local="柜子"/>
+    <str id="bookcase" value="bookcase" local="书架"/>
+    <str id="cupboard" value="cupboard" local="橱柜"/>
+    <str id="table" value="table" local="桌子"/>
+    <str id="wall torch" value="wall torch" local="壁火"/>
+    <str id="training dummy" value="training dummy" local="训练假人"/>
+    <str id="archery target" value="archery target" local="射击靶"/>
+    <str id="dark well" value="dark well" local="幽暗水井"/>
+    <str id="magical altar" value="magical altar" local="魔法祭坛"/>
+    <str id="camp fire" value="camp fire" local="营火"/>
+    <str id="spirit totem" value="spirit totem" local="精灵图腾"/>
+    <str id="bear trap" value="bear trap" local="捕熊夹"/>
+    <str id="spike trap" value="spike trap" local="尖刺陷阱"/>
+    <str id="spider web" value="spider web" local="蜘蛛网"/>
+    <str id="spiked pit" value="spiked pit" local="尖刺坑"/>
+    <str id="water pit" value="water pit" local="水坑"/>
+    <str id="magic trap" value="magic trap" local="魔法陷阱"/>
+    <str id="tripwire" value="tripwire" local="绊网"/>
+    <str id="a broken %s" value="a broken %s" local="一个破碎的 %s"/>
+    <str id="the broken %s" value="the broken %s" local="这个破碎的 %s"/>
+    <str id="a wall" value="a wall" local="一口井"/>
+    <str id="the wall" value="the wall" local="这口井"/>
+    <str id="a floor" value="a floor" local="一块地板"/>
+    <str id="the floor" value="the floor" local="这块地板"/>
+    <str id="a lava chasm" value="a lava chasm" local="一个熔岩峡谷"/>
+    <str id="the lava chasm" value="the lava chasm" local="这个熔岩峡谷"/>
+    <str id="a water chasm" value="a water chasm" local="一个深水峡谷"/>
+    <str id="the water chasm" value="the water chasm" local="这个深水峡谷"/>
+    <str id="something icky" value="something icky" local="讨厌的东西"/>
+    <str id="something squishy" value="something squishy" local="黏糊糊的东西"/>
   </TileNames>
   <TileLogs>
     <str id="You see %s." value="You see %s."/>
@@ -3138,17 +3138,17 @@
     <str id="COD_TRANSMUTE_FAIL" value="%s died of too many lost chest hairs caused by failed transmutation."/>
   </CauseOfDeath>
   <DamageTypes>
-    <str id="physical" value="physical"/>
-    <str id="fire" value="fire"/>
-    <str id="frost" value="frost"/>
-    <str id="shock" value="shock"/>
-    <str id="poison" value="poison"/>
-    <str id="disease" value="disease"/>
-    <str id="magic" value="magic"/>
-    <str id="elemental" value="elemental"/>
-    <str id="crush" value="crush"/>
-    <str id="fall" value="fall"/>
-    <str id="bleed" value="bleed"/>
+    <str id="physical" value="physical" local="物理"/>
+    <str id="fire" value="fire" local="火焰"/>
+    <str id="frost" value="frost" local="冰霜"/>
+    <str id="shock" value="shock" local="震击"/>
+    <str id="poison" value="poison" local="毒害"/>
+    <str id="disease" value="disease" local="疾病"/>
+    <str id="magic" value="magic" local="魔法"/>
+    <str id="elemental" value="elemental" local="元素"/>
+    <str id="crush" value="crush" local="粉碎"/>
+    <str id="fall" value="fall" local="跌落"/>
+    <str id="bleed" value="bleed" local="流血"/>
   </DamageTypes>
   <Achievements>
     <str id="You have returned a schematic titled '%s'!" value="You have returned a schematic titled '%s'!"/>
@@ -3292,86 +3292,86 @@
     <str id="Press and hold %s to view all tutorial entries." value="Press and hold %s to view all tutorial entries." local="按住 %s 浏览所有的教学项。"/>
   </TutorialDescs>
   <HeritageNames>
-    <str id="Wizard's Staff" value="Wizard's Staff"/>
-    <str id="Bow and Arrows" value="Bow and Arrows"/>
-    <str id="Throwing Knives" value="Throwing Knives"/>
-    <str id="Sword and Buckler" value="Sword and Buckler"/>
-    <str id="Leather Armour Set" value="Leather Armour Set"/>
-    <str id="Potion of Antidote" value="Potion of Antidote"/>
-    <str id="Potion of Healing" value="Potion of Healing"/>
-    <str id="The Seventh Talent" value="The Seventh Talent"/>
-    <str id="The Interface Dog" value="The Interface Dog"/>
-    <str id="The Silver Spoon" value="The Silver Spoon"/>
-    <str id="One Strange Trip" value="One Strange Trip"/>
-    <str id="The Pandamonium" value="The Pandamonium"/>
-    <str id="Arcane Gimmickry" value="Arcane Gimmickry"/>
-    <str id="Lightning Reflexes" value="Lightning Reflexes"/>
-    <str id="Heroes of Hallwood" value="Heroes of Hallwood"/>
-    <str id="Fire Resistant" value="Fire Resistant"/>
-    <str id="Frost Resistant" value="Frost Resistant"/>
-    <str id="Shock Resistant" value="Shock Resistant"/>
-    <str id="Poison Resistant" value="Poison Resistant"/>
-    <str id="Disease Resistant" value="Disease Resistant"/>
-    <str id="Blissful Ignorance" value="Blissful Ignorance"/>
-    <str id="Celestial Mastery" value="Celestial Mastery"/>
-    <str id="Draconic Mastery" value="Draconic Mastery"/>
-    <str id="Infernal Mastery" value="Infernal Mastery"/>
-    <str id="Arcane Mastery" value="Arcane Mastery"/>
-    <str id="Bestial Mastery" value="Bestial Mastery"/>
-    <str id="Abyssal Mastery" value="Abyssal Mastery"/>
-    <str id="Amulet Knowledge" value="Amulet Knowledge"/>
-    <str id="Ring Knowledge" value="Ring Knowledge"/>
-    <str id="Wand Knowledge" value="Wand Knowledge"/>
-    <str id="Scroll Knowledge" value="Scroll Knowledge"/>
-    <str id="Potion Knowledge" value="Potion Knowledge"/>
-    <str id="Enchant Knowledge" value="Enchant Knowledge"/>
-    <str id="Defile This" value="Defile This"/>
-    <str id="Healthy Diet" value="Healthy Diet"/>
-    <str id="Mighty Hulk" value="Mighty Hulk"/>
-    <str id="Loose Weight" value="Loose Weight"/>
-    <str id="The Wanderer" value="The Wanderer"/>
-    <str id="Three Tails" value="Three Tails"/>
-    <str id="The Pink Order" value="The Pink Order"/>
-    <str id="Big Bada Boom" value="Big Bada Boom"/>
-    <str id="Over 9000" value="Over 9000"/>
-    <str id="Gurmur's End" value="Gurmur's End"/>
-    <str id="Canis Woofus" value="Canis Woofus"/>
-    <str id="Familiaripathy" value="Familiaripathy"/>
-    <str id="Traps Are Bad" value="Traps Are Bad"/>
-    <str id="Hardened Skin" value="Hardened Skin"/>
-    <str id="Winter Fur Coat" value="Winter Fur Coat"/>
-    <str id="Arctic Fur Coat" value="Arctic Fur Coat"/>
-    <str id="Ferocious Bite" value="Ferocious Bite"/>
-    <str id="Sharpened Fangs" value="Sharpened Fangs"/>
-    <str id="Rare Breed" value="Rare Breed"/>
-    <str id="Epic Breed" value="Epic Breed"/>
-    <str id="Craftalicious" value="Craftalicious"/>
-    <str id="Swords 'n Stuff" value="Swords 'n Stuff"/>
-    <str id="Just Smashing" value="Just Smashing"/>
-    <str id="Heavy Hitters" value="Heavy Hitters"/>
-    <str id="Flying Tithril" value="Flying Tithril"/>
-    <str id="Complex Tension" value="Complex Tension"/>
-    <str id="Solid Protection" value="Solid Protection"/>
-    <str id="Hardened Skull" value="Hardened Skull"/>
-    <str id="Smart Clothing" value="Smart Clothing"/>
-    <str id="Cry On My Shoulder" value="Cry On My Shoulder"/>
-    <str id="Brace For Impact" value="Brace For Impact"/>
-    <str id="Hairy Handguards" value="Hairy Handguards"/>
-    <str id="Don't Tread On Me" value="Don't Tread On Me"/>
-    <str id="Patron of Arts" value="Patron of Arts"/>
-    <str id="Spiritual Guidance" value="Spiritual Guidance"/>
-    <str id="Bestial Vigour" value="Bestial Vigour"/>
-    <str id="Leader of the Pack" value="Leader of the Pack"/>
-    <str id="That's Grizzly" value="That's Grizzly"/>
-    <str id="Ursus Horribilis" value="Ursus Horribilis"/>
-    <str id="Blood Frenzy" value="Blood Frenzy"/>
-    <str id="Lupine Grace" value="Lupine Grace"/>
-    <str id="Vampiric Bite" value="Vampiric Bite"/>
-    <str id="Face Muncher" value="Face Muncher"/>
-    <str id="Monster Chow" value="Monster Chow"/>
-    <str id="Second Amendment" value="Second Amendment"/>
-    <str id="Rise of Fairies" value="Rise of Fairies"/>
-    <str id="Wester Worshipper" value="Wester Worshipper"/>
+    <str id="Wizard's Staff" value="Wizard's Staff" local="法师之杖"/>
+    <str id="Bow and Arrows" value="Bow and Arrows" local="弓箭"/>
+    <str id="Throwing Knives" value="Throwing Knives" local="飞刀"/>
+    <str id="Sword and Buckler" value="Sword and Buckler" local="剑盾"/>
+    <str id="Leather Armour Set" value="Leather Armour Set" local="皮质护甲套装"/>
+    <str id="Potion of Antidote" value="Potion of Antidote" local="解毒药剂"/>
+    <str id="Potion of Healing" value="Potion of Healing" local="生命药剂"/>
+    <str id="The Seventh Talent" value="The Seventh Talent" local="第七天赋"/>
+    <str id="The Interface Dog" value="The Interface Dog" local="界面狗"/>
+    <str id="The Silver Spoon" value="The Silver Spoon" local="银勺子"/>
+    <str id="One Strange Trip" value="One Strange Trip" local="奇怪的旅程"/>
+    <str id="The Pandamonium" value="The Pandamonium" local="功夫熊猫"/>
+    <str id="Arcane Gimmickry" value="Arcane Gimmickry" local="奥术机关"/>
+    <str id="Lightning Reflexes" value="Lightning Reflexes" local="闪电反应"/>
+    <str id="Heroes of Hallwood" value="Heroes of Hallwood" local="神圣英雄"/>
+    <str id="Fire Resistant" value="Fire Resistant" local="火焰抗性"/>
+    <str id="Frost Resistant" value="Frost Resistant" local="冰霜抗性"/>
+    <str id="Shock Resistant" value="Shock Resistant" local="震击抗性"/>
+    <str id="Poison Resistant" value="Poison Resistant" local="毒害抗性"/>
+    <str id="Disease Resistant" value="Disease Resistant" local="疾病抗性"/>
+    <str id="Blissful Ignorance" value="Blissful Ignorance" local="无知无畏"/>
+    <str id="Celestial Mastery" value="Celestial Mastery" local="天使系专精"/>
+    <str id="Draconic Mastery" value="Draconic Mastery" local="龙系专精"/>
+    <str id="Infernal Mastery" value="Infernal Mastery" local="地狱系专精"/>
+    <str id="Arcane Mastery" value="Arcane Mastery" local="奥术专精"/>
+    <str id="Bestial Mastery" value="Bestial Mastery" local="兽性专精"/>
+    <str id="Abyssal Mastery" value="Abyssal Mastery" local="深渊专精"/>
+    <str id="Amulet Knowledge" value="Amulet Knowledge" local="护身符知识"/>
+    <str id="Ring Knowledge" value="Ring Knowledge" local="戒指知识"/>
+    <str id="Wand Knowledge" value="Wand Knowledge" local="魔杖知识"/>
+    <str id="Scroll Knowledge" value="Scroll Knowledge" local="卷轴知识"/>
+    <str id="Potion Knowledge" value="Potion Knowledge" local="药剂知识"/>
+    <str id="Enchant Knowledge" value="Enchant Knowledge" local="附魔知识"/>
+    <str id="Defile This" value="Defile This" local="亵渎这个"/>
+    <str id="Healthy Diet" value="Healthy Diet" local="健康饮食"/>
+    <str id="Mighty Hulk" value="Mighty Hulk" local="绿巨人"/>
+    <str id="Loose Weight" value="Loose Weight" local="减重"/>
+    <str id="The Wanderer" value="The Wanderer" local="流浪者"/>
+    <str id="Three Tails" value="Three Tails" local="三条"/>
+    <str id="The Pink Order" value="The Pink Order" local="粉色骑士团"/>
+    <str id="Big Bada Boom" value="Big Bada Boom" local="大爆炸"/>
+    <str id="Over 9000" value="Over 9000" local="超过 9000"/>
+    <str id="Gurmur's End" value="Gurmur's End" local="咕呣的末日"/>
+    <str id="Canis Woofus" value="Canis Woofus" local="狼狗"/>
+    <str id="Familiaripathy" value="Familiaripathy" local="亲密感"/>
+    <str id="Traps Are Bad" value="Traps Are Bad" local="糟糕的陷阱"/>
+    <str id="Hardened Skin" value="Hardened Skin" local="硬化皮肤"/>
+    <str id="Winter Fur Coat" value="Winter Fur Coat" local="严冬毛皮"/>
+    <str id="Arctic Fur Coat" value="Arctic Fur Coat" local="极地毛皮"/>
+    <str id="Ferocious Bite" value="Ferocious Bite" local="凶残之咬"/>
+    <str id="Sharpened Fangs" value="Sharpened Fangs" local="铁齿钢牙"/>
+    <str id="Rare Breed" value="Rare Breed" local="稀有血统"/>
+    <str id="Epic Breed" value="Epic Breed" local="精英血统"/>
+    <str id="Craftalicious" value="Craftalicious" local="能工巧匠"/>
+    <str id="Swords 'n Stuff" value="Swords 'n Stuff" local="刀剑工厂"/>
+    <str id="Just Smashing" value="Just Smashing" local="砸烂一切"/>
+    <str id="Heavy Hitters" value="Heavy Hitters" local="重型打击"/>
+    <str id="Flying Tithril" value="Flying Tithril" local="钛石飞扬"/>
+    <str id="Complex Tension" value="Complex Tension" local="张力无限"/>
+    <str id="Solid Protection" value="Solid Protection" local="严密保护"/>
+    <str id="Hardened Skull" value="Hardened Skull" local="硬化头颅"/>
+    <str id="Smart Clothing" value="Smart Clothing" local="精美外衣"/>
+    <str id="Cry On My Shoulder" value="Cry On My Shoulder" local="肩部呐喊"/>
+    <str id="Brace For Impact" value="Brace For Impact" local="手腕冲击"/>
+    <str id="Hairy Handguards" value="Hairy Handguards" local="吓人护手"/>
+    <str id="Don't Tread On Me" value="Don't Tread On Me" local="不要踩我"/>
+    <str id="Patron of Arts" value="Patron of Arts" local="赞助的艺术"/>
+    <str id="Spiritual Guidance" value="Spiritual Guidance" local="精神引导"/>
+    <str id="Bestial Vigour" value="Bestial Vigour" local="兽性大发"/>
+    <str id="Leader of the Pack" value="Leader of the Pack" local="团队领袖"/>
+    <str id="That's Grizzly" value="That's Grizzly" local="那有灰熊"/>
+    <str id="Ursus Horribilis" value="Ursus Horribilis" local="熊的恐怖"/>
+    <str id="Blood Frenzy" value="Blood Frenzy" local="狂暴之血"/>
+    <str id="Lupine Grace" value="Lupine Grace" local="优雅之狼"/>
+    <str id="Vampiric Bite" value="Vampiric Bite" local="吸血之咬"/>
+    <str id="Face Muncher" value="Face Muncher" local="正面咀嚼"/>
+    <str id="Monster Chow" value="Monster Chow" local="怪物大餐"/>
+    <str id="Second Amendment" value="Second Amendment" local="第二修正案"/>
+    <str id="Rise of Fairies" value="Rise of Fairies" local="精灵飞升"/>
+    <str id="Wester Worshipper" value="Wester Worshipper" local="西风崇拜者"/>
   </HeritageNames>
   <HeritageDescs>
     <str id="This heritage can't be unlocked on casual difficulty level." value="This heritage can't be unlocked on casual difficulty level."/>
@@ -4584,14 +4584,14 @@
     <str id="All hail %s!" value="All hail %s!"/>
     <str id="%s You have to wait two seconds before sending another message." value="%s You have to wait two seconds before sending another message."/>
     <str id="You can view and change key bindings in the main menu %s." value="You can view and change key bindings in the main menu %s."/>
-    <str id="Commands:" value="Commands:"/>
-    <str id="/search" value="/search"/>
-    <str id="/score" value="/score"/>
-    <str id="/sort" value="/sort"/>
-    <str id="/dog" value="/dog"/>
-    <str id="/resetdog" value="/resetdog"/>
-    <str id="/skipnull" value="/skipnull"/>
-    <str id="/mrgsteam" value="/mrgsteam"/>
+    <str id="Commands:" value="Commands:" local="命令："/>
+    <str id="/search" value="/search" local="/search（搜索）"/>
+    <str id="/score" value="/score" local="/score（得分）"/>
+    <str id="/sort" value="/sort" local="/sort（排序）"/>
+    <str id="/dog" value="/dog" local="/dog（狗）"/>
+    <str id="/resetdog" value="/resetdog" local="/resetdog（重置狗）"/>
+    <str id="/skipnull" value="/skipnull" local="/skipnull（跳过）"/>
+    <str id="/mrgsteam" value="/mrgsteam" local="/mrgsteam（导入Steam）"/>
     <str id="Type %s to set the number of search attempts (using values 1 through 6)." value="Type %s to set the number of search attempts (using values 1 through 6)."/>
     <str id="Search attempts has been set to %d." value="Search attempts has been set to %d."/>
     <str id="Your current score is %d." value="Your current score is %d."/>
