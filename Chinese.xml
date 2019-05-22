@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="ac72f7bc68e7043aef5dfcc3a7a91e66ce8394af">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="7e14ceebbab6f67291d6ff57290e97fb1b470acc">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -108,42 +108,42 @@
     <str id="Close" value="Close" local="关闭"/>
   </Buttons>
   <Keybinds>
-    <str id="Loot" value="This key shows the items on the ground while it is pressed."/>
-    <str id="Pri. Use" value="This key is used with the movement keys to carry out actions such as pick lock, disarm trap and open door."/>
-    <str id="Sec. Use" value="This key is used with a hotkey to self cast spells, equip weapons in the offhand and to equip a ring on the offhand finger."/>
-    <str id="Enter" value="This key is used to accept interface choices and to climb stairs up and down."/>
-    <str id="Hotkey" value="Hotkeys can be used to quickly cast spells and use talents.">
-      <str id="paragraph 1" value="You can bind a hotkey by pressing it while having the desired spell or talent selected in the spellbook window."/>
+    <str id="Loot" value="This key shows the items on the ground while it is pressed." local="这个按键按下时显示地上的物品。"/>
+    <str id="Pri. Use" value="This key is used with the movement keys to carry out actions such as pick lock, disarm trap and open door." local="这个键和移动键一起按可进行开锁、解除陷阱、开&#10;门等动作。"/>
+    <str id="Sec. Use" value="This key is used with a hotkey to self cast spells, equip weapons in the offhand and to equip a ring on the offhand finger." local="这个键和热键一起按可对自己施法，在副手上装备&#10;武器，以及在副手手指上装备戒指。"/>
+    <str id="Enter" value="This key is used to accept interface choices and to climb stairs up and down." local="这个键用来在界面上确认，上下楼梯。"/>
+    <str id="Hotkey" value="Hotkeys can be used to quickly cast spells and use talents." local="热键用来快速施法、使用天赋。">
+      <str id="paragraph 1" value="You can bind a hotkey by pressing it while having the desired spell or talent selected in the spellbook window." local="你可以在法术书窗口里选中喜欢的法术或天赋，同&#10;时按下热键进行绑定。"/>
     </str>
-    <str id="Chat" value="This key shows the text field that can be used to send instant messages to other players (online only)."/>
-    <str id="Jump" value="This key can be used to jump in one of the four main directions (north, south, east, west)."/>
-    <str id="Swap" value="This key quickly swaps between the primary weapon set and the secondary weapon set."/>
-    <str id="Equip" value="This key brings up the inventory window with an option to equip and unequip items."/>
-    <str id="Sort" value="This key sorts the inventory."/>
-    <str id="Travel" value="This key is used to quickly travel back to town after the current level has been cleared."/>
-    <str id="Attack" value="This key brings up the attack cursor that can be used to attack enemies with ranged weapons."/>
-    <str id="Search" value="This key is used to search the surroundings for traps and hidden features."/>
-    <str id="Drop" value="This key shows the inventory window with an option to drop items."/>
-    <str id="Throw" value="This key shows the inventory window with an option to throw items."/>
-    <str id="Focus" value="This key brings up the focus cursor that can be used to order allies to focus on the chosen target."/>
-    <str id="Cast" value="This key shows the spellbook that can be used to use talents and cast known spells."/>
-    <str id="Look" value="This key brings up the look cursor that can be used to take a closer look at a target within range."/>
-    <str id="Move N" value="This key moves the player or cursor up."/>
-    <str id="Move S" value="This key moves the player or cursor down."/>
-    <str id="Move E" value="This key moves the player or cursor right."/>
-    <str id="Move W" value="This key moves the player or cursor left."/>
-    <str id="Move NE" value="This key moves the player or cursor up and right."/>
-    <str id="Move SE" value="This key moves the player or cursor down and right."/>
-    <str id="Move NW" value="This key moves the player or cursor up and left."/>
-    <str id="Move SW" value="This key moves the player or cursor down and left."/>
-    <str id="Rest" value="This key is used to rest for one turn.">
-      <str id="paragraph 1" value="Note that Keypad 5 requires that Num Lock is on and the 5 is a dead key otherwise (game engine feature)."/>
+    <str id="Chat" value="This key shows the text field that can be used to send instant messages to other players (online only)." local="这个键用来弹出一个文本输入框，用来向其他玩家&#10;发送即时消息（仅用于在线模式）。"/>
+    <str id="Jump" value="This key can be used to jump in one of the four main directions (north, south, east, west)." local="这个键用来向四个主方向（东南西北）跳跃。"/>
+    <str id="Swap" value="This key quickly swaps between the primary weapon set and the secondary weapon set." local="这个键用来在主武器组和备选武器组之间快速切换&#10;。"/>
+    <str id="Equip" value="This key brings up the inventory window with an option to equip and unequip items." local="这个键用来弹出物品界面，并进行装备和接触装备&#10;。"/>
+    <str id="Sort" value="This key sorts the inventory." local="这个键会整理背包内的物品。"/>
+    <str id="Travel" value="This key is used to quickly travel back to town after the current level has been cleared." local="这个键用来在当前楼层探查完毕后快速返城。"/>
+    <str id="Attack" value="This key brings up the attack cursor that can be used to attack enemies with ranged weapons." local="这个键带出攻击光标，用远程武器攻击敌人。"/>
+    <str id="Search" value="This key is used to search the surroundings for traps and hidden features." local="这个键用来搜索周围的陷阱及隐藏物。"/>
+    <str id="Drop" value="This key shows the inventory window with an option to drop items." local="这个键弹出物品界面，并开始丢弃物品。"/>
+    <str id="Throw" value="This key shows the inventory window with an option to throw items." local="这个键弹出物品界面，并开始投掷物品。"/>
+    <str id="Focus" value="This key brings up the focus cursor that can be used to order allies to focus on the chosen target." local="这个键带出聚焦光标，用来指挥盟友聚焦到选择的&#10;目标上。"/>
+    <str id="Cast" value="This key shows the spellbook that can be used to use talents and cast known spells." local="这个键弹出法术书界面，使用其中的天赋或法术。"/>
+    <str id="Look" value="This key brings up the look cursor that can be used to take a closer look at a target within range." local="这个键弹出观察光标，用来观察范围内的物体。"/>
+    <str id="Move N" value="This key moves the player or cursor up." local="这个键将玩家或光标向上移动。"/>
+    <str id="Move S" value="This key moves the player or cursor down." local="这个键将玩家或光标向下移动。"/>
+    <str id="Move E" value="This key moves the player or cursor right." local="这个键将玩家或光标向右移动。"/>
+    <str id="Move W" value="This key moves the player or cursor left." local="这个键将玩家或光标向左移动。"/>
+    <str id="Move NE" value="This key moves the player or cursor up and right." local="这个键将玩家或光标向右上移动。"/>
+    <str id="Move SE" value="This key moves the player or cursor down and right." local="这个键将玩家或光标向右下移动。"/>
+    <str id="Move NW" value="This key moves the player or cursor up and left." local="这个键将玩家或光标向左上移动。"/>
+    <str id="Move SW" value="This key moves the player or cursor down and left." local="这个键将玩家或光标向左下移动。"/>
+    <str id="Rest" value="This key is used to rest for one turn." local="这个键用来休息一个回合。">
+      <str id="paragraph 1" value="Note that Keypad 5 requires that Num Lock is on and the 5 is a dead key otherwise (game engine feature)." local="注意：小键盘 5 必须在小键盘灯亮起时才有效，否&#10;则无效（游戏引擎限制）。"/>
     </str>
   </Keybinds>
   <Tooltips>
-    <str id="Hover mouse over the checkboxes to find out how to unlock them." value="Hover mouse over the checkboxes to find out how to unlock them."/>
-    <str id="Sets the account name when the program is launched." value="Sets the account name when the program is launched."/>
-    <str id="Enables the use of a Playstation 4 gamepad." value="Enables the use of a Playstation 4 gamepad."/>
+    <str id="Hover mouse over the checkboxes to find out how to unlock them." value="Hover mouse over the checkboxes to find out how to unlock them." local="把鼠标停留在勾选框上看看如何解锁它们。"/>
+    <str id="Sets the account name when the program is launched." value="Sets the account name when the program is launched." local="在程序启动后设置一个账号名称。"/>
+    <str id="Enables the use of a Playstation 4 gamepad." value="Enables the use of a Playstation 4 gamepad." local="开启 Playstation 4 手柄支持。"/>
   </Tooltips>
   <GUITown>
     <str id="Trade items" value="Trade items" local="物品交易"/>
