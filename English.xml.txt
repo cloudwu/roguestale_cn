@@ -92,7 +92,7 @@ Buttons."Gamepad" 手柄
 Buttons."Save changes" 保存更改
 Buttons."Change password" 密码修改
 Buttons."Rest in peace" 逝者安息
-Buttons."Journey onward" 继续旅程
+Buttons."Journey onward" 继续征程
 Buttons."Start a new game" 开启新游戏
 Buttons."Okay" 确定
 Buttons."Close" 关闭
@@ -163,7 +163,7 @@ GUITown."Destroy bound ring" 摧毁绑定的戒指
 GUITown."%dg" %dg
 GUITown."Donate %dg" 捐献 %dg
 GUITown."Feast and rest (%dg)" 饱餐并休息 (%dg)
-GUITown."I'm fully prepared!" 我已完全准备好了！
+GUITown."I'm fully prepared!" 我已整装待发！
 GUIDesc."MARKET_SQUARE" @(32)你进入了商业集市，这里可以和各式商人交易物品。
 GUIDesc."MARKET_SQUARE".1 @(32)注意：如果商人的货架被垃圾堆满的话，你可以通过在旅店休息重置它们。
 GUIDesc."LEOS_WORKSHOP" @(32)你进入了里奥的工坊，在这里你可以交纳一些材料和一点金币打造你要的物品。
@@ -204,9 +204,9 @@ GUILogs."You prepare yourself for the new challenge ahead..." You prepare yourse
 GUILogs."You tell your friends to head out to the new dungeon..." You tell your friends to head out to the new dungeon...
 GUILogs."Failed to load map [%s]. Perhaps you should contact the developer..." Failed to load map [%s]. Perhaps you should contact the developer...
 GUIPops."%s is now properly buried at the shrine of the forgotten heroes and %s should not haunt us anymore." %s is now properly buried at the shrine of the forgotten heroes and %s should not haunt us anymore.
-GUIPops."You have reached" 你抵达了
+GUIPops."You have reached" 你已达到
 GUIPops."Level %d" 等级 %d
-GUIPops."You have entered" 你进入了
+GUIPops."You have entered" 你已进入
 Quests."I got plenty of money!" I got plenty of money!
 Quests."Pay the price (%dg)" Pay the price (%dg)
 Quests."Consider him shaved!" Consider him shaved!
@@ -316,7 +316,7 @@ Travelers."the elemental" the elemental
 Travelers."the troll" the troll
 Travelers."the demonrat" the demonrat
 LootTips."Blessed" 神圣的
-LootTips."Cursed" 诅咒的
+LootTips."Cursed" 被诅咒的
 LootTips."Worn" 磨损的
 LootTips."Damaged" 损坏的
 LootTips."Potent" 强效
@@ -387,9 +387,9 @@ LootTips."Thrown" 投掷
 LootTips."%s x %d (%d - %d turns)" %s x %d （%d - %d 回合）
 LootTips."Legendary Item" 传奇物品
 LootTips."Unique Item" 独特物品
-LootTips."Unidentified" 未鉴定的
-LootTips."Cannot be enchanted" 不能被附魔
-LootTips."Already known" 已经知晓
+LootTips."Unidentified" 未鉴定
+LootTips."Cannot be enchanted" 无法附魔
+LootTips."Already known" 已知
 LootTips."Crafting Item" 锻造物品
 LootTips."Main Hand To-Hit Modifier: %d" 主手命中修正：%d
 LootTips."Main Hand Damage Modifier: %d" 主手伤害修正：%d
@@ -430,7 +430,7 @@ LootTips."Immune to Energy Drain" 免疫噬精
 LootTips."Immune to Instant Death" 免疫即死
 LootTips."Immune to Disarm" 免疫缴械
 LootTips."Immune to Stun" 免疫眩晕
-LootTips."You are not immune to anything" 你对一切免疫
+LootTips."You are not immune to anything" 尚无免疫效果
 LookLogs."You see a man who desperately needs a selfie stick." 你看见了一个急需自拍杆的男人。
 LookLogs."You see a woman who desperately needs a selfie stick." 你看见了一个急需自拍杆的女人。
 LookLogs."You see yourself." 你看见了自己。
@@ -968,7 +968,7 @@ TalentDescs."Aimed Shot" @(30)远程攻击每点敏捷增益修正获得 D3 的�
 TalentDescs."Multi Shot" @(30)远程攻击将命中目标生物邻接的多个额外生物目标，数量等于敏捷增益修正值。
 TalentDescs."Quick Shot" @(30)远程攻击的射击前生物可以先移动。
 TalentDescs."Steady Shot" @(30)远程攻击时，可以重投失败的命中检定，在隐秘状态下能造成双倍伤害。
-TalentDescs."Blade Flurry" @(30)近战攻击的每把武器（当敏捷增益修正 +1 或更高时，可针对主手武器；+3 或更高时针对副手武器）获得最一次额外攻击机会。剑刃乱舞需要两把小型武器或将一把中型武器双手使用。
+TalentDescs."Blade Flurry" @(30)近战攻击的每把武器（当敏捷 +1 及 +3 时）获得最一次额外攻击机会。剑刃乱舞需要两把小型武器或双手使用一把中型武器。
 TalentDescs."Blade Flurry".1 
 TalentDescs."Deadly Throw" @(30)投掷武器攻击的每点属性增益修正获得 D3 额外伤害，取代普通的 1 点额外伤害，依据的属性取力量和敏捷中的较高值。（修正同时针对命中检定）。
 TalentDescs."Deadly Throw".1 
@@ -996,7 +996,7 @@ TalentDescs."Silent Cast".1 @(30)沉默施法还会教会沉静施法。
 TalentDescs."Dark Vision" @(30)增加一格视野，并将距离修正减半向下取整。
 TalentDescs."Dual Wield" @(30)副手攻击不再承受的命中修正的惩罚，伤害和招架修正取敏捷修正而不是其一半。
 TalentDescs."Dual Wield".1 
-TalentDescs."Keen Eye" @(30)增加一格搜索半径，并在移动或休息行动时获得一次搜索周围的免费行动。锐利目光还会在失败的搜索检定后重掷。
+TalentDescs."Keen Eye" @(30)增加一格搜索半径，并在移动或休息行动时免费获得一次搜索周围的行动。锐利目光还会在失败的搜索检定后重掷。
 TalentDescs."Keen Eye".1 
 TalentDescs."Sixth Sense" @(30)允许生物重掷反射检定，并在拾起装备或使用未鉴定的被诅咒物品前给出警告。
 TalentDescs."Sixth Sense".1 
@@ -1374,94 +1374,94 @@ ItemSets."Reduce Bestial cooldown by 50%." Reduce Bestial cooldown by 50%.
 ItemSets."Reduce Abyssal cooldown by 50%." Reduce Abyssal cooldown by 50%.
 ItemSets."Heals D6 points per turn." Heals D6 points per turn.
 ItemSets."Befriend daemons." Befriend daemons.
-AddonNames."Padded Spaulders" Padded Spaulders
-AddonNames."Leather Spaulders" Leather Spaulders
-AddonNames."Studded Spaulders" Studded Spaulders
-AddonNames."Chain Spaulders" Chain Spaulders
-AddonNames."Plate Spaulders" Plate Spaulders
-AddonNames."Winter Spaulders" Winter Spaulders
-AddonNames."Dragonhide Spaulders" Dragonhide Spaulders
-AddonNames."Bloodrage Spaulders" Bloodrage Spaulders
-AddonNames."Blackthorn Spaulders" Blackthorn Spaulders
-AddonNames."Ebonheart Spaulders" Ebonheart Spaulders
-AddonNames."Celestial Spaulders" Celestial Spaulders
-AddonNames."Draconic Spaulders" Draconic Spaulders
-AddonNames."Infernal Spaulders" Infernal Spaulders
-AddonNames."Arcane Spaulders" Arcane Spaulders
-AddonNames."Bestial Spaulders" Bestial Spaulders
-AddonNames."Abyssal Spaulders" Abyssal Spaulders
-AddonNames."Padded Vambraces" Padded Vambraces
-AddonNames."Leather Vambraces" Leather Vambraces
-AddonNames."Studded Vambraces" Studded Vambraces
-AddonNames."Chain Vambraces" Chain Vambraces
-AddonNames."Plate Vambraces" Plate Vambraces
-AddonNames."Winter Vambraces" Winter Vambraces
-AddonNames."Dragonhide Vambraces" Dragonhide Vambraces
-AddonNames."Bloodrage Vambraces" Bloodrage Vambraces
-AddonNames."Blackthorn Vambraces" Blackthorn Vambraces
-AddonNames."Ebonheart Vambraces" Ebonheart Vambraces
-AddonNames."Celestial Vambraces" Celestial Vambraces
-AddonNames."Draconic Vambraces" Draconic Vambraces
-AddonNames."Infernal Vambraces" Infernal Vambraces
-AddonNames."Arcane Vambraces" Arcane Vambraces
-AddonNames."Bestial Vambraces" Bestial Vambraces
-AddonNames."Abyssal Vambraces" Abyssal Vambraces
-AddonNames."Padded Gloves" Padded Gloves
-AddonNames."Leather Gloves" Leather Gloves
-AddonNames."Studded Gloves" Studded Gloves
-AddonNames."Chain Gloves" Chain Gloves
-AddonNames."Plate Gauntlets" Plate Gauntlets
-AddonNames."Winter Gloves" Winter Gloves
-AddonNames."Dragonhide Gloves" Dragonhide Gloves
-AddonNames."Bloodrage Gloves" Bloodrage Gloves
-AddonNames."Blackthorn Gauntlets" Blackthorn Gauntlets
-AddonNames."Ebonheart Gauntlets" Ebonheart Gauntlets
-AddonNames."Celestial Gloves" Celestial Gloves
-AddonNames."Draconic Gloves" Draconic Gloves
-AddonNames."Infernal Gloves" Infernal Gloves
-AddonNames."Arcane Gloves" Arcane Gloves
-AddonNames."Bestial Gloves" Bestial Gloves
-AddonNames."Abyssal Gloves" Abyssal Gloves
-AddonNames."Padded Boots" Padded Boots
-AddonNames."Leather Boots" Leather Boots
-AddonNames."Studded Boots" Studded Boots
-AddonNames."Chain Boots" Chain Boots
-AddonNames."Plate Sabatons" Plate Sabatons
-AddonNames."Winter Boots" Winter Boots
-AddonNames."Dragonhide Boots" Dragonhide Boots
-AddonNames."Bloodrage Boots" Bloodrage Boots
-AddonNames."Blackthorn Sabatons" Blackthorn Sabatons
-AddonNames."Ebonheart Sabatons" Ebonheart Sabatons
-AddonNames."Celestial Boots" Celestial Boots
-AddonNames."Draconic Boots" Draconic Boots
-AddonNames."Infernal Boots" Infernal Boots
-AddonNames."Arcane Boots" Arcane Boots
-AddonNames."Bestial Boots" Bestial Boots
-AddonNames."Abyssal Boots" Abyssal Boots
-AddonNames."Fine Padded Spaulders" Fine Padded Spaulders
-AddonNames."Fine Leather Spaulders" Fine Leather Spaulders
-AddonNames."Fine Studded Spaulders" Fine Studded Spaulders
-AddonNames."Fine Chain Spaulders" Fine Chain Spaulders
-AddonNames."Fine Plate Spaulders" Fine Plate Spaulders
-AddonNames."Fine Padded Vambraces" Fine Padded Vambraces
-AddonNames."Fine Leather Vambraces" Fine Leather Vambraces
-AddonNames."Fine Studded Vambraces" Fine Studded Vambraces
-AddonNames."Fine Chain Vambraces" Fine Chain Vambraces
-AddonNames."Fine Plate Vambraces" Fine Plate Vambraces
-AddonNames."Fine Padded Gloves" Fine Padded Gloves
-AddonNames."Fine Leather Gloves" Fine Leather Gloves
-AddonNames."Fine Studded Gloves" Fine Studded Gloves
-AddonNames."Fine Chain Gloves" Fine Chain Gloves
-AddonNames."Fine Plate Gauntlets" Fine Plate Gauntlets
-AddonNames."Fine Padded Boots" Fine Padded Boots
-AddonNames."Fine Leather Boots" Fine Leather Boots
-AddonNames."Fine Studded Boots" Fine Studded Boots
-AddonNames."Fine Chain Boots" Fine Chain Boots
-AddonNames."Fine Plate Sabatons" Fine Plate Sabatons
-AddonNames."Dark Iron Spaulders" Dark Iron Spaulders
-AddonNames."Dark Iron Vambraces" Dark Iron Vambraces
-AddonNames."Dark Iron Gauntlets" Dark Iron Gauntlets
-AddonNames."Dark Iron Sabatons" Dark Iron Sabatons
+AddonNames."Padded Spaulders" 棉护肩
+AddonNames."Leather Spaulders" 皮护肩
+AddonNames."Studded Spaulders" 札甲护肩
+AddonNames."Chain Spaulders" 链甲护肩
+AddonNames."Plate Spaulders" 板甲护肩
+AddonNames."Winter Spaulders" 严冬护肩
+AddonNames."Dragonhide Spaulders" 龙皮护肩
+AddonNames."Bloodrage Spaulders" 血怒护肩
+AddonNames."Blackthorn Spaulders" 黑棘护肩
+AddonNames."Ebonheart Spaulders" 乌木护肩
+AddonNames."Celestial Spaulders" 天使护肩
+AddonNames."Draconic Spaulders" 巨龙护肩
+AddonNames."Infernal Spaulders" 地狱护肩
+AddonNames."Arcane Spaulders" 奥术护肩
+AddonNames."Bestial Spaulders" 兽性护肩
+AddonNames."Abyssal Spaulders" 深渊护肩
+AddonNames."Padded Vambraces" 棉护腕
+AddonNames."Leather Vambraces" 皮护腕
+AddonNames."Studded Vambraces" 札甲护腕
+AddonNames."Chain Vambraces" 链甲护腕
+AddonNames."Plate Vambraces" 板甲护腕
+AddonNames."Winter Vambraces" 严冬护腕
+AddonNames."Dragonhide Vambraces" 龙皮护腕
+AddonNames."Bloodrage Vambraces" 血怒护腕
+AddonNames."Blackthorn Vambraces" 黑棘护腕
+AddonNames."Ebonheart Vambraces" 乌木护腕
+AddonNames."Celestial Vambraces" 天使护腕
+AddonNames."Draconic Vambraces" 巨龙护腕
+AddonNames."Infernal Vambraces" 地狱护腕
+AddonNames."Arcane Vambraces" 奥术护腕
+AddonNames."Bestial Vambraces" 兽性护腕
+AddonNames."Abyssal Vambraces" 深渊护腕
+AddonNames."Padded Gloves" 棉手套
+AddonNames."Leather Gloves" 皮手套
+AddonNames."Studded Gloves" 札甲手套
+AddonNames."Chain Gloves" 链甲手套
+AddonNames."Plate Gauntlets" 板甲护手
+AddonNames."Winter Gloves" 严冬手套
+AddonNames."Dragonhide Gloves" 龙皮手套
+AddonNames."Bloodrage Gloves" 血怒手套
+AddonNames."Blackthorn Gauntlets" 黑棘护手
+AddonNames."Ebonheart Gauntlets" 乌木护手
+AddonNames."Celestial Gloves" 天使手套
+AddonNames."Draconic Gloves" 巨龙手套
+AddonNames."Infernal Gloves" 地狱手套
+AddonNames."Arcane Gloves" 奥术手套
+AddonNames."Bestial Gloves" 兽性手套
+AddonNames."Abyssal Gloves" 深渊手套
+AddonNames."Padded Boots" 棉靴
+AddonNames."Leather Boots" 皮靴
+AddonNames."Studded Boots" 札甲靴
+AddonNames."Chain Boots" 链甲靴
+AddonNames."Plate Sabatons" 板甲铠靴
+AddonNames."Winter Boots" 严冬之靴
+AddonNames."Dragonhide Boots" 龙皮之靴
+AddonNames."Bloodrage Boots" 血怒之靴
+AddonNames."Blackthorn Sabatons" 黑棘铠靴
+AddonNames."Ebonheart Sabatons" 乌木铠靴
+AddonNames."Celestial Boots" 天使之靴
+AddonNames."Draconic Boots" 巨龙之靴
+AddonNames."Infernal Boots" 地狱之靴
+AddonNames."Arcane Boots" 奥术之靴
+AddonNames."Bestial Boots" 兽性之靴
+AddonNames."Abyssal Boots" 深渊之靴
+AddonNames."Fine Padded Spaulders" 精美棉护肩
+AddonNames."Fine Leather Spaulders" 精美皮护肩
+AddonNames."Fine Studded Spaulders" 精美札甲护肩
+AddonNames."Fine Chain Spaulders" 精美链甲护肩
+AddonNames."Fine Plate Spaulders" 精美板甲护肩
+AddonNames."Fine Padded Vambraces" 精美棉护腕
+AddonNames."Fine Leather Vambraces" 精美皮护腕
+AddonNames."Fine Studded Vambraces" 精美札甲护腕
+AddonNames."Fine Chain Vambraces" 精美链甲护腕
+AddonNames."Fine Plate Vambraces" 精美板甲护腕
+AddonNames."Fine Padded Gloves" 精美棉手套
+AddonNames."Fine Leather Gloves" 精美皮手套
+AddonNames."Fine Studded Gloves" 精美札甲手套
+AddonNames."Fine Chain Gloves" 精美链甲手套
+AddonNames."Fine Plate Gauntlets" 精美板甲护手
+AddonNames."Fine Padded Boots" 精美棉靴
+AddonNames."Fine Leather Boots" 精美皮靴
+AddonNames."Fine Studded Boots" 精美札甲靴
+AddonNames."Fine Chain Boots" 精美链甲靴
+AddonNames."Fine Plate Sabatons" 精美板甲铠靴
+AddonNames."Dark Iron Spaulders" 黑铁护肩
+AddonNames."Dark Iron Vambraces" 黑铁护腕
+AddonNames."Dark Iron Gauntlets" 黑铁护手
+AddonNames."Dark Iron Sabatons" 黑铁铠靴
 AddonDescs."SpauldersDesc" Spaulders increase your base chance to resist a critical hit disarm effect by 40%.
 AddonDescs."VambracesDesc" Vambraces force the system to re-roll the disarm check if you are disarmed by a critical hit.
 AddonDescs."GlovesDesc" Gloves cause your disarmed weapon to be placed in your inventory instead of the ground.
@@ -1548,7 +1548,7 @@ ArmourNames."Winter Armour" 严冬铠甲
 ArmourNames."Dragonhide Armour" 龙皮铠甲
 ArmourNames."Bloodrage Armour" 血怒铠甲
 ArmourNames."Blackthorn Armour" 黑棘铠甲
-ArmourNames."Ebonheart Armour" 乌木凯甲
+ArmourNames."Ebonheart Armour" 乌木铠甲
 ArmourNames."Celestial Robe" 天使长袍
 ArmourNames."Draconic Robe" 巨龙长袍
 ArmourNames."Infernal Robe" 地狱长袍
@@ -1592,8 +1592,8 @@ ArmourNames."Royal Helm" 皇家头盔
 ArmourNames."Hardened Skin" 硬化皮肤
 ArmourNames."Winter Fur Coat" 严冬皮草
 ArmourNames."Arctic Fur Coat" 北极皮草
-ArmourDescs."ArmourDesc" @(30)注意：穿戴铠甲会妨碍施法、闪避、攀爬、跳跃。
-ArmourDescs."HelmetDesc" @(30)注意：穿戴头盔会妨碍施法、闪避、攀爬、跳跃。
+ArmourDescs."ArmourDesc" @(30)注意：穿戴护甲有可能妨碍施法、闪避、攀爬、跳跃。
+ArmourDescs."HelmetDesc" @(30)注意：穿戴头盔有可能妨碍施法、闪避、攀爬、跳跃。
 ArmourDescs."ShirtDesc" @(30)你下到地牢时，所有有嗅觉的生物都会被熏死。
 ArmourDescs."HoodDesc" @(30)这块头巾摸上去感觉像是你脑袋的一部分，又似乎不存在。
 ArmourDescs."Black" 黑色
@@ -1613,7 +1613,7 @@ ArrowNames."Knabstick" Knab 之箭
 ArrowStacks."Stick" 一扎树棍
 ArrowStacks."Arrow" 一扎羽箭
 ArrowStacks."Fine Arrow" 一扎精美羽箭
-ArrowStacks."Bolt" Bolts 一组箭头
+ArrowStacks."Bolt" 一组箭头
 ArrowStacks."Fine Bolt" 一组精美箭头
 ArrowStacks."Knabstick" 一组 Knab 之箭
 ArrowDescs."Stick" Even these simple sticks can hurt you if they are propelled by enough force.
@@ -1719,46 +1719,46 @@ CoinNames."Gold Coin" Gold Coin
 CoinStacks."Gold Coin" Gold Coins
 CoinDescs."StoredCoins" There is a total of %d gold coins in your backpack and %d gold coins in the Artisans' Guild vault.
 CoinDescs."Gold Coin" There is a total of %d gold coins in your backpack.
-FoodNames."Meat" Meat
-FoodNames."Fried Meat" Fried Meat
-FoodNames."Ribs" Ribs
-FoodNames."Fried Ribs" Fried Ribs
-FoodNames."Fish" Fish
-FoodNames."Fried Fish" Fried Fish
-FoodNames."Chicken" Chicken
-FoodNames."Fried Chicken" Fried Chicken
-FoodNames."Blood Cap" Blood Cap
-FoodNames."Fried Cap" Fried Cap
-FoodNames."Death Cap" Death Cap
-FoodNames."Bread" Bread
-FoodNames."Cheese" Cheese
-FoodNames."Egg" Egg
-FoodNames."Fried Egg" Fried Egg
-FoodNames."Apple" Apple
-FoodNames."Carrot" Carrot
-FoodNames."Pear" Pear
-FoodNames."Tomato" Tomato
-FoodNames."Plum" Plum
-FoodNames."Root" Root
-FoodNames."Berries" Berries
-FoodNames."Cherries" Cherries
-FoodNames."Grapes" Grapes
-FoodNames."Cabbage" Cabbage
-FoodNames."Potato" Potato
-FoodNames."Acorn" Acorn
-FoodNames."Grass" Grass
-FoodNames."Garlic" Garlic
-FoodNames."Onion" Onion
-FoodNames."Lemon" Lemon
-FoodNames."Pepper" Pepper
-FoodNames."Food Ration" Food Ration
-FoodNames."Water Flask" Water Flask
-FoodNames."Beer Tankard" Beer Tankard
-FoodNames."Mead Bottle" Mead Bottle
-FoodNames."Cider Bottle" Cider Bottle
-FoodNames."Wine Bottle" Wine Bottle
-FoodNames."Booze Bottle" Booze Bottle
-FoodNames."Milk Jar" Milk Jar
+FoodNames."Meat" 肉
+FoodNames."Fried Meat" 烤肉
+FoodNames."Ribs" 排骨
+FoodNames."Fried Ribs" 烤排骨
+FoodNames."Fish" 鱼
+FoodNames."Fried Fish" 烤鱼
+FoodNames."Chicken" 鸡肉
+FoodNames."Fried Chicken" 烤鸡肉
+FoodNames."Blood Cap" 血蘑菇
+FoodNames."Fried Cap" 烤蘑菇
+FoodNames."Death Cap" 毒蘑菇
+FoodNames."Bread" 面包
+FoodNames."Cheese" 奶酪
+FoodNames."Egg" 鸡蛋
+FoodNames."Fried Egg" 烤蛋
+FoodNames."Apple" 苹果
+FoodNames."Carrot" 胡萝卜
+FoodNames."Pear" 梨子
+FoodNames."Tomato" 番茄
+FoodNames."Plum" 李子
+FoodNames."Root" 树根
+FoodNames."Berries" 浆果
+FoodNames."Cherries" 樱桃
+FoodNames."Grapes" 葡萄
+FoodNames."Cabbage" 卷心菜
+FoodNames."Potato" 土豆
+FoodNames."Acorn" 橡子
+FoodNames."Grass" 草
+FoodNames."Garlic" 大蒜
+FoodNames."Onion" 洋葱
+FoodNames."Lemon" 柠檬
+FoodNames."Pepper" 胡椒
+FoodNames."Food Ration" 干粮
+FoodNames."Water Flask" 水袋
+FoodNames."Beer Tankard" 啤酒杯
+FoodNames."Mead Bottle" 蜂蜜酒瓶
+FoodNames."Cider Bottle" 苹果酒瓶
+FoodNames."Wine Bottle" 葡萄酒瓶
+FoodNames."Booze Bottle" 酒瓶
+FoodNames."Milk Jar" 牛奶壶
 FoodDescs."Meat" Some people have become sick after eating raw meat.
 FoodDescs."Fried Meat" Fried meat is much safer to eat than raw meat.
 FoodDescs."Ribs" Some people have become sick after eating raw ribs.
@@ -2992,7 +2992,7 @@ TutorialNames."Jump Button" 跳跃 按钮
 TutorialNames."Look Button" 观察 按钮
 TutorialNames."Sort Button" 排序 按钮
 TutorialNames."Gain Heritage" 获得遗产
-TutorialDescs."Introduction 1" @(40)为什么要说你好。我是只讨人嫌的界面狗，我敏锐的直觉告诉我这是你第一次玩这个游戏……
+TutorialDescs."Introduction 1" @(40)为什么要说你好？我是只讨人嫌的界面狗，我敏锐的直觉告诉我这是你第一次玩这个游戏……
 TutorialDescs."Introduction 1".1 
 TutorialDescs."Introduction 2" @(40)请注意听讲。我只说一次，如果你不仔细听以后肯定会跑到网上问各种傻问题……
 TutorialDescs."Introduction 2".1 
@@ -3719,8 +3719,8 @@ SpellbookWindow."You can't cast spells while shapeshifted." You can't cast spell
 SpellbookWindow."You can't use %s at the moment." You can't use %s at the moment.
 SpellbookWindow."You can't cast %s at the moment." You can't cast %s at the moment.
 AbilityGainWindow."Select ability to increase:" Select ability to increase:
-TalentGainWindow."Select talent to learn:" Select talent to learn:
-TalentGainWindow."Points remaining:" Points remaining:
+TalentGainWindow."Select talent to learn:" 选择一项天赋学习：
+TalentGainWindow."Points remaining:" 剩余点数：
 DialogueWindow."STR_INTRO_BORED" You see a bored-looking STR_MAN.
 DialogueWindow."STR_INTRO_STERN" You see a stern-looking STR_MAN.
 DialogueWindow."STR_INTRO_SHADY" You see a shady-looking STR_MAN.

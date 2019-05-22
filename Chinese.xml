@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="e0fc0f42fdfc2b3a1cb5e335d1b03b233d7b90cc">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="0b6a501e471a64c1ec32517866d83e9e520414ed">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -102,7 +102,7 @@
     <str id="Save changes" value="Save changes" local="保存更改"/>
     <str id="Change password" value="Change password" local="密码修改"/>
     <str id="Rest in peace" value="Rest in peace" local="逝者安息"/>
-    <str id="Journey onward" value="Journey onward" local="继续旅程"/>
+    <str id="Journey onward" value="Journey onward" local="继续征程"/>
     <str id="Start a new game" value="Start a new game" local="开启新游戏"/>
     <str id="Okay" value="Okay" local="确定"/>
     <str id="Close" value="Close" local="关闭"/>
@@ -181,7 +181,7 @@
     <str id="%dg" value="%dg"/>
     <str id="Donate %dg" value="Donate %dg" local="捐献 %dg"/>
     <str id="Feast and rest (%dg)" value="Feast and rest (%dg)" local="饱餐并休息 (%dg)"/>
-    <str id="I'm fully prepared!" value="I'm fully prepared!" local="我已完全准备好了！"/>
+    <str id="I'm fully prepared!" value="I'm fully prepared!" local="我已整装待发！"/>
   </GUITown>
   <GUIDesc>
     <str id="MARKET_SQUARE" value="You have entered the Market Quarter and here you can trade items with various merchants." local="你进入了商业集市，这里可以和各式&#10;商人交易物品。">
@@ -234,9 +234,9 @@
   </GUILogs>
   <GUIPops>
     <str id="%s is now properly buried at the shrine of the forgotten heroes and %s should not haunt us anymore." value="%s is now properly buried at the shrine of the forgotten heroes and %s should not haunt us anymore."/>
-    <str id="You have reached" value="You have reached" local="你抵达了"/>
+    <str id="You have reached" value="You have reached" local="你已达到"/>
     <str id="Level %d" value="Level %d" local="等级 %d"/>
-    <str id="You have entered" value="You have entered" local="你进入了"/>
+    <str id="You have entered" value="You have entered" local="你已进入"/>
   </GUIPops>
   <Quests>
     <str id="I got plenty of money!" value="I got plenty of money!"/>
@@ -360,7 +360,7 @@
   </Travelers>
   <LootTips>
     <str id="Blessed" value="Blessed" local="神圣的"/>
-    <str id="Cursed" value="Cursed" local="诅咒的"/>
+    <str id="Cursed" value="Cursed" local="被诅咒的"/>
     <str id="Worn" value="Worn" local="磨损的"/>
     <str id="Damaged" value="Damaged" local="损坏的"/>
     <str id="Potent" value="Potent" local="强效"/>
@@ -431,9 +431,9 @@
     <str id="%s x %d (%d - %d turns)" value="%s x %d (%d - %d turns)" local="%s x %d （%d - %d 回合）"/>
     <str id="Legendary Item" value="Legendary Item" local="传奇物品"/>
     <str id="Unique Item" value="Unique Item" local="独特物品"/>
-    <str id="Unidentified" value="Unidentified" local="未鉴定的"/>
-    <str id="Cannot be enchanted" value="Cannot be enchanted" local="不能被附魔"/>
-    <str id="Already known" value="Already known" local="已经知晓"/>
+    <str id="Unidentified" value="Unidentified" local="未鉴定"/>
+    <str id="Cannot be enchanted" value="Cannot be enchanted" local="无法附魔"/>
+    <str id="Already known" value="Already known" local="已知"/>
     <str id="Crafting Item" value="Crafting Item" local="锻造物品"/>
     <str id="Main Hand To-Hit Modifier: %d" value="Main Hand To-Hit Modifier: %d" local="主手命中修正：%d"/>
     <str id="Main Hand Damage Modifier: %d" value="Main Hand Damage Modifier: %d" local="主手伤害修正：%d"/>
@@ -474,7 +474,7 @@
     <str id="Immune to Instant Death" value="Immune to Instant Death" local="免疫即死"/>
     <str id="Immune to Disarm" value="Immune to Disarm" local="免疫缴械"/>
     <str id="Immune to Stun" value="Immune to Stun" local="免疫眩晕"/>
-    <str id="You are not immune to anything" value="You are not immune to anything" local="你对一切免疫"/>
+    <str id="You are not immune to anything" value="You are not immune to anything" local="尚无免疫效果"/>
   </LootTips>
   <LookLogs>
     <str id="You see a man who desperately needs a selfie stick." value="You see a man who desperately needs a selfie stick." local="你看见了一个急需自拍杆的男人。"/>
@@ -1056,7 +1056,7 @@
     <str id="Multi Shot" value="Ranged attack that hits up to agility bonus modifier number of extra targets." local="远程攻击将命中目标生物邻接的多&#10;个额外生物目标，数量等于敏捷增&#10;益修正值。"/>
     <str id="Quick Shot" value="Ranged attack that allows the creature to move before taking the shot." local="远程攻击的射击前生物可以先移动&#10;。"/>
     <str id="Steady Shot" value="Ranged attack that allows the creature to re-roll a failed to-hit check and doubles damage if used while hidden." local="远程攻击时，可以重投失败的命中&#10;检定，在隐秘状态下能造成双倍伤&#10;害。"/>
-    <str id="Blade Flurry" value="Melee attack that gains up to one extra attack per weapon (at +1 and +3 AGI). Blade Flurry requires either two small" local="近战攻击的每把武器（当敏捷增益&#10;修正 +1 或更高时，可针对主手武&#10;器；+3 或更高时针对副手武器）获&#10;得最一次额外攻击机会。剑刃乱舞&#10;需要两把小型武器或将一把中型武&#10;器双手使用。" space="True">
+    <str id="Blade Flurry" value="Melee attack that gains up to one extra attack per weapon (at +1 and +3 AGI). Blade Flurry requires either two small" local="近战攻击的每把武器（当敏捷 +1 &#10;及 +3 时）获得最一次额外攻击机&#10;会。剑刃乱舞需要两把小型武器或&#10;双手使用一把中型武器。" space="True">
       <str id="paragraph 1" value="weapons or a medium weapon that is used two-handedly." local=""/>
     </str>
     <str id="Deadly Throw" value="Thrown weapon attack that causes D3 extra damage instead of 1 for each point of strength or agility bonus modifier," local="投掷武器攻击的每点属性增益修正&#10;获得 D3 额外伤害，取代普通的 1&#10; 点额外伤害，依据的属性取力量和&#10;敏捷中的较高值。（修正同时针对&#10;命中检定）。" space="True">
@@ -1096,7 +1096,7 @@
     <str id="Dual Wield" value="Offhand attacks no longer receive penalties to hit and damage and parry modifier equals to agility bonus modifier" local="副手攻击不再承受的命中修正的惩&#10;罚，伤害和招架修正取敏捷修正而&#10;不是其一半。" space="True">
       <str id="paragraph 1" value="instead of one half of it." local=""/>
     </str>
-    <str id="Keen Eye" value="Allows the creature to re-roll failed search checks, increases search radius by 1 and grants a free action that" local="增加一格搜索半径，并在移动或休&#10;息行动时获得一次搜索周围的免费&#10;行动。锐利目光还会在失败的搜索&#10;检定后重掷。" space="True">
+    <str id="Keen Eye" value="Allows the creature to re-roll failed search checks, increases search radius by 1 and grants a free action that" local="增加一格搜索半径，并在移动或休&#10;息行动时免费获得一次搜索周围的&#10;行动。锐利目光还会在失败的搜索&#10;检定后重掷。" space="True">
       <str id="paragraph 1" value="searches the surroundings when taking a move or rest action." local=""/>
     </str>
     <str id="Sixth Sense" value="Allows the creature to to re-roll failed reflex checks and shows a warning before picking up or equipping an" local="允许生物重掷反射检定，并在拾起&#10;装备或使用未鉴定的被诅咒物品前&#10;给出警告。" space="True">
@@ -1501,94 +1501,94 @@
     <str id="Befriend daemons." value="Befriend daemons."/>
   </ItemSets>
   <AddonNames>
-    <str id="Padded Spaulders" value="Padded Spaulders"/>
-    <str id="Leather Spaulders" value="Leather Spaulders"/>
-    <str id="Studded Spaulders" value="Studded Spaulders"/>
-    <str id="Chain Spaulders" value="Chain Spaulders"/>
-    <str id="Plate Spaulders" value="Plate Spaulders"/>
-    <str id="Winter Spaulders" value="Winter Spaulders"/>
-    <str id="Dragonhide Spaulders" value="Dragonhide Spaulders"/>
-    <str id="Bloodrage Spaulders" value="Bloodrage Spaulders"/>
-    <str id="Blackthorn Spaulders" value="Blackthorn Spaulders"/>
-    <str id="Ebonheart Spaulders" value="Ebonheart Spaulders"/>
-    <str id="Celestial Spaulders" value="Celestial Spaulders"/>
-    <str id="Draconic Spaulders" value="Draconic Spaulders"/>
-    <str id="Infernal Spaulders" value="Infernal Spaulders"/>
-    <str id="Arcane Spaulders" value="Arcane Spaulders"/>
-    <str id="Bestial Spaulders" value="Bestial Spaulders"/>
-    <str id="Abyssal Spaulders" value="Abyssal Spaulders"/>
-    <str id="Padded Vambraces" value="Padded Vambraces"/>
-    <str id="Leather Vambraces" value="Leather Vambraces"/>
-    <str id="Studded Vambraces" value="Studded Vambraces"/>
-    <str id="Chain Vambraces" value="Chain Vambraces"/>
-    <str id="Plate Vambraces" value="Plate Vambraces"/>
-    <str id="Winter Vambraces" value="Winter Vambraces"/>
-    <str id="Dragonhide Vambraces" value="Dragonhide Vambraces"/>
-    <str id="Bloodrage Vambraces" value="Bloodrage Vambraces"/>
-    <str id="Blackthorn Vambraces" value="Blackthorn Vambraces"/>
-    <str id="Ebonheart Vambraces" value="Ebonheart Vambraces"/>
-    <str id="Celestial Vambraces" value="Celestial Vambraces"/>
-    <str id="Draconic Vambraces" value="Draconic Vambraces"/>
-    <str id="Infernal Vambraces" value="Infernal Vambraces"/>
-    <str id="Arcane Vambraces" value="Arcane Vambraces"/>
-    <str id="Bestial Vambraces" value="Bestial Vambraces"/>
-    <str id="Abyssal Vambraces" value="Abyssal Vambraces"/>
-    <str id="Padded Gloves" value="Padded Gloves"/>
-    <str id="Leather Gloves" value="Leather Gloves"/>
-    <str id="Studded Gloves" value="Studded Gloves"/>
-    <str id="Chain Gloves" value="Chain Gloves"/>
-    <str id="Plate Gauntlets" value="Plate Gauntlets"/>
-    <str id="Winter Gloves" value="Winter Gloves"/>
-    <str id="Dragonhide Gloves" value="Dragonhide Gloves"/>
-    <str id="Bloodrage Gloves" value="Bloodrage Gloves"/>
-    <str id="Blackthorn Gauntlets" value="Blackthorn Gauntlets"/>
-    <str id="Ebonheart Gauntlets" value="Ebonheart Gauntlets"/>
-    <str id="Celestial Gloves" value="Celestial Gloves"/>
-    <str id="Draconic Gloves" value="Draconic Gloves"/>
-    <str id="Infernal Gloves" value="Infernal Gloves"/>
-    <str id="Arcane Gloves" value="Arcane Gloves"/>
-    <str id="Bestial Gloves" value="Bestial Gloves"/>
-    <str id="Abyssal Gloves" value="Abyssal Gloves"/>
-    <str id="Padded Boots" value="Padded Boots"/>
-    <str id="Leather Boots" value="Leather Boots"/>
-    <str id="Studded Boots" value="Studded Boots"/>
-    <str id="Chain Boots" value="Chain Boots"/>
-    <str id="Plate Sabatons" value="Plate Sabatons"/>
-    <str id="Winter Boots" value="Winter Boots"/>
-    <str id="Dragonhide Boots" value="Dragonhide Boots"/>
-    <str id="Bloodrage Boots" value="Bloodrage Boots"/>
-    <str id="Blackthorn Sabatons" value="Blackthorn Sabatons"/>
-    <str id="Ebonheart Sabatons" value="Ebonheart Sabatons"/>
-    <str id="Celestial Boots" value="Celestial Boots"/>
-    <str id="Draconic Boots" value="Draconic Boots"/>
-    <str id="Infernal Boots" value="Infernal Boots"/>
-    <str id="Arcane Boots" value="Arcane Boots"/>
-    <str id="Bestial Boots" value="Bestial Boots"/>
-    <str id="Abyssal Boots" value="Abyssal Boots"/>
-    <str id="Fine Padded Spaulders" value="Fine Padded Spaulders"/>
-    <str id="Fine Leather Spaulders" value="Fine Leather Spaulders"/>
-    <str id="Fine Studded Spaulders" value="Fine Studded Spaulders"/>
-    <str id="Fine Chain Spaulders" value="Fine Chain Spaulders"/>
-    <str id="Fine Plate Spaulders" value="Fine Plate Spaulders"/>
-    <str id="Fine Padded Vambraces" value="Fine Padded Vambraces"/>
-    <str id="Fine Leather Vambraces" value="Fine Leather Vambraces"/>
-    <str id="Fine Studded Vambraces" value="Fine Studded Vambraces"/>
-    <str id="Fine Chain Vambraces" value="Fine Chain Vambraces"/>
-    <str id="Fine Plate Vambraces" value="Fine Plate Vambraces"/>
-    <str id="Fine Padded Gloves" value="Fine Padded Gloves"/>
-    <str id="Fine Leather Gloves" value="Fine Leather Gloves"/>
-    <str id="Fine Studded Gloves" value="Fine Studded Gloves"/>
-    <str id="Fine Chain Gloves" value="Fine Chain Gloves"/>
-    <str id="Fine Plate Gauntlets" value="Fine Plate Gauntlets"/>
-    <str id="Fine Padded Boots" value="Fine Padded Boots"/>
-    <str id="Fine Leather Boots" value="Fine Leather Boots"/>
-    <str id="Fine Studded Boots" value="Fine Studded Boots"/>
-    <str id="Fine Chain Boots" value="Fine Chain Boots"/>
-    <str id="Fine Plate Sabatons" value="Fine Plate Sabatons"/>
-    <str id="Dark Iron Spaulders" value="Dark Iron Spaulders"/>
-    <str id="Dark Iron Vambraces" value="Dark Iron Vambraces"/>
-    <str id="Dark Iron Gauntlets" value="Dark Iron Gauntlets"/>
-    <str id="Dark Iron Sabatons" value="Dark Iron Sabatons"/>
+    <str id="Padded Spaulders" value="Padded Spaulders" local="棉护肩"/>
+    <str id="Leather Spaulders" value="Leather Spaulders" local="皮护肩"/>
+    <str id="Studded Spaulders" value="Studded Spaulders" local="札甲护肩"/>
+    <str id="Chain Spaulders" value="Chain Spaulders" local="链甲护肩"/>
+    <str id="Plate Spaulders" value="Plate Spaulders" local="板甲护肩"/>
+    <str id="Winter Spaulders" value="Winter Spaulders" local="严冬护肩"/>
+    <str id="Dragonhide Spaulders" value="Dragonhide Spaulders" local="龙皮护肩"/>
+    <str id="Bloodrage Spaulders" value="Bloodrage Spaulders" local="血怒护肩"/>
+    <str id="Blackthorn Spaulders" value="Blackthorn Spaulders" local="黑棘护肩"/>
+    <str id="Ebonheart Spaulders" value="Ebonheart Spaulders" local="乌木护肩"/>
+    <str id="Celestial Spaulders" value="Celestial Spaulders" local="天使护肩"/>
+    <str id="Draconic Spaulders" value="Draconic Spaulders" local="巨龙护肩"/>
+    <str id="Infernal Spaulders" value="Infernal Spaulders" local="地狱护肩"/>
+    <str id="Arcane Spaulders" value="Arcane Spaulders" local="奥术护肩"/>
+    <str id="Bestial Spaulders" value="Bestial Spaulders" local="兽性护肩"/>
+    <str id="Abyssal Spaulders" value="Abyssal Spaulders" local="深渊护肩"/>
+    <str id="Padded Vambraces" value="Padded Vambraces" local="棉护腕"/>
+    <str id="Leather Vambraces" value="Leather Vambraces" local="皮护腕"/>
+    <str id="Studded Vambraces" value="Studded Vambraces" local="札甲护腕"/>
+    <str id="Chain Vambraces" value="Chain Vambraces" local="链甲护腕"/>
+    <str id="Plate Vambraces" value="Plate Vambraces" local="板甲护腕"/>
+    <str id="Winter Vambraces" value="Winter Vambraces" local="严冬护腕"/>
+    <str id="Dragonhide Vambraces" value="Dragonhide Vambraces" local="龙皮护腕"/>
+    <str id="Bloodrage Vambraces" value="Bloodrage Vambraces" local="血怒护腕"/>
+    <str id="Blackthorn Vambraces" value="Blackthorn Vambraces" local="黑棘护腕"/>
+    <str id="Ebonheart Vambraces" value="Ebonheart Vambraces" local="乌木护腕"/>
+    <str id="Celestial Vambraces" value="Celestial Vambraces" local="天使护腕"/>
+    <str id="Draconic Vambraces" value="Draconic Vambraces" local="巨龙护腕"/>
+    <str id="Infernal Vambraces" value="Infernal Vambraces" local="地狱护腕"/>
+    <str id="Arcane Vambraces" value="Arcane Vambraces" local="奥术护腕"/>
+    <str id="Bestial Vambraces" value="Bestial Vambraces" local="兽性护腕"/>
+    <str id="Abyssal Vambraces" value="Abyssal Vambraces" local="深渊护腕"/>
+    <str id="Padded Gloves" value="Padded Gloves" local="棉手套"/>
+    <str id="Leather Gloves" value="Leather Gloves" local="皮手套"/>
+    <str id="Studded Gloves" value="Studded Gloves" local="札甲手套"/>
+    <str id="Chain Gloves" value="Chain Gloves" local="链甲手套"/>
+    <str id="Plate Gauntlets" value="Plate Gauntlets" local="板甲护手"/>
+    <str id="Winter Gloves" value="Winter Gloves" local="严冬手套"/>
+    <str id="Dragonhide Gloves" value="Dragonhide Gloves" local="龙皮手套"/>
+    <str id="Bloodrage Gloves" value="Bloodrage Gloves" local="血怒手套"/>
+    <str id="Blackthorn Gauntlets" value="Blackthorn Gauntlets" local="黑棘护手"/>
+    <str id="Ebonheart Gauntlets" value="Ebonheart Gauntlets" local="乌木护手"/>
+    <str id="Celestial Gloves" value="Celestial Gloves" local="天使手套"/>
+    <str id="Draconic Gloves" value="Draconic Gloves" local="巨龙手套"/>
+    <str id="Infernal Gloves" value="Infernal Gloves" local="地狱手套"/>
+    <str id="Arcane Gloves" value="Arcane Gloves" local="奥术手套"/>
+    <str id="Bestial Gloves" value="Bestial Gloves" local="兽性手套"/>
+    <str id="Abyssal Gloves" value="Abyssal Gloves" local="深渊手套"/>
+    <str id="Padded Boots" value="Padded Boots" local="棉靴"/>
+    <str id="Leather Boots" value="Leather Boots" local="皮靴"/>
+    <str id="Studded Boots" value="Studded Boots" local="札甲靴"/>
+    <str id="Chain Boots" value="Chain Boots" local="链甲靴"/>
+    <str id="Plate Sabatons" value="Plate Sabatons" local="板甲铠靴"/>
+    <str id="Winter Boots" value="Winter Boots" local="严冬之靴"/>
+    <str id="Dragonhide Boots" value="Dragonhide Boots" local="龙皮之靴"/>
+    <str id="Bloodrage Boots" value="Bloodrage Boots" local="血怒之靴"/>
+    <str id="Blackthorn Sabatons" value="Blackthorn Sabatons" local="黑棘铠靴"/>
+    <str id="Ebonheart Sabatons" value="Ebonheart Sabatons" local="乌木铠靴"/>
+    <str id="Celestial Boots" value="Celestial Boots" local="天使之靴"/>
+    <str id="Draconic Boots" value="Draconic Boots" local="巨龙之靴"/>
+    <str id="Infernal Boots" value="Infernal Boots" local="地狱之靴"/>
+    <str id="Arcane Boots" value="Arcane Boots" local="奥术之靴"/>
+    <str id="Bestial Boots" value="Bestial Boots" local="兽性之靴"/>
+    <str id="Abyssal Boots" value="Abyssal Boots" local="深渊之靴"/>
+    <str id="Fine Padded Spaulders" value="Fine Padded Spaulders" local="精美棉护肩"/>
+    <str id="Fine Leather Spaulders" value="Fine Leather Spaulders" local="精美皮护肩"/>
+    <str id="Fine Studded Spaulders" value="Fine Studded Spaulders" local="精美札甲护肩"/>
+    <str id="Fine Chain Spaulders" value="Fine Chain Spaulders" local="精美链甲护肩"/>
+    <str id="Fine Plate Spaulders" value="Fine Plate Spaulders" local="精美板甲护肩"/>
+    <str id="Fine Padded Vambraces" value="Fine Padded Vambraces" local="精美棉护腕"/>
+    <str id="Fine Leather Vambraces" value="Fine Leather Vambraces" local="精美皮护腕"/>
+    <str id="Fine Studded Vambraces" value="Fine Studded Vambraces" local="精美札甲护腕"/>
+    <str id="Fine Chain Vambraces" value="Fine Chain Vambraces" local="精美链甲护腕"/>
+    <str id="Fine Plate Vambraces" value="Fine Plate Vambraces" local="精美板甲护腕"/>
+    <str id="Fine Padded Gloves" value="Fine Padded Gloves" local="精美棉手套"/>
+    <str id="Fine Leather Gloves" value="Fine Leather Gloves" local="精美皮手套"/>
+    <str id="Fine Studded Gloves" value="Fine Studded Gloves" local="精美札甲手套"/>
+    <str id="Fine Chain Gloves" value="Fine Chain Gloves" local="精美链甲手套"/>
+    <str id="Fine Plate Gauntlets" value="Fine Plate Gauntlets" local="精美板甲护手"/>
+    <str id="Fine Padded Boots" value="Fine Padded Boots" local="精美棉靴"/>
+    <str id="Fine Leather Boots" value="Fine Leather Boots" local="精美皮靴"/>
+    <str id="Fine Studded Boots" value="Fine Studded Boots" local="精美札甲靴"/>
+    <str id="Fine Chain Boots" value="Fine Chain Boots" local="精美链甲靴"/>
+    <str id="Fine Plate Sabatons" value="Fine Plate Sabatons" local="精美板甲铠靴"/>
+    <str id="Dark Iron Spaulders" value="Dark Iron Spaulders" local="黑铁护肩"/>
+    <str id="Dark Iron Vambraces" value="Dark Iron Vambraces" local="黑铁护腕"/>
+    <str id="Dark Iron Gauntlets" value="Dark Iron Gauntlets" local="黑铁护手"/>
+    <str id="Dark Iron Sabatons" value="Dark Iron Sabatons" local="黑铁铠靴"/>
   </AddonNames>
   <AddonDescs>
     <str id="SpauldersDesc" value="Spaulders increase your base chance to resist a critical hit disarm effect by 40%."/>
@@ -1683,7 +1683,7 @@
     <str id="Dragonhide Armour" value="Dragonhide Armour" local="龙皮铠甲"/>
     <str id="Bloodrage Armour" value="Bloodrage Armour" local="血怒铠甲"/>
     <str id="Blackthorn Armour" value="Blackthorn Armour" local="黑棘铠甲"/>
-    <str id="Ebonheart Armour" value="Ebonheart Armour" local="乌木凯甲"/>
+    <str id="Ebonheart Armour" value="Ebonheart Armour" local="乌木铠甲"/>
     <str id="Celestial Robe" value="Celestial Robe" local="天使长袍"/>
     <str id="Draconic Robe" value="Draconic Robe" local="巨龙长袍"/>
     <str id="Infernal Robe" value="Infernal Robe" local="地狱长袍"/>
@@ -1729,8 +1729,8 @@
     <str id="Arctic Fur Coat" value="Arctic Fur Coat" local="北极皮草"/>
   </ArmourNames>
   <ArmourDescs>
-    <str id="ArmourDesc" value="Note that wearing an armour may hinder spellcasting, dodging, climbing and or jumping." local="注意：穿戴铠甲会妨碍施法、闪避&#10;、攀爬、跳跃。"/>
-    <str id="HelmetDesc" value="Note that wearing a helmet may hinder spellcasting, dodging, climbing and or jumping." local="注意：穿戴头盔会妨碍施法、闪避&#10;、攀爬、跳跃。"/>
+    <str id="ArmourDesc" value="Note that wearing an armour may hinder spellcasting, dodging, climbing and or jumping." local="注意：穿戴护甲有可能妨碍施法、&#10;闪避、攀爬、跳跃。"/>
+    <str id="HelmetDesc" value="Note that wearing a helmet may hinder spellcasting, dodging, climbing and or jumping." local="注意：穿戴头盔有可能妨碍施法、&#10;闪避、攀爬、跳跃。"/>
     <str id="ShirtDesc" value="If the creatures weren't anosmic, they would die when you enter the level." local="你下到地牢时，所有有嗅觉的生物&#10;都会被熏死。"/>
     <str id="HoodDesc" value="This hood feels as if it were part of your head and detached at the same time." local="这块头巾摸上去感觉像是你脑袋的&#10;一部分，又似乎不存在。"/>
     <str id="Black" value="Black" local="黑色"/>
@@ -1754,7 +1754,7 @@
     <str id="Stick" value="Sticks" local="一扎树棍"/>
     <str id="Arrow" value="Arrows" local="一扎羽箭"/>
     <str id="Fine Arrow" value="Fine Arrows" local="一扎精美羽箭"/>
-    <str id="Bolt" value="Bolts" local="Bolts 一组箭头"/>
+    <str id="Bolt" value="Bolts" local="一组箭头"/>
     <str id="Fine Bolt" value="Fine Bolts" local="一组精美箭头"/>
     <str id="Knabstick" value="Knabsticks" local="一组 Knab 之箭"/>
   </ArrowStacks>
@@ -1876,46 +1876,46 @@
     <str id="Gold Coin" value="There is a total of %d gold coins in your backpack."/>
   </CoinDescs>
   <FoodNames>
-    <str id="Meat" value="Meat"/>
-    <str id="Fried Meat" value="Fried Meat"/>
-    <str id="Ribs" value="Ribs"/>
-    <str id="Fried Ribs" value="Fried Ribs"/>
-    <str id="Fish" value="Fish"/>
-    <str id="Fried Fish" value="Fried Fish"/>
-    <str id="Chicken" value="Chicken"/>
-    <str id="Fried Chicken" value="Fried Chicken"/>
-    <str id="Blood Cap" value="Blood Cap"/>
-    <str id="Fried Cap" value="Fried Cap"/>
-    <str id="Death Cap" value="Death Cap"/>
-    <str id="Bread" value="Bread"/>
-    <str id="Cheese" value="Cheese"/>
-    <str id="Egg" value="Egg"/>
-    <str id="Fried Egg" value="Fried Egg"/>
-    <str id="Apple" value="Apple"/>
-    <str id="Carrot" value="Carrot"/>
-    <str id="Pear" value="Pear"/>
-    <str id="Tomato" value="Tomato"/>
-    <str id="Plum" value="Plum"/>
-    <str id="Root" value="Root"/>
-    <str id="Berries" value="Berries"/>
-    <str id="Cherries" value="Cherries"/>
-    <str id="Grapes" value="Grapes"/>
-    <str id="Cabbage" value="Cabbage"/>
-    <str id="Potato" value="Potato"/>
-    <str id="Acorn" value="Acorn"/>
-    <str id="Grass" value="Grass"/>
-    <str id="Garlic" value="Garlic"/>
-    <str id="Onion" value="Onion"/>
-    <str id="Lemon" value="Lemon"/>
-    <str id="Pepper" value="Pepper"/>
-    <str id="Food Ration" value="Food Ration"/>
-    <str id="Water Flask" value="Water Flask"/>
-    <str id="Beer Tankard" value="Beer Tankard"/>
-    <str id="Mead Bottle" value="Mead Bottle"/>
-    <str id="Cider Bottle" value="Cider Bottle"/>
-    <str id="Wine Bottle" value="Wine Bottle"/>
-    <str id="Booze Bottle" value="Booze Bottle"/>
-    <str id="Milk Jar" value="Milk Jar"/>
+    <str id="Meat" value="Meat" local="肉"/>
+    <str id="Fried Meat" value="Fried Meat" local="烤肉"/>
+    <str id="Ribs" value="Ribs" local="排骨"/>
+    <str id="Fried Ribs" value="Fried Ribs" local="烤排骨"/>
+    <str id="Fish" value="Fish" local="鱼"/>
+    <str id="Fried Fish" value="Fried Fish" local="烤鱼"/>
+    <str id="Chicken" value="Chicken" local="鸡肉"/>
+    <str id="Fried Chicken" value="Fried Chicken" local="烤鸡肉"/>
+    <str id="Blood Cap" value="Blood Cap" local="血蘑菇"/>
+    <str id="Fried Cap" value="Fried Cap" local="烤蘑菇"/>
+    <str id="Death Cap" value="Death Cap" local="毒蘑菇"/>
+    <str id="Bread" value="Bread" local="面包"/>
+    <str id="Cheese" value="Cheese" local="奶酪"/>
+    <str id="Egg" value="Egg" local="鸡蛋"/>
+    <str id="Fried Egg" value="Fried Egg" local="烤蛋"/>
+    <str id="Apple" value="Apple" local="苹果"/>
+    <str id="Carrot" value="Carrot" local="胡萝卜"/>
+    <str id="Pear" value="Pear" local="梨子"/>
+    <str id="Tomato" value="Tomato" local="番茄"/>
+    <str id="Plum" value="Plum" local="李子"/>
+    <str id="Root" value="Root" local="树根"/>
+    <str id="Berries" value="Berries" local="浆果"/>
+    <str id="Cherries" value="Cherries" local="樱桃"/>
+    <str id="Grapes" value="Grapes" local="葡萄"/>
+    <str id="Cabbage" value="Cabbage" local="卷心菜"/>
+    <str id="Potato" value="Potato" local="土豆"/>
+    <str id="Acorn" value="Acorn" local="橡子"/>
+    <str id="Grass" value="Grass" local="草"/>
+    <str id="Garlic" value="Garlic" local="大蒜"/>
+    <str id="Onion" value="Onion" local="洋葱"/>
+    <str id="Lemon" value="Lemon" local="柠檬"/>
+    <str id="Pepper" value="Pepper" local="胡椒"/>
+    <str id="Food Ration" value="Food Ration" local="干粮"/>
+    <str id="Water Flask" value="Water Flask" local="水袋"/>
+    <str id="Beer Tankard" value="Beer Tankard" local="啤酒杯"/>
+    <str id="Mead Bottle" value="Mead Bottle" local="蜂蜜酒瓶"/>
+    <str id="Cider Bottle" value="Cider Bottle" local="苹果酒瓶"/>
+    <str id="Wine Bottle" value="Wine Bottle" local="葡萄酒瓶"/>
+    <str id="Booze Bottle" value="Booze Bottle" local="酒瓶"/>
+    <str id="Milk Jar" value="Milk Jar" local="牛奶壶"/>
   </FoodNames>
   <FoodDescs>
     <str id="Meat" value="Some people have become sick after eating raw meat."/>
@@ -3221,7 +3221,7 @@
     <str id="Gain Heritage" value="Gain Heritage" local="获得遗产"/>
   </TutorialNames>
   <TutorialDescs>
-    <str id="Introduction 1" value="Why hello there. I'm the annoying user interface dog and my super accurate canine senses tell me that this is the" local="为什么要说你好。我是只讨人嫌的界面狗，我&#10;敏锐的直觉告诉我这是你第一次玩这个游戏……" space="True">
+    <str id="Introduction 1" value="Why hello there. I'm the annoying user interface dog and my super accurate canine senses tell me that this is the" local="为什么要说你好？我是只讨人嫌的界面狗，我&#10;敏锐的直觉告诉我这是你第一次玩这个游戏……" space="True">
       <str id="paragraph 1" value="first time you're playing this game..." local=""/>
     </str>
     <str id="Introduction 2" value="Please pay attention now. I'll be telling this only once and failure to comprehend will lead you to ask silly questions" local="请注意听讲。我只说一次，如果你不仔细听以&#10;后肯定会跑到网上问各种傻问题……" space="True">
@@ -4102,8 +4102,8 @@
     <str id="Select ability to increase:" value="Select ability to increase:"/>
   </AbilityGainWindow>
   <TalentGainWindow>
-    <str id="Select talent to learn:" value="Select talent to learn:"/>
-    <str id="Points remaining:" value="Points remaining:"/>
+    <str id="Select talent to learn:" value="Select talent to learn:" local="选择一项天赋学习："/>
+    <str id="Points remaining:" value="Points remaining:" local="剩余点数："/>
   </TalentGainWindow>
   <DialogueWindow>
     <str id="STR_INTRO_BORED" value="You see a bored-looking STR_MAN."/>
