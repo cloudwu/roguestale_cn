@@ -166,7 +166,7 @@ GUITown."Feast and rest (%dg)" 饱餐并休息 (%dg)
 GUITown."I'm fully prepared!" 我已整装待发！
 GUIDesc."MARKET_SQUARE" @(32)你进入了商业集市，这里可以和各式商人交易物品。
 GUIDesc."MARKET_SQUARE".1 @(32)注意：如果商人的货架被垃圾堆满的话，你可以通过在旅店休息重置它们。
-GUIDesc."LEOS_WORKSHOP" @(32)你进入了里奥的工坊，在这里你可以交纳一些材料和一点金币打造你要的物品。
+GUIDesc."LEOS_WORKSHOP" @(32)你进入了鲁班的工坊，在这里你可以交纳一些材料和一点金币打造你要的物品。
 GUIDesc."LEOS_WORKSHOP".1 @(32)如果你有制造材料，图纸或金币，你可以免费存放在这里。
 GUIDesc."LEOS_WORKSHOP".2 @(32)注意：仓储材料只可被用于制造（将物品拖进来可以存放它）。
 GUIDesc."ARTISAN_GUILD" @(32)你进入了工匠行会，在这里你可以修理你的物品。
@@ -207,49 +207,49 @@ GUIPops."%s is now properly buried at the shrine of the forgotten heroes and %s 
 GUIPops."You have reached" 你已达到
 GUIPops."Level %d" 等级 %d
 GUIPops."You have entered" 你已进入
-Quests."I got plenty of money!" I got plenty of money!
-Quests."Pay the price (%dg)" Pay the price (%dg)
-Quests."Consider him shaved!" Consider him shaved!
-Quests."Yeah, yeah, I'm going!" Yeah, yeah, I'm going!
-Quests."How hard can it be?!?" How hard can it be?!?
-Quests."Heh, sure, I got this!" Heh, sure, I got this!
-Quests."Accept the quest" Accept the quest
-Quests."I was born to do this!" I was born to do this!
-Quests."Challenge %s" Challenge %s
-Quests."Monster Hunt" Monster Hunt
-Quests."Bandits' Hideout" Bandits' Hideout
-Quests."Ancient Sewer" Ancient Sewer
-Quests."Cultists' Lair" Cultists' Lair
-Quests."Nabon's Castle" Nabon's Castle
-Quests."Frostmourn Keep" Frostmourn Keep
-Quests."TRAVELER_DESC" Some travelers are staying in the inn and they claim to have seen %s in a dungeon nearby.
-Quests."TRAVELER_DESC".1 The travelers don't seem like much of a dungeon dwellers but they are certainly greedier than your average rogue.
-Quests."TRAVELER_DESC".2 If you want to learn the location of the dungeon and %s, you will have to pay dearly for it.
-Quests."SPAWN_TRAVELER" You pay the travelers and head out to face %s.
-Quests."ARTIFICER_DESC" The master artificer Leo Noerde has been taken hostage and the Artisan's Guild is looking for someone to rescue him.
-Quests."ARTIFICER_DESC".1 There seems to be no reward for whatever reason, but you never know what might happen if he is rescued.
-Quests."ARTIFICER_DESC".2 Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail.
-Quests."SPAWN_ARTIFICER" You accept the quest and head out to save the artificer.
-Quests."EQUALIZER_DESC" Apparently a chronomancer, whatever that is, went to study some ancient sewer and hasn't been seen in a while.
-Quests."EQUALIZER_DESC".1 Leo Noerde wants you to find out what happened to him and return back any unique items he may have found.
-Quests."EQUALIZER_DESC".2 Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail.
-Quests."SPAWN_EQUALIZER" You accept the quest and head out to find any unique items.
-Quests."GURMUR_DESC" Some cultists have come up with a plan to take over the world by waking up an old monster that should've stayed dead.
-Quests."GURMUR_DESC".1 Obviously that is bad but what is even worse is that those cultists are carrying a lot of gold that should be yours.
-Quests."GURMUR_DESC".2 Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail.
-Quests."SPAWN_GURMUR" You accept the quest and head out to face the cultists in their lair.
-Quests."NABON_DESC" Bad guys are drawn here like moths to the flames and the latest one goes by the title of Dreadlord.
-Quests."NABON_DESC".1 You probably should be on your way by now, because if you don't go and snatch the loot, someone else will!
-Quests."NABON_DESC".2 Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail.
-Quests."SPAWN_NABON" You accept the quest and head out to face the Dreadlord in his castle.
-Quests."THE_KING" the King
-Quests."THE_QUEEN" the Queen
-Quests."MAIN_QUEST_DESC" You are now deemed strong enough to challenge %s for the throne.
-Quests."MAIN_QUEST_DESC".1 Should you wish to issue the challenge, you can do so now.
-Quests."MAIN_QUEST_DESC".2 Note that once you do so there is no way to come back and failure in this quest means death.
-Quests."CHALLENGE_KING" You issue a challenge to %s and enter the Frostmourn Keep.
-Quests."CANT_AFFORD_FEE" You can't afford to pay the required fee.
-Quests."QUEST_ITEM_FOUND" You have found the quest item. You should probably head back and turn it in.
+Quests."I got plenty of money!" 我获得了大量金钱！
+Quests."Pay the price (%dg)" 支付（%dg）
+Quests."Consider him shaved!" 准备给他修面！
+Quests."Yeah, yeah, I'm going!" 好的好的，我会去的！
+Quests."How hard can it be?!?" 能有多难?!?
+Quests."Heh, sure, I got this!" 嘿，当然，我了解了！
+Quests."Accept the quest" 接受任务
+Quests."I was born to do this!" 我生来就是干这个的！
+Quests."Challenge %s" 挑战 %s
+Quests."Monster Hunt" 狩猎怪兽
+Quests."Bandits' Hideout" 土匪的巢穴
+Quests."Ancient Sewer" 古代下水道
+Quests."Cultists' Lair" 邪教徒的巢穴
+Quests."Nabon's Castle" 腊崩的城堡
+Quests."Frostmourn Keep" 霜之哀伤城楼
+Quests."TRAVELER_DESC" @(32)待在旅店中的旅客声称在附近的地牢中见过 %s 。
+Quests."TRAVELER_DESC".1 @(32)这些旅客看起来不太像地牢中的土著，但肯定比你们这些游侠更贪婪。
+Quests."TRAVELER_DESC".2 If @(32)如果你想打听地牢的位置以及 %s ，你需要必须付点钱。
+Quests."SPAWN_TRAVELER" 你付了钱给旅客，出发去找 %s 。
+Quests."ARTIFICER_DESC" @(32)工匠大师鲁班被捉为人质，工匠行会正在招募人选去解救他。
+Quests."ARTIFICER_DESC".1 @(32)不知道为什么，这个任务看起来没有报酬，但是你无法预知救了他会发生什么。
+Quests."ARTIFICER_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
+Quests."SPAWN_ARTIFICER" 你接受了任务，出发拯救工匠。
+Quests."EQUALIZER_DESC" @(32)很明显，有个时空术士，别管他是谁，前往调研古代下水道，有一段时间没再看见他了。
+Quests."EQUALIZER_DESC".1 @(32)鲁班想让你去看看他怎样了，把他找到的独特物品带回来。
+Quests."EQUALIZER_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
+Quests."SPAWN_EQUALIZER" 你接受了任务，出发寻找独特物品。
+Quests."GURMUR_DESC" @(32)一些邪教徒开启了一个计划，想唤醒一个本已死去的老怪物来征服世界。
+Quests."GURMUR_DESC".1 @(32)这当然很糟糕，但还有更糟的事情是哪些邪教徒带走了本该属于你的大量金币。
+Quests."GURMUR_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
+Quests."SPAWN_GURMUR" 你接受了任务，出发前往邪教徒的巢穴。
+Quests."NABON_DESC" @(32)坏人就像飞蛾扑火般涌现在这里，最后一个出现的是黑暗之主。
+Quests."NABON_DESC".1 @(32)或许你要上路了，因为如果你不去抢夺战利品，就会有人捷足先登！
+Quests."NABON_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
+Quests."SPAWN_NABON" 你接受了任务，出发去黑暗之主的城堡面对挑战。
+Quests."THE_KING" 国王
+Quests."THE_QUEEN" 女王
+Quests."MAIN_QUEST_DESC" @(32)你现在已经强大到可以去挑战 %s 夺取王位。
+Quests."MAIN_QUEST_DESC".1 @(32)你想面对挑战吗，现在就可以去了。
+Quests."MAIN_QUEST_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
+Quests."CHALLENGE_KING" 你接受了针对 %s 的挑战，进入了霜之哀伤城楼。
+Quests."CANT_AFFORD_FEE" 你付不起所需费用。
+Quests."QUEST_ITEM_FOUND" 你找到了任务物品。现在应该回去归还它。
 Encounters."Prince Altren" Prince Altren
 Encounters."Master Gifin-Gif" Master Gifin-Gif
 Encounters."Beartamer Gareth" Beartamer Gareth
@@ -1610,12 +1610,12 @@ ArrowNames."Fine Arrow" 精美羽箭
 ArrowNames."Bolt" 箭头
 ArrowNames."Fine Bolt" 精美箭头
 ArrowNames."Knabstick" Knab 之箭
-ArrowStacks."Stick" 一扎树棍
-ArrowStacks."Arrow" 一扎羽箭
-ArrowStacks."Fine Arrow" 一扎精美羽箭
-ArrowStacks."Bolt" 一组箭头
-ArrowStacks."Fine Bolt" 一组精美箭头
-ArrowStacks."Knabstick" 一组 Knab 之箭
+ArrowStacks."Stick" 树棍
+ArrowStacks."Arrow" 羽箭
+ArrowStacks."Fine Arrow" 精美羽箭
+ArrowStacks."Bolt" 箭头
+ArrowStacks."Fine Bolt" 精美箭头
+ArrowStacks."Knabstick" Knab 之箭
 ArrowDescs."Stick" Even these simple sticks can hurt you if they are propelled by enough force.
 ArrowDescs."Arrow" The bowman's recipe of win: head, shaft and fletching propelled by enough force.
 ArrowDescs."Fine Arrow" The sinister colour on these makes them more powerful than ordinary arrows.
@@ -1918,7 +1918,7 @@ RingNames."Ring of Sustenance" 维生之戒
 RingNames."Ring of Thirst" 饥渴之戒
 RingNames."Ring of Anxiety" 焦虑之戒
 RingNames."Ring of Bloodlust" 杀戮之戒
-RingNames."Ring of Conversion" 兑换之戒
+RingNames."Ring of Conversion" 转化之戒
 RingNames."Ring of Cracking" 裂解之戒
 RingNames."Ring of Noobery" 愚笨之戒
 RingNames."Ring of Shadows" 暗影之戒
@@ -2484,7 +2484,7 @@ CreatureNames."Spider swarm" Spider swarm
 CreatureNames."Snail swarm" Snail swarm
 CreatureNames."Boss" Boss
 CreatureNames."Gurmur" Gurmur
-CreatureNames."Dreadlord Nabon" Dreadlord Nabon
+CreatureNames."Dreadlord Nabon" 黑暗之主腊崩
 CreatureNames."Triggered Demonrat" Triggered Demonrat
 CreatureNames."Daemon" Daemon
 CreatureNames."Impaler" Impaler
@@ -2529,7 +2529,7 @@ CreatureNames."Ranger Satyr'Dae" Ranger Satyr'Dae
 CreatureNames."Dawid the Paladin" Dawid the Paladin
 CreatureNames."Leo Noerde" Leo Noerde
 CreatureNames."Ken'nih" Ken'nih
-CreatureNames."Chronomancer" Chronomancer
+CreatureNames."Chronomancer" 时空术士
 CreatureNames."Verman" Verman
 CreatureNames."Butcher" Butcher
 CreatureNames."Darkseer" Darkseer
@@ -4092,7 +4092,7 @@ HeroScreen."- Enemies are better equipped." - 敌人有更好的装备。
 HeroScreen."- Most heritages are not available." - 所有遗产都不可使用。
 HeroScreen."- Artisans have no materials." - 工匠没有材料。
 HeroScreen."- The snail cushion is not there." - 没有蜗牛。
-HeroScreen."- The cultists should be stopped." - 必须制止信徒。
+HeroScreen."- The cultists should be stopped." - 必须制止邪教徒。
 HeroScreen."- Unlocks the Kingslayer title." - 解锁 弑君者 头衔。
 ErrorStrings."Steam must be running to play this game." Steam must be running to play this game.
 ErrorStrings."Unable to connect to the server." Unable to connect to the server.

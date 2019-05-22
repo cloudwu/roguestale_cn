@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="0b6a501e471a64c1ec32517866d83e9e520414ed">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="ac72f7bc68e7043aef5dfcc3a7a91e66ce8394af">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -187,7 +187,7 @@
     <str id="MARKET_SQUARE" value="You have entered the Market Quarter and here you can trade items with various merchants." local="你进入了商业集市，这里可以和各式&#10;商人交易物品。">
       <str id="paragraph 1" value="Note that once the merchants' inventories  are filled with junk, you can reset them by resting in the inn." local="注意：如果商人的货架被垃圾堆满的&#10;话，你可以通过在旅店休息重置它们&#10;。"/>
     </str>
-    <str id="LEOS_WORKSHOP" value="You have entered Leo's Workshop and here you can have items crafted in exchange for materials and a few gold coins." local="你进入了里奥的工坊，在这里你可以&#10;交纳一些材料和一点金币打造你要的&#10;物品。">
+    <str id="LEOS_WORKSHOP" value="You have entered Leo's Workshop and here you can have items crafted in exchange for materials and a few gold coins." local="你进入了鲁班的工坊，在这里你可以&#10;交纳一些材料和一点金币打造你要的&#10;物品。">
       <str id="paragraph 1" value="If you have crafting materials, schematics or gold, you can store them here to free up some inventory space." local="如果你有制造材料，图纸或金币，你&#10;可以免费存放在这里。"/>
       <str id="paragraph 2" value="Note that only stored materials can be used for crafting (drop an item to store it)." local="注意：仓储材料只可被用于制造（将&#10;物品拖进来可以存放它）。"/>
     </str>
@@ -239,55 +239,55 @@
     <str id="You have entered" value="You have entered" local="你已进入"/>
   </GUIPops>
   <Quests>
-    <str id="I got plenty of money!" value="I got plenty of money!"/>
-    <str id="Pay the price (%dg)" value="Pay the price (%dg)"/>
-    <str id="Consider him shaved!" value="Consider him shaved!"/>
-    <str id="Yeah, yeah, I'm going!" value="Yeah, yeah, I'm going!"/>
-    <str id="How hard can it be?!?" value="How hard can it be?!?"/>
-    <str id="Heh, sure, I got this!" value="Heh, sure, I got this!"/>
-    <str id="Accept the quest" value="Accept the quest"/>
-    <str id="I was born to do this!" value="I was born to do this!"/>
-    <str id="Challenge %s" value="Challenge %s"/>
-    <str id="Monster Hunt" value="Monster Hunt"/>
-    <str id="Bandits' Hideout" value="Bandits' Hideout"/>
-    <str id="Ancient Sewer" value="Ancient Sewer"/>
-    <str id="Cultists' Lair" value="Cultists' Lair"/>
-    <str id="Nabon's Castle" value="Nabon's Castle"/>
-    <str id="Frostmourn Keep" value="Frostmourn Keep"/>
-    <str id="TRAVELER_DESC" value="Some travelers are staying in the inn and they claim to have seen %s in a dungeon nearby.">
-      <str id="paragraph 1" value="The travelers don't seem like much of a dungeon dwellers but they are certainly greedier than your average rogue."/>
-      <str id="paragraph 2" value="If you want to learn the location of the dungeon and %s, you will have to pay dearly for it."/>
+    <str id="I got plenty of money!" value="I got plenty of money!" local="我获得了大量金钱！"/>
+    <str id="Pay the price (%dg)" value="Pay the price (%dg)" local="支付（%dg）"/>
+    <str id="Consider him shaved!" value="Consider him shaved!" local="准备给他修面！"/>
+    <str id="Yeah, yeah, I'm going!" value="Yeah, yeah, I'm going!" local="好的好的，我会去的！"/>
+    <str id="How hard can it be?!?" value="How hard can it be?!?" local="能有多难?!?"/>
+    <str id="Heh, sure, I got this!" value="Heh, sure, I got this!" local="嘿，当然，我了解了！"/>
+    <str id="Accept the quest" value="Accept the quest" local="接受任务"/>
+    <str id="I was born to do this!" value="I was born to do this!" local="我生来就是干这个的！"/>
+    <str id="Challenge %s" value="Challenge %s" local="挑战 %s"/>
+    <str id="Monster Hunt" value="Monster Hunt" local="狩猎怪兽"/>
+    <str id="Bandits' Hideout" value="Bandits' Hideout" local="土匪的巢穴"/>
+    <str id="Ancient Sewer" value="Ancient Sewer" local="古代下水道"/>
+    <str id="Cultists' Lair" value="Cultists' Lair" local="邪教徒的巢穴"/>
+    <str id="Nabon's Castle" value="Nabon's Castle" local="腊崩的城堡"/>
+    <str id="Frostmourn Keep" value="Frostmourn Keep" local="霜之哀伤城楼"/>
+    <str id="TRAVELER_DESC" value="Some travelers are staying in the inn and they claim to have seen %s in a dungeon nearby." local="待在旅店中的旅客声称在附近的地牢&#10;中见过 %s 。">
+      <str id="paragraph 1" value="The travelers don't seem like much of a dungeon dwellers but they are certainly greedier than your average rogue." local="这些旅客看起来不太像地牢中的土著&#10;，但肯定比你们这些游侠更贪婪。"/>
+      <str id="paragraph 2" value="If you want to learn the location of the dungeon and %s, you will have to pay dearly for it." local="If @(32)如果你想打听地牢的位置以及 %s ，你需要必须付点钱。"/>
     </str>
-    <str id="SPAWN_TRAVELER" value="You pay the travelers and head out to face %s."/>
-    <str id="ARTIFICER_DESC" value="The master artificer Leo Noerde has been taken hostage and the Artisan's Guild is looking for someone to rescue him.">
-      <str id="paragraph 1" value="There seems to be no reward for whatever reason, but you never know what might happen if he is rescued."/>
-      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail."/>
+    <str id="SPAWN_TRAVELER" value="You pay the travelers and head out to face %s." local="你付了钱给旅客，出发去找 %s 。"/>
+    <str id="ARTIFICER_DESC" value="The master artificer Leo Noerde has been taken hostage and the Artisan's Guild is looking for someone to rescue him." local="工匠大师鲁班被捉为人质，工匠行会&#10;正在招募人选去解救他。">
+      <str id="paragraph 1" value="There seems to be no reward for whatever reason, but you never know what might happen if he is rescued." local="不知道为什么，这个任务看起来没有&#10;报酬，但是你无法预知救了他会发生&#10;什么。"/>
+      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail." local="注意，一旦你接受了任务，你就必须&#10;在离开地牢前完成这个任务，否则就&#10;算任务失败。"/>
     </str>
-    <str id="SPAWN_ARTIFICER" value="You accept the quest and head out to save the artificer."/>
-    <str id="EQUALIZER_DESC" value="Apparently a chronomancer, whatever that is, went to study some ancient sewer and hasn't been seen in a while.">
-      <str id="paragraph 1" value="Leo Noerde wants you to find out what happened to him and return back any unique items he may have found."/>
-      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail."/>
+    <str id="SPAWN_ARTIFICER" value="You accept the quest and head out to save the artificer." local="你接受了任务，出发拯救工匠。"/>
+    <str id="EQUALIZER_DESC" value="Apparently a chronomancer, whatever that is, went to study some ancient sewer and hasn't been seen in a while." local="很明显，有个时空术士，别管他是谁&#10;，前往调研古代下水道，有一段时间&#10;没再看见他了。">
+      <str id="paragraph 1" value="Leo Noerde wants you to find out what happened to him and return back any unique items he may have found." local="鲁班想让你去看看他怎样了，把他找&#10;到的独特物品带回来。"/>
+      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail." local="注意，一旦你接受了任务，你就必须&#10;在离开地牢前完成这个任务，否则就&#10;算任务失败。"/>
     </str>
-    <str id="SPAWN_EQUALIZER" value="You accept the quest and head out to find any unique items."/>
-    <str id="GURMUR_DESC" value="Some cultists have come up with a plan to take over the world by waking up an old monster that should've stayed dead.">
-      <str id="paragraph 1" value="Obviously that is bad but what is even worse is that those cultists are carrying a lot of gold that should be yours."/>
-      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail."/>
+    <str id="SPAWN_EQUALIZER" value="You accept the quest and head out to find any unique items." local="你接受了任务，出发寻找独特物品。"/>
+    <str id="GURMUR_DESC" value="Some cultists have come up with a plan to take over the world by waking up an old monster that should've stayed dead." local="一些邪教徒开启了一个计划，想唤醒&#10;一个本已死去的老怪物来征服世界。">
+      <str id="paragraph 1" value="Obviously that is bad but what is even worse is that those cultists are carrying a lot of gold that should be yours." local="这当然很糟糕，但还有更糟的事情是&#10;哪些邪教徒带走了本该属于你的大量&#10;金币。"/>
+      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail." local="注意，一旦你接受了任务，你就必须&#10;在离开地牢前完成这个任务，否则就&#10;算任务失败。"/>
     </str>
-    <str id="SPAWN_GURMUR" value="You accept the quest and head out to face the cultists in their lair."/>
-    <str id="NABON_DESC" value="Bad guys are drawn here like moths to the flames and the latest one goes by the title of Dreadlord.">
-      <str id="paragraph 1" value="You probably should be on your way by now, because if you don't go and snatch the loot, someone else will!"/>
-      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail."/>
+    <str id="SPAWN_GURMUR" value="You accept the quest and head out to face the cultists in their lair." local="你接受了任务，出发前往邪教徒的巢穴。"/>
+    <str id="NABON_DESC" value="Bad guys are drawn here like moths to the flames and the latest one goes by the title of Dreadlord." local="坏人就像飞蛾扑火般涌现在这里，最&#10;后一个出现的是黑暗之主。">
+      <str id="paragraph 1" value="You probably should be on your way by now, because if you don't go and snatch the loot, someone else will!" local="或许你要上路了，因为如果你不去抢&#10;夺战利品，就会有人捷足先登！"/>
+      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail." local="注意，一旦你接受了任务，你就必须&#10;在离开地牢前完成这个任务，否则就&#10;算任务失败。"/>
     </str>
-    <str id="SPAWN_NABON" value="You accept the quest and head out to face the Dreadlord in his castle."/>
-    <str id="THE_KING" value="the King"/>
-    <str id="THE_QUEEN" value="the Queen"/>
-    <str id="MAIN_QUEST_DESC" value="You are now deemed strong enough to challenge %s for the throne.">
-      <str id="paragraph 1" value="Should you wish to issue the challenge, you can do so now."/>
-      <str id="paragraph 2" value="Note that once you do so there is no way to come back and failure in this quest means death."/>
+    <str id="SPAWN_NABON" value="You accept the quest and head out to face the Dreadlord in his castle." local="你接受了任务，出发去黑暗之主的城堡面对挑战。"/>
+    <str id="THE_KING" value="the King" local="国王"/>
+    <str id="THE_QUEEN" value="the Queen" local="女王"/>
+    <str id="MAIN_QUEST_DESC" value="You are now deemed strong enough to challenge %s for the throne." local="你现在已经强大到可以去挑战 %s 夺&#10;取王位。">
+      <str id="paragraph 1" value="Should you wish to issue the challenge, you can do so now." local="你想面对挑战吗，现在就可以去了。"/>
+      <str id="paragraph 2" value="Note that once you do so there is no way to come back and failure in this quest means death." local="注意，一旦你接受了任务，你就必须&#10;在离开地牢前完成这个任务，否则就&#10;算任务失败。"/>
     </str>
-    <str id="CHALLENGE_KING" value="You issue a challenge to %s and enter the Frostmourn Keep."/>
-    <str id="CANT_AFFORD_FEE" value="You can't afford to pay the required fee."/>
-    <str id="QUEST_ITEM_FOUND" value="You have found the quest item. You should probably head back and turn it in."/>
+    <str id="CHALLENGE_KING" value="You issue a challenge to %s and enter the Frostmourn Keep." local="你接受了针对 %s 的挑战，进入了霜之哀伤城楼。"/>
+    <str id="CANT_AFFORD_FEE" value="You can't afford to pay the required fee." local="你付不起所需费用。"/>
+    <str id="QUEST_ITEM_FOUND" value="You have found the quest item. You should probably head back and turn it in." local="你找到了任务物品。现在应该回去归还它。"/>
   </Quests>
   <Encounters>
     <str id="Prince Altren" value="Prince Altren"/>
@@ -1751,12 +1751,12 @@
     <str id="Knabstick" value="Knabstick" local="Knab 之箭"/>
   </ArrowNames>
   <ArrowStacks>
-    <str id="Stick" value="Sticks" local="一扎树棍"/>
-    <str id="Arrow" value="Arrows" local="一扎羽箭"/>
-    <str id="Fine Arrow" value="Fine Arrows" local="一扎精美羽箭"/>
-    <str id="Bolt" value="Bolts" local="一组箭头"/>
-    <str id="Fine Bolt" value="Fine Bolts" local="一组精美箭头"/>
-    <str id="Knabstick" value="Knabsticks" local="一组 Knab 之箭"/>
+    <str id="Stick" value="Sticks" local="树棍"/>
+    <str id="Arrow" value="Arrows" local="羽箭"/>
+    <str id="Fine Arrow" value="Fine Arrows" local="精美羽箭"/>
+    <str id="Bolt" value="Bolts" local="箭头"/>
+    <str id="Fine Bolt" value="Fine Bolts" local="精美箭头"/>
+    <str id="Knabstick" value="Knabsticks" local="Knab 之箭"/>
   </ArrowStacks>
   <ArrowDescs>
     <str id="Stick" value="Even these simple sticks can hurt you if they are propelled by enough force."/>
@@ -2087,7 +2087,7 @@
     <str id="Ring of Thirst" value="Ring of Thirst" local="饥渴之戒"/>
     <str id="Ring of Anxiety" value="Ring of Anxiety" local="焦虑之戒"/>
     <str id="Ring of Bloodlust" value="Ring of Bloodlust" local="杀戮之戒"/>
-    <str id="Ring of Conversion" value="Ring of Conversion" local="兑换之戒"/>
+    <str id="Ring of Conversion" value="Ring of Conversion" local="转化之戒"/>
     <str id="Ring of Cracking" value="Ring of Cracking" local="裂解之戒"/>
     <str id="Ring of Noobery" value="Ring of Noobery" local="愚笨之戒"/>
     <str id="Ring of Shadows" value="Ring of Shadows" local="暗影之戒"/>
@@ -2695,7 +2695,7 @@
     <str id="Snail swarm" value="Snail swarm"/>
     <str id="Boss" value="Boss"/>
     <str id="Gurmur" value="Gurmur"/>
-    <str id="Dreadlord Nabon" value="Dreadlord Nabon"/>
+    <str id="Dreadlord Nabon" value="Dreadlord Nabon" local="黑暗之主腊崩"/>
     <str id="Triggered Demonrat" value="Triggered Demonrat"/>
     <str id="Daemon" value="Daemon"/>
     <str id="Impaler" value="Impaler"/>
@@ -2740,7 +2740,7 @@
     <str id="Dawid the Paladin" value="Dawid the Paladin"/>
     <str id="Leo Noerde" value="Leo Noerde"/>
     <str id="Ken'nih" value="Ken'nih"/>
-    <str id="Chronomancer" value="Chronomancer"/>
+    <str id="Chronomancer" value="Chronomancer" local="时空术士"/>
     <str id="Verman" value="Verman"/>
     <str id="Butcher" value="Butcher"/>
     <str id="Darkseer" value="Darkseer"/>
@@ -4555,7 +4555,7 @@
     <str id="- Most heritages are not available." value="- Most heritages are not available." local="- 所有遗产都不可使用。"/>
     <str id="- Artisans have no materials." value="- Artisans have no materials." local="- 工匠没有材料。"/>
     <str id="- The snail cushion is not there." value="- The snail cushion is not there." local="- 没有蜗牛。"/>
-    <str id="- The cultists should be stopped." value="- The cultists should be stopped." local="- 必须制止信徒。"/>
+    <str id="- The cultists should be stopped." value="- The cultists should be stopped." local="- 必须制止邪教徒。"/>
     <str id="- Unlocks the Kingslayer title." value="- Unlocks the Kingslayer title." local="- 解锁 弑君者 头衔。"/>
   </HeroScreen>
   <ErrorStrings>
