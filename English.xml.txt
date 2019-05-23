@@ -189,21 +189,21 @@ GUIDesc."FROSTMOURN_INN".4 @(38)注意：这还会提升下一次你清空地牢
 GUIDesc."RESET_DUNGEON" @(32)你是否探索完当前的地牢，或是在旅店休整了一段时间，这并不重要。
 GUIDesc."RESET_DUNGEON".1 @(32)如你所愿，现在你准备接受新的挑战。
 GUIDesc."RESET_DUNGEON".2 @(32)然而要提醒的是，你要确定是否做好了面对一切的完全准备……
-GUILogs."You donate %d gold coins and %s is removed." You donate %d gold coins and %s is removed.
-GUILogs."You can't afford to donate %d gold coins." You can't afford to donate %d gold coins.
-GUILogs."Shrine of Nibar thanks you and all curse and magic effects are removed." Shrine of Nibar thanks you and all curse and magic effects are removed.
-GUILogs."Shrine of Fubar thanks you and all poison and disease effects are removed." Shrine of Fubar thanks you and all poison and disease effects are removed.
-GUILogs."You can't donate when there's nothing wrong with you." You can't donate when there's nothing wrong with you.
-GUILogs."You choose to leave and the Wizards' Guild thanks you for your donation." You choose to leave and the Wizards' Guild thanks you for your donation.
-GUILogs."You feast and rest in the inn as time passes by." You feast and rest in the inn as time passes by.
-GUILogs."You can't afford to feast and rest in the inn." You can't afford to feast and rest in the inn.
-GUILogs."You leave the town and enter the dungeon." You leave the town and enter the dungeon.
-GUILogs."You leave the dungeon and enter the town." You leave the dungeon and enter the town.
-GUILogs."Some of your friends may have gotten lost in the process." Some of your friends may have gotten lost in the process.
-GUILogs."You prepare yourself for the new challenge ahead..." You prepare yourself for the new challenge ahead...
-GUILogs."You tell your friends to head out to the new dungeon..." You tell your friends to head out to the new dungeon...
-GUILogs."Failed to load map [%s]. Perhaps you should contact the developer..." Failed to load map [%s]. Perhaps you should contact the developer...
-GUIPops."%s is now properly buried at the shrine of the forgotten heroes and %s should not haunt us anymore." %s is now properly buried at the shrine of the forgotten heroes and %s should not haunt us anymore.
+GUILogs."You donate %d gold coins and %s is removed." 你捐了 %d 金币移除了 %s 。
+GUILogs."You can't afford to donate %d gold coins." 你付不起 %d 金币的捐赠。
+GUILogs."Shrine of Nibar thanks you and all curse and magic effects are removed." 力霸神殿神殿答谢你，所有的诅咒和魔法效果都移除了。
+GUILogs."Shrine of Fubar thanks you and all poison and disease effects are removed." 福霸神殿答谢你，所有的毒害和疾病都移除了。
+GUILogs."You can't donate when there's nothing wrong with you." 你没啥毛病时不能捐献。
+GUILogs."You choose to leave and the Wizards' Guild thanks you for your donation." 你选择离开，法师行会感谢你的捐赠。
+GUILogs."You feast and rest in the inn as time passes by." 你在旅店吃饱喝足，休整了一段时间。
+GUILogs."You can't afford to feast and rest in the inn." 你的钱不够在旅店休整。
+GUILogs."You leave the town and enter the dungeon." 你离开城镇进入了地牢。
+GUILogs."You leave the dungeon and enter the town." 你离开地牢进入了城镇。
+GUILogs."Some of your friends may have gotten lost in the process." 在这个过程中，你的一些伙伴可能走失。
+GUILogs."You prepare yourself for the new challenge ahead..." 你整装待发迎接新的挑战……
+GUILogs."You tell your friends to head out to the new dungeon..." 你通知你的伙伴出发去新的地牢……
+GUILogs."Failed to load map [%s]. Perhaps you should contact the developer..." 加载地图 [%s] 失败。或许你应该联系开发者……
+GUIPops."%s is now properly buried at the shrine of the forgotten heroes and %s should not haunt us anymore." %s 现在在被遗忘的英雄神殿火化，%s 不会再伤害我们了。
 GUIPops."You have reached" 你已达到
 GUIPops."Level %d" 等级 %d
 GUIPops."You have entered" 你已进入
@@ -250,61 +250,61 @@ Quests."MAIN_QUEST_DESC".2 @(32)注意，一旦你接受了任务，你就必须
 Quests."CHALLENGE_KING" 你接受了针对 %s 的挑战，进入了霜之哀伤城楼。
 Quests."CANT_AFFORD_FEE" 你付不起所需费用。
 Quests."QUEST_ITEM_FOUND" 你找到了任务物品。现在应该回去归还它。
-Encounters."Prince Altren" Prince Altren
-Encounters."Master Gifin-Gif" Master Gifin-Gif
-Encounters."Beartamer Gareth" Beartamer Gareth
-Encounters."Ice Queen Altara" Ice Queen Altara
-Encounters."Archmage Gyffendal" Archmage Gyffendal
-Encounters."Ryan the Trickster" Ryan the Trickster
-Encounters."Swordmaster Logar" Swordmaster Logar
-Encounters."Ranger Satyr'Dae" Ranger Satyr'Dae
-Encounters."Dawid the Paladin" Dawid the Paladin
-Encounters."%s yells: Very well coward, have it your way!" %s yells: Very well coward, have it your way!
-Encounters."%s yells: Enjoy your tomb, coward!" %s yells: Enjoy your tomb, coward!
-Encounters."%s descends down from the ceiling." %s descends down from the ceiling.
-Encounters."Orc miner says: Wrok wrok..." Orc miner says: Wrok wrok...
-Encounters."Cave bear roars: Rrraaarrgghhrr!!!" Cave bear roars: Rrraaarrgghhrr!!!
-Encounters."Orc boss yells: Wraaagh kek Hulk!" Orc boss yells: Wraaagh kek Hulk!
-Encounters."Knight yells: Kill the Wanderer!!!" Knight yells: Kill the Wanderer!!!
-Encounters."Drake roars: Rrraaarrgghhrr nom nom!!!" Drake roars: Rrraaarrgghhrr nom nom!!!
-Encounters."Wizard yells: Who dares to insult the Sacred Order of the Pink?!?" Wizard yells: Who dares to insult the Sacred Order of the Pink?!?
-Encounters."Prince Altren yells: Find %s and bring me %s head!" Prince Altren yells: Find %s and bring me %s head!
-Encounters."Master Gifin-Gif yells: Find %s and bring me %s head!" Master Gifin-Gif yells: Find %s and bring me %s head!
-Encounters."Beartamer Gareth yells: There's something for you to chew here!" Beartamer Gareth yells: There's something for you to chew here!
-Encounters."Ice Queen Altara yells: Come and face your doom!" Ice Queen Altara yells: Come and face your doom!
-Encounters."Archmage Gyffendal yells: Come out, come out wherever you are!" Archmage Gyffendal yells: Come out, come out wherever you are!
-Encounters."Ryan the Trickster yells: Squeeeeeeeeeeeeeeeeeeck!" Ryan the Trickster yells: Squeeeeeeeeeeeeeeeeeeck!
-Encounters."Swordmaster Logar yells: Come here, I need some practice!" Swordmaster Logar yells: Come here, I need some practice!
-Encounters."Ranger Satyr'Dae yells: Haha, there is no escape for you!" Ranger Satyr'Dae yells: Haha, there is no escape for you!
-Encounters."Dawid the Paladin yells: Feel the divine wrath of my hammer!" Dawid the Paladin yells: Feel the divine wrath of my hammer!
-Encounters."Dread wolf howls: OOOOooooouuuuuu!" Dread wolf howls: OOOOooooouuuuuu!
-Encounters."Bandit leader yells: Here kitty, kitty!" Bandit leader yells: Here kitty, kitty!
-Encounters."Orc boss yells: Wraaagh kek rega!" Orc boss yells: Wraaagh kek rega!
-Encounters."Undead captain rattles its bones!" Undead captain rattles its bones!
-Encounters."Papalob shrieks: Tsihihi-tsi-hih!" Papalob shrieks: Tsihihi-tsi-hih!
-Encounters."Infernal shouts: Kar eth ihm'nen!" Infernal shouts: Kar eth ihm'nen!
-Encounters."That feeling quickly dissipates in the wind." That feeling quickly dissipates in the wind.
-Encounters."Prince Altren yells: Don't worry mother, I will take care of this." Prince Altren yells: Don't worry mother, I will take care of this.
-Encounters."Prince Altren yells: Don't worry father, I will take care of this." Prince Altren yells: Don't worry father, I will take care of this.
-Encounters."Master Gifin-Gif yells: Find the intruder and bring %s head to the Queen!" Master Gifin-Gif yells: Find the intruder and bring %s head to the Queen!
-Encounters."Master Gifin-Gif yells: Find the intruder and bring %s head to the King!" Master Gifin-Gif yells: Find the intruder and bring %s head to the King!
-Encounters."Prince Altren yells: What?!? This can't be! Noooo..." Prince Altren yells: What?!? This can't be! Noooo...
-Encounters."Prince Altren yells: Hahaha! You have finally set me free!" Prince Altren yells: Hahaha! You have finally set me free!
-Encounters."Leo Noerde yells: My work did not reach the quality it should have!" Leo Noerde yells: My work did not reach the quality it should have!
-Encounters."%s yells: I'm only level 17 and I can prove it!" %s yells: I'm only level 17 and I can prove it!
-Encounters."The remains of the third leg wiggle all over and inside you." The remains of the third leg wiggle all over and inside you.
-Travelers."a cave bear" a cave bear
+Encounters."Prince Altren" 艾特仁王子
+Encounters."Master Gifin-Gif" 吉夫大师
+Encounters."Beartamer Gareth" 驯熊师加雷思
+Encounters."Ice Queen Altara" 冰霜女王艾特娜
+Encounters."Archmage Gyffendal" 大法师高焚岱
+Encounters."Ryan the Trickster" 魔术师赖安
+Encounters."Swordmaster Logar" 剑圣洛迦
+Encounters."Ranger Satyr'Dae" 独行侠赛特
+Encounters."Dawid the Paladin" 圣骑士达维德
+Encounters."%s yells: Very well coward, have it your way!" %s 喊道：懦夫！随你的便！
+Encounters."%s yells: Enjoy your tomb, coward!" %s 喊道：滚去你的坟墓，懦夫！
+Encounters."%s descends down from the ceiling." %s 从天花板下来。
+Encounters."Orc miner says: Wrok wrok..." 兽人矿工说：工作工作……
+Encounters."Cave bear roars: Rrraaarrgghhrr!!!" 洞熊怒吼：Rrraaarrgghhrr!!!
+Encounters."Orc boss yells: Wraaagh kek Hulk!" 兽人首领喊道：Wraaagh kek Hulk!
+Encounters."Knight yells: Kill the Wanderer!!!" 骑士喊道：干掉那个流浪者!!!
+Encounters."Drake roars: Rrraaarrgghhrr nom nom!!!" 幼龙喊道：Rrraaarrgghhrr nom nom!!!
+Encounters."Wizard yells: Who dares to insult the Sacred Order of the Pink?!?" 法师喊道：谁敢侮辱神圣的粉色骑士团?!?
+Encounters."Prince Altren yells: Find %s and bring me %s head!" 艾特仁王子喊道：找出 %s 把 %s 的脑袋带给我！
+Encounters."Master Gifin-Gif yells: Find %s and bring me %s head!" 吉夫大师喊道：找出 %s 把 %s 的脑袋带给我！
+Encounters."Beartamer Gareth yells: There's something for you to chew here!" 驯熊师加雷思喊道：这里有些东西给你啃！
+Encounters."Ice Queen Altara yells: Come and face your doom!" 冰霜女王艾特娜喊道：过来面对你的末日吧！
+Encounters."Archmage Gyffendal yells: Come out, come out wherever you are!" 大法师高焚岱喊道：出来，你给我出来！
+Encounters."Ryan the Trickster yells: Squeeeeeeeeeeeeeeeeeeck!" 魔术师赖安喊道：Squeeeeeeeeeeeeeeeeeeck!
+Encounters."Swordmaster Logar yells: Come here, I need some practice!" 剑圣洛迦喊道：过来，切磋一下！
+Encounters."Ranger Satyr'Dae yells: Haha, there is no escape for you!" 独行侠赛特喊道：哈哈，你已经无路可逃！
+Encounters."Dawid the Paladin yells: Feel the divine wrath of my hammer!" 圣骑士达维德喊道：感受一下我的神圣愤怒之锤！
+Encounters."Dread wolf howls: OOOOooooouuuuuu!" 骇狼嗥叫：OOOOooooouuuuuu!
+Encounters."Bandit leader yells: Here kitty, kitty!" 匪首喊道：过来啊，小猫咪！
+Encounters."Orc boss yells: Wraaagh kek rega!" 兽人首领喊道：Wraaagh kek rega!
+Encounters."Undead captain rattles its bones!" 亡灵队长的骨头咯咯作响！
+Encounters."Papalob shrieks: Tsihihi-tsi-hih!" 趴趴洛尖叫着：Tsihihi-tsi-hih!
+Encounters."Infernal shouts: Kar eth ihm'nen!" 恶魔喊着：Kar eth ihm'nen!
+Encounters."That feeling quickly dissipates in the wind." 那种感觉很快地消散在风中。
+Encounters."Prince Altren yells: Don't worry mother, I will take care of this." 艾特仁王子喊道：不要担心，母后。我会搞定的。
+Encounters."Prince Altren yells: Don't worry father, I will take care of this." 艾特仁王子喊道：不要担心，父王。我会搞定的。
+Encounters."Master Gifin-Gif yells: Find the intruder and bring %s head to the Queen!" 吉夫大师喊道：把入侵者找出来，拿下 %s 的人头交给女王！
+Encounters."Master Gifin-Gif yells: Find the intruder and bring %s head to the King!" 吉夫大师喊道：把入侵者找出来，拿下 %s 的人头交给王上！
+Encounters."Prince Altren yells: What?!? This can't be! Noooo..." 艾特仁王子喊道：什么?!? 这不可能?!? 不……
+Encounters."Prince Altren yells: Hahaha! You have finally set me free!" 艾特仁王子喊道：哈哈！你终于解放了我！
+Encounters."Leo Noerde yells: My work did not reach the quality it should have!" 鲁班喊道：我的作品没有达到应有的质量！
+Encounters."%s yells: I'm only level 17 and I can prove it!" %s 喊道：我只有 17 级，我可以证明这点！
+Encounters."The remains of the third leg wiggle all over and inside you." 第三条腿的残骸在你的身体内外扭动。
+Travelers."a cave bear" 一只洞熊
 Travelers."a drake" a drake
 Travelers."a floater" a floater
 Travelers."a glutopod" a glutopod
-Travelers."an infernal" an infernal
+Travelers."an infernal" 一只恶魔
 Travelers."a mamalob" a mamalob
 Travelers."a wraith" a wraith
 Travelers."a banshee" a banshee
 Travelers."an elemental" an elemental
 Travelers."a troll" a troll
 Travelers."a demonrat" a demonrat
-Travelers."the cave bear" the cave bear
+Travelers."the cave bear" 这只洞熊
 Travelers."the drake" the drake
 Travelers."the floater" the floater
 Travelers."the glutopod" the glutopod
@@ -2098,9 +2098,9 @@ ShieldNames."Fine Buckler" 精美小盾
 ShieldNames."Fine Target" 精美圆盾
 ShieldNames."Fine Shield" 精美大盾
 ShieldNames."Fine Barrier" 精美巨盾
-ShieldNames."Dawid's Shield" Dawid 之盾
+ShieldNames."Dawid's Shield" 达维德之盾
 ShieldDescs."ShieldDesc" @(30)在装备了盾牌后，施放龙系和地狱系法术将变得困难。
-ShieldDescs."Dawid's Shield" 这曾是圣骑士 Dawid 生前用过的盾牌。
+ShieldDescs."Dawid's Shield" @(30)这曾是圣骑士达维德生前用过的盾牌。
 TomeNames."Tome" 典籍
 TomeNames."Tome of Cure Disease" 典籍：治疗疾病
 TomeNames."Tome of Cure Poison" 典籍：治疗中毒
@@ -2196,7 +2196,7 @@ ToolDescs."Bearskin" No animals were harmed during the skinning process.
 ToolDescs."Flexweave" This thread was first seen in the mines of Khevlar.
 ToolDescs."Hardwood" This wood really puts the angio in a spermous tree.
 ToolDescs."Scrap" One man's reusable scrap is another man's treasure.
-ToolDescs."Schematic" This is one of Leo Noerde's schematics and he probably wants it back.
+ToolDescs."Schematic" 这是一张鲁班的图纸，他可能想要回去。
 ToolDescs."Crown" Fits perfectly on the head of a King that wants to rule his people with an iron fist.
 ToolDescs."Dog Collar" This collar can be used to safely store Woof while you do whatever it is that you do when you're alone.
 ToolDescs."Soul Gem" These gems are said to contain the souls of innocent victims but in reality there is no such thing as innocent...
@@ -2361,11 +2361,11 @@ WeaponNames."Fine Throwing Knife" 精美飞刀
 WeaponNames."Fine Throwing Star" 精美手里剑
 WeaponNames."Gifin's Claw" Gifin 之爪
 WeaponNames."Gareth's Axe" Gareth 之斧
-WeaponNames."Dawid's Hammer" Dawid 之锤
+WeaponNames."Dawid's Hammer" 达维德之锤
 WeaponNames."Royal Mace" 皇家锤矛
-WeaponNames."Satyr's Sting" Satyr 之刺
-WeaponNames."Logar's Blade" Logar 之刃
-WeaponNames."Altren's Kiss" Altren 之吻
+WeaponNames."Satyr's Sting" 赛特之刺
+WeaponNames."Logar's Blade" 洛迦之刃
+WeaponNames."Altren's Kiss" 艾特仁之吻
 WeaponNames."Staff of the Trickster" 魔术师之杖
 WeaponNames."Staff of the Archmage" 大法师之杖
 WeaponNames."Staff of the Ice Queen" 冰霜女王之杖
@@ -2430,16 +2430,16 @@ WeaponDescs."Bestial Staff" Description...
 WeaponDescs."Abyssal Staff" Description...
 WeaponDescs."Fine Throwing Knife" This knife is perfectly balanced to stop those weaklings who try to run away.
 WeaponDescs."Fine Throwing Star" This weapon is great for those villains who don't mind robbing their victims.
-WeaponDescs."Gifin's Claw" This used to belong to Master Gifin-Gif before you snatched it from his dead body.
-WeaponDescs."Gareth's Axe" This used to belong to Beartamer Gareth before you looted it from his corpse.
-WeaponDescs."Dawid's Hammer" This used to belong to Dawid the Paladin before he joined his battle brothers in the afterlife.
+WeaponDescs."Gifin's Claw" 这曾经属于吉夫大师，你从他的尸体上夺了过来。
+WeaponDescs."Gareth's Axe" 这曾经属于驯熊师加雷思，你从他的尸体上捡到的。
+WeaponDescs."Dawid's Hammer" 这曾经属于圣骑士达维德，他已经随他的兄弟们战死沙场。
 WeaponDescs."Royal Mace" This is one of those toys that you get to have as a King. Enjoy while it's yours.
-WeaponDescs."Satyr's Sting" This used to belong to Ranger Satyr'Dae before you picked it up from his remains.
-WeaponDescs."Logar's Blade" This used to belong to Swordmaster Logar before you took it from his cold dead hands.
-WeaponDescs."Altren's Kiss" This used to belong to Prince Altren and there's a carving on the stock that says XLVII, whatever that means.
-WeaponDescs."Staff of the Trickster" This used to belong to Ryan the Trickster and it teaches its wielder how to cast the Virulent Orb spell.
-WeaponDescs."Staff of the Archmage" This used to belong to Archmage Gyffendal and it teaches its wielder how to cast the Flaming Orb spell.
-WeaponDescs."Staff of the Ice Queen" This used to belong to Ice Queen Altara and it teaches its wielder how to cast the Frozen Orb spell.
+WeaponDescs."Satyr's Sting" 这曾经属于独行侠赛特，你从他的遗物中获得。
+WeaponDescs."Logar's Blade" 这曾经属于剑圣洛迦，他的手已不再有体温。
+WeaponDescs."Altren's Kiss" 这曾经属于艾特仁王子，上面刻有 XLVII ，已经不知道其含义。
+WeaponDescs."Staff of the Trickster" 这曾经属于魔术师赖安，持有它的人可以释放病球术。
+WeaponDescs."Staff of the Archmage" 这曾经属于大法师高焚岱，持有它的人可以释放火球术。
+WeaponDescs."Staff of the Ice Queen" 这曾经属于冰霜女王艾特娜，持有它的人可以释放冰球术。
 WeaponDescs."Death Star" These throwing stars are one of the deadliest tools used by the Blackhand assassins.
 LegendaryNames."Cheesy Musk" Cheesy Musk
 LegendaryNames."Death Proof" Death Proof
@@ -2518,16 +2518,16 @@ CreatureNames."Sorceress" 女巫
 CreatureNames."Knight" 骑士
 CreatureNames."Archmage" 大法师
 CreatureNames."Blackhand" 黑手
-CreatureNames."Prince Altren" Prince Altren
-CreatureNames."Master Gifin-Gif" Master Gifin-Gif
-CreatureNames."Beartamer Gareth" Beartamer Gareth
-CreatureNames."Ice Queen Altara" Ice Queen Altara
-CreatureNames."Archmage Gyffendal" Archmage Gyffendal
-CreatureNames."Ryan the Trickster" Ryan the Trickster
-CreatureNames."Swordmaster Logar" Swordmaster Logar
-CreatureNames."Ranger Satyr'Dae" Ranger Satyr'Dae
-CreatureNames."Dawid the Paladin" Dawid the Paladin
-CreatureNames."Leo Noerde" Leo Noerde
+CreatureNames."Prince Altren" 艾特仁王子
+CreatureNames."Master Gifin-Gif" 吉夫大师
+CreatureNames."Beartamer Gareth" 驯熊师加雷思
+CreatureNames."Ice Queen Altara" 冰霜女王艾特娜
+CreatureNames."Archmage Gyffendal" 大法师高焚岱
+CreatureNames."Ryan the Trickster" 魔术师赖安
+CreatureNames."Swordmaster Logar" 剑圣洛迦
+CreatureNames."Ranger Satyr'Dae" 独行侠赛特
+CreatureNames."Dawid the Paladin" 圣骑士达维德
+CreatureNames."Leo Noerde" 鲁班
 CreatureNames."Ken'nih" Ken'nih
 CreatureNames."Chronomancer" 时空术士
 CreatureNames."Verman" Verman
@@ -2538,7 +2538,7 @@ CreatureNames."Evil Genie" Evil Genie
 CreatureNames."King" King
 CreatureNames."Queen" Queen
 CreatureNames."Monster" Monster
-CreatureNames."Cave bear" Cave bear
+CreatureNames."Cave bear" 洞熊
 CreatureNames."Drake" Drake
 CreatureNames."Infernal" Infernal
 CreatureNames."Mamalob" Mamalob
@@ -2546,7 +2546,7 @@ CreatureNames."Wraith" Wraith
 CreatureNames."Banshee" Banshee
 CreatureNames."Glutopod" Glutopod
 CreatureNames."Dark Prince" Dark Prince
-CreatureNames."Papalob" Papalob
+CreatureNames."Papalob" 趴趴洛
 CreatureNames."Lasher" Lasher
 CreatureNames."Slicer" Slicer
 CreatureNames."Earth elemental" Earth elemental
@@ -3230,8 +3230,8 @@ HeritageDescs."Rare Breed" Grants Woof +1 agility and +1 stamina at the start of
 HeritageDescs."Rare Breed".1 This heritage can be unlocked by having Woof kill a Dire Wolf.
 HeritageDescs."Epic Breed" Grants Woof +1 agility and +1 stamina at the start of the game and Strong Will at level 6.
 HeritageDescs."Epic Breed".1 This heritage can be unlocked by having Woof kill a monster.
-HeritageDescs."Craftalicious" Allows the player to craft items in the Artisans' Guild (and enables crafting items in the loot tables).
-HeritageDescs."Craftalicious".1 This heritage can be unlocked by rescuing Artificer Leo Noerde and bringing him back to town.
+HeritageDescs."Craftalicious" @(26)允许玩家在工匠行会内制造物品（并在拾取表中开启制造物）。
+HeritageDescs."Craftalicious".1 @(26)这个遗产可以通过解救鲁班大师并带他回城来解锁。
 HeritageDescs."Artisans' Guild now crafts blessed versions of the following items:%s" Artisans' Guild now crafts blessed versions of the following items:%s
 HeritageDescs."Artisans' Guild now crafts blessed versions of the following items:%s".1 This heritage can be unlocked by crafting all of the items marked with an asterisk in a single game.
 HeritageDescs."Patron of Arts" Crafted items are now enchanted and the enchant is guaranteed to be appropriate for the item as well as the player.

@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="ae5646ac719b173659d576528377b60703784f12">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="7571299bf9b0efade1727697f7f34ae701e7f2c3">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -217,23 +217,23 @@
     </str>
   </GUIDesc>
   <GUILogs>
-    <str id="You donate %d gold coins and %s is removed." value="You donate %d gold coins and %s is removed."/>
-    <str id="You can't afford to donate %d gold coins." value="You can't afford to donate %d gold coins."/>
-    <str id="Shrine of Nibar thanks you and all curse and magic effects are removed." value="Shrine of Nibar thanks you and all curse and magic effects are removed."/>
-    <str id="Shrine of Fubar thanks you and all poison and disease effects are removed." value="Shrine of Fubar thanks you and all poison and disease effects are removed."/>
-    <str id="You can't donate when there's nothing wrong with you." value="You can't donate when there's nothing wrong with you."/>
-    <str id="You choose to leave and the Wizards' Guild thanks you for your donation." value="You choose to leave and the Wizards' Guild thanks you for your donation."/>
-    <str id="You feast and rest in the inn as time passes by." value="You feast and rest in the inn as time passes by."/>
-    <str id="You can't afford to feast and rest in the inn." value="You can't afford to feast and rest in the inn."/>
-    <str id="You leave the town and enter the dungeon." value="You leave the town and enter the dungeon."/>
-    <str id="You leave the dungeon and enter the town." value="You leave the dungeon and enter the town."/>
-    <str id="Some of your friends may have gotten lost in the process." value="Some of your friends may have gotten lost in the process."/>
-    <str id="You prepare yourself for the new challenge ahead..." value="You prepare yourself for the new challenge ahead..."/>
-    <str id="You tell your friends to head out to the new dungeon..." value="You tell your friends to head out to the new dungeon..."/>
-    <str id="Failed to load map [%s]. Perhaps you should contact the developer..." value="Failed to load map [%s]. Perhaps you should contact the developer..."/>
+    <str id="You donate %d gold coins and %s is removed." value="You donate %d gold coins and %s is removed." local="你捐了 %d 金币移除了 %s 。"/>
+    <str id="You can't afford to donate %d gold coins." value="You can't afford to donate %d gold coins." local="你付不起 %d 金币的捐赠。"/>
+    <str id="Shrine of Nibar thanks you and all curse and magic effects are removed." value="Shrine of Nibar thanks you and all curse and magic effects are removed." local="力霸神殿神殿答谢你，所有的诅咒和魔法效果都移除了。"/>
+    <str id="Shrine of Fubar thanks you and all poison and disease effects are removed." value="Shrine of Fubar thanks you and all poison and disease effects are removed." local="福霸神殿答谢你，所有的毒害和疾病都移除了。"/>
+    <str id="You can't donate when there's nothing wrong with you." value="You can't donate when there's nothing wrong with you." local="你没啥毛病时不能捐献。"/>
+    <str id="You choose to leave and the Wizards' Guild thanks you for your donation." value="You choose to leave and the Wizards' Guild thanks you for your donation." local="你选择离开，法师行会感谢你的捐赠。"/>
+    <str id="You feast and rest in the inn as time passes by." value="You feast and rest in the inn as time passes by." local="你在旅店吃饱喝足，休整了一段时间。"/>
+    <str id="You can't afford to feast and rest in the inn." value="You can't afford to feast and rest in the inn." local="你的钱不够在旅店休整。"/>
+    <str id="You leave the town and enter the dungeon." value="You leave the town and enter the dungeon." local="你离开城镇进入了地牢。"/>
+    <str id="You leave the dungeon and enter the town." value="You leave the dungeon and enter the town." local="你离开地牢进入了城镇。"/>
+    <str id="Some of your friends may have gotten lost in the process." value="Some of your friends may have gotten lost in the process." local="在这个过程中，你的一些伙伴可能走失。"/>
+    <str id="You prepare yourself for the new challenge ahead..." value="You prepare yourself for the new challenge ahead..." local="你整装待发迎接新的挑战……"/>
+    <str id="You tell your friends to head out to the new dungeon..." value="You tell your friends to head out to the new dungeon..." local="你通知你的伙伴出发去新的地牢……"/>
+    <str id="Failed to load map [%s]. Perhaps you should contact the developer..." value="Failed to load map [%s]. Perhaps you should contact the developer..." local="加载地图 [%s] 失败。或许你应该联系开发者……"/>
   </GUILogs>
   <GUIPops>
-    <str id="%s is now properly buried at the shrine of the forgotten heroes and %s should not haunt us anymore." value="%s is now properly buried at the shrine of the forgotten heroes and %s should not haunt us anymore."/>
+    <str id="%s is now properly buried at the shrine of the forgotten heroes and %s should not haunt us anymore." value="%s is now properly buried at the shrine of the forgotten heroes and %s should not haunt us anymore." local="%s 现在在被遗忘的英雄神殿火化，%s 不会再伤害我们了。"/>
     <str id="You have reached" value="You have reached" local="你已达到"/>
     <str id="Level %d" value="Level %d" local="等级 %d"/>
     <str id="You have entered" value="You have entered" local="你已进入"/>
@@ -290,63 +290,63 @@
     <str id="QUEST_ITEM_FOUND" value="You have found the quest item. You should probably head back and turn it in." local="你找到了任务物品。现在应该回去归还它。"/>
   </Quests>
   <Encounters>
-    <str id="Prince Altren" value="Prince Altren"/>
-    <str id="Master Gifin-Gif" value="Master Gifin-Gif"/>
-    <str id="Beartamer Gareth" value="Beartamer Gareth"/>
-    <str id="Ice Queen Altara" value="Ice Queen Altara"/>
-    <str id="Archmage Gyffendal" value="Archmage Gyffendal"/>
-    <str id="Ryan the Trickster" value="Ryan the Trickster"/>
-    <str id="Swordmaster Logar" value="Swordmaster Logar"/>
-    <str id="Ranger Satyr'Dae" value="Ranger Satyr'Dae"/>
-    <str id="Dawid the Paladin" value="Dawid the Paladin"/>
-    <str id="%s yells: Very well coward, have it your way!" value="%s yells: Very well coward, have it your way!"/>
-    <str id="%s yells: Enjoy your tomb, coward!" value="%s yells: Enjoy your tomb, coward!"/>
-    <str id="%s descends down from the ceiling." value="%s descends down from the ceiling."/>
-    <str id="Orc miner says: Wrok wrok..." value="Orc miner says: Wrok wrok..."/>
-    <str id="Cave bear roars: Rrraaarrgghhrr!!!" value="Cave bear roars: Rrraaarrgghhrr!!!"/>
-    <str id="Orc boss yells: Wraaagh kek Hulk!" value="Orc boss yells: Wraaagh kek Hulk!"/>
-    <str id="Knight yells: Kill the Wanderer!!!" value="Knight yells: Kill the Wanderer!!!"/>
-    <str id="Drake roars: Rrraaarrgghhrr nom nom!!!" value="Drake roars: Rrraaarrgghhrr nom nom!!!"/>
-    <str id="Wizard yells: Who dares to insult the Sacred Order of the Pink?!?" value="Wizard yells: Who dares to insult the Sacred Order of the Pink?!?"/>
-    <str id="Prince Altren yells: Find %s and bring me %s head!" value="Prince Altren yells: Find %s and bring me %s head!"/>
-    <str id="Master Gifin-Gif yells: Find %s and bring me %s head!" value="Master Gifin-Gif yells: Find %s and bring me %s head!"/>
-    <str id="Beartamer Gareth yells: There's something for you to chew here!" value="Beartamer Gareth yells: There's something for you to chew here!"/>
-    <str id="Ice Queen Altara yells: Come and face your doom!" value="Ice Queen Altara yells: Come and face your doom!"/>
-    <str id="Archmage Gyffendal yells: Come out, come out wherever you are!" value="Archmage Gyffendal yells: Come out, come out wherever you are!"/>
-    <str id="Ryan the Trickster yells: Squeeeeeeeeeeeeeeeeeeck!" value="Ryan the Trickster yells: Squeeeeeeeeeeeeeeeeeeck!"/>
-    <str id="Swordmaster Logar yells: Come here, I need some practice!" value="Swordmaster Logar yells: Come here, I need some practice!"/>
-    <str id="Ranger Satyr'Dae yells: Haha, there is no escape for you!" value="Ranger Satyr'Dae yells: Haha, there is no escape for you!"/>
-    <str id="Dawid the Paladin yells: Feel the divine wrath of my hammer!" value="Dawid the Paladin yells: Feel the divine wrath of my hammer!"/>
-    <str id="Dread wolf howls: OOOOooooouuuuuu!" value="Dread wolf howls: OOOOooooouuuuuu!"/>
-    <str id="Bandit leader yells: Here kitty, kitty!" value="Bandit leader yells: Here kitty, kitty!"/>
-    <str id="Orc boss yells: Wraaagh kek rega!" value="Orc boss yells: Wraaagh kek rega!"/>
-    <str id="Undead captain rattles its bones!" value="Undead captain rattles its bones!"/>
-    <str id="Papalob shrieks: Tsihihi-tsi-hih!" value="Papalob shrieks: Tsihihi-tsi-hih!"/>
-    <str id="Infernal shouts: Kar eth ihm'nen!" value="Infernal shouts: Kar eth ihm'nen!"/>
-    <str id="That feeling quickly dissipates in the wind." value="That feeling quickly dissipates in the wind."/>
-    <str id="Prince Altren yells: Don't worry mother, I will take care of this." value="Prince Altren yells: Don't worry mother, I will take care of this."/>
-    <str id="Prince Altren yells: Don't worry father, I will take care of this." value="Prince Altren yells: Don't worry father, I will take care of this."/>
-    <str id="Master Gifin-Gif yells: Find the intruder and bring %s head to the Queen!" value="Master Gifin-Gif yells: Find the intruder and bring %s head to the Queen!"/>
-    <str id="Master Gifin-Gif yells: Find the intruder and bring %s head to the King!" value="Master Gifin-Gif yells: Find the intruder and bring %s head to the King!"/>
-    <str id="Prince Altren yells: What?!? This can't be! Noooo..." value="Prince Altren yells: What?!? This can't be! Noooo..."/>
-    <str id="Prince Altren yells: Hahaha! You have finally set me free!" value="Prince Altren yells: Hahaha! You have finally set me free!"/>
-    <str id="Leo Noerde yells: My work did not reach the quality it should have!" value="Leo Noerde yells: My work did not reach the quality it should have!"/>
-    <str id="%s yells: I'm only level 17 and I can prove it!" value="%s yells: I'm only level 17 and I can prove it!"/>
-    <str id="The remains of the third leg wiggle all over and inside you." value="The remains of the third leg wiggle all over and inside you."/>
+    <str id="Prince Altren" value="Prince Altren" local="艾特仁王子"/>
+    <str id="Master Gifin-Gif" value="Master Gifin-Gif" local="吉夫大师"/>
+    <str id="Beartamer Gareth" value="Beartamer Gareth" local="驯熊师加雷思"/>
+    <str id="Ice Queen Altara" value="Ice Queen Altara" local="冰霜女王艾特娜"/>
+    <str id="Archmage Gyffendal" value="Archmage Gyffendal" local="大法师高焚岱"/>
+    <str id="Ryan the Trickster" value="Ryan the Trickster" local="魔术师赖安"/>
+    <str id="Swordmaster Logar" value="Swordmaster Logar" local="剑圣洛迦"/>
+    <str id="Ranger Satyr'Dae" value="Ranger Satyr'Dae" local="独行侠赛特"/>
+    <str id="Dawid the Paladin" value="Dawid the Paladin" local="圣骑士达维德"/>
+    <str id="%s yells: Very well coward, have it your way!" value="%s yells: Very well coward, have it your way!" local="%s 喊道：懦夫！随你的便！"/>
+    <str id="%s yells: Enjoy your tomb, coward!" value="%s yells: Enjoy your tomb, coward!" local="%s 喊道：滚去你的坟墓，懦夫！"/>
+    <str id="%s descends down from the ceiling." value="%s descends down from the ceiling." local="%s 从天花板下来。"/>
+    <str id="Orc miner says: Wrok wrok..." value="Orc miner says: Wrok wrok..." local="兽人矿工说：工作工作……"/>
+    <str id="Cave bear roars: Rrraaarrgghhrr!!!" value="Cave bear roars: Rrraaarrgghhrr!!!" local="洞熊怒吼：Rrraaarrgghhrr!!!"/>
+    <str id="Orc boss yells: Wraaagh kek Hulk!" value="Orc boss yells: Wraaagh kek Hulk!" local="兽人首领喊道：Wraaagh kek Hulk!"/>
+    <str id="Knight yells: Kill the Wanderer!!!" value="Knight yells: Kill the Wanderer!!!" local="骑士喊道：干掉那个流浪者!!!"/>
+    <str id="Drake roars: Rrraaarrgghhrr nom nom!!!" value="Drake roars: Rrraaarrgghhrr nom nom!!!" local="幼龙喊道：Rrraaarrgghhrr nom nom!!!"/>
+    <str id="Wizard yells: Who dares to insult the Sacred Order of the Pink?!?" value="Wizard yells: Who dares to insult the Sacred Order of the Pink?!?" local="法师喊道：谁敢侮辱神圣的粉色骑士团?!?"/>
+    <str id="Prince Altren yells: Find %s and bring me %s head!" value="Prince Altren yells: Find %s and bring me %s head!" local="艾特仁王子喊道：找出 %s 把 %s 的脑袋带给我！"/>
+    <str id="Master Gifin-Gif yells: Find %s and bring me %s head!" value="Master Gifin-Gif yells: Find %s and bring me %s head!" local="吉夫大师喊道：找出 %s 把 %s 的脑袋带给我！"/>
+    <str id="Beartamer Gareth yells: There's something for you to chew here!" value="Beartamer Gareth yells: There's something for you to chew here!" local="驯熊师加雷思喊道：这里有些东西给你啃！"/>
+    <str id="Ice Queen Altara yells: Come and face your doom!" value="Ice Queen Altara yells: Come and face your doom!" local="冰霜女王艾特娜喊道：过来面对你的末日吧！"/>
+    <str id="Archmage Gyffendal yells: Come out, come out wherever you are!" value="Archmage Gyffendal yells: Come out, come out wherever you are!" local="大法师高焚岱喊道：出来，你给我出来！"/>
+    <str id="Ryan the Trickster yells: Squeeeeeeeeeeeeeeeeeeck!" value="Ryan the Trickster yells: Squeeeeeeeeeeeeeeeeeeck!" local="魔术师赖安喊道：Squeeeeeeeeeeeeeeeeeeck!"/>
+    <str id="Swordmaster Logar yells: Come here, I need some practice!" value="Swordmaster Logar yells: Come here, I need some practice!" local="剑圣洛迦喊道：过来，切磋一下！"/>
+    <str id="Ranger Satyr'Dae yells: Haha, there is no escape for you!" value="Ranger Satyr'Dae yells: Haha, there is no escape for you!" local="独行侠赛特喊道：哈哈，你已经无路可逃！"/>
+    <str id="Dawid the Paladin yells: Feel the divine wrath of my hammer!" value="Dawid the Paladin yells: Feel the divine wrath of my hammer!" local="圣骑士达维德喊道：感受一下我的神圣愤怒之锤！"/>
+    <str id="Dread wolf howls: OOOOooooouuuuuu!" value="Dread wolf howls: OOOOooooouuuuuu!" local="骇狼嗥叫：OOOOooooouuuuuu!"/>
+    <str id="Bandit leader yells: Here kitty, kitty!" value="Bandit leader yells: Here kitty, kitty!" local="匪首喊道：过来啊，小猫咪！"/>
+    <str id="Orc boss yells: Wraaagh kek rega!" value="Orc boss yells: Wraaagh kek rega!" local="兽人首领喊道：Wraaagh kek rega!"/>
+    <str id="Undead captain rattles its bones!" value="Undead captain rattles its bones!" local="亡灵队长的骨头咯咯作响！"/>
+    <str id="Papalob shrieks: Tsihihi-tsi-hih!" value="Papalob shrieks: Tsihihi-tsi-hih!" local="趴趴洛尖叫着：Tsihihi-tsi-hih!"/>
+    <str id="Infernal shouts: Kar eth ihm'nen!" value="Infernal shouts: Kar eth ihm'nen!" local="恶魔喊着：Kar eth ihm'nen!"/>
+    <str id="That feeling quickly dissipates in the wind." value="That feeling quickly dissipates in the wind." local="那种感觉很快地消散在风中。"/>
+    <str id="Prince Altren yells: Don't worry mother, I will take care of this." value="Prince Altren yells: Don't worry mother, I will take care of this." local="艾特仁王子喊道：不要担心，母后。我会搞定的。"/>
+    <str id="Prince Altren yells: Don't worry father, I will take care of this." value="Prince Altren yells: Don't worry father, I will take care of this." local="艾特仁王子喊道：不要担心，父王。我会搞定的。"/>
+    <str id="Master Gifin-Gif yells: Find the intruder and bring %s head to the Queen!" value="Master Gifin-Gif yells: Find the intruder and bring %s head to the Queen!" local="吉夫大师喊道：把入侵者找出来，拿下 %s 的人头交给女王！"/>
+    <str id="Master Gifin-Gif yells: Find the intruder and bring %s head to the King!" value="Master Gifin-Gif yells: Find the intruder and bring %s head to the King!" local="吉夫大师喊道：把入侵者找出来，拿下 %s 的人头交给王上！"/>
+    <str id="Prince Altren yells: What?!? This can't be! Noooo..." value="Prince Altren yells: What?!? This can't be! Noooo..." local="艾特仁王子喊道：什么?!? 这不可能?!? 不……"/>
+    <str id="Prince Altren yells: Hahaha! You have finally set me free!" value="Prince Altren yells: Hahaha! You have finally set me free!" local="艾特仁王子喊道：哈哈！你终于解放了我！"/>
+    <str id="Leo Noerde yells: My work did not reach the quality it should have!" value="Leo Noerde yells: My work did not reach the quality it should have!" local="鲁班喊道：我的作品没有达到应有的质量！"/>
+    <str id="%s yells: I'm only level 17 and I can prove it!" value="%s yells: I'm only level 17 and I can prove it!" local="%s 喊道：我只有 17 级，我可以证明这点！"/>
+    <str id="The remains of the third leg wiggle all over and inside you." value="The remains of the third leg wiggle all over and inside you." local="第三条腿的残骸在你的身体内外扭动。"/>
   </Encounters>
   <Travelers>
-    <str id="a cave bear" value="a cave bear"/>
+    <str id="a cave bear" value="a cave bear" local="一只洞熊"/>
     <str id="a drake" value="a drake"/>
     <str id="a floater" value="a floater"/>
     <str id="a glutopod" value="a glutopod"/>
-    <str id="an infernal" value="an infernal"/>
+    <str id="an infernal" value="an infernal" local="一只恶魔"/>
     <str id="a mamalob" value="a mamalob"/>
     <str id="a wraith" value="a wraith"/>
     <str id="a banshee" value="a banshee"/>
     <str id="an elemental" value="an elemental"/>
     <str id="a troll" value="a troll"/>
     <str id="a demonrat" value="a demonrat"/>
-    <str id="the cave bear" value="the cave bear"/>
+    <str id="the cave bear" value="the cave bear" local="这只洞熊"/>
     <str id="the drake" value="the drake"/>
     <str id="the floater" value="the floater"/>
     <str id="the glutopod" value="the glutopod"/>
@@ -2281,11 +2281,11 @@
     <str id="Fine Target" value="Fine Target" local="精美圆盾"/>
     <str id="Fine Shield" value="Fine Shield" local="精美大盾"/>
     <str id="Fine Barrier" value="Fine Barrier" local="精美巨盾"/>
-    <str id="Dawid's Shield" value="Dawid's Shield" local="Dawid 之盾"/>
+    <str id="Dawid's Shield" value="Dawid's Shield" local="达维德之盾"/>
   </ShieldNames>
   <ShieldDescs>
     <str id="ShieldDesc" value="It is very difficult to cast Draconic and Infernal spells while wielding a shield." local="在装备了盾牌后，施放龙系和地狱&#10;系法术将变得困难。"/>
-    <str id="Dawid's Shield" value="This used to belong to Dawid the Paladin before he joined his battle brothers in the afterlife." local="这曾是圣骑士 Dawid 生前用过的盾牌。"/>
+    <str id="Dawid's Shield" value="This used to belong to Dawid the Paladin before he joined his battle brothers in the afterlife." local="这曾是圣骑士达维德生前用过的盾&#10;牌。"/>
   </ShieldDescs>
   <TomeNames>
     <str id="Tome" value="Tome" local="典籍"/>
@@ -2391,7 +2391,7 @@
     <str id="Flexweave" value="This thread was first seen in the mines of Khevlar."/>
     <str id="Hardwood" value="This wood really puts the angio in a spermous tree."/>
     <str id="Scrap" value="One man's reusable scrap is another man's treasure."/>
-    <str id="Schematic" value="This is one of Leo Noerde's schematics and he probably wants it back."/>
+    <str id="Schematic" value="This is one of Leo Noerde's schematics and he probably wants it back." local="这是一张鲁班的图纸，他可能想要回去。"/>
     <str id="Crown" value="Fits perfectly on the head of a King that wants to rule his people with an iron fist."/>
     <str id="Dog Collar" value="This collar can be used to safely store Woof while you do whatever it is that you do when you're alone."/>
     <str id="Soul Gem" value="These gems are said to contain the souls of innocent victims but in reality there is no such thing as innocent..."/>
@@ -2564,11 +2564,11 @@
     <str id="Fine Throwing Star" value="Fine Throwing Star" local="精美手里剑"/>
     <str id="Gifin's Claw" value="Gifin's Claw" local="Gifin 之爪"/>
     <str id="Gareth's Axe" value="Gareth's Axe" local="Gareth 之斧"/>
-    <str id="Dawid's Hammer" value="Dawid's Hammer" local="Dawid 之锤"/>
+    <str id="Dawid's Hammer" value="Dawid's Hammer" local="达维德之锤"/>
     <str id="Royal Mace" value="Royal Mace" local="皇家锤矛"/>
-    <str id="Satyr's Sting" value="Satyr's Sting" local="Satyr 之刺"/>
-    <str id="Logar's Blade" value="Logar's Blade" local="Logar 之刃"/>
-    <str id="Altren's Kiss" value="Altren's Kiss" local="Altren 之吻"/>
+    <str id="Satyr's Sting" value="Satyr's Sting" local="赛特之刺"/>
+    <str id="Logar's Blade" value="Logar's Blade" local="洛迦之刃"/>
+    <str id="Altren's Kiss" value="Altren's Kiss" local="艾特仁之吻"/>
     <str id="Staff of the Trickster" value="Staff of the Trickster" local="魔术师之杖"/>
     <str id="Staff of the Archmage" value="Staff of the Archmage" local="大法师之杖"/>
     <str id="Staff of the Ice Queen" value="Staff of the Ice Queen" local="冰霜女王之杖"/>
@@ -2635,16 +2635,16 @@
     <str id="Abyssal Staff" value="Description..."/>
     <str id="Fine Throwing Knife" value="This knife is perfectly balanced to stop those weaklings who try to run away."/>
     <str id="Fine Throwing Star" value="This weapon is great for those villains who don't mind robbing their victims."/>
-    <str id="Gifin's Claw" value="This used to belong to Master Gifin-Gif before you snatched it from his dead body."/>
-    <str id="Gareth's Axe" value="This used to belong to Beartamer Gareth before you looted it from his corpse."/>
-    <str id="Dawid's Hammer" value="This used to belong to Dawid the Paladin before he joined his battle brothers in the afterlife."/>
+    <str id="Gifin's Claw" value="This used to belong to Master Gifin-Gif before you snatched it from his dead body." local="这曾经属于吉夫大师，你从他的尸体上夺了过来。"/>
+    <str id="Gareth's Axe" value="This used to belong to Beartamer Gareth before you looted it from his corpse." local="这曾经属于驯熊师加雷思，你从他的尸体上捡到的。"/>
+    <str id="Dawid's Hammer" value="This used to belong to Dawid the Paladin before he joined his battle brothers in the afterlife." local="这曾经属于圣骑士达维德，他已经随他的兄弟们战死沙场。"/>
     <str id="Royal Mace" value="This is one of those toys that you get to have as a King. Enjoy while it's yours."/>
-    <str id="Satyr's Sting" value="This used to belong to Ranger Satyr'Dae before you picked it up from his remains."/>
-    <str id="Logar's Blade" value="This used to belong to Swordmaster Logar before you took it from his cold dead hands."/>
-    <str id="Altren's Kiss" value="This used to belong to Prince Altren and there's a carving on the stock that says XLVII, whatever that means."/>
-    <str id="Staff of the Trickster" value="This used to belong to Ryan the Trickster and it teaches its wielder how to cast the Virulent Orb spell."/>
-    <str id="Staff of the Archmage" value="This used to belong to Archmage Gyffendal and it teaches its wielder how to cast the Flaming Orb spell."/>
-    <str id="Staff of the Ice Queen" value="This used to belong to Ice Queen Altara and it teaches its wielder how to cast the Frozen Orb spell."/>
+    <str id="Satyr's Sting" value="This used to belong to Ranger Satyr'Dae before you picked it up from his remains." local="这曾经属于独行侠赛特，你从他的遗物中获得。"/>
+    <str id="Logar's Blade" value="This used to belong to Swordmaster Logar before you took it from his cold dead hands." local="这曾经属于剑圣洛迦，他的手已不再有体温。"/>
+    <str id="Altren's Kiss" value="This used to belong to Prince Altren and there's a carving on the stock that says XLVII, whatever that means." local="这曾经属于艾特仁王子，上面刻有 XLVII ，已经不知道其含义。"/>
+    <str id="Staff of the Trickster" value="This used to belong to Ryan the Trickster and it teaches its wielder how to cast the Virulent Orb spell." local="这曾经属于魔术师赖安，持有它的人可以释放病球术。"/>
+    <str id="Staff of the Archmage" value="This used to belong to Archmage Gyffendal and it teaches its wielder how to cast the Flaming Orb spell." local="这曾经属于大法师高焚岱，持有它的人可以释放火球术。"/>
+    <str id="Staff of the Ice Queen" value="This used to belong to Ice Queen Altara and it teaches its wielder how to cast the Frozen Orb spell." local="这曾经属于冰霜女王艾特娜，持有它的人可以释放冰球术。"/>
     <str id="Death Star" value="These throwing stars are one of the deadliest tools used by the Blackhand assassins."/>
   </WeaponDescs>
   <LegendaryNames>
@@ -2729,16 +2729,16 @@
     <str id="Knight" value="Knight" local="骑士"/>
     <str id="Archmage" value="Archmage" local="大法师"/>
     <str id="Blackhand" value="Blackhand" local="黑手"/>
-    <str id="Prince Altren" value="Prince Altren"/>
-    <str id="Master Gifin-Gif" value="Master Gifin-Gif"/>
-    <str id="Beartamer Gareth" value="Beartamer Gareth"/>
-    <str id="Ice Queen Altara" value="Ice Queen Altara"/>
-    <str id="Archmage Gyffendal" value="Archmage Gyffendal"/>
-    <str id="Ryan the Trickster" value="Ryan the Trickster"/>
-    <str id="Swordmaster Logar" value="Swordmaster Logar"/>
-    <str id="Ranger Satyr'Dae" value="Ranger Satyr'Dae"/>
-    <str id="Dawid the Paladin" value="Dawid the Paladin"/>
-    <str id="Leo Noerde" value="Leo Noerde"/>
+    <str id="Prince Altren" value="Prince Altren" local="艾特仁王子"/>
+    <str id="Master Gifin-Gif" value="Master Gifin-Gif" local="吉夫大师"/>
+    <str id="Beartamer Gareth" value="Beartamer Gareth" local="驯熊师加雷思"/>
+    <str id="Ice Queen Altara" value="Ice Queen Altara" local="冰霜女王艾特娜"/>
+    <str id="Archmage Gyffendal" value="Archmage Gyffendal" local="大法师高焚岱"/>
+    <str id="Ryan the Trickster" value="Ryan the Trickster" local="魔术师赖安"/>
+    <str id="Swordmaster Logar" value="Swordmaster Logar" local="剑圣洛迦"/>
+    <str id="Ranger Satyr'Dae" value="Ranger Satyr'Dae" local="独行侠赛特"/>
+    <str id="Dawid the Paladin" value="Dawid the Paladin" local="圣骑士达维德"/>
+    <str id="Leo Noerde" value="Leo Noerde" local="鲁班"/>
     <str id="Ken'nih" value="Ken'nih"/>
     <str id="Chronomancer" value="Chronomancer" local="时空术士"/>
     <str id="Verman" value="Verman"/>
@@ -2749,7 +2749,7 @@
     <str id="King" value="King"/>
     <str id="Queen" value="Queen"/>
     <str id="Monster" value="Monster"/>
-    <str id="Cave bear" value="Cave bear"/>
+    <str id="Cave bear" value="Cave bear" local="洞熊"/>
     <str id="Drake" value="Drake"/>
     <str id="Infernal" value="Infernal"/>
     <str id="Mamalob" value="Mamalob"/>
@@ -2757,7 +2757,7 @@
     <str id="Banshee" value="Banshee"/>
     <str id="Glutopod" value="Glutopod"/>
     <str id="Dark Prince" value="Dark Prince"/>
-    <str id="Papalob" value="Papalob"/>
+    <str id="Papalob" value="Papalob" local="趴趴洛"/>
     <str id="Lasher" value="Lasher"/>
     <str id="Slicer" value="Slicer"/>
     <str id="Earth elemental" value="Earth elemental"/>
@@ -3536,8 +3536,8 @@
     <str id="Epic Breed" value="Grants Woof +1 agility and +1 stamina at the start of the game and Strong Will at level 6.">
       <str id="paragraph 1" value="This heritage can be unlocked by having Woof kill a monster."/>
     </str>
-    <str id="Craftalicious" value="Allows the player to craft items in the Artisans' Guild (and enables crafting items in the loot tables).">
-      <str id="paragraph 1" value="This heritage can be unlocked by rescuing Artificer Leo Noerde and bringing him back to town."/>
+    <str id="Craftalicious" value="Allows the player to craft items in the Artisans' Guild (and enables crafting items in the loot tables)." local="允许玩家在工匠行会内制造物&#10;品（并在拾取表中开启制造物&#10;）。">
+      <str id="paragraph 1" value="This heritage can be unlocked by rescuing Artificer Leo Noerde and bringing him back to town." local="这个遗产可以通过解救鲁班大&#10;师并带他回城来解锁。"/>
     </str>
     <str id="Artisans' Guild now crafts blessed versions of the following items:%s" value="Artisans' Guild now crafts blessed versions of the following items:%s">
       <str id="paragraph 1" value="This heritage can be unlocked by crafting all of the items marked with an asterisk in a single game."/>
