@@ -96,38 +96,38 @@ Buttons."Journey onward" 继续征程
 Buttons."Start a new game" 开启新游戏
 Buttons."Okay" 确定
 Buttons."Close" 关闭
-Keybinds."Loot" This key shows the items on the ground while it is pressed.
-Keybinds."Pri. Use" This key is used with the movement keys to carry out actions such as pick lock, disarm trap and open door.
-Keybinds."Sec. Use" This key is used with a hotkey to self cast spells, equip weapons in the offhand and to equip a ring on the offhand finger.
-Keybinds."Enter" This key is used to accept interface choices and to climb stairs up and down.
-Keybinds."Hotkey" Hotkeys can be used to quickly cast spells and use talents.
-Keybinds."Hotkey".1 You can bind a hotkey by pressing it while having the desired spell or talent selected in the spellbook window.
-Keybinds."Chat" This key shows the text field that can be used to send instant messages to other players (online only).
-Keybinds."Jump" This key can be used to jump in one of the four main directions (north, south, east, west).
-Keybinds."Swap" This key quickly swaps between the primary weapon set and the secondary weapon set.
-Keybinds."Equip" This key brings up the inventory window with an option to equip and unequip items.
-Keybinds."Sort" This key sorts the inventory.
-Keybinds."Travel" This key is used to quickly travel back to town after the current level has been cleared.
-Keybinds."Attack" This key brings up the attack cursor that can be used to attack enemies with ranged weapons.
-Keybinds."Search" This key is used to search the surroundings for traps and hidden features.
-Keybinds."Drop" This key shows the inventory window with an option to drop items.
-Keybinds."Throw" This key shows the inventory window with an option to throw items.
-Keybinds."Focus" This key brings up the focus cursor that can be used to order allies to focus on the chosen target.
-Keybinds."Cast" This key shows the spellbook that can be used to use talents and cast known spells.
-Keybinds."Look" This key brings up the look cursor that can be used to take a closer look at a target within range.
-Keybinds."Move N" This key moves the player or cursor up.
-Keybinds."Move S" This key moves the player or cursor down.
-Keybinds."Move E" This key moves the player or cursor right.
-Keybinds."Move W" This key moves the player or cursor left.
-Keybinds."Move NE" This key moves the player or cursor up and right.
-Keybinds."Move SE" This key moves the player or cursor down and right.
-Keybinds."Move NW" This key moves the player or cursor up and left.
-Keybinds."Move SW" This key moves the player or cursor down and left.
-Keybinds."Rest" This key is used to rest for one turn.
-Keybinds."Rest".1 Note that Keypad 5 requires that Num Lock is on and the 5 is a dead key otherwise (game engine feature).
-Tooltips."Hover mouse over the checkboxes to find out how to unlock them." Hover mouse over the checkboxes to find out how to unlock them.
-Tooltips."Sets the account name when the program is launched." Sets the account name when the program is launched.
-Tooltips."Enables the use of a Playstation 4 gamepad." Enables the use of a Playstation 4 gamepad.
+Keybinds."Loot" @(44)这个按键按下时显示地上的物品。
+Keybinds."Pri. Use" @(44)这个键和移动键一起按可进行开锁、解除陷阱、开门等动作。
+Keybinds."Sec. Use" @(44)这个键和热键一起按可对自己施法，在副手上装备武器，以及在副手手指上装备戒指。
+Keybinds."Enter" @(44)这个键用来在界面上确认，上下楼梯。
+Keybinds."Hotkey" @(44)热键用来快速施法、使用天赋。
+Keybinds."Hotkey".1 @(44)你可以在法术书窗口里选中喜欢的法术或天赋，同时按下热键进行绑定。
+Keybinds."Chat" @(44)这个键用来弹出一个文本输入框，用来向其他玩家发送即时消息（仅用于在线模式）。
+Keybinds."Jump" @(44)这个键用来向四个主方向（东南西北）跳跃。
+Keybinds."Swap" @(44)这个键用来在主武器组和备选武器组之间快速切换。
+Keybinds."Equip" @(44)这个键用来弹出物品界面，并进行装备和接触装备。
+Keybinds."Sort" @(44)这个键会整理背包内的物品。
+Keybinds."Travel" @(44)这个键用来在当前楼层探查完毕后快速返城。
+Keybinds."Attack" @(44)这个键带出攻击光标，用远程武器攻击敌人。
+Keybinds."Search" @(44)这个键用来搜索周围的陷阱及隐藏物。
+Keybinds."Drop" @(44)这个键弹出物品界面，并开始丢弃物品。
+Keybinds."Throw" @(44)这个键弹出物品界面，并开始投掷物品。
+Keybinds."Focus" @(44)这个键带出聚焦光标，用来指挥盟友聚焦到选择的目标上。
+Keybinds."Cast" @(44)这个键弹出法术书界面，使用其中的天赋或法术。
+Keybinds."Look" @(44)这个键弹出观察光标，用来观察范围内的物体。
+Keybinds."Move N" @(44)这个键将玩家或光标向上移动。
+Keybinds."Move S" @(44)这个键将玩家或光标向下移动。
+Keybinds."Move E" @(44)这个键将玩家或光标向右移动。
+Keybinds."Move W" @(44)这个键将玩家或光标向左移动。
+Keybinds."Move NE" @(44)这个键将玩家或光标向右上移动。
+Keybinds."Move SE" @(44)这个键将玩家或光标向右下移动。
+Keybinds."Move NW" @(44)这个键将玩家或光标向左上移动。
+Keybinds."Move SW" @(44)这个键将玩家或光标向左下移动。
+Keybinds."Rest" @(44)这个键用来休息一个回合。
+Keybinds."Rest".1 @(44)注意：小键盘 5 必须在小键盘灯亮起时才有效，否则无效（游戏引擎限制）。
+Tooltips."Hover mouse over the checkboxes to find out how to unlock them." 把鼠标停留在勾选框上看看如何解锁它们。
+Tooltips."Sets the account name when the program is launched." 在程序启动后设置一个账号名称。
+Tooltips."Enables the use of a Playstation 4 gamepad." 开启 Playstation 4 手柄支持。
 GUITown."Trade items" 物品交易
 GUITown."Craft items" 物品制造
 GUITown."Repair items" 物品修理
