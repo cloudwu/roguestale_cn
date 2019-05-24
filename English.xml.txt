@@ -216,7 +216,7 @@ Quests."Heh, sure, I got this!" 嘿，当然，我了解了！
 Quests."Accept the quest" 接受任务
 Quests."I was born to do this!" 我生来就是干这个的！
 Quests."Challenge %s" 挑战 %s
-Quests."Monster Hunt" 狩猎怪兽
+Quests."Monster Hunt" 狩猎巨怪
 Quests."Bandits' Hideout" 土匪的巢穴
 Quests."Ancient Sewer" 古代下水道
 Quests."Cultists' Lair" 邪教徒的巢穴
@@ -294,27 +294,27 @@ Encounters."Leo Noerde yells: My work did not reach the quality it should have!"
 Encounters."%s yells: I'm only level 17 and I can prove it!" %s 喊道：我只有 17 级，我可以证明这点！
 Encounters."The remains of the third leg wiggle all over and inside you." 第三条腿的残骸在你的身体内外扭动。
 Travelers."a cave bear" 一只洞熊
-Travelers."a drake" a drake
-Travelers."a floater" a floater
-Travelers."a glutopod" a glutopod
-Travelers."an infernal" 一只恶魔
-Travelers."a mamalob" a mamalob
-Travelers."a wraith" a wraith
-Travelers."a banshee" a banshee
-Travelers."an elemental" an elemental
-Travelers."a troll" a troll
-Travelers."a demonrat" a demonrat
+Travelers."a drake" 一只幼龙
+Travelers."a floater" 一只浮游类
+Travelers."a glutopod" 一只 glutopod
+Travelers."an infernal" 一个恶魔
+Travelers."a mamalob" 一只 mamalob
+Travelers."a wraith" 一个幽灵
+Travelers."a banshee" 一只女妖
+Travelers."an elemental" 一个元素怪
+Travelers."a troll" 一个巨魔
+Travelers."a demonrat" 一只魔鼠
 Travelers."the cave bear" 这只洞熊
-Travelers."the drake" the drake
-Travelers."the floater" the floater
-Travelers."the glutopod" the glutopod
-Travelers."the infernal" the infernal
-Travelers."the mamalob" the mamalob
-Travelers."the wraith" the wraith
-Travelers."the banshee" the banshee
-Travelers."the elemental" the elemental
-Travelers."the troll" the troll
-Travelers."the demonrat" the demonrat
+Travelers."the drake" 这只幼龙
+Travelers."the floater" 这只浮游类
+Travelers."the glutopod" 这只 glutopod
+Travelers."the infernal" 这个恶魔
+Travelers."the mamalob" 这个 mamalob
+Travelers."the wraith" 这个幽灵
+Travelers."the banshee" 这个女妖
+Travelers."the elemental" 这个元素怪
+Travelers."the troll" 这个巨魔
+Travelers."the demonrat" 这只魔鼠
 LootTips."Blessed" 神圣的
 LootTips."Cursed" 被诅咒的
 LootTips."Worn" 磨损的
@@ -445,30 +445,30 @@ LookLogs."You see a wall." 你看见了一堵墙。
 LookLogs."You see an obstacle." 你看见了一个障碍物。
 LookLogs."You see darkness." 所望之处一片黑暗。
 LookLogs."STR: %s - AGI: %s - STA: %s - CHA: %s - PhR: %s - Level: %s" 力量：%s - 敏捷：%s - 耐力：%s - 魅力：%s - 物防：%s - 等级：%s
-FocusLogs."You order your friends to spread out." You order your friends to spread out.
-FocusLogs."You order your friends to follow you." You order your friends to follow you.
-FocusLogs."You order your friends to attack %s." You order your friends to attack %s.
-FocusLogs."You order your friends to move to a new location." You order your friends to move to a new location.
-FocusLogs."You order your friends to stay put." You order your friends to stay put.
-FocusLogs."You can't order friends there." You can't order friends there.
-FocusLogs."You can't order friends where you can't see." You can't order friends where you can't see.
-JumpLogs."You jump over %s and land on %s." You jump over %s and land on %s.
-JumpLogs."%s jumps over %s and lands on %s." %s jumps over %s and lands on %s.
-JumpLogs."You jump over %s but you land face first on the floor." You jump over %s but you land face first on the floor.
-JumpLogs."%s jumps over %s but lands face first on the floor." %s jumps over %s but lands face first on the floor.
-JumpLogs."You try to jump over %s but you land right on top of it." You try to jump over %s but you land right on top of it.
-JumpLogs."%s tries to jump over %s but lands right on top of it." %s tries to jump over %s but lands right on top of it.
-AttackLogs."Your killing blow mortally hits %s" Your killing blow mortally hits %s
-AttackLogs."You critically hit %s with %s" You critically hit %s with %s
-AttackLogs."You hit %s with %s" You hit %s with %s
-AttackLogs."%s's killing blow mortally hits you" %s's killing blow mortally hits you
-AttackLogs."%s critically hits %s with %s" %s critically hits %s with %s
-AttackLogs."%s hits %s with %s" %s hits %s with %s
-AttackLogs.", but all damage is resisted." , but all damage is resisted.
-AttackLogs.", but all damage is reflected back!" , but all damage is reflected back!
-AttackLogs.", but half of the damage is reflected back!" , but half of the damage is reflected back!
-AttackLogs."You miss %s with %s." You miss %s with %s.
-AttackLogs."%s misses you with %s." %s misses you with %s.
+FocusLogs."You order your friends to spread out." 你命令你的伙伴出击。
+FocusLogs."You order your friends to follow you." 你命令你的伙伴跟着你。
+FocusLogs."You order your friends to attack %s." 你命令你的伙伴攻击 %s 。
+FocusLogs."You order your friends to move to a new location." 你命令你的伙伴移动到一个新的位置。
+FocusLogs."You order your friends to stay put." 你命令你的伙伴原地待机。
+FocusLogs."You can't order friends there." 你无法命令伙伴去那里。
+FocusLogs."You can't order friends where you can't see." 你无法命令伙伴去你看不见的地方。
+JumpLogs."You jump over %s and land on %s." 你跃越过了 %s 落在 %s 。
+JumpLogs."%s jumps over %s and lands on %s." %s 跃越过了 %s 落在 %s 。
+JumpLogs."You jump over %s but you land face first on the floor." 你跃过 %s 但在落地时脸先着地。
+JumpLogs."%s jumps over %s but lands face first on the floor." %s 跃过 %s 但在落地时脸先着地。
+JumpLogs."You try to jump over %s but you land right on top of it." 你试着跃过 %s 但却落在了上面。
+JumpLogs."%s tries to jump over %s but lands right on top of it." %s 试着跃过 %s 但却落在了上面。
+AttackLogs."Your killing blow mortally hits %s" 你的致命一击准确命中 %s
+AttackLogs."You critically hit %s with %s" %s 被你用 %s 暴击了
+AttackLogs."You hit %s with %s" %s 被你用 %s 击中
+AttackLogs."%s's killing blow mortally hits you" %s 的致命一击正中了你
+AttackLogs."%s critically hits %s with %s" %s 发起了攻击，%s 被他的 %s 暴击了
+AttackLogs."%s hits %s with %s" %s 发起了攻击，%s 被他的 %s 击中
+AttackLogs.", but all damage is resisted." ，可是所有的伤害都被抵抗。
+AttackLogs.", but all damage is reflected back!" ，可是所有的伤害都被反弹！
+AttackLogs.", but half of the damage is reflected back!" ，可是有一般的伤害被反弹！
+AttackLogs."You miss %s with %s." 你没能击中 %s ，你的 %s 落空了。
+AttackLogs."%s misses you with %s." %s 没能击中你，他的 %s 落空了。
 AttackLogs."Your attack is blocked by %s." Your attack is blocked by %s.
 AttackLogs."Your %s is blocked by %s." Your %s is blocked by %s.
 AttackLogs."You block %s's attack." You block %s's attack.
@@ -2485,7 +2485,7 @@ CreatureNames."Snail swarm" 蜗牛群
 CreatureNames."Boss" 首领
 CreatureNames."Gurmur" 咕呣
 CreatureNames."Dreadlord Nabon" 黑暗之主腊崩
-CreatureNames."Triggered Demonrat" 触发的恶魔鼠
+CreatureNames."Triggered Demonrat" 触发的魔鼠
 CreatureNames."Daemon" 恶魔
 CreatureNames."Impaler" 吸血鬼
 CreatureNames."Devourer" 吞噬者
@@ -2535,14 +2535,14 @@ CreatureNames."Butcher" Butcher
 CreatureNames."Darkseer" Darkseer
 CreatureNames."Illusion" Illusion
 CreatureNames."Evil Genie" Evil Genie
-CreatureNames."King" King
-CreatureNames."Queen" Queen
-CreatureNames."Monster" Monster
+CreatureNames."King" 国王
+CreatureNames."Queen" 女王
+CreatureNames."Monster" 巨怪
 CreatureNames."Cave bear" 洞熊
-CreatureNames."Drake" Drake
-CreatureNames."Infernal" Infernal
+CreatureNames."Drake" 幼龙
+CreatureNames."Infernal" 恶魔
 CreatureNames."Mamalob" Mamalob
-CreatureNames."Wraith" Wraith
+CreatureNames."Wraith" 幽灵
 CreatureNames."Banshee" Banshee
 CreatureNames."Glutopod" Glutopod
 CreatureNames."Dark Prince" Dark Prince
@@ -2559,7 +2559,7 @@ CreatureNames."Floater" Floater
 CreatureNames."Floaty" Floaty
 CreatureNames."Troll" Troll
 CreatureNames."Treeman" Treeman
-CreatureNames."Demonrat" Demonrat
+CreatureNames."Demonrat" 魔鼠
 CreatureNames."Orc" Orc
 CreatureNames."Orc grunt" Orc grunt
 CreatureNames."Orc archer" Orc archer
@@ -3117,7 +3117,7 @@ HeritageNames."Blood Frenzy" 狂暴之血
 HeritageNames."Lupine Grace" 优雅之狼
 HeritageNames."Vampiric Bite" 吸血之咬
 HeritageNames."Face Muncher" 正面咀嚼
-HeritageNames."Monster Chow" 怪物大餐
+HeritageNames."Monster Chow" 巨怪大餐
 HeritageNames."Second Amendment" 第二修正案
 HeritageNames."Rise of Fairies" 精灵飞升
 HeritageNames."Wester Worshipper" 西风崇拜者

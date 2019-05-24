@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="7571299bf9b0efade1727697f7f34ae701e7f2c3">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="2ed75e3b4736c0d61872bdac73af3196ef218210">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -248,7 +248,7 @@
     <str id="Accept the quest" value="Accept the quest" local="接受任务"/>
     <str id="I was born to do this!" value="I was born to do this!" local="我生来就是干这个的！"/>
     <str id="Challenge %s" value="Challenge %s" local="挑战 %s"/>
-    <str id="Monster Hunt" value="Monster Hunt" local="狩猎怪兽"/>
+    <str id="Monster Hunt" value="Monster Hunt" local="狩猎巨怪"/>
     <str id="Bandits' Hideout" value="Bandits' Hideout" local="土匪的巢穴"/>
     <str id="Ancient Sewer" value="Ancient Sewer" local="古代下水道"/>
     <str id="Cultists' Lair" value="Cultists' Lair" local="邪教徒的巢穴"/>
@@ -336,27 +336,27 @@
   </Encounters>
   <Travelers>
     <str id="a cave bear" value="a cave bear" local="一只洞熊"/>
-    <str id="a drake" value="a drake"/>
-    <str id="a floater" value="a floater"/>
-    <str id="a glutopod" value="a glutopod"/>
-    <str id="an infernal" value="an infernal" local="一只恶魔"/>
-    <str id="a mamalob" value="a mamalob"/>
-    <str id="a wraith" value="a wraith"/>
-    <str id="a banshee" value="a banshee"/>
-    <str id="an elemental" value="an elemental"/>
-    <str id="a troll" value="a troll"/>
-    <str id="a demonrat" value="a demonrat"/>
+    <str id="a drake" value="a drake" local="一只幼龙"/>
+    <str id="a floater" value="a floater" local="一只浮游类"/>
+    <str id="a glutopod" value="a glutopod" local="一只 glutopod"/>
+    <str id="an infernal" value="an infernal" local="一个恶魔"/>
+    <str id="a mamalob" value="a mamalob" local="一只 mamalob"/>
+    <str id="a wraith" value="a wraith" local="一个幽灵"/>
+    <str id="a banshee" value="a banshee" local="一只女妖"/>
+    <str id="an elemental" value="an elemental" local="一个元素怪"/>
+    <str id="a troll" value="a troll" local="一个巨魔"/>
+    <str id="a demonrat" value="a demonrat" local="一只魔鼠"/>
     <str id="the cave bear" value="the cave bear" local="这只洞熊"/>
-    <str id="the drake" value="the drake"/>
-    <str id="the floater" value="the floater"/>
-    <str id="the glutopod" value="the glutopod"/>
-    <str id="the infernal" value="the infernal"/>
-    <str id="the mamalob" value="the mamalob"/>
-    <str id="the wraith" value="the wraith"/>
-    <str id="the banshee" value="the banshee"/>
-    <str id="the elemental" value="the elemental"/>
-    <str id="the troll" value="the troll"/>
-    <str id="the demonrat" value="the demonrat"/>
+    <str id="the drake" value="the drake" local="这只幼龙"/>
+    <str id="the floater" value="the floater" local="这只浮游类"/>
+    <str id="the glutopod" value="the glutopod" local="这只 glutopod"/>
+    <str id="the infernal" value="the infernal" local="这个恶魔"/>
+    <str id="the mamalob" value="the mamalob" local="这个 mamalob"/>
+    <str id="the wraith" value="the wraith" local="这个幽灵"/>
+    <str id="the banshee" value="the banshee" local="这个女妖"/>
+    <str id="the elemental" value="the elemental" local="这个元素怪"/>
+    <str id="the troll" value="the troll" local="这个巨魔"/>
+    <str id="the demonrat" value="the demonrat" local="这只魔鼠"/>
   </Travelers>
   <LootTips>
     <str id="Blessed" value="Blessed" local="神圣的"/>
@@ -493,34 +493,34 @@
     <str id="STR: %s - AGI: %s - STA: %s - CHA: %s - PhR: %s - Level: %s" value="STR: %s - AGI: %s - STA: %s - CHA: %s - PhR: %s - Level: %s" local="力量：%s - 敏捷：%s - 耐力：%s - 魅力：%s - 物防：%s - 等级：%s"/>
   </LookLogs>
   <FocusLogs>
-    <str id="You order your friends to spread out." value="You order your friends to spread out."/>
-    <str id="You order your friends to follow you." value="You order your friends to follow you."/>
-    <str id="You order your friends to attack %s." value="You order your friends to attack %s."/>
-    <str id="You order your friends to move to a new location." value="You order your friends to move to a new location."/>
-    <str id="You order your friends to stay put." value="You order your friends to stay put."/>
-    <str id="You can't order friends there." value="You can't order friends there."/>
-    <str id="You can't order friends where you can't see." value="You can't order friends where you can't see."/>
+    <str id="You order your friends to spread out." value="You order your friends to spread out." local="你命令你的伙伴出击。"/>
+    <str id="You order your friends to follow you." value="You order your friends to follow you." local="你命令你的伙伴跟着你。"/>
+    <str id="You order your friends to attack %s." value="You order your friends to attack %s." local="你命令你的伙伴攻击 %s 。"/>
+    <str id="You order your friends to move to a new location." value="You order your friends to move to a new location." local="你命令你的伙伴移动到一个新的位置。"/>
+    <str id="You order your friends to stay put." value="You order your friends to stay put." local="你命令你的伙伴原地待机。"/>
+    <str id="You can't order friends there." value="You can't order friends there." local="你无法命令伙伴去那里。"/>
+    <str id="You can't order friends where you can't see." value="You can't order friends where you can't see." local="你无法命令伙伴去你看不见的地方。"/>
   </FocusLogs>
   <JumpLogs>
-    <str id="You jump over %s and land on %s." value="You jump over %s and land on %s."/>
-    <str id="%s jumps over %s and lands on %s." value="%s jumps over %s and lands on %s."/>
-    <str id="You jump over %s but you land face first on the floor." value="You jump over %s but you land face first on the floor."/>
-    <str id="%s jumps over %s but lands face first on the floor." value="%s jumps over %s but lands face first on the floor."/>
-    <str id="You try to jump over %s but you land right on top of it." value="You try to jump over %s but you land right on top of it."/>
-    <str id="%s tries to jump over %s but lands right on top of it." value="%s tries to jump over %s but lands right on top of it."/>
+    <str id="You jump over %s and land on %s." value="You jump over %s and land on %s." local="你跃越过了 %s 落在 %s 。"/>
+    <str id="%s jumps over %s and lands on %s." value="%s jumps over %s and lands on %s." local="%s 跃越过了 %s 落在 %s 。"/>
+    <str id="You jump over %s but you land face first on the floor." value="You jump over %s but you land face first on the floor." local="你跃过 %s 但在落地时脸先着地。"/>
+    <str id="%s jumps over %s but lands face first on the floor." value="%s jumps over %s but lands face first on the floor." local="%s 跃过 %s 但在落地时脸先着地。"/>
+    <str id="You try to jump over %s but you land right on top of it." value="You try to jump over %s but you land right on top of it." local="你试着跃过 %s 但却落在了上面。"/>
+    <str id="%s tries to jump over %s but lands right on top of it." value="%s tries to jump over %s but lands right on top of it." local="%s 试着跃过 %s 但却落在了上面。"/>
   </JumpLogs>
   <AttackLogs>
-    <str id="Your killing blow mortally hits %s" value="Your killing blow mortally hits %s"/>
-    <str id="You critically hit %s with %s" value="You critically hit %s with %s"/>
-    <str id="You hit %s with %s" value="You hit %s with %s"/>
-    <str id="%s's killing blow mortally hits you" value="%s's killing blow mortally hits you"/>
-    <str id="%s critically hits %s with %s" value="%s critically hits %s with %s"/>
-    <str id="%s hits %s with %s" value="%s hits %s with %s"/>
-    <str id=", but all damage is resisted." value=", but all damage is resisted."/>
-    <str id=", but all damage is reflected back!" value=", but all damage is reflected back!"/>
-    <str id=", but half of the damage is reflected back!" value=", but half of the damage is reflected back!"/>
-    <str id="You miss %s with %s." value="You miss %s with %s."/>
-    <str id="%s misses you with %s." value="%s misses you with %s."/>
+    <str id="Your killing blow mortally hits %s" value="Your killing blow mortally hits %s" local="你的致命一击准确命中 %s"/>
+    <str id="You critically hit %s with %s" value="You critically hit %s with %s" local="%s 被你用 %s 暴击了"/>
+    <str id="You hit %s with %s" value="You hit %s with %s" local="%s 被你用 %s 击中"/>
+    <str id="%s's killing blow mortally hits you" value="%s's killing blow mortally hits you" local="%s 的致命一击正中了你"/>
+    <str id="%s critically hits %s with %s" value="%s critically hits %s with %s" local="%s 发起了攻击，%s 被他的 %s 暴击了"/>
+    <str id="%s hits %s with %s" value="%s hits %s with %s" local="%s 发起了攻击，%s 被他的 %s 击中"/>
+    <str id=", but all damage is resisted." value=", but all damage is resisted." local="，可是所有的伤害都被抵抗。"/>
+    <str id=", but all damage is reflected back!" value=", but all damage is reflected back!" local="，可是所有的伤害都被反弹！"/>
+    <str id=", but half of the damage is reflected back!" value=", but half of the damage is reflected back!" local="，可是有一般的伤害被反弹！"/>
+    <str id="You miss %s with %s." value="You miss %s with %s." local="你没能击中 %s ，你的 %s 落空了。"/>
+    <str id="%s misses you with %s." value="%s misses you with %s." local="%s 没能击中你，他的 %s 落空了。"/>
     <str id="Your attack is blocked by %s." value="Your attack is blocked by %s."/>
     <str id="Your %s is blocked by %s." value="Your %s is blocked by %s."/>
     <str id="You block %s's attack." value="You block %s's attack."/>
@@ -2696,7 +2696,7 @@
     <str id="Boss" value="Boss" local="首领"/>
     <str id="Gurmur" value="Gurmur" local="咕呣"/>
     <str id="Dreadlord Nabon" value="Dreadlord Nabon" local="黑暗之主腊崩"/>
-    <str id="Triggered Demonrat" value="Triggered Demonrat" local="触发的恶魔鼠"/>
+    <str id="Triggered Demonrat" value="Triggered Demonrat" local="触发的魔鼠"/>
     <str id="Daemon" value="Daemon" local="恶魔"/>
     <str id="Impaler" value="Impaler" local="吸血鬼"/>
     <str id="Devourer" value="Devourer" local="吞噬者"/>
@@ -2746,14 +2746,14 @@
     <str id="Darkseer" value="Darkseer"/>
     <str id="Illusion" value="Illusion"/>
     <str id="Evil Genie" value="Evil Genie"/>
-    <str id="King" value="King"/>
-    <str id="Queen" value="Queen"/>
-    <str id="Monster" value="Monster"/>
+    <str id="King" value="King" local="国王"/>
+    <str id="Queen" value="Queen" local="女王"/>
+    <str id="Monster" value="Monster" local="巨怪"/>
     <str id="Cave bear" value="Cave bear" local="洞熊"/>
-    <str id="Drake" value="Drake"/>
-    <str id="Infernal" value="Infernal"/>
+    <str id="Drake" value="Drake" local="幼龙"/>
+    <str id="Infernal" value="Infernal" local="恶魔"/>
     <str id="Mamalob" value="Mamalob"/>
-    <str id="Wraith" value="Wraith"/>
+    <str id="Wraith" value="Wraith" local="幽灵"/>
     <str id="Banshee" value="Banshee"/>
     <str id="Glutopod" value="Glutopod"/>
     <str id="Dark Prince" value="Dark Prince"/>
@@ -2770,7 +2770,7 @@
     <str id="Floaty" value="Floaty"/>
     <str id="Troll" value="Troll"/>
     <str id="Treeman" value="Treeman"/>
-    <str id="Demonrat" value="Demonrat"/>
+    <str id="Demonrat" value="Demonrat" local="魔鼠"/>
     <str id="Orc" value="Orc"/>
     <str id="Orc grunt" value="Orc grunt"/>
     <str id="Orc archer" value="Orc archer"/>
@@ -3368,7 +3368,7 @@
     <str id="Lupine Grace" value="Lupine Grace" local="优雅之狼"/>
     <str id="Vampiric Bite" value="Vampiric Bite" local="吸血之咬"/>
     <str id="Face Muncher" value="Face Muncher" local="正面咀嚼"/>
-    <str id="Monster Chow" value="Monster Chow" local="怪物大餐"/>
+    <str id="Monster Chow" value="Monster Chow" local="巨怪大餐"/>
     <str id="Second Amendment" value="Second Amendment" local="第二修正案"/>
     <str id="Rise of Fairies" value="Rise of Fairies" local="精灵飞升"/>
     <str id="Wester Worshipper" value="Wester Worshipper" local="西风崇拜者"/>

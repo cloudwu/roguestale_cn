@@ -55,8 +55,11 @@ end
 
 local function merge(xml, trans)
 	local mainkey
+	local t = 0
+	local s = 0
 	local function replace_tag(tag)
 		return function (id, value, extra)
+			t = t + 1
 			local paragraph = id:match "^paragraph (%d+)"
 			local key
 			if paragraph then
@@ -74,6 +77,7 @@ local function merge(xml, trans)
 				if chinese == escape then
 					chinese = "" .. extra
 				else
+					s = s + 1
 					chinese = string.format(' local="%s"%s', chinese, extra)
 				end
 				return string.format('<str id="%s" value="%s"%s>', id, value, chinese)
@@ -87,7 +91,9 @@ local function merge(xml, trans)
 		return string.format('<%s>%s</%s>', tag, r, endtag)
 	end
 
-	return (xml:gsub('<(%u%a*)>(.-)</(%u%a*)>', sec_replace))
+	local m = xml:gsub('<(%u%a*)>(.-)</(%u%a*)>', sec_replace)
+	print(string.format("Finish %d/%d", s,t))
+	return m
 end
 
 local function checksum(xml)
