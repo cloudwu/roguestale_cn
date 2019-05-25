@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="2ed75e3b4736c0d61872bdac73af3196ef218210">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="056f5b48c5aad748d40cd76f413ccfbb4deabb64">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -521,65 +521,65 @@
     <str id=", but half of the damage is reflected back!" value=", but half of the damage is reflected back!" local="，可是有一般的伤害被反弹！"/>
     <str id="You miss %s with %s." value="You miss %s with %s." local="你没能击中 %s ，你的 %s 落空了。"/>
     <str id="%s misses you with %s." value="%s misses you with %s." local="%s 没能击中你，他的 %s 落空了。"/>
-    <str id="Your attack is blocked by %s." value="Your attack is blocked by %s."/>
-    <str id="Your %s is blocked by %s." value="Your %s is blocked by %s."/>
-    <str id="You block %s's attack." value="You block %s's attack."/>
-    <str id="You block %s's %s." value="You block %s's %s."/>
-    <str id="Your attack is dodged by %s." value="Your attack is dodged by %s."/>
-    <str id="Your %s is dodged by %s." value="Your %s is dodged by %s."/>
-    <str id="You dodge %s's attack." value="You dodge %s's attack."/>
-    <str id="You dodge %s's %s." value="You dodge %s's %s."/>
-    <str id="Your attack is parried by %s." value="Your attack is parried by %s."/>
-    <str id="Your %s is parried by %s." value="Your %s is parried by %s."/>
-    <str id="You parry %s's attack." value="You parry %s's attack."/>
-    <str id="You parry %s's %s." value="You parry %s's %s."/>
-    <str id="You perform a counter attack and shoot a bolt at %s with your wristbow." value="You perform a counter attack and shoot a bolt at %s with your wristbow."/>
-    <str id="%s performs a counter attack and shoots a bolt at you with a wristbow." value="%s performs a counter attack and shoots a bolt at you with a wristbow."/>
-    <str id="Your shield bash critically hits %s" value="Your shield bash critically hits %s"/>
-    <str id="Your shield bash hits %s" value="Your shield bash hits %s"/>
-    <str id="%s's shield bash critically hits you" value="%s's shield bash critically hits you"/>
-    <str id="%s's shield bash hits you" value="%s's shield bash hits you"/>
-    <str id="Your shield bash misses %s." value="Your shield bash misses %s."/>
-    <str id="%s's shield bash misses you." value="%s's shield bash misses you."/>
-    <str id="You charge at %s." value="You charge at %s."/>
-    <str id="%s charges at %s." value="%s charges at %s."/>
-    <str id="You can't charge there." value="You can't charge there."/>
-    <str id="You can't charge adjacent targets." value="You can't charge adjacent targets."/>
-    <str id="%s misses its target and critically hits %s instead" value="%s misses its target and critically hits %s instead"/>
-    <str id="%s miss their target and critically hit %s instead" value="%s miss their target and critically hit %s instead"/>
-    <str id="%s misses its target and hits %s instead" value="%s misses its target and hits %s instead"/>
-    <str id="%s miss their target and hit %s instead" value="%s miss their target and hit %s instead"/>
-    <str id="%s misses its target and lands on %s." value="%s misses its target and lands on %s."/>
-    <str id="%s miss their target and land on %s." value="%s miss their target and land on %s."/>
-    <str id="%s misses its target and breaks when it hits %s." value="%s misses its target and breaks when it hits %s."/>
-    <str id="%s miss their target and break when they hit %s." value="%s miss their target and break when they hit %s."/>
-    <str id="%s critically hits %s" value="%s critically hits %s"/>
-    <str id="%s hits %s" value="%s hits %s"/>
-    <str id="%s hit %s" value="%s hit %s"/>
-    <str id="%s lands on %s." value="%s lands on %s."/>
-    <str id="%s land on %s." value="%s land on %s."/>
-    <str id="%s breaks when it hits %s." value="%s breaks when it hits %s."/>
-    <str id="%s break when they hit %s." value="%s break when they hit %s."/>
-    <str id="You throw %s in the fire and cook it." value="You throw %s in the fire and cook it."/>
-    <str id="You shoot a multi shot at %s." value="You shoot a multi shot at %s."/>
-    <str id="%s shoots a multi shot at %s." value="%s shoots a multi shot at %s."/>
-    <str id="You can't shoot multi shot there." value="You can't shoot multi shot there."/>
-    <str id="You shoot %s at %s." value="You shoot %s at %s."/>
-    <str id="%s shoots %s at %s." value="%s shoots %s at %s."/>
-    <str id="You can't shoot there." value="You can't shoot there."/>
-    <str id="You can't shoot where you can't see." value="You can't shoot where you can't see."/>
-    <str id="You throw %s at %s." value="You throw %s at %s."/>
-    <str id="%s throws %s at %s." value="%s throws %s at %s."/>
-    <str id="You can't throw %s there." value="You can't throw %s there."/>
-    <str id="You can't throw where you can't see." value="You can't throw where you can't see."/>
-    <str id="%s snaps %s and swallows it whole." value="%s snaps %s and swallows it whole."/>
-    <str id="%s snaps %s and drains its power." value="%s snaps %s and drains its power."/>
-    <str id="%s folds around %s's neck and it is equipped." value="%s folds around %s's neck and it is equipped."/>
-    <str id="Polymorphed cave bear snaps %s and swallows it whole." value="Polymorphed cave bear snaps %s and swallows it whole."/>
-    <str id="Oh my G'awd, rocks can no longer be turned into scrap!" value="Oh my G'awd, rocks can no longer be turned into scrap!"/>
-    <str id="You salvage a piece of reusable scrap from the debris." value="You salvage a piece of reusable scrap from the debris."/>
-    <str id="You pull the trigger and shoot %s at %s." value="You pull the trigger and shoot %s at %s."/>
-    <str id="You pull the trigger but nothing happens." value="You pull the trigger but nothing happens."/>
+    <str id="Your attack is blocked by %s." value="Your attack is blocked by %s." local="你的攻击被 %s 格挡了。"/>
+    <str id="Your %s is blocked by %s." value="Your %s is blocked by %s." local="你的 %s 被 %s 格挡了。"/>
+    <str id="You block %s's attack." value="You block %s's attack." local="你格挡了 %s 的攻击。"/>
+    <str id="You block %s's %s." value="You block %s's %s." local="你格挡了 %s 的 %s。"/>
+    <str id="Your attack is dodged by %s." value="Your attack is dodged by %s." local="你的攻击被 %s 闪避了。"/>
+    <str id="Your %s is dodged by %s." value="Your %s is dodged by %s." local="你的 %s 被 %s 闪避了。"/>
+    <str id="You dodge %s's attack." value="You dodge %s's attack." local="你闪避了 %s 的攻击。"/>
+    <str id="You dodge %s's %s." value="You dodge %s's %s." local="你闪避了 %s 的 %s 。"/>
+    <str id="Your attack is parried by %s." value="Your attack is parried by %s." local="你的攻击被 %s 招架了。"/>
+    <str id="Your %s is parried by %s." value="Your %s is parried by %s." local="你的 %s 被 %s 招架了。"/>
+    <str id="You parry %s's attack." value="You parry %s's attack." local="你招架了 %s 的攻击。"/>
+    <str id="You parry %s's %s." value="You parry %s's %s." local="你招架了 %s 的 %s。"/>
+    <str id="You perform a counter attack and shoot a bolt at %s with your wristbow." value="You perform a counter attack and shoot a bolt at %s with your wristbow." local="你做出了反击，向 %s 射出一发袖箭。"/>
+    <str id="%s performs a counter attack and shoots a bolt at you with a wristbow." value="%s performs a counter attack and shoots a bolt at you with a wristbow." local="%s 做出了反击，向你射出一发袖箭。"/>
+    <str id="Your shield bash critically hits %s" value="Your shield bash critically hits %s" local="你的盾击对 %s 造成了暴击。"/>
+    <str id="Your shield bash hits %s" value="Your shield bash hits %s" local="你用盾击中了 %s"/>
+    <str id="%s's shield bash critically hits you" value="%s's shield bash critically hits you" local="%s 的盾击对你造成了暴击"/>
+    <str id="%s's shield bash hits you" value="%s's shield bash hits you" local="%s 用盾击中了你"/>
+    <str id="Your shield bash misses %s." value="Your shield bash misses %s." local="你的盾击没有打中 %s。"/>
+    <str id="%s's shield bash misses you." value="%s's shield bash misses you." local="%s 的盾击没有打中你。"/>
+    <str id="You charge at %s." value="You charge at %s." local="你向 %s 发起了冲锋。"/>
+    <str id="%s charges at %s." value="%s charges at %s." local="%s 向 %s 发起了冲锋。"/>
+    <str id="You can't charge there." value="You can't charge there." local="你不能向那里冲锋。"/>
+    <str id="You can't charge adjacent targets." value="You can't charge adjacent targets." local="你不能向邻接的目标冲锋。"/>
+    <str id="%s misses its target and critically hits %s instead" value="%s misses its target and critically hits %s instead" local="%s 没有命中目标，但暴击了 %s"/>
+    <str id="%s miss their target and critically hit %s instead" value="%s miss their target and critically hit %s instead" local="%s 没有命中他的目标，但暴击了 %s"/>
+    <str id="%s misses its target and hits %s instead" value="%s misses its target and hits %s instead" local="%s 没有命中它的目标，但击中了 %s"/>
+    <str id="%s miss their target and hit %s instead" value="%s miss their target and hit %s instead" local="%s 没有命中它们的目标，但击中了 %s"/>
+    <str id="%s misses its target and lands on %s." value="%s misses its target and lands on %s." local="%s 没有命中它的目标，落在了 %s 上面。"/>
+    <str id="%s miss their target and land on %s." value="%s miss their target and land on %s." local="%s 没有命中它们的目标，落在了 %s 上面。"/>
+    <str id="%s misses its target and breaks when it hits %s." value="%s misses its target and breaks when it hits %s." local="%s 没有命中它的目标，击中 %s 后损毁了。"/>
+    <str id="%s miss their target and break when they hit %s." value="%s miss their target and break when they hit %s." local="%s 没有命中它的目标，击中 %s 后损毁了。"/>
+    <str id="%s critically hits %s" value="%s critically hits %s" local="%s 对 %s 造成了暴击。"/>
+    <str id="%s hits %s" value="%s hits %s" local="%s 击中了 %s"/>
+    <str id="%s hit %s" value="%s hit %s" local="%s 击中了 %s"/>
+    <str id="%s lands on %s." value="%s lands on %s." local="%s 落在了 %s 上面。"/>
+    <str id="%s land on %s." value="%s land on %s." local="%s 落在了 %s 上面。"/>
+    <str id="%s breaks when it hits %s." value="%s breaks when it hits %s." local="%s 击中 %s 后损毁了。"/>
+    <str id="%s break when they hit %s." value="%s break when they hit %s." local="%s 击中 %s 后损毁了。"/>
+    <str id="You throw %s in the fire and cook it." value="You throw %s in the fire and cook it." local="你把 %s 扔进火种，烹饪它。"/>
+    <str id="You shoot a multi shot at %s." value="You shoot a multi shot at %s." local="你连发射向 %s 。"/>
+    <str id="%s shoots a multi shot at %s." value="%s shoots a multi shot at %s." local="%s 连发射向 %s 。"/>
+    <str id="You can't shoot multi shot there." value="You can't shoot multi shot there." local="你不能连发向那里射击。"/>
+    <str id="You shoot %s at %s." value="You shoot %s at %s." local="你将 %s 射向 %s 。"/>
+    <str id="%s shoots %s at %s." value="%s shoots %s at %s." local="%s 将 %s 射向 %s 。"/>
+    <str id="You can't shoot there." value="You can't shoot there." local="你不能射向那里。"/>
+    <str id="You can't shoot where you can't see." value="You can't shoot where you can't see." local="你不能向你看不见的地方射击。"/>
+    <str id="You throw %s at %s." value="You throw %s at %s." local="你把 %s 向 %s 扔过去。"/>
+    <str id="%s throws %s at %s." value="%s throws %s at %s." local="%s 把 %s 向 %s 扔过去。"/>
+    <str id="You can't throw %s there." value="You can't throw %s there." local="你不能把 %s 扔去那里。"/>
+    <str id="You can't throw where you can't see." value="You can't throw where you can't see." local="你不能向你看不见的地方投掷。"/>
+    <str id="%s snaps %s and swallows it whole." value="%s snaps %s and swallows it whole." local="%s 咬住 %s 整个吞了下去。"/>
+    <str id="%s snaps %s and drains its power." value="%s snaps %s and drains its power." local="%s 咬住 %s 吸取了它的能量。"/>
+    <str id="%s folds around %s's neck and it is equipped." value="%s folds around %s's neck and it is equipped." local="%s 环绕着 %s 的脖子，装备上了。"/>
+    <str id="Polymorphed cave bear snaps %s and swallows it whole." value="Polymorphed cave bear snaps %s and swallows it whole." local="变形的洞熊咬住 %s 整个吞了下去。"/>
+    <str id="Oh my G'awd, rocks can no longer be turned into scrap!" value="Oh my G'awd, rocks can no longer be turned into scrap!" local="哦，我的天呐，岩石不再变成碎片！"/>
+    <str id="You salvage a piece of reusable scrap from the debris." value="You salvage a piece of reusable scrap from the debris." local="你从残骸中抢救出一块可以再利用的碎片。"/>
+    <str id="You pull the trigger and shoot %s at %s." value="You pull the trigger and shoot %s at %s." local="你触动了扳机，把 %s 射向 %s 。"/>
+    <str id="You pull the trigger but nothing happens." value="You pull the trigger but nothing happens." local="你触动了扳机，但什么也没有发生。"/>
   </AttackLogs>
   <CastLogs>
     <str id="You cast %s at %s." value="You cast %s at %s."/>

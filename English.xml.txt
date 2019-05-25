@@ -469,65 +469,65 @@ AttackLogs.", but all damage is reflected back!" ，可是所有的伤害都被�
 AttackLogs.", but half of the damage is reflected back!" ，可是有一般的伤害被反弹！
 AttackLogs."You miss %s with %s." 你没能击中 %s ，你的 %s 落空了。
 AttackLogs."%s misses you with %s." %s 没能击中你，他的 %s 落空了。
-AttackLogs."Your attack is blocked by %s." Your attack is blocked by %s.
-AttackLogs."Your %s is blocked by %s." Your %s is blocked by %s.
-AttackLogs."You block %s's attack." You block %s's attack.
-AttackLogs."You block %s's %s." You block %s's %s.
-AttackLogs."Your attack is dodged by %s." Your attack is dodged by %s.
-AttackLogs."Your %s is dodged by %s." Your %s is dodged by %s.
-AttackLogs."You dodge %s's attack." You dodge %s's attack.
-AttackLogs."You dodge %s's %s." You dodge %s's %s.
-AttackLogs."Your attack is parried by %s." Your attack is parried by %s.
-AttackLogs."Your %s is parried by %s." Your %s is parried by %s.
-AttackLogs."You parry %s's attack." You parry %s's attack.
-AttackLogs."You parry %s's %s." You parry %s's %s.
-AttackLogs."You perform a counter attack and shoot a bolt at %s with your wristbow." You perform a counter attack and shoot a bolt at %s with your wristbow.
-AttackLogs."%s performs a counter attack and shoots a bolt at you with a wristbow." %s performs a counter attack and shoots a bolt at you with a wristbow.
-AttackLogs."Your shield bash critically hits %s" Your shield bash critically hits %s
-AttackLogs."Your shield bash hits %s" Your shield bash hits %s
-AttackLogs."%s's shield bash critically hits you" %s's shield bash critically hits you
-AttackLogs."%s's shield bash hits you" %s's shield bash hits you
-AttackLogs."Your shield bash misses %s." Your shield bash misses %s.
-AttackLogs."%s's shield bash misses you." %s's shield bash misses you.
-AttackLogs."You charge at %s." You charge at %s.
-AttackLogs."%s charges at %s." %s charges at %s.
-AttackLogs."You can't charge there." You can't charge there.
-AttackLogs."You can't charge adjacent targets." You can't charge adjacent targets.
-AttackLogs."%s misses its target and critically hits %s instead" %s misses its target and critically hits %s instead
-AttackLogs."%s miss their target and critically hit %s instead" %s miss their target and critically hit %s instead
-AttackLogs."%s misses its target and hits %s instead" %s misses its target and hits %s instead
-AttackLogs."%s miss their target and hit %s instead" %s miss their target and hit %s instead
-AttackLogs."%s misses its target and lands on %s." %s misses its target and lands on %s.
-AttackLogs."%s miss their target and land on %s." %s miss their target and land on %s.
-AttackLogs."%s misses its target and breaks when it hits %s." %s misses its target and breaks when it hits %s.
-AttackLogs."%s miss their target and break when they hit %s." %s miss their target and break when they hit %s.
-AttackLogs."%s critically hits %s" %s critically hits %s
-AttackLogs."%s hits %s" %s hits %s
-AttackLogs."%s hit %s" %s hit %s
-AttackLogs."%s lands on %s." %s lands on %s.
-AttackLogs."%s land on %s." %s land on %s.
-AttackLogs."%s breaks when it hits %s." %s breaks when it hits %s.
-AttackLogs."%s break when they hit %s." %s break when they hit %s.
-AttackLogs."You throw %s in the fire and cook it." You throw %s in the fire and cook it.
-AttackLogs."You shoot a multi shot at %s." You shoot a multi shot at %s.
-AttackLogs."%s shoots a multi shot at %s." %s shoots a multi shot at %s.
-AttackLogs."You can't shoot multi shot there." You can't shoot multi shot there.
-AttackLogs."You shoot %s at %s." You shoot %s at %s.
-AttackLogs."%s shoots %s at %s." %s shoots %s at %s.
-AttackLogs."You can't shoot there." You can't shoot there.
-AttackLogs."You can't shoot where you can't see." You can't shoot where you can't see.
-AttackLogs."You throw %s at %s." You throw %s at %s.
-AttackLogs."%s throws %s at %s." %s throws %s at %s.
-AttackLogs."You can't throw %s there." You can't throw %s there.
-AttackLogs."You can't throw where you can't see." You can't throw where you can't see.
-AttackLogs."%s snaps %s and swallows it whole." %s snaps %s and swallows it whole.
-AttackLogs."%s snaps %s and drains its power." %s snaps %s and drains its power.
-AttackLogs."%s folds around %s's neck and it is equipped." %s folds around %s's neck and it is equipped.
-AttackLogs."Polymorphed cave bear snaps %s and swallows it whole." Polymorphed cave bear snaps %s and swallows it whole.
-AttackLogs."Oh my G'awd, rocks can no longer be turned into scrap!" Oh my G'awd, rocks can no longer be turned into scrap!
-AttackLogs."You salvage a piece of reusable scrap from the debris." You salvage a piece of reusable scrap from the debris.
-AttackLogs."You pull the trigger and shoot %s at %s." You pull the trigger and shoot %s at %s.
-AttackLogs."You pull the trigger but nothing happens." You pull the trigger but nothing happens.
+AttackLogs."Your attack is blocked by %s." 你的攻击被 %s 格挡了。
+AttackLogs."Your %s is blocked by %s." 你的 %s 被 %s 格挡了。
+AttackLogs."You block %s's attack." 你格挡了 %s 的攻击。
+AttackLogs."You block %s's %s." 你格挡了 %s 的 %s。
+AttackLogs."Your attack is dodged by %s." 你的攻击被 %s 闪避了。
+AttackLogs."Your %s is dodged by %s." 你的 %s 被 %s 闪避了。
+AttackLogs."You dodge %s's attack." 你闪避了 %s 的攻击。
+AttackLogs."You dodge %s's %s." 你闪避了 %s 的 %s 。
+AttackLogs."Your attack is parried by %s." 你的攻击被 %s 招架了。
+AttackLogs."Your %s is parried by %s." 你的 %s 被 %s 招架了。
+AttackLogs."You parry %s's attack." 你招架了 %s 的攻击。
+AttackLogs."You parry %s's %s." 你招架了 %s 的 %s。
+AttackLogs."You perform a counter attack and shoot a bolt at %s with your wristbow." 你做出了反击，向 %s 射出一发袖箭。
+AttackLogs."%s performs a counter attack and shoots a bolt at you with a wristbow." %s 做出了反击，向你射出一发袖箭。
+AttackLogs."Your shield bash critically hits %s" 你的盾击对 %s 造成了暴击。
+AttackLogs."Your shield bash hits %s" 你用盾击中了 %s
+AttackLogs."%s's shield bash critically hits you" %s 的盾击对你造成了暴击
+AttackLogs."%s's shield bash hits you" %s 用盾击中了你
+AttackLogs."Your shield bash misses %s." 你的盾击没有打中 %s。
+AttackLogs."%s's shield bash misses you." %s 的盾击没有打中你。
+AttackLogs."You charge at %s." 你向 %s 发起了冲锋。
+AttackLogs."%s charges at %s." %s 向 %s 发起了冲锋。
+AttackLogs."You can't charge there." 你不能向那里冲锋。
+AttackLogs."You can't charge adjacent targets." 你不能向邻接的目标冲锋。
+AttackLogs."%s misses its target and critically hits %s instead" %s 没有命中目标，但暴击了 %s
+AttackLogs."%s miss their target and critically hit %s instead" %s 没有命中他的目标，但暴击了 %s
+AttackLogs."%s misses its target and hits %s instead" %s 没有命中它的目标，但击中了 %s
+AttackLogs."%s miss their target and hit %s instead" %s 没有命中它们的目标，但击中了 %s
+AttackLogs."%s misses its target and lands on %s." %s 没有命中它的目标，落在了 %s 上面。
+AttackLogs."%s miss their target and land on %s." %s 没有命中它们的目标，落在了 %s 上面。
+AttackLogs."%s misses its target and breaks when it hits %s." %s 没有命中它的目标，击中 %s 后损毁了。
+AttackLogs."%s miss their target and break when they hit %s." %s 没有命中它的目标，击中 %s 后损毁了。
+AttackLogs."%s critically hits %s" %s 对 %s 造成了暴击。
+AttackLogs."%s hits %s" %s 击中了 %s
+AttackLogs."%s hit %s" %s 击中了 %s
+AttackLogs."%s lands on %s." %s 落在了 %s 上面。
+AttackLogs."%s land on %s." %s 落在了 %s 上面。
+AttackLogs."%s breaks when it hits %s." %s 击中 %s 后损毁了。
+AttackLogs."%s break when they hit %s." %s 击中 %s 后损毁了。
+AttackLogs."You throw %s in the fire and cook it." 你把 %s 扔进火种，烹饪它。
+AttackLogs."You shoot a multi shot at %s." 你连发射向 %s 。
+AttackLogs."%s shoots a multi shot at %s." %s 连发射向 %s 。
+AttackLogs."You can't shoot multi shot there." 你不能连发向那里射击。
+AttackLogs."You shoot %s at %s." 你将 %s 射向 %s 。
+AttackLogs."%s shoots %s at %s." %s 将 %s 射向 %s 。
+AttackLogs."You can't shoot there." 你不能射向那里。
+AttackLogs."You can't shoot where you can't see." 你不能向你看不见的地方射击。
+AttackLogs."You throw %s at %s." 你把 %s 向 %s 扔过去。
+AttackLogs."%s throws %s at %s." %s 把 %s 向 %s 扔过去。
+AttackLogs."You can't throw %s there." 你不能把 %s 扔去那里。
+AttackLogs."You can't throw where you can't see." 你不能向你看不见的地方投掷。
+AttackLogs."%s snaps %s and swallows it whole." %s 咬住 %s 整个吞了下去。
+AttackLogs."%s snaps %s and drains its power." %s 咬住 %s 吸取了它的能量。
+AttackLogs."%s folds around %s's neck and it is equipped." %s 环绕着 %s 的脖子，装备上了。
+AttackLogs."Polymorphed cave bear snaps %s and swallows it whole." 变形的洞熊咬住 %s 整个吞了下去。
+AttackLogs."Oh my G'awd, rocks can no longer be turned into scrap!" 哦，我的天呐，岩石不再变成碎片！
+AttackLogs."You salvage a piece of reusable scrap from the debris." 你从残骸中抢救出一块可以再利用的碎片。
+AttackLogs."You pull the trigger and shoot %s at %s." 你触动了扳机，把 %s 射向 %s 。
+AttackLogs."You pull the trigger but nothing happens." 你触动了扳机，但什么也没有发生。
 CastLogs."You cast %s at %s." You cast %s at %s.
 CastLogs."You cast %s on %s." You cast %s on %s.
 CastLogs."%s casts %s at %s." %s casts %s at %s.
