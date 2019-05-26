@@ -618,61 +618,61 @@ RestLogs."You rest and feel a bit more energetic." 你休息了一下，感觉�
 RestLogs."You rest and feel a bit more healthy." 你休息了一下，感觉更健康了。
 RestLogs."You rearm %s." 你为%s装弹。
 RestLogs."%s rearms %s." %s为%s装弹。
-UseLogs."You eat a patch of mushrooms." 你吃了一块蘑菇
-UseLogs."You eat %s." 你吃了 %s.
-UseLogs."You can't eat undead corpses." 你不能食用不死族尸体.
-UseLogs."You can't eat elemental corpses." 你不能食用元素的尸体
-UseLogs."You can't use your surroundings while polymorphed." 周围的环境太过复杂以至于你不能使用该物品
-UseLogs."You can't use your surroundings while shapeshifted." 空间正在变形，使用物品失败
-UseLogs."%s is not interested in what you have to say." %s 没什么要对你说的了
-UseLogs."You seem to have awoken a slumbering treeman." 看起来你正在尝试唤醒一个沉睡的树人
-UseLogs."You don't have room for %s." 你没有给%s的房间了
-UseLogs."You dig %s until it breaks apart." 你挖掘的%s破裂了
-UseLogs."You dig %s for a while but it stays intact." 你尝试挖了半天[%s]，但是它看起来依旧很坚固
-UseLogs."You are not strong enough to break %s." 你当前的力量不足以破坏[%s]
-UseLogs."You are too tired to dig %s right now." 你太累了不能再挖[%s]了
-UseLogs."You can't seem to figure out a way to use %s." 你找不到方法使用%s
-UseLogs."You dig a wall until it breaks into a boulder." 你把一面墙挖碎了
-UseLogs."You dig a wall for a while but it stays intact." 你对着一面墙一顿深挖，但是它看起来还是很坚固
-UseLogs."You are not strong enough to break the wall." 你还没有能力破坏这面墙
-UseLogs."You are too tired to dig the wall right now." 你太累了不能再挖这面墙了
-UseLogs."You admire %s." 你很敬佩%s
-UseLogs."You admire the broken %s." 你不再敬佩%s.
-UseLogs."You admire the almost unbreakable wall." 你敬佩一面无法破坏的墙
-UseLogs."You dig a wall until it crumbles and reveals a hidden door." 你挖的一面墙粉碎了，同时在墙后出现了一个暗门
-UseLogs."You dig a wall until it crumbles and reveals a hidden passage." 你挖的一面墙粉碎了，同时在墙后出现了一个隐藏的通道
-UseLogs."You admire the almost perfectly hidden wall." 你感叹一面几乎完全隐藏的墙
-UseLogs."You admire the unbreakable granite wall." 你感叹一面花岗岩墙
-UseLogs."You attempt to catch some fish." 你尝试捕一些鱼
-UseLogs."You catch a fish and put it in your backpack." 你抓到了一条鱼，同时将它放入身后的背包
-UseLogs."You pick up and equip %s." 你拾取并装备了%s
-UseLogs."%s picks up and equips %s." %s %s拾取并装备了%s
-UseLogs."You pick up %s." 你拾取了%s
-UseLogs."%s picks up %s." %s 拾取了 %s
-UseLogs."Sorry, not enough space to loot that item." 抱歉，没有足够的空间拾取该物品
-UseLogs."You equip %s." 你装备了%s
-UseLogs."You unequip %s." 你卸下了%s
-UseLogs."%s equips %s." %s 装备了%s
-UseLogs."%s unequips %s." %s卸下了%s
-UseLogs."%s is magically bound to you!" 你和%s灵魂绑定
-UseLogs."You can't equip any more of those." 你不能再装备它们了
-UseLogs."You can't seem to equip that at the moment." 看起来你不能再此时装备它
-UseLogs."Not enough free space to unequip your equipped item." 没有足够的空间卸下你已经装备的物品
-UseLogs."You can't unequip that, it's magically bound to you!" 你不能卸下灵魂绑定的物品
-UseLogs."Not enough free space to unequip the item." 没有足够的空间卸下该物品
-UseLogs."You drop %s." 你扔掉了%s
-UseLogs."%s drops %s." %s 扔掉了 %s
-UseLogs."You can't drop that, it's magically bound to you!" 你不能扔掉灵魂绑定的物品
-UseLogs."You discard %s." 你摧毁了%s
-UseLogs."You hold the soul gem in your hand and let out a maniacal laughter..." 你抓住了一个灵魂宝石，并发出了疯狂的笑声
-UseLogs."The soul gem starts to vibrate and suddenly explodes in your hand." 灵魂宝石在你手中突然开始震颤，紧接着爆炸了
-UseLogs."You throw a smoke bomb on the ground." 你丢出了一个烟雾弹
-UseLogs."You are already hidden." 你完全有隐藏了
-UseLogs."You set a bear trap at your feet." 你在脚下安装了一个捕兽陷阱
-UseLogs."You can't set a bear trap here." 你不能在此安装捕兽陷阱
-UseLogs."You set a magic trap at your feet." 你在脚下设置了一个魔法陷阱
-UseLogs."You can't set a magic trap here." 你不能在此安装魔法陷阱
-UseLogs."The dog collar is on cooldown with %d turns remaining." 狗项圈还有%d回合冷却
+UseLogs."You eat a patch of mushrooms." 你吃了一块蘑菇。
+UseLogs."You eat %s." 你吃了%s。
+UseLogs."You can't eat undead corpses." 你不能食用亡灵的尸体。
+UseLogs."You can't eat elemental corpses." 你不能食用元素的尸体。
+UseLogs."You can't use your surroundings while polymorphed." 你不能在被变形时使用你附近的物品。
+UseLogs."You can't use your surroundings while shapeshifted." 你不能在变形时使用你附近的物品。
+UseLogs."%s is not interested in what you have to say." %s 没什么要对你说的了。
+UseLogs."You seem to have awoken a slumbering treeman." 看起来你正在尝试唤醒一个沉睡的树人。
+UseLogs."You don't have room for %s." 你没有空间放%s了。
+UseLogs."You dig %s until it breaks apart." 你挖掘的%s破裂了。
+UseLogs."You dig %s for a while but it stays intact." 你尝试挖了半天%s，但是它看起来依旧很坚固。
+UseLogs."You are not strong enough to break %s." 你当前的力量不足以破坏%s。
+UseLogs."You are too tired to dig %s right now." 你太累了不能再挖%s了。
+UseLogs."You can't seem to figure out a way to use %s." 你找不到方法使用%s。
+UseLogs."You dig a wall until it breaks into a boulder." 你把一面墙挖碎了，留下了一个巨石。
+UseLogs."You dig a wall for a while but it stays intact." 你对着一面墙一顿深挖，但是它看起来还是很坚固。
+UseLogs."You are not strong enough to break the wall." 你还没有能力破坏这面墙。
+UseLogs."You are too tired to dig the wall right now." 你太累了不能再挖这面墙了。
+UseLogs."You admire %s." 你赞叹着%s。
+UseLogs."You admire the broken %s." 你赞叹着破碎的%s。
+UseLogs."You admire the almost unbreakable wall." 你感叹着这面无法破坏的墙。
+UseLogs."You dig a wall until it crumbles and reveals a hidden door." 你挖的一面墙粉碎了，同时在墙后出现了一个暗门。
+UseLogs."You dig a wall until it crumbles and reveals a hidden passage." 你挖的一面墙粉碎了，同时在墙后出现了一个隐藏的通道。
+UseLogs."You admire the almost perfectly hidden wall." 你感叹这堵暗墙藏得真完美。
+UseLogs."You admire the unbreakable granite wall." 你感叹这面墙坚若磐石。
+UseLogs."You attempt to catch some fish." 你尝试捕一些鱼。
+UseLogs."You catch a fish and put it in your backpack." 你抓到了一条鱼，同时将它放入背包。
+UseLogs."You pick up and equip %s." 你拾取并装备了%s。
+UseLogs."%s picks up and equips %s." %s拾取并装备了%s。
+UseLogs."You pick up %s." 你拾取了%s。
+UseLogs."%s picks up %s." %s 拾取了 %s。
+UseLogs."Sorry, not enough space to loot that item." 抱歉，没有足够的空间拾取该物品。
+UseLogs."You equip %s." 你装备了%s。
+UseLogs."You unequip %s." 你卸下了%s。
+UseLogs."%s equips %s." %s 装备了%s。
+UseLogs."%s unequips %s." %s卸下了%s。
+UseLogs."%s is magically bound to you!" 你和%s灵魂绑定。
+UseLogs."You can't equip any more of those." 你不能再装备它们了。
+UseLogs."You can't seem to equip that at the moment." 看起来你不能在此时装备它。
+UseLogs."Not enough free space to unequip your equipped item." 没有足够的空间卸下你已经装备的物品。
+UseLogs."You can't unequip that, it's magically bound to you!" 你不能卸下灵魂绑定的物品。
+UseLogs."Not enough free space to unequip the item." 没有足够的空间卸下该物品。
+UseLogs."You drop %s." 你扔掉了%s。
+UseLogs."%s drops %s." %s 扔掉了 %s。
+UseLogs."You can't drop that, it's magically bound to you!" 你不能扔掉灵魂绑定的物品。
+UseLogs."You discard %s." 你抛弃了%s。
+UseLogs."You hold the soul gem in your hand and let out a maniacal laughter..." 你抓住了一个灵魂石，并发出了疯狂的笑声……
+UseLogs."The soul gem starts to vibrate and suddenly explodes in your hand." 灵魂石在你手中突然开始震颤，紧接着爆炸了。
+UseLogs."You throw a smoke bomb on the ground." 你向地上抛出了一个烟雾弹。
+UseLogs."You are already hidden." 你完全隐身了。
+UseLogs."You set a bear trap at your feet." 你在脚下安装了一个捕熊陷阱。
+UseLogs."You can't set a bear trap here." 你不能在此安装捕熊陷阱。
+UseLogs."You set a magic trap at your feet." 你在脚下设置了一个魔法陷阱。
+UseLogs."You can't set a magic trap here." 你不能在此安装魔法陷阱。
+UseLogs."The dog collar is on cooldown with %d turns remaining." 狗项圈还有%d回合冷却。
 UseLogs."You closely examine %s and conclude that it is of more use to a skilled craftsman." You closely examine %s and conclude that it is of more use to a skilled craftsman.
 UseLogs."You flip a coin and it lands on its head." You flip a coin and it lands on its head.
 UseLogs."You flip a coin and it lands on its tail." You flip a coin and it lands on its tail.
