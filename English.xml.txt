@@ -203,7 +203,7 @@ GUILogs."Some of your friends may have gotten lost in the process." 在这个过
 GUILogs."You prepare yourself for the new challenge ahead..." 你整装待发迎接新的挑战……
 GUILogs."You tell your friends to head out to the new dungeon..." 你通知你的伙伴出发去新的地牢……
 GUILogs."Failed to load map [%s]. Perhaps you should contact the developer..." 加载地图 [%s] 失败。或许你应该联系开发者……
-GUIPops."%s is now properly buried at the shrine of the forgotten heroes and %s should not haunt us anymore." %s 现在在被遗忘的英雄神殿火化，%s 不会再伤害我们了。
+GUIPops."%s is now properly buried at the shrine of the forgotten heroes and %s should not haunt us anymore." %s 火化于被遗忘的英雄神殿，%s 不会再伤害我们了。
 GUIPops."You have reached" 你已达到
 GUIPops."Level %d" 等级 %d
 GUIPops."You have entered" 你已进入
@@ -2089,7 +2089,7 @@ ScrollLogs."You teleport to a new location." You teleport to a new location.
 ScrollLogs."You feel death chill in your bones." You feel death chill in your bones.
 ScrollLogs."You suddenly feel as if you've traveled 88 mph." You suddenly feel as if you've traveled 88 mph.
 ScrollLogs."You suddenly get a strange deja vu feeling." You suddenly get a strange deja vu feeling.
-ShieldNames."Fist" 拳套
+ShieldNames."Fist" 拳头
 ShieldNames."Buckler" 小盾
 ShieldNames."Target" 圆盾
 ShieldNames."Shield" 大盾
@@ -2472,7 +2472,7 @@ CreatureNames."Dire wolf" 凶狼
 CreatureNames."Dog" 狗
 CreatureNames."Dread bat" 蝙蝠
 CreatureNames."Giant rat" 巨鼠
-CreatureNames."Giant snail" 巨蛇
+CreatureNames."Giant snail" 蜗牛
 CreatureNames."Snake" 蛇
 CreatureNames."Spider" 蜘蛛
 CreatureNames."Whelp" 幼龙
@@ -2855,66 +2855,66 @@ RIPTitles."Stream" 小溪
 RIPTitles."Town" 城镇
 RIPTitles."Valley" 山谷
 RIPTitles."Well" 水井
-CauseOfDeath."COD_RETIRE" 隐退多年之后， %s 死于衰老。
-CauseOfDeath."COD_CHEATER" %s 死于极其渴望在游戏中作弊。
-CauseOfDeath."COD_UNKNOWN" %s 死于…… 没有真的知道死因。
-CauseOfDeath."COD_FAILED_JUMP" %s 在跳跃时脸先着地，死于头骨碎裂。
-CauseOfDeath."COD_SHIELD_BASH" %s 死于 %s 的猛烈一击。
-CauseOfDeath."COD_LAVA_CHASM" %s 掉落到岩浆之中，死于皮肤烧焦后的并发症。
-CauseOfDeath."COD_WATER_CHASM" %s 掉入水坑，溺水而亡。
-CauseOfDeath."COD_SOUL_GEM" %s 被一个愤怒的灵魂发出的魔法伤害致死。
-CauseOfDeath."COD_FIRE_AURA" %s 由于站在 %s 的火场中过久而被碳化。
-CauseOfDeath."COD_FROST_AURA" %s 由于站在 %s 的冰场中过久而被冻死。
-CauseOfDeath."COD_SHOCK_AURA" %s 由于站在 %s 的电场中过久而被电死。
-CauseOfDeath."COD_POISON_AURA" %s 由于站在 %s 的毒场中过久而毒发身亡。
-CauseOfDeath."COD_DISEASE_AURA" %s 由于站在 %s 的病场中过久而死于心脏病。
-CauseOfDeath."COD_HATEFUL_AURA" %s 被一个可恶的力场致死。
-CauseOfDeath."COD_ASPHYXIATION" %s 死于窒息护符引起的窒息。
-CauseOfDeath."COD_PETRIFICATION" %s 死于石化护符引起的石化。
-CauseOfDeath."COD_CURSE_OF_AGONY" %s 死于痛苦诅咒造成的伤害。
-CauseOfDeath."COD_DEADLY_POISON" %s 死于死亡药剂的剧毒。
-CauseOfDeath."COD_LEECHING_POISON" %s 死于吸血药剂造成的伤害。
-CauseOfDeath."COD_BLOODY_FLUX" %s 死于血瘟病。
-CauseOfDeath."COD_BEING_ON_FIRE" %s 死于着火后的火焰伤害，咄！
-CauseOfDeath."COD_BLEEDING_WOUND" %s 死于重伤后的失血。
-CauseOfDeath."COD_EAT_TOO_MUCH" %s 吃的太多，胀死了。
-CauseOfDeath."COD_DRINK_TOO_MUCH" %s 喝的太多，撑死了。
-CauseOfDeath."COD_HUNGER_DAMAGE" %s 没什么吃的，饿死了。
-CauseOfDeath."COD_THIRST_DAMAGE" %s 没什么喝的，渴死了。
-CauseOfDeath."COD_PENETRATION" %s 全身被触须穿透而亡。
-CauseOfDeath."COD_REFLECTION" %s 被 %s 自己的 %s 反弹而死。
-CauseOfDeath."COD_KILLED_BY" %s 被 %s 杀死。
-CauseOfDeath."COD_BOULDER" %s 被一块大石头落下砸为肉饼。
-CauseOfDeath."COD_BREAK_DOOR" %s 用头撞门，结果脖子骨折。
-CauseOfDeath."COD_FALLING_GATE" 掉落的大门在 %s 的脸上多穿了几个呼吸孔。
-CauseOfDeath."COD_JERKED_BY_LEVER" %s 猛拉杠杆，结果严重扭伤了背肌而死。
-CauseOfDeath."COD_LEVER_HIT_NUTS" 杠杆击中螺母发出的啸叫音杀死了 %s 。
-CauseOfDeath."COD_SHROOM_SPORES" %s 因吸入蘑菇孢子而中毒死亡。
-CauseOfDeath."COD_BOOMSHROOM" %s 死于不稳定蘑菇的爆炸所造成的中毒。
-CauseOfDeath."COD_BREAK_SIGN" %s 的头撞到了指示牌，头骨骨折。
-CauseOfDeath."COD_BREAK_STORAGE" %s 在试图破坏陷阱 %s 时，中毒身亡。
-CauseOfDeath."COD_PICK_STORAGE" %s 在试图拆除陷阱 %s 时，中毒身亡。
-CauseOfDeath."COD_BEAR_TRAP_1" %s 在踩到捕熊器后，因腿部重伤而死。
-CauseOfDeath."COD_SPIKE_TRAP_1" %s 踩到尖刺陷阱，刺穿了动脉。
-CauseOfDeath."COD_SPIKED_PIT_1" %s 掉进尖刺坑，肺部被刺穿。
-CauseOfDeath."COD_WATER_PIT_1" %s 掉进一个水坑，溺水身亡。
-CauseOfDeath."COD_MAGIC_TRAP_1" %s 被一个魔法陷阱造成的伤害致死。
-CauseOfDeath."COD_BEAR_TRAP_2" %s 在一个捕熊器上休息，腿部不幸被夹住，重伤而亡。
-CauseOfDeath."COD_SPIKE_TRAP_2" %s 在一个尖刺陷阱上休息，动脉被刺穿。
-CauseOfDeath."COD_SPIKED_PIT_2" %s 在一个尖刺坑中休息，肺部被刺穿。
-CauseOfDeath."COD_WATER_PIT_2" %s 在尝试爬出一个水坑时溺水身亡。
-CauseOfDeath."COD_MAGIC_TRAP_2" %s 被一个魔法陷阱造成的伤害致死。
-CauseOfDeath."COD_BURNING" %s 被燃烧药剂造成的火焰伤害致死。
-CauseOfDeath."COD_CURSED_HEALING" %s 死于一瓶被诅咒的治疗药剂。
-CauseOfDeath."COD_HOLY_WATER_1" %s 死于一瓶圣水造成的魔法伤害。
-CauseOfDeath."COD_HOLY_WATER_2" %s 死于一瓶圣水造成的即死效果。
-CauseOfDeath."COD_ENERGY_STRAIN" %s 在没有精力时释放法术，力竭而亡。
+CauseOfDeath."COD_RETIRE" 隐退多年之后，%s死于衰老。
+CauseOfDeath."COD_CHEATER" %s死于极其渴望在游戏中作弊。
+CauseOfDeath."COD_UNKNOWN" %s死于…… 没有真的知道死因。
+CauseOfDeath."COD_FAILED_JUMP" %s在跳跃时脸先着地，死于头骨碎裂。
+CauseOfDeath."COD_SHIELD_BASH" %s死于 %s的猛烈一击。
+CauseOfDeath."COD_LAVA_CHASM" %s掉落到岩浆之中，死于皮肤烧焦后的并发症。
+CauseOfDeath."COD_WATER_CHASM" %s掉入水坑，溺水而亡。
+CauseOfDeath."COD_SOUL_GEM" %s被一个愤怒的灵魂发出的魔法伤害致死。
+CauseOfDeath."COD_FIRE_AURA" %s由于站在%s的火场中过久而被碳化。
+CauseOfDeath."COD_FROST_AURA" %s由于站在%s的冰场中过久而被冻死。
+CauseOfDeath."COD_SHOCK_AURA" %s由于站在%s的电场中过久而被电死。
+CauseOfDeath."COD_POISON_AURA" %s由于站在%s的毒场中过久而毒发身亡。
+CauseOfDeath."COD_DISEASE_AURA" %s由于站在%s的病场中过久而死于心脏病。
+CauseOfDeath."COD_HATEFUL_AURA" %s被一个可恶的力场致死。
+CauseOfDeath."COD_ASPHYXIATION" %s死于窒息护符引起的窒息。
+CauseOfDeath."COD_PETRIFICATION" %s死于石化护符引起的石化。
+CauseOfDeath."COD_CURSE_OF_AGONY" %s死于痛苦诅咒造成的伤害。
+CauseOfDeath."COD_DEADLY_POISON" %s死于死亡药剂的剧毒。
+CauseOfDeath."COD_LEECHING_POISON" %s死于吸血药剂造成的伤害。
+CauseOfDeath."COD_BLOODY_FLUX" %s死于血瘟病。
+CauseOfDeath."COD_BEING_ON_FIRE" %s死于着火后的火焰伤害，咄！
+CauseOfDeath."COD_BLEEDING_WOUND" %s死于重伤后的失血。
+CauseOfDeath."COD_EAT_TOO_MUCH" %s吃的太多，胀死了。
+CauseOfDeath."COD_DRINK_TOO_MUCH" %s喝的太多，撑死了。
+CauseOfDeath."COD_HUNGER_DAMAGE" %s没什么吃的，饿死了。
+CauseOfDeath."COD_THIRST_DAMAGE" %s没什么喝的，渴死了。
+CauseOfDeath."COD_PENETRATION" %s全身被触须穿透而亡。
+CauseOfDeath."COD_REFLECTION" %s被%s自己的%s反弹而死。
+CauseOfDeath."COD_KILLED_BY" %s被%s杀死。
+CauseOfDeath."COD_BOULDER" %s被一块大石头落下砸为肉饼。
+CauseOfDeath."COD_BREAK_DOOR" %s用头撞门，结果脖子骨折。
+CauseOfDeath."COD_FALLING_GATE" 掉落的大门在%s的脸上多穿了几个呼吸孔。
+CauseOfDeath."COD_JERKED_BY_LEVER" %s猛拉杠杆，结果严重扭伤了背肌而死。
+CauseOfDeath."COD_LEVER_HIT_NUTS" 杠杆击中螺母发出的啸叫音杀死了%s。
+CauseOfDeath."COD_SHROOM_SPORES" %s因吸入蘑菇孢子而中毒死亡。
+CauseOfDeath."COD_BOOMSHROOM" %s死于不稳定蘑菇的爆炸所造成的中毒。
+CauseOfDeath."COD_BREAK_SIGN" %s的头撞到了指示牌，头骨骨折。
+CauseOfDeath."COD_BREAK_STORAGE" %s在试图破坏陷阱%s时，中毒身亡。
+CauseOfDeath."COD_PICK_STORAGE" %s在试图拆除陷阱%s时，中毒身亡。
+CauseOfDeath."COD_BEAR_TRAP_1" %s在踩到捕熊器后，因腿部重伤而死。
+CauseOfDeath."COD_SPIKE_TRAP_1" %s踩到尖刺陷阱，刺穿了动脉。
+CauseOfDeath."COD_SPIKED_PIT_1" %s掉进尖刺坑，肺部被刺穿。
+CauseOfDeath."COD_WATER_PIT_1" %s掉进一个水坑，溺水身亡。
+CauseOfDeath."COD_MAGIC_TRAP_1" %s被一个魔法陷阱造成的伤害致死。
+CauseOfDeath."COD_BEAR_TRAP_2" %s在一个捕熊器上休息，腿部不幸被夹住，重伤而亡。
+CauseOfDeath."COD_SPIKE_TRAP_2" %s在一个尖刺陷阱上休息，动脉被刺穿。
+CauseOfDeath."COD_SPIKED_PIT_2" %s在一个尖刺坑中休息，肺部被刺穿。
+CauseOfDeath."COD_WATER_PIT_2" %s在尝试爬出一个水坑时溺水身亡。
+CauseOfDeath."COD_MAGIC_TRAP_2" %s被一个魔法陷阱造成的伤害致死。
+CauseOfDeath."COD_BURNING" %s被燃烧药剂造成的火焰伤害致死。
+CauseOfDeath."COD_CURSED_HEALING" %s死于一瓶被诅咒的治疗药剂。
+CauseOfDeath."COD_HOLY_WATER_1" %s死于一瓶圣水造成的魔法伤害。
+CauseOfDeath."COD_HOLY_WATER_2" %s死于一瓶圣水造成的即死效果。
+CauseOfDeath."COD_ENERGY_STRAIN" %s在没有精力时释放法术，力竭而亡。
 CauseOfDeath."COD_MISCAST" %s 死于释放法术的误伤。
-CauseOfDeath."COD_SPELL_DAMAGE_1" %s 死于 %s 伤害，它是 %s 自己的 %s 造成的。
-CauseOfDeath."COD_SPELL_DAMAGE_2" %s 死于 %s 伤害，它是 %s 的 %s 造成的。
-CauseOfDeath."COD_INSTANT_DEATH_1" %s 死于即死效果，它是 %s 自己的 %s 造成的。
-CauseOfDeath."COD_INSTANT_DEATH_2" %s 死于即死效果，它是 %s 的 %s 造成的。
-CauseOfDeath."COD_TRANSMUTE_FAIL" %s 的点金术失败，胸毛掉落太多而死。
+CauseOfDeath."COD_SPELL_DAMAGE_1" %s死于 %s 伤害，它是 %s 自己的 %s 造成的。
+CauseOfDeath."COD_SPELL_DAMAGE_2" %s死于 %s 伤害，它是 %s 的 %s 造成的。
+CauseOfDeath."COD_INSTANT_DEATH_1" %s死于即死效果，它是 %s 自己的 %s 造成的。
+CauseOfDeath."COD_INSTANT_DEATH_2" %s死于即死效果，它是 %s 的 %s 造成的。
+CauseOfDeath."COD_TRANSMUTE_FAIL" %s的点金术失败，胸毛掉落太多而死。
 DamageTypes."physical" 物理
 DamageTypes."fire" 火焰
 DamageTypes."frost" 冰霜
@@ -2992,7 +2992,7 @@ TutorialNames."Jump Button" 跳跃 按钮
 TutorialNames."Look Button" 观察 按钮
 TutorialNames."Sort Button" 排序 按钮
 TutorialNames."Gain Heritage" 获得遗产
-TutorialDescs."Introduction 1" @(40)为什么要说你好？我是只讨人嫌的界面狗，我敏锐的直觉告诉我这是你第一次玩这个游戏……
+TutorialDescs."Introduction 1" @(40)不用打招呼了。我是只讨人嫌的界面狗，我敏锐的直觉告诉我这是你第一次玩这个游戏……
 TutorialDescs."Introduction 1".1 
 TutorialDescs."Introduction 2" @(40)请注意听讲。我只说一次，如果你不仔细听以后肯定会跑到网上问各种傻问题……
 TutorialDescs."Introduction 2".1 
@@ -3814,13 +3814,13 @@ DialogueWindow."STR_FEMALE_ALIAS" Jane Doe
 DialogueWindow."STR_MASTER" whom is dead now
 DialogueWindow."DLG_FINAL_VERDICT" After carefully examining your answers, the powers that be have come to a conclusion.
 DialogueWindow."DLG_FINAL_VERDICT".1 You are hereby known as %s %s the %s.
-DialogueWindow."DLG_DEATH_GREETING" Why hello there. I'm Death and I've been expecting you.
-DialogueWindow."DLG_ROUNDS_PLAYED_0" By the way, you're going straight to hell because you overstayed your visit in life.
-DialogueWindow."DLG_ROUNDS_PLAYED_1" What took you so long? I almost got worried that maybe you weren't coming after all.
-DialogueWindow."DLG_ROUNDS_PLAYED_2" I almost had to call in favors to get you here but I'm glad you managed to come on your own.
-DialogueWindow."DLG_ROUNDS_PLAYED_3" You could've come earlier but don't worry, there's plenty of heat here to keep your soup hot.
-DialogueWindow."DLG_ROUNDS_PLAYED_4" Thank you for not wasting my time any more than you did. Now move along and enjoy your stay.
-DialogueWindow."DLG_ROUNDS_PLAYED_5" Thank you for coming to me so soon. Now let me reward you with everlasting agony.
+DialogueWindow."DLG_DEATH_GREETING" 不用打招呼了。我是死神，我一直在等着你。
+DialogueWindow."DLG_ROUNDS_PLAYED_0" @(40)随便说一句，你将直接下地狱，因为你活得太久了。
+DialogueWindow."DLG_ROUNDS_PLAYED_1" @(40)是什么耽误了你这么久？我都担心你不会来了。
+DialogueWindow."DLG_ROUNDS_PLAYED_2" @(40)你老是不来，我差点去喊人了。不过我很高兴你最终自己来了。
+DialogueWindow."DLG_ROUNDS_PLAYED_3" @(40)你应该早点来的，不过没关系，这里有足够的热量烧热你的汤。
+DialogueWindow."DLG_ROUNDS_PLAYED_4" @(40)谢谢你不再浪费我的时间。现在走吧，祝你住的愉快。
+DialogueWindow."DLG_ROUNDS_PLAYED_5" @(40)谢谢你这么快就来见我。现在让我给你不朽之爱。
 DialogueWindow."DLG_FIRST_WISH" - You did say rich with filth, right?
 DialogueWindow."DLG_SECOND_WISH" - I see you're into twins. Let's make that two...
 DialogueWindow."DLG_THIRD_WISH" - You get a feeling that you have just been fooled.
@@ -4002,15 +4002,15 @@ EffectAnim."Your offhand weapon is poisoned." Your offhand weapon is poisoned.
 EffectAnim."AMULET_COOLDOWN_DESC" The spell contained in your amulet is on cooldown. Recharge it by having it equipped for as many turns as it says.
 EffectAnim."CAN_LEARN_TALENT_DESC" You can learn a talent now. Find a trainer or use one of the trainer tiles (altar, dummy, fireplace, target, well or totem).
 DeathScreen."KING_SCREEN_STORY" 随着你把王冠戴在头上，走廊里的窃窃私语伴随着你每一次呼吸越发清晰入耳：
-DeathScreen."KING_SCREEN_STORY".1 &quot;%s 已死。%s 万岁！&quot;
-DeathScreen."KING_SCREEN_STORY".2 你在一次公平挑战中击败了 %s ，现在你成为了霜之哀伤的合法统治者。
+DeathScreen."KING_SCREEN_STORY".1 &quot;%s已死。%s万岁！&quot;
+DeathScreen."KING_SCREEN_STORY".2 你在一次公平挑战中击败了%s，现在你成为了霜之哀伤的合法统治者。
 DeathScreen."KING_SCREEN_STORY".3 估计古代的律法，现在你有权力对你的侍从做任何事，让他们用你喜欢的方式侍奉你。
 DeathScreen."KING_SCREEN_STORY".4 如果你感到无聊或者你发觉你的人民对你有敌意，你可以把一些农民从墙上扔下去。
 DeathScreen."KING_SCREEN_STORY".5 既然如此，现在可以开始对你的领导力做点测试了……
-DeathScreen."KING_SCREEN_SUMMARY" 站在这里的是 %s %s。
-DeathScreen."KING_SCREEN_SUMMARY".1 %s 囤积了总共 %d 枚金币，经历了 %d 回合，完成了 %s 个任务。
-DeathScreen."DEATH_SCREEN_SUMMARY" 躺在这里的是 %s ，%s ，%s。
-DeathScreen."DEATH_SCREEN_SUMMARY".1 %s %s 囤积了总共 %d 枚金币，经历了 %d 回合直到 %s 的旅程结束。
+DeathScreen."KING_SCREEN_SUMMARY" 站在这里的是%s %s。
+DeathScreen."KING_SCREEN_SUMMARY".1 %s囤积了总共 %d 枚金币，经历了 %d 回合，完成了 %s 个任务。
+DeathScreen."DEATH_SCREEN_SUMMARY" 躺在这里的是%s，%s，%s。
+DeathScreen."DEATH_SCREEN_SUMMARY".1 %s %s囤积了总共 %d 枚金币，经历了 %d 回合直到%s旅程结束。
 DeathScreen."zero talent" 毫无天赋
 DeathScreen."negligible talent" 几乎没有天赋
 DeathScreen."trivial talent" 天赋微薄
