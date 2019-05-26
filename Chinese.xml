@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="10e1e7cdac1f6caee2731b4841f81854c365fb59">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="dc4310513be08907c097a403c8490be9ee11c661">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -1989,7 +1989,7 @@
     <str id="Potion of Charming" value="Potion of Charming" local="魅惑药剂"/>
     <str id="Potion of Confusion" value="Potion of Confusion" local="混乱药剂"/>
     <str id="Potion of Deafness" value="Potion of Deafness" local="致聋药剂"/>
-    <str id="Potion of Death" value="Potion of Death" local="剧毒药剂"/>
+    <str id="Potion of Death" value="Potion of Death" local="死亡药剂"/>
     <str id="Potion of Draining" value="Potion of Draining" local="噬精药剂"/>
     <str id="Potion of Energy" value="Potion of Energy" local="精力药剂"/>
     <str id="Potion of Healing" value="Potion of Healing" local="治疗药剂"/>
@@ -2793,15 +2793,15 @@
     <str id="Undead mage" value="Undead mage" local="亡灵法师"/>
     <str id="Undead captain" value="Undead captain" local="亡灵队长"/>
     <str id="Ghost" value="Ghost" local="鬼魂"/>
-    <str id="Ghost of Arnold" value="Ghost of Arnold"/>
-    <str id="Ghost of Bruce" value="Ghost of Bruce"/>
-    <str id="Ghost of Dolph" value="Ghost of Dolph"/>
-    <str id="Ghost of Jason" value="Ghost of Jason"/>
-    <str id="Ghost of Jeanne" value="Ghost of Jeanne"/>
-    <str id="Ghost of Lyman" value="Ghost of Lyman"/>
-    <str id="Ghost of Norris" value="Ghost of Norris"/>
-    <str id="Ghost of Randy" value="Ghost of Randy"/>
-    <str id="Ghost of Sylvie" value="Ghost of Sylvie"/>
+    <str id="Ghost of Arnold" value="Ghost of Arnold" local="阿诺德的鬼魂"/>
+    <str id="Ghost of Bruce" value="Ghost of Bruce" local="布鲁斯的鬼魂"/>
+    <str id="Ghost of Dolph" value="Ghost of Dolph" local="多尔夫的鬼魂"/>
+    <str id="Ghost of Jason" value="Ghost of Jason" local="杰森的鬼魂"/>
+    <str id="Ghost of Jeanne" value="Ghost of Jeanne" local="珍妮的鬼魂"/>
+    <str id="Ghost of Lyman" value="Ghost of Lyman" local="莱曼的鬼魂"/>
+    <str id="Ghost of Norris" value="Ghost of Norris" local="诺里斯的鬼魂"/>
+    <str id="Ghost of Randy" value="Ghost of Randy" local="兰迪的鬼魂"/>
+    <str id="Ghost of Sylvie" value="Ghost of Sylvie" local="西尔维的鬼魂"/>
     <str id="Immortal" value="Immortal" local="不朽者"/>
   </CreatureNames>
   <CreatureLogs>
@@ -3076,66 +3076,66 @@
     <str id="Well" value="Well" local="水井"/>
   </RIPTitles>
   <CauseOfDeath>
-    <str id="COD_RETIRE" value="%s died of old age several years after retiring from adventuring."/>
-    <str id="COD_CHEATER" value="%s died of severe anxiety caused by trying to cheat the game."/>
-    <str id="COD_UNKNOWN" value="%s died of, well, nobody really knows why."/>
-    <str id="COD_FAILED_JUMP" value="%s died of a cracked skull after jumping face first on the floor."/>
-    <str id="COD_SHIELD_BASH" value="%s was bashed to death by %s."/>
-    <str id="COD_LAVA_CHASM" value="%s died of a charred skin syndrome after falling down to a lava chasm."/>
-    <str id="COD_WATER_CHASM" value="%s died of drowning after falling down to a water chasm."/>
-    <str id="COD_SOUL_GEM" value="%s died of magical damage caused by an angered soul."/>
-    <str id="COD_FIRE_AURA" value="%s died of a severe charring after standing too long in the flaming aura of %s."/>
-    <str id="COD_FROST_AURA" value="%s died of a severe frostbite after standing too long in the frozen aura of %s."/>
-    <str id="COD_SHOCK_AURA" value="%s died of a heart attack after standing too long in the electric aura of %s."/>
-    <str id="COD_POISON_AURA" value="%s died of poison vapours after standing too long in the venomous aura of %s."/>
-    <str id="COD_DISEASE_AURA" value="%s died of cardiac arrest after standing too long in the virulent aura of %s."/>
-    <str id="COD_HATEFUL_AURA" value="%s died of damage caused by a hateful aura."/>
-    <str id="COD_ASPHYXIATION" value="%s died of asphyxiation caused by amulet of asphyxia"/>
-    <str id="COD_PETRIFICATION" value="%s died of petrification caused by amulet of stone form."/>
-    <str id="COD_CURSE_OF_AGONY" value="%s died of damage caused by curse of agony."/>
-    <str id="COD_DEADLY_POISON" value="%s died of damage caused by deadly poison."/>
-    <str id="COD_LEECHING_POISON" value="%s died of damage caused by leeching poison."/>
-    <str id="COD_BLOODY_FLUX" value="%s died of damage caused by bloody flux disease."/>
-    <str id="COD_BEING_ON_FIRE" value="%s died of fire damage caused by being on fire, duh!"/>
-    <str id="COD_BLEEDING_WOUND" value="%s died of exsanguination caused by a bleeding wound."/>
-    <str id="COD_EAT_TOO_MUCH" value="%s ate too much and choked to death."/>
-    <str id="COD_DRINK_TOO_MUCH" value="%s drank too much and drowned to death."/>
-    <str id="COD_HUNGER_DAMAGE" value="%s ate too little and died of hunger."/>
-    <str id="COD_THIRST_DAMAGE" value="%s drank too little and died of thirst."/>
-    <str id="COD_PENETRATION" value="%s died of a full body tentacle penetration of the worst kind."/>
-    <str id="COD_REFLECTION" value="%s was killed by %s own attack that was reflected back by %s."/>
-    <str id="COD_KILLED_BY" value="%s was killed by %s."/>
-    <str id="COD_BOULDER" value="%s died of an acute lack of intact bones caused by a falling boulder."/>
-    <str id="COD_BREAK_DOOR" value="%s died of a broken neck after plunging head first against a door."/>
-    <str id="COD_FALLING_GATE" value="%s died of too many extra breathing holes caused by a falling gate."/>
-    <str id="COD_JERKED_BY_LEVER" value="%s died of a sprained back after being violently jerked by a lever."/>
-    <str id="COD_LEVER_HIT_NUTS" value="%s died of a high-pitched voice after being hit in the nuts by a lever."/>
-    <str id="COD_SHROOM_SPORES" value="%s died of poison damage resulting from inhaling mushroom spores."/>
-    <str id="COD_BOOMSHROOM" value="%s died of poison damage caused by an unstable shroom that went boom."/>
-    <str id="COD_BREAK_SIGN" value="%s died of a fractured skull after headbutting a sign."/>
-    <str id="COD_BREAK_STORAGE" value="%s died of poison damage resulting from trying to break a trapped %s."/>
-    <str id="COD_PICK_STORAGE" value="%s died of poison damage resulting from trying to pick a trapped %s."/>
-    <str id="COD_BEAR_TRAP_1" value="%s died of a mutilated leg after stepping on a bear trap."/>
-    <str id="COD_SPIKE_TRAP_1" value="%s died of a pierced artery after stepping on a spike trap."/>
-    <str id="COD_SPIKED_PIT_1" value="%s died of a pierced lung after falling down to a spiked pit."/>
-    <str id="COD_WATER_PIT_1" value="%s died of drowning after falling down to a water pit."/>
-    <str id="COD_MAGIC_TRAP_1" value="%s died of damage caused by a magic trap."/>
-    <str id="COD_BEAR_TRAP_2" value="%s died of a mutilated leg while resting on a bear trap."/>
-    <str id="COD_SPIKE_TRAP_2" value="%s died of a pierced artery while resting on a spike trap."/>
-    <str id="COD_SPIKED_PIT_2" value="%s died of a pierced lung while resting in a spiked pit."/>
-    <str id="COD_WATER_PIT_2" value="%s died of drowning while trying to escape a water pit."/>
-    <str id="COD_MAGIC_TRAP_2" value="%s died of damage caused by a magic trap."/>
-    <str id="COD_BURNING" value="%s died of fire damage caused by a potion of burning."/>
-    <str id="COD_CURSED_HEALING" value="%s died of damage caused by a cursed potion of healing."/>
-    <str id="COD_HOLY_WATER_1" value="%s died of magic damage caused by a potion of holy water."/>
-    <str id="COD_HOLY_WATER_2" value="%s died of an instant death effect caused by a potion of holy water."/>
-    <str id="COD_ENERGY_STRAIN" value="%s died of strain caused by casting a spell without energy."/>
-    <str id="COD_MISCAST" value="%s died of damage caused by a miscast spell."/>
-    <str id="COD_SPELL_DAMAGE_1" value="%s died of %s damage caused by %s own %s."/>
-    <str id="COD_SPELL_DAMAGE_2" value="%s died of %s damage caused by %s's %s."/>
-    <str id="COD_INSTANT_DEATH_1" value="%s died of an instant death effect caused by %s own %s."/>
-    <str id="COD_INSTANT_DEATH_2" value="%s died of an instant death effect caused by %s's %s."/>
-    <str id="COD_TRANSMUTE_FAIL" value="%s died of too many lost chest hairs caused by failed transmutation."/>
+    <str id="COD_RETIRE" value="%s died of old age several years after retiring from adventuring." local="隐退多年之后， %s 死于衰老。"/>
+    <str id="COD_CHEATER" value="%s died of severe anxiety caused by trying to cheat the game." local="%s 死于极其渴望在游戏中作弊。"/>
+    <str id="COD_UNKNOWN" value="%s died of, well, nobody really knows why." local="%s 死于…… 没有真的知道死因。"/>
+    <str id="COD_FAILED_JUMP" value="%s died of a cracked skull after jumping face first on the floor." local="%s 在跳跃时脸先着地，死于头骨碎裂。"/>
+    <str id="COD_SHIELD_BASH" value="%s was bashed to death by %s." local="%s 死于 %s 的猛烈一击。"/>
+    <str id="COD_LAVA_CHASM" value="%s died of a charred skin syndrome after falling down to a lava chasm." local="%s 掉落到岩浆之中，死于皮肤烧焦后的并发症。"/>
+    <str id="COD_WATER_CHASM" value="%s died of drowning after falling down to a water chasm." local="%s 掉入水坑，溺水而亡。"/>
+    <str id="COD_SOUL_GEM" value="%s died of magical damage caused by an angered soul." local="%s 被一个愤怒的灵魂发出的魔法伤害致死。"/>
+    <str id="COD_FIRE_AURA" value="%s died of a severe charring after standing too long in the flaming aura of %s." local="%s 由于站在 %s 的火场中过久而被碳化。"/>
+    <str id="COD_FROST_AURA" value="%s died of a severe frostbite after standing too long in the frozen aura of %s." local="%s 由于站在 %s 的冰场中过久而被冻死。"/>
+    <str id="COD_SHOCK_AURA" value="%s died of a heart attack after standing too long in the electric aura of %s." local="%s 由于站在 %s 的电场中过久而被电死。"/>
+    <str id="COD_POISON_AURA" value="%s died of poison vapours after standing too long in the venomous aura of %s." local="%s 由于站在 %s 的毒场中过久而毒发身亡。"/>
+    <str id="COD_DISEASE_AURA" value="%s died of cardiac arrest after standing too long in the virulent aura of %s." local="%s 由于站在 %s 的病场中过久而死于心脏病。"/>
+    <str id="COD_HATEFUL_AURA" value="%s died of damage caused by a hateful aura." local="%s 被一个可恶的力场致死。"/>
+    <str id="COD_ASPHYXIATION" value="%s died of asphyxiation caused by amulet of asphyxia" local="%s 死于窒息护符引起的窒息。"/>
+    <str id="COD_PETRIFICATION" value="%s died of petrification caused by amulet of stone form." local="%s 死于石化护符引起的石化。"/>
+    <str id="COD_CURSE_OF_AGONY" value="%s died of damage caused by curse of agony." local="%s 死于痛苦诅咒造成的伤害。"/>
+    <str id="COD_DEADLY_POISON" value="%s died of damage caused by deadly poison." local="%s 死于死亡药剂的剧毒。"/>
+    <str id="COD_LEECHING_POISON" value="%s died of damage caused by leeching poison." local="%s 死于吸血药剂造成的伤害。"/>
+    <str id="COD_BLOODY_FLUX" value="%s died of damage caused by bloody flux disease." local="%s 死于血瘟病。"/>
+    <str id="COD_BEING_ON_FIRE" value="%s died of fire damage caused by being on fire, duh!" local="%s 死于着火后的火焰伤害，咄！"/>
+    <str id="COD_BLEEDING_WOUND" value="%s died of exsanguination caused by a bleeding wound." local="%s 死于重伤后的失血。"/>
+    <str id="COD_EAT_TOO_MUCH" value="%s ate too much and choked to death." local="%s 吃的太多，胀死了。"/>
+    <str id="COD_DRINK_TOO_MUCH" value="%s drank too much and drowned to death." local="%s 喝的太多，撑死了。"/>
+    <str id="COD_HUNGER_DAMAGE" value="%s ate too little and died of hunger." local="%s 没什么吃的，饿死了。"/>
+    <str id="COD_THIRST_DAMAGE" value="%s drank too little and died of thirst." local="%s 没什么喝的，渴死了。"/>
+    <str id="COD_PENETRATION" value="%s died of a full body tentacle penetration of the worst kind." local="%s 全身被触须穿透而亡。"/>
+    <str id="COD_REFLECTION" value="%s was killed by %s own attack that was reflected back by %s." local="%s 被 %s 自己的 %s 反弹而死。"/>
+    <str id="COD_KILLED_BY" value="%s was killed by %s." local="%s 被 %s 杀死。"/>
+    <str id="COD_BOULDER" value="%s died of an acute lack of intact bones caused by a falling boulder." local="%s 被一块大石头落下砸为肉饼。"/>
+    <str id="COD_BREAK_DOOR" value="%s died of a broken neck after plunging head first against a door." local="%s 用头撞门，结果脖子骨折。"/>
+    <str id="COD_FALLING_GATE" value="%s died of too many extra breathing holes caused by a falling gate." local="掉落的大门在 %s 的脸上多穿了几个呼吸孔。"/>
+    <str id="COD_JERKED_BY_LEVER" value="%s died of a sprained back after being violently jerked by a lever." local="%s 猛拉杠杆，结果严重扭伤了背肌而死。"/>
+    <str id="COD_LEVER_HIT_NUTS" value="%s died of a high-pitched voice after being hit in the nuts by a lever." local="杠杆击中螺母发出的啸叫音杀死了 %s 。"/>
+    <str id="COD_SHROOM_SPORES" value="%s died of poison damage resulting from inhaling mushroom spores." local="%s 因吸入蘑菇孢子而中毒死亡。"/>
+    <str id="COD_BOOMSHROOM" value="%s died of poison damage caused by an unstable shroom that went boom." local="%s 死于不稳定蘑菇的爆炸所造成的中毒。"/>
+    <str id="COD_BREAK_SIGN" value="%s died of a fractured skull after headbutting a sign." local="%s 的头撞到了指示牌，头骨骨折。"/>
+    <str id="COD_BREAK_STORAGE" value="%s died of poison damage resulting from trying to break a trapped %s." local="%s 在试图破坏陷阱 %s 时，中毒身亡。"/>
+    <str id="COD_PICK_STORAGE" value="%s died of poison damage resulting from trying to pick a trapped %s." local="%s 在试图拆除陷阱 %s 时，中毒身亡。"/>
+    <str id="COD_BEAR_TRAP_1" value="%s died of a mutilated leg after stepping on a bear trap." local="%s 在踩到捕熊器后，因腿部重伤而死。"/>
+    <str id="COD_SPIKE_TRAP_1" value="%s died of a pierced artery after stepping on a spike trap." local="%s 踩到尖刺陷阱，刺穿了动脉。"/>
+    <str id="COD_SPIKED_PIT_1" value="%s died of a pierced lung after falling down to a spiked pit." local="%s 掉进尖刺坑，肺部被刺穿。"/>
+    <str id="COD_WATER_PIT_1" value="%s died of drowning after falling down to a water pit." local="%s 掉进一个水坑，溺水身亡。"/>
+    <str id="COD_MAGIC_TRAP_1" value="%s died of damage caused by a magic trap." local="%s 被一个魔法陷阱造成的伤害致死。"/>
+    <str id="COD_BEAR_TRAP_2" value="%s died of a mutilated leg while resting on a bear trap." local="%s 在一个捕熊器上休息，腿部不幸被夹住，重伤而亡。"/>
+    <str id="COD_SPIKE_TRAP_2" value="%s died of a pierced artery while resting on a spike trap." local="%s 在一个尖刺陷阱上休息，动脉被刺穿。"/>
+    <str id="COD_SPIKED_PIT_2" value="%s died of a pierced lung while resting in a spiked pit." local="%s 在一个尖刺坑中休息，肺部被刺穿。"/>
+    <str id="COD_WATER_PIT_2" value="%s died of drowning while trying to escape a water pit." local="%s 在尝试爬出一个水坑时溺水身亡。"/>
+    <str id="COD_MAGIC_TRAP_2" value="%s died of damage caused by a magic trap." local="%s 被一个魔法陷阱造成的伤害致死。"/>
+    <str id="COD_BURNING" value="%s died of fire damage caused by a potion of burning." local="%s 被燃烧药剂造成的火焰伤害致死。"/>
+    <str id="COD_CURSED_HEALING" value="%s died of damage caused by a cursed potion of healing." local="%s 死于一瓶被诅咒的治疗药剂。"/>
+    <str id="COD_HOLY_WATER_1" value="%s died of magic damage caused by a potion of holy water." local="%s 死于一瓶圣水造成的魔法伤害。"/>
+    <str id="COD_HOLY_WATER_2" value="%s died of an instant death effect caused by a potion of holy water." local="%s 死于一瓶圣水造成的即死效果。"/>
+    <str id="COD_ENERGY_STRAIN" value="%s died of strain caused by casting a spell without energy." local="%s 在没有精力时释放法术，力竭而亡。"/>
+    <str id="COD_MISCAST" value="%s died of damage caused by a miscast spell." local="%s 死于释放法术的误伤。"/>
+    <str id="COD_SPELL_DAMAGE_1" value="%s died of %s damage caused by %s own %s." local="%s 死于 %s 伤害，它是 %s 自己的 %s 造成的。"/>
+    <str id="COD_SPELL_DAMAGE_2" value="%s died of %s damage caused by %s's %s." local="%s 死于 %s 伤害，它是 %s 的 %s 造成的。"/>
+    <str id="COD_INSTANT_DEATH_1" value="%s died of an instant death effect caused by %s own %s." local="%s 死于即死效果，它是 %s 自己的 %s 造成的。"/>
+    <str id="COD_INSTANT_DEATH_2" value="%s died of an instant death effect caused by %s's %s." local="%s 死于即死效果，它是 %s 的 %s 造成的。"/>
+    <str id="COD_TRANSMUTE_FAIL" value="%s died of too many lost chest hairs caused by failed transmutation." local="%s 的点金术失败，胸毛掉落太多而死。"/>
   </CauseOfDeath>
   <DamageTypes>
     <str id="physical" value="physical" local="物理"/>
@@ -3151,44 +3151,44 @@
     <str id="bleed" value="bleed" local="流血"/>
   </DamageTypes>
   <Achievements>
-    <str id="You have returned a schematic titled '%s'!" value="You have returned a schematic titled '%s'!"/>
-    <str id="You have unlocked '%s' heritage!" value="You have unlocked '%s' heritage!"/>
-    <str id="You have completed '%s' challenge!" value="You have completed '%s' challenge!"/>
-    <str id="You have cleared the dungeon!" value="You have cleared the dungeon!"/>
-    <str id="You have cleared the dungeon but you are not alone!" value="You have cleared the dungeon but you are not alone!"/>
-    <str id="Arnold from Black Field" value="Arnold from Black Field"/>
-    <str id="Bruce from Helm's Keep" value="Bruce from Helm's Keep"/>
-    <str id="Dolph the Grove Dweller" value="Dolph the Grove Dweller"/>
-    <str id="Jason from Wharf Manor" value="Jason from Wharf Manor"/>
-    <str id="Jeanne from Cloudy Dam" value="Jeanne from Cloudy Dam"/>
-    <str id="Lyman the Pandamonium" value="Lyman the Pandamonium"/>
-    <str id="Norris the Chuckler" value="Norris the Chuckler"/>
-    <str id="Randy the Dressmaker" value="Randy the Dressmaker"/>
-    <str id="Sylvie the Tall One" value="Sylvie the Tall One"/>
-    <str id="Currently known: %d/%d" value="Currently known: %d/%d"/>
-    <str id="Current score: %d" value="Current score: %d"/>
-    <str id="Items donated: %d/%d" value="Items donated: %d/%d"/>
-    <str id="I love pink" value="I love pink"/>
-    <str id="Yes" value="Yes"/>
-    <str id="No" value="No"/>
-    <str id="I offer my dungeon to you" value="I offer my dungeon to you"/>
-    <str id="Everything in life is luck" value="Everything in life is luck"/>
-    <str id="Store %d or more gold coins." value="Store %d or more gold coins."/>
-    <str id="Spend until you have 0 gold." value="Spend until you have 0 gold."/>
-    <str id="Empty your backpack and reset dungeon with 0 gold." value="Empty your backpack and reset dungeon with 0 gold."/>
-    <str id="Store %d or more gold coins." value="Store %d or more gold coins."/>
-    <str id="Type &quot;%s&quot;." value="Type &quot;%s&quot;."/>
-    <str id="I'm over 9 inches" value="I'm over 9 inches"/>
-    <str id="Reach level 18 or higher." value="Reach level 18 or higher."/>
-    <str id="Find a %s." value="Find a %s."/>
-    <str id="Slay enough trolls." value="Slay enough trolls."/>
-    <str id="Not enough" value="Not enough"/>
-    <str id="Enough" value="Enough"/>
-    <str id="Almost there" value="Almost there"/>
-    <str id="Just a few more" value="Just a few more"/>
-    <str id="Getting there" value="Getting there"/>
-    <str id="Keep going" value="Keep going"/>
-    <str id="Good start" value="Good start"/>
+    <str id="You have returned a schematic titled '%s'!" value="You have returned a schematic titled '%s'!" local="你归还了一张题为 '%s' 的图纸！"/>
+    <str id="You have unlocked '%s' heritage!" value="You have unlocked '%s' heritage!" local="你解锁了 '%s' 遗产！"/>
+    <str id="You have completed '%s' challenge!" value="You have completed '%s' challenge!" local="你完成了 '%s' 挑战！"/>
+    <str id="You have cleared the dungeon!" value="You have cleared the dungeon!" local="你清空了地牢！"/>
+    <str id="You have cleared the dungeon but you are not alone!" value="You have cleared the dungeon but you are not alone!" local="你清空了地牢，但你并不孤单！"/>
+    <str id="Arnold from Black Field" value="Arnold from Black Field" local="黑色领域的阿诺德"/>
+    <str id="Bruce from Helm's Keep" value="Bruce from Helm's Keep" local="海尔姆堡的布鲁斯"/>
+    <str id="Dolph the Grove Dweller" value="Dolph the Grove Dweller" local="多尔夫的格鲁夫土著"/>
+    <str id="Jason from Wharf Manor" value="Jason from Wharf Manor" local="码头庄园的杰森"/>
+    <str id="Jeanne from Cloudy Dam" value="Jeanne from Cloudy Dam" local="云坝的珍妮"/>
+    <str id="Lyman the Pandamonium" value="Lyman the Pandamonium" local="功夫大师莱曼"/>
+    <str id="Norris the Chuckler" value="Norris the Chuckler" local="微笑的诺里斯"/>
+    <str id="Randy the Dressmaker" value="Randy the Dressmaker" local="裁缝兰迪"/>
+    <str id="Sylvie the Tall One" value="Sylvie the Tall One" local="高个的西尔维"/>
+    <str id="Currently known: %d/%d" value="Currently known: %d/%d" local="当前知晓：%d/%d"/>
+    <str id="Current score: %d" value="Current score: %d" local="当前分数：%d"/>
+    <str id="Items donated: %d/%d" value="Items donated: %d/%d" local="物品已捐献：%d/%d"/>
+    <str id="I love pink" value="I love pink" local="我喜欢粉色"/>
+    <str id="Yes" value="Yes" local="是"/>
+    <str id="No" value="No" local="不"/>
+    <str id="I offer my dungeon to you" value="I offer my dungeon to you" local="我把我的地牢给你"/>
+    <str id="Everything in life is luck" value="Everything in life is luck" local="运气就是生命的一切"/>
+    <str id="Store %d or more gold coins." value="Store %d or more gold coins." local="存下 %d 或更多的金币。"/>
+    <str id="Spend until you have 0 gold." value="Spend until you have 0 gold." local="花到你只剩 0 金币。"/>
+    <str id="Empty your backpack and reset dungeon with 0 gold." value="Empty your backpack and reset dungeon with 0 gold." local="将你的背包清空，一个金币都不留，重置地牢。"/>
+    <str id="Store %d or more gold coins." value="Store %d or more gold coins." local="存下 %d 或更多的金币。"/>
+    <str id="Type &quot;%s&quot;." value="Type &quot;%s&quot;." local="输入 &quot;%s&quot; 。"/>
+    <str id="I'm over 9 inches" value="I'm over 9 inches" local="我超过了 23 厘米。"/>
+    <str id="Reach level 18 or higher." value="Reach level 18 or higher." local="达到 18 级或更高等级。"/>
+    <str id="Find a %s." value="Find a %s." local="找到一件 %s。"/>
+    <str id="Slay enough trolls." value="Slay enough trolls." local="干掉足够多的巨魔。"/>
+    <str id="Not enough" value="Not enough" local="还不够"/>
+    <str id="Enough" value="Enough" local="足够的"/>
+    <str id="Almost there" value="Almost there" local="几乎达到"/>
+    <str id="Just a few more" value="Just a few more" local="还差一点"/>
+    <str id="Getting there" value="Getting there" local="到了"/>
+    <str id="Keep going" value="Keep going" local="继续"/>
+    <str id="Good start" value="Good start" local="开了个好头"/>
   </Achievements>
   <TutorialNames>
     <str id="Introduction 1" value="Introduction 1" local="入门 1"/>
@@ -3319,7 +3319,7 @@
     <str id="Arcane Mastery" value="Arcane Mastery" local="奥术专精"/>
     <str id="Bestial Mastery" value="Bestial Mastery" local="兽性专精"/>
     <str id="Abyssal Mastery" value="Abyssal Mastery" local="深渊专精"/>
-    <str id="Amulet Knowledge" value="Amulet Knowledge" local="护身符知识"/>
+    <str id="Amulet Knowledge" value="Amulet Knowledge" local="护符知识"/>
     <str id="Ring Knowledge" value="Ring Knowledge" local="戒指知识"/>
     <str id="Wand Knowledge" value="Wand Knowledge" local="魔杖知识"/>
     <str id="Scroll Knowledge" value="Scroll Knowledge" local="卷轴知识"/>
@@ -4430,35 +4430,35 @@
     <str id="CAN_LEARN_TALENT_DESC" value="You can learn a talent now. Find a trainer or use one of the trainer tiles (altar, dummy, fireplace, target, well or totem)."/>
   </EffectAnim>
   <DeathScreen>
-    <str id="KING_SCREEN_STORY" value="As you place the crown on your head, whispers start hearing in the hallways growing stronger with every breath you take:">
-      <str id="paragraph 1" value="&quot;The %s is dead. Long live the %s!&quot;"/>
-      <str id="paragraph 2" value="You have defeated %s in a fair challenge and you are now the rightful ruler of Frostmourn."/>
-      <str id="paragraph 3" value="According to the ancient laws, it is now your right to have your way with the servants in any way that pleases you."/>
-      <str id="paragraph 4" value="Should you become bored or there's animosity amongst your people, you can always throw a few peasants down from the walls."/>
-      <str id="paragraph 5" value="Be as it may, you are now ready for the test of leadership..."/>
+    <str id="KING_SCREEN_STORY" value="As you place the crown on your head, whispers start hearing in the hallways growing stronger with every breath you take:" local="随着你把王冠戴在头上，走廊里的窃窃私语伴随着你每一次呼吸越发清晰入耳：">
+      <str id="paragraph 1" value="&quot;The %s is dead. Long live the %s!&quot;" local="&quot;%s 已死。%s 万岁！&quot;"/>
+      <str id="paragraph 2" value="You have defeated %s in a fair challenge and you are now the rightful ruler of Frostmourn." local="你在一次公平挑战中击败了 %s ，现在你成为了霜之哀伤的合法统治者。"/>
+      <str id="paragraph 3" value="According to the ancient laws, it is now your right to have your way with the servants in any way that pleases you." local="估计古代的律法，现在你有权力对你的侍从做任何事，让他们用你喜欢的方式侍奉你。"/>
+      <str id="paragraph 4" value="Should you become bored or there's animosity amongst your people, you can always throw a few peasants down from the walls." local="如果你感到无聊或者你发觉你的人民对你有敌意，你可以把一些农民从墙上扔下去。"/>
+      <str id="paragraph 5" value="Be as it may, you are now ready for the test of leadership..." local="既然如此，现在可以开始对你的领导力做点测试了……"/>
     </str>
-    <str id="KING_SCREEN_SUMMARY" value="Here stands %s the %s.">
-      <str id="paragraph 1" value="%s managed to hoard a total of %d gold coins during those %d turns %s quest lasted."/>
+    <str id="KING_SCREEN_SUMMARY" value="Here stands %s the %s." local="站在这里的是 %s %s。">
+      <str id="paragraph 1" value="%s managed to hoard a total of %d gold coins during those %d turns %s quest lasted." local="%s 囤积了总共 %d 枚金币，经历了 %d 回合，完成了 %s 个任务。"/>
     </str>
-    <str id="DEATH_SCREEN_SUMMARY" value="Here lies %s, %s of %s.">
-      <str id="paragraph 1" value="%s %s managed to hoard a total of %d gold coins during those %d turns %s journey lasted."/>
+    <str id="DEATH_SCREEN_SUMMARY" value="Here lies %s, %s of %s." local="躺在这里的是 %s ，%s ，%s。">
+      <str id="paragraph 1" value="%s %s managed to hoard a total of %d gold coins during those %d turns %s journey lasted." local="%s %s 囤积了总共 %d 枚金币，经历了 %d 回合直到 %s 的旅程结束。"/>
     </str>
-    <str id="zero talent" value="zero talent"/>
-    <str id="negligible talent" value="negligible talent"/>
-    <str id="trivial talent" value="trivial talent"/>
-    <str id="limited talent" value="limited talent"/>
-    <str id="equitable talent" value="equitable talent"/>
-    <str id="considerable talent" value="considerable talent"/>
-    <str id="remarkable talent" value="remarkable talent"/>
-    <str id="extraordinary talent" value="extraordinary talent"/>
-    <str id="SCORE:" value="SCORE:"/>
-    <str id="ABILITIES:" value="ABILITIES:"/>
-    <str id="RESISTANCES:" value="RESISTANCES:"/>
-    <str id="EQUIPMENT:" value="EQUIPMENT:"/>
-    <str id="INVENTORY:" value="INVENTORY:"/>
-    <str id="SPELLS:" value="SPELLS:"/>
-    <str id="TALENTS:" value="TALENTS:"/>
-    <str id="KNOWLEDGE:" value="KNOWLEDGE:"/>
+    <str id="zero talent" value="zero talent" local="毫无天赋"/>
+    <str id="negligible talent" value="negligible talent" local="几乎没有天赋"/>
+    <str id="trivial talent" value="trivial talent" local="天赋微薄"/>
+    <str id="limited talent" value="limited talent" local="天赋有限"/>
+    <str id="equitable talent" value="equitable talent" local="天赋平庸"/>
+    <str id="considerable talent" value="considerable talent" local="天赋异禀"/>
+    <str id="remarkable talent" value="remarkable talent" local="天赋卓越"/>
+    <str id="extraordinary talent" value="extraordinary talent" local="超凡入圣"/>
+    <str id="SCORE:" value="SCORE:" local="得分："/>
+    <str id="ABILITIES:" value="ABILITIES:" local="能力："/>
+    <str id="RESISTANCES:" value="RESISTANCES:" local="抗性："/>
+    <str id="EQUIPMENT:" value="EQUIPMENT:" local="装备："/>
+    <str id="INVENTORY:" value="INVENTORY:" local="物品："/>
+    <str id="SPELLS:" value="SPELLS:" local="法术："/>
+    <str id="TALENTS:" value="TALENTS:" local="天赋："/>
+    <str id="KNOWLEDGE:" value="KNOWLEDGE:" local="知识："/>
   </DeathScreen>
   <HeroScreen>
     <str id="Name" value="Name" local="名字"/>

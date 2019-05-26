@@ -1826,7 +1826,7 @@ PotionNames."Potion of Burning" 燃烧药剂
 PotionNames."Potion of Charming" 魅惑药剂
 PotionNames."Potion of Confusion" 混乱药剂
 PotionNames."Potion of Deafness" 致聋药剂
-PotionNames."Potion of Death" 剧毒药剂
+PotionNames."Potion of Death" 死亡药剂
 PotionNames."Potion of Draining" 噬精药剂
 PotionNames."Potion of Energy" 精力药剂
 PotionNames."Potion of Healing" 治疗药剂
@@ -2582,15 +2582,15 @@ CreatureNames."Undead archer" 亡灵射手
 CreatureNames."Undead mage" 亡灵法师
 CreatureNames."Undead captain" 亡灵队长
 CreatureNames."Ghost" 鬼魂
-CreatureNames."Ghost of Arnold" Ghost of Arnold
-CreatureNames."Ghost of Bruce" Ghost of Bruce
-CreatureNames."Ghost of Dolph" Ghost of Dolph
-CreatureNames."Ghost of Jason" Ghost of Jason
-CreatureNames."Ghost of Jeanne" Ghost of Jeanne
-CreatureNames."Ghost of Lyman" Ghost of Lyman
-CreatureNames."Ghost of Norris" Ghost of Norris
-CreatureNames."Ghost of Randy" Ghost of Randy
-CreatureNames."Ghost of Sylvie" Ghost of Sylvie
+CreatureNames."Ghost of Arnold" 阿诺德的鬼魂
+CreatureNames."Ghost of Bruce" 布鲁斯的鬼魂
+CreatureNames."Ghost of Dolph" 多尔夫的鬼魂
+CreatureNames."Ghost of Jason" 杰森的鬼魂
+CreatureNames."Ghost of Jeanne" 珍妮的鬼魂
+CreatureNames."Ghost of Lyman" 莱曼的鬼魂
+CreatureNames."Ghost of Norris" 诺里斯的鬼魂
+CreatureNames."Ghost of Randy" 兰迪的鬼魂
+CreatureNames."Ghost of Sylvie" 西尔维的鬼魂
 CreatureNames."Immortal" 不朽者
 CreatureLogs."You have gained a friend." You have gained a friend.
 CreatureLogs."You have lost a friend." You have lost a friend.
@@ -2855,66 +2855,66 @@ RIPTitles."Stream" 小溪
 RIPTitles."Town" 城镇
 RIPTitles."Valley" 山谷
 RIPTitles."Well" 水井
-CauseOfDeath."COD_RETIRE" %s died of old age several years after retiring from adventuring.
-CauseOfDeath."COD_CHEATER" %s died of severe anxiety caused by trying to cheat the game.
-CauseOfDeath."COD_UNKNOWN" %s died of, well, nobody really knows why.
-CauseOfDeath."COD_FAILED_JUMP" %s died of a cracked skull after jumping face first on the floor.
-CauseOfDeath."COD_SHIELD_BASH" %s was bashed to death by %s.
-CauseOfDeath."COD_LAVA_CHASM" %s died of a charred skin syndrome after falling down to a lava chasm.
-CauseOfDeath."COD_WATER_CHASM" %s died of drowning after falling down to a water chasm.
-CauseOfDeath."COD_SOUL_GEM" %s died of magical damage caused by an angered soul.
-CauseOfDeath."COD_FIRE_AURA" %s died of a severe charring after standing too long in the flaming aura of %s.
-CauseOfDeath."COD_FROST_AURA" %s died of a severe frostbite after standing too long in the frozen aura of %s.
-CauseOfDeath."COD_SHOCK_AURA" %s died of a heart attack after standing too long in the electric aura of %s.
-CauseOfDeath."COD_POISON_AURA" %s died of poison vapours after standing too long in the venomous aura of %s.
-CauseOfDeath."COD_DISEASE_AURA" %s died of cardiac arrest after standing too long in the virulent aura of %s.
-CauseOfDeath."COD_HATEFUL_AURA" %s died of damage caused by a hateful aura.
-CauseOfDeath."COD_ASPHYXIATION" %s died of asphyxiation caused by amulet of asphyxia
-CauseOfDeath."COD_PETRIFICATION" %s died of petrification caused by amulet of stone form.
-CauseOfDeath."COD_CURSE_OF_AGONY" %s died of damage caused by curse of agony.
-CauseOfDeath."COD_DEADLY_POISON" %s died of damage caused by deadly poison.
-CauseOfDeath."COD_LEECHING_POISON" %s died of damage caused by leeching poison.
-CauseOfDeath."COD_BLOODY_FLUX" %s died of damage caused by bloody flux disease.
-CauseOfDeath."COD_BEING_ON_FIRE" %s died of fire damage caused by being on fire, duh!
-CauseOfDeath."COD_BLEEDING_WOUND" %s died of exsanguination caused by a bleeding wound.
-CauseOfDeath."COD_EAT_TOO_MUCH" %s ate too much and choked to death.
-CauseOfDeath."COD_DRINK_TOO_MUCH" %s drank too much and drowned to death.
-CauseOfDeath."COD_HUNGER_DAMAGE" %s ate too little and died of hunger.
-CauseOfDeath."COD_THIRST_DAMAGE" %s drank too little and died of thirst.
-CauseOfDeath."COD_PENETRATION" %s died of a full body tentacle penetration of the worst kind.
-CauseOfDeath."COD_REFLECTION" %s was killed by %s own attack that was reflected back by %s.
-CauseOfDeath."COD_KILLED_BY" %s was killed by %s.
-CauseOfDeath."COD_BOULDER" %s died of an acute lack of intact bones caused by a falling boulder.
-CauseOfDeath."COD_BREAK_DOOR" %s died of a broken neck after plunging head first against a door.
-CauseOfDeath."COD_FALLING_GATE" %s died of too many extra breathing holes caused by a falling gate.
-CauseOfDeath."COD_JERKED_BY_LEVER" %s died of a sprained back after being violently jerked by a lever.
-CauseOfDeath."COD_LEVER_HIT_NUTS" %s died of a high-pitched voice after being hit in the nuts by a lever.
-CauseOfDeath."COD_SHROOM_SPORES" %s died of poison damage resulting from inhaling mushroom spores.
-CauseOfDeath."COD_BOOMSHROOM" %s died of poison damage caused by an unstable shroom that went boom.
-CauseOfDeath."COD_BREAK_SIGN" %s died of a fractured skull after headbutting a sign.
-CauseOfDeath."COD_BREAK_STORAGE" %s died of poison damage resulting from trying to break a trapped %s.
-CauseOfDeath."COD_PICK_STORAGE" %s died of poison damage resulting from trying to pick a trapped %s.
-CauseOfDeath."COD_BEAR_TRAP_1" %s died of a mutilated leg after stepping on a bear trap.
-CauseOfDeath."COD_SPIKE_TRAP_1" %s died of a pierced artery after stepping on a spike trap.
-CauseOfDeath."COD_SPIKED_PIT_1" %s died of a pierced lung after falling down to a spiked pit.
-CauseOfDeath."COD_WATER_PIT_1" %s died of drowning after falling down to a water pit.
-CauseOfDeath."COD_MAGIC_TRAP_1" %s died of damage caused by a magic trap.
-CauseOfDeath."COD_BEAR_TRAP_2" %s died of a mutilated leg while resting on a bear trap.
-CauseOfDeath."COD_SPIKE_TRAP_2" %s died of a pierced artery while resting on a spike trap.
-CauseOfDeath."COD_SPIKED_PIT_2" %s died of a pierced lung while resting in a spiked pit.
-CauseOfDeath."COD_WATER_PIT_2" %s died of drowning while trying to escape a water pit.
-CauseOfDeath."COD_MAGIC_TRAP_2" %s died of damage caused by a magic trap.
-CauseOfDeath."COD_BURNING" %s died of fire damage caused by a potion of burning.
-CauseOfDeath."COD_CURSED_HEALING" %s died of damage caused by a cursed potion of healing.
-CauseOfDeath."COD_HOLY_WATER_1" %s died of magic damage caused by a potion of holy water.
-CauseOfDeath."COD_HOLY_WATER_2" %s died of an instant death effect caused by a potion of holy water.
-CauseOfDeath."COD_ENERGY_STRAIN" %s died of strain caused by casting a spell without energy.
-CauseOfDeath."COD_MISCAST" %s died of damage caused by a miscast spell.
-CauseOfDeath."COD_SPELL_DAMAGE_1" %s died of %s damage caused by %s own %s.
-CauseOfDeath."COD_SPELL_DAMAGE_2" %s died of %s damage caused by %s's %s.
-CauseOfDeath."COD_INSTANT_DEATH_1" %s died of an instant death effect caused by %s own %s.
-CauseOfDeath."COD_INSTANT_DEATH_2" %s died of an instant death effect caused by %s's %s.
-CauseOfDeath."COD_TRANSMUTE_FAIL" %s died of too many lost chest hairs caused by failed transmutation.
+CauseOfDeath."COD_RETIRE" 隐退多年之后， %s 死于衰老。
+CauseOfDeath."COD_CHEATER" %s 死于极其渴望在游戏中作弊。
+CauseOfDeath."COD_UNKNOWN" %s 死于…… 没有真的知道死因。
+CauseOfDeath."COD_FAILED_JUMP" %s 在跳跃时脸先着地，死于头骨碎裂。
+CauseOfDeath."COD_SHIELD_BASH" %s 死于 %s 的猛烈一击。
+CauseOfDeath."COD_LAVA_CHASM" %s 掉落到岩浆之中，死于皮肤烧焦后的并发症。
+CauseOfDeath."COD_WATER_CHASM" %s 掉入水坑，溺水而亡。
+CauseOfDeath."COD_SOUL_GEM" %s 被一个愤怒的灵魂发出的魔法伤害致死。
+CauseOfDeath."COD_FIRE_AURA" %s 由于站在 %s 的火场中过久而被碳化。
+CauseOfDeath."COD_FROST_AURA" %s 由于站在 %s 的冰场中过久而被冻死。
+CauseOfDeath."COD_SHOCK_AURA" %s 由于站在 %s 的电场中过久而被电死。
+CauseOfDeath."COD_POISON_AURA" %s 由于站在 %s 的毒场中过久而毒发身亡。
+CauseOfDeath."COD_DISEASE_AURA" %s 由于站在 %s 的病场中过久而死于心脏病。
+CauseOfDeath."COD_HATEFUL_AURA" %s 被一个可恶的力场致死。
+CauseOfDeath."COD_ASPHYXIATION" %s 死于窒息护符引起的窒息。
+CauseOfDeath."COD_PETRIFICATION" %s 死于石化护符引起的石化。
+CauseOfDeath."COD_CURSE_OF_AGONY" %s 死于痛苦诅咒造成的伤害。
+CauseOfDeath."COD_DEADLY_POISON" %s 死于死亡药剂的剧毒。
+CauseOfDeath."COD_LEECHING_POISON" %s 死于吸血药剂造成的伤害。
+CauseOfDeath."COD_BLOODY_FLUX" %s 死于血瘟病。
+CauseOfDeath."COD_BEING_ON_FIRE" %s 死于着火后的火焰伤害，咄！
+CauseOfDeath."COD_BLEEDING_WOUND" %s 死于重伤后的失血。
+CauseOfDeath."COD_EAT_TOO_MUCH" %s 吃的太多，胀死了。
+CauseOfDeath."COD_DRINK_TOO_MUCH" %s 喝的太多，撑死了。
+CauseOfDeath."COD_HUNGER_DAMAGE" %s 没什么吃的，饿死了。
+CauseOfDeath."COD_THIRST_DAMAGE" %s 没什么喝的，渴死了。
+CauseOfDeath."COD_PENETRATION" %s 全身被触须穿透而亡。
+CauseOfDeath."COD_REFLECTION" %s 被 %s 自己的 %s 反弹而死。
+CauseOfDeath."COD_KILLED_BY" %s 被 %s 杀死。
+CauseOfDeath."COD_BOULDER" %s 被一块大石头落下砸为肉饼。
+CauseOfDeath."COD_BREAK_DOOR" %s 用头撞门，结果脖子骨折。
+CauseOfDeath."COD_FALLING_GATE" 掉落的大门在 %s 的脸上多穿了几个呼吸孔。
+CauseOfDeath."COD_JERKED_BY_LEVER" %s 猛拉杠杆，结果严重扭伤了背肌而死。
+CauseOfDeath."COD_LEVER_HIT_NUTS" 杠杆击中螺母发出的啸叫音杀死了 %s 。
+CauseOfDeath."COD_SHROOM_SPORES" %s 因吸入蘑菇孢子而中毒死亡。
+CauseOfDeath."COD_BOOMSHROOM" %s 死于不稳定蘑菇的爆炸所造成的中毒。
+CauseOfDeath."COD_BREAK_SIGN" %s 的头撞到了指示牌，头骨骨折。
+CauseOfDeath."COD_BREAK_STORAGE" %s 在试图破坏陷阱 %s 时，中毒身亡。
+CauseOfDeath."COD_PICK_STORAGE" %s 在试图拆除陷阱 %s 时，中毒身亡。
+CauseOfDeath."COD_BEAR_TRAP_1" %s 在踩到捕熊器后，因腿部重伤而死。
+CauseOfDeath."COD_SPIKE_TRAP_1" %s 踩到尖刺陷阱，刺穿了动脉。
+CauseOfDeath."COD_SPIKED_PIT_1" %s 掉进尖刺坑，肺部被刺穿。
+CauseOfDeath."COD_WATER_PIT_1" %s 掉进一个水坑，溺水身亡。
+CauseOfDeath."COD_MAGIC_TRAP_1" %s 被一个魔法陷阱造成的伤害致死。
+CauseOfDeath."COD_BEAR_TRAP_2" %s 在一个捕熊器上休息，腿部不幸被夹住，重伤而亡。
+CauseOfDeath."COD_SPIKE_TRAP_2" %s 在一个尖刺陷阱上休息，动脉被刺穿。
+CauseOfDeath."COD_SPIKED_PIT_2" %s 在一个尖刺坑中休息，肺部被刺穿。
+CauseOfDeath."COD_WATER_PIT_2" %s 在尝试爬出一个水坑时溺水身亡。
+CauseOfDeath."COD_MAGIC_TRAP_2" %s 被一个魔法陷阱造成的伤害致死。
+CauseOfDeath."COD_BURNING" %s 被燃烧药剂造成的火焰伤害致死。
+CauseOfDeath."COD_CURSED_HEALING" %s 死于一瓶被诅咒的治疗药剂。
+CauseOfDeath."COD_HOLY_WATER_1" %s 死于一瓶圣水造成的魔法伤害。
+CauseOfDeath."COD_HOLY_WATER_2" %s 死于一瓶圣水造成的即死效果。
+CauseOfDeath."COD_ENERGY_STRAIN" %s 在没有精力时释放法术，力竭而亡。
+CauseOfDeath."COD_MISCAST" %s 死于释放法术的误伤。
+CauseOfDeath."COD_SPELL_DAMAGE_1" %s 死于 %s 伤害，它是 %s 自己的 %s 造成的。
+CauseOfDeath."COD_SPELL_DAMAGE_2" %s 死于 %s 伤害，它是 %s 的 %s 造成的。
+CauseOfDeath."COD_INSTANT_DEATH_1" %s 死于即死效果，它是 %s 自己的 %s 造成的。
+CauseOfDeath."COD_INSTANT_DEATH_2" %s 死于即死效果，它是 %s 的 %s 造成的。
+CauseOfDeath."COD_TRANSMUTE_FAIL" %s 的点金术失败，胸毛掉落太多而死。
 DamageTypes."physical" 物理
 DamageTypes."fire" 火焰
 DamageTypes."frost" 冰霜
@@ -2926,44 +2926,44 @@ DamageTypes."elemental" 元素
 DamageTypes."crush" 粉碎
 DamageTypes."fall" 跌落
 DamageTypes."bleed" 流血
-Achievements."You have returned a schematic titled '%s'!" You have returned a schematic titled '%s'!
-Achievements."You have unlocked '%s' heritage!" You have unlocked '%s' heritage!
-Achievements."You have completed '%s' challenge!" You have completed '%s' challenge!
-Achievements."You have cleared the dungeon!" You have cleared the dungeon!
-Achievements."You have cleared the dungeon but you are not alone!" You have cleared the dungeon but you are not alone!
-Achievements."Arnold from Black Field" Arnold from Black Field
-Achievements."Bruce from Helm's Keep" Bruce from Helm's Keep
-Achievements."Dolph the Grove Dweller" Dolph the Grove Dweller
-Achievements."Jason from Wharf Manor" Jason from Wharf Manor
-Achievements."Jeanne from Cloudy Dam" Jeanne from Cloudy Dam
-Achievements."Lyman the Pandamonium" Lyman the Pandamonium
-Achievements."Norris the Chuckler" Norris the Chuckler
-Achievements."Randy the Dressmaker" Randy the Dressmaker
-Achievements."Sylvie the Tall One" Sylvie the Tall One
-Achievements."Currently known: %d/%d" Currently known: %d/%d
-Achievements."Current score: %d" Current score: %d
-Achievements."Items donated: %d/%d" Items donated: %d/%d
-Achievements."I love pink" I love pink
-Achievements."Yes" Yes
-Achievements."No" No
-Achievements."I offer my dungeon to you" I offer my dungeon to you
-Achievements."Everything in life is luck" Everything in life is luck
-Achievements."Store %d or more gold coins." Store %d or more gold coins.
-Achievements."Spend until you have 0 gold." Spend until you have 0 gold.
-Achievements."Empty your backpack and reset dungeon with 0 gold." Empty your backpack and reset dungeon with 0 gold.
-Achievements."Store %d or more gold coins." Store %d or more gold coins.
-Achievements."Type &quot;%s&quot;." Type &quot;%s&quot;.
-Achievements."I'm over 9 inches" I'm over 9 inches
-Achievements."Reach level 18 or higher." Reach level 18 or higher.
-Achievements."Find a %s." Find a %s.
-Achievements."Slay enough trolls." Slay enough trolls.
-Achievements."Not enough" Not enough
-Achievements."Enough" Enough
-Achievements."Almost there" Almost there
-Achievements."Just a few more" Just a few more
-Achievements."Getting there" Getting there
-Achievements."Keep going" Keep going
-Achievements."Good start" Good start
+Achievements."You have returned a schematic titled '%s'!" 你归还了一张题为 '%s' 的图纸！
+Achievements."You have unlocked '%s' heritage!" 你解锁了 '%s' 遗产！
+Achievements."You have completed '%s' challenge!" 你完成了 '%s' 挑战！
+Achievements."You have cleared the dungeon!" 你清空了地牢！
+Achievements."You have cleared the dungeon but you are not alone!" 你清空了地牢，但你并不孤单！
+Achievements."Arnold from Black Field" 黑色领域的阿诺德
+Achievements."Bruce from Helm's Keep" 海尔姆堡的布鲁斯
+Achievements."Dolph the Grove Dweller" 多尔夫的格鲁夫土著
+Achievements."Jason from Wharf Manor" 码头庄园的杰森
+Achievements."Jeanne from Cloudy Dam" 云坝的珍妮
+Achievements."Lyman the Pandamonium" 功夫大师莱曼
+Achievements."Norris the Chuckler" 微笑的诺里斯
+Achievements."Randy the Dressmaker" 裁缝兰迪
+Achievements."Sylvie the Tall One" 高个的西尔维
+Achievements."Currently known: %d/%d" 当前知晓：%d/%d
+Achievements."Current score: %d" 当前分数：%d
+Achievements."Items donated: %d/%d" 物品已捐献：%d/%d
+Achievements."I love pink" 我喜欢粉色
+Achievements."Yes" 是
+Achievements."No" 不
+Achievements."I offer my dungeon to you" 我把我的地牢给你
+Achievements."Everything in life is luck" 运气就是生命的一切
+Achievements."Store %d or more gold coins." 存下 %d 或更多的金币。
+Achievements."Spend until you have 0 gold." 花到你只剩 0 金币。
+Achievements."Empty your backpack and reset dungeon with 0 gold." 将你的背包清空，一个金币都不留，重置地牢。
+Achievements."Store %d or more gold coins." 存下 %d 或更多的金币。
+Achievements."Type &quot;%s&quot;." 输入 &quot;%s&quot; 。
+Achievements."I'm over 9 inches" 我超过了 23 厘米。
+Achievements."Reach level 18 or higher." 达到 18 级或更高等级。
+Achievements."Find a %s." 找到一件 %s。
+Achievements."Slay enough trolls." 干掉足够多的巨魔。
+Achievements."Not enough" 还不够
+Achievements."Enough" 足够的
+Achievements."Almost there" 几乎达到
+Achievements."Just a few more" 还差一点
+Achievements."Getting there" 到了
+Achievements."Keep going" 继续
+Achievements."Good start" 开了个好头
 TutorialNames."Introduction 1" 入门 1
 TutorialNames."Introduction 2" 入门 2
 TutorialNames."Move Buttons" 移动 按钮
@@ -3068,7 +3068,7 @@ HeritageNames."Infernal Mastery" 地狱系专精
 HeritageNames."Arcane Mastery" 奥术专精
 HeritageNames."Bestial Mastery" 兽性专精
 HeritageNames."Abyssal Mastery" 深渊专精
-HeritageNames."Amulet Knowledge" 护身符知识
+HeritageNames."Amulet Knowledge" 护符知识
 HeritageNames."Ring Knowledge" 戒指知识
 HeritageNames."Wand Knowledge" 魔杖知识
 HeritageNames."Scroll Knowledge" 卷轴知识
@@ -4001,32 +4001,32 @@ EffectAnim."Your main hand weapon is poisoned." Your main hand weapon is poisone
 EffectAnim."Your offhand weapon is poisoned." Your offhand weapon is poisoned.
 EffectAnim."AMULET_COOLDOWN_DESC" The spell contained in your amulet is on cooldown. Recharge it by having it equipped for as many turns as it says.
 EffectAnim."CAN_LEARN_TALENT_DESC" You can learn a talent now. Find a trainer or use one of the trainer tiles (altar, dummy, fireplace, target, well or totem).
-DeathScreen."KING_SCREEN_STORY" As you place the crown on your head, whispers start hearing in the hallways growing stronger with every breath you take:
-DeathScreen."KING_SCREEN_STORY".1 &quot;The %s is dead. Long live the %s!&quot;
-DeathScreen."KING_SCREEN_STORY".2 You have defeated %s in a fair challenge and you are now the rightful ruler of Frostmourn.
-DeathScreen."KING_SCREEN_STORY".3 According to the ancient laws, it is now your right to have your way with the servants in any way that pleases you.
-DeathScreen."KING_SCREEN_STORY".4 Should you become bored or there's animosity amongst your people, you can always throw a few peasants down from the walls.
-DeathScreen."KING_SCREEN_STORY".5 Be as it may, you are now ready for the test of leadership...
-DeathScreen."KING_SCREEN_SUMMARY" Here stands %s the %s.
-DeathScreen."KING_SCREEN_SUMMARY".1 %s managed to hoard a total of %d gold coins during those %d turns %s quest lasted.
-DeathScreen."DEATH_SCREEN_SUMMARY" Here lies %s, %s of %s.
-DeathScreen."DEATH_SCREEN_SUMMARY".1 %s %s managed to hoard a total of %d gold coins during those %d turns %s journey lasted.
-DeathScreen."zero talent" zero talent
-DeathScreen."negligible talent" negligible talent
-DeathScreen."trivial talent" trivial talent
-DeathScreen."limited talent" limited talent
-DeathScreen."equitable talent" equitable talent
-DeathScreen."considerable talent" considerable talent
-DeathScreen."remarkable talent" remarkable talent
-DeathScreen."extraordinary talent" extraordinary talent
-DeathScreen."SCORE:" SCORE:
-DeathScreen."ABILITIES:" ABILITIES:
-DeathScreen."RESISTANCES:" RESISTANCES:
-DeathScreen."EQUIPMENT:" EQUIPMENT:
-DeathScreen."INVENTORY:" INVENTORY:
-DeathScreen."SPELLS:" SPELLS:
-DeathScreen."TALENTS:" TALENTS:
-DeathScreen."KNOWLEDGE:" KNOWLEDGE:
+DeathScreen."KING_SCREEN_STORY" 随着你把王冠戴在头上，走廊里的窃窃私语伴随着你每一次呼吸越发清晰入耳：
+DeathScreen."KING_SCREEN_STORY".1 &quot;%s 已死。%s 万岁！&quot;
+DeathScreen."KING_SCREEN_STORY".2 你在一次公平挑战中击败了 %s ，现在你成为了霜之哀伤的合法统治者。
+DeathScreen."KING_SCREEN_STORY".3 估计古代的律法，现在你有权力对你的侍从做任何事，让他们用你喜欢的方式侍奉你。
+DeathScreen."KING_SCREEN_STORY".4 如果你感到无聊或者你发觉你的人民对你有敌意，你可以把一些农民从墙上扔下去。
+DeathScreen."KING_SCREEN_STORY".5 既然如此，现在可以开始对你的领导力做点测试了……
+DeathScreen."KING_SCREEN_SUMMARY" 站在这里的是 %s %s。
+DeathScreen."KING_SCREEN_SUMMARY".1 %s 囤积了总共 %d 枚金币，经历了 %d 回合，完成了 %s 个任务。
+DeathScreen."DEATH_SCREEN_SUMMARY" 躺在这里的是 %s ，%s ，%s。
+DeathScreen."DEATH_SCREEN_SUMMARY".1 %s %s 囤积了总共 %d 枚金币，经历了 %d 回合直到 %s 的旅程结束。
+DeathScreen."zero talent" 毫无天赋
+DeathScreen."negligible talent" 几乎没有天赋
+DeathScreen."trivial talent" 天赋微薄
+DeathScreen."limited talent" 天赋有限
+DeathScreen."equitable talent" 天赋平庸
+DeathScreen."considerable talent" 天赋异禀
+DeathScreen."remarkable talent" 天赋卓越
+DeathScreen."extraordinary talent" 超凡入圣
+DeathScreen."SCORE:" 得分：
+DeathScreen."ABILITIES:" 能力：
+DeathScreen."RESISTANCES:" 抗性：
+DeathScreen."EQUIPMENT:" 装备：
+DeathScreen."INVENTORY:" 物品：
+DeathScreen."SPELLS:" 法术：
+DeathScreen."TALENTS:" 天赋：
+DeathScreen."KNOWLEDGE:" 知识：
 HeroScreen."Name" 名字
 HeroScreen."Base Color" 基础色
 HeroScreen."Hair Style" 发型
