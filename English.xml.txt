@@ -618,61 +618,61 @@ RestLogs."You rest and feel a bit more energetic." 你休息了一下，感觉�
 RestLogs."You rest and feel a bit more healthy." 你休息了一下，感觉更健康了。
 RestLogs."You rearm %s." 你为%s装弹。
 RestLogs."%s rearms %s." %s为%s装弹。
-UseLogs."You eat a patch of mushrooms." You eat a patch of mushrooms.
-UseLogs."You eat %s." You eat %s.
-UseLogs."You can't eat undead corpses." You can't eat undead corpses.
-UseLogs."You can't eat elemental corpses." You can't eat elemental corpses.
-UseLogs."You can't use your surroundings while polymorphed." You can't use your surroundings while polymorphed.
-UseLogs."You can't use your surroundings while shapeshifted." You can't use your surroundings while shapeshifted.
-UseLogs."%s is not interested in what you have to say." %s is not interested in what you have to say.
-UseLogs."You seem to have awoken a slumbering treeman." You seem to have awoken a slumbering treeman.
-UseLogs."You don't have room for %s." You don't have room for %s.
-UseLogs."You dig %s until it breaks apart." You dig %s until it breaks apart.
-UseLogs."You dig %s for a while but it stays intact." You dig %s for a while but it stays intact.
-UseLogs."You are not strong enough to break %s." You are not strong enough to break %s.
-UseLogs."You are too tired to dig %s right now." You are too tired to dig %s right now.
-UseLogs."You can't seem to figure out a way to use %s." You can't seem to figure out a way to use %s.
-UseLogs."You dig a wall until it breaks into a boulder." You dig a wall until it breaks into a boulder.
-UseLogs."You dig a wall for a while but it stays intact." You dig a wall for a while but it stays intact.
-UseLogs."You are not strong enough to break the wall." You are not strong enough to break the wall.
-UseLogs."You are too tired to dig the wall right now." You are too tired to dig the wall right now.
-UseLogs."You admire %s." You admire %s.
-UseLogs."You admire the broken %s." You admire the broken %s.
-UseLogs."You admire the almost unbreakable wall." You admire the almost unbreakable wall.
-UseLogs."You dig a wall until it crumbles and reveals a hidden door." You dig a wall until it crumbles and reveals a hidden door.
-UseLogs."You dig a wall until it crumbles and reveals a hidden passage." You dig a wall until it crumbles and reveals a hidden passage.
-UseLogs."You admire the almost perfectly hidden wall." You admire the almost perfectly hidden wall.
-UseLogs."You admire the unbreakable granite wall." You admire the unbreakable granite wall.
-UseLogs."You attempt to catch some fish." You attempt to catch some fish.
-UseLogs."You catch a fish and put it in your backpack." You catch a fish and put it in your backpack.
-UseLogs."You pick up and equip %s." You pick up and equip %s.
-UseLogs."%s picks up and equips %s." %s picks up and equips %s.
-UseLogs."You pick up %s." You pick up %s.
-UseLogs."%s picks up %s." %s picks up %s.
-UseLogs."Sorry, not enough space to loot that item." Sorry, not enough space to loot that item.
-UseLogs."You equip %s." You equip %s.
-UseLogs."You unequip %s." You unequip %s.
-UseLogs."%s equips %s." %s equips %s.
-UseLogs."%s unequips %s." %s unequips %s.
-UseLogs."%s is magically bound to you!" %s is magically bound to you!
-UseLogs."You can't equip any more of those." You can't equip any more of those.
-UseLogs."You can't seem to equip that at the moment." You can't seem to equip that at the moment.
-UseLogs."Not enough free space to unequip your equipped item." Not enough free space to unequip your equipped item.
-UseLogs."You can't unequip that, it's magically bound to you!" You can't unequip that, it's magically bound to you!
-UseLogs."Not enough free space to unequip the item." Not enough free space to unequip the item.
-UseLogs."You drop %s." You drop %s.
-UseLogs."%s drops %s." %s drops %s.
-UseLogs."You can't drop that, it's magically bound to you!" You can't drop that, it's magically bound to you!
-UseLogs."You discard %s." You discard %s.
-UseLogs."You hold the soul gem in your hand and let out a maniacal laughter..." You hold the soul gem in your hand and let out a maniacal laughter...
-UseLogs."The soul gem starts to vibrate and suddenly explodes in your hand." The soul gem starts to vibrate and suddenly explodes in your hand.
-UseLogs."You throw a smoke bomb on the ground." You throw a smoke bomb on the ground.
-UseLogs."You are already hidden." You are already hidden.
-UseLogs."You set a bear trap at your feet." You set a bear trap at your feet.
-UseLogs."You can't set a bear trap here." You can't set a bear trap here.
-UseLogs."You set a magic trap at your feet." You set a magic trap at your feet.
-UseLogs."You can't set a magic trap here." You can't set a magic trap here.
-UseLogs."The dog collar is on cooldown with %d turns remaining." The dog collar is on cooldown with %d turns remaining.
+UseLogs."You eat a patch of mushrooms." 你吃了一块蘑菇。
+UseLogs."You eat %s." 你吃了%s。
+UseLogs."You can't eat undead corpses." 你不能食用亡灵的尸体。
+UseLogs."You can't eat elemental corpses." 你不能食用元素的尸体。
+UseLogs."You can't use your surroundings while polymorphed." 你不能在被变形时使用你附近的物品。
+UseLogs."You can't use your surroundings while shapeshifted." 你不能在变形时使用你附近的物品。
+UseLogs."%s is not interested in what you have to say." %s 没什么要对你说的了。
+UseLogs."You seem to have awoken a slumbering treeman." 看起来你正在尝试唤醒一个沉睡的树人。
+UseLogs."You don't have room for %s." 你没有空间放%s了。
+UseLogs."You dig %s until it breaks apart." 你挖掘的%s破裂了。
+UseLogs."You dig %s for a while but it stays intact." 你尝试挖了半天%s，但是它看起来依旧很坚固。
+UseLogs."You are not strong enough to break %s." 你当前的力量不足以破坏%s。
+UseLogs."You are too tired to dig %s right now." 你太累了不能再挖%s了。
+UseLogs."You can't seem to figure out a way to use %s." 你找不到方法使用%s。
+UseLogs."You dig a wall until it breaks into a boulder." 你把一面墙挖碎了，留下了一个巨石。
+UseLogs."You dig a wall for a while but it stays intact." 你对着一面墙一顿深挖，但是它看起来还是很坚固。
+UseLogs."You are not strong enough to break the wall." 你还没有能力破坏这面墙。
+UseLogs."You are too tired to dig the wall right now." 你太累了不能再挖这面墙了。
+UseLogs."You admire %s." 你赞叹着%s。
+UseLogs."You admire the broken %s." 你赞叹着破碎的%s。
+UseLogs."You admire the almost unbreakable wall." 你感叹着这面无法破坏的墙。
+UseLogs."You dig a wall until it crumbles and reveals a hidden door." 你挖的一面墙粉碎了，同时在墙后出现了一个暗门。
+UseLogs."You dig a wall until it crumbles and reveals a hidden passage." 你挖的一面墙粉碎了，同时在墙后出现了一个隐藏的通道。
+UseLogs."You admire the almost perfectly hidden wall." 你感叹这堵暗墙藏得真完美。
+UseLogs."You admire the unbreakable granite wall." 你感叹这面墙坚若磐石。
+UseLogs."You attempt to catch some fish." 你尝试捕一些鱼。
+UseLogs."You catch a fish and put it in your backpack." 你抓到了一条鱼，同时将它放入背包。
+UseLogs."You pick up and equip %s." 你拾取并装备了%s。
+UseLogs."%s picks up and equips %s." %s拾取并装备了%s。
+UseLogs."You pick up %s." 你拾取了%s。
+UseLogs."%s picks up %s." %s 拾取了 %s。
+UseLogs."Sorry, not enough space to loot that item." 抱歉，没有足够的空间拾取该物品。
+UseLogs."You equip %s." 你装备了%s。
+UseLogs."You unequip %s." 你卸下了%s。
+UseLogs."%s equips %s." %s 装备了%s。
+UseLogs."%s unequips %s." %s卸下了%s。
+UseLogs."%s is magically bound to you!" 你和%s灵魂绑定。
+UseLogs."You can't equip any more of those." 你不能再装备它们了。
+UseLogs."You can't seem to equip that at the moment." 看起来你不能在此时装备它。
+UseLogs."Not enough free space to unequip your equipped item." 没有足够的空间卸下你已经装备的物品。
+UseLogs."You can't unequip that, it's magically bound to you!" 你不能卸下灵魂绑定的物品。
+UseLogs."Not enough free space to unequip the item." 没有足够的空间卸下该物品。
+UseLogs."You drop %s." 你扔掉了%s。
+UseLogs."%s drops %s." %s 扔掉了 %s。
+UseLogs."You can't drop that, it's magically bound to you!" 你不能扔掉灵魂绑定的物品。
+UseLogs."You discard %s." 你抛弃了%s。
+UseLogs."You hold the soul gem in your hand and let out a maniacal laughter..." 你抓住了一个灵魂石，并发出了疯狂的笑声……
+UseLogs."The soul gem starts to vibrate and suddenly explodes in your hand." 灵魂石在你手中突然开始震颤，紧接着爆炸了。
+UseLogs."You throw a smoke bomb on the ground." 你向地上抛出了一个烟雾弹。
+UseLogs."You are already hidden." 你完全隐身了。
+UseLogs."You set a bear trap at your feet." 你在脚下安装了一个捕熊陷阱。
+UseLogs."You can't set a bear trap here." 你不能在此安装捕熊陷阱。
+UseLogs."You set a magic trap at your feet." 你在脚下设置了一个魔法陷阱。
+UseLogs."You can't set a magic trap here." 你不能在此安装魔法陷阱。
+UseLogs."The dog collar is on cooldown with %d turns remaining." 狗项圈还有%d回合冷却。
 UseLogs."You closely examine %s and conclude that it is of more use to a skilled craftsman." You closely examine %s and conclude that it is of more use to a skilled craftsman.
 UseLogs."You flip a coin and it lands on its head." You flip a coin and it lands on its head.
 UseLogs."You flip a coin and it lands on its tail." You flip a coin and it lands on its tail.
@@ -967,7 +967,7 @@ TalentNames."Bestial Wrath" 狂野怒火
 TalentDescs."Aimed Shot" @(30)远程攻击每点敏捷增益修正获得 D3 的额外伤害，取代普通的 1 点额外伤害。
 TalentDescs."Multi Shot" @(30)远程攻击将命中目标生物邻接的多个额外生物目标，数量等于敏捷增益修正值。
 TalentDescs."Quick Shot" @(30)远程攻击的射击前生物可以先移动。
-TalentDescs."Steady Shot" @(30)远程攻击时，可以重掷失败的命中检定，在隐秘状态下能造成双倍伤害。
+TalentDescs."Steady Shot" @(30)远程攻击时，可以重投失败的命中检定，在隐秘状态下能造成双倍伤害。
 TalentDescs."Blade Flurry" @(30)近战攻击的每把武器（当敏捷 +1 及 +3 时）获得最一次额外攻击机会。剑刃乱舞需要两把小型武器或双手使用一把中型武器。
 TalentDescs."Blade Flurry".1 
 TalentDescs."Deadly Throw" @(30)投掷武器攻击的每点属性增益修正获得 D3 额外伤害，取代普通的 1 点额外伤害，依据的属性取力量和敏捷中的较高值。（修正同时针对命中检定）。
@@ -1361,19 +1361,19 @@ ItemLogs."You don't have enough free space for those %s." You don't have enough 
 ItemLogs."You don't have enough free space for %s." You don't have enough free space for %s.
 ItemLogs."You can't place those those %s there." You can't place those those %s there.
 ItemLogs."You can't place %s there." You can't place %s there.
-ItemSets."Re-roll failed snare checks." 陷阱检定失败后重掷一次。
-ItemSets."Re-roll failed sneak checks." 潜行检定失败后重掷一次。
-ItemSets."Re-roll failed persuasion checks." 说服检定失败后重掷一次。
-ItemSets."Re-roll failed intimidation checks." 恐吓检定失败后重掷一次。
-ItemSets."Grants immunity to disarm." 获得缴械免疫。
-ItemSets."Re-roll clearcast (Celestial)." 沉净施法重掷（天使系）。
-ItemSets."Re-roll clearcast (Draconic)." 沉净施法重掷（龙系）。
-ItemSets."Re-roll clearcast (Infernal)." 沉净施法重掷（地狱系）。
-ItemSets."Reduce Arcane cooldown by 50%." 减少奥术冷却时间 50% 。
-ItemSets."Reduce Bestial cooldown by 50%." 减少兽性法术冷却时间 50% 。
-ItemSets."Reduce Abyssal cooldown by 50%." 减少深渊法术冷却时间 50% 。
-ItemSets."Heals D6 points per turn." 每回合治疗 D6 点。
-ItemSets."Befriend daemons." 成为恶魔的朋友。
+ItemSets."Re-roll failed snare checks." Re-roll failed snare checks.
+ItemSets."Re-roll failed sneak checks." Re-roll failed sneak checks.
+ItemSets."Re-roll failed persuasion checks." Re-roll failed persuasion checks.
+ItemSets."Re-roll failed intimidation checks." Re-roll failed intimidation checks.
+ItemSets."Grants immunity to disarm." Grants immunity to disarm.
+ItemSets."Re-roll clearcast (Celestial)." Re-roll clearcast (Celestial).
+ItemSets."Re-roll clearcast (Draconic)." Re-roll clearcast (Draconic).
+ItemSets."Re-roll clearcast (Infernal)." Re-roll clearcast (Infernal).
+ItemSets."Reduce Arcane cooldown by 50%." Reduce Arcane cooldown by 50%.
+ItemSets."Reduce Bestial cooldown by 50%." Reduce Bestial cooldown by 50%.
+ItemSets."Reduce Abyssal cooldown by 50%." Reduce Abyssal cooldown by 50%.
+ItemSets."Heals D6 points per turn." Heals D6 points per turn.
+ItemSets."Befriend daemons." Befriend daemons.
 AddonNames."Padded Spaulders" 棉护肩
 AddonNames."Leather Spaulders" 皮护肩
 AddonNames."Studded Spaulders" 札甲护肩
@@ -1463,7 +1463,7 @@ AddonNames."Dark Iron Vambraces" 黑铁护腕
 AddonNames."Dark Iron Gauntlets" 黑铁护手
 AddonNames."Dark Iron Sabatons" 黑铁铠靴
 AddonDescs."SpauldersDesc" @(30)护肩能提高你对暴击造成缴械效果的免疫机会 40% 。
-AddonDescs."VambracesDesc" @(30)护腕能在你被暴击后将被缴械前重掷一次缴械检定骰。
+AddonDescs."VambracesDesc" @(30)护腕能在你被暴击后将被缴械前重投一次缴械检定骰。
 AddonDescs."GlovesDesc" @(30)手套能在你被缴械后让武器进入你的物品栏而不是掉落在地上。
 AddonDescs."BootsDesc" @(30)靴子能在你被击退到峡谷或陷阱前改为一次侧移。
 AmuletNames."Amulet" 护符
@@ -2804,7 +2804,7 @@ TileLogs."YOU_SEE_GATE_TRIGGER" You see %s that seems to be connected to a gate 
 RIPTitles."Here lies %s." %s 在此长眠。
 RIPTitles."Here lies %s the %s." %s %s 在此长眠。
 RIPTitles."Here lies %s from %s %s." %s 在此长眠，来自 %s %s 。
-RIPTitles."----------" ——————————
+RIPTitles."----------" ----------
 RIPTitles."Archer" 射手
 RIPTitles."Bowman" 弓箭手
 RIPTitles."Champion" 冠军
@@ -3870,17 +3870,17 @@ StatusBarAnim."RESISTANCE_DESC" @(44)从左至右共有六项抗性：物理、�
 StatusBarAnim."RESISTANCE_DESC".1 @(44)左右两项值分别表示针对暴击（头部）和普通攻击（身体）的抗性。
 StatusBarAnim."RESISTANCE_DESC".2 @(44)除了攻击部位不同，暴击还会引起混乱、缴械、导致流血。
 StatusBarAnim."RESISTANCE_DESC".3 @(44)注意：带上一个封闭型头盔可以让混乱效果的持续时间减半。
-ConsoleAnim."Type the name of your legendary weapon or press %s to cancel:" 为你的传奇武器命名，或者按下 %s 取消：
-ConsoleAnim."You can't give a blank name to your weapon." 你不能给你的武器一个空白的名字。
-CursorAnim."Select a target to attack at and press %s:" 选择一个攻击目标然后按下 %s ：
-CursorAnim."You can't shoot with that before rearming." 你再整备前无法射击。
-CursorAnim."shoot" 射击
-CursorAnim."Select a target to %s at and press %s:" 选择一个到 %s 的目标，然后按下 %s：
-CursorAnim."You can't make ranged attacks without a ranged weapon." 你在没有装备远程武器时不能进行远程攻击。
-CursorAnim."You can't attack yourself." 你不能攻击你自己。
-CursorAnim."You can't attack empty spaces." 你不能攻击空位。
-CursorAnim."You can't shoot at yourself." 你不能对自己射击。
-CursorAnim."You can't throw at yourself." 你不能对自己投掷。
+ConsoleAnim."Type the name of your legendary weapon or press %s to cancel:" Type the name of your legendary weapon or press %s to cancel:
+ConsoleAnim."You can't give a blank name to your weapon." You can't give a blank name to your weapon.
+CursorAnim."Select a target to attack at and press %s:" Select a target to attack at and press %s:
+CursorAnim."You can't shoot with that before rearming." You can't shoot with that before rearming.
+CursorAnim."shoot" shoot
+CursorAnim."Select a target to %s at and press %s:" Select a target to %s at and press %s:
+CursorAnim."You can't make ranged attacks without a ranged weapon." You can't make ranged attacks without a ranged weapon.
+CursorAnim."You can't attack yourself." You can't attack yourself.
+CursorAnim."You can't attack empty spaces." You can't attack empty spaces.
+CursorAnim."You can't shoot at yourself." You can't shoot at yourself.
+CursorAnim."You can't throw at yourself." You can't throw at yourself.
 EffectAnim."Oogled" You are oogled.
 EffectAnim."Divine Grace" It increases agility and charisma by 1 and physical, poison and disease resistances by 1.
 EffectAnim."Divine Might" It increases strength and stamina by 1 and fire, frost and shock resistances by 1.
