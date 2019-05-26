@@ -3705,19 +3705,19 @@ SpellbookWindow."Select an item to cast %s on and press %s:" 选择一个物品�
 SpellbookWindow."You can't cast a scroll on itself, nice try though!" 你不能对卷轴本身使用卷轴，不过脑洞挺大！
 SpellbookWindow."Type the legendary name of your weapon or press %s to cancel." 为你的传奇武器命名，或是按下 %s 取消。
 SpellbookWindow."You can't use %s on items that are not wieldable weapons." 你不能针对不是可装备武器的物品使用 %s。
-SpellbookWindow."You can't use runes on items that are not blessed and double enchanted." You can't use runes on items that are not blessed and double enchanted.
-SpellbookWindow."You can't channel arcane spells through the wand." You can't channel arcane spells through the wand.
-SpellbookWindow."You can't cast arcane spells without an amulet." You can't cast arcane spells without an amulet.
-SpellbookWindow."You can't cast bestial spells without a bull horn." You can't cast bestial spells without a bull horn.
-SpellbookWindow."You can't cast abyssal spells without a pyramidion." You can't cast abyssal spells without a pyramidion.
-SpellbookWindow."You can't cast release soul without a soul gem." You can't cast release soul without a soul gem.
-SpellbookWindow."The spell is on a cooldown with %d turns remaining." The spell is on a cooldown with %d turns remaining.
-SpellbookWindow."You can't cast spells while blinded." You can't cast spells while blinded.
-SpellbookWindow."You can't cast spells while confused." You can't cast spells while confused.
-SpellbookWindow."You can't cast spells while polymorphed." You can't cast spells while polymorphed.
-SpellbookWindow."You can't cast spells while shapeshifted." You can't cast spells while shapeshifted.
-SpellbookWindow."You can't use %s at the moment." You can't use %s at the moment.
-SpellbookWindow."You can't cast %s at the moment." You can't cast %s at the moment.
+SpellbookWindow."You can't use runes on items that are not blessed and double enchanted." 符石只能用于神圣的物品，且已经附魔过两次。
+SpellbookWindow."You can't channel arcane spells through the wand." 你不能用通导魔杖使用奥术。
+SpellbookWindow."You can't cast arcane spells without an amulet." 没有护符不能施放奥术。
+SpellbookWindow."You can't cast bestial spells without a bull horn." 没有牛角不能施放兽性法术。
+SpellbookWindow."You can't cast abyssal spells without a pyramidion." 没有金字塔无法施放深渊法术。
+SpellbookWindow."You can't cast release soul without a soul gem." 没有灵魂石无法释放灵魂。
+SpellbookWindow."The spell is on a cooldown with %d turns remaining." 这个法术还在冷却中，还剩 %d 回合。
+SpellbookWindow."You can't cast spells while blinded." 你不能在盲眼时施放法术。
+SpellbookWindow."You can't cast spells while confused." 你不能在混乱时施放法术。
+SpellbookWindow."You can't cast spells while polymorphed." 你不能在被变形时施放法术。
+SpellbookWindow."You can't cast spells while shapeshifted." 你不能在变形时施放法术。
+SpellbookWindow."You can't use %s at the moment." 你现在无法使用%s。
+SpellbookWindow."You can't cast %s at the moment." 你现在无法施放%s。
 AbilityGainWindow."Select ability to increase:" 选择提升一项属性：
 TalentGainWindow."Select talent to learn:" 选择一项天赋学习：
 TalentGainWindow."Points remaining:" 剩余点数：

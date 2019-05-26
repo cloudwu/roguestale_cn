@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="593a9a2a48a4fc1fb784a892fdbfc14386a43eca">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="1eacc3cdbb2c3dce7014d53d13cfa2b1df9af69b">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -680,61 +680,61 @@
     <str id="%s rearms %s." value="%s rearms %s." local="%s为%s装弹。"/>
   </RestLogs>
   <UseLogs>
-    <str id="You eat a patch of mushrooms." value="You eat a patch of mushrooms."/>
-    <str id="You eat %s." value="You eat %s."/>
-    <str id="You can't eat undead corpses." value="You can't eat undead corpses."/>
-    <str id="You can't eat elemental corpses." value="You can't eat elemental corpses."/>
-    <str id="You can't use your surroundings while polymorphed." value="You can't use your surroundings while polymorphed."/>
-    <str id="You can't use your surroundings while shapeshifted." value="You can't use your surroundings while shapeshifted."/>
-    <str id="%s is not interested in what you have to say." value="%s is not interested in what you have to say."/>
-    <str id="You seem to have awoken a slumbering treeman." value="You seem to have awoken a slumbering treeman."/>
-    <str id="You don't have room for %s." value="You don't have room for %s."/>
-    <str id="You dig %s until it breaks apart." value="You dig %s until it breaks apart."/>
-    <str id="You dig %s for a while but it stays intact." value="You dig %s for a while but it stays intact."/>
-    <str id="You are not strong enough to break %s." value="You are not strong enough to break %s."/>
-    <str id="You are too tired to dig %s right now." value="You are too tired to dig %s right now."/>
-    <str id="You can't seem to figure out a way to use %s." value="You can't seem to figure out a way to use %s."/>
-    <str id="You dig a wall until it breaks into a boulder." value="You dig a wall until it breaks into a boulder."/>
-    <str id="You dig a wall for a while but it stays intact." value="You dig a wall for a while but it stays intact."/>
-    <str id="You are not strong enough to break the wall." value="You are not strong enough to break the wall."/>
-    <str id="You are too tired to dig the wall right now." value="You are too tired to dig the wall right now."/>
-    <str id="You admire %s." value="You admire %s."/>
-    <str id="You admire the broken %s." value="You admire the broken %s."/>
-    <str id="You admire the almost unbreakable wall." value="You admire the almost unbreakable wall."/>
-    <str id="You dig a wall until it crumbles and reveals a hidden door." value="You dig a wall until it crumbles and reveals a hidden door."/>
-    <str id="You dig a wall until it crumbles and reveals a hidden passage." value="You dig a wall until it crumbles and reveals a hidden passage."/>
-    <str id="You admire the almost perfectly hidden wall." value="You admire the almost perfectly hidden wall."/>
-    <str id="You admire the unbreakable granite wall." value="You admire the unbreakable granite wall."/>
-    <str id="You attempt to catch some fish." value="You attempt to catch some fish."/>
-    <str id="You catch a fish and put it in your backpack." value="You catch a fish and put it in your backpack."/>
-    <str id="You pick up and equip %s." value="You pick up and equip %s."/>
-    <str id="%s picks up and equips %s." value="%s picks up and equips %s."/>
-    <str id="You pick up %s." value="You pick up %s."/>
-    <str id="%s picks up %s." value="%s picks up %s."/>
-    <str id="Sorry, not enough space to loot that item." value="Sorry, not enough space to loot that item."/>
-    <str id="You equip %s." value="You equip %s."/>
-    <str id="You unequip %s." value="You unequip %s."/>
-    <str id="%s equips %s." value="%s equips %s."/>
-    <str id="%s unequips %s." value="%s unequips %s."/>
-    <str id="%s is magically bound to you!" value="%s is magically bound to you!"/>
-    <str id="You can't equip any more of those." value="You can't equip any more of those."/>
-    <str id="You can't seem to equip that at the moment." value="You can't seem to equip that at the moment."/>
-    <str id="Not enough free space to unequip your equipped item." value="Not enough free space to unequip your equipped item."/>
-    <str id="You can't unequip that, it's magically bound to you!" value="You can't unequip that, it's magically bound to you!"/>
-    <str id="Not enough free space to unequip the item." value="Not enough free space to unequip the item."/>
-    <str id="You drop %s." value="You drop %s."/>
-    <str id="%s drops %s." value="%s drops %s."/>
-    <str id="You can't drop that, it's magically bound to you!" value="You can't drop that, it's magically bound to you!"/>
-    <str id="You discard %s." value="You discard %s."/>
-    <str id="You hold the soul gem in your hand and let out a maniacal laughter..." value="You hold the soul gem in your hand and let out a maniacal laughter..."/>
-    <str id="The soul gem starts to vibrate and suddenly explodes in your hand." value="The soul gem starts to vibrate and suddenly explodes in your hand."/>
-    <str id="You throw a smoke bomb on the ground." value="You throw a smoke bomb on the ground."/>
-    <str id="You are already hidden." value="You are already hidden."/>
-    <str id="You set a bear trap at your feet." value="You set a bear trap at your feet."/>
-    <str id="You can't set a bear trap here." value="You can't set a bear trap here."/>
-    <str id="You set a magic trap at your feet." value="You set a magic trap at your feet."/>
-    <str id="You can't set a magic trap here." value="You can't set a magic trap here."/>
-    <str id="The dog collar is on cooldown with %d turns remaining." value="The dog collar is on cooldown with %d turns remaining."/>
+    <str id="You eat a patch of mushrooms." value="You eat a patch of mushrooms." local="你吃了一块蘑菇。"/>
+    <str id="You eat %s." value="You eat %s." local="你吃了%s。"/>
+    <str id="You can't eat undead corpses." value="You can't eat undead corpses." local="你不能食用亡灵的尸体。"/>
+    <str id="You can't eat elemental corpses." value="You can't eat elemental corpses." local="你不能食用元素的尸体。"/>
+    <str id="You can't use your surroundings while polymorphed." value="You can't use your surroundings while polymorphed." local="你不能在被变形时使用你附近的物品。"/>
+    <str id="You can't use your surroundings while shapeshifted." value="You can't use your surroundings while shapeshifted." local="你不能在变形时使用你附近的物品。"/>
+    <str id="%s is not interested in what you have to say." value="%s is not interested in what you have to say." local="%s 没什么要对你说的了。"/>
+    <str id="You seem to have awoken a slumbering treeman." value="You seem to have awoken a slumbering treeman." local="看起来你正在尝试唤醒一个沉睡的树人。"/>
+    <str id="You don't have room for %s." value="You don't have room for %s." local="你没有空间放%s了。"/>
+    <str id="You dig %s until it breaks apart." value="You dig %s until it breaks apart." local="你挖掘的%s破裂了。"/>
+    <str id="You dig %s for a while but it stays intact." value="You dig %s for a while but it stays intact." local="你尝试挖了半天%s，但是它看起来依旧很坚固。"/>
+    <str id="You are not strong enough to break %s." value="You are not strong enough to break %s." local="你当前的力量不足以破坏%s。"/>
+    <str id="You are too tired to dig %s right now." value="You are too tired to dig %s right now." local="你太累了不能再挖%s了。"/>
+    <str id="You can't seem to figure out a way to use %s." value="You can't seem to figure out a way to use %s." local="你找不到方法使用%s。"/>
+    <str id="You dig a wall until it breaks into a boulder." value="You dig a wall until it breaks into a boulder." local="你把一面墙挖碎了，留下了一个巨石。"/>
+    <str id="You dig a wall for a while but it stays intact." value="You dig a wall for a while but it stays intact." local="你对着一面墙一顿深挖，但是它看起来还是很坚固。"/>
+    <str id="You are not strong enough to break the wall." value="You are not strong enough to break the wall." local="你还没有能力破坏这面墙。"/>
+    <str id="You are too tired to dig the wall right now." value="You are too tired to dig the wall right now." local="你太累了不能再挖这面墙了。"/>
+    <str id="You admire %s." value="You admire %s." local="你赞叹着%s。"/>
+    <str id="You admire the broken %s." value="You admire the broken %s." local="你赞叹着破碎的%s。"/>
+    <str id="You admire the almost unbreakable wall." value="You admire the almost unbreakable wall." local="你感叹着这面无法破坏的墙。"/>
+    <str id="You dig a wall until it crumbles and reveals a hidden door." value="You dig a wall until it crumbles and reveals a hidden door." local="你挖的一面墙粉碎了，同时在墙后出现了一个暗门。"/>
+    <str id="You dig a wall until it crumbles and reveals a hidden passage." value="You dig a wall until it crumbles and reveals a hidden passage." local="你挖的一面墙粉碎了，同时在墙后出现了一个隐藏的通道。"/>
+    <str id="You admire the almost perfectly hidden wall." value="You admire the almost perfectly hidden wall." local="你感叹这堵暗墙藏得真完美。"/>
+    <str id="You admire the unbreakable granite wall." value="You admire the unbreakable granite wall." local="你感叹这面墙坚若磐石。"/>
+    <str id="You attempt to catch some fish." value="You attempt to catch some fish." local="你尝试捕一些鱼。"/>
+    <str id="You catch a fish and put it in your backpack." value="You catch a fish and put it in your backpack." local="你抓到了一条鱼，同时将它放入背包。"/>
+    <str id="You pick up and equip %s." value="You pick up and equip %s." local="你拾取并装备了%s。"/>
+    <str id="%s picks up and equips %s." value="%s picks up and equips %s." local="%s拾取并装备了%s。"/>
+    <str id="You pick up %s." value="You pick up %s." local="你拾取了%s。"/>
+    <str id="%s picks up %s." value="%s picks up %s." local="%s 拾取了 %s。"/>
+    <str id="Sorry, not enough space to loot that item." value="Sorry, not enough space to loot that item." local="抱歉，没有足够的空间拾取该物品。"/>
+    <str id="You equip %s." value="You equip %s." local="你装备了%s。"/>
+    <str id="You unequip %s." value="You unequip %s." local="你卸下了%s。"/>
+    <str id="%s equips %s." value="%s equips %s." local="%s 装备了%s。"/>
+    <str id="%s unequips %s." value="%s unequips %s." local="%s卸下了%s。"/>
+    <str id="%s is magically bound to you!" value="%s is magically bound to you!" local="你和%s灵魂绑定。"/>
+    <str id="You can't equip any more of those." value="You can't equip any more of those." local="你不能再装备它们了。"/>
+    <str id="You can't seem to equip that at the moment." value="You can't seem to equip that at the moment." local="看起来你不能在此时装备它。"/>
+    <str id="Not enough free space to unequip your equipped item." value="Not enough free space to unequip your equipped item." local="没有足够的空间卸下你已经装备的物品。"/>
+    <str id="You can't unequip that, it's magically bound to you!" value="You can't unequip that, it's magically bound to you!" local="你不能卸下灵魂绑定的物品。"/>
+    <str id="Not enough free space to unequip the item." value="Not enough free space to unequip the item." local="没有足够的空间卸下该物品。"/>
+    <str id="You drop %s." value="You drop %s." local="你扔掉了%s。"/>
+    <str id="%s drops %s." value="%s drops %s." local="%s 扔掉了 %s。"/>
+    <str id="You can't drop that, it's magically bound to you!" value="You can't drop that, it's magically bound to you!" local="你不能扔掉灵魂绑定的物品。"/>
+    <str id="You discard %s." value="You discard %s." local="你抛弃了%s。"/>
+    <str id="You hold the soul gem in your hand and let out a maniacal laughter..." value="You hold the soul gem in your hand and let out a maniacal laughter..." local="你抓住了一个灵魂石，并发出了疯狂的笑声……"/>
+    <str id="The soul gem starts to vibrate and suddenly explodes in your hand." value="The soul gem starts to vibrate and suddenly explodes in your hand." local="灵魂石在你手中突然开始震颤，紧接着爆炸了。"/>
+    <str id="You throw a smoke bomb on the ground." value="You throw a smoke bomb on the ground." local="你向地上抛出了一个烟雾弹。"/>
+    <str id="You are already hidden." value="You are already hidden." local="你完全隐身了。"/>
+    <str id="You set a bear trap at your feet." value="You set a bear trap at your feet." local="你在脚下安装了一个捕熊陷阱。"/>
+    <str id="You can't set a bear trap here." value="You can't set a bear trap here." local="你不能在此安装捕熊陷阱。"/>
+    <str id="You set a magic trap at your feet." value="You set a magic trap at your feet." local="你在脚下设置了一个魔法陷阱。"/>
+    <str id="You can't set a magic trap here." value="You can't set a magic trap here." local="你不能在此安装魔法陷阱。"/>
+    <str id="The dog collar is on cooldown with %d turns remaining." value="The dog collar is on cooldown with %d turns remaining." local="狗项圈还有%d回合冷却。"/>
     <str id="You closely examine %s and conclude that it is of more use to a skilled craftsman." value="You closely examine %s and conclude that it is of more use to a skilled craftsman."/>
     <str id="You flip a coin and it lands on its head." value="You flip a coin and it lands on its head."/>
     <str id="You flip a coin and it lands on its tail." value="You flip a coin and it lands on its tail."/>
@@ -1055,7 +1055,7 @@
     <str id="Aimed Shot" value="Ranged attack that causes D3 extra damage instead of 1 for each point of agility bonus modifier." local="远程攻击每点敏捷增益修正获得 D&#10;3 的额外伤害，取代普通的 1 点额&#10;外伤害。"/>
     <str id="Multi Shot" value="Ranged attack that hits up to agility bonus modifier number of extra targets." local="远程攻击将命中目标生物邻接的多&#10;个额外生物目标，数量等于敏捷增&#10;益修正值。"/>
     <str id="Quick Shot" value="Ranged attack that allows the creature to move before taking the shot." local="远程攻击的射击前生物可以先移动&#10;。"/>
-    <str id="Steady Shot" value="Ranged attack that allows the creature to re-roll a failed to-hit check and doubles damage if used while hidden." local="远程攻击时，可以重掷失败的命中&#10;检定，在隐秘状态下能造成双倍伤&#10;害。"/>
+    <str id="Steady Shot" value="Ranged attack that allows the creature to re-roll a failed to-hit check and doubles damage if used while hidden." local="远程攻击时，可以重投失败的命中&#10;检定，在隐秘状态下能造成双倍伤&#10;害。"/>
     <str id="Blade Flurry" value="Melee attack that gains up to one extra attack per weapon (at +1 and +3 AGI). Blade Flurry requires either two small" local="近战攻击的每把武器（当敏捷 +1 &#10;及 +3 时）获得最一次额外攻击机&#10;会。剑刃乱舞需要两把小型武器或&#10;双手使用一把中型武器。" space="True">
       <str id="paragraph 1" value="weapons or a medium weapon that is used two-handedly." local=""/>
     </str>
@@ -1486,19 +1486,19 @@
     <str id="You can't place %s there." value="You can't place %s there."/>
   </ItemLogs>
   <ItemSets>
-    <str id="Re-roll failed snare checks." value="Re-roll failed snare checks." local="陷阱检定失败后重掷一次。"/>
-    <str id="Re-roll failed sneak checks." value="Re-roll failed sneak checks." local="潜行检定失败后重掷一次。"/>
-    <str id="Re-roll failed persuasion checks." value="Re-roll failed persuasion checks." local="说服检定失败后重掷一次。"/>
-    <str id="Re-roll failed intimidation checks." value="Re-roll failed intimidation checks." local="恐吓检定失败后重掷一次。"/>
-    <str id="Grants immunity to disarm." value="Grants immunity to disarm." local="获得缴械免疫。"/>
-    <str id="Re-roll clearcast (Celestial)." value="Re-roll clearcast (Celestial)." local="沉净施法重掷（天使系）。"/>
-    <str id="Re-roll clearcast (Draconic)." value="Re-roll clearcast (Draconic)." local="沉净施法重掷（龙系）。"/>
-    <str id="Re-roll clearcast (Infernal)." value="Re-roll clearcast (Infernal)." local="沉净施法重掷（地狱系）。"/>
-    <str id="Reduce Arcane cooldown by 50%." value="Reduce Arcane cooldown by 50%." local="减少奥术冷却时间 50% 。"/>
-    <str id="Reduce Bestial cooldown by 50%." value="Reduce Bestial cooldown by 50%." local="减少兽性法术冷却时间 50% 。"/>
-    <str id="Reduce Abyssal cooldown by 50%." value="Reduce Abyssal cooldown by 50%." local="减少深渊法术冷却时间 50% 。"/>
-    <str id="Heals D6 points per turn." value="Heals D6 points per turn." local="每回合治疗 D6 点。"/>
-    <str id="Befriend daemons." value="Befriend daemons." local="成为恶魔的朋友。"/>
+    <str id="Re-roll failed snare checks." value="Re-roll failed snare checks."/>
+    <str id="Re-roll failed sneak checks." value="Re-roll failed sneak checks."/>
+    <str id="Re-roll failed persuasion checks." value="Re-roll failed persuasion checks."/>
+    <str id="Re-roll failed intimidation checks." value="Re-roll failed intimidation checks."/>
+    <str id="Grants immunity to disarm." value="Grants immunity to disarm."/>
+    <str id="Re-roll clearcast (Celestial)." value="Re-roll clearcast (Celestial)."/>
+    <str id="Re-roll clearcast (Draconic)." value="Re-roll clearcast (Draconic)."/>
+    <str id="Re-roll clearcast (Infernal)." value="Re-roll clearcast (Infernal)."/>
+    <str id="Reduce Arcane cooldown by 50%." value="Reduce Arcane cooldown by 50%."/>
+    <str id="Reduce Bestial cooldown by 50%." value="Reduce Bestial cooldown by 50%."/>
+    <str id="Reduce Abyssal cooldown by 50%." value="Reduce Abyssal cooldown by 50%."/>
+    <str id="Heals D6 points per turn." value="Heals D6 points per turn."/>
+    <str id="Befriend daemons." value="Befriend daemons."/>
   </ItemSets>
   <AddonNames>
     <str id="Padded Spaulders" value="Padded Spaulders" local="棉护肩"/>
@@ -1592,7 +1592,7 @@
   </AddonNames>
   <AddonDescs>
     <str id="SpauldersDesc" value="Spaulders increase your base chance to resist a critical hit disarm effect by 40%." local="护肩能提高你对暴击造成缴械效果&#10;的免疫机会 40% 。"/>
-    <str id="VambracesDesc" value="Vambraces force the system to re-roll the disarm check if you are disarmed by a critical hit." local="护腕能在你被暴击后将被缴械前重&#10;掷一次缴械检定骰。"/>
+    <str id="VambracesDesc" value="Vambraces force the system to re-roll the disarm check if you are disarmed by a critical hit." local="护腕能在你被暴击后将被缴械前重&#10;投一次缴械检定骰。"/>
     <str id="GlovesDesc" value="Gloves cause your disarmed weapon to be placed in your inventory instead of the ground." local="手套能在你被缴械后让武器进入你&#10;的物品栏而不是掉落在地上。"/>
     <str id="BootsDesc" value="Boots force the system to attempt a sidestep if a knockback would push you into a chasm or trap." local="靴子能在你被击退到峡谷或陷阱前&#10;改为一次侧移。"/>
   </AddonDescs>
@@ -4058,48 +4058,48 @@
     <str id="You don't have enough free space to unequip your %s." value="You don't have enough free space to unequip your %s."/>
   </InventoryWindow>
   <SpellbookWindow>
-    <str id="Spellbook" value="Spellbook"/>
-    <str id="You can't use talents while blinded." value="You can't use talents while blinded."/>
-    <str id="You can't use talents while confused." value="You can't use talents while confused."/>
-    <str id="You can't use talents while polymorphed." value="You can't use talents while polymorphed."/>
-    <str id="You can't use talents while swimming." value="You can't use talents while swimming."/>
-    <str id="You are too tired to use talents at the moment." value="You are too tired to use talents at the moment."/>
-    <str id="You can't use passive talents." value="You can't use passive talents."/>
-    <str id="You can't shapeshift while snared." value="You can't shapeshift while snared."/>
-    <str id="You can't use deadly throw without a thrown weapon." value="You can't use deadly throw without a thrown weapon."/>
-    <str id="Select a thrown weapon for deadly throw:" value="Select a thrown weapon for deadly throw:"/>
-    <str id="Start quick shot by moving:" value="Start quick shot by moving:"/>
-    <str id="You can't charge while snared." value="You can't charge while snared."/>
-    <str id="Select a target to charge at and press %s:" value="Select a target to charge at and press %s:"/>
-    <str id="Select a direction to use %s at:" value="Select a direction to use %s at:"/>
-    <str id="Select a direction to move silently at:" value="Select a direction to move silently at:"/>
-    <str id="You can't use that talent at the moment." value="You can't use that talent at the moment."/>
-    <str id="Requires AGI 8+ and either two small weapons or a single medium weapon." value="Requires AGI 8+ and either two small weapons or a single medium weapon."/>
-    <str id="Requires STR 8+ and either a medium or large weapon." value="Requires STR 8+ and either a medium or large weapon."/>
-    <str id="Requires a medium or large weapon." value="Requires a medium or large weapon."/>
-    <str id="Requires a melee weapon and a shield." value="Requires a melee weapon and a shield."/>
-    <str id="Select a target or item to cast %s at and press %s:" value="Select a target or item to cast %s at and press %s:"/>
-    <str id="Select a target to cast %s at and press %s:" value="Select a target to cast %s at and press %s:"/>
-    <str id="Select an item to cast %s on and press %s:" value="Select an item to cast %s on and press %s:"/>
-    <str id="You can't cast a scroll on itself, nice try though!" value="You can't cast a scroll on itself, nice try though!"/>
-    <str id="Type the legendary name of your weapon or press %s to cancel." value="Type the legendary name of your weapon or press %s to cancel."/>
-    <str id="You can't use %s on items that are not wieldable weapons." value="You can't use %s on items that are not wieldable weapons."/>
-    <str id="You can't use runes on items that are not blessed and double enchanted." value="You can't use runes on items that are not blessed and double enchanted."/>
-    <str id="You can't channel arcane spells through the wand." value="You can't channel arcane spells through the wand."/>
-    <str id="You can't cast arcane spells without an amulet." value="You can't cast arcane spells without an amulet."/>
-    <str id="You can't cast bestial spells without a bull horn." value="You can't cast bestial spells without a bull horn."/>
-    <str id="You can't cast abyssal spells without a pyramidion." value="You can't cast abyssal spells without a pyramidion."/>
-    <str id="You can't cast release soul without a soul gem." value="You can't cast release soul without a soul gem."/>
-    <str id="The spell is on a cooldown with %d turns remaining." value="The spell is on a cooldown with %d turns remaining."/>
-    <str id="You can't cast spells while blinded." value="You can't cast spells while blinded."/>
-    <str id="You can't cast spells while confused." value="You can't cast spells while confused."/>
-    <str id="You can't cast spells while polymorphed." value="You can't cast spells while polymorphed."/>
-    <str id="You can't cast spells while shapeshifted." value="You can't cast spells while shapeshifted."/>
-    <str id="You can't use %s at the moment." value="You can't use %s at the moment."/>
-    <str id="You can't cast %s at the moment." value="You can't cast %s at the moment."/>
+    <str id="Spellbook" value="Spellbook" local="法术书"/>
+    <str id="You can't use talents while blinded." value="You can't use talents while blinded." local="你无法在盲眼时使用天赋。"/>
+    <str id="You can't use talents while confused." value="You can't use talents while confused." local="你无法在混乱时使用天赋。"/>
+    <str id="You can't use talents while polymorphed." value="You can't use talents while polymorphed." local="你无法在变形时使用天赋。"/>
+    <str id="You can't use talents while swimming." value="You can't use talents while swimming." local="你无法在游泳时使用天赋。"/>
+    <str id="You are too tired to use talents at the moment." value="You are too tired to use talents at the moment." local="你现在太累了，无法使用天赋。"/>
+    <str id="You can't use passive talents." value="You can't use passive talents." local="你无法使用被动天赋。"/>
+    <str id="You can't shapeshift while snared." value="You can't shapeshift while snared." local="在陷阱里，你无法变形。"/>
+    <str id="You can't use deadly throw without a thrown weapon." value="You can't use deadly throw without a thrown weapon." local="你没有投掷武器，所以无法进行死亡投掷。"/>
+    <str id="Select a thrown weapon for deadly throw:" value="Select a thrown weapon for deadly throw:" local="选择一把投掷武器进行死亡投掷："/>
+    <str id="Start quick shot by moving:" value="Start quick shot by moving:" local="移动后快速射击："/>
+    <str id="You can't charge while snared." value="You can't charge while snared." local="在陷阱中无法冲锋。"/>
+    <str id="Select a target to charge at and press %s:" value="Select a target to charge at and press %s:" local="选择一个冲锋目标，然后按下 %s："/>
+    <str id="Select a direction to use %s at:" value="Select a direction to use %s at:" local="选择一个方向使用 %s ："/>
+    <str id="Select a direction to move silently at:" value="Select a direction to move silently at:" local="选择一个方向进行潜行："/>
+    <str id="You can't use that talent at the moment." value="You can't use that talent at the moment." local="你现在无法使用天赋。"/>
+    <str id="Requires AGI 8+ and either two small weapons or a single medium weapon." value="Requires AGI 8+ and either two small weapons or a single medium weapon." local="需要敏捷属性 8+ 且持有两把小型武器，或单手使用中型武器。"/>
+    <str id="Requires STR 8+ and either a medium or large weapon." value="Requires STR 8+ and either a medium or large weapon." local="需要力量属性 8+ 且使用一把中型或大型武器。"/>
+    <str id="Requires a medium or large weapon." value="Requires a medium or large weapon." local="需要一把中型或大型武器。"/>
+    <str id="Requires a melee weapon and a shield." value="Requires a melee weapon and a shield." local="需要一把近战武器和一面盾牌。"/>
+    <str id="Select a target or item to cast %s at and press %s:" value="Select a target or item to cast %s at and press %s:" local="选择一个目标或物品施展%s，然后按下 %s："/>
+    <str id="Select a target to cast %s at and press %s:" value="Select a target to cast %s at and press %s:" local="选择一个目标施展%s，然后按下%s："/>
+    <str id="Select an item to cast %s on and press %s:" value="Select an item to cast %s on and press %s:" local="选择一个物品施展%s，然后按下%s："/>
+    <str id="You can't cast a scroll on itself, nice try though!" value="You can't cast a scroll on itself, nice try though!" local="你不能对卷轴本身使用卷轴，不过脑洞挺大！"/>
+    <str id="Type the legendary name of your weapon or press %s to cancel." value="Type the legendary name of your weapon or press %s to cancel." local="为你的传奇武器命名，或是按下 %s 取消。"/>
+    <str id="You can't use %s on items that are not wieldable weapons." value="You can't use %s on items that are not wieldable weapons." local="你不能针对不是可装备武器的物品使用 %s。"/>
+    <str id="You can't use runes on items that are not blessed and double enchanted." value="You can't use runes on items that are not blessed and double enchanted." local="符石只能用于神圣的物品，且已经附魔过两次。"/>
+    <str id="You can't channel arcane spells through the wand." value="You can't channel arcane spells through the wand." local="你不能用通导魔杖使用奥术。"/>
+    <str id="You can't cast arcane spells without an amulet." value="You can't cast arcane spells without an amulet." local="没有护符不能施放奥术。"/>
+    <str id="You can't cast bestial spells without a bull horn." value="You can't cast bestial spells without a bull horn." local="没有牛角不能施放兽性法术。"/>
+    <str id="You can't cast abyssal spells without a pyramidion." value="You can't cast abyssal spells without a pyramidion." local="没有金字塔无法施放深渊法术。"/>
+    <str id="You can't cast release soul without a soul gem." value="You can't cast release soul without a soul gem." local="没有灵魂石无法释放灵魂。"/>
+    <str id="The spell is on a cooldown with %d turns remaining." value="The spell is on a cooldown with %d turns remaining." local="这个法术还在冷却中，还剩 %d 回合。"/>
+    <str id="You can't cast spells while blinded." value="You can't cast spells while blinded." local="你不能在盲眼时施放法术。"/>
+    <str id="You can't cast spells while confused." value="You can't cast spells while confused." local="你不能在混乱时施放法术。"/>
+    <str id="You can't cast spells while polymorphed." value="You can't cast spells while polymorphed." local="你不能在被变形时施放法术。"/>
+    <str id="You can't cast spells while shapeshifted." value="You can't cast spells while shapeshifted." local="你不能在变形时施放法术。"/>
+    <str id="You can't use %s at the moment." value="You can't use %s at the moment." local="你现在无法使用%s。"/>
+    <str id="You can't cast %s at the moment." value="You can't cast %s at the moment." local="你现在无法施放%s。"/>
   </SpellbookWindow>
   <AbilityGainWindow>
-    <str id="Select ability to increase:" value="Select ability to increase:"/>
+    <str id="Select ability to increase:" value="Select ability to increase:" local="选择提升一项属性："/>
   </AbilityGainWindow>
   <TalentGainWindow>
     <str id="Select talent to learn:" value="Select talent to learn:" local="选择一项天赋学习："/>
