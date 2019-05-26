@@ -547,15 +547,15 @@ CastLogs."You zap %s at %s." You zap %s at %s.
 CastLogs."%s zaps %s at %s." %s zaps %s at %s.
 CastLogs."You can't zap %s there." You can't zap %s there.
 CastLogs."You can't zap where you can't see." You can't zap where you can't see.
-SearchLogs."You notice something skulking in the shadows." You notice something skulking in the shadows.
-SearchLogs."%s notices you skulking in the shadows." %s notices you skulking in the shadows.
-SearchLogs."You notice something and find %s nearby." You notice something and find %s nearby.
-SearchLogs."You search your surroundings and find %s." You search your surroundings and find %s.
-SearchLogs."You notice something and find a hidden door nearby." You notice something and find a hidden door nearby.
-SearchLogs."You notice something and find a hidden passage nearby." You notice something and find a hidden passage nearby.
-SearchLogs."You search your surroundings and find a hidden door nearby." You search your surroundings and find a hidden door nearby.
-SearchLogs."You search your surroundings and find a hidden passage nearby." You search your surroundings and find a hidden passage nearby.
-SearchLogs."You search your surroundings." You search your surroundings.
+SearchLogs."You notice something skulking in the shadows." 你注意到有什么东西藏在阴影里。
+SearchLogs."%s notices you skulking in the shadows." %s注意到你躲在阴影里。
+SearchLogs."You notice something and find %s nearby." 您注意到一些东西，并在附近找到%s。
+SearchLogs."You search your surroundings and find %s." 你搜索四周，发现了%s。
+SearchLogs."You notice something and find a hidden door nearby." 你注意到点什么，附近似乎有一扇暗门。
+SearchLogs."You notice something and find a hidden passage nearby." 你注意到点什么，附近似乎有一个隐藏的通道。
+SearchLogs."You search your surroundings and find a hidden door nearby." 你搜索四周，发现了附近的一扇暗门。
+SearchLogs."You search your surroundings and find a hidden passage nearby." 你搜索四周，发现了一个隐藏的通道。
+SearchLogs."You search your surroundings." 你搜索四周。
 MoveLogs."You attempt to swim while exhausted and inhale some lava." You attempt to swim while exhausted and inhale some lava.
 MoveLogs."You attempt to swim while exhausted and inhale some water." You attempt to swim while exhausted and inhale some water.
 MoveLogs."You are too tired to swim at the moment." You are too tired to swim at the moment.
@@ -606,18 +606,18 @@ MoveLogs."You feel that the universe just farted." You feel that the universe ju
 MoveLogs."The bridge breaks under your weight but you step aside before falling in a chasm." The bridge breaks under your weight but you step aside before falling in a chasm.
 MoveLogs."%s breaks under your weight and you fall down in a lava chasm." %s breaks under your weight and you fall down in a lava chasm.
 MoveLogs."%s breaks under your weight and you fall down in a water chasm." %s breaks under your weight and you fall down in a water chasm.
-RestLogs."You roll your eyes." You roll your eyes.
-RestLogs."You pick your nose." You pick your nose.
-RestLogs."You feel your butt." You feel your butt.
-RestLogs."You suck your thumb." You suck your thumb.
-RestLogs."You wiggle your toe." You wiggle your toe.
-RestLogs."You sniff your armpit." You sniff your armpit.
-RestLogs."You fart silently); whew." You fart silently); whew.
-RestLogs."You rest but don't feel any better." You rest but don't feel any better.
-RestLogs."You rest and feel a bit more energetic." You rest and feel a bit more energetic.
-RestLogs."You rest and feel a bit more healthy." You rest and feel a bit more healthy.
-RestLogs."You rearm %s." You rearm %s.
-RestLogs."%s rearms %s." %s rearms %s.
+RestLogs."You roll your eyes." 你眨了下眼。
+RestLogs."You pick your nose." 你擤了下鼻子。
+RestLogs."You feel your butt." 你拍了拍屁股。
+RestLogs."You suck your thumb." 你吸了下手指。
+RestLogs."You wiggle your toe." 你扭了下脚趾。
+RestLogs."You sniff your armpit." 你闻了下的腋窝。
+RestLogs."You fart silently); whew." 你默默地放了个屁 ;) You fart silently); 噢。
+RestLogs."You rest but don't feel any better." 你休息了一下，但并没有好多少。
+RestLogs."You rest and feel a bit more energetic." 你休息了一下，感觉精力更充沛了。
+RestLogs."You rest and feel a bit more healthy." 你休息了一下，感觉更健康了。
+RestLogs."You rearm %s." 你为%s装弹。
+RestLogs."%s rearms %s." %s为%s装弹。
 UseLogs."You eat a patch of mushrooms." You eat a patch of mushrooms.
 UseLogs."You eat %s." You eat %s.
 UseLogs."You can't eat undead corpses." You can't eat undead corpses.
@@ -1462,10 +1462,10 @@ AddonNames."Dark Iron Spaulders" 黑铁护肩
 AddonNames."Dark Iron Vambraces" 黑铁护腕
 AddonNames."Dark Iron Gauntlets" 黑铁护手
 AddonNames."Dark Iron Sabatons" 黑铁铠靴
-AddonDescs."SpauldersDesc" Spaulders increase your base chance to resist a critical hit disarm effect by 40%.
-AddonDescs."VambracesDesc" Vambraces force the system to re-roll the disarm check if you are disarmed by a critical hit.
-AddonDescs."GlovesDesc" Gloves cause your disarmed weapon to be placed in your inventory instead of the ground.
-AddonDescs."BootsDesc" Boots force the system to attempt a sidestep if a knockback would push you into a chasm or trap.
+AddonDescs."SpauldersDesc" @(30)护肩能提高你对暴击造成缴械效果的免疫机会 40% 。
+AddonDescs."VambracesDesc" @(30)护腕能在你被暴击后将被缴械前重投一次缴械检定骰。
+AddonDescs."GlovesDesc" @(30)手套能在你被缴械后让武器进入你的物品栏而不是掉落在地上。
+AddonDescs."BootsDesc" @(30)靴子能在你被击退到峡谷或陷阱前改为一次侧移。
 AmuletNames."Amulet" 护符
 AmuletNames."Amulet of Abjuration" 结界护符
 AmuletNames."Amulet of Asphyxia" 窒息护符
@@ -1715,10 +1715,10 @@ CharmEffects."Fairy Jizzed Bull Horn" Allows apprentice wizards to learn and cas
 CharmEffects."Engraved Pyramidion" Allows apprentice wizards to learn and cast Abyssal spells while standing in a sacrificial circle.
 CharmEffects."BlessedFamiliar" Any drake attempting to attack you becomes your friend permanently.
 CharmEffects."BlessedOutcasts" Summons a loot hoarder at the first level of every random dungeon.
-CoinNames."Gold Coin" Gold Coin
-CoinStacks."Gold Coin" Gold Coins
-CoinDescs."StoredCoins" There is a total of %d gold coins in your backpack and %d gold coins in the Artisans' Guild vault.
-CoinDescs."Gold Coin" There is a total of %d gold coins in your backpack.
+CoinNames."Gold Coin" 金币
+CoinStacks."Gold Coin" 金币堆
+CoinDescs."StoredCoins" 你的背包中共有 %d 枚金币，还有 %d 枚金币存放在工匠工坊中。
+CoinDescs."Gold Coin" 你在背包中共有 %d 枚金币。
 FoodNames."Meat" 肉
 FoodNames."Fried Meat" 烤肉
 FoodNames."Ribs" 排骨
@@ -2002,8 +2002,8 @@ RuneNames."Rune of Might" 神力符石
 RuneNames."Rune of Power" 威能符石
 RuneNames."Rune of Vigor" 活力符石
 RuneNames."Rune of the Imp" 妖精符石
-RuneDescs."RuneDesc" It's such a shame that an entire race had to die for this rune to exist.
-RuneDescs."Rune of the Imp" This rune gives legendary status to a weapon making it unbreakable and allows you to name the weapon.
+RuneDescs."RuneDesc" 真是令人惭愧，因为这块符石，整个种族都得去死。
+RuneDescs."Rune of the Imp" 这块符石将一件武器变成传奇，使它坚不可摧，并允许你为它命名。
 ScrollNames."Scroll" 卷轴
 ScrollNames."Scroll of Aggravation" 激怒卷轴
 ScrollNames."Scroll of Amnesia" 健忘卷轴
@@ -2462,9 +2462,9 @@ LegendaryDescs."Nightshade" Poisons applied to weapons last forever and count as
 LegendaryDescs."Orbus Bomba" Automatically casts Enlarge Orb at the end of your turn if you are not already affected by it.
 LegendaryDescs."Zombie Dog" Woof comes back to life at the start of a new dungeon if he happens to be dead (reset dungeon in town).
 CreatureNames."Invisible creature" 隐形生物
-CreatureNames."the corpse of %s" %s 的尸体
-CreatureNames."a dead %s" 死去的 %s
-CreatureNames."ghastly skull" 可拍的骷髅
+CreatureNames."the corpse of %s" %s的尸体
+CreatureNames."a dead %s" 死去的%s
+CreatureNames."ghastly skull" 可怕的骷髅
 CreatureNames."pile of bones" 骨堆
 CreatureNames."Beast" 野兽
 CreatureNames."Woof" 狼
@@ -2592,20 +2592,20 @@ CreatureNames."Ghost of Norris" 诺里斯的鬼魂
 CreatureNames."Ghost of Randy" 兰迪的鬼魂
 CreatureNames."Ghost of Sylvie" 西尔维的鬼魂
 CreatureNames."Immortal" 不朽者
-CreatureLogs."You have gained a friend." You have gained a friend.
-CreatureLogs."You have lost a friend." You have lost a friend.
-CreatureLogs."%s summons %s." %s summons %s.
-CreatureLogs."You feel as if there is no hope remaining." You feel as if there is no hope remaining.
-CreatureLogs."You feel as if there is still some hope remaining." You feel as if there is still some hope remaining.
-CreatureLogs."You feel as if a shadow has been lifted from your shoulders." You feel as if a shadow has been lifted from your shoulders.
-CreatureLogs."%s bursts out of the ground." %s bursts out of the ground.
-CreatureLogs."%s bursts out of the ground and consumes %s." %s bursts out of the ground and consumes %s.
-CreatureLogs."%s pushes you aside as it comes forth." %s pushes you aside as it comes forth.
-CreatureLogs."%s plunges straight through your body as it comes forth." %s plunges straight through your body as it comes forth.
-CreatureLogs."%s pushes you aside as it comes out from the depths." %s pushes you aside as it comes out from the depths.
-CreatureLogs."%s plunges straight through your body as it comes out from the depths." %s plunges straight through your body as it comes out from the depths.
-CreatureLogs."%s seems somewhat triggered by your deplorable presence." %s seems somewhat triggered by your deplorable presence.
-CreatureLogs."%s yells: %s, come forth and fulfill your oath!" %s yells: %s, come forth and fulfill your oath!
+CreatureLogs."You have gained a friend." 你获得了一个伙伴。
+CreatureLogs."You have lost a friend." 你失去了一个伙伴。
+CreatureLogs."%s summons %s." %s 召唤 %s。
+CreatureLogs."You feel as if there is no hope remaining." 你觉得似乎已经没有任何希望了。
+CreatureLogs."You feel as if there is still some hope remaining." 你觉得似乎还有一点希望。
+CreatureLogs."You feel as if a shadow has been lifted from your shoulders." 你觉得好像有一个阴影从你的肩膀升起。
+CreatureLogs."%s bursts out of the ground." %s从地上冒出来。
+CreatureLogs."%s bursts out of the ground and consumes %s." %s从地上冒出来，开始吞噬%s。
+CreatureLogs."%s pushes you aside as it comes forth." %s出现了，将你推向一边。
+CreatureLogs."%s plunges straight through your body as it comes forth." %s出现了，直接穿过了你的身体。
+CreatureLogs."%s pushes you aside as it comes out from the depths." %s从深处出现，将你推向一边。
+CreatureLogs."%s plunges straight through your body as it comes out from the depths." %s从深处出现，直接穿过了你的身体。
+CreatureLogs."%s seems somewhat triggered by your deplorable presence." %s似乎是你可悲的存在触发的。
+CreatureLogs."%s yells: %s, come forth and fulfill your oath!" %s喊道：%s，出来，履行你的誓言！
 TileNames."blood pool" 血池
 TileNames."boulder" 巨石
 TileNames."bridge" 桥
@@ -2624,7 +2624,7 @@ TileNames."dark pit" 暗坑
 TileNames."barrel" 桶
 TileNames."cask" 木桶
 TileNames."crate" 箱子
-TileNames."chest" 柜子
+TileNames."chest" 宝箱
 TileNames."bookcase" 书架
 TileNames."cupboard" 橱柜
 TileNames."table" 桌子
@@ -2642,8 +2642,8 @@ TileNames."spiked pit" 尖刺坑
 TileNames."water pit" 水坑
 TileNames."magic trap" 魔法陷阱
 TileNames."tripwire" 绊网
-TileNames."a broken %s" 一个破碎的 %s
-TileNames."the broken %s" 这个破碎的 %s
+TileNames."a broken %s" 破碎的%s
+TileNames."the broken %s" 这个破碎的%s
 TileNames."a wall" 一口井
 TileNames."the wall" 这口井
 TileNames."a floor" 一块地板
@@ -2821,7 +2821,7 @@ RIPTitles."Wanderer" 流浪者
 RIPTitles."Warlock" 术士
 RIPTitles."Warrior" 武士
 RIPTitles."Wizard" 法师
-RIPTitles."----------" ----------
+RIPTitles."----------" ——————————
 RIPTitles."Broad" 辽阔的
 RIPTitles."Cold" 冷酷的
 RIPTitles."Dark" 幽暗的
@@ -2838,7 +2838,7 @@ RIPTitles."Steep" 陡峭的
 RIPTitles."Stony" 多石的
 RIPTitles."White" 白色的
 RIPTitles."Wide" 宽广的
-RIPTitles."----------" ----------
+RIPTitles."----------" ——————————
 RIPTitles."Bridge" 桥
 RIPTitles."Cliff" 悬崖
 RIPTitles."Forest" 森林

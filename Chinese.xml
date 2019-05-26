@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="020f4f16efb62460c587c1484901f7d205046382">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="3a94ac3ebff66835b04d74d32b8386ae3c2e0734">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -603,15 +603,15 @@
     <str id="You can't zap where you can't see." value="You can't zap where you can't see."/>
   </CastLogs>
   <SearchLogs>
-    <str id="You notice something skulking in the shadows." value="You notice something skulking in the shadows."/>
-    <str id="%s notices you skulking in the shadows." value="%s notices you skulking in the shadows."/>
-    <str id="You notice something and find %s nearby." value="You notice something and find %s nearby."/>
-    <str id="You search your surroundings and find %s." value="You search your surroundings and find %s."/>
-    <str id="You notice something and find a hidden door nearby." value="You notice something and find a hidden door nearby."/>
-    <str id="You notice something and find a hidden passage nearby." value="You notice something and find a hidden passage nearby."/>
-    <str id="You search your surroundings and find a hidden door nearby." value="You search your surroundings and find a hidden door nearby."/>
-    <str id="You search your surroundings and find a hidden passage nearby." value="You search your surroundings and find a hidden passage nearby."/>
-    <str id="You search your surroundings." value="You search your surroundings."/>
+    <str id="You notice something skulking in the shadows." value="You notice something skulking in the shadows." local="你注意到有什么东西藏在阴影里。"/>
+    <str id="%s notices you skulking in the shadows." value="%s notices you skulking in the shadows." local="%s注意到你躲在阴影里。"/>
+    <str id="You notice something and find %s nearby." value="You notice something and find %s nearby." local="您注意到一些东西，并在附近找到%s。"/>
+    <str id="You search your surroundings and find %s." value="You search your surroundings and find %s." local="你搜索四周，发现了%s。"/>
+    <str id="You notice something and find a hidden door nearby." value="You notice something and find a hidden door nearby." local="你注意到点什么，附近似乎有一扇暗门。"/>
+    <str id="You notice something and find a hidden passage nearby." value="You notice something and find a hidden passage nearby." local="你注意到点什么，附近似乎有一个隐藏的通道。"/>
+    <str id="You search your surroundings and find a hidden door nearby." value="You search your surroundings and find a hidden door nearby." local="你搜索四周，发现了附近的一扇暗门。"/>
+    <str id="You search your surroundings and find a hidden passage nearby." value="You search your surroundings and find a hidden passage nearby." local="你搜索四周，发现了一个隐藏的通道。"/>
+    <str id="You search your surroundings." value="You search your surroundings." local="你搜索四周。"/>
   </SearchLogs>
   <MoveLogs>
     <str id="You attempt to swim while exhausted and inhale some lava." value="You attempt to swim while exhausted and inhale some lava."/>
@@ -666,18 +666,18 @@
     <str id="%s breaks under your weight and you fall down in a water chasm." value="%s breaks under your weight and you fall down in a water chasm."/>
   </MoveLogs>
   <RestLogs>
-    <str id="You roll your eyes." value="You roll your eyes."/>
-    <str id="You pick your nose." value="You pick your nose."/>
-    <str id="You feel your butt." value="You feel your butt."/>
-    <str id="You suck your thumb." value="You suck your thumb."/>
-    <str id="You wiggle your toe." value="You wiggle your toe."/>
-    <str id="You sniff your armpit." value="You sniff your armpit."/>
-    <str id="You fart silently); whew." value="You fart silently); whew."/>
-    <str id="You rest but don't feel any better." value="You rest but don't feel any better."/>
-    <str id="You rest and feel a bit more energetic." value="You rest and feel a bit more energetic."/>
-    <str id="You rest and feel a bit more healthy." value="You rest and feel a bit more healthy."/>
-    <str id="You rearm %s." value="You rearm %s."/>
-    <str id="%s rearms %s." value="%s rearms %s."/>
+    <str id="You roll your eyes." value="You roll your eyes." local="你眨了下眼。"/>
+    <str id="You pick your nose." value="You pick your nose." local="你擤了下鼻子。"/>
+    <str id="You feel your butt." value="You feel your butt." local="你拍了拍屁股。"/>
+    <str id="You suck your thumb." value="You suck your thumb." local="你吸了下手指。"/>
+    <str id="You wiggle your toe." value="You wiggle your toe." local="你扭了下脚趾。"/>
+    <str id="You sniff your armpit." value="You sniff your armpit." local="你闻了下的腋窝。"/>
+    <str id="You fart silently); whew." value="You fart silently); whew." local="你默默地放了个屁 ;) You fart silently); 噢。"/>
+    <str id="You rest but don't feel any better." value="You rest but don't feel any better." local="你休息了一下，但并没有好多少。"/>
+    <str id="You rest and feel a bit more energetic." value="You rest and feel a bit more energetic." local="你休息了一下，感觉精力更充沛了。"/>
+    <str id="You rest and feel a bit more healthy." value="You rest and feel a bit more healthy." local="你休息了一下，感觉更健康了。"/>
+    <str id="You rearm %s." value="You rearm %s." local="你为%s装弹。"/>
+    <str id="%s rearms %s." value="%s rearms %s." local="%s为%s装弹。"/>
   </RestLogs>
   <UseLogs>
     <str id="You eat a patch of mushrooms." value="You eat a patch of mushrooms."/>
@@ -1591,10 +1591,10 @@
     <str id="Dark Iron Sabatons" value="Dark Iron Sabatons" local="黑铁铠靴"/>
   </AddonNames>
   <AddonDescs>
-    <str id="SpauldersDesc" value="Spaulders increase your base chance to resist a critical hit disarm effect by 40%."/>
-    <str id="VambracesDesc" value="Vambraces force the system to re-roll the disarm check if you are disarmed by a critical hit."/>
-    <str id="GlovesDesc" value="Gloves cause your disarmed weapon to be placed in your inventory instead of the ground."/>
-    <str id="BootsDesc" value="Boots force the system to attempt a sidestep if a knockback would push you into a chasm or trap."/>
+    <str id="SpauldersDesc" value="Spaulders increase your base chance to resist a critical hit disarm effect by 40%." local="护肩能提高你对暴击造成缴械效果&#10;的免疫机会 40% 。"/>
+    <str id="VambracesDesc" value="Vambraces force the system to re-roll the disarm check if you are disarmed by a critical hit." local="护腕能在你被暴击后将被缴械前重&#10;投一次缴械检定骰。"/>
+    <str id="GlovesDesc" value="Gloves cause your disarmed weapon to be placed in your inventory instead of the ground." local="手套能在你被缴械后让武器进入你&#10;的物品栏而不是掉落在地上。"/>
+    <str id="BootsDesc" value="Boots force the system to attempt a sidestep if a knockback would push you into a chasm or trap." local="靴子能在你被击退到峡谷或陷阱前&#10;改为一次侧移。"/>
   </AddonDescs>
   <AmuletNames>
     <str id="Amulet" value="Amulet" local="护符"/>
@@ -1866,14 +1866,14 @@
     <str id="BlessedOutcasts" value="Summons a loot hoarder at the first level of every random dungeon."/>
   </CharmEffects>
   <CoinNames>
-    <str id="Gold Coin" value="Gold Coin"/>
+    <str id="Gold Coin" value="Gold Coin" local="金币"/>
   </CoinNames>
   <CoinStacks>
-    <str id="Gold Coin" value="Gold Coins"/>
+    <str id="Gold Coin" value="Gold Coins" local="金币堆"/>
   </CoinStacks>
   <CoinDescs>
-    <str id="StoredCoins" value="There is a total of %d gold coins in your backpack and %d gold coins in the Artisans' Guild vault."/>
-    <str id="Gold Coin" value="There is a total of %d gold coins in your backpack."/>
+    <str id="StoredCoins" value="There is a total of %d gold coins in your backpack and %d gold coins in the Artisans' Guild vault." local="你的背包中共有 %d 枚金币，还有 %d 枚金币存放在工匠工坊中。"/>
+    <str id="Gold Coin" value="There is a total of %d gold coins in your backpack." local="你在背包中共有 %d 枚金币。"/>
   </CoinDescs>
   <FoodNames>
     <str id="Meat" value="Meat" local="肉"/>
@@ -2177,8 +2177,8 @@
     <str id="Rune of the Imp" value="Rune of the Imp" local="妖精符石"/>
   </RuneNames>
   <RuneDescs>
-    <str id="RuneDesc" value="It's such a shame that an entire race had to die for this rune to exist."/>
-    <str id="Rune of the Imp" value="This rune gives legendary status to a weapon making it unbreakable and allows you to name the weapon."/>
+    <str id="RuneDesc" value="It's such a shame that an entire race had to die for this rune to exist." local="真是令人惭愧，因为这块符石，整个种族都得去死。"/>
+    <str id="Rune of the Imp" value="This rune gives legendary status to a weapon making it unbreakable and allows you to name the weapon." local="这块符石将一件武器变成传奇，使它坚不可摧，并允许你为它命名。"/>
   </RuneDescs>
   <ScrollNames>
     <str id="Scroll" value="Scroll" local="卷轴"/>
@@ -2272,7 +2272,7 @@
     <str id="You suddenly get a strange deja vu feeling." value="You suddenly get a strange deja vu feeling."/>
   </ScrollLogs>
   <ShieldNames>
-    <str id="Fist" value="Fist" local="拳套"/>
+    <str id="Fist" value="Fist" local="拳头"/>
     <str id="Buckler" value="Buckler" local="小盾"/>
     <str id="Target" value="Target" local="圆盾"/>
     <str id="Shield" value="Shield" local="大盾"/>
@@ -2673,9 +2673,9 @@
   </LegendaryDescs>
   <CreatureNames>
     <str id="Invisible creature" value="Invisible creature" local="隐形生物"/>
-    <str id="the corpse of %s" value="the corpse of %s" local="%s 的尸体"/>
-    <str id="a dead %s" value="a dead %s" local="死去的 %s"/>
-    <str id="ghastly skull" value="ghastly skull" local="可拍的骷髅"/>
+    <str id="the corpse of %s" value="the corpse of %s" local="%s的尸体"/>
+    <str id="a dead %s" value="a dead %s" local="死去的%s"/>
+    <str id="ghastly skull" value="ghastly skull" local="可怕的骷髅"/>
     <str id="pile of bones" value="pile of bones" local="骨堆"/>
     <str id="Beast" value="Beast" local="野兽"/>
     <str id="Woof" value="Woof" local="狼"/>
@@ -2683,7 +2683,7 @@
     <str id="Dog" value="Dog" local="狗"/>
     <str id="Dread bat" value="Dread bat" local="蝙蝠"/>
     <str id="Giant rat" value="Giant rat" local="巨鼠"/>
-    <str id="Giant snail" value="Giant snail" local="巨蛇"/>
+    <str id="Giant snail" value="Giant snail" local="蜗牛"/>
     <str id="Snake" value="Snake" local="蛇"/>
     <str id="Spider" value="Spider" local="蜘蛛"/>
     <str id="Whelp" value="Whelp" local="幼龙"/>
@@ -2805,20 +2805,20 @@
     <str id="Immortal" value="Immortal" local="不朽者"/>
   </CreatureNames>
   <CreatureLogs>
-    <str id="You have gained a friend." value="You have gained a friend."/>
-    <str id="You have lost a friend." value="You have lost a friend."/>
-    <str id="%s summons %s." value="%s summons %s."/>
-    <str id="You feel as if there is no hope remaining." value="You feel as if there is no hope remaining."/>
-    <str id="You feel as if there is still some hope remaining." value="You feel as if there is still some hope remaining."/>
-    <str id="You feel as if a shadow has been lifted from your shoulders." value="You feel as if a shadow has been lifted from your shoulders."/>
-    <str id="%s bursts out of the ground." value="%s bursts out of the ground."/>
-    <str id="%s bursts out of the ground and consumes %s." value="%s bursts out of the ground and consumes %s."/>
-    <str id="%s pushes you aside as it comes forth." value="%s pushes you aside as it comes forth."/>
-    <str id="%s plunges straight through your body as it comes forth." value="%s plunges straight through your body as it comes forth."/>
-    <str id="%s pushes you aside as it comes out from the depths." value="%s pushes you aside as it comes out from the depths."/>
-    <str id="%s plunges straight through your body as it comes out from the depths." value="%s plunges straight through your body as it comes out from the depths."/>
-    <str id="%s seems somewhat triggered by your deplorable presence." value="%s seems somewhat triggered by your deplorable presence."/>
-    <str id="%s yells: %s, come forth and fulfill your oath!" value="%s yells: %s, come forth and fulfill your oath!"/>
+    <str id="You have gained a friend." value="You have gained a friend." local="你获得了一个伙伴。"/>
+    <str id="You have lost a friend." value="You have lost a friend." local="你失去了一个伙伴。"/>
+    <str id="%s summons %s." value="%s summons %s." local="%s 召唤 %s。"/>
+    <str id="You feel as if there is no hope remaining." value="You feel as if there is no hope remaining." local="你觉得似乎已经没有任何希望了。"/>
+    <str id="You feel as if there is still some hope remaining." value="You feel as if there is still some hope remaining." local="你觉得似乎还有一点希望。"/>
+    <str id="You feel as if a shadow has been lifted from your shoulders." value="You feel as if a shadow has been lifted from your shoulders." local="你觉得好像有一个阴影从你的肩膀升起。"/>
+    <str id="%s bursts out of the ground." value="%s bursts out of the ground." local="%s从地上冒出来。"/>
+    <str id="%s bursts out of the ground and consumes %s." value="%s bursts out of the ground and consumes %s." local="%s从地上冒出来，开始吞噬%s。"/>
+    <str id="%s pushes you aside as it comes forth." value="%s pushes you aside as it comes forth." local="%s出现了，将你推向一边。"/>
+    <str id="%s plunges straight through your body as it comes forth." value="%s plunges straight through your body as it comes forth." local="%s出现了，直接穿过了你的身体。"/>
+    <str id="%s pushes you aside as it comes out from the depths." value="%s pushes you aside as it comes out from the depths." local="%s从深处出现，将你推向一边。"/>
+    <str id="%s plunges straight through your body as it comes out from the depths." value="%s plunges straight through your body as it comes out from the depths." local="%s从深处出现，直接穿过了你的身体。"/>
+    <str id="%s seems somewhat triggered by your deplorable presence." value="%s seems somewhat triggered by your deplorable presence." local="%s似乎是你可悲的存在触发的。"/>
+    <str id="%s yells: %s, come forth and fulfill your oath!" value="%s yells: %s, come forth and fulfill your oath!" local="%s喊道：%s，出来，履行你的誓言！"/>
   </CreatureLogs>
   <TileNames>
     <str id="blood pool" value="blood pool" local="血池"/>
@@ -2839,7 +2839,7 @@
     <str id="barrel" value="barrel" local="桶"/>
     <str id="cask" value="cask" local="木桶"/>
     <str id="crate" value="crate" local="箱子"/>
-    <str id="chest" value="chest" local="柜子"/>
+    <str id="chest" value="chest" local="宝箱"/>
     <str id="bookcase" value="bookcase" local="书架"/>
     <str id="cupboard" value="cupboard" local="橱柜"/>
     <str id="table" value="table" local="桌子"/>
@@ -2857,8 +2857,8 @@
     <str id="water pit" value="water pit" local="水坑"/>
     <str id="magic trap" value="magic trap" local="魔法陷阱"/>
     <str id="tripwire" value="tripwire" local="绊网"/>
-    <str id="a broken %s" value="a broken %s" local="一个破碎的 %s"/>
-    <str id="the broken %s" value="the broken %s" local="这个破碎的 %s"/>
+    <str id="a broken %s" value="a broken %s" local="破碎的%s"/>
+    <str id="the broken %s" value="the broken %s" local="这个破碎的%s"/>
     <str id="a wall" value="a wall" local="一口井"/>
     <str id="the wall" value="the wall" local="这口井"/>
     <str id="a floor" value="a floor" local="一块地板"/>
@@ -3023,7 +3023,7 @@
     <str id="Here lies %s." value="Here lies %s." local="%s 在此长眠。"/>
     <str id="Here lies %s the %s." value="Here lies %s the %s." local="%s %s 在此长眠。"/>
     <str id="Here lies %s from %s %s." value="Here lies %s from %s %s." local="%s 在此长眠，来自 %s %s 。"/>
-    <str id="----------" value="----------"/>
+    <str id="----------" value="----------" local="——————————"/>
     <str id="Archer" value="Archer" local="射手"/>
     <str id="Bowman" value="Bowman" local="弓箭手"/>
     <str id="Champion" value="Champion" local="冠军"/>
@@ -3040,7 +3040,7 @@
     <str id="Warlock" value="Warlock" local="术士"/>
     <str id="Warrior" value="Warrior" local="武士"/>
     <str id="Wizard" value="Wizard" local="法师"/>
-    <str id="----------" value="----------"/>
+    <str id="----------" value="----------" local="——————————"/>
     <str id="Broad" value="Broad" local="辽阔的"/>
     <str id="Cold" value="Cold" local="冷酷的"/>
     <str id="Dark" value="Dark" local="幽暗的"/>
@@ -3057,7 +3057,7 @@
     <str id="Stony" value="Stony" local="多石的"/>
     <str id="White" value="White" local="白色的"/>
     <str id="Wide" value="Wide" local="宽广的"/>
-    <str id="----------" value="----------"/>
+    <str id="----------" value="----------" local="——————————"/>
     <str id="Bridge" value="Bridge" local="桥"/>
     <str id="Cliff" value="Cliff" local="悬崖"/>
     <str id="Forest" value="Forest" local="森林"/>
