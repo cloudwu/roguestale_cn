@@ -2801,60 +2801,60 @@ TileLogs."STEP_ON_GATE_TRIGGER" You step on %s and hear some mechanical sounds.
 TileLogs."YOU_SEE_ALARM_TRIGGER" You see %s that is attached to a number of alarm bells.
 TileLogs."YOU_SEE_CRUSH_TRIGGER" You see %s that drops a boulder hanging from the ceiling.
 TileLogs."YOU_SEE_GATE_TRIGGER" You see %s that seems to be connected to a gate nearby.
-RIPTitles."Here lies %s." Here lies %s.
-RIPTitles."Here lies %s the %s." Here lies %s the %s.
-RIPTitles."Here lies %s from %s %s." Here lies %s from %s %s.
+RIPTitles."Here lies %s." %s 在此长眠。
+RIPTitles."Here lies %s the %s." %s %s 在此长眠。
+RIPTitles."Here lies %s from %s %s." %s 在此长眠，来自 %s %s 。
 RIPTitles."----------" ----------
-RIPTitles."Archer" Archer
-RIPTitles."Bowman" Bowman
-RIPTitles."Champion" Champion
-RIPTitles."Fighter" Fighter
-RIPTitles."Guardian" Guardian
-RIPTitles."Hunter" Hunter
-RIPTitles."Marksman" Marksman
-RIPTitles."Minstrel" Minstrel
-RIPTitles."Paladin" Paladin
-RIPTitles."Priest" Priest
-RIPTitles."Prophet" Prophet
-RIPTitles."Trainer" Trainer
-RIPTitles."Wanderer" Wanderer
-RIPTitles."Warlock" Warlock
-RIPTitles."Warrior" Warrior
-RIPTitles."Wizard" Wizard
+RIPTitles."Archer" 射手
+RIPTitles."Bowman" 弓箭手
+RIPTitles."Champion" 冠军
+RIPTitles."Fighter" 战士
+RIPTitles."Guardian" 守护者
+RIPTitles."Hunter" 猎人
+RIPTitles."Marksman" 神射手
+RIPTitles."Minstrel" 吟游诗人
+RIPTitles."Paladin" 圣骑士
+RIPTitles."Priest" 祭祀
+RIPTitles."Prophet" 先知
+RIPTitles."Trainer" 导师
+RIPTitles."Wanderer" 流浪者
+RIPTitles."Warlock" 术士
+RIPTitles."Warrior" 武士
+RIPTitles."Wizard" 法师
 RIPTitles."----------" ----------
-RIPTitles."Broad" Broad
-RIPTitles."Cold" Cold
-RIPTitles."Dark" Dark
-RIPTitles."Flat" Flat
-RIPTitles."Great" Great
-RIPTitles."Grey" Grey
-RIPTitles."High" High
-RIPTitles."Misty" Misty
-RIPTitles."Narrow" Narrow
-RIPTitles."New" New
-RIPTitles."Old" Old
-RIPTitles."Rocky" Rocky
-RIPTitles."Steep" Steep
-RIPTitles."Stony" Stony
-RIPTitles."White" White
-RIPTitles."Wide" Wide
+RIPTitles."Broad" 辽阔的
+RIPTitles."Cold" 冷酷的
+RIPTitles."Dark" 幽暗的
+RIPTitles."Flat" 平坦的
+RIPTitles."Great" 伟大的
+RIPTitles."Grey" 黑色的
+RIPTitles."High" 至高的
+RIPTitles."Misty" 模糊的
+RIPTitles."Narrow" 狭窄的
+RIPTitles."New" 新的
+RIPTitles."Old" 旧的
+RIPTitles."Rocky" 岩石的
+RIPTitles."Steep" 陡峭的
+RIPTitles."Stony" 多石的
+RIPTitles."White" 白色的
+RIPTitles."Wide" 宽广的
 RIPTitles."----------" ----------
-RIPTitles."Bridge" Bridge
-RIPTitles."Cliff" Cliff
-RIPTitles."Forest" Forest
-RIPTitles."Grove" Grove
-RIPTitles."Hill" Hill
-RIPTitles."House" House
-RIPTitles."Land" Land
-RIPTitles."Manor" Manor
-RIPTitles."Meadow" Meadow
-RIPTitles."Mountain" Mountain
-RIPTitles."Plains" Plains
-RIPTitles."River" River
-RIPTitles."Stream" Stream
-RIPTitles."Town" Town
-RIPTitles."Valley" Valley
-RIPTitles."Well" Well
+RIPTitles."Bridge" 桥
+RIPTitles."Cliff" 悬崖
+RIPTitles."Forest" 森林
+RIPTitles."Grove" 小树林
+RIPTitles."Hill" 山丘
+RIPTitles."House" 屋子
+RIPTitles."Land" 土地
+RIPTitles."Manor" 庄园
+RIPTitles."Meadow" 草地
+RIPTitles."Mountain" 大山
+RIPTitles."Plains" 平原
+RIPTitles."River" 河流
+RIPTitles."Stream" 小溪
+RIPTitles."Town" 城镇
+RIPTitles."Valley" 山谷
+RIPTitles."Well" 水井
 CauseOfDeath."COD_RETIRE" %s died of old age several years after retiring from adventuring.
 CauseOfDeath."COD_CHEATER" %s died of severe anxiety caused by trying to cheat the game.
 CauseOfDeath."COD_UNKNOWN" %s died of, well, nobody really knows why.
@@ -3597,26 +3597,26 @@ GameScreen."You can't look around while blinded." You can't look around while bl
 GameScreen."You can't look around while confused." You can't look around while confused.
 GameScreen."Select a target to look at and press %s:" Select a target to look at and press %s:
 GameScreen."You can't chat while silenced, duh!" You can't chat while silenced, duh!
-LootWindow."Buy:" Buy:
-LootWindow."Craft:" Craft:
-LootWindow."Loot:" Loot:
-LootWindow."You ask the artisans to craft you %s." You ask the artisans to craft you %s.
-EnchantWindow."Choose enchant:" Choose enchant:
-EnchantWindow."You make your choice and the item is enchanted as %s." You make your choice and the item is enchanted as %s.
-EnchantWindow."You make your choice and %s is enchanted." You make your choice and %s is enchanted.
-InventoryWindow."Equip:" Equip:
-InventoryWindow."Unequip:" Unequip:
-InventoryWindow."Discard:" Discard:
-InventoryWindow."Drop:" Drop:
-InventoryWindow."Throw:" Throw:
-InventoryWindow."Sell:" Sell:
-InventoryWindow."Repair:" Repair:
-InventoryWindow."Identify:" Identify:
-InventoryWindow."Enchant:" Enchant:
-InventoryWindow."Store:" Store:
-InventoryWindow."Select:" Select:
-InventoryWindow."Bind ring:" Bind ring:
-InventoryWindow."You can't wield that in the offhand." You can't wield that in the offhand.
+LootWindow."Buy:" 购买：
+LootWindow."Craft:" 制造：
+LootWindow."Loot:" 拾取：
+LootWindow."You ask the artisans to craft you %s." 你请工匠帮你制造 %s 。
+EnchantWindow."Choose enchant:" 选择附魔：
+EnchantWindow."You make your choice and the item is enchanted as %s." 你做出了选择，物品被附上 %s 。
+EnchantWindow."You make your choice and %s is enchanted." 你做出了选择，%s 被附魔了。
+InventoryWindow."Equip:" 装备：
+InventoryWindow."Unequip:" 卸下：
+InventoryWindow."Discard:" 放弃：
+InventoryWindow."Drop:" 扔下：
+InventoryWindow."Throw:" 投掷：
+InventoryWindow."Sell:" 出售：
+InventoryWindow."Repair:" 修理：
+InventoryWindow."Identify:" 鉴定：
+InventoryWindow."Enchant:" 附魔：
+InventoryWindow."Store:" 存储：
+InventoryWindow."Select:" 选择：
+InventoryWindow."Bind ring:" 绑定戒指：
+InventoryWindow."You can't wield that in the offhand." 你不能在扶手穿戴那个。
 InventoryWindow."You can't swap that, it's magically bound to you!" You can't swap that, it's magically bound to you!
 InventoryWindow."You can sell the item by holding down the Ctrl-key." You can sell the item by holding down the Ctrl-key.
 InventoryWindow."You can store the item by holding down the Ctrl-key." You can store the item by holding down the Ctrl-key.
@@ -4094,29 +4094,29 @@ HeroScreen."- Artisans have no materials." - 工匠没有材料。
 HeroScreen."- The snail cushion is not there." - 没有蜗牛。
 HeroScreen."- The cultists should be stopped." - 必须制止邪教徒。
 HeroScreen."- Unlocks the Kingslayer title." - 解锁 弑君者 头衔。
-ErrorStrings."Steam must be running to play this game." Steam must be running to play this game.
-ErrorStrings."Unable to connect to the server." Unable to connect to the server.
-ErrorStrings."Disconnected by the server." Disconnected by the server.
-ErrorStrings."Disconnected by the server due to another session." Disconnected by the server due to another session.
-ErrorStrings."Thank you for trying to cheat. Your account is now deleted. Have a good day." Thank you for trying to cheat. Your account is now deleted. Have a good day.
-ErrorStrings."Account deleted successfully." Account deleted successfully.
-ErrorStrings."Password changed successfully." Password changed successfully.
-ErrorStrings."Singleton data save failed due to a file system error." Singleton data save failed due to a file system error.
-ErrorStrings."Achievement data save failed due to a file system error." Achievement data save failed due to a file system error.
-ErrorStrings."Highscore data save failed due to a file system error." Highscore data save failed due to a file system error.
-ErrorStrings."Key config data save failed due to a file system error." Key config data save failed due to a file system error.
-ErrorStrings."Statistic data save failed due to a file system error." Statistic data save failed due to a file system error.
-ErrorStrings."Hero creation failed due to a file system error." Hero creation failed due to a file system error.
-ErrorStrings."Hero deletion failed due to a file system error." Hero deletion failed due to a file system error.
-ErrorStrings."Hero saving failed due to a file system error." Hero saving failed due to a file system error.
-ErrorStrings."Hero loading failed due to a file system error." Hero loading failed due to a file system error.
-ErrorStrings."Unknown server error!" Unknown server error!
-ChatStrings."Admin:" Admin:
-ChatStrings."Server:" Server:
-ChatStrings."Town crier:" Town crier:
-ChatStrings."All hail %s!" All hail %s!
-ChatStrings."%s You have to wait two seconds before sending another message." %s You have to wait two seconds before sending another message.
-ChatStrings."You can view and change key bindings in the main menu %s." You can view and change key bindings in the main menu %s.
+ErrorStrings."Steam must be running to play this game." 玩游戏时 Steam 必须处于运行状态。
+ErrorStrings."Unable to connect to the server." 无法连接到服务器。
+ErrorStrings."Disconnected by the server." 从服务器断开。
+ErrorStrings."Disconnected by the server due to another session." 因为有另一个会话，所以从服务器断开。
+ErrorStrings."Thank you for trying to cheat. Your account is now deleted. Have a good day." 谢谢你尝试作弊。你的账号现在被删除了。祝你度过美好的一天。
+ErrorStrings."Account deleted successfully." 账号成功删除。
+ErrorStrings."Password changed successfully." 密码更改成功。
+ErrorStrings."Singleton data save failed due to a file system error." 因为文件系统错误，全局数据保存失败。
+ErrorStrings."Achievement data save failed due to a file system error." 因为文件系统错误，成就数据保存失败。
+ErrorStrings."Highscore data save failed due to a file system error." 因为文件系统错误，最高分数据保存失败。
+ErrorStrings."Key config data save failed due to a file system error." 因为文件系统错误，键盘配置数据保存失败。
+ErrorStrings."Statistic data save failed due to a file system error." 因为文件系统错误，状态数据保存失败。
+ErrorStrings."Hero creation failed due to a file system error." 因为文件系统错误，英雄无法创建。
+ErrorStrings."Hero deletion failed due to a file system error." 因为文件系统错误，影响无法删除。
+ErrorStrings."Hero saving failed due to a file system error." 因为文件系统错误，英雄保存失败。
+ErrorStrings."Hero loading failed due to a file system error." 因为文件系统错误，英雄加载失败。
+ErrorStrings."Unknown server error!" 未知的服务器错误！
+ChatStrings."Admin:" 管理员：
+ChatStrings."Server:" 服务器：
+ChatStrings."Town crier:" 街头公告员：
+ChatStrings."All hail %s!" %s 万岁！
+ChatStrings."%s You have to wait two seconds before sending another message." %s 你必须等两秒钟才能发下一条消息。
+ChatStrings."You can view and change key bindings in the main menu %s." 你可以在主菜单 %s 浏览和修改热键。
 ChatStrings."Commands:" 命令：
 ChatStrings."/search" /search（搜索）
 ChatStrings."/score" /score（得分）
@@ -4125,17 +4125,17 @@ ChatStrings."/dog" /dog（狗）
 ChatStrings."/resetdog" /resetdog（重置狗）
 ChatStrings."/skipnull" /skipnull（跳过）
 ChatStrings."/mrgsteam" /mrgsteam（导入Steam）
-ChatStrings."Type %s to set the number of search attempts (using values 1 through 6)." Type %s to set the number of search attempts (using values 1 through 6).
-ChatStrings."Search attempts has been set to %d." Search attempts has been set to %d.
-ChatStrings."Your current score is %d." Your current score is %d.
-ChatStrings."Items are now sorted vertically." Items are now sorted vertically.
-ChatStrings."Items are now sorted horizontally." Items are now sorted horizontally.
-ChatStrings."Tutorial dog is ready to guide you once more." Tutorial dog is ready to guide you once more.
-ChatStrings."Tutorial dog can only be reset while in dungeon." Tutorial dog can only be reset while in dungeon.
-ChatStrings."Null strings are now printed on the log." Null strings are now printed on the log.
-ChatStrings."Null strings are no longer printed on the log." Null strings are no longer printed on the log.
-ChatStrings."Steam achievements have been merged." Steam achievements have been merged.
-ChatStrings."Third leg starts to wiggle and it attempts to fill your every orifice before exploding to pieces." Third leg starts to wiggle and it attempts to fill your every orifice before exploding to pieces.
+ChatStrings."Type %s to set the number of search attempts (using values 1 through 6)." 输入 %s 已设置搜索尝试次数（从 1 到 6）。
+ChatStrings."Search attempts has been set to %d." 搜索尝试次数被设置为 %d 。
+ChatStrings."Your current score is %d." 你当前的分数为 %d 。
+ChatStrings."Items are now sorted vertically." 物品现在以垂直方式排序。
+ChatStrings."Items are now sorted horizontally." 物品现在以水平方式排序。
+ChatStrings."Tutorial dog is ready to guide you once more." 界面狗准备好再引导你一次。
+ChatStrings."Tutorial dog can only be reset while in dungeon." 界面狗只能在地牢中才可以重置。
+ChatStrings."Null strings are now printed on the log." 现在空字符串会在记录中打印。
+ChatStrings."Null strings are no longer printed on the log." 现在空字符串不会在记录中打印。
+ChatStrings."Steam achievements have been merged." Steam 成就被合并。
+ChatStrings."Third leg starts to wiggle and it attempts to fill your every orifice before exploding to pieces." 第三条腿开始扭动，试图从你身上的每一个孔钻进去。它即将爆炸。
 RogueTips."Tip of the day:" 今日提示：
 RogueTips."Press %s and type %s to view some basic info." 按下 %s 然后输入 %s 可以浏览一下基本信息。
 RogueTips."Hover mouse over your abilities to see how they function." 将鼠标停留在你的能力点上可以看到它们起怎样的效果。

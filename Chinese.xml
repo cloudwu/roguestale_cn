@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="056f5b48c5aad748d40cd76f413ccfbb4deabb64">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="10e1e7cdac1f6caee2731b4841f81854c365fb59">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -3020,60 +3020,60 @@
     <str id="YOU_SEE_GATE_TRIGGER" value="You see %s that seems to be connected to a gate nearby."/>
   </TileLogs>
   <RIPTitles>
-    <str id="Here lies %s." value="Here lies %s."/>
-    <str id="Here lies %s the %s." value="Here lies %s the %s."/>
-    <str id="Here lies %s from %s %s." value="Here lies %s from %s %s."/>
+    <str id="Here lies %s." value="Here lies %s." local="%s 在此长眠。"/>
+    <str id="Here lies %s the %s." value="Here lies %s the %s." local="%s %s 在此长眠。"/>
+    <str id="Here lies %s from %s %s." value="Here lies %s from %s %s." local="%s 在此长眠，来自 %s %s 。"/>
     <str id="----------" value="----------"/>
-    <str id="Archer" value="Archer"/>
-    <str id="Bowman" value="Bowman"/>
-    <str id="Champion" value="Champion"/>
-    <str id="Fighter" value="Fighter"/>
-    <str id="Guardian" value="Guardian"/>
-    <str id="Hunter" value="Hunter"/>
-    <str id="Marksman" value="Marksman"/>
-    <str id="Minstrel" value="Minstrel"/>
-    <str id="Paladin" value="Paladin"/>
-    <str id="Priest" value="Priest"/>
-    <str id="Prophet" value="Prophet"/>
-    <str id="Trainer" value="Trainer"/>
-    <str id="Wanderer" value="Wanderer"/>
-    <str id="Warlock" value="Warlock"/>
-    <str id="Warrior" value="Warrior"/>
-    <str id="Wizard" value="Wizard"/>
+    <str id="Archer" value="Archer" local="射手"/>
+    <str id="Bowman" value="Bowman" local="弓箭手"/>
+    <str id="Champion" value="Champion" local="冠军"/>
+    <str id="Fighter" value="Fighter" local="战士"/>
+    <str id="Guardian" value="Guardian" local="守护者"/>
+    <str id="Hunter" value="Hunter" local="猎人"/>
+    <str id="Marksman" value="Marksman" local="神射手"/>
+    <str id="Minstrel" value="Minstrel" local="吟游诗人"/>
+    <str id="Paladin" value="Paladin" local="圣骑士"/>
+    <str id="Priest" value="Priest" local="祭祀"/>
+    <str id="Prophet" value="Prophet" local="先知"/>
+    <str id="Trainer" value="Trainer" local="导师"/>
+    <str id="Wanderer" value="Wanderer" local="流浪者"/>
+    <str id="Warlock" value="Warlock" local="术士"/>
+    <str id="Warrior" value="Warrior" local="武士"/>
+    <str id="Wizard" value="Wizard" local="法师"/>
     <str id="----------" value="----------"/>
-    <str id="Broad" value="Broad"/>
-    <str id="Cold" value="Cold"/>
-    <str id="Dark" value="Dark"/>
-    <str id="Flat" value="Flat"/>
-    <str id="Great" value="Great"/>
-    <str id="Grey" value="Grey"/>
-    <str id="High" value="High"/>
-    <str id="Misty" value="Misty"/>
-    <str id="Narrow" value="Narrow"/>
-    <str id="New" value="New"/>
-    <str id="Old" value="Old"/>
-    <str id="Rocky" value="Rocky"/>
-    <str id="Steep" value="Steep"/>
-    <str id="Stony" value="Stony"/>
-    <str id="White" value="White"/>
-    <str id="Wide" value="Wide"/>
+    <str id="Broad" value="Broad" local="辽阔的"/>
+    <str id="Cold" value="Cold" local="冷酷的"/>
+    <str id="Dark" value="Dark" local="幽暗的"/>
+    <str id="Flat" value="Flat" local="平坦的"/>
+    <str id="Great" value="Great" local="伟大的"/>
+    <str id="Grey" value="Grey" local="黑色的"/>
+    <str id="High" value="High" local="至高的"/>
+    <str id="Misty" value="Misty" local="模糊的"/>
+    <str id="Narrow" value="Narrow" local="狭窄的"/>
+    <str id="New" value="New" local="新的"/>
+    <str id="Old" value="Old" local="旧的"/>
+    <str id="Rocky" value="Rocky" local="岩石的"/>
+    <str id="Steep" value="Steep" local="陡峭的"/>
+    <str id="Stony" value="Stony" local="多石的"/>
+    <str id="White" value="White" local="白色的"/>
+    <str id="Wide" value="Wide" local="宽广的"/>
     <str id="----------" value="----------"/>
-    <str id="Bridge" value="Bridge"/>
-    <str id="Cliff" value="Cliff"/>
-    <str id="Forest" value="Forest"/>
-    <str id="Grove" value="Grove"/>
-    <str id="Hill" value="Hill"/>
-    <str id="House" value="House"/>
-    <str id="Land" value="Land"/>
-    <str id="Manor" value="Manor"/>
-    <str id="Meadow" value="Meadow"/>
-    <str id="Mountain" value="Mountain"/>
-    <str id="Plains" value="Plains"/>
-    <str id="River" value="River"/>
-    <str id="Stream" value="Stream"/>
-    <str id="Town" value="Town"/>
-    <str id="Valley" value="Valley"/>
-    <str id="Well" value="Well"/>
+    <str id="Bridge" value="Bridge" local="桥"/>
+    <str id="Cliff" value="Cliff" local="悬崖"/>
+    <str id="Forest" value="Forest" local="森林"/>
+    <str id="Grove" value="Grove" local="小树林"/>
+    <str id="Hill" value="Hill" local="山丘"/>
+    <str id="House" value="House" local="屋子"/>
+    <str id="Land" value="Land" local="土地"/>
+    <str id="Manor" value="Manor" local="庄园"/>
+    <str id="Meadow" value="Meadow" local="草地"/>
+    <str id="Mountain" value="Mountain" local="大山"/>
+    <str id="Plains" value="Plains" local="平原"/>
+    <str id="River" value="River" local="河流"/>
+    <str id="Stream" value="Stream" local="小溪"/>
+    <str id="Town" value="Town" local="城镇"/>
+    <str id="Valley" value="Valley" local="山谷"/>
+    <str id="Well" value="Well" local="水井"/>
   </RIPTitles>
   <CauseOfDeath>
     <str id="COD_RETIRE" value="%s died of old age several years after retiring from adventuring."/>
@@ -3970,30 +3970,30 @@
     <str id="You can't chat while silenced, duh!" value="You can't chat while silenced, duh!"/>
   </GameScreen>
   <LootWindow>
-    <str id="Buy:" value="Buy:"/>
-    <str id="Craft:" value="Craft:"/>
-    <str id="Loot:" value="Loot:"/>
-    <str id="You ask the artisans to craft you %s." value="You ask the artisans to craft you %s."/>
+    <str id="Buy:" value="Buy:" local="购买："/>
+    <str id="Craft:" value="Craft:" local="制造："/>
+    <str id="Loot:" value="Loot:" local="拾取："/>
+    <str id="You ask the artisans to craft you %s." value="You ask the artisans to craft you %s." local="你请工匠帮你制造 %s 。"/>
   </LootWindow>
   <EnchantWindow>
-    <str id="Choose enchant:" value="Choose enchant:"/>
-    <str id="You make your choice and the item is enchanted as %s." value="You make your choice and the item is enchanted as %s."/>
-    <str id="You make your choice and %s is enchanted." value="You make your choice and %s is enchanted."/>
+    <str id="Choose enchant:" value="Choose enchant:" local="选择附魔："/>
+    <str id="You make your choice and the item is enchanted as %s." value="You make your choice and the item is enchanted as %s." local="你做出了选择，物品被附上 %s 。"/>
+    <str id="You make your choice and %s is enchanted." value="You make your choice and %s is enchanted." local="你做出了选择，%s 被附魔了。"/>
   </EnchantWindow>
   <InventoryWindow>
-    <str id="Equip:" value="Equip:"/>
-    <str id="Unequip:" value="Unequip:"/>
-    <str id="Discard:" value="Discard:"/>
-    <str id="Drop:" value="Drop:"/>
-    <str id="Throw:" value="Throw:"/>
-    <str id="Sell:" value="Sell:"/>
-    <str id="Repair:" value="Repair:"/>
-    <str id="Identify:" value="Identify:"/>
-    <str id="Enchant:" value="Enchant:"/>
-    <str id="Store:" value="Store:"/>
-    <str id="Select:" value="Select:"/>
-    <str id="Bind ring:" value="Bind ring:"/>
-    <str id="You can't wield that in the offhand." value="You can't wield that in the offhand."/>
+    <str id="Equip:" value="Equip:" local="装备："/>
+    <str id="Unequip:" value="Unequip:" local="卸下："/>
+    <str id="Discard:" value="Discard:" local="放弃："/>
+    <str id="Drop:" value="Drop:" local="扔下："/>
+    <str id="Throw:" value="Throw:" local="投掷："/>
+    <str id="Sell:" value="Sell:" local="出售："/>
+    <str id="Repair:" value="Repair:" local="修理："/>
+    <str id="Identify:" value="Identify:" local="鉴定："/>
+    <str id="Enchant:" value="Enchant:" local="附魔："/>
+    <str id="Store:" value="Store:" local="存储："/>
+    <str id="Select:" value="Select:" local="选择："/>
+    <str id="Bind ring:" value="Bind ring:" local="绑定戒指："/>
+    <str id="You can't wield that in the offhand." value="You can't wield that in the offhand." local="你不能在扶手穿戴那个。"/>
     <str id="You can't swap that, it's magically bound to you!" value="You can't swap that, it's magically bound to you!"/>
     <str id="You can sell the item by holding down the Ctrl-key." value="You can sell the item by holding down the Ctrl-key."/>
     <str id="You can store the item by holding down the Ctrl-key." value="You can store the item by holding down the Ctrl-key."/>
@@ -4559,31 +4559,31 @@
     <str id="- Unlocks the Kingslayer title." value="- Unlocks the Kingslayer title." local="- 解锁 弑君者 头衔。"/>
   </HeroScreen>
   <ErrorStrings>
-    <str id="Steam must be running to play this game." value="Steam must be running to play this game."/>
-    <str id="Unable to connect to the server." value="Unable to connect to the server."/>
-    <str id="Disconnected by the server." value="Disconnected by the server."/>
-    <str id="Disconnected by the server due to another session." value="Disconnected by the server due to another session."/>
-    <str id="Thank you for trying to cheat. Your account is now deleted. Have a good day." value="Thank you for trying to cheat. Your account is now deleted. Have a good day."/>
-    <str id="Account deleted successfully." value="Account deleted successfully."/>
-    <str id="Password changed successfully." value="Password changed successfully."/>
-    <str id="Singleton data save failed due to a file system error." value="Singleton data save failed due to a file system error."/>
-    <str id="Achievement data save failed due to a file system error." value="Achievement data save failed due to a file system error."/>
-    <str id="Highscore data save failed due to a file system error." value="Highscore data save failed due to a file system error."/>
-    <str id="Key config data save failed due to a file system error." value="Key config data save failed due to a file system error."/>
-    <str id="Statistic data save failed due to a file system error." value="Statistic data save failed due to a file system error."/>
-    <str id="Hero creation failed due to a file system error." value="Hero creation failed due to a file system error."/>
-    <str id="Hero deletion failed due to a file system error." value="Hero deletion failed due to a file system error."/>
-    <str id="Hero saving failed due to a file system error." value="Hero saving failed due to a file system error."/>
-    <str id="Hero loading failed due to a file system error." value="Hero loading failed due to a file system error."/>
-    <str id="Unknown server error!" value="Unknown server error!"/>
+    <str id="Steam must be running to play this game." value="Steam must be running to play this game." local="玩游戏时 Steam 必须处于运行状态。"/>
+    <str id="Unable to connect to the server." value="Unable to connect to the server." local="无法连接到服务器。"/>
+    <str id="Disconnected by the server." value="Disconnected by the server." local="从服务器断开。"/>
+    <str id="Disconnected by the server due to another session." value="Disconnected by the server due to another session." local="因为有另一个会话，所以从服务器断开。"/>
+    <str id="Thank you for trying to cheat. Your account is now deleted. Have a good day." value="Thank you for trying to cheat. Your account is now deleted. Have a good day." local="谢谢你尝试作弊。你的账号现在被删除了。祝你度过美好的一天。"/>
+    <str id="Account deleted successfully." value="Account deleted successfully." local="账号成功删除。"/>
+    <str id="Password changed successfully." value="Password changed successfully." local="密码更改成功。"/>
+    <str id="Singleton data save failed due to a file system error." value="Singleton data save failed due to a file system error." local="因为文件系统错误，全局数据保存失败。"/>
+    <str id="Achievement data save failed due to a file system error." value="Achievement data save failed due to a file system error." local="因为文件系统错误，成就数据保存失败。"/>
+    <str id="Highscore data save failed due to a file system error." value="Highscore data save failed due to a file system error." local="因为文件系统错误，最高分数据保存失败。"/>
+    <str id="Key config data save failed due to a file system error." value="Key config data save failed due to a file system error." local="因为文件系统错误，键盘配置数据保存失败。"/>
+    <str id="Statistic data save failed due to a file system error." value="Statistic data save failed due to a file system error." local="因为文件系统错误，状态数据保存失败。"/>
+    <str id="Hero creation failed due to a file system error." value="Hero creation failed due to a file system error." local="因为文件系统错误，英雄无法创建。"/>
+    <str id="Hero deletion failed due to a file system error." value="Hero deletion failed due to a file system error." local="因为文件系统错误，影响无法删除。"/>
+    <str id="Hero saving failed due to a file system error." value="Hero saving failed due to a file system error." local="因为文件系统错误，英雄保存失败。"/>
+    <str id="Hero loading failed due to a file system error." value="Hero loading failed due to a file system error." local="因为文件系统错误，英雄加载失败。"/>
+    <str id="Unknown server error!" value="Unknown server error!" local="未知的服务器错误！"/>
   </ErrorStrings>
   <ChatStrings>
-    <str id="Admin:" value="Admin:"/>
-    <str id="Server:" value="Server:"/>
-    <str id="Town crier:" value="Town crier:"/>
-    <str id="All hail %s!" value="All hail %s!"/>
-    <str id="%s You have to wait two seconds before sending another message." value="%s You have to wait two seconds before sending another message."/>
-    <str id="You can view and change key bindings in the main menu %s." value="You can view and change key bindings in the main menu %s."/>
+    <str id="Admin:" value="Admin:" local="管理员："/>
+    <str id="Server:" value="Server:" local="服务器："/>
+    <str id="Town crier:" value="Town crier:" local="街头公告员："/>
+    <str id="All hail %s!" value="All hail %s!" local="%s 万岁！"/>
+    <str id="%s You have to wait two seconds before sending another message." value="%s You have to wait two seconds before sending another message." local="%s 你必须等两秒钟才能发下一条消息。"/>
+    <str id="You can view and change key bindings in the main menu %s." value="You can view and change key bindings in the main menu %s." local="你可以在主菜单 %s 浏览和修改热键。"/>
     <str id="Commands:" value="Commands:" local="命令："/>
     <str id="/search" value="/search" local="/search（搜索）"/>
     <str id="/score" value="/score" local="/score（得分）"/>
@@ -4592,17 +4592,17 @@
     <str id="/resetdog" value="/resetdog" local="/resetdog（重置狗）"/>
     <str id="/skipnull" value="/skipnull" local="/skipnull（跳过）"/>
     <str id="/mrgsteam" value="/mrgsteam" local="/mrgsteam（导入Steam）"/>
-    <str id="Type %s to set the number of search attempts (using values 1 through 6)." value="Type %s to set the number of search attempts (using values 1 through 6)."/>
-    <str id="Search attempts has been set to %d." value="Search attempts has been set to %d."/>
-    <str id="Your current score is %d." value="Your current score is %d."/>
-    <str id="Items are now sorted vertically." value="Items are now sorted vertically."/>
-    <str id="Items are now sorted horizontally." value="Items are now sorted horizontally."/>
-    <str id="Tutorial dog is ready to guide you once more." value="Tutorial dog is ready to guide you once more."/>
-    <str id="Tutorial dog can only be reset while in dungeon." value="Tutorial dog can only be reset while in dungeon."/>
-    <str id="Null strings are now printed on the log." value="Null strings are now printed on the log."/>
-    <str id="Null strings are no longer printed on the log." value="Null strings are no longer printed on the log."/>
-    <str id="Steam achievements have been merged." value="Steam achievements have been merged."/>
-    <str id="Third leg starts to wiggle and it attempts to fill your every orifice before exploding to pieces." value="Third leg starts to wiggle and it attempts to fill your every orifice before exploding to pieces."/>
+    <str id="Type %s to set the number of search attempts (using values 1 through 6)." value="Type %s to set the number of search attempts (using values 1 through 6)." local="输入 %s 已设置搜索尝试次数（从 1 到 6）。"/>
+    <str id="Search attempts has been set to %d." value="Search attempts has been set to %d." local="搜索尝试次数被设置为 %d 。"/>
+    <str id="Your current score is %d." value="Your current score is %d." local="你当前的分数为 %d 。"/>
+    <str id="Items are now sorted vertically." value="Items are now sorted vertically." local="物品现在以垂直方式排序。"/>
+    <str id="Items are now sorted horizontally." value="Items are now sorted horizontally." local="物品现在以水平方式排序。"/>
+    <str id="Tutorial dog is ready to guide you once more." value="Tutorial dog is ready to guide you once more." local="界面狗准备好再引导你一次。"/>
+    <str id="Tutorial dog can only be reset while in dungeon." value="Tutorial dog can only be reset while in dungeon." local="界面狗只能在地牢中才可以重置。"/>
+    <str id="Null strings are now printed on the log." value="Null strings are now printed on the log." local="现在空字符串会在记录中打印。"/>
+    <str id="Null strings are no longer printed on the log." value="Null strings are no longer printed on the log." local="现在空字符串不会在记录中打印。"/>
+    <str id="Steam achievements have been merged." value="Steam achievements have been merged." local="Steam 成就被合并。"/>
+    <str id="Third leg starts to wiggle and it attempts to fill your every orifice before exploding to pieces." value="Third leg starts to wiggle and it attempts to fill your every orifice before exploding to pieces." local="第三条腿开始扭动，试图从你身上的每一个孔钻进去。它即将爆炸。"/>
   </ChatStrings>
   <RogueTips>
     <str id="Tip of the day:" value="Tip of the day:" local="今日提示："/>
