@@ -967,7 +967,7 @@ TalentNames."Bestial Wrath" 狂野怒火
 TalentDescs."Aimed Shot" @(30)远程攻击每点敏捷增益修正获得 D3 的额外伤害，取代普通的 1 点额外伤害。
 TalentDescs."Multi Shot" @(30)远程攻击将命中目标生物邻接的多个额外生物目标，数量等于敏捷增益修正值。
 TalentDescs."Quick Shot" @(30)远程攻击的射击前生物可以先移动。
-TalentDescs."Steady Shot" @(30)远程攻击时，可以重投失败的命中检定，在隐秘状态下能造成双倍伤害。
+TalentDescs."Steady Shot" @(30)远程攻击时，可以重掷失败的命中检定，在隐秘状态下能造成双倍伤害。
 TalentDescs."Blade Flurry" @(30)近战攻击的每把武器（当敏捷 +1 及 +3 时）获得最一次额外攻击机会。剑刃乱舞需要两把小型武器或双手使用一把中型武器。
 TalentDescs."Blade Flurry".1 
 TalentDescs."Deadly Throw" @(30)投掷武器攻击的每点属性增益修正获得 D3 额外伤害，取代普通的 1 点额外伤害，依据的属性取力量和敏捷中的较高值。（修正同时针对命中检定）。
@@ -1361,19 +1361,19 @@ ItemLogs."You don't have enough free space for those %s." You don't have enough 
 ItemLogs."You don't have enough free space for %s." You don't have enough free space for %s.
 ItemLogs."You can't place those those %s there." You can't place those those %s there.
 ItemLogs."You can't place %s there." You can't place %s there.
-ItemSets."Re-roll failed snare checks." Re-roll failed snare checks.
-ItemSets."Re-roll failed sneak checks." Re-roll failed sneak checks.
-ItemSets."Re-roll failed persuasion checks." Re-roll failed persuasion checks.
-ItemSets."Re-roll failed intimidation checks." Re-roll failed intimidation checks.
-ItemSets."Grants immunity to disarm." Grants immunity to disarm.
-ItemSets."Re-roll clearcast (Celestial)." Re-roll clearcast (Celestial).
-ItemSets."Re-roll clearcast (Draconic)." Re-roll clearcast (Draconic).
-ItemSets."Re-roll clearcast (Infernal)." Re-roll clearcast (Infernal).
-ItemSets."Reduce Arcane cooldown by 50%." Reduce Arcane cooldown by 50%.
-ItemSets."Reduce Bestial cooldown by 50%." Reduce Bestial cooldown by 50%.
-ItemSets."Reduce Abyssal cooldown by 50%." Reduce Abyssal cooldown by 50%.
-ItemSets."Heals D6 points per turn." Heals D6 points per turn.
-ItemSets."Befriend daemons." Befriend daemons.
+ItemSets."Re-roll failed snare checks." 陷阱检定失败后重掷一次。
+ItemSets."Re-roll failed sneak checks." 潜行检定失败后重掷一次。
+ItemSets."Re-roll failed persuasion checks." 说服检定失败后重掷一次。
+ItemSets."Re-roll failed intimidation checks." 恐吓检定失败后重掷一次。
+ItemSets."Grants immunity to disarm." 获得缴械免疫。
+ItemSets."Re-roll clearcast (Celestial)." 沉净施法重掷（天使系）。
+ItemSets."Re-roll clearcast (Draconic)." 沉净施法重掷（龙系）。
+ItemSets."Re-roll clearcast (Infernal)." 沉净施法重掷（地狱系）。
+ItemSets."Reduce Arcane cooldown by 50%." 减少奥术冷却时间 50% 。
+ItemSets."Reduce Bestial cooldown by 50%." 减少兽性法术冷却时间 50% 。
+ItemSets."Reduce Abyssal cooldown by 50%." 减少深渊法术冷却时间 50% 。
+ItemSets."Heals D6 points per turn." 每回合治疗 D6 点。
+ItemSets."Befriend daemons." 成为恶魔的朋友。
 AddonNames."Padded Spaulders" 棉护肩
 AddonNames."Leather Spaulders" 皮护肩
 AddonNames."Studded Spaulders" 札甲护肩
@@ -1463,7 +1463,7 @@ AddonNames."Dark Iron Vambraces" 黑铁护腕
 AddonNames."Dark Iron Gauntlets" 黑铁护手
 AddonNames."Dark Iron Sabatons" 黑铁铠靴
 AddonDescs."SpauldersDesc" @(30)护肩能提高你对暴击造成缴械效果的免疫机会 40% 。
-AddonDescs."VambracesDesc" @(30)护腕能在你被暴击后将被缴械前重投一次缴械检定骰。
+AddonDescs."VambracesDesc" @(30)护腕能在你被暴击后将被缴械前重掷一次缴械检定骰。
 AddonDescs."GlovesDesc" @(30)手套能在你被缴械后让武器进入你的物品栏而不是掉落在地上。
 AddonDescs."BootsDesc" @(30)靴子能在你被击退到峡谷或陷阱前改为一次侧移。
 AmuletNames."Amulet" 护符

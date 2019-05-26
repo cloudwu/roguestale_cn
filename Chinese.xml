@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="3a94ac3ebff66835b04d74d32b8386ae3c2e0734">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="593a9a2a48a4fc1fb784a892fdbfc14386a43eca">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -1055,7 +1055,7 @@
     <str id="Aimed Shot" value="Ranged attack that causes D3 extra damage instead of 1 for each point of agility bonus modifier." local="远程攻击每点敏捷增益修正获得 D&#10;3 的额外伤害，取代普通的 1 点额&#10;外伤害。"/>
     <str id="Multi Shot" value="Ranged attack that hits up to agility bonus modifier number of extra targets." local="远程攻击将命中目标生物邻接的多&#10;个额外生物目标，数量等于敏捷增&#10;益修正值。"/>
     <str id="Quick Shot" value="Ranged attack that allows the creature to move before taking the shot." local="远程攻击的射击前生物可以先移动&#10;。"/>
-    <str id="Steady Shot" value="Ranged attack that allows the creature to re-roll a failed to-hit check and doubles damage if used while hidden." local="远程攻击时，可以重投失败的命中&#10;检定，在隐秘状态下能造成双倍伤&#10;害。"/>
+    <str id="Steady Shot" value="Ranged attack that allows the creature to re-roll a failed to-hit check and doubles damage if used while hidden." local="远程攻击时，可以重掷失败的命中&#10;检定，在隐秘状态下能造成双倍伤&#10;害。"/>
     <str id="Blade Flurry" value="Melee attack that gains up to one extra attack per weapon (at +1 and +3 AGI). Blade Flurry requires either two small" local="近战攻击的每把武器（当敏捷 +1 &#10;及 +3 时）获得最一次额外攻击机&#10;会。剑刃乱舞需要两把小型武器或&#10;双手使用一把中型武器。" space="True">
       <str id="paragraph 1" value="weapons or a medium weapon that is used two-handedly." local=""/>
     </str>
@@ -1486,19 +1486,19 @@
     <str id="You can't place %s there." value="You can't place %s there."/>
   </ItemLogs>
   <ItemSets>
-    <str id="Re-roll failed snare checks." value="Re-roll failed snare checks."/>
-    <str id="Re-roll failed sneak checks." value="Re-roll failed sneak checks."/>
-    <str id="Re-roll failed persuasion checks." value="Re-roll failed persuasion checks."/>
-    <str id="Re-roll failed intimidation checks." value="Re-roll failed intimidation checks."/>
-    <str id="Grants immunity to disarm." value="Grants immunity to disarm."/>
-    <str id="Re-roll clearcast (Celestial)." value="Re-roll clearcast (Celestial)."/>
-    <str id="Re-roll clearcast (Draconic)." value="Re-roll clearcast (Draconic)."/>
-    <str id="Re-roll clearcast (Infernal)." value="Re-roll clearcast (Infernal)."/>
-    <str id="Reduce Arcane cooldown by 50%." value="Reduce Arcane cooldown by 50%."/>
-    <str id="Reduce Bestial cooldown by 50%." value="Reduce Bestial cooldown by 50%."/>
-    <str id="Reduce Abyssal cooldown by 50%." value="Reduce Abyssal cooldown by 50%."/>
-    <str id="Heals D6 points per turn." value="Heals D6 points per turn."/>
-    <str id="Befriend daemons." value="Befriend daemons."/>
+    <str id="Re-roll failed snare checks." value="Re-roll failed snare checks." local="陷阱检定失败后重掷一次。"/>
+    <str id="Re-roll failed sneak checks." value="Re-roll failed sneak checks." local="潜行检定失败后重掷一次。"/>
+    <str id="Re-roll failed persuasion checks." value="Re-roll failed persuasion checks." local="说服检定失败后重掷一次。"/>
+    <str id="Re-roll failed intimidation checks." value="Re-roll failed intimidation checks." local="恐吓检定失败后重掷一次。"/>
+    <str id="Grants immunity to disarm." value="Grants immunity to disarm." local="获得缴械免疫。"/>
+    <str id="Re-roll clearcast (Celestial)." value="Re-roll clearcast (Celestial)." local="沉净施法重掷（天使系）。"/>
+    <str id="Re-roll clearcast (Draconic)." value="Re-roll clearcast (Draconic)." local="沉净施法重掷（龙系）。"/>
+    <str id="Re-roll clearcast (Infernal)." value="Re-roll clearcast (Infernal)." local="沉净施法重掷（地狱系）。"/>
+    <str id="Reduce Arcane cooldown by 50%." value="Reduce Arcane cooldown by 50%." local="减少奥术冷却时间 50% 。"/>
+    <str id="Reduce Bestial cooldown by 50%." value="Reduce Bestial cooldown by 50%." local="减少兽性法术冷却时间 50% 。"/>
+    <str id="Reduce Abyssal cooldown by 50%." value="Reduce Abyssal cooldown by 50%." local="减少深渊法术冷却时间 50% 。"/>
+    <str id="Heals D6 points per turn." value="Heals D6 points per turn." local="每回合治疗 D6 点。"/>
+    <str id="Befriend daemons." value="Befriend daemons." local="成为恶魔的朋友。"/>
   </ItemSets>
   <AddonNames>
     <str id="Padded Spaulders" value="Padded Spaulders" local="棉护肩"/>
@@ -1592,7 +1592,7 @@
   </AddonNames>
   <AddonDescs>
     <str id="SpauldersDesc" value="Spaulders increase your base chance to resist a critical hit disarm effect by 40%." local="护肩能提高你对暴击造成缴械效果&#10;的免疫机会 40% 。"/>
-    <str id="VambracesDesc" value="Vambraces force the system to re-roll the disarm check if you are disarmed by a critical hit." local="护腕能在你被暴击后将被缴械前重&#10;投一次缴械检定骰。"/>
+    <str id="VambracesDesc" value="Vambraces force the system to re-roll the disarm check if you are disarmed by a critical hit." local="护腕能在你被暴击后将被缴械前重&#10;掷一次缴械检定骰。"/>
     <str id="GlovesDesc" value="Gloves cause your disarmed weapon to be placed in your inventory instead of the ground." local="手套能在你被缴械后让武器进入你&#10;的物品栏而不是掉落在地上。"/>
     <str id="BootsDesc" value="Boots force the system to attempt a sidestep if a knockback would push you into a chasm or trap." local="靴子能在你被击退到峡谷或陷阱前&#10;改为一次侧移。"/>
   </AddonDescs>
