@@ -3679,32 +3679,32 @@ InventoryWindow."You can't bind %s on %s." You can't bind %s on %s.
 InventoryWindow."You bind %s on %s." You bind %s on %s.
 InventoryWindow."You don't have enough free hands to equip that." You don't have enough free hands to equip that.
 InventoryWindow."You don't have enough free space to unequip your %s." You don't have enough free space to unequip your %s.
-SpellbookWindow."Spellbook" Spellbook
-SpellbookWindow."You can't use talents while blinded." You can't use talents while blinded.
-SpellbookWindow."You can't use talents while confused." You can't use talents while confused.
-SpellbookWindow."You can't use talents while polymorphed." You can't use talents while polymorphed.
-SpellbookWindow."You can't use talents while swimming." You can't use talents while swimming.
-SpellbookWindow."You are too tired to use talents at the moment." You are too tired to use talents at the moment.
-SpellbookWindow."You can't use passive talents." You can't use passive talents.
-SpellbookWindow."You can't shapeshift while snared." You can't shapeshift while snared.
-SpellbookWindow."You can't use deadly throw without a thrown weapon." You can't use deadly throw without a thrown weapon.
-SpellbookWindow."Select a thrown weapon for deadly throw:" Select a thrown weapon for deadly throw:
-SpellbookWindow."Start quick shot by moving:" Start quick shot by moving:
-SpellbookWindow."You can't charge while snared." You can't charge while snared.
-SpellbookWindow."Select a target to charge at and press %s:" Select a target to charge at and press %s:
-SpellbookWindow."Select a direction to use %s at:" Select a direction to use %s at:
-SpellbookWindow."Select a direction to move silently at:" Select a direction to move silently at:
-SpellbookWindow."You can't use that talent at the moment." You can't use that talent at the moment.
-SpellbookWindow."Requires AGI 8+ and either two small weapons or a single medium weapon." Requires AGI 8+ and either two small weapons or a single medium weapon.
-SpellbookWindow."Requires STR 8+ and either a medium or large weapon." Requires STR 8+ and either a medium or large weapon.
-SpellbookWindow."Requires a medium or large weapon." Requires a medium or large weapon.
-SpellbookWindow."Requires a melee weapon and a shield." Requires a melee weapon and a shield.
-SpellbookWindow."Select a target or item to cast %s at and press %s:" Select a target or item to cast %s at and press %s:
-SpellbookWindow."Select a target to cast %s at and press %s:" Select a target to cast %s at and press %s:
-SpellbookWindow."Select an item to cast %s on and press %s:" Select an item to cast %s on and press %s:
-SpellbookWindow."You can't cast a scroll on itself, nice try though!" You can't cast a scroll on itself, nice try though!
-SpellbookWindow."Type the legendary name of your weapon or press %s to cancel." Type the legendary name of your weapon or press %s to cancel.
-SpellbookWindow."You can't use %s on items that are not wieldable weapons." You can't use %s on items that are not wieldable weapons.
+SpellbookWindow."Spellbook" 法术书
+SpellbookWindow."You can't use talents while blinded." 你无法在盲眼时使用天赋。
+SpellbookWindow."You can't use talents while confused." 你无法在混乱时使用天赋。
+SpellbookWindow."You can't use talents while polymorphed." 你无法在变形时使用天赋。
+SpellbookWindow."You can't use talents while swimming." 你无法在游泳时使用天赋。
+SpellbookWindow."You are too tired to use talents at the moment." 你现在太累了，无法使用天赋。
+SpellbookWindow."You can't use passive talents." 你无法使用被动天赋。
+SpellbookWindow."You can't shapeshift while snared." 在陷阱里，你无法变形。
+SpellbookWindow."You can't use deadly throw without a thrown weapon." 你没有投掷武器，所以无法进行死亡投掷。
+SpellbookWindow."Select a thrown weapon for deadly throw:" 选择一把投掷武器进行死亡投掷：
+SpellbookWindow."Start quick shot by moving:" 移动后快速射击：
+SpellbookWindow."You can't charge while snared." 在陷阱中无法冲锋。
+SpellbookWindow."Select a target to charge at and press %s:" 选择一个冲锋目标，然后按下 %s：
+SpellbookWindow."Select a direction to use %s at:" 选择一个方向使用 %s ：
+SpellbookWindow."Select a direction to move silently at:" 选择一个方向进行潜行：
+SpellbookWindow."You can't use that talent at the moment." 你现在无法使用天赋。
+SpellbookWindow."Requires AGI 8+ and either two small weapons or a single medium weapon." 需要敏捷属性 8+ 且持有两把小型武器，或单手使用中型武器。
+SpellbookWindow."Requires STR 8+ and either a medium or large weapon." 需要力量属性 8+ 且使用一把中型或大型武器。
+SpellbookWindow."Requires a medium or large weapon." 需要一把中型或大型武器。
+SpellbookWindow."Requires a melee weapon and a shield." 需要一把近战武器和一面盾牌。
+SpellbookWindow."Select a target or item to cast %s at and press %s:" 选择一个目标或物品施展%s，然后按下 %s：
+SpellbookWindow."Select a target to cast %s at and press %s:" 选择一个目标施展%s，然后按下%s：
+SpellbookWindow."Select an item to cast %s on and press %s:" 选择一个物品施展%s，然后按下%s：
+SpellbookWindow."You can't cast a scroll on itself, nice try though!" 你不能对卷轴本身使用卷轴，不过脑洞挺大！
+SpellbookWindow."Type the legendary name of your weapon or press %s to cancel." 为你的传奇武器命名，或是按下 %s 取消。
+SpellbookWindow."You can't use %s on items that are not wieldable weapons." 你不能针对不是可装备武器的物品使用 %s。
 SpellbookWindow."You can't use runes on items that are not blessed and double enchanted." You can't use runes on items that are not blessed and double enchanted.
 SpellbookWindow."You can't channel arcane spells through the wand." You can't channel arcane spells through the wand.
 SpellbookWindow."You can't cast arcane spells without an amulet." You can't cast arcane spells without an amulet.
@@ -3718,7 +3718,7 @@ SpellbookWindow."You can't cast spells while polymorphed." You can't cast spells
 SpellbookWindow."You can't cast spells while shapeshifted." You can't cast spells while shapeshifted.
 SpellbookWindow."You can't use %s at the moment." You can't use %s at the moment.
 SpellbookWindow."You can't cast %s at the moment." You can't cast %s at the moment.
-AbilityGainWindow."Select ability to increase:" Select ability to increase:
+AbilityGainWindow."Select ability to increase:" 选择提升一项属性：
 TalentGainWindow."Select talent to learn:" 选择一项天赋学习：
 TalentGainWindow."Points remaining:" 剩余点数：
 DialogueWindow."STR_INTRO_BORED" You see a bored-looking STR_MAN.
