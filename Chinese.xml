@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="1eacc3cdbb2c3dce7014d53d13cfa2b1df9af69b">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="612957603adc7040045cdfeedd60f3796680a7ca">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -726,8 +726,8 @@
     <str id="%s drops %s." value="%s drops %s." local="%s 扔掉了 %s。"/>
     <str id="You can't drop that, it's magically bound to you!" value="You can't drop that, it's magically bound to you!" local="你不能扔掉灵魂绑定的物品。"/>
     <str id="You discard %s." value="You discard %s." local="你抛弃了%s。"/>
-    <str id="You hold the soul gem in your hand and let out a maniacal laughter..." value="You hold the soul gem in your hand and let out a maniacal laughter..." local="你抓住了一个灵魂石，并发出了疯狂的笑声……"/>
-    <str id="The soul gem starts to vibrate and suddenly explodes in your hand." value="The soul gem starts to vibrate and suddenly explodes in your hand." local="灵魂石在你手中突然开始震颤，紧接着爆炸了。"/>
+    <str id="You hold the soul gem in your hand and let out a maniacal laughter..." value="You hold the soul gem in your hand and let out a maniacal laughter..." local="你抓住了一个魂晶，并发出了疯狂的笑声……"/>
+    <str id="The soul gem starts to vibrate and suddenly explodes in your hand." value="The soul gem starts to vibrate and suddenly explodes in your hand." local="魂晶在你手中突然开始震颤，紧接着爆炸了。"/>
     <str id="You throw a smoke bomb on the ground." value="You throw a smoke bomb on the ground." local="你向地上抛出了一个烟雾弹。"/>
     <str id="You are already hidden." value="You are already hidden." local="你完全隐身了。"/>
     <str id="You set a bear trap at your feet." value="You set a bear trap at your feet." local="你在脚下安装了一个捕熊陷阱。"/>
@@ -1394,7 +1394,7 @@
     <str id=" of Vigour" value=" of Vigour" local="（活力）"/>
     <str id=" of the Moon" value=" of the Moon" local="（月亮）"/>
     <str id=" of Faith" value=" of Faith" local="（信仰）"/>
-    <str id=" of Hallwood" value=" of Hallwood" local="（神圣）"/>
+    <str id=" of Hallwood" value=" of Hallwood" local="（圣林）"/>
     <str id=" of Healing" value=" of Healing" local="（治愈）"/>
     <str id=" of Potency" value=" of Potency" local="（潜力）"/>
     <str id=" of Flash" value=" of Flash" local="（闪光）"/>
@@ -1725,8 +1725,8 @@
     <str id="Royal Armour" value="Royal Armour" local="皇家铠甲"/>
     <str id="Royal Helm" value="Royal Helm" local="皇家头盔"/>
     <str id="Hardened Skin" value="Hardened Skin" local="硬化皮肤"/>
-    <str id="Winter Fur Coat" value="Winter Fur Coat" local="严冬皮草"/>
-    <str id="Arctic Fur Coat" value="Arctic Fur Coat" local="北极皮草"/>
+    <str id="Winter Fur Coat" value="Winter Fur Coat" local="严冬皮毛"/>
+    <str id="Arctic Fur Coat" value="Arctic Fur Coat" local="极地皮毛"/>
   </ArmourNames>
   <ArmourDescs>
     <str id="ArmourDesc" value="Note that wearing an armour may hinder spellcasting, dodging, climbing and or jumping." local="注意：穿戴护甲有可能妨碍施法、&#10;闪避、攀爬、跳跃。"/>
@@ -2486,13 +2486,13 @@
     <str id="Stone" value="Stone" local="石块"/>
     <str id="Barbed Whip" value="Barbed Whip" local="荆棘之鞭"/>
     <str id="Massive Claw" value="Massive Claw" local="巨爪"/>
-    <str id="Corrosive Bite" value="Corrosive Bite" local="侵蚀之噬"/>
-    <str id="Ferocius Bite" value="Ferocius Bite" local="暴虐之噬"/>
-    <str id="Infectious Bite" value="Infectious Bite" local="瘟疫之噬"/>
-    <str id="Vampiric Bite" value="Vampiric Bite" local="吸血之噬"/>
-    <str id="Venomous Bite" value="Venomous Bite" local="毒液之噬"/>
-    <str id="Vicious Bite" value="Vicious Bite" local="恶毒之噬"/>
-    <str id="Skittering Bite" value="Skittering Bite" local="破碎之噬"/>
+    <str id="Corrosive Bite" value="Corrosive Bite" local="侵蚀之咬"/>
+    <str id="Ferocius Bite" value="Ferocius Bite" local="暴虐之咬"/>
+    <str id="Infectious Bite" value="Infectious Bite" local="瘟疫之咬"/>
+    <str id="Vampiric Bite" value="Vampiric Bite" local="吸血之咬"/>
+    <str id="Venomous Bite" value="Venomous Bite" local="毒液之咬"/>
+    <str id="Vicious Bite" value="Vicious Bite" local="恶毒之咬"/>
+    <str id="Skittering Bite" value="Skittering Bite" local="破碎之咬"/>
     <str id="Fire Breath" value="Fire Breath" local="火焰之息"/>
     <str id="Frost Breath" value="Frost Breath" local="冰霜之息"/>
     <str id="Ghostly Touch" value="Ghostly Touch" local="幽灵之触"/>
@@ -2678,7 +2678,7 @@
     <str id="ghastly skull" value="ghastly skull" local="可怕的骷髅"/>
     <str id="pile of bones" value="pile of bones" local="骨堆"/>
     <str id="Beast" value="Beast" local="野兽"/>
-    <str id="Woof" value="Woof" local="狼"/>
+    <str id="Woof" value="Woof" local="汪汪"/>
     <str id="Dire wolf" value="Dire wolf" local="凶狼"/>
     <str id="Dog" value="Dog" local="狗"/>
     <str id="Dread bat" value="Dread bat" local="蝙蝠"/>
@@ -2849,7 +2849,7 @@
     <str id="dark well" value="dark well" local="幽暗水井"/>
     <str id="magical altar" value="magical altar" local="魔法祭坛"/>
     <str id="camp fire" value="camp fire" local="营火"/>
-    <str id="spirit totem" value="spirit totem" local="精灵图腾"/>
+    <str id="spirit totem" value="spirit totem" local="心灵图腾"/>
     <str id="bear trap" value="bear trap" local="捕熊夹"/>
     <str id="spike trap" value="spike trap" local="尖刺陷阱"/>
     <str id="spider web" value="spider web" local="蜘蛛网"/>
@@ -3306,7 +3306,7 @@
     <str id="The Pandamonium" value="The Pandamonium" local="功夫熊猫"/>
     <str id="Arcane Gimmickry" value="Arcane Gimmickry" local="奥术机关"/>
     <str id="Lightning Reflexes" value="Lightning Reflexes" local="闪电反应"/>
-    <str id="Heroes of Hallwood" value="Heroes of Hallwood" local="神圣英雄"/>
+    <str id="Heroes of Hallwood" value="Heroes of Hallwood" local="圣林英雄"/>
     <str id="Fire Resistant" value="Fire Resistant" local="火焰抗性"/>
     <str id="Frost Resistant" value="Frost Resistant" local="冰霜抗性"/>
     <str id="Shock Resistant" value="Shock Resistant" local="震击抗性"/>
@@ -3330,12 +3330,12 @@
     <str id="Mighty Hulk" value="Mighty Hulk" local="绿巨人"/>
     <str id="Loose Weight" value="Loose Weight" local="减重"/>
     <str id="The Wanderer" value="The Wanderer" local="流浪者"/>
-    <str id="Three Tails" value="Three Tails" local="三条"/>
+    <str id="Three Tails" value="Three Tails" local="三个背面"/>
     <str id="The Pink Order" value="The Pink Order" local="粉色骑士团"/>
     <str id="Big Bada Boom" value="Big Bada Boom" local="大爆炸"/>
     <str id="Over 9000" value="Over 9000" local="超过 9000"/>
     <str id="Gurmur's End" value="Gurmur's End" local="咕呣的末日"/>
-    <str id="Canis Woofus" value="Canis Woofus" local="狼狗"/>
+    <str id="Canis Woofus" value="Canis Woofus" local="爱犬汪汪"/>
     <str id="Familiaripathy" value="Familiaripathy" local="亲密感"/>
     <str id="Traps Are Bad" value="Traps Are Bad" local="糟糕的陷阱"/>
     <str id="Hardened Skin" value="Hardened Skin" local="硬化皮肤"/>
@@ -3354,9 +3354,9 @@
     <str id="Solid Protection" value="Solid Protection" local="严密保护"/>
     <str id="Hardened Skull" value="Hardened Skull" local="硬化头颅"/>
     <str id="Smart Clothing" value="Smart Clothing" local="精美外衣"/>
-    <str id="Cry On My Shoulder" value="Cry On My Shoulder" local="肩部呐喊"/>
-    <str id="Brace For Impact" value="Brace For Impact" local="手腕冲击"/>
-    <str id="Hairy Handguards" value="Hairy Handguards" local="吓人护手"/>
+    <str id="Cry On My Shoulder" value="Cry On My Shoulder" local="靠在肩膀上哭泣"/>
+    <str id="Brace For Impact" value="Brace For Impact" local="用护腕迎接冲击"/>
+    <str id="Hairy Handguards" value="Hairy Handguards" local="华丽的护手"/>
     <str id="Don't Tread On Me" value="Don't Tread On Me" local="不要踩我"/>
     <str id="Patron of Arts" value="Patron of Arts" local="赞助的艺术"/>
     <str id="Spiritual Guidance" value="Spiritual Guidance" local="精神引导"/>
@@ -3367,232 +3367,232 @@
     <str id="Blood Frenzy" value="Blood Frenzy" local="狂暴之血"/>
     <str id="Lupine Grace" value="Lupine Grace" local="优雅之狼"/>
     <str id="Vampiric Bite" value="Vampiric Bite" local="吸血之咬"/>
-    <str id="Face Muncher" value="Face Muncher" local="正面咀嚼"/>
+    <str id="Face Muncher" value="Face Muncher" local="迎面撕咬"/>
     <str id="Monster Chow" value="Monster Chow" local="巨怪大餐"/>
     <str id="Second Amendment" value="Second Amendment" local="第二修正案"/>
     <str id="Rise of Fairies" value="Rise of Fairies" local="精灵飞升"/>
     <str id="Wester Worshipper" value="Wester Worshipper" local="西风崇拜者"/>
   </HeritageNames>
   <HeritageDescs>
-    <str id="This heritage can't be unlocked on casual difficulty level." value="This heritage can't be unlocked on casual difficulty level."/>
-    <str id="This heritage is not available on heroic difficulty level." value="This heritage is not available on heroic difficulty level."/>
-    <str id="Wizard's Staff" value="Equips the rogue with a staff at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning the following talents:"/>
+    <str id="This heritage can't be unlocked on casual difficulty level." value="This heritage can't be unlocked on casual difficulty level." local="这项遗产无法在休闲难度级别&#10;下解锁。"/>
+    <str id="This heritage is not available on heroic difficulty level." value="This heritage is not available on heroic difficulty level." local="这项遗产不能用于英雄难度级&#10;别。"/>
+    <str id="Wizard's Staff" value="Equips the rogue with a staff at the start of the game." local="在游戏开始时给游侠装备一把&#10;杖。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning the following talents:" local="通过学习下列天赋可以解锁这&#10;项遗产："/>
     </str>
-    <str id="Bow and Arrows" value="Equips the rogue with a bow and arrows at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning the following talents:"/>
+    <str id="Bow and Arrows" value="Equips the rogue with a bow and arrows at the start of the game." local="在游戏开始时给游侠装备弓箭&#10;。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning the following talents:" local="通过学习下列天赋可以解锁这&#10;项遗产："/>
     </str>
-    <str id="Throwing Knives" value="Equips the rogue with 3 throwing knives at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning the following talents:"/>
+    <str id="Throwing Knives" value="Equips the rogue with 3 throwing knives at the start of the game." local="在游戏开始时给游侠装备三把&#10;飞刀。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning the following talents:" local="通过学习下列天赋可以解锁这&#10;项遗产："/>
     </str>
-    <str id="Sword and Buckler" value="Equips the rogue with a sword and buckler at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning the following talents:"/>
+    <str id="Sword and Buckler" value="Equips the rogue with a sword and buckler at the start of the game." local="在游戏开始时给游侠装备剑盾&#10;。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning the following talents:" local="通过学习下列天赋可以解锁这&#10;项遗产："/>
     </str>
-    <str id="Leather Armour Set" value="Equips the rogue with a leather armour set at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by killing any monster."/>
-      <str id="paragraph 2" value="Note that monsters are visibly larger than your average creature."/>
+    <str id="Leather Armour Set" value="Equips the rogue with a leather armour set at the start of the game." local="在游戏开始时给游侠装备皮甲&#10;套装。">
+      <str id="paragraph 1" value="This heritage can be unlocked by killing any monster." local="杀死任何一个巨怪可以解锁这&#10;项遗产。"/>
+      <str id="paragraph 2" value="Note that monsters are visibly larger than your average creature." local="注意：巨怪看起来要比一般的&#10;生物大的多。"/>
     </str>
-    <str id="Potion of Antidote" value="Equips the rogue with a potion of antidote at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by reaching level %d."/>
+    <str id="Potion of Antidote" value="Equips the rogue with a potion of antidote at the start of the game." local="在游戏开始时给游侠装备一瓶&#10;解毒药剂。">
+      <str id="paragraph 1" value="This heritage can be unlocked by reaching level %d." local="升级到等级 %d 可以解锁这项&#10;遗产。"/>
     </str>
-    <str id="Potion of Healing" value="Equips the rogue with a potion of healing at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by reaching level %d."/>
+    <str id="Potion of Healing" value="Equips the rogue with a potion of healing at the start of the game." local="在游戏开始时给游侠装备一瓶&#10;治疗药剂。">
+      <str id="paragraph 1" value="This heritage can be unlocked by reaching level %d." local="升级到等级 %d 可以解锁这项&#10;遗产。"/>
     </str>
-    <str id="The Seventh Talent" value="Teaches Literacy: Common as the seventh talent at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning the secret seventh talent."/>
+    <str id="The Seventh Talent" value="Teaches Literacy: Common as the seventh talent at the start of the game." local="读写：常识 作为第七项天赋，&#10;在游戏一开始就已经学会。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning the secret seventh talent." local="学会隐藏的第七天赋可以解锁&#10;这项遗产。"/>
     </str>
-    <str id="The Interface Dog" value="Places a blessing on the main hand weapon at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by viewing all tutorial entries."/>
+    <str id="The Interface Dog" value="Places a blessing on the main hand weapon at the start of the game." local="在游戏一开始，给主手武器附&#10;上神圣祝福。">
+      <str id="paragraph 1" value="This heritage can be unlocked by viewing all tutorial entries." local="浏览完所有的教程项目可以解&#10;锁这项遗产。"/>
     </str>
-    <str id="The Silver Spoon" value="Places a random enchant on the main hand weapon at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by having 11 enchanted items equipped at the same time (shirt or robe don't count)."/>
+    <str id="The Silver Spoon" value="Places a random enchant on the main hand weapon at the start of the game." local="在游戏一开始，给主手武器进&#10;行一次随机附魔。">
+      <str id="paragraph 1" value="This heritage can be unlocked by having 11 enchanted items equipped at the same time (shirt or robe don't count)." local="同时穿戴上 11 个附魔过的装&#10;备可以解锁这项遗产（衬衫和&#10;头巾不计入内）。"/>
     </str>
-    <str id="One Strange Trip" value="Grants immunity against mushroom effects.">
-      <str id="paragraph 1" value="This heritage can be unlocked by reaching level 20 while eating only blood cap mushrooms."/>
+    <str id="One Strange Trip" value="Grants immunity against mushroom effects." local="获得针对蘑菇效果的免疫力。">
+      <str id="paragraph 1" value="This heritage can be unlocked by reaching level 20 while eating only blood cap mushrooms." local="在升到 20 级之前，只吃血蘑&#10;菇可以解锁这项遗产。"/>
     </str>
-    <str id="The Pandamonium" value="Grants ability to use the following talents while unarmed:%s">
-      <str id="paragraph 1" value="This heritage can be unlocked by reaching level 20 while causing physical damage with fists only."/>
+    <str id="The Pandamonium" value="Grants ability to use the following talents while unarmed:%s" local="在被缴械后，获得使用下列天&#10;赋的技能：%s">
+      <str id="paragraph 1" value="This heritage can be unlocked by reaching level 20 while causing physical damage with fists only." local="在升到 20 级之前，只使用拳&#10;头对敌人造成物理伤害可以解&#10;锁这项遗产。"/>
     </str>
-    <str id="Arcane Gimmickry" value="Improves Trap Master talent so that it also works with magic traps.">
-      <str id="paragraph 1" value="This heritage can be unlocked by finding three or more hidden magic traps with the search button in a single game."/>
+    <str id="Arcane Gimmickry" value="Improves Trap Master talent so that it also works with magic traps." local="增强陷阱大师天赋，让其可以&#10;作用于魔法陷阱。">
+      <str id="paragraph 1" value="This heritage can be unlocked by finding three or more hidden magic traps with the search button in a single game." local="在单局游戏中，用搜索按钮找&#10;到三个或更多魔法陷阱，可以&#10;解锁这项遗产。"/>
     </str>
-    <str id="Lightning Reflexes" value="Grants a +1 modifier to all reflex checks.">
-      <str id="paragraph 1" value="This heritage can be unlocked by passing three or more reflex checks in a single game."/>
+    <str id="Lightning Reflexes" value="Grants a +1 modifier to all reflex checks." local="针对所有的反射检定，获得 +&#10;1 修正。">
+      <str id="paragraph 1" value="This heritage can be unlocked by passing three or more reflex checks in a single game." local="在单局游戏中，通过三次或更&#10;多反射检定，可以解锁这项遗&#10;产。"/>
     </str>
-    <str id="Heroes of Hallwood" value="Increases physical resistance by 1.">
-      <str id="paragraph 1" value="This heritage can be unlocked by visiting the graves of all Heroes of Hallwood:"/>
+    <str id="Heroes of Hallwood" value="Increases physical resistance by 1." local="物理抗性提升 1 。">
+      <str id="paragraph 1" value="This heritage can be unlocked by visiting the graves of all Heroes of Hallwood:" local="拜访所有的圣林英雄之墓，可&#10;以解锁这项遗产："/>
     </str>
-    <str id="Fire Resistant" value="Increases fire resistance by 1.">
-      <str id="paragraph 1" value="This heritage can be unlocked by having %d or more points of fire resistance at any given time."/>
+    <str id="Fire Resistant" value="Increases fire resistance by 1." local="火焰抗性提升 1 。">
+      <str id="paragraph 1" value="This heritage can be unlocked by having %d or more points of fire resistance at any given time." local="在任何时刻拥有 %d 或更高的&#10;火焰抗性可以解锁这项遗产。"/>
     </str>
-    <str id="Frost Resistant" value="Increases frost resistance by 1.">
-      <str id="paragraph 1" value="This heritage can be unlocked by having %d or more points of frost resistance at any given time."/>
+    <str id="Frost Resistant" value="Increases frost resistance by 1." local="冰霜抗性提升 1 。">
+      <str id="paragraph 1" value="This heritage can be unlocked by having %d or more points of frost resistance at any given time." local="在任何时刻拥有 %d 或更高的&#10;冰霜抗性可以解锁这项遗产。"/>
     </str>
-    <str id="Shock Resistant" value="Increases shock resistance by 1.">
-      <str id="paragraph 1" value="This heritage can be unlocked by having %d or more points of shock resistance at any given time."/>
+    <str id="Shock Resistant" value="Increases shock resistance by 1." local="震击抗性提升 1 。">
+      <str id="paragraph 1" value="This heritage can be unlocked by having %d or more points of shock resistance at any given time." local="在任何时刻拥有 %d 或更高的&#10;震击抗性可以解锁这项遗产。"/>
     </str>
-    <str id="Poison Resistant" value="Increases poison resistance by 1.">
-      <str id="paragraph 1" value="This heritage can be unlocked by having %d or more points of poison resistance at any given time."/>
+    <str id="Poison Resistant" value="Increases poison resistance by 1." local="毒害抗性提升 1 。">
+      <str id="paragraph 1" value="This heritage can be unlocked by having %d or more points of poison resistance at any given time." local="在任何时刻拥有 %d 或更高的&#10;毒害抗性可以解锁这项遗产。"/>
     </str>
-    <str id="Disease Resistant" value="Increases disease resistance by 1.">
-      <str id="paragraph 1" value="This heritage can be unlocked by having %d or more points of disease resistance at any given time."/>
+    <str id="Disease Resistant" value="Increases disease resistance by 1." local="疾病抗性提升 1 。">
+      <str id="paragraph 1" value="This heritage can be unlocked by having %d or more points of disease resistance at any given time." local="在任何时刻拥有 %d 或更高的&#10;疾病抗性可以解锁这项遗产。"/>
     </str>
-    <str id="Blissful Ignorance" value="Grants ability to use wands without learning how to read.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning six talents without learning how to read."/>
+    <str id="Blissful Ignorance" value="Grants ability to use wands without learning how to read." local="在没有学习读写前就获得使用&#10;魔杖的能力。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning six talents without learning how to read." local="在学习读写前学习六项天赋可&#10;以获得这项遗产。"/>
     </str>
-    <str id="Celestial Mastery" value="Grants knowledge of one random Celestial spell at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning all Celestial spells in a single game."/>
+    <str id="Celestial Mastery" value="Grants knowledge of one random Celestial spell at the start of the game." local="在游戏开始时获得一个随机天&#10;使系法术的知识。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning all Celestial spells in a single game." local="在单局游戏中学会所有的天使&#10;系法术可以解锁这项遗产。"/>
     </str>
-    <str id="Draconic Mastery" value="Grants knowledge of one random Draconic spell at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning all Draconic spells in a single game."/>
+    <str id="Draconic Mastery" value="Grants knowledge of one random Draconic spell at the start of the game." local="在游戏开始时获得一个随机龙&#10;系法术的知识。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning all Draconic spells in a single game." local="在单局游戏中学会所有的龙系&#10;法术可以解锁这项遗产。"/>
     </str>
-    <str id="Infernal Mastery" value="Grants knowledge of one random Infernal spell at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning all Infernal spells in a single game."/>
+    <str id="Infernal Mastery" value="Grants knowledge of one random Infernal spell at the start of the game." local="在游戏开始时获得一个随机地&#10;狱系法术的知识。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning all Infernal spells in a single game." local="在单局游戏中学会所有的地狱&#10;系法术可以解锁这项遗产。"/>
     </str>
-    <str id="Arcane Mastery" value="Allows you to learn Arcane spells with Literacy: Common while using any amulet.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning all Arcane spells in a single game."/>
+    <str id="Arcane Mastery" value="Allows you to learn Arcane spells with Literacy: Common while using any amulet." local="允许你在使用任何护符时，依&#10;靠读写：常识就能学习奥术。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning all Arcane spells in a single game." local="在单局游戏中学会所有的奥术&#10;可以解锁这项遗产。"/>
     </str>
-    <str id="Bestial Mastery" value="Allows you to learn Bestial spells with Literacy: Common and without levitation.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning all Bestial spells in a single game."/>
+    <str id="Bestial Mastery" value="Allows you to learn Bestial spells with Literacy: Common and without levitation." local="允许你依靠读写：常识就能学&#10;习兽性法术，而不必漂浮。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning all Bestial spells in a single game." local="在单局游戏中学会所有的兽性&#10;法术可以解锁这项遗产。"/>
     </str>
-    <str id="Abyssal Mastery" value="Allows you to learn Abyssal spells with Literacy: Common and without sacrifice.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning all Abyssal spells in a single game."/>
+    <str id="Abyssal Mastery" value="Allows you to learn Abyssal spells with Literacy: Common and without sacrifice." local="允许你依靠读写：常识就能学&#10;习深渊系法术，而不必献祭。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning all Abyssal spells in a single game." local="在单局游戏中学会所有的深渊&#10;法术可以解锁这项遗产。"/>
     </str>
-    <str id="Amulet Knowledge" value="Grants knowledge of all amulet effects at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning all amulet effects in a single game."/>
+    <str id="Amulet Knowledge" value="Grants knowledge of all amulet effects at the start of the game." local="在游戏开始获得所有护符效果&#10;的知识。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning all amulet effects in a single game." local="在单局游戏中学会所有的护符&#10;效果可以解锁这项遗产。"/>
     </str>
-    <str id="Ring Knowledge" value="Grants knowledge of all ring effects at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning all ring effects in a single game."/>
+    <str id="Ring Knowledge" value="Grants knowledge of all ring effects at the start of the game." local="在游戏开始获得所有戒指效果&#10;的知识。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning all ring effects in a single game." local="在单局游戏中学会所有的戒指&#10;效果可以解锁这项遗产。"/>
     </str>
-    <str id="Wand Knowledge" value="Grants knowledge of all wand effects at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning all wand effects in a single game."/>
+    <str id="Wand Knowledge" value="Grants knowledge of all wand effects at the start of the game." local="在游戏开始获得所有魔杖效果&#10;的知识。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning all wand effects in a single game." local="在单局游戏中学会所有的魔杖&#10;效果可以解锁这项遗产。"/>
     </str>
-    <str id="Scroll Knowledge" value="Grants knowledge of all scroll effects at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning all scroll effects in a single game."/>
+    <str id="Scroll Knowledge" value="Grants knowledge of all scroll effects at the start of the game." local="在游戏开始获得所有卷轴效果&#10;的知识。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning all scroll effects in a single game." local="在单局游戏中学会所有的卷轴&#10;效果可以解锁这项遗产。"/>
     </str>
-    <str id="Potion Knowledge" value="Grants knowledge of all potion effects at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning all potion effects in a single game."/>
+    <str id="Potion Knowledge" value="Grants knowledge of all potion effects at the start of the game." local="在游戏开始获得所有药剂效果&#10;的知识。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning all potion effects in a single game." local="在单局游戏中学会所有的药剂&#10;效果可以解锁这项遗产。"/>
     </str>
-    <str id="Enchant Knowledge" value="Grants knowledge of all enchant effects at the start of the game and gives you a 20% discount at the Wizards' Guild.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning all enchant effects in a single game."/>
+    <str id="Enchant Knowledge" value="Grants knowledge of all enchant effects at the start of the game and gives you a 20% discount at the Wizards' Guild." local="在游戏开始获得所有附魔效果&#10;的知识，法师行会可以给你八&#10;折优惠。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning all enchant effects in a single game." local="在单局游戏中学会所有的附魔&#10;效果可以解锁这项遗产。"/>
     </str>
-    <str id="Defile This" value="Allows you to enchant your black shirt or robe.">
-      <str id="paragraph 1" value="This heritage can be unlocked by wearing a black shirt or robe and defiling graves until you see something purple."/>
+    <str id="Defile This" value="Allows you to enchant your black shirt or robe." local="允许你对你的黑色衬衫和头巾&#10;进行附魔。">
+      <str id="paragraph 1" value="This heritage can be unlocked by wearing a black shirt or robe and defiling graves until you see something purple." local="解锁这项遗产需要你在穿着黑&#10;色衬衫或头巾时，把坟墓弄脏&#10;直到看到某些紫色的东西。"/>
     </str>
-    <str id="Healthy Diet" value="Allows you to enchant your red shirt or robe.">
-      <str id="paragraph 1" value="This heritage can be unlocked by wearing a red shirt or robe and eating some meat."/>
+    <str id="Healthy Diet" value="Allows you to enchant your red shirt or robe." local="允许你对你的红色衬衫和头巾&#10;进行附魔。">
+      <str id="paragraph 1" value="This heritage can be unlocked by wearing a red shirt or robe and eating some meat." local="解锁这项遗产需要你在穿着红&#10;色衬衫或头巾时吃肉。"/>
     </str>
-    <str id="Mighty Hulk" value="Allows you to enchant your green shirt or robe.">
-      <str id="paragraph 1" value="This heritage can be unlocked by wearing a green shirt or robe and destroying an item by throwing it to a wall."/>
+    <str id="Mighty Hulk" value="Allows you to enchant your green shirt or robe." local="允许你对你的绿色衬衫和头巾&#10;进行附魔。">
+      <str id="paragraph 1" value="This heritage can be unlocked by wearing a green shirt or robe and destroying an item by throwing it to a wall." local="解锁这项遗产需要你在穿着绿&#10;色衬衫或头巾时把一件物品扔&#10;到墙上摔碎。"/>
     </str>
-    <str id="Loose Weight" value="Allows you to enchant your blue shirt or robe.">
-      <str id="paragraph 1" value="This heritage can be unlocked by wearing a blue shirt or robe and dropping an item while stuck in a water pit."/>
+    <str id="Loose Weight" value="Allows you to enchant your blue shirt or robe." local="允许你对你的蓝色衬衫和头巾&#10;进行附魔。">
+      <str id="paragraph 1" value="This heritage can be unlocked by wearing a blue shirt or robe and dropping an item while stuck in a water pit." local="解锁这项遗产需要你在穿着蓝&#10;色衬衫或头巾时掉到水坑中抛&#10;弃一件物品。"/>
     </str>
-    <str id="The Wanderer" value="Allows you to enchant your orange shirt or robe.">
-      <str id="paragraph 1" value="This heritage can be unlocked by wearing an orange shirt or robe and wielding two swords at the same time."/>
+    <str id="The Wanderer" value="Allows you to enchant your orange shirt or robe." local="允许你对你的橙色衬衫和头巾&#10;进行附魔。">
+      <str id="paragraph 1" value="This heritage can be unlocked by wearing an orange shirt or robe and wielding two swords at the same time." local="解锁这项遗产需要你在穿着橙&#10;色衬衫或头巾时同时拿着两把&#10;剑。"/>
     </str>
-    <str id="Three Tails" value="Allows you to enchant your yellow shirt or robe.">
-      <str id="paragraph 1" value="This heritage can be unlocked by wearing a yellow shirt or robe and flipping a coin until you get three tails in a row."/>
+    <str id="Three Tails" value="Allows you to enchant your yellow shirt or robe." local="允许你对你的黄色衬衫和头巾&#10;进行附魔。">
+      <str id="paragraph 1" value="This heritage can be unlocked by wearing a yellow shirt or robe and flipping a coin until you get three tails in a row." local="解锁这项遗产需要你在穿着黄&#10;色衬衫或头巾时抛投硬币，直&#10;到连续掷出三个反面。"/>
     </str>
-    <str id="The Pink Order" value="Allows you to enchant your pink shirt or robe.">
-      <str id="paragraph 1" value="This heritage can be unlocked by wearing a pink shirt or robe and saying '%s' without the quotes on the chat."/>
+    <str id="The Pink Order" value="Allows you to enchant your pink shirt or robe." local="允许你对你的粉色衬衫和头巾&#10;进行附魔。">
+      <str id="paragraph 1" value="This heritage can be unlocked by wearing a pink shirt or robe and saying '%s' without the quotes on the chat." local="解锁这项遗产需要你在穿着粉&#10;色衬衫或头巾时，在聊天频道&#10;说出 '%s' （不带引号）。"/>
     </str>
-    <str id="Big Bada Boom" value="Allows you to enchant your white shirt or robe.">
-      <str id="paragraph 1" value="This heritage can be unlocked by wearing a white shirt or robe and using a soul gem until you receive your multipass."/>
+    <str id="Big Bada Boom" value="Allows you to enchant your white shirt or robe." local="允许你对你的白色衬衫和头巾&#10;进行附魔。">
+      <str id="paragraph 1" value="This heritage can be unlocked by wearing a white shirt or robe and using a soul gem until you receive your multipass." local="解锁这项遗产需要你在穿着白&#10;色衬衫或头巾时使用魂晶，知&#10;道你获得你的多通道。"/>
     </str>
-    <str id="Over 9000" value="Your shirt or robe is now blessed and it may contain two enchants.">
-      <str id="paragraph 1" value="This heritage can be unlocked by obtaining a score of over 9000 after unlocking all 8 shirt heritages above."/>
+    <str id="Over 9000" value="Your shirt or robe is now blessed and it may contain two enchants." local="你的衬衫和头巾现在被神圣祝&#10;福过了，可以进行两次附魔。">
+      <str id="paragraph 1" value="This heritage can be unlocked by obtaining a score of over 9000 after unlocking all 8 shirt heritages above." local="解锁这项遗产需要在你解锁以&#10;上八项遗产后，获得 9000 分&#10;以上。"/>
     </str>
-    <str id="Gurmur's End" value="Gives you absolutely nothing since you obviously don't need any help.">
-      <str id="paragraph 1" value="This heritage can be unlocked by killing Gurmur and interrupting the cultists' plan to take over the world."/>
+    <str id="Gurmur's End" value="Gives you absolutely nothing since you obviously don't need any help." local="既然你明显不需要任何帮助，&#10;那么当然什么也给不了你。">
+      <str id="paragraph 1" value="This heritage can be unlocked by killing Gurmur and interrupting the cultists' plan to take over the world." local="杀死咕呣终止邪教徒征服世界&#10;的计划可以解锁这项遗产。"/>
     </str>
-    <str id="Canis Woofus" value="Gives you a dog named Woof at the start of the game.">
-      <str id="paragraph 1" value="This heritage can be unlocked by killing a Dread Wolf."/>
+    <str id="Canis Woofus" value="Gives you a dog named Woof at the start of the game." local="在游戏开始给你一只叫汪汪的&#10;狗。">
+      <str id="paragraph 1" value="This heritage can be unlocked by killing a Dread Wolf." local="杀死骇狼可以解锁这项遗产。"/>
     </str>
-    <str id="Familiaripathy" value="Allows you to see Woof's health bar.">
-      <str id="paragraph 1" value="This heritage can be unlocked by taking a look at Woof while it is badly hurt or almost dead."/>
+    <str id="Familiaripathy" value="Allows you to see Woof's health bar." local="允许你看见汪汪的血条。">
+      <str id="paragraph 1" value="This heritage can be unlocked by taking a look at Woof while it is badly hurt or almost dead." local="在汪汪收到严重伤害或濒死时&#10;看它一眼可以解锁这项遗产。"/>
     </str>
-    <str id="Traps Are Bad" value="Makes Woof immune to snares.">
-      <str id="paragraph 1" value="This heritage can be unlocked by rescuing Woof from a pit."/>
+    <str id="Traps Are Bad" value="Makes Woof immune to snares." local="让汪汪免疫陷阱。">
+      <str id="paragraph 1" value="This heritage can be unlocked by rescuing Woof from a pit." local="从深坑中救出汪汪可以解锁这&#10;项遗产。"/>
     </str>
-    <str id="Hardened Skin" value="Grants Woof +1 physical resistance.">
-      <str id="paragraph 1" value="This heritage can be unlocked by having Woof reach level 3."/>
+    <str id="Hardened Skin" value="Grants Woof +1 physical resistance." local="汪汪获得 +1 物理抗性。">
+      <str id="paragraph 1" value="This heritage can be unlocked by having Woof reach level 3." local="把汪汪升到 3 级可以获得这项&#10;遗产。"/>
     </str>
-    <str id="Winter Fur Coat" value="Upgrades Woof's Hardened Skin to +2 physical resistance and +1 chromatic resistance at level 3.">
-      <str id="paragraph 1" value="This heritage can be unlocked by having Woof reach level 6."/>
+    <str id="Winter Fur Coat" value="Upgrades Woof's Hardened Skin to +2 physical resistance and +1 chromatic resistance at level 3." local="在等级 3 时，升级汪汪的硬化&#10;皮肤为 +2 物理抗性 +1 魔法&#10;抗性。">
+      <str id="paragraph 1" value="This heritage can be unlocked by having Woof reach level 6." local="把汪汪升到 6 级可以获得这项&#10;遗产。"/>
     </str>
-    <str id="Arctic Fur Coat" value="Upgrades Woof's Hardened Skin to +3 physical resistance and +2 chromatic resistance at level 6.">
-      <str id="paragraph 1" value="This heritage can be unlocked by having Woof reach level 9."/>
+    <str id="Arctic Fur Coat" value="Upgrades Woof's Hardened Skin to +3 physical resistance and +2 chromatic resistance at level 6." local="在等级 6 时，升级汪汪的硬化&#10;皮肤为 +3 物理抗性 +2 魔法&#10;抗性。">
+      <str id="paragraph 1" value="This heritage can be unlocked by having Woof reach level 9." local="把汪汪升到 9 级可以获得这项&#10;遗产。"/>
     </str>
-    <str id="Ferocious Bite" value="Upgrades Woof's Vicious Bite to Ferocius Bite at level 9.">
-      <str id="paragraph 1" value="This heritage can be unlocked by having Woof reach level 12."/>
+    <str id="Ferocious Bite" value="Upgrades Woof's Vicious Bite to Ferocius Bite at level 9." local="在等级 9 时，将汪汪的恶毒之&#10;咬升级为暴虐之咬。">
+      <str id="paragraph 1" value="This heritage can be unlocked by having Woof reach level 12." local="把汪汪升到 12 级可以获得这&#10;项遗产。"/>
     </str>
-    <str id="Sharpened Fangs" value="Grants Woof +D3 physical damage at level 12.">
-      <str id="paragraph 1" value="This heritage can be unlocked by having Woof reach level 15."/>
+    <str id="Sharpened Fangs" value="Grants Woof +D3 physical damage at level 12." local="汪汪在等级 12 时获得 +D3 物&#10;理伤害。">
+      <str id="paragraph 1" value="This heritage can be unlocked by having Woof reach level 15." local="把汪汪升到 15 级可以获得这&#10;项遗产。"/>
     </str>
-    <str id="Rare Breed" value="Grants Woof +1 agility and +1 stamina at the start of the game and Heroic Charge at level 3.">
-      <str id="paragraph 1" value="This heritage can be unlocked by having Woof kill a Dire Wolf."/>
+    <str id="Rare Breed" value="Grants Woof +1 agility and +1 stamina at the start of the game and Heroic Charge at level 3." local="汪汪在游戏开始时获得 +1 敏&#10;捷 +1 耐力，在等级 3 时获得&#10;英勇冲锋。">
+      <str id="paragraph 1" value="This heritage can be unlocked by having Woof kill a Dire Wolf." local="让汪汪杀死骇狼可以解锁这项&#10;遗产。"/>
     </str>
-    <str id="Epic Breed" value="Grants Woof +1 agility and +1 stamina at the start of the game and Strong Will at level 6.">
-      <str id="paragraph 1" value="This heritage can be unlocked by having Woof kill a monster."/>
+    <str id="Epic Breed" value="Grants Woof +1 agility and +1 stamina at the start of the game and Strong Will at level 6." local="汪汪在游戏开始时获得 +1 敏&#10;捷 +1 耐力，在等级 6 时获得&#10;坚强意志。">
+      <str id="paragraph 1" value="This heritage can be unlocked by having Woof kill a monster." local="让汪汪杀死一个巨怪可以解锁&#10;这项遗产。"/>
     </str>
     <str id="Craftalicious" value="Allows the player to craft items in the Artisans' Guild (and enables crafting items in the loot tables)." local="允许玩家在工匠行会内制造物&#10;品（并在拾取表中开启制造物&#10;）。">
       <str id="paragraph 1" value="This heritage can be unlocked by rescuing Artificer Leo Noerde and bringing him back to town." local="这个遗产可以通过解救鲁班大&#10;师并带他回城来解锁。"/>
     </str>
-    <str id="Artisans' Guild now crafts blessed versions of the following items:%s" value="Artisans' Guild now crafts blessed versions of the following items:%s">
-      <str id="paragraph 1" value="This heritage can be unlocked by crafting all of the items marked with an asterisk in a single game."/>
+    <str id="Artisans' Guild now crafts blessed versions of the following items:%s" value="Artisans' Guild now crafts blessed versions of the following items:%s" local="工匠行会现在可以制造下列物&#10;品的神圣版本：%s">
+      <str id="paragraph 1" value="This heritage can be unlocked by crafting all of the items marked with an asterisk in a single game." local="在单局游戏中制造出所有标记&#10;有星号的物品可以解锁这项遗&#10;产。"/>
     </str>
-    <str id="Patron of Arts" value="Crafted items are now enchanted and the enchant is guaranteed to be appropriate for the item as well as the player.">
-      <str id="paragraph 1" value="This heritage can be unlocked by donating four or more unique items to the Artisans' Guild in a single game."/>
+    <str id="Patron of Arts" value="Crafted items are now enchanted and the enchant is guaranteed to be appropriate for the item as well as the player." local="制造出的物品现在自动附魔，&#10;附魔效果保证是最适合该物品&#10;的。">
+      <str id="paragraph 1" value="This heritage can be unlocked by donating four or more unique items to the Artisans' Guild in a single game." local="在单局游戏中向工匠行会捐赠&#10;四个或更多的独特物品可以解&#10;锁这项遗产。"/>
     </str>
-    <str id="Spiritual Guidance" value="Allows you to use spirit totems without killing bears for spiritual attunement.">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning the following talents:%s"/>
-      <str id="paragraph 2" value="Spiritually attuned:"/>
+    <str id="Spiritual Guidance" value="Allows you to use spirit totems without killing bears for spiritual attunement." local="允许你不必杀死熊进行心灵调&#10;和就可以使用心灵图腾。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning the following talents:%s" local="学习下列天赋可以解说这项遗&#10;产：%s"/>
+      <str id="paragraph 2" value="Spiritually attuned:" local="心灵已协调："/>
     </str>
-    <str id="Bestial Vigour" value="Improves bestial wrath talent so that it also casts renewing touch on you when you shapeshift.">
-      <str id="paragraph 1" value="This heritage can be unlocked by regaining over %d points of health while shapeshifted and in combat."/>
-      <str id="paragraph 2" value="Health regained:"/>
+    <str id="Bestial Vigour" value="Improves bestial wrath talent so that it also casts renewing touch on you when you shapeshift." local="增强狂野怒火天赋，在你变形&#10;时同时会施放一个回复之触。">
+      <str id="paragraph 1" value="This heritage can be unlocked by regaining over %d points of health while shapeshifted and in combat." local="在变形战斗过程中，获得超过&#10; %d 点生命可以解锁这项遗产&#10;。"/>
+      <str id="paragraph 2" value="Health regained:" local="获得生命："/>
     </str>
-    <str id="Leader of the Pack" value="Improves bestial wrath talent so that it also heals all your beast friends while shapeshifted.">
-      <str id="paragraph 1" value="This heritage can be unlocked by shapeshifting while having %d or more beast friends."/>
+    <str id="Leader of the Pack" value="Improves bestial wrath talent so that it also heals all your beast friends while shapeshifted." local="增强狂野怒火天赋，在你变形&#10;时治疗你所有的野兽伙伴。">
+      <str id="paragraph 1" value="This heritage can be unlocked by shapeshifting while having %d or more beast friends." local="在你变形的同时拥有 %d 或更&#10;多的野兽伙伴可以解锁这项遗&#10;产。"/>
     </str>
-    <str id="That's Grizzly" value="Increases strength by 1 in bear form.">
-      <str id="paragraph 1" value="This heritage can be unlocked by having a strength modifier of +5 or more when you shapeshift into a bear."/>
+    <str id="That's Grizzly" value="Increases strength by 1 in bear form." local="熊形态增加 1 力量。">
+      <str id="paragraph 1" value="This heritage can be unlocked by having a strength modifier of +5 or more when you shapeshift into a bear." local="当你变形为熊的时候拥有 +5 &#10;力量修正可以解锁这项遗产。"/>
     </str>
-    <str id="Ursus Horribilis" value="Adds an instant kill effect to your attacks in bear form.">
-      <str id="paragraph 1" value="This heritage can be unlocked by killing a full health human with a single hit in bear form at level 20."/>
+    <str id="Ursus Horribilis" value="Adds an instant kill effect to your attacks in bear form." local="熊形态的攻击附加一个即死效&#10;果。">
+      <str id="paragraph 1" value="This heritage can be unlocked by killing a full health human with a single hit in bear form at level 20." local="在等级 20 时的熊形态下，一&#10;击杀死一个满血的人类，可以&#10;解锁这项遗产。"/>
     </str>
-    <str id="Blood Frenzy" value="Casts renewing touch on you when you critically hit in bear form.">
-      <str id="paragraph 1" value="This heritage can be unlocked by critically hitting any of the named encounter bosses in bear form."/>
+    <str id="Blood Frenzy" value="Casts renewing touch on you when you critically hit in bear form." local="熊形态下发出暴击的同时为你&#10;施放一个回复之触。">
+      <str id="paragraph 1" value="This heritage can be unlocked by critically hitting any of the named encounter bosses in bear form." local="在遭遇战中，以熊形态暴击一&#10;个有名的首领，可以解锁这项&#10;遗产。"/>
     </str>
-    <str id="Lupine Grace" value="Increases agility by 1 in wolf form.">
-      <str id="paragraph 1" value="This heritage can be unlocked by having an agility modifier of +5 or more when you shapeshift into a wolf."/>
+    <str id="Lupine Grace" value="Increases agility by 1 in wolf form." local="狼形态增加 1 敏捷。">
+      <str id="paragraph 1" value="This heritage can be unlocked by having an agility modifier of +5 or more when you shapeshift into a wolf." local="当你变形为狼的时候拥有 +5 &#10;敏捷修正可以解锁这项遗产。"/>
     </str>
-    <str id="Vampiric Bite" value="Adds a leech effect to your attacks in wolf form.">
-      <str id="paragraph 1" value="This heritage can be unlocked by eating a dread bat that has leeched life from you while you are in wolf form."/>
+    <str id="Vampiric Bite" value="Adds a leech effect to your attacks in wolf form." local="狼形态的攻击附加一个吸血效&#10;果。">
+      <str id="paragraph 1" value="This heritage can be unlocked by eating a dread bat that has leeched life from you while you are in wolf form." local="当你在狼形态时吃掉一只曾经&#10;吸过你的生命的蝙蝠可以解锁&#10;这项遗产。"/>
     </str>
-    <str id="Face Muncher" value="Casts renewing touch on you when you critically hit in wolf form.">
-      <str id="paragraph 1" value="This heritage can be unlocked by killing a full health human with a critical hit in wolf form at level 20."/>
+    <str id="Face Muncher" value="Casts renewing touch on you when you critically hit in wolf form." local="狼形态下发出暴击的同时为你&#10;施放一个回复之触。">
+      <str id="paragraph 1" value="This heritage can be unlocked by killing a full health human with a critical hit in wolf form at level 20." local="在等级 20 时的狼形态下，一&#10;击杀死一个满血的人类，可以&#10;解锁这项遗产。"/>
     </str>
-    <str id="Monster Chow" value="Increases health and energy while shapeshifted.">
-      <str id="paragraph 1" value="This heritage can be unlocked by killing %d monsters and eating their corpses while shapeshifted."/>
-      <str id="paragraph 2" value="Note that shapeshifting resets the counter and this must be completed in one shift."/>
-      <str id="paragraph 3" value="Monsters eaten:"/>
+    <str id="Monster Chow" value="Increases health and energy while shapeshifted." local="在变形时增加生命值和精力。">
+      <str id="paragraph 1" value="This heritage can be unlocked by killing %d monsters and eating their corpses while shapeshifted." local="在变形后杀死 %d 个巨怪并吃&#10;掉它们的尸体。"/>
+      <str id="paragraph 2" value="Note that shapeshifting resets the counter and this must be completed in one shift." local="注意：施展变形术将充值计数&#10;器，因此必须在一次变形中完&#10;成。"/>
+      <str id="paragraph 3" value="Monsters eaten:" local="吃掉的巨怪："/>
     </str>
-    <str id="Second Amendment" value="Allows you to learn spells from Arcane tomes while having a matching amulet equipped (*).">
-      <str id="paragraph 1" value="Once you have learned an Arcane spell you can cast it while having any amulet equipped."/>
-      <str id="paragraph 2" value="This heritage can be unlocked by donating an item from the future to the Artisan's Guild."/>
-      <str id="paragraph 3" value="(*) Note that you will also need to know Literacy: Common and one of the other literacies."/>
+    <str id="Second Amendment" value="Allows you to learn spells from Arcane tomes while having a matching amulet equipped (*)." local="允许你在装备有对应的护符时&#10;，从奥术典籍中学习法术 (*)&#10;。">
+      <str id="paragraph 1" value="Once you have learned an Arcane spell you can cast it while having any amulet equipped." local="一旦你学会了一门奥术，你可&#10;以在装备有任意护符时施放它&#10;。"/>
+      <str id="paragraph 2" value="This heritage can be unlocked by donating an item from the future to the Artisan's Guild." local="你从未来捐赠任意一个物品给&#10;工匠行会可以解锁这项遗产。"/>
+      <str id="paragraph 3" value="(*) Note that you will also need to know Literacy: Common and one of the other literacies." local="(*) 注意：你需要读写：常识&#10;以及另一项读写天赋。"/>
     </str>
-    <str id="Rise of Fairies" value="Allows you to learn spells from Bestial tomes with a Fairy Jizzed Bull Horn while levitating (*).">
-      <str id="paragraph 1" value="Once you have learned a Bestial spell you can cast it while having a horn in your backpack."/>
-      <str id="paragraph 2" value="This heritage can be unlocked by attempting to donate an unidentified horn to the Artisan's Guild."/>
-      <str id="paragraph 3" value="(*) Note that you will also need to know Literacy: Common and one of the other literacies."/>
+    <str id="Rise of Fairies" value="Allows you to learn spells from Bestial tomes with a Fairy Jizzed Bull Horn while levitating (*)." local="允许你通过精灵遗弃的牛角在&#10;浮空时从兽性典籍中学习法术&#10; (*)。">
+      <str id="paragraph 1" value="Once you have learned a Bestial spell you can cast it while having a horn in your backpack." local="一旦你学会了一门兽性法术，&#10;你就可以在背包中有牛角时施&#10;放它。"/>
+      <str id="paragraph 2" value="This heritage can be unlocked by attempting to donate an unidentified horn to the Artisan's Guild." local="向工匠行会捐赠一个未鉴定的&#10;牛角可以解锁这项遗产。"/>
+      <str id="paragraph 3" value="(*) Note that you will also need to know Literacy: Common and one of the other literacies." local="(*) 注意：你需要读写：常识&#10;以及另一项读写天赋。"/>
     </str>
-    <str id="Wester Worshipper" value="Allows you to learn spells from Abyssal tomes with an Engraved Pyramidion and a sacrifice (*).">
-      <str id="paragraph 1" value="Once you have learned an Abyssal spell you can cast it while having a pyramidion in your backpack."/>
-      <str id="paragraph 2" value="This heritage can be unlocked by attempting to donate an unidentified pyramidion to the Artisan's Guild."/>
-      <str id="paragraph 3" value="(*) Note that you will also need to know Literacy: Common and one of the other literacies."/>
+    <str id="Wester Worshipper" value="Allows you to learn spells from Abyssal tomes with an Engraved Pyramidion and a sacrifice (*)." local="允许你通过一个雕花金字塔和&#10;一次献祭从深渊典籍中学习法&#10;术 (*)。">
+      <str id="paragraph 1" value="Once you have learned an Abyssal spell you can cast it while having a pyramidion in your backpack." local="一旦你学会了一门深渊法术，&#10;你就可以在背包中有金字塔时&#10;施放它。"/>
+      <str id="paragraph 2" value="This heritage can be unlocked by attempting to donate an unidentified pyramidion to the Artisan's Guild." local="向工匠行会捐赠一个未鉴定的&#10;金字塔可以解锁这项遗产。"/>
+      <str id="paragraph 3" value="(*) Note that you will also need to know Literacy: Common and one of the other literacies." local="(*) 注意：你需要读写：常识&#10;以及另一项读写天赋。"/>
     </str>
   </HeritageDescs>
   <ChallengeNames>
@@ -4265,19 +4265,19 @@
     </str>
   </StatusBarAnim>
   <ConsoleAnim>
-    <str id="Type the name of your legendary weapon or press %s to cancel:" value="Type the name of your legendary weapon or press %s to cancel:"/>
-    <str id="You can't give a blank name to your weapon." value="You can't give a blank name to your weapon."/>
+    <str id="Type the name of your legendary weapon or press %s to cancel:" value="Type the name of your legendary weapon or press %s to cancel:" local="为你的传奇武器命名，或是按下 %s 取消："/>
+    <str id="You can't give a blank name to your weapon." value="You can't give a blank name to your weapon." local="你不能给你的武器取一个空白名字。"/>
   </ConsoleAnim>
   <CursorAnim>
-    <str id="Select a target to attack at and press %s:" value="Select a target to attack at and press %s:"/>
-    <str id="You can't shoot with that before rearming." value="You can't shoot with that before rearming."/>
-    <str id="shoot" value="shoot"/>
-    <str id="Select a target to %s at and press %s:" value="Select a target to %s at and press %s:"/>
-    <str id="You can't make ranged attacks without a ranged weapon." value="You can't make ranged attacks without a ranged weapon."/>
-    <str id="You can't attack yourself." value="You can't attack yourself."/>
-    <str id="You can't attack empty spaces." value="You can't attack empty spaces."/>
-    <str id="You can't shoot at yourself." value="You can't shoot at yourself."/>
-    <str id="You can't throw at yourself." value="You can't throw at yourself."/>
+    <str id="Select a target to attack at and press %s:" value="Select a target to attack at and press %s:" local="选择一个攻击目标，然后按下 %s："/>
+    <str id="You can't shoot with that before rearming." value="You can't shoot with that before rearming." local="你不能在重新装弹前射击。"/>
+    <str id="shoot" value="shoot" local="射击"/>
+    <str id="Select a target to %s at and press %s:" value="Select a target to %s at and press %s:" local="选择一个%s的目标然后按下 %s："/>
+    <str id="You can't make ranged attacks without a ranged weapon." value="You can't make ranged attacks without a ranged weapon." local="你不能在未装备远程武器时进行远程攻击。"/>
+    <str id="You can't attack yourself." value="You can't attack yourself." local="你不能攻击自己。"/>
+    <str id="You can't attack empty spaces." value="You can't attack empty spaces." local="你不能攻击空位。"/>
+    <str id="You can't shoot at yourself." value="You can't shoot at yourself." local="你不能射击自己。"/>
+    <str id="You can't throw at yourself." value="You can't throw at yourself." local="你不能对自己投掷。"/>
   </CursorAnim>
   <EffectAnim>
     <str id="Oogled" value="You are oogled."/>
