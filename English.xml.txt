@@ -266,7 +266,7 @@ Encounters."Orc miner says: Wrok wrok..." 兽人矿工说：工作工作……
 Encounters."Cave bear roars: Rrraaarrgghhrr!!!" 洞熊怒吼：Rrraaarrgghhrr!!!
 Encounters."Orc boss yells: Wraaagh kek Hulk!" 兽人首领喊道：Wraaagh kek Hulk!
 Encounters."Knight yells: Kill the Wanderer!!!" 骑士喊道：干掉那个流浪者!!!
-Encounters."Drake roars: Rrraaarrgghhrr nom nom!!!" 幼龙喊道：Rrraaarrgghhrr nom nom!!!
+Encounters."Drake roars: Rrraaarrgghhrr nom nom!!!" 龙嚎叫着：Rrraaarrgghhrr nom nom!!!
 Encounters."Wizard yells: Who dares to insult the Sacred Order of the Pink?!?" 法师喊道：谁敢侮辱神圣的粉色骑士团?!?
 Encounters."Prince Altren yells: Find %s and bring me %s head!" 艾特仁王子喊道：找出 %s 把 %s 的脑袋带给我！
 Encounters."Master Gifin-Gif yells: Find %s and bring me %s head!" 吉夫大师喊道：找出 %s 把 %s 的脑袋带给我！
@@ -294,7 +294,7 @@ Encounters."Leo Noerde yells: My work did not reach the quality it should have!"
 Encounters."%s yells: I'm only level 17 and I can prove it!" %s 喊道：我只有 17 级，我可以证明这点！
 Encounters."The remains of the third leg wiggle all over and inside you." 第三条腿的残骸在你的身体内外扭动。
 Travelers."a cave bear" 一只洞熊
-Travelers."a drake" 一只幼龙
+Travelers."a drake" 一条龙
 Travelers."a floater" 一只浮游类
 Travelers."a glutopod" 一只 glutopod
 Travelers."an infernal" 一个恶魔
@@ -305,7 +305,7 @@ Travelers."an elemental" 一个元素怪
 Travelers."a troll" 一个巨魔
 Travelers."a demonrat" 一只魔鼠
 Travelers."the cave bear" 这只洞熊
-Travelers."the drake" 这只幼龙
+Travelers."the drake" 这条龙
 Travelers."the floater" 这只浮游类
 Travelers."the glutopod" 这只 glutopod
 Travelers."the infernal" 这个恶魔
@@ -1842,7 +1842,7 @@ PotionNames."Potion of Slowness" 迟缓药剂
 PotionNames."Potion of Swiftness" 加速药剂
 PotionNames."Potion of Troll Blood" 巨魔之血
 PotionNames."Potion of Willpower" 意志药剂
-PotionNames."Potion of Wolf Form" 狼型药剂
+PotionNames."Potion of Wolf Form" 狼形药剂
 PotionNames."Potion of Strength" 力量药剂
 PotionNames."Potion of Agility" 敏捷药剂
 PotionNames."Potion of Stamina" 耐力药剂
@@ -1924,52 +1924,52 @@ RingNames."Ring of Noobery" 愚笨之戒
 RingNames."Ring of Shadows" 暗影之戒
 RingNames."Ring of Shielding" 护盾之戒
 RingNames."Ring of Underdog" 弱势之戒
-RingDescs."RingDesc" In addition to being signs of spousal servitude, some rings can provide incredibly powerful effects.
-RingDescs."Ring of Ebbin" Another ring to rule them all. This one is now your precious!
-RingDescs."Ring of Accuracy" Allows the wearer to re-roll misses with ranged and thrown weapons.
-RingDescs."Ring of Adornment" Looks impressive but contains no magical powers.
-RingDescs."Ring of Brutality" Allows the wearer to re-roll misses with melee weapons.
-RingDescs."Ring of Clarity" Grants immunity against blind, deafen and silence effects.
-RingDescs."Ring of Control" Grants immunity against charm, confuse and paralyse effects.
-RingDescs."Ring of Deflection" Doubles the wearer's parry modifier. This effect does not stack.
-RingDescs."Ring of Elements" Grants immunity against fire, frost and shock effects.
-RingDescs."Ring of Evasion" Increases either block, dodge or parry modifier by 1. This effect does not stack.
-RingDescs."Ring of Familiar" Summons and controls a whelp when equipped. This ring is destroyed if the whelp dies.
-RingDescs."Ring of Fortitude" Grants immunity against sleep and fear effects.
-RingDescs."Ring of Freedom" Grants immunity against slow, knockback and polymorph effects.
-RingDescs."Ring of Grease" Forces the wearer to re-roll ranged hits. This ring cannot be unequipped.
-RingDescs."Ring of Haste" Grants a haste effect at the expense of doubling the food and water consumption rates.
-RingDescs."Ring of Hunger" Triples food consumption rate. This ring cannot be unequipped.
-RingDescs."Ring of Immunity" Grants immunity against poison, disease and curse effects.
-RingDescs."Ring of Outcasts" May contain up to three different enchants instead of one.
-RingDescs."Ring of Regeneration" Allows the wearer to re-roll failed energy regeneration checks and makes him vulnerable to fire.
-RingDescs."Ring of Resilience" Grants immunity against leech, drain and instant death effects.
-RingDescs."Ring of Scholars" Automatically identifies scrolls and tomes when they are picked up.
-RingDescs."Ring of Searching" Grants a free search action and allows the wielder to re-roll failed search checks. This effect does not stack.
-RingDescs."Ring of Sustenance" Ignores food and water consumption on either even or odd game turns (main hand or offhand).
-RingDescs."Ring of Thirst" Triples water consumption rate. This ring cannot be unequipped.
-RingDescs."Ring of Anxiety" Makes you vulnerable to all damage. This ring cannot be unequipped.
-RingDescs."Ring of Bloodlust" Heals you for 20% of the physical weapon damage you cause.
-RingDescs."Ring of Conversion" Converts all weapon damage you receive into physical damage and reduces it by 10%.
-RingDescs."Ring of Cracking" Increases physical damage by 20% with melee and ranged weapons.
-RingDescs."Ring of Noobery" Halves experience gained. This effect does not stack.
-RingDescs."Ring of Shadows" Hides you in plain sight when you take damage.
-RingDescs."Ring of Shielding" Each point of energy counts as 3 points of health. This effect does not stack.
-RingDescs."Ring of Underdog" Increases all resistances by up to 5, the lower your health.
-RingDescs."InvisibleEbbin" Another ring to rule them all. This one also makes you invisible and it is now your precious!
-RingDescs."BlessedEvasion" Increases either block, dodge or parry modifier by 2. This effect does not stack.
-RingDescs."BlessedFamiliar" Summons and controls a drake when equipped. This ring is destroyed if the drake dies.
-RingDescs."BlessedHaste" Grants a haste effect without affecting food and water consumption rates.
-RingDescs."BlessedOutcasts" May contain up to six different enchants instead of one.
-RingDescs."BlessedScholars" Automatically identifies wands, potions, scrolls and tomes when they are picked up.
-RingDescs."BlessedSustenance" Completely ignores food and water consumption.
-RingDescs."BlessedBloodlust" Heals you for 30% of the physical weapon damage you cause.
-RingDescs."BlessedConversion" Converts all weapon damage you receive into physical damage and reduces it by 20%.
-RingDescs."BlessedCracking" Increases physical damage by 30% with melee and ranged weapons.
-RingDescs."BlessedNoobery" Quarters experience gained. This effect does not stack.
-RingDescs."BlessedShadows" Hides you in plain sight and blinds the possible attacker when you take damage.
-RingDescs."BlessedShielding" Each point of energy counts as 5 points of health. This effect does not stack.
-RingDescs."BlessedUnderdog" Increases all resistances by up to 8, the lower your health.
+RingDescs."RingDesc" @(30)除了用于标示已成为配偶的奴隶，有些戒指还能提供一些强力效果。
+RingDescs."Ring of Ebbin" 另一个统治世界的戒指。这是你的最爱！
+RingDescs."Ring of Accuracy" 允许佩戴者在远程武器和投掷武器射失时重掷命中骰。
+RingDescs."Ring of Adornment" 看起来令人印象深刻，但没有魔法力量。
+RingDescs."Ring of Brutality" 允许佩戴者在近战武器击空后重掷命中骰。
+RingDescs."Ring of Clarity" 获得对盲眼，耳聋，沉默效果的免疫力。
+RingDescs."Ring of Control" 获得对魅惑，混乱，麻痹效果的免疫力。
+RingDescs."Ring of Deflection" 加倍佩戴者的招架修正。这个效果无法叠加。
+RingDescs."Ring of Elements" 获得对火焰，冰霜，震击效果的免疫力。
+RingDescs."Ring of Evasion" 将格挡，闪避或招架修正之一加 1 。这个效果无法叠加。
+RingDescs."Ring of Familiar" 装备时召唤并控制一只幼龙。当幼龙死亡时，戒指也会同时摧毁。
+RingDescs."Ring of Fortitude" 获得对沉睡和恐惧效果的免疫力。
+RingDescs."Ring of Freedom" 获得对迟缓，击退，变形效果的免疫力。
+RingDescs."Ring of Grease" 强制佩戴者在远程命中后重掷命中骰。这枚戒指无法取下。
+RingDescs."Ring of Haste" 获得一个加速效果，但食物和水的消耗速度加倍。
+RingDescs."Ring of Hunger" 三倍食物消耗速度。这枚戒指无法取下。
+RingDescs."Ring of Immunity" 获得对毒害，疾病和诅咒效果的免疫力。
+RingDescs."Ring of Outcasts" 可以附魔三次而不是一次。
+RingDescs."Ring of Regeneration" 允许佩戴者在精力回复检定失败后重掷，同时会使他更容易着火。
+RingDescs."Ring of Resilience" 获得对吸血，噬精和即死效果的免疫力。
+RingDescs."Ring of Scholars" 在拾取卷轴和典籍的同时鉴定它们。
+RingDescs."Ring of Searching" 获得一次免费的搜索行动，同时允许佩戴者在搜索检定失败后重掷。这个效果无法叠加。
+RingDescs."Ring of Sustenance" 在奇数或偶数回合（主手或副手）忽略食物和水的消耗。
+RingDescs."Ring of Thirst" 三倍水消耗速度。这枚戒指无法取下。
+RingDescs."Ring of Anxiety" 使你更容易受任何性质的伤害。这枚戒指无法取下。
+RingDescs."Ring of Bloodlust" 治疗你相当于 20% 你造成的物理伤害。
+RingDescs."Ring of Conversion" 把所有你受到的伤害减少 10% 并转换为物理伤害。
+RingDescs."Ring of Cracking" 近战和远程武器的物理伤害增加 20% 。
+RingDescs."Ring of Noobery" 获得的经验减半。这个效果无法叠加。
+RingDescs."Ring of Shadows" 在你受到伤害时将你凭空藏匿。
+RingDescs."Ring of Shielding" 每点精力计为三点生命。这个效果无法叠加。
+RingDescs."Ring of Underdog" 最多增加所有的抗性五点，生命越低增加越多。
+RingDescs."InvisibleEbbin" 另一枚统治世界的戒指。这枚戒指还可以让你隐身，它是你的最爱！
+RingDescs."BlessedEvasion" 将格挡，闪避或招架修正之一加 2 。这个效果无法叠加。
+RingDescs."BlessedFamiliar" 在装备时召唤并控制一条龙。 当龙死亡时，戒指也会同时摧毁。
+RingDescs."BlessedHaste" 获得一个加速效果，不会增加食物和水的消耗。
+RingDescs."BlessedOutcasts" 可以附魔六次而不是一次。
+RingDescs."BlessedScholars" 当你拾起魔杖，药剂，卷轴，典籍时，鉴定它们。
+RingDescs."BlessedSustenance" 完全忽略食物和水的消耗。
+RingDescs."BlessedBloodlust" 治疗你相当于 30% 你造成的物理伤害。
+RingDescs."BlessedConversion" 把所有你受到的伤害减少 20% 并转换为物理伤害。
+RingDescs."BlessedCracking" 近战和远程武器的物理伤害增加 30% 。
+RingDescs."BlessedNoobery" 获得的经验减少到四分之一。这个效果无法叠加。
+RingDescs."BlessedShadows" 在你受到伤害时将你凭空藏匿并致盲攻击者。
+RingDescs."BlessedShielding" 每点精力计为五点生命。这个效果无法叠加。
+RingDescs."BlessedUnderdog" 最多增加所有的抗性八点，生命越低增加越多
 RuneNames."Rune" 符石
 RuneNames."Rune of Agility" 敏捷符石
 RuneNames."Rune of Charisma" 魅力符石
@@ -2188,7 +2188,7 @@ ToolNames."Soul Gem of Sloth" 懒惰魂晶
 ToolNames."Soul Gem of Thirst" 干渴魂晶
 ToolNames."Soul Gem of Wrath" 愤怒魂晶
 ToolNames."Equalizer" 均衡器
-ToolDescs."Smoke Bomb" @(30)让你凭空消失。底部的标签上写着，长期使用可能会导致肺癌。
+ToolDescs."Smoke Bomb" @(30)让你凭空藏匿。底部的标签上写着，长期使用可能会导致肺癌。
 ToolDescs."Bear Trap" @(30)陷阱大师可以装备它而不必失去手指。
 ToolDescs."Magic Trap" @(30)陷阱大师可以装备它而不会被烧焦。
 ToolDescs."Tithril Ore" @(30)轻轻的触摸这块金属会让它越发的坚固。
@@ -2539,7 +2539,7 @@ CreatureNames."King" 国王
 CreatureNames."Queen" 女王
 CreatureNames."Monster" 巨怪
 CreatureNames."Cave bear" 洞熊
-CreatureNames."Drake" 幼龙
+CreatureNames."Drake" 龙
 CreatureNames."Infernal" 恶魔
 CreatureNames."Mamalob" Mamalob
 CreatureNames."Wraith" 幽灵

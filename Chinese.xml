@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="22b91c8f5ba6ff076c8a454f72cbc094eab00818">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="6b293a2bf23b6e62f72d41b9f1fb416d839f37d1">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -306,7 +306,7 @@
     <str id="Cave bear roars: Rrraaarrgghhrr!!!" value="Cave bear roars: Rrraaarrgghhrr!!!" local="洞熊怒吼：Rrraaarrgghhrr!!!"/>
     <str id="Orc boss yells: Wraaagh kek Hulk!" value="Orc boss yells: Wraaagh kek Hulk!" local="兽人首领喊道：Wraaagh kek Hulk!"/>
     <str id="Knight yells: Kill the Wanderer!!!" value="Knight yells: Kill the Wanderer!!!" local="骑士喊道：干掉那个流浪者!!!"/>
-    <str id="Drake roars: Rrraaarrgghhrr nom nom!!!" value="Drake roars: Rrraaarrgghhrr nom nom!!!" local="幼龙喊道：Rrraaarrgghhrr nom nom!!!"/>
+    <str id="Drake roars: Rrraaarrgghhrr nom nom!!!" value="Drake roars: Rrraaarrgghhrr nom nom!!!" local="龙嚎叫着：Rrraaarrgghhrr nom nom!!!"/>
     <str id="Wizard yells: Who dares to insult the Sacred Order of the Pink?!?" value="Wizard yells: Who dares to insult the Sacred Order of the Pink?!?" local="法师喊道：谁敢侮辱神圣的粉色骑士团?!?"/>
     <str id="Prince Altren yells: Find %s and bring me %s head!" value="Prince Altren yells: Find %s and bring me %s head!" local="艾特仁王子喊道：找出 %s 把 %s 的脑袋带给我！"/>
     <str id="Master Gifin-Gif yells: Find %s and bring me %s head!" value="Master Gifin-Gif yells: Find %s and bring me %s head!" local="吉夫大师喊道：找出 %s 把 %s 的脑袋带给我！"/>
@@ -336,7 +336,7 @@
   </Encounters>
   <Travelers>
     <str id="a cave bear" value="a cave bear" local="一只洞熊"/>
-    <str id="a drake" value="a drake" local="一只幼龙"/>
+    <str id="a drake" value="a drake" local="一条龙"/>
     <str id="a floater" value="a floater" local="一只浮游类"/>
     <str id="a glutopod" value="a glutopod" local="一只 glutopod"/>
     <str id="an infernal" value="an infernal" local="一个恶魔"/>
@@ -347,7 +347,7 @@
     <str id="a troll" value="a troll" local="一个巨魔"/>
     <str id="a demonrat" value="a demonrat" local="一只魔鼠"/>
     <str id="the cave bear" value="the cave bear" local="这只洞熊"/>
-    <str id="the drake" value="the drake" local="这只幼龙"/>
+    <str id="the drake" value="the drake" local="这条龙"/>
     <str id="the floater" value="the floater" local="这只浮游类"/>
     <str id="the glutopod" value="the glutopod" local="这只 glutopod"/>
     <str id="the infernal" value="the infernal" local="这个恶魔"/>
@@ -2005,7 +2005,7 @@
     <str id="Potion of Swiftness" value="Potion of Swiftness" local="加速药剂"/>
     <str id="Potion of Troll Blood" value="Potion of Troll Blood" local="巨魔之血"/>
     <str id="Potion of Willpower" value="Potion of Willpower" local="意志药剂"/>
-    <str id="Potion of Wolf Form" value="Potion of Wolf Form" local="狼型药剂"/>
+    <str id="Potion of Wolf Form" value="Potion of Wolf Form" local="狼形药剂"/>
     <str id="Potion of Strength" value="Potion of Strength" local="力量药剂"/>
     <str id="Potion of Agility" value="Potion of Agility" local="敏捷药剂"/>
     <str id="Potion of Stamina" value="Potion of Stamina" local="耐力药剂"/>
@@ -2095,52 +2095,52 @@
     <str id="Ring of Underdog" value="Ring of Underdog" local="弱势之戒"/>
   </RingNames>
   <RingDescs>
-    <str id="RingDesc" value="In addition to being signs of spousal servitude, some rings can provide incredibly powerful effects."/>
-    <str id="Ring of Ebbin" value="Another ring to rule them all. This one is now your precious!"/>
-    <str id="Ring of Accuracy" value="Allows the wearer to re-roll misses with ranged and thrown weapons."/>
-    <str id="Ring of Adornment" value="Looks impressive but contains no magical powers."/>
-    <str id="Ring of Brutality" value="Allows the wearer to re-roll misses with melee weapons."/>
-    <str id="Ring of Clarity" value="Grants immunity against blind, deafen and silence effects."/>
-    <str id="Ring of Control" value="Grants immunity against charm, confuse and paralyse effects."/>
-    <str id="Ring of Deflection" value="Doubles the wearer's parry modifier. This effect does not stack."/>
-    <str id="Ring of Elements" value="Grants immunity against fire, frost and shock effects."/>
-    <str id="Ring of Evasion" value="Increases either block, dodge or parry modifier by 1. This effect does not stack."/>
-    <str id="Ring of Familiar" value="Summons and controls a whelp when equipped. This ring is destroyed if the whelp dies."/>
-    <str id="Ring of Fortitude" value="Grants immunity against sleep and fear effects."/>
-    <str id="Ring of Freedom" value="Grants immunity against slow, knockback and polymorph effects."/>
-    <str id="Ring of Grease" value="Forces the wearer to re-roll ranged hits. This ring cannot be unequipped."/>
-    <str id="Ring of Haste" value="Grants a haste effect at the expense of doubling the food and water consumption rates."/>
-    <str id="Ring of Hunger" value="Triples food consumption rate. This ring cannot be unequipped."/>
-    <str id="Ring of Immunity" value="Grants immunity against poison, disease and curse effects."/>
-    <str id="Ring of Outcasts" value="May contain up to three different enchants instead of one."/>
-    <str id="Ring of Regeneration" value="Allows the wearer to re-roll failed energy regeneration checks and makes him vulnerable to fire."/>
-    <str id="Ring of Resilience" value="Grants immunity against leech, drain and instant death effects."/>
-    <str id="Ring of Scholars" value="Automatically identifies scrolls and tomes when they are picked up."/>
-    <str id="Ring of Searching" value="Grants a free search action and allows the wielder to re-roll failed search checks. This effect does not stack."/>
-    <str id="Ring of Sustenance" value="Ignores food and water consumption on either even or odd game turns (main hand or offhand)."/>
-    <str id="Ring of Thirst" value="Triples water consumption rate. This ring cannot be unequipped."/>
-    <str id="Ring of Anxiety" value="Makes you vulnerable to all damage. This ring cannot be unequipped."/>
-    <str id="Ring of Bloodlust" value="Heals you for 20% of the physical weapon damage you cause."/>
-    <str id="Ring of Conversion" value="Converts all weapon damage you receive into physical damage and reduces it by 10%."/>
-    <str id="Ring of Cracking" value="Increases physical damage by 20% with melee and ranged weapons."/>
-    <str id="Ring of Noobery" value="Halves experience gained. This effect does not stack."/>
-    <str id="Ring of Shadows" value="Hides you in plain sight when you take damage."/>
-    <str id="Ring of Shielding" value="Each point of energy counts as 3 points of health. This effect does not stack."/>
-    <str id="Ring of Underdog" value="Increases all resistances by up to 5, the lower your health."/>
-    <str id="InvisibleEbbin" value="Another ring to rule them all. This one also makes you invisible and it is now your precious!"/>
-    <str id="BlessedEvasion" value="Increases either block, dodge or parry modifier by 2. This effect does not stack."/>
-    <str id="BlessedFamiliar" value="Summons and controls a drake when equipped. This ring is destroyed if the drake dies."/>
-    <str id="BlessedHaste" value="Grants a haste effect without affecting food and water consumption rates."/>
-    <str id="BlessedOutcasts" value="May contain up to six different enchants instead of one."/>
-    <str id="BlessedScholars" value="Automatically identifies wands, potions, scrolls and tomes when they are picked up."/>
-    <str id="BlessedSustenance" value="Completely ignores food and water consumption."/>
-    <str id="BlessedBloodlust" value="Heals you for 30% of the physical weapon damage you cause."/>
-    <str id="BlessedConversion" value="Converts all weapon damage you receive into physical damage and reduces it by 20%."/>
-    <str id="BlessedCracking" value="Increases physical damage by 30% with melee and ranged weapons."/>
-    <str id="BlessedNoobery" value="Quarters experience gained. This effect does not stack."/>
-    <str id="BlessedShadows" value="Hides you in plain sight and blinds the possible attacker when you take damage."/>
-    <str id="BlessedShielding" value="Each point of energy counts as 5 points of health. This effect does not stack."/>
-    <str id="BlessedUnderdog" value="Increases all resistances by up to 8, the lower your health."/>
+    <str id="RingDesc" value="In addition to being signs of spousal servitude, some rings can provide incredibly powerful effects." local="除了用于标示已成为配偶的奴隶，&#10;有些戒指还能提供一些强力效果。"/>
+    <str id="Ring of Ebbin" value="Another ring to rule them all. This one is now your precious!" local="另一个统治世界的戒指。这是你的最爱！"/>
+    <str id="Ring of Accuracy" value="Allows the wearer to re-roll misses with ranged and thrown weapons." local="允许佩戴者在远程武器和投掷武器射失时重掷命中骰。"/>
+    <str id="Ring of Adornment" value="Looks impressive but contains no magical powers." local="看起来令人印象深刻，但没有魔法力量。"/>
+    <str id="Ring of Brutality" value="Allows the wearer to re-roll misses with melee weapons." local="允许佩戴者在近战武器击空后重掷命中骰。"/>
+    <str id="Ring of Clarity" value="Grants immunity against blind, deafen and silence effects." local="获得对盲眼，耳聋，沉默效果的免疫力。"/>
+    <str id="Ring of Control" value="Grants immunity against charm, confuse and paralyse effects." local="获得对魅惑，混乱，麻痹效果的免疫力。"/>
+    <str id="Ring of Deflection" value="Doubles the wearer's parry modifier. This effect does not stack." local="加倍佩戴者的招架修正。这个效果无法叠加。"/>
+    <str id="Ring of Elements" value="Grants immunity against fire, frost and shock effects." local="获得对火焰，冰霜，震击效果的免疫力。"/>
+    <str id="Ring of Evasion" value="Increases either block, dodge or parry modifier by 1. This effect does not stack." local="将格挡，闪避或招架修正之一加 1 。这个效果无法叠加。"/>
+    <str id="Ring of Familiar" value="Summons and controls a whelp when equipped. This ring is destroyed if the whelp dies." local="装备时召唤并控制一只幼龙。当幼龙死亡时，戒指也会同时摧毁。"/>
+    <str id="Ring of Fortitude" value="Grants immunity against sleep and fear effects." local="获得对沉睡和恐惧效果的免疫力。"/>
+    <str id="Ring of Freedom" value="Grants immunity against slow, knockback and polymorph effects." local="获得对迟缓，击退，变形效果的免疫力。"/>
+    <str id="Ring of Grease" value="Forces the wearer to re-roll ranged hits. This ring cannot be unequipped." local="强制佩戴者在远程命中后重掷命中骰。这枚戒指无法取下。"/>
+    <str id="Ring of Haste" value="Grants a haste effect at the expense of doubling the food and water consumption rates." local="获得一个加速效果，但食物和水的消耗速度加倍。"/>
+    <str id="Ring of Hunger" value="Triples food consumption rate. This ring cannot be unequipped." local="三倍食物消耗速度。这枚戒指无法取下。"/>
+    <str id="Ring of Immunity" value="Grants immunity against poison, disease and curse effects." local="获得对毒害，疾病和诅咒效果的免疫力。"/>
+    <str id="Ring of Outcasts" value="May contain up to three different enchants instead of one." local="可以附魔三次而不是一次。"/>
+    <str id="Ring of Regeneration" value="Allows the wearer to re-roll failed energy regeneration checks and makes him vulnerable to fire." local="允许佩戴者在精力回复检定失败后重掷，同时会使他更容易着火。"/>
+    <str id="Ring of Resilience" value="Grants immunity against leech, drain and instant death effects." local="获得对吸血，噬精和即死效果的免疫力。"/>
+    <str id="Ring of Scholars" value="Automatically identifies scrolls and tomes when they are picked up." local="在拾取卷轴和典籍的同时鉴定它们。"/>
+    <str id="Ring of Searching" value="Grants a free search action and allows the wielder to re-roll failed search checks. This effect does not stack." local="获得一次免费的搜索行动，同时允许佩戴者在搜索检定失败后重掷。这个效果无法叠加。"/>
+    <str id="Ring of Sustenance" value="Ignores food and water consumption on either even or odd game turns (main hand or offhand)." local="在奇数或偶数回合（主手或副手）忽略食物和水的消耗。"/>
+    <str id="Ring of Thirst" value="Triples water consumption rate. This ring cannot be unequipped." local="三倍水消耗速度。这枚戒指无法取下。"/>
+    <str id="Ring of Anxiety" value="Makes you vulnerable to all damage. This ring cannot be unequipped." local="使你更容易受任何性质的伤害。这枚戒指无法取下。"/>
+    <str id="Ring of Bloodlust" value="Heals you for 20% of the physical weapon damage you cause." local="治疗你相当于 20% 你造成的物理伤害。"/>
+    <str id="Ring of Conversion" value="Converts all weapon damage you receive into physical damage and reduces it by 10%." local="把所有你受到的伤害减少 10% 并转换为物理伤害。"/>
+    <str id="Ring of Cracking" value="Increases physical damage by 20% with melee and ranged weapons." local="近战和远程武器的物理伤害增加 20% 。"/>
+    <str id="Ring of Noobery" value="Halves experience gained. This effect does not stack." local="获得的经验减半。这个效果无法叠加。"/>
+    <str id="Ring of Shadows" value="Hides you in plain sight when you take damage." local="在你受到伤害时将你凭空藏匿。"/>
+    <str id="Ring of Shielding" value="Each point of energy counts as 3 points of health. This effect does not stack." local="每点精力计为三点生命。这个效果无法叠加。"/>
+    <str id="Ring of Underdog" value="Increases all resistances by up to 5, the lower your health." local="最多增加所有的抗性五点，生命越低增加越多。"/>
+    <str id="InvisibleEbbin" value="Another ring to rule them all. This one also makes you invisible and it is now your precious!" local="另一枚统治世界的戒指。这枚戒指还可以让你隐身，它是你的最爱！"/>
+    <str id="BlessedEvasion" value="Increases either block, dodge or parry modifier by 2. This effect does not stack." local="将格挡，闪避或招架修正之一加 2 。这个效果无法叠加。"/>
+    <str id="BlessedFamiliar" value="Summons and controls a drake when equipped. This ring is destroyed if the drake dies." local="在装备时召唤并控制一条龙。 当龙死亡时，戒指也会同时摧毁。"/>
+    <str id="BlessedHaste" value="Grants a haste effect without affecting food and water consumption rates." local="获得一个加速效果，不会增加食物和水的消耗。"/>
+    <str id="BlessedOutcasts" value="May contain up to six different enchants instead of one." local="可以附魔六次而不是一次。"/>
+    <str id="BlessedScholars" value="Automatically identifies wands, potions, scrolls and tomes when they are picked up." local="当你拾起魔杖，药剂，卷轴，典籍时，鉴定它们。"/>
+    <str id="BlessedSustenance" value="Completely ignores food and water consumption." local="完全忽略食物和水的消耗。"/>
+    <str id="BlessedBloodlust" value="Heals you for 30% of the physical weapon damage you cause." local="治疗你相当于 30% 你造成的物理伤害。"/>
+    <str id="BlessedConversion" value="Converts all weapon damage you receive into physical damage and reduces it by 20%." local="把所有你受到的伤害减少 20% 并转换为物理伤害。"/>
+    <str id="BlessedCracking" value="Increases physical damage by 30% with melee and ranged weapons." local="近战和远程武器的物理伤害增加 30% 。"/>
+    <str id="BlessedNoobery" value="Quarters experience gained. This effect does not stack." local="获得的经验减少到四分之一。这个效果无法叠加。"/>
+    <str id="BlessedShadows" value="Hides you in plain sight and blinds the possible attacker when you take damage." local="在你受到伤害时将你凭空藏匿并致盲攻击者。"/>
+    <str id="BlessedShielding" value="Each point of energy counts as 5 points of health. This effect does not stack." local="每点精力计为五点生命。这个效果无法叠加。"/>
+    <str id="BlessedUnderdog" value="Increases all resistances by up to 8, the lower your health." local="最多增加所有的抗性八点，生命越低增加越多"/>
   </RingDescs>
   <RuneNames>
     <str id="Rune" value="Rune" local="符石"/>
@@ -2383,7 +2383,7 @@
     <str id="Equalizer" value="Equalizer" local="均衡器"/>
   </ToolNames>
   <ToolDescs>
-    <str id="Smoke Bomb" value="Hides you in plain sight. Prolonged use might cause lung cancer according to the sticker at the bottom." local="让你凭空消失。底部的标签上写着&#10;，长期使用可能会导致肺癌。"/>
+    <str id="Smoke Bomb" value="Hides you in plain sight. Prolonged use might cause lung cancer according to the sticker at the bottom." local="让你凭空藏匿。底部的标签上写着&#10;，长期使用可能会导致肺癌。"/>
     <str id="Bear Trap" value="A trap master can arm this without losing too many fingers." local="陷阱大师可以装备它而不必失去手&#10;指。"/>
     <str id="Magic Trap" value="A trap master can arm this without getting burnt in the process." local="陷阱大师可以装备它而不会被烧焦&#10;。"/>
     <str id="Tithril Ore" value="This metal seems to become firmer when touched gently." local="轻轻的触摸这块金属会让它越发的&#10;坚固。"/>
@@ -2750,7 +2750,7 @@
     <str id="Queen" value="Queen" local="女王"/>
     <str id="Monster" value="Monster" local="巨怪"/>
     <str id="Cave bear" value="Cave bear" local="洞熊"/>
-    <str id="Drake" value="Drake" local="幼龙"/>
+    <str id="Drake" value="Drake" local="龙"/>
     <str id="Infernal" value="Infernal" local="恶魔"/>
     <str id="Mamalob" value="Mamalob"/>
     <str id="Wraith" value="Wraith" local="幽灵"/>
