@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="32e136260a0dac00bd960f637138ba1a22213455">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="22b91c8f5ba6ff076c8a454f72cbc094eab00818">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -1927,36 +1927,36 @@
     <str id="Chicken" value="Some people have become sick after eating raw chicken." local="有些人生吃了鸡肉后就生病了。"/>
     <str id="Fried Chicken" value="Fried chicken is much safer to eat than raw chicken." local="吃炸鸡比吃生鸡肉安全的多。"/>
     <str id="Blood Cap" value="Blood caps are said to have bad blood in them." local="据说血蘑菇里有坏血。"/>
-    <str id="Fried Cap" value="Frying supposedly removes the bad blood from blood caps." local="火烤可以去除血蘑菇中的有害成分。"/>
+    <str id="Fried Cap" value="Frying supposedly removes the bad blood from blood caps." local="火烤可以去除血蘑菇中的有害成分&#10;。"/>
     <str id="Death Cap" value="Mmm... Yummy." local="嗯……好吃。"/>
     <str id="Bread" value="Tastes a bit dull but keeps the hunger away." local="食之无味，但能驱走饥饿感。"/>
     <str id="Cheese" value="This wedge smells like a peasant girl's armpit." local="这块楔子闻起来像个村姑的腋窝。"/>
     <str id="Egg" value="Some people have become sick after eating a raw egg." local="有些人吃了生鸡蛋后就生病了。"/>
     <str id="Fried Egg" value="Fried egg is much safer to eat than a raw egg." local="煎蛋比生蛋更安全。"/>
-    <str id="Apple" value="Boy, apple, arrow, miss, shovel, dig, forget." local="男孩，苹果，箭，错过，铲子，挖，忘了。"/>
-    <str id="Carrot" value="What's up du... uhh, copyright infringement." local="怎么啦，朋友…… 哦，侵权了。"/>
-    <str id="Pear" value="Imagine that all women look like pears. Blaaarrgghh." local="想象一下，所有的女人看起来都像梨子。哈哈。"/>
-    <str id="Tomato" value="If you are late you must ketchup. I'll get my coat." local="如果你迟到了，你必须涂番茄酱。我去拿外套。"/>
+    <str id="Apple" value="Boy, apple, arrow, miss, shovel, dig, forget." local="你是我的小啊小…… 哦，侵权了。"/>
+    <str id="Carrot" value="What's up du... uhh, copyright infringement." local="不是每一只兔子都爱吃胡萝卜的。"/>
+    <str id="Pear" value="Imagine that all women look like pears. Blaaarrgghh." local="想象一下，所有的女人看起来都像&#10;个梨。哈哈。"/>
+    <str id="Tomato" value="If you are late you must ketchup. I'll get my coat." local="如果你迟到了，你必须涂番茄酱。&#10;我去拿外套。"/>
     <str id="Plum" value="This must be the synonym for gangrenous nut sack." local="这一定是腐烂坚果袋的同义词。"/>
-    <str id="Root" value="Stick it with a pin and somewhere someone dies." local="用针扎进去，某处的某个人就会死。"/>
-    <str id="Berries" value="If you weren't so sweet, we wouldn't be in this jam." local="要不是你这么体贴，我们就不会陷入这种困境了。"/>
+    <str id="Root" value="Stick it with a pin and somewhere someone dies." local="用针扎进去，某处的某个人就会死&#10;。"/>
+    <str id="Berries" value="If you weren't so sweet, we wouldn't be in this jam." local="要不是你这么体贴，我们就不会陷&#10;入这种困境了。"/>
     <str id="Cherries" value="Popping these cherries do not lock you up." local="吃这些樱桃不会把你关起来。"/>
     <str id="Grapes" value="Grapevines exist only because winevines sound silly." local="吃葡萄不吐葡萄皮……"/>
     <str id="Cabbage" value="These things are responsible for global warming." local="这些都是全球变暖的原因。"/>
     <str id="Potato" value="'Tis a shame you can't cook these into salted chips." local="真可惜你不能把这些炸成薯条."/>
-    <str id="Acorn" value="There lives a small squirrel in every one of us." local="我们每个人体内都住着一只小松鼠。"/>
-    <str id="Grass" value="Tastes great if you like to pretend that you are a goat." local="如果你喜欢假装自己是一只山羊，味道会很棒。"/>
+    <str id="Acorn" value="There lives a small squirrel in every one of us." local="我们每个人体内都住着一只小松鼠&#10;。"/>
+    <str id="Grass" value="Tastes great if you like to pretend that you are a goat." local="如果你喜欢假装自己是一只山羊，&#10;味道会很棒。"/>
     <str id="Garlic" value="Perhaps vampires will be added in the game at some point." local="也许以后会在游戏里加入吸血鬼。"/>
-    <str id="Onion" value="Even the worst axe murderer becomes a cry baby when you slice this." local="当你切这个的时候，即使是最坏的连环杀人犯也会哭。"/>
-    <str id="Lemon" value="Can be eaten but they can also clean porcelain toilets." local="可以吃，但也可以用于清洁厕所的瓷砖。"/>
-    <str id="Pepper" value="These are mild peppers that do not cause Bloody Flux." local="这些是温和的胡椒，不会引起血瘟。"/>
-    <str id="Food Ration" value="A dungeon dweller's food ration is a poor man's feast." local="一份地牢快餐式穷人的盛宴。"/>
+    <str id="Onion" value="Even the worst axe murderer becomes a cry baby when you slice this." local="当你切这个的时候，即使是最坏的&#10;连环杀人犯也会哭。"/>
+    <str id="Lemon" value="Can be eaten but they can also clean porcelain toilets." local="可以吃，但也可以用于清洁厕所的&#10;瓷砖。"/>
+    <str id="Pepper" value="These are mild peppers that do not cause Bloody Flux." local="这些是温和的胡椒，不会引起血瘟&#10;。"/>
+    <str id="Food Ration" value="A dungeon dweller's food ration is a poor man's feast." local="一份地牢快餐是穷人的盛宴。"/>
     <str id="Water Flask" value="Water flask makes well water taste like spring water." local="水袋中的水甜若甘泉。"/>
-    <str id="Beer Tankard" value="Beer is the only reason why hunter gatherers became farmers." local="啤酒是猎人、采集者成为农民的唯一原因。"/>
-    <str id="Mead Bottle" value="Fermenting honey with water turns any man into a poet." local="蜂蜜加水发酵，任何人都能成为诗人。"/>
-    <str id="Cider Bottle" value="Too much fermented apple juice may give you a head ache." local="太多的发酵苹果汁可能会使你头痛。"/>
-    <str id="Wine Bottle" value="Red or white, both are fine, tavern wench, bring me wine." local="红酒白酒无所谓，美女，给我上酒。"/>
-    <str id="Booze Bottle" value="Wow, alchemists have come up with a drink that doesn't remove thirst." local="哇，炼金术士发明了一种不解渴的饮料。"/>
+    <str id="Beer Tankard" value="Beer is the only reason why hunter gatherers became farmers." local="啤酒是猎人、采集者成为农民的唯&#10;一原因。"/>
+    <str id="Mead Bottle" value="Fermenting honey with water turns any man into a poet." local="蜂蜜加水发酵，任何人都能成为诗&#10;人。"/>
+    <str id="Cider Bottle" value="Too much fermented apple juice may give you a head ache." local="太多的发酵苹果汁可能会使你头痛&#10;。"/>
+    <str id="Wine Bottle" value="Red or white, both are fine, tavern wench, bring me wine." local="红酒白酒无所谓，美女，给我上酒&#10;。"/>
+    <str id="Booze Bottle" value="Wow, alchemists have come up with a drink that doesn't remove thirst." local="哇，炼金术士发明了一种不解渴的&#10;饮料。"/>
     <str id="Milk Jar" value="Rogues that have not yet stopped breast feeding will love this." local="尚未断奶的游侠们会喜欢这个。"/>
   </FoodDescs>
   <FoodLogs>

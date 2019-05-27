@@ -1759,45 +1759,45 @@ FoodNames."Cider Bottle" 苹果酒瓶
 FoodNames."Wine Bottle" 葡萄酒瓶
 FoodNames."Booze Bottle" 酒瓶
 FoodNames."Milk Jar" 牛奶壶
-FoodDescs."Meat" 有些人吃生肉后生病了。
-FoodDescs."Fried Meat" 烤肉比生肉更安全。
-FoodDescs."Ribs" 有些人生吃了排骨后就生病了。
-FoodDescs."Fried Ribs" 烤排骨比生排骨更安全。
-FoodDescs."Fish" 有些人吃生鱼片后生病了。
-FoodDescs."Fried Fish" 烤鱼比生鱼片吃起来安全多了。
-FoodDescs."Chicken" 有些人生吃了鸡肉后就生病了。
-FoodDescs."Fried Chicken" 吃炸鸡比吃生鸡肉安全的多。
-FoodDescs."Blood Cap" 据说血蘑菇里有坏血。
-FoodDescs."Fried Cap" 火烤可以去除血蘑菇中的有害成分。
-FoodDescs."Death Cap" 嗯……好吃。
-FoodDescs."Bread" 食之无味，但能驱走饥饿感。
-FoodDescs."Cheese" 这块楔子闻起来像个村姑的腋窝。
-FoodDescs."Egg" 有些人吃了生鸡蛋后就生病了。
-FoodDescs."Fried Egg" 煎蛋比生蛋更安全。
-FoodDescs."Apple" 男孩，苹果，箭，错过，铲子，挖，忘了。
-FoodDescs."Carrot" 怎么啦，朋友…… 哦，侵权了。
-FoodDescs."Pear" 想象一下，所有的女人看起来都像梨子。哈哈。
-FoodDescs."Tomato" 如果你迟到了，你必须涂番茄酱。我去拿外套。
-FoodDescs."Plum" 这一定是腐烂坚果袋的同义词。
-FoodDescs."Root" 用针扎进去，某处的某个人就会死。
-FoodDescs."Berries" 要不是你这么体贴，我们就不会陷入这种困境了。
-FoodDescs."Cherries" 吃这些樱桃不会把你关起来。
-FoodDescs."Grapes" 吃葡萄不吐葡萄皮……
-FoodDescs."Cabbage" 这些都是全球变暖的原因。
-FoodDescs."Potato" 真可惜你不能把这些炸成薯条.
-FoodDescs."Acorn" 我们每个人体内都住着一只小松鼠。
-FoodDescs."Grass" 如果你喜欢假装自己是一只山羊，味道会很棒。
-FoodDescs."Garlic" 也许以后会在游戏里加入吸血鬼。
-FoodDescs."Onion" 当你切这个的时候，即使是最坏的连环杀人犯也会哭。
-FoodDescs."Lemon" 可以吃，但也可以用于清洁厕所的瓷砖。
-FoodDescs."Pepper" 这些是温和的胡椒，不会引起血瘟。
-FoodDescs."Food Ration" 一份地牢快餐式穷人的盛宴。
-FoodDescs."Water Flask" 水袋中的水甜若甘泉。
-FoodDescs."Beer Tankard" 啤酒是猎人、采集者成为农民的唯一原因。
-FoodDescs."Mead Bottle" 蜂蜜加水发酵，任何人都能成为诗人。
-FoodDescs."Cider Bottle" 太多的发酵苹果汁可能会使你头痛。
-FoodDescs."Wine Bottle" 红酒白酒无所谓，美女，给我上酒。
-FoodDescs."Booze Bottle" 哇，炼金术士发明了一种不解渴的饮料。
+FoodDescs."Meat" @(30)有些人吃生肉后生病了。
+FoodDescs."Fried Meat" @(30)烤肉比生肉更安全。
+FoodDescs."Ribs" @(30)有些人生吃了排骨后就生病了。
+FoodDescs."Fried Ribs" @(30)烤排骨比生排骨更安全。
+FoodDescs."Fish" @(30)有些人吃生鱼片后生病了。
+FoodDescs."Fried Fish" @(30)烤鱼比生鱼片吃起来安全多了。
+FoodDescs."Chicken" @(30)有些人生吃了鸡肉后就生病了。
+FoodDescs."Fried Chicken" @(30)吃炸鸡比吃生鸡肉安全的多。
+FoodDescs."Blood Cap" @(30)据说血蘑菇里有坏血。
+FoodDescs."Fried Cap" @(30)火烤可以去除血蘑菇中的有害成分。
+FoodDescs."Death Cap" @(30)嗯……好吃。
+FoodDescs."Bread" @(30)食之无味，但能驱走饥饿感。
+FoodDescs."Cheese" @(30)这块楔子闻起来像个村姑的腋窝。
+FoodDescs."Egg" @(30)有些人吃了生鸡蛋后就生病了。
+FoodDescs."Fried Egg" @(30)煎蛋比生蛋更安全。
+FoodDescs."Apple" @(30)你是我的小啊小…… 哦，侵权了。
+FoodDescs."Carrot" @(30)不是每一只兔子都爱吃胡萝卜的。
+FoodDescs."Pear" @(30)想象一下，所有的女人看起来都像个梨。哈哈。
+FoodDescs."Tomato" @(30)如果你迟到了，你必须涂番茄酱。我去拿外套。
+FoodDescs."Plum" @(30)这一定是腐烂坚果袋的同义词。
+FoodDescs."Root" @(30)用针扎进去，某处的某个人就会死。
+FoodDescs."Berries" @(30)要不是你这么体贴，我们就不会陷入这种困境了。
+FoodDescs."Cherries" @(30)吃这些樱桃不会把你关起来。
+FoodDescs."Grapes" @(30)吃葡萄不吐葡萄皮……
+FoodDescs."Cabbage" @(30)这些都是全球变暖的原因。
+FoodDescs."Potato" @(30)真可惜你不能把这些炸成薯条.
+FoodDescs."Acorn" @(30)我们每个人体内都住着一只小松鼠。
+FoodDescs."Grass" @(30)如果你喜欢假装自己是一只山羊，味道会很棒。
+FoodDescs."Garlic" @(30)也许以后会在游戏里加入吸血鬼。
+FoodDescs."Onion" @(30)当你切这个的时候，即使是最坏的连环杀人犯也会哭。
+FoodDescs."Lemon" @(30)可以吃，但也可以用于清洁厕所的瓷砖。
+FoodDescs."Pepper" @(30)这些是温和的胡椒，不会引起血瘟。
+FoodDescs."Food Ration" @(30)一份地牢快餐是穷人的盛宴。
+FoodDescs."Water Flask" @(30)水袋中的水甜若甘泉。
+FoodDescs."Beer Tankard" @(30)啤酒是猎人、采集者成为农民的唯一原因。
+FoodDescs."Mead Bottle" @(30)蜂蜜加水发酵，任何人都能成为诗人。
+FoodDescs."Cider Bottle" @(30)太多的发酵苹果汁可能会使你头痛。
+FoodDescs."Wine Bottle" @(30)红酒白酒无所谓，美女，给我上酒。
+FoodDescs."Booze Bottle" @(30)哇，炼金术士发明了一种不解渴的饮料。
 FoodDescs."Milk Jar" 尚未断奶的游侠们会喜欢这个。
 FoodLogs."You take a bite from %s and it tastes strange." 你咬了一口%s，尝起来怪怪的。
 FoodLogs."You take a bite from %s and it tastes fresh." 你咬了一口%s，很新鲜。
