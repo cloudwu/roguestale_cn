@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="748010df62313ca204c9c7ec96e587ede2dee2b2">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="33bff0412015fc98169c9c0efdfbfe1564c5eadd">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -176,7 +176,7 @@
     <str id="Gloves" value="Gloves" local="手套"/>
     <str id="Boots" value="Boots" local="靴子"/>
     <str id="STORED MATERIALS:" value="STORED MATERIALS:" local="入库材料："/>
-    <str id="Destroy bound amulet" value="Destroy bound amulet" local="摧毁绑定的护符"/>
+    <str id="Destroy bound amulet" value="Destroy bound amulet" local="摧毁绑定的项链"/>
     <str id="Destroy bound ring" value="Destroy bound ring" local="摧毁绑定的戒指"/>
     <str id="%dg" value="%dg"/>
     <str id="Donate %dg" value="Donate %dg" local="捐献 %dg"/>
@@ -193,7 +193,7 @@
     </str>
     <str id="ARTISAN_GUILD" value="You have entered the Artisans' Guild and here you can have your items repaired." local="你进入了工匠行会，在这里你可以修&#10;理你的物品。">
       <str id="paragraph 1" value="If you have unique items, you can donate them to the guild with a drag and drop." local="如果你获得了独特物品，可以通过拖&#10;拽进行会捐献它们。"/>
-      <str id="paragraph 2" value="If you have unidentified charms, you can identify them for free by attempting to donate them to the guild." local="如果你有未鉴定的护符，你可以尝试&#10;将它们捐献给行会来获得免费鉴定。"/>
+      <str id="paragraph 2" value="If you have unidentified charms, you can identify them for free by attempting to donate them to the guild." local="如果你有未鉴定的项链，你可以尝试&#10;将它们捐献给行会来获得免费鉴定。"/>
       <str id="paragraph 3" value="Note that if you ever need to return some quest item then this is the place to do so." local="注意：如果你需要返还一些任务物品&#10;，这里就是做这事的地方。"/>
     </str>
     <str id="DIVINER_GUILD" value="You have entered the Diviners' Guild and here you can have your items identified." local="你进入了占卜师行会，在这里你可以&#10;鉴定你的物品。"/>
@@ -779,21 +779,21 @@
     <str id="%s sinks in the lava." value="%s sinks in the lava."/>
   </ActionLogs>
   <CombatTexts>
-    <str id="Friend Gained" value="Friend Gained"/>
-    <str id="Friend Lost" value="Friend Lost"/>
-    <str id="Reflex Save" value="Reflex Save"/>
-    <str id="Ding!" value="Ding!"/>
-    <str id="Nom" value="Nom"/>
-    <str id="Gulp" value="Gulp"/>
-    <str id="Spread out!" value="Spread out!"/>
-    <str id="Follow me!" value="Follow me!"/>
-    <str id="Attack!" value="Attack!"/>
-    <str id="Move it!" value="Move it!"/>
-    <str id="Stay put!" value="Stay put!"/>
-    <str id="Triggered" value="Triggered"/>
-    <str id="'Molar Varghulis'" value="'Molar Varghulis'"/>
-    <str id="Charmed (%d)" value="Charmed (%d)"/>
-    <str id="Equalized" value="Equalized"/>
+    <str id="Friend Gained" value="Friend Gained" local="获得伙伴"/>
+    <str id="Friend Lost" value="Friend Lost" local="失去伙伴"/>
+    <str id="Reflex Save" value="Reflex Save" local="反射脱险"/>
+    <str id="Ding!" value="Ding!" local="叮！"/>
+    <str id="Nom" value="Nom" local="咙"/>
+    <str id="Gulp" value="Gulp" local="嗷呜"/>
+    <str id="Spread out!" value="Spread out!" local="快走！"/>
+    <str id="Follow me!" value="Follow me!" local="跟着我！"/>
+    <str id="Attack!" value="Attack!" local="攻击！"/>
+    <str id="Move it!" value="Move it!" local="过去！"/>
+    <str id="Stay put!" value="Stay put!" local="别动！"/>
+    <str id="Triggered" value="Triggered" local="触发"/>
+    <str id="'Molar Varghulis'" value="'Molar Varghulis'" local="“莫拉尔 瓦古尼斯”"/>
+    <str id="Charmed (%d)" value="Charmed (%d)" local="魅惑了 (%d)"/>
+    <str id="Equalized" value="Equalized" local="平衡了"/>
   </CombatTexts>
   <Abilities>
     <str id="Strength" value="Strength" local="力量"/>
@@ -1597,78 +1597,78 @@
     <str id="BootsDesc" value="Boots force the system to attempt a sidestep if a knockback would push you into a chasm or trap." local="靴子能在你被击退到峡谷或陷阱前&#10;改为一次侧移。"/>
   </AddonDescs>
   <AmuletNames>
-    <str id="Amulet" value="Amulet" local="护符"/>
-    <str id="Amulet of Abjuration" value="Amulet of Abjuration" local="结界护符"/>
-    <str id="Amulet of Asphyxia" value="Amulet of Asphyxia" local="窒息护符"/>
-    <str id="Amulet of Conjuration" value="Amulet of Conjuration" local="驱魔护符"/>
-    <str id="Amulet of Divination" value="Amulet of Divination" local="占卜护符"/>
-    <str id="Amulet of Enchantment" value="Amulet of Enchantment" local="附魔护符"/>
-    <str id="Amulet of Evocation" value="Amulet of Evocation" local="降灵护符"/>
-    <str id="Amulet of Exhaustion" value="Amulet of Exhaustion" local="枯竭护符"/>
-    <str id="Amulet of Fire Ward" value="Amulet of Fire Ward" local="防火护符"/>
-    <str id="Amulet of Free Action" value="Amulet of Free Action" local="自由护符"/>
-    <str id="Amulet of Frost Ward" value="Amulet of Frost Ward" local="防冰护符"/>
-    <str id="Amulet of Ghost Form" value="Amulet of Ghost Form" local="幽灵护符"/>
-    <str id="Amulet of Illusion" value="Amulet of Illusion" local="幻影护符"/>
-    <str id="Amulet of Necromancy" value="Amulet of Necromancy" local="死灵护符"/>
-    <str id="Amulet of Nine Lives" value="Amulet of Nine Lives" local="九命护符"/>
-    <str id="Amulet of Pestilence" value="Amulet of Pestilence" local="鼠疫护符"/>
-    <str id="Amulet of Protection" value="Amulet of Protection" local="防护护符"/>
-    <str id="Amulet of Reflection" value="Amulet of Reflection" local="反射护符"/>
-    <str id="Amulet of Seven Keys" value="Amulet of Seven Keys" local="密钥护符"/>
-    <str id="Amulet of Shock Ward" value="Amulet of Shock Ward" local="防震护符"/>
-    <str id="Amulet of Stone Form" value="Amulet of Stone Form" local="石化护符"/>
-    <str id="Amulet of Transmutation" value="Amulet of Transmutation" local="点金护符"/>
-    <str id="Amulet of Yendor" value="Amulet of Yendor" local="炎达护符"/>
-    <str id="Amulet of Battlemage" value="Amulet of Battlemage" local="战法护符"/>
-    <str id="Amulet of Domination" value="Amulet of Domination" local="控制护符"/>
-    <str id="Amulet of Geomancy" value="Amulet of Geomancy" local="风水护符"/>
-    <str id="Amulet of Radiance" value="Amulet of Radiance" local="辐射护符"/>
-    <str id="Amulet of Sacrifice" value="Amulet of Sacrifice" local="献祭护符"/>
-    <str id="Amulet of Submission" value="Amulet of Submission" local="投降护符"/>
-    <str id="Amulet of Uberlyft" value="Amulet of Uberlyft" local="优步护符"/>
-    <str id="Amulet of Wizardry" value="Amulet of Wizardry" local="巫术护符"/>
+    <str id="Amulet" value="Amulet" local="项链"/>
+    <str id="Amulet of Abjuration" value="Amulet of Abjuration" local="结界项链"/>
+    <str id="Amulet of Asphyxia" value="Amulet of Asphyxia" local="窒息项链"/>
+    <str id="Amulet of Conjuration" value="Amulet of Conjuration" local="驱魔项链"/>
+    <str id="Amulet of Divination" value="Amulet of Divination" local="占卜项链"/>
+    <str id="Amulet of Enchantment" value="Amulet of Enchantment" local="附魔项链"/>
+    <str id="Amulet of Evocation" value="Amulet of Evocation" local="降灵项链"/>
+    <str id="Amulet of Exhaustion" value="Amulet of Exhaustion" local="枯竭项链"/>
+    <str id="Amulet of Fire Ward" value="Amulet of Fire Ward" local="防火项链"/>
+    <str id="Amulet of Free Action" value="Amulet of Free Action" local="自由项链"/>
+    <str id="Amulet of Frost Ward" value="Amulet of Frost Ward" local="防冰项链"/>
+    <str id="Amulet of Ghost Form" value="Amulet of Ghost Form" local="幽灵项链"/>
+    <str id="Amulet of Illusion" value="Amulet of Illusion" local="幻影项链"/>
+    <str id="Amulet of Necromancy" value="Amulet of Necromancy" local="死灵项链"/>
+    <str id="Amulet of Nine Lives" value="Amulet of Nine Lives" local="九命项链"/>
+    <str id="Amulet of Pestilence" value="Amulet of Pestilence" local="鼠疫项链"/>
+    <str id="Amulet of Protection" value="Amulet of Protection" local="防护项链"/>
+    <str id="Amulet of Reflection" value="Amulet of Reflection" local="反射项链"/>
+    <str id="Amulet of Seven Keys" value="Amulet of Seven Keys" local="密钥项链"/>
+    <str id="Amulet of Shock Ward" value="Amulet of Shock Ward" local="防震项链"/>
+    <str id="Amulet of Stone Form" value="Amulet of Stone Form" local="石化项链"/>
+    <str id="Amulet of Transmutation" value="Amulet of Transmutation" local="点金项链"/>
+    <str id="Amulet of Yendor" value="Amulet of Yendor" local="炎达项链"/>
+    <str id="Amulet of Battlemage" value="Amulet of Battlemage" local="战法项链"/>
+    <str id="Amulet of Domination" value="Amulet of Domination" local="控制项链"/>
+    <str id="Amulet of Geomancy" value="Amulet of Geomancy" local="风水项链"/>
+    <str id="Amulet of Radiance" value="Amulet of Radiance" local="辐射项链"/>
+    <str id="Amulet of Sacrifice" value="Amulet of Sacrifice" local="献祭项链"/>
+    <str id="Amulet of Submission" value="Amulet of Submission" local="投降项链"/>
+    <str id="Amulet of Uberlyft" value="Amulet of Uberlyft" local="优步项链"/>
+    <str id="Amulet of Wizardry" value="Amulet of Wizardry" local="巫术项链"/>
   </AmuletNames>
   <AmuletDescs>
-    <str id="AmuletDesc" value="Primarily used by people who have strangulation fantasies, but they do occasionally work for others too."/>
-    <str id="Amulet of Abjuration" value="Teaches a spell that creates a shield around yourself."/>
-    <str id="Amulet of Asphyxia" value="Suffocates the wearer over time. This amulet cannot be unequipped."/>
-    <str id="Amulet of Conjuration" value="Teaches a spell that conjures daemons out of thin air."/>
-    <str id="Amulet of Divination" value="Teaches a spell that identifies magical properties of an item."/>
-    <str id="Amulet of Enchantment" value="Teaches a spell that enchants an item with magical properties."/>
-    <str id="Amulet of Evocation" value="Teaches an orb spell that causes a moderate elemental explosion."/>
-    <str id="Amulet of Exhaustion" value="Exhausts the wearer over time. This amulet cannot be unequipped."/>
-    <str id="Amulet of Fire Ward" value="Grants immunity against fire effects."/>
-    <str id="Amulet of Free Action" value="Grants a haste effect and immunity against slow effects."/>
-    <str id="Amulet of Frost Ward" value="Grants immunity against frost effects."/>
-    <str id="Amulet of Ghost Form" value="Ethereal: Halves physical, poison and disease damage but doubles magical and elemental damage taken."/>
-    <str id="Amulet of Illusion" value="Teaches a spell that creates a clone of another creature."/>
-    <str id="Amulet of Necromancy" value="Teaches a spell that turns dead humans into undead familiars."/>
-    <str id="Amulet of Nine Lives" value="Restores the wearer to full health and energy upon death... (sometimes)"/>
-    <str id="Amulet of Pestilence" value="Oh my G'awd... they killed Ken'nih. You bastards!"/>
-    <str id="Amulet of Protection" value="Grants immunity against stun effects."/>
-    <str id="Amulet of Reflection" value="Reflects weapon and orb spell damage back at the attacker... (sometimes)"/>
-    <str id="Amulet of Seven Keys" value="Allows the wearer to automatically pick locks and moving no longer breaks stealth."/>
-    <str id="Amulet of Shock Ward" value="Grants immunity against shock effects."/>
-    <str id="Amulet of Stone Form" value="Turns the wearer to stone over time. This amulet cannot be unequipped."/>
-    <str id="Amulet of Transmutation" value="Teaches a spell that transmutes an item into gold coins."/>
-    <str id="Amulet of Yendor" value="Adorable piece of jewelry, contains no magical powers though."/>
-    <str id="Amulet of Battlemage" value="Ignores negative effects to spellcasting while wearing armour and or shield."/>
-    <str id="Amulet of Domination" value="Every point of damage you cause has a 17% chance to charm the target for 1 turn."/>
-    <str id="Amulet of Geomancy" value="Teaches a spell that allows you to alter the terrain height from chasms to walls."/>
-    <str id="Amulet of Radiance" value="Gives you an aura with a radius of 1. Auras also make you immune to their effects."/>
-    <str id="Amulet of Sacrifice" value="This must be equipped in order to sacrifice something using a sacrificial circle and a ritual."/>
-    <str id="Amulet of Submission" value="Every point of damage you receive has a 17% chance to charm you for 1 turn. This amulet cannot be unequipped."/>
-    <str id="Amulet of Uberlyft" value="Travel button now works after clearing 50% of the current level."/>
-    <str id="Amulet of Wizardry" value="Teaches a spell that causes magic damage or instantly kills the target creature."/>
-    <str id="UniqueYendor" value="Adorable piece of jewelry that seems to contain some magical powers as well."/>
-    <str id="BlessedFreeAction" value="Grants one free action and immunity against slow effects."/>
-    <str id="BlessedGhostForm" value="Ethereal: Halves physical, poison and disease damage taken."/>
-    <str id="BlessedBattlemage" value="Ignores negative effects to spellcasting and dodging while wearing armour and or shield."/>
-    <str id="BlessedDomination" value="Every point of damage you cause has a 33% chance to charm the target for 1 turn."/>
-    <str id="BlessedRadiance" value="Gives you an aura with a radius of 2. Auras also make you immune to their effects."/>
-    <str id="BlessedSacrifice" value="This must be in your possession in order to sacrifice something using a sacrificial circle and a ritual."/>
-    <str id="BlessedUberlyft" value="Travel button now works after clearing 25% of the current level."/>
+    <str id="AmuletDesc" value="Primarily used by people who have strangulation fantasies, but they do occasionally work for others too." local="主要供幻想绞勒脖子的人使用，不&#10;过偶尔也有一些其它的用途。"/>
+    <str id="Amulet of Abjuration" value="Teaches a spell that creates a shield around yourself." local="教会你一个法术，该法术能制造一&#10;个护盾环绕你的四周。"/>
+    <str id="Amulet of Asphyxia" value="Suffocates the wearer over time. This amulet cannot be unequipped." local="久而久之会使佩戴者窒息。这个项&#10;链无法取下来。"/>
+    <str id="Amulet of Conjuration" value="Teaches a spell that conjures daemons out of thin air." local="教会你一个法术，该法术能凭空变&#10;出恶魔。"/>
+    <str id="Amulet of Divination" value="Teaches a spell that identifies magical properties of an item." local="教会你一个法术，该法术能鉴定物&#10;品的魔法特性。"/>
+    <str id="Amulet of Enchantment" value="Teaches a spell that enchants an item with magical properties." local="教会你一个法术，该法术能给物品&#10;附魔。"/>
+    <str id="Amulet of Evocation" value="Teaches an orb spell that causes a moderate elemental explosion." local="教会你一个法术，该法术能发出一&#10;个法术球，制造一起适中的元素爆&#10;炸。"/>
+    <str id="Amulet of Exhaustion" value="Exhausts the wearer over time. This amulet cannot be unequipped." local="久而久之会使佩戴者筋疲力尽。这&#10;个项链无法取下来。"/>
+    <str id="Amulet of Fire Ward" value="Grants immunity against fire effects." local="获得火焰效果的免疫力。"/>
+    <str id="Amulet of Free Action" value="Grants a haste effect and immunity against slow effects." local="获得一个加速效果，并免疫迟缓效&#10;果。"/>
+    <str id="Amulet of Frost Ward" value="Grants immunity against frost effects." local="获得冰霜效果的免疫力。"/>
+    <str id="Amulet of Ghost Form" value="Ethereal: Halves physical, poison and disease damage but doubles magical and elemental damage taken." local="超凡：让物理，毒害和疾病效果减&#10;半，但会使魔法和元素伤害加倍。"/>
+    <str id="Amulet of Illusion" value="Teaches a spell that creates a clone of another creature." local="教会你一个法术，该法术能创造一&#10;个生物的克隆体。"/>
+    <str id="Amulet of Necromancy" value="Teaches a spell that turns dead humans into undead familiars." local="教会你一个法术，该法术能将死去&#10;的人类转变为亡灵伙伴。"/>
+    <str id="Amulet of Nine Lives" value="Restores the wearer to full health and energy upon death... (sometimes)" local="当佩戴者死亡时生命和精力恢复满&#10;……（有时）"/>
+    <str id="Amulet of Pestilence" value="Oh my G'awd... they killed Ken'nih. You bastards!" local="哦，我的天呐……他们杀了肯'尼斯。&#10;你个婊子养的！"/>
+    <str id="Amulet of Protection" value="Grants immunity against stun effects." local="获得眩晕效果的免疫力。"/>
+    <str id="Amulet of Reflection" value="Reflects weapon and orb spell damage back at the attacker... (sometimes)" local="将武器和法术球的伤害反弹给攻击&#10;者……（有时）"/>
+    <str id="Amulet of Seven Keys" value="Allows the wearer to automatically pick locks and moving no longer breaks stealth." local="允许佩戴者自动开锁，移动不再打&#10;断潜行。"/>
+    <str id="Amulet of Shock Ward" value="Grants immunity against shock effects." local="获得震击效果的免疫力。"/>
+    <str id="Amulet of Stone Form" value="Turns the wearer to stone over time. This amulet cannot be unequipped." local="久而久之会使佩戴者石化。这个项&#10;链无法取下来。"/>
+    <str id="Amulet of Transmutation" value="Teaches a spell that transmutes an item into gold coins." local="教会你一个法术，该法术能将物品&#10;变为金币。"/>
+    <str id="Amulet of Yendor" value="Adorable piece of jewelry, contains no magical powers though." local="可爱的首饰，然而没有魔法效果。"/>
+    <str id="Amulet of Battlemage" value="Ignores negative effects to spellcasting while wearing armour and or shield." local="穿盔甲或盾牌时忽略它们对施法的&#10;负面影响。"/>
+    <str id="Amulet of Domination" value="Every point of damage you cause has a 17% chance to charm the target for 1 turn." local="你造成的每点伤害都有 17% 的机会&#10;魅惑目标一个回合。"/>
+    <str id="Amulet of Geomancy" value="Teaches a spell that allows you to alter the terrain height from chasms to walls." local="教会你一个法术，该法术可以改变&#10;地形，把裂谷变为墙壁。"/>
+    <str id="Amulet of Radiance" value="Gives you an aura with a radius of 1. Auras also make you immune to their effects." local="给你一个半径为 1 的场。同时能让&#10;你免疫场效果。"/>
+    <str id="Amulet of Sacrifice" value="This must be equipped in order to sacrifice something using a sacrificial circle and a ritual." local="在使用献祭圈进行献祭仪式时必须&#10;佩戴它。"/>
+    <str id="Amulet of Submission" value="Every point of damage you receive has a 17% chance to charm you for 1 turn. This amulet cannot be unequipped." local="你受到的每一点伤害都有 17% 的机&#10;会被魅惑。这个项链无法取下来。"/>
+    <str id="Amulet of Uberlyft" value="Travel button now works after clearing 50% of the current level." local="旅行按钮现在在清空 50% 的楼层后&#10;就可以使用。"/>
+    <str id="Amulet of Wizardry" value="Teaches a spell that causes magic damage or instantly kills the target creature." local="教会你一个法术，该法术可制造魔&#10;法伤害或立即杀死目标。"/>
+    <str id="UniqueYendor" value="Adorable piece of jewelry that seems to contain some magical powers as well." local="可爱的首饰，同时里面似乎有一些&#10;魔法力量。"/>
+    <str id="BlessedFreeAction" value="Grants one free action and immunity against slow effects." local="获得一次免费行动，免疫迟缓效果&#10;。"/>
+    <str id="BlessedGhostForm" value="Ethereal: Halves physical, poison and disease damage taken." local="超凡：让物理，毒害和疾病效果减&#10;半。"/>
+    <str id="BlessedBattlemage" value="Ignores negative effects to spellcasting and dodging while wearing armour and or shield." local="穿盔甲或盾牌时忽略它们对施法和&#10;闪避的负面影响。"/>
+    <str id="BlessedDomination" value="Every point of damage you cause has a 33% chance to charm the target for 1 turn." local="你造成的每点伤害都有 33% 的机会&#10;魅惑目标一个回合。"/>
+    <str id="BlessedRadiance" value="Gives you an aura with a radius of 2. Auras also make you immune to their effects." local="给你一个半径为 2 的场。同时能让&#10;你免疫场效果。"/>
+    <str id="BlessedSacrifice" value="This must be in your possession in order to sacrifice something using a sacrificial circle and a ritual." local="在使用献祭圈进行献祭仪式时必须&#10;拥有它。"/>
+    <str id="BlessedUberlyft" value="Travel button now works after clearing 25% of the current level." local="旅行按钮现在在清空 25% 的楼层后&#10;就可以使用。"/>
   </AmuletDescs>
   <ArmourNames>
     <str id="Robe" value="Robe" local="长袍"/>
@@ -1851,7 +1851,7 @@
     <str id="Glove of Liberalism" value="Increases physical damage by 50% against daemons."/>
     <str id="Wristband of Liberalism" value="Daemons must pass a mental check in order to attack you."/>
     <str id="Black Meistercard" value="You can enchant items for free, at least until credits run out."/>
-    <str id="Deadly Ghoul Tooth" value="You can say 'Molar Varghulis' for dramatic effect when you throw this at your enemy."/>
+    <str id="Deadly Ghoul Tooth" value="You can say 'Molar Varghulis' for dramatic effect when you throw this at your enemy." local="当你把这个扔向敌人的同时说出“莫拉尔 瓦古尼斯”会有奇妙的效果。"/>
     <str id="Mad Torque Slingshot" value="Increases the maximum range of thrown rocks by 60% and converts their damage type to magical."/>
     <str id="Duelist's Wristbow" value="Shoots a bolt back at the attacker when you parry an attack."/>
     <str id="Uberlyft's Lost Shoe" value="Travel button works in town now and it takes you back to where you left."/>
@@ -2383,20 +2383,20 @@
     <str id="Equalizer" value="Equalizer" local="均衡器"/>
   </ToolNames>
   <ToolDescs>
-    <str id="Smoke Bomb" value="Hides you in plain sight. Prolonged use might cause lung cancer according to the sticker at the bottom."/>
-    <str id="Bear Trap" value="A trap master can arm this without losing too many fingers."/>
-    <str id="Magic Trap" value="A trap master can arm this without getting burnt in the process."/>
-    <str id="Tithril Ore" value="This metal seems to become firmer when touched gently."/>
-    <str id="Bearskin" value="No animals were harmed during the skinning process."/>
-    <str id="Flexweave" value="This thread was first seen in the mines of Khevlar."/>
-    <str id="Hardwood" value="This wood really puts the angio in a spermous tree."/>
-    <str id="Scrap" value="One man's reusable scrap is another man's treasure."/>
-    <str id="Schematic" value="This is one of Leo Noerde's schematics and he probably wants it back." local="这是一张鲁班的图纸，他可能想要回去。"/>
-    <str id="Crown" value="Fits perfectly on the head of a King that wants to rule his people with an iron fist."/>
-    <str id="Dog Collar" value="This collar can be used to safely store Woof while you do whatever it is that you do when you're alone."/>
-    <str id="Soul Gem" value="These gems are said to contain the souls of innocent victims but in reality there is no such thing as innocent..."/>
-    <str id="Black Soul Gem" value="These gems are said to contain the souls of innocent victims but this one doesn't seem all that innocent..."/>
-    <str id="Equalizer" value="There's an engraving on the handle saying 'Shall not be infringed'."/>
+    <str id="Smoke Bomb" value="Hides you in plain sight. Prolonged use might cause lung cancer according to the sticker at the bottom." local="让你凭空消失。底部的标签上写着&#10;，长期使用可能会导致肺癌。"/>
+    <str id="Bear Trap" value="A trap master can arm this without losing too many fingers." local="陷阱大师可以装备它而不必失去手&#10;指。"/>
+    <str id="Magic Trap" value="A trap master can arm this without getting burnt in the process." local="陷阱大师可以装备它而不会被烧焦&#10;。"/>
+    <str id="Tithril Ore" value="This metal seems to become firmer when touched gently." local="轻轻的触摸这块金属会让它越发的&#10;坚固。"/>
+    <str id="Bearskin" value="No animals were harmed during the skinning process." local="剥皮过程没有伤害任何动物。"/>
+    <str id="Flexweave" value="This thread was first seen in the mines of Khevlar." local="这种丝最初在凯夫拉尔的矿井中发&#10;现。"/>
+    <str id="Hardwood" value="This wood really puts the angio in a spermous tree." local="这根木头是精魂之树的血脉。"/>
+    <str id="Scrap" value="One man's reusable scrap is another man's treasure." local="一个人的废品是另一个人的宝藏。"/>
+    <str id="Schematic" value="This is one of Leo Noerde's schematics and he probably wants it back." local="这是一张鲁班的图纸，他可能想要&#10;回去。"/>
+    <str id="Crown" value="Fits perfectly on the head of a King that wants to rule his people with an iron fist." local="对于想用铁腕统治人民的国王，它&#10;戴起来正合适。"/>
+    <str id="Dog Collar" value="This collar can be used to safely store Woof while you do whatever it is that you do when you're alone." local="当你独自一人做事情的时候，这个&#10;项圈可以用来安全地藏起汪汪。"/>
+    <str id="Soul Gem" value="These gems are said to contain the souls of innocent victims but in reality there is no such thing as innocent..." local="这些晶石据说内含无辜受害者的灵&#10;魂，但在现实中没有所谓的无辜……"/>
+    <str id="Black Soul Gem" value="These gems are said to contain the souls of innocent victims but this one doesn't seem all that innocent..." local="这些晶石据说内含无辜受害者的灵&#10;魂，但这个灵魂看起来并不无辜……"/>
+    <str id="Equalizer" value="There's an engraving on the handle saying 'Shall not be infringed'." local="手柄上刻着“不可侵犯”的字样。"/>
   </ToolDescs>
   <WandNames>
     <str id="Wand" value="Wand" local="魔杖"/>
@@ -2739,7 +2739,7 @@
     <str id="Ranger Satyr'Dae" value="Ranger Satyr'Dae" local="独行侠赛特"/>
     <str id="Dawid the Paladin" value="Dawid the Paladin" local="圣骑士达维德"/>
     <str id="Leo Noerde" value="Leo Noerde" local="鲁班"/>
-    <str id="Ken'nih" value="Ken'nih"/>
+    <str id="Ken'nih" value="Ken'nih" local="肯'尼斯"/>
     <str id="Chronomancer" value="Chronomancer" local="时空术士"/>
     <str id="Verman" value="Verman"/>
     <str id="Butcher" value="Butcher"/>
@@ -3090,8 +3090,8 @@
     <str id="COD_POISON_AURA" value="%s died of poison vapours after standing too long in the venomous aura of %s." local="%s由于站在%s的毒场中过久而毒发身亡。"/>
     <str id="COD_DISEASE_AURA" value="%s died of cardiac arrest after standing too long in the virulent aura of %s." local="%s由于站在%s的病场中过久而死于心脏病。"/>
     <str id="COD_HATEFUL_AURA" value="%s died of damage caused by a hateful aura." local="%s被一个可恶的力场致死。"/>
-    <str id="COD_ASPHYXIATION" value="%s died of asphyxiation caused by amulet of asphyxia" local="%s死于窒息护符引起的窒息。"/>
-    <str id="COD_PETRIFICATION" value="%s died of petrification caused by amulet of stone form." local="%s死于石化护符引起的石化。"/>
+    <str id="COD_ASPHYXIATION" value="%s died of asphyxiation caused by amulet of asphyxia" local="%s死于窒息项链引起的窒息。"/>
+    <str id="COD_PETRIFICATION" value="%s died of petrification caused by amulet of stone form." local="%s死于石化项链引起的石化。"/>
     <str id="COD_CURSE_OF_AGONY" value="%s died of damage caused by curse of agony." local="%s死于痛苦诅咒造成的伤害。"/>
     <str id="COD_DEADLY_POISON" value="%s died of damage caused by deadly poison." local="%s死于死亡药剂的剧毒。"/>
     <str id="COD_LEECHING_POISON" value="%s died of damage caused by leeching poison." local="%s死于吸血药剂造成的伤害。"/>
@@ -3319,7 +3319,7 @@
     <str id="Arcane Mastery" value="Arcane Mastery" local="奥术专精"/>
     <str id="Bestial Mastery" value="Bestial Mastery" local="兽性专精"/>
     <str id="Abyssal Mastery" value="Abyssal Mastery" local="深渊专精"/>
-    <str id="Amulet Knowledge" value="Amulet Knowledge" local="护符知识"/>
+    <str id="Amulet Knowledge" value="Amulet Knowledge" local="项链知识"/>
     <str id="Ring Knowledge" value="Ring Knowledge" local="戒指知识"/>
     <str id="Wand Knowledge" value="Wand Knowledge" local="魔杖知识"/>
     <str id="Scroll Knowledge" value="Scroll Knowledge" local="卷轴知识"/>
@@ -3449,7 +3449,7 @@
     <str id="Infernal Mastery" value="Grants knowledge of one random Infernal spell at the start of the game." local="在游戏开始时获得一个随机地&#10;狱系法术的知识。">
       <str id="paragraph 1" value="This heritage can be unlocked by learning all Infernal spells in a single game." local="在单局游戏中学会所有的地狱&#10;系法术可以解锁这项遗产。"/>
     </str>
-    <str id="Arcane Mastery" value="Allows you to learn Arcane spells with Literacy: Common while using any amulet." local="允许你在使用任何护符时，依&#10;靠读写：常识就能学习奥术。">
+    <str id="Arcane Mastery" value="Allows you to learn Arcane spells with Literacy: Common while using any amulet." local="允许你在使用任何项链时，依&#10;靠读写：常识就能学习奥术。">
       <str id="paragraph 1" value="This heritage can be unlocked by learning all Arcane spells in a single game." local="在单局游戏中学会所有的奥术&#10;可以解锁这项遗产。"/>
     </str>
     <str id="Bestial Mastery" value="Allows you to learn Bestial spells with Literacy: Common and without levitation." local="允许你依靠读写：常识就能学&#10;习兽性法术，而不必漂浮。">
@@ -3458,8 +3458,8 @@
     <str id="Abyssal Mastery" value="Allows you to learn Abyssal spells with Literacy: Common and without sacrifice." local="允许你依靠读写：常识就能学&#10;习深渊系法术，而不必献祭。">
       <str id="paragraph 1" value="This heritage can be unlocked by learning all Abyssal spells in a single game." local="在单局游戏中学会所有的深渊&#10;法术可以解锁这项遗产。"/>
     </str>
-    <str id="Amulet Knowledge" value="Grants knowledge of all amulet effects at the start of the game." local="在游戏开始获得所有护符效果&#10;的知识。">
-      <str id="paragraph 1" value="This heritage can be unlocked by learning all amulet effects in a single game." local="在单局游戏中学会所有的护符&#10;效果可以解锁这项遗产。"/>
+    <str id="Amulet Knowledge" value="Grants knowledge of all amulet effects at the start of the game." local="在游戏开始获得所有项链效果&#10;的知识。">
+      <str id="paragraph 1" value="This heritage can be unlocked by learning all amulet effects in a single game." local="在单局游戏中学会所有的项链&#10;效果可以解锁这项遗产。"/>
     </str>
     <str id="Ring Knowledge" value="Grants knowledge of all ring effects at the start of the game." local="在游戏开始获得所有戒指效果&#10;的知识。">
       <str id="paragraph 1" value="This heritage can be unlocked by learning all ring effects in a single game." local="在单局游戏中学会所有的戒指&#10;效果可以解锁这项遗产。"/>
@@ -3579,8 +3579,8 @@
       <str id="paragraph 2" value="Note that shapeshifting resets the counter and this must be completed in one shift." local="注意：施展变形术将充值计数&#10;器，因此必须在一次变形中完&#10;成。"/>
       <str id="paragraph 3" value="Monsters eaten:" local="吃掉的巨怪："/>
     </str>
-    <str id="Second Amendment" value="Allows you to learn spells from Arcane tomes while having a matching amulet equipped (*)." local="允许你在装备有对应的护符时&#10;，从奥术典籍中学习法术 (*)&#10;。">
-      <str id="paragraph 1" value="Once you have learned an Arcane spell you can cast it while having any amulet equipped." local="一旦你学会了一门奥术，你可&#10;以在装备有任意护符时施放它&#10;。"/>
+    <str id="Second Amendment" value="Allows you to learn spells from Arcane tomes while having a matching amulet equipped (*)." local="允许你在装备有对应的项链时&#10;，从奥术典籍中学习法术 (*)&#10;。">
+      <str id="paragraph 1" value="Once you have learned an Arcane spell you can cast it while having any amulet equipped." local="一旦你学会了一门奥术，你可&#10;以在装备有任意项链时施放它&#10;。"/>
       <str id="paragraph 2" value="This heritage can be unlocked by donating an item from the future to the Artisan's Guild." local="你从未来捐赠任意一个物品给&#10;工匠行会可以解锁这项遗产。"/>
       <str id="paragraph 3" value="(*) Note that you will also need to know Literacy: Common and one of the other literacies." local="(*) 注意：你需要读写：常识&#10;以及另一项读写天赋。"/>
     </str>
@@ -3756,8 +3756,8 @@
       <str id="paragraph 1" value="&quot;%s&quot;"/>
       <str id="paragraph 2" value="Daemons killed:"/>
     </str>
-    <str id="Howdy Ho!" value="This challenge can be completed by finding and resurrecting Ken'nih before his corpse is eaten by rats.">
-      <str id="paragraph 1" value="Note that this can be attempted only once per game and you must be polymorphed in order to complete it."/>
+    <str id="Howdy Ho!" value="This challenge can be completed by finding and resurrecting Ken'nih before his corpse is eaten by rats." local="完成这个挑战在老鼠吃掉肯'尼斯的尸体前找到它。">
+      <str id="paragraph 1" value="Note that this can be attempted only once per game and you must be polymorphed in order to complete it." local="注意：每局游戏只能尝试一次，为了完成挑战你必须被变形。"/>
     </str>
     <str id="Dog Whisperer" value="This challenge can be completed by having Woof cause any damage to the King."/>
     <str id="I Got This!" value="This challenge can be completed by looting the crown on heroic difficulty level."/>
@@ -3993,7 +3993,7 @@
     <str id="Store:" value="Store:" local="存储："/>
     <str id="Select:" value="Select:" local="选择："/>
     <str id="Bind ring:" value="Bind ring:" local="绑定戒指："/>
-    <str id="You can't wield that in the offhand." value="You can't wield that in the offhand." local="你不能在扶手穿戴那个。"/>
+    <str id="You can't wield that in the offhand." value="You can't wield that in the offhand." local="你不能在副手穿戴它。"/>
     <str id="You can't swap that, it's magically bound to you!" value="You can't swap that, it's magically bound to you!"/>
     <str id="You can sell the item by holding down the Ctrl-key." value="You can sell the item by holding down the Ctrl-key."/>
     <str id="You can store the item by holding down the Ctrl-key." value="You can store the item by holding down the Ctrl-key."/>
@@ -4086,7 +4086,7 @@
     <str id="You can't use %s on items that are not wieldable weapons." value="You can't use %s on items that are not wieldable weapons." local="你不能针对不是可装备武器的物品使用 %s。"/>
     <str id="You can't use runes on items that are not blessed and double enchanted." value="You can't use runes on items that are not blessed and double enchanted." local="符石只能用于神圣的物品，且已经附魔过两次。"/>
     <str id="You can't channel arcane spells through the wand." value="You can't channel arcane spells through the wand." local="你不能用通导魔杖使用奥术。"/>
-    <str id="You can't cast arcane spells without an amulet." value="You can't cast arcane spells without an amulet." local="没有护符不能施放奥术。"/>
+    <str id="You can't cast arcane spells without an amulet." value="You can't cast arcane spells without an amulet." local="没有项链不能施放奥术。"/>
     <str id="You can't cast bestial spells without a bull horn." value="You can't cast bestial spells without a bull horn." local="没有牛角不能施放兽性法术。"/>
     <str id="You can't cast abyssal spells without a pyramidion." value="You can't cast abyssal spells without a pyramidion." local="没有金字塔无法施放深渊法术。"/>
     <str id="You can't cast release soul without a soul gem." value="You can't cast release soul without a soul gem." local="没有灵魂石无法释放灵魂。"/>
@@ -4401,7 +4401,7 @@
     </str>
     <str id="On fire" value="You are on fire. You can always try to douse yourself with a water flask."/>
     <str id="Paralysed" value="You are paralysed and that causes you to miss your turn."/>
-    <str id="Polymorphed" value="You are polymorphed and that allows you to find Ken'nih."/>
+    <str id="Polymorphed" value="You are polymorphed and that allows you to find Ken'nih." local="你被变形了，这能让你找到肯'尼斯。"/>
     <str id="Reckless" value="You are reckless and you are forced to move towards and attack the nearest enemy creature or miss your turn if no" space="True">
       <str id="paragraph 1" value="such creature exists."/>
     </str>

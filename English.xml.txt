@@ -158,7 +158,7 @@ GUITown."Vambraces" 臂甲
 GUITown."Gloves" 手套
 GUITown."Boots" 靴子
 GUITown."STORED MATERIALS:" 入库材料：
-GUITown."Destroy bound amulet" 摧毁绑定的护符
+GUITown."Destroy bound amulet" 摧毁绑定的项链
 GUITown."Destroy bound ring" 摧毁绑定的戒指
 GUITown."%dg" %dg
 GUITown."Donate %dg" 捐献 %dg
@@ -171,7 +171,7 @@ GUIDesc."LEOS_WORKSHOP".1 @(32)如果你有制造材料，图纸或金币，你�
 GUIDesc."LEOS_WORKSHOP".2 @(32)注意：仓储材料只可被用于制造（将物品拖进来可以存放它）。
 GUIDesc."ARTISAN_GUILD" @(32)你进入了工匠行会，在这里你可以修理你的物品。
 GUIDesc."ARTISAN_GUILD".1 @(32)如果你获得了独特物品，可以通过拖拽进行会捐献它们。
-GUIDesc."ARTISAN_GUILD".2 @(32)如果你有未鉴定的护符，你可以尝试将它们捐献给行会来获得免费鉴定。
+GUIDesc."ARTISAN_GUILD".2 @(32)如果你有未鉴定的项链，你可以尝试将它们捐献给行会来获得免费鉴定。
 GUIDesc."ARTISAN_GUILD".3 @(32)注意：如果你需要返还一些任务物品，这里就是做这事的地方。
 GUIDesc."DIVINER_GUILD" @(32)你进入了占卜师行会，在这里你可以鉴定你的物品。
 GUIDesc."WIZARD_GUILD" @(32)你进入了法师行会，在这里你可以对你的物品附魔。
@@ -713,21 +713,21 @@ ActionLogs."%s sink in the water." %s sink in the water.
 ActionLogs."%s sinks in the water." %s sinks in the water.
 ActionLogs."%s sink in the lava." %s sink in the lava.
 ActionLogs."%s sinks in the lava." %s sinks in the lava.
-CombatTexts."Friend Gained" Friend Gained
-CombatTexts."Friend Lost" Friend Lost
-CombatTexts."Reflex Save" Reflex Save
-CombatTexts."Ding!" Ding!
-CombatTexts."Nom" Nom
-CombatTexts."Gulp" Gulp
-CombatTexts."Spread out!" Spread out!
-CombatTexts."Follow me!" Follow me!
-CombatTexts."Attack!" Attack!
-CombatTexts."Move it!" Move it!
-CombatTexts."Stay put!" Stay put!
-CombatTexts."Triggered" Triggered
-CombatTexts."'Molar Varghulis'" 'Molar Varghulis'
-CombatTexts."Charmed (%d)" Charmed (%d)
-CombatTexts."Equalized" Equalized
+CombatTexts."Friend Gained" 获得伙伴
+CombatTexts."Friend Lost" 失去伙伴
+CombatTexts."Reflex Save" 反射脱险
+CombatTexts."Ding!" 叮！
+CombatTexts."Nom" 咙
+CombatTexts."Gulp" 嗷呜
+CombatTexts."Spread out!" 快走！
+CombatTexts."Follow me!" 跟着我！
+CombatTexts."Attack!" 攻击！
+CombatTexts."Move it!" 过去！
+CombatTexts."Stay put!" 别动！
+CombatTexts."Triggered" 触发
+CombatTexts."'Molar Varghulis'" “莫拉尔 瓦古尼斯”
+CombatTexts."Charmed (%d)" 魅惑了 (%d)
+CombatTexts."Equalized" 平衡了
 Abilities."Strength" 力量
 Abilities."Agility" 敏捷
 Abilities."Stamina" 耐力
@@ -1466,76 +1466,76 @@ AddonDescs."SpauldersDesc" @(30)护肩能提高你对暴击造成缴械效果的
 AddonDescs."VambracesDesc" @(30)护腕能在你被暴击后将被缴械前重投一次缴械检定骰。
 AddonDescs."GlovesDesc" @(30)手套能在你被缴械后让武器进入你的物品栏而不是掉落在地上。
 AddonDescs."BootsDesc" @(30)靴子能在你被击退到峡谷或陷阱前改为一次侧移。
-AmuletNames."Amulet" 护符
-AmuletNames."Amulet of Abjuration" 结界护符
-AmuletNames."Amulet of Asphyxia" 窒息护符
-AmuletNames."Amulet of Conjuration" 驱魔护符
-AmuletNames."Amulet of Divination" 占卜护符
-AmuletNames."Amulet of Enchantment" 附魔护符
-AmuletNames."Amulet of Evocation" 降灵护符
-AmuletNames."Amulet of Exhaustion" 枯竭护符
-AmuletNames."Amulet of Fire Ward" 防火护符
-AmuletNames."Amulet of Free Action" 自由护符
-AmuletNames."Amulet of Frost Ward" 防冰护符
-AmuletNames."Amulet of Ghost Form" 幽灵护符
-AmuletNames."Amulet of Illusion" 幻影护符
-AmuletNames."Amulet of Necromancy" 死灵护符
-AmuletNames."Amulet of Nine Lives" 九命护符
-AmuletNames."Amulet of Pestilence" 鼠疫护符
-AmuletNames."Amulet of Protection" 防护护符
-AmuletNames."Amulet of Reflection" 反射护符
-AmuletNames."Amulet of Seven Keys" 密钥护符
-AmuletNames."Amulet of Shock Ward" 防震护符
-AmuletNames."Amulet of Stone Form" 石化护符
-AmuletNames."Amulet of Transmutation" 点金护符
-AmuletNames."Amulet of Yendor" 炎达护符
-AmuletNames."Amulet of Battlemage" 战法护符
-AmuletNames."Amulet of Domination" 控制护符
-AmuletNames."Amulet of Geomancy" 风水护符
-AmuletNames."Amulet of Radiance" 辐射护符
-AmuletNames."Amulet of Sacrifice" 献祭护符
-AmuletNames."Amulet of Submission" 投降护符
-AmuletNames."Amulet of Uberlyft" 优步护符
-AmuletNames."Amulet of Wizardry" 巫术护符
-AmuletDescs."AmuletDesc" Primarily used by people who have strangulation fantasies, but they do occasionally work for others too.
-AmuletDescs."Amulet of Abjuration" Teaches a spell that creates a shield around yourself.
-AmuletDescs."Amulet of Asphyxia" Suffocates the wearer over time. This amulet cannot be unequipped.
-AmuletDescs."Amulet of Conjuration" Teaches a spell that conjures daemons out of thin air.
-AmuletDescs."Amulet of Divination" Teaches a spell that identifies magical properties of an item.
-AmuletDescs."Amulet of Enchantment" Teaches a spell that enchants an item with magical properties.
-AmuletDescs."Amulet of Evocation" Teaches an orb spell that causes a moderate elemental explosion.
-AmuletDescs."Amulet of Exhaustion" Exhausts the wearer over time. This amulet cannot be unequipped.
-AmuletDescs."Amulet of Fire Ward" Grants immunity against fire effects.
-AmuletDescs."Amulet of Free Action" Grants a haste effect and immunity against slow effects.
-AmuletDescs."Amulet of Frost Ward" Grants immunity against frost effects.
-AmuletDescs."Amulet of Ghost Form" Ethereal: Halves physical, poison and disease damage but doubles magical and elemental damage taken.
-AmuletDescs."Amulet of Illusion" Teaches a spell that creates a clone of another creature.
-AmuletDescs."Amulet of Necromancy" Teaches a spell that turns dead humans into undead familiars.
-AmuletDescs."Amulet of Nine Lives" Restores the wearer to full health and energy upon death... (sometimes)
-AmuletDescs."Amulet of Pestilence" Oh my G'awd... they killed Ken'nih. You bastards!
-AmuletDescs."Amulet of Protection" Grants immunity against stun effects.
-AmuletDescs."Amulet of Reflection" Reflects weapon and orb spell damage back at the attacker... (sometimes)
-AmuletDescs."Amulet of Seven Keys" Allows the wearer to automatically pick locks and moving no longer breaks stealth.
-AmuletDescs."Amulet of Shock Ward" Grants immunity against shock effects.
-AmuletDescs."Amulet of Stone Form" Turns the wearer to stone over time. This amulet cannot be unequipped.
-AmuletDescs."Amulet of Transmutation" Teaches a spell that transmutes an item into gold coins.
-AmuletDescs."Amulet of Yendor" Adorable piece of jewelry, contains no magical powers though.
-AmuletDescs."Amulet of Battlemage" Ignores negative effects to spellcasting while wearing armour and or shield.
-AmuletDescs."Amulet of Domination" Every point of damage you cause has a 17% chance to charm the target for 1 turn.
-AmuletDescs."Amulet of Geomancy" Teaches a spell that allows you to alter the terrain height from chasms to walls.
-AmuletDescs."Amulet of Radiance" Gives you an aura with a radius of 1. Auras also make you immune to their effects.
-AmuletDescs."Amulet of Sacrifice" This must be equipped in order to sacrifice something using a sacrificial circle and a ritual.
-AmuletDescs."Amulet of Submission" Every point of damage you receive has a 17% chance to charm you for 1 turn. This amulet cannot be unequipped.
-AmuletDescs."Amulet of Uberlyft" Travel button now works after clearing 50% of the current level.
-AmuletDescs."Amulet of Wizardry" Teaches a spell that causes magic damage or instantly kills the target creature.
-AmuletDescs."UniqueYendor" Adorable piece of jewelry that seems to contain some magical powers as well.
-AmuletDescs."BlessedFreeAction" Grants one free action and immunity against slow effects.
-AmuletDescs."BlessedGhostForm" Ethereal: Halves physical, poison and disease damage taken.
-AmuletDescs."BlessedBattlemage" Ignores negative effects to spellcasting and dodging while wearing armour and or shield.
-AmuletDescs."BlessedDomination" Every point of damage you cause has a 33% chance to charm the target for 1 turn.
-AmuletDescs."BlessedRadiance" Gives you an aura with a radius of 2. Auras also make you immune to their effects.
-AmuletDescs."BlessedSacrifice" This must be in your possession in order to sacrifice something using a sacrificial circle and a ritual.
-AmuletDescs."BlessedUberlyft" Travel button now works after clearing 25% of the current level.
+AmuletNames."Amulet" 项链
+AmuletNames."Amulet of Abjuration" 结界项链
+AmuletNames."Amulet of Asphyxia" 窒息项链
+AmuletNames."Amulet of Conjuration" 驱魔项链
+AmuletNames."Amulet of Divination" 占卜项链
+AmuletNames."Amulet of Enchantment" 附魔项链
+AmuletNames."Amulet of Evocation" 降灵项链
+AmuletNames."Amulet of Exhaustion" 枯竭项链
+AmuletNames."Amulet of Fire Ward" 防火项链
+AmuletNames."Amulet of Free Action" 自由项链
+AmuletNames."Amulet of Frost Ward" 防冰项链
+AmuletNames."Amulet of Ghost Form" 幽灵项链
+AmuletNames."Amulet of Illusion" 幻影项链
+AmuletNames."Amulet of Necromancy" 死灵项链
+AmuletNames."Amulet of Nine Lives" 九命项链
+AmuletNames."Amulet of Pestilence" 鼠疫项链
+AmuletNames."Amulet of Protection" 防护项链
+AmuletNames."Amulet of Reflection" 反射项链
+AmuletNames."Amulet of Seven Keys" 密钥项链
+AmuletNames."Amulet of Shock Ward" 防震项链
+AmuletNames."Amulet of Stone Form" 石化项链
+AmuletNames."Amulet of Transmutation" 点金项链
+AmuletNames."Amulet of Yendor" 炎达项链
+AmuletNames."Amulet of Battlemage" 战法项链
+AmuletNames."Amulet of Domination" 控制项链
+AmuletNames."Amulet of Geomancy" 风水项链
+AmuletNames."Amulet of Radiance" 辐射项链
+AmuletNames."Amulet of Sacrifice" 献祭项链
+AmuletNames."Amulet of Submission" 投降项链
+AmuletNames."Amulet of Uberlyft" 优步项链
+AmuletNames."Amulet of Wizardry" 巫术项链
+AmuletDescs."AmuletDesc" @(30)主要供幻想绞勒脖子的人使用，不过偶尔也有一些其它的用途。
+AmuletDescs."Amulet of Abjuration" @(30)教会你一个法术，该法术能制造一个护盾环绕你的四周。
+AmuletDescs."Amulet of Asphyxia" @(30)久而久之会使佩戴者窒息。这个项链无法取下来。
+AmuletDescs."Amulet of Conjuration" @(30)教会你一个法术，该法术能凭空变出恶魔。
+AmuletDescs."Amulet of Divination" @(30)教会你一个法术，该法术能鉴定物品的魔法特性。
+AmuletDescs."Amulet of Enchantment" @(30)教会你一个法术，该法术能给物品附魔。
+AmuletDescs."Amulet of Evocation" @(30)教会你一个法术，该法术能发出一个法术球，制造一起适中的元素爆炸。
+AmuletDescs."Amulet of Exhaustion" @(30)久而久之会使佩戴者筋疲力尽。这个项链无法取下来。
+AmuletDescs."Amulet of Fire Ward" @(30)获得火焰效果的免疫力。
+AmuletDescs."Amulet of Free Action" @(30)获得一个加速效果，并免疫迟缓效果。
+AmuletDescs."Amulet of Frost Ward" @(30)获得冰霜效果的免疫力。
+AmuletDescs."Amulet of Ghost Form" @(30)超凡：让物理，毒害和疾病效果减半，但会使魔法和元素伤害加倍。
+AmuletDescs."Amulet of Illusion" @(30)教会你一个法术，该法术能创造一个生物的克隆体。
+AmuletDescs."Amulet of Necromancy" @(30)教会你一个法术，该法术能将死去的人类转变为亡灵伙伴。
+AmuletDescs."Amulet of Nine Lives" @(30)当佩戴者死亡时生命和精力恢复满……（有时）
+AmuletDescs."Amulet of Pestilence" @(30)哦，我的天呐……他们杀了肯'尼斯。你个婊子养的！
+AmuletDescs."Amulet of Protection" @(30)获得眩晕效果的免疫力。
+AmuletDescs."Amulet of Reflection" @(30)将武器和法术球的伤害反弹给攻击者……（有时）
+AmuletDescs."Amulet of Seven Keys" @(30)允许佩戴者自动开锁，移动不再打断潜行。
+AmuletDescs."Amulet of Shock Ward" @(30)获得震击效果的免疫力。
+AmuletDescs."Amulet of Stone Form" @(30)久而久之会使佩戴者石化。这个项链无法取下来。
+AmuletDescs."Amulet of Transmutation" @(30)教会你一个法术，该法术能将物品变为金币。
+AmuletDescs."Amulet of Yendor" @(30)可爱的首饰，然而没有魔法效果。
+AmuletDescs."Amulet of Battlemage" @(30)穿盔甲或盾牌时忽略它们对施法的负面影响。
+AmuletDescs."Amulet of Domination" @(30)你造成的每点伤害都有 17% 的机会魅惑目标一个回合。
+AmuletDescs."Amulet of Geomancy" @(30)教会你一个法术，该法术可以改变地形，把裂谷变为墙壁。
+AmuletDescs."Amulet of Radiance" @(30)给你一个半径为 1 的场。同时能让你免疫场效果。
+AmuletDescs."Amulet of Sacrifice" @(30)在使用献祭圈进行献祭仪式时必须佩戴它。
+AmuletDescs."Amulet of Submission" @(30)你受到的每一点伤害都有 17% 的机会被魅惑。这个项链无法取下来。
+AmuletDescs."Amulet of Uberlyft" @(30)旅行按钮现在在清空 50% 的楼层后就可以使用。
+AmuletDescs."Amulet of Wizardry" @(30)教会你一个法术，该法术可制造魔法伤害或立即杀死目标。
+AmuletDescs."UniqueYendor" @(30)可爱的首饰，同时里面似乎有一些魔法力量。
+AmuletDescs."BlessedFreeAction" @(30)获得一次免费行动，免疫迟缓效果。
+AmuletDescs."BlessedGhostForm" @(30)超凡：让物理，毒害和疾病效果减半。
+AmuletDescs."BlessedBattlemage" @(30)穿盔甲或盾牌时忽略它们对施法和闪避的负面影响。
+AmuletDescs."BlessedDomination" @(30)你造成的每点伤害都有 33% 的机会魅惑目标一个回合。
+AmuletDescs."BlessedRadiance" @(30)给你一个半径为 2 的场。同时能让你免疫场效果。
+AmuletDescs."BlessedSacrifice" @(30)在使用献祭圈进行献祭仪式时必须拥有它。
+AmuletDescs."BlessedUberlyft" @(30)旅行按钮现在在清空 25% 的楼层后就可以使用。
 ArmourNames."Robe" 长袍
 ArmourNames."Shirt" 衬衫
 ArmourNames."Hood" 头巾
@@ -1702,7 +1702,7 @@ CharmEffects."Star Spangled Cap" Sadly, all this cap does is that it enrages dem
 CharmEffects."Glove of Liberalism" Increases physical damage by 50% against daemons.
 CharmEffects."Wristband of Liberalism" Daemons must pass a mental check in order to attack you.
 CharmEffects."Black Meistercard" You can enchant items for free, at least until credits run out.
-CharmEffects."Deadly Ghoul Tooth" You can say 'Molar Varghulis' for dramatic effect when you throw this at your enemy.
+CharmEffects."Deadly Ghoul Tooth" 当你把这个扔向敌人的同时说出“莫拉尔 瓦古尼斯”会有奇妙的效果。
 CharmEffects."Mad Torque Slingshot" Increases the maximum range of thrown rocks by 60% and converts their damage type to magical.
 CharmEffects."Duelist's Wristbow" Shoots a bolt back at the attacker when you parry an attack.
 CharmEffects."Uberlyft's Lost Shoe" Travel button works in town now and it takes you back to where you left.
@@ -2188,20 +2188,20 @@ ToolNames."Soul Gem of Sloth" 懒惰魂晶
 ToolNames."Soul Gem of Thirst" 干渴魂晶
 ToolNames."Soul Gem of Wrath" 愤怒魂晶
 ToolNames."Equalizer" 均衡器
-ToolDescs."Smoke Bomb" Hides you in plain sight. Prolonged use might cause lung cancer according to the sticker at the bottom.
-ToolDescs."Bear Trap" A trap master can arm this without losing too many fingers.
-ToolDescs."Magic Trap" A trap master can arm this without getting burnt in the process.
-ToolDescs."Tithril Ore" This metal seems to become firmer when touched gently.
-ToolDescs."Bearskin" No animals were harmed during the skinning process.
-ToolDescs."Flexweave" This thread was first seen in the mines of Khevlar.
-ToolDescs."Hardwood" This wood really puts the angio in a spermous tree.
-ToolDescs."Scrap" One man's reusable scrap is another man's treasure.
-ToolDescs."Schematic" 这是一张鲁班的图纸，他可能想要回去。
-ToolDescs."Crown" Fits perfectly on the head of a King that wants to rule his people with an iron fist.
-ToolDescs."Dog Collar" This collar can be used to safely store Woof while you do whatever it is that you do when you're alone.
-ToolDescs."Soul Gem" These gems are said to contain the souls of innocent victims but in reality there is no such thing as innocent...
-ToolDescs."Black Soul Gem" These gems are said to contain the souls of innocent victims but this one doesn't seem all that innocent...
-ToolDescs."Equalizer" There's an engraving on the handle saying 'Shall not be infringed'.
+ToolDescs."Smoke Bomb" @(30)让你凭空消失。底部的标签上写着，长期使用可能会导致肺癌。
+ToolDescs."Bear Trap" @(30)陷阱大师可以装备它而不必失去手指。
+ToolDescs."Magic Trap" @(30)陷阱大师可以装备它而不会被烧焦。
+ToolDescs."Tithril Ore" @(30)轻轻的触摸这块金属会让它越发的坚固。
+ToolDescs."Bearskin" @(30)剥皮过程没有伤害任何动物。
+ToolDescs."Flexweave" @(30)这种丝最初在凯夫拉尔的矿井中发现。
+ToolDescs."Hardwood" @(30)这根木头是精魂之树的血脉。
+ToolDescs."Scrap" @(30)一个人的废品是另一个人的宝藏。
+ToolDescs."Schematic" @(30)这是一张鲁班的图纸，他可能想要回去。
+ToolDescs."Crown" @(30)对于想用铁腕统治人民的国王，它戴起来正合适。
+ToolDescs."Dog Collar" @(30)当你独自一人做事情的时候，这个项圈可以用来安全地藏起汪汪。
+ToolDescs."Soul Gem" @(30)这些晶石据说内含无辜受害者的灵魂，但在现实中没有所谓的无辜……
+ToolDescs."Black Soul Gem" @(30)这些晶石据说内含无辜受害者的灵魂，但这个灵魂看起来并不无辜……
+ToolDescs."Equalizer" @(30)手柄上刻着“不可侵犯”的字样。
 WandNames."Wand" 魔杖
 WandNames."Wand of Blizzard" 暴雪魔杖
 WandNames."Wand of Burning" 燃烧魔杖
@@ -2528,7 +2528,7 @@ CreatureNames."Swordmaster Logar" 剑圣洛迦
 CreatureNames."Ranger Satyr'Dae" 独行侠赛特
 CreatureNames."Dawid the Paladin" 圣骑士达维德
 CreatureNames."Leo Noerde" 鲁班
-CreatureNames."Ken'nih" Ken'nih
+CreatureNames."Ken'nih" 肯'尼斯
 CreatureNames."Chronomancer" 时空术士
 CreatureNames."Verman" Verman
 CreatureNames."Butcher" Butcher
@@ -2869,8 +2869,8 @@ CauseOfDeath."COD_SHOCK_AURA" %s由于站在%s的电场中过久而被电死。
 CauseOfDeath."COD_POISON_AURA" %s由于站在%s的毒场中过久而毒发身亡。
 CauseOfDeath."COD_DISEASE_AURA" %s由于站在%s的病场中过久而死于心脏病。
 CauseOfDeath."COD_HATEFUL_AURA" %s被一个可恶的力场致死。
-CauseOfDeath."COD_ASPHYXIATION" %s死于窒息护符引起的窒息。
-CauseOfDeath."COD_PETRIFICATION" %s死于石化护符引起的石化。
+CauseOfDeath."COD_ASPHYXIATION" %s死于窒息项链引起的窒息。
+CauseOfDeath."COD_PETRIFICATION" %s死于石化项链引起的石化。
 CauseOfDeath."COD_CURSE_OF_AGONY" %s死于痛苦诅咒造成的伤害。
 CauseOfDeath."COD_DEADLY_POISON" %s死于死亡药剂的剧毒。
 CauseOfDeath."COD_LEECHING_POISON" %s死于吸血药剂造成的伤害。
@@ -3068,7 +3068,7 @@ HeritageNames."Infernal Mastery" 地狱系专精
 HeritageNames."Arcane Mastery" 奥术专精
 HeritageNames."Bestial Mastery" 兽性专精
 HeritageNames."Abyssal Mastery" 深渊专精
-HeritageNames."Amulet Knowledge" 护符知识
+HeritageNames."Amulet Knowledge" 项链知识
 HeritageNames."Ring Knowledge" 戒指知识
 HeritageNames."Wand Knowledge" 魔杖知识
 HeritageNames."Scroll Knowledge" 卷轴知识
@@ -3172,14 +3172,14 @@ HeritageDescs."Draconic Mastery" @(26)在游戏开始时获得一个随机龙系
 HeritageDescs."Draconic Mastery".1 @(26)在单局游戏中学会所有的龙系法术可以解锁这项遗产。
 HeritageDescs."Infernal Mastery" @(26)在游戏开始时获得一个随机地狱系法术的知识。
 HeritageDescs."Infernal Mastery".1 @(26)在单局游戏中学会所有的地狱系法术可以解锁这项遗产。
-HeritageDescs."Arcane Mastery" @(26)允许你在使用任何护符时，依靠读写：常识就能学习奥术。
+HeritageDescs."Arcane Mastery" @(26)允许你在使用任何项链时，依靠读写：常识就能学习奥术。
 HeritageDescs."Arcane Mastery".1 @(26)在单局游戏中学会所有的奥术可以解锁这项遗产。
 HeritageDescs."Bestial Mastery" @(26)允许你依靠读写：常识就能学习兽性法术，而不必漂浮。
 HeritageDescs."Bestial Mastery".1 @(26)在单局游戏中学会所有的兽性法术可以解锁这项遗产。
 HeritageDescs."Abyssal Mastery" @(26)允许你依靠读写：常识就能学习深渊系法术，而不必献祭。
 HeritageDescs."Abyssal Mastery".1 @(26)在单局游戏中学会所有的深渊法术可以解锁这项遗产。
-HeritageDescs."Amulet Knowledge" @(26)在游戏开始获得所有护符效果的知识。
-HeritageDescs."Amulet Knowledge".1 @(26)在单局游戏中学会所有的护符效果可以解锁这项遗产。
+HeritageDescs."Amulet Knowledge" @(26)在游戏开始获得所有项链效果的知识。
+HeritageDescs."Amulet Knowledge".1 @(26)在单局游戏中学会所有的项链效果可以解锁这项遗产。
 HeritageDescs."Ring Knowledge" @(26)在游戏开始获得所有戒指效果的知识。
 HeritageDescs."Ring Knowledge".1 @(26)在单局游戏中学会所有的戒指效果可以解锁这项遗产。
 HeritageDescs."Wand Knowledge" @(26)在游戏开始获得所有魔杖效果的知识。
@@ -3260,8 +3260,8 @@ HeritageDescs."Monster Chow" @(26)在变形时增加生命值和精力。
 HeritageDescs."Monster Chow".1 @(26)在变形后杀死 %d 个巨怪并吃掉它们的尸体。
 HeritageDescs."Monster Chow".2 @(26)注意：施展变形术将充值计数器，因此必须在一次变形中完成。
 HeritageDescs."Monster Chow".3 @(26)吃掉的巨怪：
-HeritageDescs."Second Amendment" @(26)允许你在装备有对应的护符时，从奥术典籍中学习法术 (*)。
-HeritageDescs."Second Amendment".1 @(26)一旦你学会了一门奥术，你可以在装备有任意护符时施放它。
+HeritageDescs."Second Amendment" @(26)允许你在装备有对应的项链时，从奥术典籍中学习法术 (*)。
+HeritageDescs."Second Amendment".1 @(26)一旦你学会了一门奥术，你可以在装备有任意项链时施放它。
 HeritageDescs."Second Amendment".2 @(26)你从未来捐赠任意一个物品给工匠行会可以解锁这项遗产。
 HeritageDescs."Second Amendment".3 @(26)(*) 注意：你需要读写：常识以及另一项读写天赋。
 HeritageDescs."Rise of Fairies" @(26)允许你通过精灵遗弃的牛角在浮空时从兽性典籍中学习法术 (*)。
@@ -3407,8 +3407,8 @@ ChallengeDescs."Main Course" This challenge can be completed by by eating the fo
 ChallengeDescs."Road to Hell" This challenge can be completed by killing %d under aged daemons at level 20 after typing:
 ChallengeDescs."Road to Hell".1 &quot;%s&quot;
 ChallengeDescs."Road to Hell".2 Daemons killed:
-ChallengeDescs."Howdy Ho!" This challenge can be completed by finding and resurrecting Ken'nih before his corpse is eaten by rats.
-ChallengeDescs."Howdy Ho!".1 Note that this can be attempted only once per game and you must be polymorphed in order to complete it.
+ChallengeDescs."Howdy Ho!" 完成这个挑战在老鼠吃掉肯'尼斯的尸体前找到它。
+ChallengeDescs."Howdy Ho!".1 注意：每局游戏只能尝试一次，为了完成挑战你必须被变形。
 ChallengeDescs."Dog Whisperer" This challenge can be completed by having Woof cause any damage to the King.
 ChallengeDescs."I Got This!" This challenge can be completed by looting the crown on heroic difficulty level.
 ChallengeDescs."Nabon's Demise" This challenge can be completed by killing Dreadlord Nabon and ending his reign of terror.
@@ -3616,7 +3616,7 @@ InventoryWindow."Enchant:" 附魔：
 InventoryWindow."Store:" 存储：
 InventoryWindow."Select:" 选择：
 InventoryWindow."Bind ring:" 绑定戒指：
-InventoryWindow."You can't wield that in the offhand." 你不能在扶手穿戴那个。
+InventoryWindow."You can't wield that in the offhand." 你不能在副手穿戴它。
 InventoryWindow."You can't swap that, it's magically bound to you!" You can't swap that, it's magically bound to you!
 InventoryWindow."You can sell the item by holding down the Ctrl-key." You can sell the item by holding down the Ctrl-key.
 InventoryWindow."You can store the item by holding down the Ctrl-key." You can store the item by holding down the Ctrl-key.
@@ -3707,7 +3707,7 @@ SpellbookWindow."Type the legendary name of your weapon or press %s to cancel." 
 SpellbookWindow."You can't use %s on items that are not wieldable weapons." 你不能针对不是可装备武器的物品使用 %s。
 SpellbookWindow."You can't use runes on items that are not blessed and double enchanted." 符石只能用于神圣的物品，且已经附魔过两次。
 SpellbookWindow."You can't channel arcane spells through the wand." 你不能用通导魔杖使用奥术。
-SpellbookWindow."You can't cast arcane spells without an amulet." 没有护符不能施放奥术。
+SpellbookWindow."You can't cast arcane spells without an amulet." 没有项链不能施放奥术。
 SpellbookWindow."You can't cast bestial spells without a bull horn." 没有牛角不能施放兽性法术。
 SpellbookWindow."You can't cast abyssal spells without a pyramidion." 没有金字塔无法施放深渊法术。
 SpellbookWindow."You can't cast release soul without a soul gem." 没有灵魂石无法释放灵魂。
@@ -3975,7 +3975,7 @@ EffectAnim."Lustful" You are lustful and you are forced to move towards the near
 EffectAnim."Lustful".1 creature into submission or miss your turn if no such creature exists.
 EffectAnim."On fire" You are on fire. You can always try to douse yourself with a water flask.
 EffectAnim."Paralysed" You are paralysed and that causes you to miss your turn.
-EffectAnim."Polymorphed" You are polymorphed and that allows you to find Ken'nih.
+EffectAnim."Polymorphed" 你被变形了，这能让你找到肯'尼斯。
 EffectAnim."Reckless" You are reckless and you are forced to move towards and attack the nearest enemy creature or miss your turn if no
 EffectAnim."Reckless".1 such creature exists.
 EffectAnim."Shocked" You are shocked and that causes you to miss your turn.
