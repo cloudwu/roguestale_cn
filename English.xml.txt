@@ -2142,28 +2142,28 @@ TomeNames."Tome of Animate Dead" 典籍：亡灵复生
 TomeNames."Tome of Transmute Item" 典籍：物品炼金
 TomeNames."Tome of Alter Terrain" 典籍：地表变形
 TomeNames."Tome of Arcane Missile" 典籍：奥术飞弹
-TomeDescs."BlessedTomeDesc" You have identified that this tome is blessed and it contains the %s spell.
-TomeDescs."CursedTomeDesc" You have identified that this tome is cursed and it contains the %s spell.
-TomeDescs."IdentifiedTomeDesc" You have identified that this tome contains the %s spell.
-TomeDescs."UnidentifiedTomeDesc" You know that this tome contains the %s spell but it's not fully identified yet.
-TomeDescs."CelestialTomeDesc" You recognize the celestial symbol on the tome. You may want to identify it before reading though.
-TomeDescs."DraconicTomeDesc" You recognize the draconic symbol on the tome. You may want to identify it before reading though.
-TomeDescs."InfernalTomeDesc" You recognize the infernal symbol on the tome. You may want to identify it before reading though.
-TomeDescs."ArcaneTomeDesc" You recognize the arcane symbol on the tome. You may want to identify it before reading though.
-TomeDescs."BestialTomeDesc" You recognize the bestial symbol on the tome. You may want to identify it before reading though.
-TomeDescs."AbyssalTomeDesc" You recognize the abyssal symbol on the tome. You may want to identify it before reading though.
-TomeDescs."UnknownTomeDesc" This tome appears to be written in some unknown language.
-TomeLogs."You begin to read %s." You begin to read %s.
-TomeLogs."You begin to read an unknown tome." You begin to read an unknown tome.
-TomeLogs."You open the tome at the bookmark and check out the nine inch males." You open the tome at the bookmark and check out the nine inch males.
-TomeLogs."You open the tome at the bookmark and check out the ladies. Ooh la la!" You open the tome at the bookmark and check out the ladies. Ooh la la!
-TomeLogs."You finish reading the tome and learn how to cast %s." You finish reading the tome and learn how to cast %s.
-TomeLogs."You browse through the appendix and also learn how to cast %s." You browse through the appendix and also learn how to cast %s.
-TomeLogs."The tome glows brightly for a second and turns to dust." The tome glows brightly for a second and turns to dust.
-TomeLogs."You finish reading the tome and you forget something." You finish reading the tome and you forget something.
-TomeLogs."You finish reading the tome and you forget how to walk straight." You finish reading the tome and you forget how to walk straight.
-TomeLogs."You browse through the tome and look for pretty pictures." You browse through the tome and look for pretty pictures.
-TomeLogs."Your %s shimmers brightly before shattering to pieces." Your %s shimmers brightly before shattering to pieces.
+TomeDescs."BlessedTomeDesc" @(30)你鉴定过这本典籍，这是一本记载着%s法术的神圣典籍。
+TomeDescs."CursedTomeDesc" @(30)你鉴定过这本典籍，它被诅咒了，其中记载着%s法术。
+TomeDescs."IdentifiedTomeDesc" @(30)你鉴定过这本典籍，它记载着%s法术。
+TomeDescs."UnidentifiedTomeDesc" @(30)你知道这本典籍中记载着%s法术 ，但它尚未被鉴定。
+TomeDescs."CelestialTomeDesc" @(30)你在典籍上认出了一个天使系符记。不过你想可能还是应该先鉴定一下再读。
+TomeDescs."DraconicTomeDesc" @(30)你在典籍上认出了一个龙系符记。不过你想可能还是应该先鉴定一下再读。
+TomeDescs."InfernalTomeDesc" @(30)你在典籍上认出了一个地狱系符记。不过你想可能还是应该先鉴定一下再读。
+TomeDescs."ArcaneTomeDesc" @(30)你在典籍上认出了一个奥术符记。不过你想可能还是应该先鉴定一下再读。
+TomeDescs."BestialTomeDesc" @(30)你在典籍上认出了一个兽性符记。不过你想可能还是应该先鉴定一下再读。
+TomeDescs."AbyssalTomeDesc" @(30)你在典籍上认出了一个深渊符记。不过你想可能还是应该先鉴定一下再读。
+TomeDescs."UnknownTomeDesc" @(30)这本典籍看起来是用一些未知语言撰写的。
+TomeLogs."You begin to read %s." 你开始阅读 %s。
+TomeLogs."You begin to read an unknown tome." 你开始阅读一本未知的典籍。
+TomeLogs."You open the tome at the bookmark and check out the nine inch males." 你翻到这本典籍的书签处，查阅那个 23 厘米的男性。
+TomeLogs."You open the tome at the bookmark and check out the ladies. Ooh la la!" 你翻到这本典籍的书签处，查阅那个女士。哇哦！
+TomeLogs."You finish reading the tome and learn how to cast %s." 你读完了这本典籍，学会了施放%s.
+TomeLogs."You browse through the appendix and also learn how to cast %s." 你从附录开始阅览，也学会了施放%s。
+TomeLogs."The tome glows brightly for a second and turns to dust." 这本典籍开始发光，眨眼间变为了灰烬。
+TomeLogs."You finish reading the tome and you forget something." 你读完了这本典籍，似乎忘了什么。
+TomeLogs."You finish reading the tome and you forget how to walk straight." 你读完了这本典籍，忘掉了怎么走直线。
+TomeLogs."You browse through the tome and look for pretty pictures." 你翻阅这本典籍，想找点漂亮的图片。
+TomeLogs."Your %s shimmers brightly before shattering to pieces." 你的%s在破碎前闪耀着微光。
 ToolNames."Smoke Bomb" 烟雾弹
 ToolNames."Bear Trap" 捕熊夹
 ToolNames."Magic Trap" 魔法陷阱
@@ -2953,7 +2953,7 @@ Achievements."Spend until you have 0 gold." 花到你只剩 0 金币。
 Achievements."Empty your backpack and reset dungeon with 0 gold." 将你的背包清空，一个金币都不留，重置地牢。
 Achievements."Store %d or more gold coins." 存下 %d 或更多的金币。
 Achievements."Type &quot;%s&quot;." 输入 &quot;%s&quot; 。
-Achievements."I'm over 9 inches" 我超过了 23 厘米。
+Achievements."I'm over 9 inches" 我不只 23 厘米。
 Achievements."Reach level 18 or higher." 达到 18 级或更高等级。
 Achievements."Find a %s." 找到一件 %s。
 Achievements."Slay enough trolls." 干掉足够多的巨魔。
