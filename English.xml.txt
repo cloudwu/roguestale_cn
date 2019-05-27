@@ -1616,12 +1616,12 @@ ArrowStacks."Fine Arrow" 精美羽箭
 ArrowStacks."Bolt" 箭头
 ArrowStacks."Fine Bolt" 精美箭头
 ArrowStacks."Knabstick" Knab 之箭
-ArrowDescs."Stick" Even these simple sticks can hurt you if they are propelled by enough force.
-ArrowDescs."Arrow" The bowman's recipe of win: head, shaft and fletching propelled by enough force.
-ArrowDescs."Fine Arrow" The sinister colour on these makes them more powerful than ordinary arrows.
-ArrowDescs."Bolt" The crossbowman's recipe of win: take a bolt and use more than enough force.
-ArrowDescs."Fine Bolt" The sinister colour on these makes them more powerful than ordinary bolts.
-ArrowDescs."Knabstick" All of the tears shed by knabs makes these arrows lighter than a feather.
+ArrowDescs."Stick" @(30)即使是这些简单的树棍，如果被足够的力推动，也能伤害你。
+ArrowDescs."Arrow" @(30)弓箭手的制胜秘诀：箭头、箭杆和尾羽，被足够的推力。
+ArrowDescs."Fine Arrow" @(30)这些箭上的邪恶色彩使它们比普通箭更有威力。
+ArrowDescs."Bolt" @(30)弩手的制胜秘诀：箭头上弦，然后使用足够大的推力。
+ArrowDescs."Fine Bolt" @(30)这些箭头上的邪恶色彩使它们比普通箭头更有威力。
+ArrowDescs."Knabstick" @(30)Knab 的眼泪让这些羽箭轻如鸿毛。
 CharmNames."Charm" 饰品
 CharmNames."Lucky Number Seven" 幸运七号
 CharmNames."Fluffy Rabbit's Foot" 毛毛兔的脚
@@ -1719,14 +1719,14 @@ CoinNames."Gold Coin" 金币
 CoinStacks."Gold Coin" 金币堆
 CoinDescs."StoredCoins" 你的背包中共有 %d 枚金币，还有 %d 枚金币存放在工匠工坊中。
 CoinDescs."Gold Coin" 你在背包中共有 %d 枚金币。
-FoodNames."Meat" 肉
+FoodNames."Meat" 生肉
 FoodNames."Fried Meat" 烤肉
 FoodNames."Ribs" 排骨
 FoodNames."Fried Ribs" 烤排骨
 FoodNames."Fish" 鱼
 FoodNames."Fried Fish" 烤鱼
 FoodNames."Chicken" 鸡肉
-FoodNames."Fried Chicken" 烤鸡肉
+FoodNames."Fried Chicken" 炸鸡
 FoodNames."Blood Cap" 血蘑菇
 FoodNames."Fried Cap" 烤蘑菇
 FoodNames."Death Cap" 毒蘑菇
@@ -1759,65 +1759,65 @@ FoodNames."Cider Bottle" 苹果酒瓶
 FoodNames."Wine Bottle" 葡萄酒瓶
 FoodNames."Booze Bottle" 酒瓶
 FoodNames."Milk Jar" 牛奶壶
-FoodDescs."Meat" Some people have become sick after eating raw meat.
-FoodDescs."Fried Meat" Fried meat is much safer to eat than raw meat.
-FoodDescs."Ribs" Some people have become sick after eating raw ribs.
-FoodDescs."Fried Ribs" Fried ribs are much safer to eat than raw ribs.
-FoodDescs."Fish" Some people have become sick after eating raw fish.
-FoodDescs."Fried Fish" Fried fish is much safer to eat than raw fish.
-FoodDescs."Chicken" Some people have become sick after eating raw chicken.
-FoodDescs."Fried Chicken" Fried chicken is much safer to eat than raw chicken.
-FoodDescs."Blood Cap" Blood caps are said to have bad blood in them.
-FoodDescs."Fried Cap" Frying supposedly removes the bad blood from blood caps.
-FoodDescs."Death Cap" Mmm... Yummy.
-FoodDescs."Bread" Tastes a bit dull but keeps the hunger away.
-FoodDescs."Cheese" This wedge smells like a peasant girl's armpit.
-FoodDescs."Egg" Some people have become sick after eating a raw egg.
-FoodDescs."Fried Egg" Fried egg is much safer to eat than a raw egg.
-FoodDescs."Apple" Boy, apple, arrow, miss, shovel, dig, forget.
-FoodDescs."Carrot" What's up du... uhh, copyright infringement.
-FoodDescs."Pear" Imagine that all women look like pears. Blaaarrgghh.
-FoodDescs."Tomato" If you are late you must ketchup. I'll get my coat.
-FoodDescs."Plum" This must be the synonym for gangrenous nut sack.
-FoodDescs."Root" Stick it with a pin and somewhere someone dies.
-FoodDescs."Berries" If you weren't so sweet, we wouldn't be in this jam.
-FoodDescs."Cherries" Popping these cherries do not lock you up.
-FoodDescs."Grapes" Grapevines exist only because winevines sound silly.
-FoodDescs."Cabbage" These things are responsible for global warming.
-FoodDescs."Potato" 'Tis a shame you can't cook these into salted chips.
-FoodDescs."Acorn" There lives a small squirrel in every one of us.
-FoodDescs."Grass" Tastes great if you like to pretend that you are a goat.
-FoodDescs."Garlic" Perhaps vampires will be added in the game at some point.
-FoodDescs."Onion" Even the worst axe murderer becomes a cry baby when you slice this.
-FoodDescs."Lemon" Can be eaten but they can also clean porcelain toilets.
-FoodDescs."Pepper" These are mild peppers that do not cause Bloody Flux.
-FoodDescs."Food Ration" A dungeon dweller's food ration is a poor man's feast.
-FoodDescs."Water Flask" Water flask makes well water taste like spring water.
-FoodDescs."Beer Tankard" Beer is the only reason why hunter gatherers became farmers.
-FoodDescs."Mead Bottle" Fermenting honey with water turns any man into a poet.
-FoodDescs."Cider Bottle" Too much fermented apple juice may give you a head ache.
-FoodDescs."Wine Bottle" Red or white, both are fine, tavern wench, bring me wine.
-FoodDescs."Booze Bottle" Wow, alchemists have come up with a drink that doesn't remove thirst.
-FoodDescs."Milk Jar" Rogues that have not yet stopped breast feeding will love this.
-FoodLogs."You take a bite from %s and it tastes strange." You take a bite from %s and it tastes strange.
-FoodLogs."You take a bite from %s and it tastes fresh." You take a bite from %s and it tastes fresh.
-FoodLogs."You take a bite from %s and it tastes rotten." You take a bite from %s and it tastes rotten.
-FoodLogs."You take a bite from %s." You take a bite from %s.
-FoodLogs."You eat %s and it tastes strange." You eat %s and it tastes strange.
-FoodLogs."You eat %s and it tastes fresh." You eat %s and it tastes fresh.
-FoodLogs."You eat %s and it tastes rotten." You eat %s and it tastes rotten.
-FoodLogs."You eat %s." You eat %s.
-FoodLogs."You take a sip from %s and it tastes strange." You take a sip from %s and it tastes strange.
-FoodLogs."You take a sip from %s and it tastes fresh." You take a sip from %s and it tastes fresh.
-FoodLogs."You take a sip from %s and it tastes rotten." You take a sip from %s and it tastes rotten.
-FoodLogs."You take a sip from %s." You take a sip from %s.
-FoodLogs."You drink %s and it tastes strange." You drink %s and it tastes strange.
-FoodLogs."You drink %s and it tastes fresh." You drink %s and it tastes fresh.
-FoodLogs."You drink %s and it tastes rotten." You drink %s and it tastes rotten.
-FoodLogs."You drink %s." You drink %s.
-FoodLogs."You pour water on yourself and douse the fire." You pour water on yourself and douse the fire.
-FoodLogs."You pour water on yourself and weaken the fire." You pour water on yourself and weaken the fire.
-FoodLogs."You feel a burning stomach ache and your bowel hurts." You feel a burning stomach ache and your bowel hurts.
+FoodDescs."Meat" 有些人吃生肉后生病了。
+FoodDescs."Fried Meat" 烤肉比生肉更安全。
+FoodDescs."Ribs" 有些人生吃了排骨后就生病了。
+FoodDescs."Fried Ribs" 烤排骨比生排骨更安全。
+FoodDescs."Fish" 有些人吃生鱼片后生病了。
+FoodDescs."Fried Fish" 烤鱼比生鱼片吃起来安全多了。
+FoodDescs."Chicken" 有些人生吃了鸡肉后就生病了。
+FoodDescs."Fried Chicken" 吃炸鸡比吃生鸡肉安全的多。
+FoodDescs."Blood Cap" 据说血蘑菇里有坏血。
+FoodDescs."Fried Cap" 火烤可以去除血蘑菇中的有害成分。
+FoodDescs."Death Cap" 嗯……好吃。
+FoodDescs."Bread" 食之无味，但能驱走饥饿感。
+FoodDescs."Cheese" 这块楔子闻起来像个村姑的腋窝。
+FoodDescs."Egg" 有些人吃了生鸡蛋后就生病了。
+FoodDescs."Fried Egg" 煎蛋比生蛋更安全。
+FoodDescs."Apple" 男孩，苹果，箭，错过，铲子，挖，忘了。
+FoodDescs."Carrot" 怎么啦，朋友…… 哦，侵权了。
+FoodDescs."Pear" 想象一下，所有的女人看起来都像梨子。哈哈。
+FoodDescs."Tomato" 如果你迟到了，你必须涂番茄酱。我去拿外套。
+FoodDescs."Plum" 这一定是腐烂坚果袋的同义词。
+FoodDescs."Root" 用针扎进去，某处的某个人就会死。
+FoodDescs."Berries" 要不是你这么体贴，我们就不会陷入这种困境了。
+FoodDescs."Cherries" 吃这些樱桃不会把你关起来。
+FoodDescs."Grapes" 吃葡萄不吐葡萄皮……
+FoodDescs."Cabbage" 这些都是全球变暖的原因。
+FoodDescs."Potato" 真可惜你不能把这些炸成薯条.
+FoodDescs."Acorn" 我们每个人体内都住着一只小松鼠。
+FoodDescs."Grass" 如果你喜欢假装自己是一只山羊，味道会很棒。
+FoodDescs."Garlic" 也许以后会在游戏里加入吸血鬼。
+FoodDescs."Onion" 当你切这个的时候，即使是最坏的连环杀人犯也会哭。
+FoodDescs."Lemon" 可以吃，但也可以用于清洁厕所的瓷砖。
+FoodDescs."Pepper" 这些是温和的胡椒，不会引起血瘟。
+FoodDescs."Food Ration" 一份地牢快餐式穷人的盛宴。
+FoodDescs."Water Flask" 水袋中的水甜若甘泉。
+FoodDescs."Beer Tankard" 啤酒是猎人、采集者成为农民的唯一原因。
+FoodDescs."Mead Bottle" 蜂蜜加水发酵，任何人都能成为诗人。
+FoodDescs."Cider Bottle" 太多的发酵苹果汁可能会使你头痛。
+FoodDescs."Wine Bottle" 红酒白酒无所谓，美女，给我上酒。
+FoodDescs."Booze Bottle" 哇，炼金术士发明了一种不解渴的饮料。
+FoodDescs."Milk Jar" 尚未断奶的游侠们会喜欢这个。
+FoodLogs."You take a bite from %s and it tastes strange." 你咬了一口%s，尝起来怪怪的。
+FoodLogs."You take a bite from %s and it tastes fresh." 你咬了一口%s，很新鲜。
+FoodLogs."You take a bite from %s and it tastes rotten." 你咬了一口%s，馊掉了。
+FoodLogs."You take a bite from %s." 你咬了一口%s。
+FoodLogs."You eat %s and it tastes strange." 你吃着%s，尝起来怪怪的。
+FoodLogs."You eat %s and it tastes fresh." 你吃着%s，很新鲜。
+FoodLogs."You eat %s and it tastes rotten." 你吃着%s，馊掉了。
+FoodLogs."You eat %s." 你吃着%s。
+FoodLogs."You take a sip from %s and it tastes strange." 你抿了一小口%s，味道怪怪的。
+FoodLogs."You take a sip from %s and it tastes fresh." 你抿了一小口%s，很新鲜。
+FoodLogs."You take a sip from %s and it tastes rotten." 你抿了一口%s，坏掉了。
+FoodLogs."You take a sip from %s." 你抿了一口%s。
+FoodLogs."You drink %s and it tastes strange." 你喝着%s，味道怪怪的。
+FoodLogs."You drink %s and it tastes fresh." 你喝着%s，很新鲜。
+FoodLogs."You drink %s and it tastes rotten." 你喝着%s，坏掉了。
+FoodLogs."You drink %s." 你喝着%s。
+FoodLogs."You pour water on yourself and douse the fire." 你把水倒在自己身上，把火浇灭。
+FoodLogs."You pour water on yourself and weaken the fire." 你把水倒在自己身上，火势减弱。
+FoodLogs."You feel a burning stomach ache and your bowel hurts." 你感到肚子一阵绞痛，肠胃受伤。
 PotionNames."Potion" 药剂
 PotionNames."Potion of Antidote" 解毒药剂
 PotionNames."Potion of Awareness" 意识药剂
