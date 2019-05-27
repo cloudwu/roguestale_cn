@@ -664,8 +664,8 @@ UseLogs."You drop %s." 你扔掉了%s。
 UseLogs."%s drops %s." %s 扔掉了 %s。
 UseLogs."You can't drop that, it's magically bound to you!" 你不能扔掉灵魂绑定的物品。
 UseLogs."You discard %s." 你抛弃了%s。
-UseLogs."You hold the soul gem in your hand and let out a maniacal laughter..." 你抓住了一个灵魂石，并发出了疯狂的笑声……
-UseLogs."The soul gem starts to vibrate and suddenly explodes in your hand." 灵魂石在你手中突然开始震颤，紧接着爆炸了。
+UseLogs."You hold the soul gem in your hand and let out a maniacal laughter..." 你抓住了一个魂晶，并发出了疯狂的笑声……
+UseLogs."The soul gem starts to vibrate and suddenly explodes in your hand." 魂晶在你手中突然开始震颤，紧接着爆炸了。
 UseLogs."You throw a smoke bomb on the ground." 你向地上抛出了一个烟雾弹。
 UseLogs."You are already hidden." 你完全隐身了。
 UseLogs."You set a bear trap at your feet." 你在脚下安装了一个捕熊陷阱。
@@ -1273,7 +1273,7 @@ EnchantSuffixes." of Willpower" （意志）
 EnchantSuffixes." of Vigour" （活力）
 EnchantSuffixes." of the Moon" （月亮）
 EnchantSuffixes." of Faith" （信仰）
-EnchantSuffixes." of Hallwood" （神圣）
+EnchantSuffixes." of Hallwood" （圣林）
 EnchantSuffixes." of Healing" （治愈）
 EnchantSuffixes." of Potency" （潜力）
 EnchantSuffixes." of Flash" （闪光）
@@ -1590,8 +1590,8 @@ ArmourNames."Fine Plate Helm" 精美板盔
 ArmourNames."Royal Armour" 皇家铠甲
 ArmourNames."Royal Helm" 皇家头盔
 ArmourNames."Hardened Skin" 硬化皮肤
-ArmourNames."Winter Fur Coat" 严冬皮草
-ArmourNames."Arctic Fur Coat" 北极皮草
+ArmourNames."Winter Fur Coat" 严冬皮毛
+ArmourNames."Arctic Fur Coat" 极地皮毛
 ArmourDescs."ArmourDesc" @(30)注意：穿戴护甲有可能妨碍施法、闪避、攀爬、跳跃。
 ArmourDescs."HelmetDesc" @(30)注意：穿戴头盔有可能妨碍施法、闪避、攀爬、跳跃。
 ArmourDescs."ShirtDesc" @(30)你下到地牢时，所有有嗅觉的生物都会被熏死。
@@ -2283,13 +2283,13 @@ WeaponNames."Fist" 拳套
 WeaponNames."Stone" 石块
 WeaponNames."Barbed Whip" 荆棘之鞭
 WeaponNames."Massive Claw" 巨爪
-WeaponNames."Corrosive Bite" 侵蚀之噬
-WeaponNames."Ferocius Bite" 暴虐之噬
-WeaponNames."Infectious Bite" 瘟疫之噬
-WeaponNames."Vampiric Bite" 吸血之噬
-WeaponNames."Venomous Bite" 毒液之噬
-WeaponNames."Vicious Bite" 恶毒之噬
-WeaponNames."Skittering Bite" 破碎之噬
+WeaponNames."Corrosive Bite" 侵蚀之咬
+WeaponNames."Ferocius Bite" 暴虐之咬
+WeaponNames."Infectious Bite" 瘟疫之咬
+WeaponNames."Vampiric Bite" 吸血之咬
+WeaponNames."Venomous Bite" 毒液之咬
+WeaponNames."Vicious Bite" 恶毒之咬
+WeaponNames."Skittering Bite" 破碎之咬
 WeaponNames."Fire Breath" 火焰之息
 WeaponNames."Frost Breath" 冰霜之息
 WeaponNames."Ghostly Touch" 幽灵之触
@@ -2467,7 +2467,7 @@ CreatureNames."a dead %s" 死去的%s
 CreatureNames."ghastly skull" 可怕的骷髅
 CreatureNames."pile of bones" 骨堆
 CreatureNames."Beast" 野兽
-CreatureNames."Woof" 狼
+CreatureNames."Woof" 汪汪
 CreatureNames."Dire wolf" 凶狼
 CreatureNames."Dog" 狗
 CreatureNames."Dread bat" 蝙蝠
@@ -2634,7 +2634,7 @@ TileNames."archery target" 射击靶
 TileNames."dark well" 幽暗水井
 TileNames."magical altar" 魔法祭坛
 TileNames."camp fire" 营火
-TileNames."spirit totem" 精灵图腾
+TileNames."spirit totem" 心灵图腾
 TileNames."bear trap" 捕熊夹
 TileNames."spike trap" 尖刺陷阱
 TileNames."spider web" 蜘蛛网
@@ -3055,7 +3055,7 @@ HeritageNames."One Strange Trip" 奇怪的旅程
 HeritageNames."The Pandamonium" 功夫熊猫
 HeritageNames."Arcane Gimmickry" 奥术机关
 HeritageNames."Lightning Reflexes" 闪电反应
-HeritageNames."Heroes of Hallwood" 神圣英雄
+HeritageNames."Heroes of Hallwood" 圣林英雄
 HeritageNames."Fire Resistant" 火焰抗性
 HeritageNames."Frost Resistant" 冰霜抗性
 HeritageNames."Shock Resistant" 震击抗性
@@ -3079,12 +3079,12 @@ HeritageNames."Healthy Diet" 健康饮食
 HeritageNames."Mighty Hulk" 绿巨人
 HeritageNames."Loose Weight" 减重
 HeritageNames."The Wanderer" 流浪者
-HeritageNames."Three Tails" 三条
+HeritageNames."Three Tails" 三个背面
 HeritageNames."The Pink Order" 粉色骑士团
 HeritageNames."Big Bada Boom" 大爆炸
 HeritageNames."Over 9000" 超过 9000
 HeritageNames."Gurmur's End" 咕呣的末日
-HeritageNames."Canis Woofus" 狼狗
+HeritageNames."Canis Woofus" 爱犬汪汪
 HeritageNames."Familiaripathy" 亲密感
 HeritageNames."Traps Are Bad" 糟糕的陷阱
 HeritageNames."Hardened Skin" 硬化皮肤
@@ -3103,9 +3103,9 @@ HeritageNames."Complex Tension" 张力无限
 HeritageNames."Solid Protection" 严密保护
 HeritageNames."Hardened Skull" 硬化头颅
 HeritageNames."Smart Clothing" 精美外衣
-HeritageNames."Cry On My Shoulder" 肩部呐喊
-HeritageNames."Brace For Impact" 手腕冲击
-HeritageNames."Hairy Handguards" 吓人护手
+HeritageNames."Cry On My Shoulder" 靠在肩膀上哭泣
+HeritageNames."Brace For Impact" 用护腕迎接冲击
+HeritageNames."Hairy Handguards" 华丽的护手
 HeritageNames."Don't Tread On Me" 不要踩我
 HeritageNames."Patron of Arts" 赞助的艺术
 HeritageNames."Spiritual Guidance" 精神引导
@@ -3116,162 +3116,162 @@ HeritageNames."Ursus Horribilis" 熊的恐怖
 HeritageNames."Blood Frenzy" 狂暴之血
 HeritageNames."Lupine Grace" 优雅之狼
 HeritageNames."Vampiric Bite" 吸血之咬
-HeritageNames."Face Muncher" 正面咀嚼
+HeritageNames."Face Muncher" 迎面撕咬
 HeritageNames."Monster Chow" 巨怪大餐
 HeritageNames."Second Amendment" 第二修正案
 HeritageNames."Rise of Fairies" 精灵飞升
 HeritageNames."Wester Worshipper" 西风崇拜者
-HeritageDescs."This heritage can't be unlocked on casual difficulty level." This heritage can't be unlocked on casual difficulty level.
-HeritageDescs."This heritage is not available on heroic difficulty level." This heritage is not available on heroic difficulty level.
-HeritageDescs."Wizard's Staff" Equips the rogue with a staff at the start of the game.
-HeritageDescs."Wizard's Staff".1 This heritage can be unlocked by learning the following talents:
-HeritageDescs."Bow and Arrows" Equips the rogue with a bow and arrows at the start of the game.
-HeritageDescs."Bow and Arrows".1 This heritage can be unlocked by learning the following talents:
-HeritageDescs."Throwing Knives" Equips the rogue with 3 throwing knives at the start of the game.
-HeritageDescs."Throwing Knives".1 This heritage can be unlocked by learning the following talents:
-HeritageDescs."Sword and Buckler" Equips the rogue with a sword and buckler at the start of the game.
-HeritageDescs."Sword and Buckler".1 This heritage can be unlocked by learning the following talents:
-HeritageDescs."Leather Armour Set" Equips the rogue with a leather armour set at the start of the game.
-HeritageDescs."Leather Armour Set".1 This heritage can be unlocked by killing any monster.
-HeritageDescs."Leather Armour Set".2 Note that monsters are visibly larger than your average creature.
-HeritageDescs."Potion of Antidote" Equips the rogue with a potion of antidote at the start of the game.
-HeritageDescs."Potion of Antidote".1 This heritage can be unlocked by reaching level %d.
-HeritageDescs."Potion of Healing" Equips the rogue with a potion of healing at the start of the game.
-HeritageDescs."Potion of Healing".1 This heritage can be unlocked by reaching level %d.
-HeritageDescs."The Seventh Talent" Teaches Literacy: Common as the seventh talent at the start of the game.
-HeritageDescs."The Seventh Talent".1 This heritage can be unlocked by learning the secret seventh talent.
-HeritageDescs."The Interface Dog" Places a blessing on the main hand weapon at the start of the game.
-HeritageDescs."The Interface Dog".1 This heritage can be unlocked by viewing all tutorial entries.
-HeritageDescs."The Silver Spoon" Places a random enchant on the main hand weapon at the start of the game.
-HeritageDescs."The Silver Spoon".1 This heritage can be unlocked by having 11 enchanted items equipped at the same time (shirt or robe don't count).
-HeritageDescs."One Strange Trip" Grants immunity against mushroom effects.
-HeritageDescs."One Strange Trip".1 This heritage can be unlocked by reaching level 20 while eating only blood cap mushrooms.
-HeritageDescs."The Pandamonium" Grants ability to use the following talents while unarmed:%s
-HeritageDescs."The Pandamonium".1 This heritage can be unlocked by reaching level 20 while causing physical damage with fists only.
-HeritageDescs."Arcane Gimmickry" Improves Trap Master talent so that it also works with magic traps.
-HeritageDescs."Arcane Gimmickry".1 This heritage can be unlocked by finding three or more hidden magic traps with the search button in a single game.
-HeritageDescs."Lightning Reflexes" Grants a +1 modifier to all reflex checks.
-HeritageDescs."Lightning Reflexes".1 This heritage can be unlocked by passing three or more reflex checks in a single game.
-HeritageDescs."Heroes of Hallwood" Increases physical resistance by 1.
-HeritageDescs."Heroes of Hallwood".1 This heritage can be unlocked by visiting the graves of all Heroes of Hallwood:
-HeritageDescs."Fire Resistant" Increases fire resistance by 1.
-HeritageDescs."Fire Resistant".1 This heritage can be unlocked by having %d or more points of fire resistance at any given time.
-HeritageDescs."Frost Resistant" Increases frost resistance by 1.
-HeritageDescs."Frost Resistant".1 This heritage can be unlocked by having %d or more points of frost resistance at any given time.
-HeritageDescs."Shock Resistant" Increases shock resistance by 1.
-HeritageDescs."Shock Resistant".1 This heritage can be unlocked by having %d or more points of shock resistance at any given time.
-HeritageDescs."Poison Resistant" Increases poison resistance by 1.
-HeritageDescs."Poison Resistant".1 This heritage can be unlocked by having %d or more points of poison resistance at any given time.
-HeritageDescs."Disease Resistant" Increases disease resistance by 1.
-HeritageDescs."Disease Resistant".1 This heritage can be unlocked by having %d or more points of disease resistance at any given time.
-HeritageDescs."Blissful Ignorance" Grants ability to use wands without learning how to read.
-HeritageDescs."Blissful Ignorance".1 This heritage can be unlocked by learning six talents without learning how to read.
-HeritageDescs."Celestial Mastery" Grants knowledge of one random Celestial spell at the start of the game.
-HeritageDescs."Celestial Mastery".1 This heritage can be unlocked by learning all Celestial spells in a single game.
-HeritageDescs."Draconic Mastery" Grants knowledge of one random Draconic spell at the start of the game.
-HeritageDescs."Draconic Mastery".1 This heritage can be unlocked by learning all Draconic spells in a single game.
-HeritageDescs."Infernal Mastery" Grants knowledge of one random Infernal spell at the start of the game.
-HeritageDescs."Infernal Mastery".1 This heritage can be unlocked by learning all Infernal spells in a single game.
-HeritageDescs."Arcane Mastery" Allows you to learn Arcane spells with Literacy: Common while using any amulet.
-HeritageDescs."Arcane Mastery".1 This heritage can be unlocked by learning all Arcane spells in a single game.
-HeritageDescs."Bestial Mastery" Allows you to learn Bestial spells with Literacy: Common and without levitation.
-HeritageDescs."Bestial Mastery".1 This heritage can be unlocked by learning all Bestial spells in a single game.
-HeritageDescs."Abyssal Mastery" Allows you to learn Abyssal spells with Literacy: Common and without sacrifice.
-HeritageDescs."Abyssal Mastery".1 This heritage can be unlocked by learning all Abyssal spells in a single game.
-HeritageDescs."Amulet Knowledge" Grants knowledge of all amulet effects at the start of the game.
-HeritageDescs."Amulet Knowledge".1 This heritage can be unlocked by learning all amulet effects in a single game.
-HeritageDescs."Ring Knowledge" Grants knowledge of all ring effects at the start of the game.
-HeritageDescs."Ring Knowledge".1 This heritage can be unlocked by learning all ring effects in a single game.
-HeritageDescs."Wand Knowledge" Grants knowledge of all wand effects at the start of the game.
-HeritageDescs."Wand Knowledge".1 This heritage can be unlocked by learning all wand effects in a single game.
-HeritageDescs."Scroll Knowledge" Grants knowledge of all scroll effects at the start of the game.
-HeritageDescs."Scroll Knowledge".1 This heritage can be unlocked by learning all scroll effects in a single game.
-HeritageDescs."Potion Knowledge" Grants knowledge of all potion effects at the start of the game.
-HeritageDescs."Potion Knowledge".1 This heritage can be unlocked by learning all potion effects in a single game.
-HeritageDescs."Enchant Knowledge" Grants knowledge of all enchant effects at the start of the game and gives you a 20% discount at the Wizards' Guild.
-HeritageDescs."Enchant Knowledge".1 This heritage can be unlocked by learning all enchant effects in a single game.
-HeritageDescs."Defile This" Allows you to enchant your black shirt or robe.
-HeritageDescs."Defile This".1 This heritage can be unlocked by wearing a black shirt or robe and defiling graves until you see something purple.
-HeritageDescs."Healthy Diet" Allows you to enchant your red shirt or robe.
-HeritageDescs."Healthy Diet".1 This heritage can be unlocked by wearing a red shirt or robe and eating some meat.
-HeritageDescs."Mighty Hulk" Allows you to enchant your green shirt or robe.
-HeritageDescs."Mighty Hulk".1 This heritage can be unlocked by wearing a green shirt or robe and destroying an item by throwing it to a wall.
-HeritageDescs."Loose Weight" Allows you to enchant your blue shirt or robe.
-HeritageDescs."Loose Weight".1 This heritage can be unlocked by wearing a blue shirt or robe and dropping an item while stuck in a water pit.
-HeritageDescs."The Wanderer" Allows you to enchant your orange shirt or robe.
-HeritageDescs."The Wanderer".1 This heritage can be unlocked by wearing an orange shirt or robe and wielding two swords at the same time.
-HeritageDescs."Three Tails" Allows you to enchant your yellow shirt or robe.
-HeritageDescs."Three Tails".1 This heritage can be unlocked by wearing a yellow shirt or robe and flipping a coin until you get three tails in a row.
-HeritageDescs."The Pink Order" Allows you to enchant your pink shirt or robe.
-HeritageDescs."The Pink Order".1 This heritage can be unlocked by wearing a pink shirt or robe and saying '%s' without the quotes on the chat.
-HeritageDescs."Big Bada Boom" Allows you to enchant your white shirt or robe.
-HeritageDescs."Big Bada Boom".1 This heritage can be unlocked by wearing a white shirt or robe and using a soul gem until you receive your multipass.
-HeritageDescs."Over 9000" Your shirt or robe is now blessed and it may contain two enchants.
-HeritageDescs."Over 9000".1 This heritage can be unlocked by obtaining a score of over 9000 after unlocking all 8 shirt heritages above.
-HeritageDescs."Gurmur's End" Gives you absolutely nothing since you obviously don't need any help.
-HeritageDescs."Gurmur's End".1 This heritage can be unlocked by killing Gurmur and interrupting the cultists' plan to take over the world.
-HeritageDescs."Canis Woofus" Gives you a dog named Woof at the start of the game.
-HeritageDescs."Canis Woofus".1 This heritage can be unlocked by killing a Dread Wolf.
-HeritageDescs."Familiaripathy" Allows you to see Woof's health bar.
-HeritageDescs."Familiaripathy".1 This heritage can be unlocked by taking a look at Woof while it is badly hurt or almost dead.
-HeritageDescs."Traps Are Bad" Makes Woof immune to snares.
-HeritageDescs."Traps Are Bad".1 This heritage can be unlocked by rescuing Woof from a pit.
-HeritageDescs."Hardened Skin" Grants Woof +1 physical resistance.
-HeritageDescs."Hardened Skin".1 This heritage can be unlocked by having Woof reach level 3.
-HeritageDescs."Winter Fur Coat" Upgrades Woof's Hardened Skin to +2 physical resistance and +1 chromatic resistance at level 3.
-HeritageDescs."Winter Fur Coat".1 This heritage can be unlocked by having Woof reach level 6.
-HeritageDescs."Arctic Fur Coat" Upgrades Woof's Hardened Skin to +3 physical resistance and +2 chromatic resistance at level 6.
-HeritageDescs."Arctic Fur Coat".1 This heritage can be unlocked by having Woof reach level 9.
-HeritageDescs."Ferocious Bite" Upgrades Woof's Vicious Bite to Ferocius Bite at level 9.
-HeritageDescs."Ferocious Bite".1 This heritage can be unlocked by having Woof reach level 12.
-HeritageDescs."Sharpened Fangs" Grants Woof +D3 physical damage at level 12.
-HeritageDescs."Sharpened Fangs".1 This heritage can be unlocked by having Woof reach level 15.
-HeritageDescs."Rare Breed" Grants Woof +1 agility and +1 stamina at the start of the game and Heroic Charge at level 3.
-HeritageDescs."Rare Breed".1 This heritage can be unlocked by having Woof kill a Dire Wolf.
-HeritageDescs."Epic Breed" Grants Woof +1 agility and +1 stamina at the start of the game and Strong Will at level 6.
-HeritageDescs."Epic Breed".1 This heritage can be unlocked by having Woof kill a monster.
+HeritageDescs."This heritage can't be unlocked on casual difficulty level." @(26)这项遗产无法在休闲难度级别下解锁。
+HeritageDescs."This heritage is not available on heroic difficulty level." @(26)这项遗产不能用于英雄难度级别。
+HeritageDescs."Wizard's Staff" @(26)在游戏开始时给游侠装备一把杖。
+HeritageDescs."Wizard's Staff".1 @(26)通过学习下列天赋可以解锁这项遗产：
+HeritageDescs."Bow and Arrows" @(26)在游戏开始时给游侠装备弓箭。
+HeritageDescs."Bow and Arrows".1 @(26)通过学习下列天赋可以解锁这项遗产：
+HeritageDescs."Throwing Knives" @(26)在游戏开始时给游侠装备三把飞刀。
+HeritageDescs."Throwing Knives".1 @(26)通过学习下列天赋可以解锁这项遗产：
+HeritageDescs."Sword and Buckler" @(26)在游戏开始时给游侠装备剑盾。
+HeritageDescs."Sword and Buckler".1 @(26)通过学习下列天赋可以解锁这项遗产：
+HeritageDescs."Leather Armour Set" @(26)在游戏开始时给游侠装备皮甲套装。
+HeritageDescs."Leather Armour Set".1 @(26)杀死任何一个巨怪可以解锁这项遗产。
+HeritageDescs."Leather Armour Set".2 @(26)注意：巨怪看起来要比一般的生物大的多。
+HeritageDescs."Potion of Antidote" @(26)在游戏开始时给游侠装备一瓶解毒药剂。
+HeritageDescs."Potion of Antidote".1 @(26)升级到等级 %d 可以解锁这项遗产。
+HeritageDescs."Potion of Healing" @(26)在游戏开始时给游侠装备一瓶治疗药剂。
+HeritageDescs."Potion of Healing".1 @(26)升级到等级 %d 可以解锁这项遗产。
+HeritageDescs."The Seventh Talent" @(26)读写：常识 作为第七项天赋，在游戏一开始就已经学会。
+HeritageDescs."The Seventh Talent".1 @(26)学会隐藏的第七天赋可以解锁这项遗产。
+HeritageDescs."The Interface Dog" @(26)在游戏一开始，给主手武器附上神圣祝福。
+HeritageDescs."The Interface Dog".1 @(26)浏览完所有的教程项目可以解锁这项遗产。
+HeritageDescs."The Silver Spoon" @(26)在游戏一开始，给主手武器进行一次随机附魔。
+HeritageDescs."The Silver Spoon".1 @(26)同时穿戴上 11 个附魔过的装备可以解锁这项遗产（衬衫和头巾不计入内）。
+HeritageDescs."One Strange Trip" @(26)获得针对蘑菇效果的免疫力。
+HeritageDescs."One Strange Trip".1 @(26)在升到 20 级之前，只吃血蘑菇可以解锁这项遗产。
+HeritageDescs."The Pandamonium" @(26)在被缴械后，获得使用下列天赋的技能：%s
+HeritageDescs."The Pandamonium".1 @(26)在升到 20 级之前，只使用拳头对敌人造成物理伤害可以解锁这项遗产。
+HeritageDescs."Arcane Gimmickry" @(26)增强陷阱大师天赋，让其可以作用于魔法陷阱。
+HeritageDescs."Arcane Gimmickry".1 @(26)在单局游戏中，用搜索按钮找到三个或更多魔法陷阱，可以解锁这项遗产。
+HeritageDescs."Lightning Reflexes" @(26)针对所有的反射检定，获得 +1 修正。
+HeritageDescs."Lightning Reflexes".1 @(26)在单局游戏中，通过三次或更多反射检定，可以解锁这项遗产。
+HeritageDescs."Heroes of Hallwood" @(26)物理抗性提升 1 。
+HeritageDescs."Heroes of Hallwood".1 @(26)拜访所有的圣林英雄之墓，可以解锁这项遗产：
+HeritageDescs."Fire Resistant" @(26)火焰抗性提升 1 。
+HeritageDescs."Fire Resistant".1 @(26)在任何时刻拥有 %d 或更高的火焰抗性可以解锁这项遗产。
+HeritageDescs."Frost Resistant" @(26)冰霜抗性提升 1 。
+HeritageDescs."Frost Resistant".1 @(26)在任何时刻拥有 %d 或更高的冰霜抗性可以解锁这项遗产。
+HeritageDescs."Shock Resistant" @(26)震击抗性提升 1 。
+HeritageDescs."Shock Resistant".1 @(26)在任何时刻拥有 %d 或更高的震击抗性可以解锁这项遗产。
+HeritageDescs."Poison Resistant" @(26)毒害抗性提升 1 。
+HeritageDescs."Poison Resistant".1 @(26)在任何时刻拥有 %d 或更高的毒害抗性可以解锁这项遗产。
+HeritageDescs."Disease Resistant" @(26)疾病抗性提升 1 。
+HeritageDescs."Disease Resistant".1 @(26)在任何时刻拥有 %d 或更高的疾病抗性可以解锁这项遗产。
+HeritageDescs."Blissful Ignorance" @(26)在没有学习读写前就获得使用魔杖的能力。
+HeritageDescs."Blissful Ignorance".1 @(26)在学习读写前学习六项天赋可以获得这项遗产。
+HeritageDescs."Celestial Mastery" @(26)在游戏开始时获得一个随机天使系法术的知识。
+HeritageDescs."Celestial Mastery".1 @(26)在单局游戏中学会所有的天使系法术可以解锁这项遗产。
+HeritageDescs."Draconic Mastery" @(26)在游戏开始时获得一个随机龙系法术的知识。
+HeritageDescs."Draconic Mastery".1 @(26)在单局游戏中学会所有的龙系法术可以解锁这项遗产。
+HeritageDescs."Infernal Mastery" @(26)在游戏开始时获得一个随机地狱系法术的知识。
+HeritageDescs."Infernal Mastery".1 @(26)在单局游戏中学会所有的地狱系法术可以解锁这项遗产。
+HeritageDescs."Arcane Mastery" @(26)允许你在使用任何护符时，依靠读写：常识就能学习奥术。
+HeritageDescs."Arcane Mastery".1 @(26)在单局游戏中学会所有的奥术可以解锁这项遗产。
+HeritageDescs."Bestial Mastery" @(26)允许你依靠读写：常识就能学习兽性法术，而不必漂浮。
+HeritageDescs."Bestial Mastery".1 @(26)在单局游戏中学会所有的兽性法术可以解锁这项遗产。
+HeritageDescs."Abyssal Mastery" @(26)允许你依靠读写：常识就能学习深渊系法术，而不必献祭。
+HeritageDescs."Abyssal Mastery".1 @(26)在单局游戏中学会所有的深渊法术可以解锁这项遗产。
+HeritageDescs."Amulet Knowledge" @(26)在游戏开始获得所有护符效果的知识。
+HeritageDescs."Amulet Knowledge".1 @(26)在单局游戏中学会所有的护符效果可以解锁这项遗产。
+HeritageDescs."Ring Knowledge" @(26)在游戏开始获得所有戒指效果的知识。
+HeritageDescs."Ring Knowledge".1 @(26)在单局游戏中学会所有的戒指效果可以解锁这项遗产。
+HeritageDescs."Wand Knowledge" @(26)在游戏开始获得所有魔杖效果的知识。
+HeritageDescs."Wand Knowledge".1 @(26)在单局游戏中学会所有的魔杖效果可以解锁这项遗产。
+HeritageDescs."Scroll Knowledge" @(26)在游戏开始获得所有卷轴效果的知识。
+HeritageDescs."Scroll Knowledge".1 @(26)在单局游戏中学会所有的卷轴效果可以解锁这项遗产。
+HeritageDescs."Potion Knowledge" @(26)在游戏开始获得所有药剂效果的知识。
+HeritageDescs."Potion Knowledge".1 @(26)在单局游戏中学会所有的药剂效果可以解锁这项遗产。
+HeritageDescs."Enchant Knowledge" @(26)在游戏开始获得所有附魔效果的知识，法师行会可以给你八折优惠。
+HeritageDescs."Enchant Knowledge".1 @(26)在单局游戏中学会所有的附魔效果可以解锁这项遗产。
+HeritageDescs."Defile This" @(26)允许你对你的黑色衬衫和头巾进行附魔。
+HeritageDescs."Defile This".1 @(26)解锁这项遗产需要你在穿着黑色衬衫或头巾时，把坟墓弄脏直到看到某些紫色的东西。
+HeritageDescs."Healthy Diet" @(26)允许你对你的红色衬衫和头巾进行附魔。
+HeritageDescs."Healthy Diet".1 @(26)解锁这项遗产需要你在穿着红色衬衫或头巾时吃肉。
+HeritageDescs."Mighty Hulk" @(26)允许你对你的绿色衬衫和头巾进行附魔。
+HeritageDescs."Mighty Hulk".1 @(26)解锁这项遗产需要你在穿着绿色衬衫或头巾时把一件物品扔到墙上摔碎。
+HeritageDescs."Loose Weight" @(26)允许你对你的蓝色衬衫和头巾进行附魔。
+HeritageDescs."Loose Weight".1 @(26)解锁这项遗产需要你在穿着蓝色衬衫或头巾时掉到水坑中抛弃一件物品。
+HeritageDescs."The Wanderer" @(26)允许你对你的橙色衬衫和头巾进行附魔。
+HeritageDescs."The Wanderer".1 @(26)解锁这项遗产需要你在穿着橙色衬衫或头巾时同时拿着两把剑。
+HeritageDescs."Three Tails" @(26)允许你对你的黄色衬衫和头巾进行附魔。
+HeritageDescs."Three Tails".1 @(26)解锁这项遗产需要你在穿着黄色衬衫或头巾时抛投硬币，直到连续掷出三个反面。
+HeritageDescs."The Pink Order" @(26)允许你对你的粉色衬衫和头巾进行附魔。
+HeritageDescs."The Pink Order".1 @(26)解锁这项遗产需要你在穿着粉色衬衫或头巾时，在聊天频道说出 '%s' （不带引号）。
+HeritageDescs."Big Bada Boom" @(26)允许你对你的白色衬衫和头巾进行附魔。
+HeritageDescs."Big Bada Boom".1 @(26)解锁这项遗产需要你在穿着白色衬衫或头巾时使用魂晶，知道你获得你的多通道。
+HeritageDescs."Over 9000" @(26)你的衬衫和头巾现在被神圣祝福过了，可以进行两次附魔。
+HeritageDescs."Over 9000".1 @(26)解锁这项遗产需要在你解锁以上八项遗产后，获得 9000 分以上。
+HeritageDescs."Gurmur's End" @(26)既然你明显不需要任何帮助，那么当然什么也给不了你。
+HeritageDescs."Gurmur's End".1 @(26)杀死咕呣终止邪教徒征服世界的计划可以解锁这项遗产。
+HeritageDescs."Canis Woofus" @(26)在游戏开始给你一只叫汪汪的狗。
+HeritageDescs."Canis Woofus".1 @(26)杀死骇狼可以解锁这项遗产。
+HeritageDescs."Familiaripathy" @(26)允许你看见汪汪的血条。
+HeritageDescs."Familiaripathy".1 @(26)在汪汪收到严重伤害或濒死时看它一眼可以解锁这项遗产。
+HeritageDescs."Traps Are Bad" @(26)让汪汪免疫陷阱。
+HeritageDescs."Traps Are Bad".1 @(26)从深坑中救出汪汪可以解锁这项遗产。
+HeritageDescs."Hardened Skin" @(26)汪汪获得 +1 物理抗性。
+HeritageDescs."Hardened Skin".1 @(26)把汪汪升到 3 级可以获得这项遗产。
+HeritageDescs."Winter Fur Coat" @(26)在等级 3 时，升级汪汪的硬化皮肤为 +2 物理抗性 +1 魔法抗性。
+HeritageDescs."Winter Fur Coat".1 @(26)把汪汪升到 6 级可以获得这项遗产。
+HeritageDescs."Arctic Fur Coat" @(26)在等级 6 时，升级汪汪的硬化皮肤为 +3 物理抗性 +2 魔法抗性。
+HeritageDescs."Arctic Fur Coat".1 @(26)把汪汪升到 9 级可以获得这项遗产。
+HeritageDescs."Ferocious Bite" @(26)在等级 9 时，将汪汪的恶毒之咬升级为暴虐之咬。
+HeritageDescs."Ferocious Bite".1 @(26)把汪汪升到 12 级可以获得这项遗产。
+HeritageDescs."Sharpened Fangs" @(26)汪汪在等级 12 时获得 +D3 物理伤害。
+HeritageDescs."Sharpened Fangs".1 @(26)把汪汪升到 15 级可以获得这项遗产。
+HeritageDescs."Rare Breed" @(26)汪汪在游戏开始时获得 +1 敏捷 +1 耐力，在等级 3 时获得英勇冲锋。
+HeritageDescs."Rare Breed".1 @(26)让汪汪杀死骇狼可以解锁这项遗产。
+HeritageDescs."Epic Breed" @(26)汪汪在游戏开始时获得 +1 敏捷 +1 耐力，在等级 6 时获得坚强意志。
+HeritageDescs."Epic Breed".1 @(26)让汪汪杀死一个巨怪可以解锁这项遗产。
 HeritageDescs."Craftalicious" @(26)允许玩家在工匠行会内制造物品（并在拾取表中开启制造物）。
 HeritageDescs."Craftalicious".1 @(26)这个遗产可以通过解救鲁班大师并带他回城来解锁。
-HeritageDescs."Artisans' Guild now crafts blessed versions of the following items:%s" Artisans' Guild now crafts blessed versions of the following items:%s
-HeritageDescs."Artisans' Guild now crafts blessed versions of the following items:%s".1 This heritage can be unlocked by crafting all of the items marked with an asterisk in a single game.
-HeritageDescs."Patron of Arts" Crafted items are now enchanted and the enchant is guaranteed to be appropriate for the item as well as the player.
-HeritageDescs."Patron of Arts".1 This heritage can be unlocked by donating four or more unique items to the Artisans' Guild in a single game.
-HeritageDescs."Spiritual Guidance" Allows you to use spirit totems without killing bears for spiritual attunement.
-HeritageDescs."Spiritual Guidance".1 This heritage can be unlocked by learning the following talents:%s
-HeritageDescs."Spiritual Guidance".2 Spiritually attuned:
-HeritageDescs."Bestial Vigour" Improves bestial wrath talent so that it also casts renewing touch on you when you shapeshift.
-HeritageDescs."Bestial Vigour".1 This heritage can be unlocked by regaining over %d points of health while shapeshifted and in combat.
-HeritageDescs."Bestial Vigour".2 Health regained:
-HeritageDescs."Leader of the Pack" Improves bestial wrath talent so that it also heals all your beast friends while shapeshifted.
-HeritageDescs."Leader of the Pack".1 This heritage can be unlocked by shapeshifting while having %d or more beast friends.
-HeritageDescs."That's Grizzly" Increases strength by 1 in bear form.
-HeritageDescs."That's Grizzly".1 This heritage can be unlocked by having a strength modifier of +5 or more when you shapeshift into a bear.
-HeritageDescs."Ursus Horribilis" Adds an instant kill effect to your attacks in bear form.
-HeritageDescs."Ursus Horribilis".1 This heritage can be unlocked by killing a full health human with a single hit in bear form at level 20.
-HeritageDescs."Blood Frenzy" Casts renewing touch on you when you critically hit in bear form.
-HeritageDescs."Blood Frenzy".1 This heritage can be unlocked by critically hitting any of the named encounter bosses in bear form.
-HeritageDescs."Lupine Grace" Increases agility by 1 in wolf form.
-HeritageDescs."Lupine Grace".1 This heritage can be unlocked by having an agility modifier of +5 or more when you shapeshift into a wolf.
-HeritageDescs."Vampiric Bite" Adds a leech effect to your attacks in wolf form.
-HeritageDescs."Vampiric Bite".1 This heritage can be unlocked by eating a dread bat that has leeched life from you while you are in wolf form.
-HeritageDescs."Face Muncher" Casts renewing touch on you when you critically hit in wolf form.
-HeritageDescs."Face Muncher".1 This heritage can be unlocked by killing a full health human with a critical hit in wolf form at level 20.
-HeritageDescs."Monster Chow" Increases health and energy while shapeshifted.
-HeritageDescs."Monster Chow".1 This heritage can be unlocked by killing %d monsters and eating their corpses while shapeshifted.
-HeritageDescs."Monster Chow".2 Note that shapeshifting resets the counter and this must be completed in one shift.
-HeritageDescs."Monster Chow".3 Monsters eaten:
-HeritageDescs."Second Amendment" Allows you to learn spells from Arcane tomes while having a matching amulet equipped (*).
-HeritageDescs."Second Amendment".1 Once you have learned an Arcane spell you can cast it while having any amulet equipped.
-HeritageDescs."Second Amendment".2 This heritage can be unlocked by donating an item from the future to the Artisan's Guild.
-HeritageDescs."Second Amendment".3 (*) Note that you will also need to know Literacy: Common and one of the other literacies.
-HeritageDescs."Rise of Fairies" Allows you to learn spells from Bestial tomes with a Fairy Jizzed Bull Horn while levitating (*).
-HeritageDescs."Rise of Fairies".1 Once you have learned a Bestial spell you can cast it while having a horn in your backpack.
-HeritageDescs."Rise of Fairies".2 This heritage can be unlocked by attempting to donate an unidentified horn to the Artisan's Guild.
-HeritageDescs."Rise of Fairies".3 (*) Note that you will also need to know Literacy: Common and one of the other literacies.
-HeritageDescs."Wester Worshipper" Allows you to learn spells from Abyssal tomes with an Engraved Pyramidion and a sacrifice (*).
-HeritageDescs."Wester Worshipper".1 Once you have learned an Abyssal spell you can cast it while having a pyramidion in your backpack.
-HeritageDescs."Wester Worshipper".2 This heritage can be unlocked by attempting to donate an unidentified pyramidion to the Artisan's Guild.
-HeritageDescs."Wester Worshipper".3 (*) Note that you will also need to know Literacy: Common and one of the other literacies.
+HeritageDescs."Artisans' Guild now crafts blessed versions of the following items:%s" @(26)工匠行会现在可以制造下列物品的神圣版本：%s
+HeritageDescs."Artisans' Guild now crafts blessed versions of the following items:%s".1 @(26)在单局游戏中制造出所有标记有星号的物品可以解锁这项遗产。
+HeritageDescs."Patron of Arts" @(26)制造出的物品现在自动附魔，附魔效果保证是最适合该物品的。
+HeritageDescs."Patron of Arts".1 @(26)在单局游戏中向工匠行会捐赠四个或更多的独特物品可以解锁这项遗产。
+HeritageDescs."Spiritual Guidance" @(26)允许你不必杀死熊进行心灵调和就可以使用心灵图腾。
+HeritageDescs."Spiritual Guidance".1 @(26)学习下列天赋可以解说这项遗产：%s
+HeritageDescs."Spiritual Guidance".2 @(26)心灵已协调：
+HeritageDescs."Bestial Vigour" @(26)增强狂野怒火天赋，在你变形时同时会施放一个回复之触。
+HeritageDescs."Bestial Vigour".1 @(26)在变形战斗过程中，获得超过 %d 点生命可以解锁这项遗产。
+HeritageDescs."Bestial Vigour".2 @(26)获得生命：
+HeritageDescs."Leader of the Pack" @(26)增强狂野怒火天赋，在你变形时治疗你所有的野兽伙伴。
+HeritageDescs."Leader of the Pack".1 @(26)在你变形的同时拥有 %d 或更多的野兽伙伴可以解锁这项遗产。
+HeritageDescs."That's Grizzly" @(26)熊形态增加 1 力量。
+HeritageDescs."That's Grizzly".1 @(26)当你变形为熊的时候拥有 +5 力量修正可以解锁这项遗产。
+HeritageDescs."Ursus Horribilis" @(26)熊形态的攻击附加一个即死效果。
+HeritageDescs."Ursus Horribilis".1 @(26)在等级 20 时的熊形态下，一击杀死一个满血的人类，可以解锁这项遗产。
+HeritageDescs."Blood Frenzy" @(26)熊形态下发出暴击的同时为你施放一个回复之触。
+HeritageDescs."Blood Frenzy".1 @(26)在遭遇战中，以熊形态暴击一个有名的首领，可以解锁这项遗产。
+HeritageDescs."Lupine Grace" @(26)狼形态增加 1 敏捷。
+HeritageDescs."Lupine Grace".1 @(26)当你变形为狼的时候拥有 +5 敏捷修正可以解锁这项遗产。
+HeritageDescs."Vampiric Bite" @(26)狼形态的攻击附加一个吸血效果。
+HeritageDescs."Vampiric Bite".1 @(26)当你在狼形态时吃掉一只曾经吸过你的生命的蝙蝠可以解锁这项遗产。
+HeritageDescs."Face Muncher" @(26)狼形态下发出暴击的同时为你施放一个回复之触。
+HeritageDescs."Face Muncher".1 @(26)在等级 20 时的狼形态下，一击杀死一个满血的人类，可以解锁这项遗产。
+HeritageDescs."Monster Chow" @(26)在变形时增加生命值和精力。
+HeritageDescs."Monster Chow".1 @(26)在变形后杀死 %d 个巨怪并吃掉它们的尸体。
+HeritageDescs."Monster Chow".2 @(26)注意：施展变形术将充值计数器，因此必须在一次变形中完成。
+HeritageDescs."Monster Chow".3 @(26)吃掉的巨怪：
+HeritageDescs."Second Amendment" @(26)允许你在装备有对应的护符时，从奥术典籍中学习法术 (*)。
+HeritageDescs."Second Amendment".1 @(26)一旦你学会了一门奥术，你可以在装备有任意护符时施放它。
+HeritageDescs."Second Amendment".2 @(26)你从未来捐赠任意一个物品给工匠行会可以解锁这项遗产。
+HeritageDescs."Second Amendment".3 @(26)(*) 注意：你需要读写：常识以及另一项读写天赋。
+HeritageDescs."Rise of Fairies" @(26)允许你通过精灵遗弃的牛角在浮空时从兽性典籍中学习法术 (*)。
+HeritageDescs."Rise of Fairies".1 @(26)一旦你学会了一门兽性法术，你就可以在背包中有牛角时施放它。
+HeritageDescs."Rise of Fairies".2 @(26)向工匠行会捐赠一个未鉴定的牛角可以解锁这项遗产。
+HeritageDescs."Rise of Fairies".3 @(26)(*) 注意：你需要读写：常识以及另一项读写天赋。
+HeritageDescs."Wester Worshipper" @(26)允许你通过一个雕花金字塔和一次献祭从深渊典籍中学习法术 (*)。
+HeritageDescs."Wester Worshipper".1 @(26)一旦你学会了一门深渊法术，你就可以在背包中有金字塔时施放它。
+HeritageDescs."Wester Worshipper".2 @(26)向工匠行会捐赠一个未鉴定的金字塔可以解锁这项遗产。
+HeritageDescs."Wester Worshipper".3 @(26)(*) 注意：你需要读写：常识以及另一项读写天赋。
 ChallengeNames."Bottled Rage" Bottled Rage
 ChallengeNames."One Stray Shot" One Stray Shot
 ChallengeNames."The Curve Ball" The Curve Ball
