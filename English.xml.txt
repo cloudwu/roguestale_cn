@@ -2804,7 +2804,7 @@ TileLogs."YOU_SEE_GATE_TRIGGER" You see %s that seems to be connected to a gate 
 RIPTitles."Here lies %s." %s 在此长眠。
 RIPTitles."Here lies %s the %s." %s %s 在此长眠。
 RIPTitles."Here lies %s from %s %s." %s 在此长眠，来自 %s %s 。
-RIPTitles."----------" ----------
+RIPTitles."----------" ——————————
 RIPTitles."Archer" 射手
 RIPTitles."Bowman" 弓箭手
 RIPTitles."Champion" 冠军
@@ -3870,17 +3870,17 @@ StatusBarAnim."RESISTANCE_DESC" @(44)从左至右共有六项抗性：物理、�
 StatusBarAnim."RESISTANCE_DESC".1 @(44)左右两项值分别表示针对暴击（头部）和普通攻击（身体）的抗性。
 StatusBarAnim."RESISTANCE_DESC".2 @(44)除了攻击部位不同，暴击还会引起混乱、缴械、导致流血。
 StatusBarAnim."RESISTANCE_DESC".3 @(44)注意：带上一个封闭型头盔可以让混乱效果的持续时间减半。
-ConsoleAnim."Type the name of your legendary weapon or press %s to cancel:" Type the name of your legendary weapon or press %s to cancel:
-ConsoleAnim."You can't give a blank name to your weapon." You can't give a blank name to your weapon.
-CursorAnim."Select a target to attack at and press %s:" Select a target to attack at and press %s:
-CursorAnim."You can't shoot with that before rearming." You can't shoot with that before rearming.
-CursorAnim."shoot" shoot
-CursorAnim."Select a target to %s at and press %s:" Select a target to %s at and press %s:
-CursorAnim."You can't make ranged attacks without a ranged weapon." You can't make ranged attacks without a ranged weapon.
-CursorAnim."You can't attack yourself." You can't attack yourself.
-CursorAnim."You can't attack empty spaces." You can't attack empty spaces.
-CursorAnim."You can't shoot at yourself." You can't shoot at yourself.
-CursorAnim."You can't throw at yourself." You can't throw at yourself.
+ConsoleAnim."Type the name of your legendary weapon or press %s to cancel:" 为你的传奇武器命名，或是按下 %s 取消：
+ConsoleAnim."You can't give a blank name to your weapon." 你不能给你的武器取一个空白名字。
+CursorAnim."Select a target to attack at and press %s:" 选择一个攻击目标，然后按下 %s：
+CursorAnim."You can't shoot with that before rearming." 你不能在重新装弹前射击。
+CursorAnim."shoot" 射击
+CursorAnim."Select a target to %s at and press %s:" 选择一个%s的目标然后按下 %s：
+CursorAnim."You can't make ranged attacks without a ranged weapon." 你不能在未装备远程武器时进行远程攻击。
+CursorAnim."You can't attack yourself." 你不能攻击自己。
+CursorAnim."You can't attack empty spaces." 你不能攻击空位。
+CursorAnim."You can't shoot at yourself." 你不能射击自己。
+CursorAnim."You can't throw at yourself." 你不能对自己投掷。
 EffectAnim."Oogled" You are oogled.
 EffectAnim."Divine Grace" It increases agility and charisma by 1 and physical, poison and disease resistances by 1.
 EffectAnim."Divine Might" It increases strength and stamina by 1 and fire, frost and shock resistances by 1.
