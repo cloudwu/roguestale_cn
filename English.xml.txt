@@ -1361,19 +1361,19 @@ ItemLogs."You don't have enough free space for those %s." You don't have enough 
 ItemLogs."You don't have enough free space for %s." You don't have enough free space for %s.
 ItemLogs."You can't place those those %s there." You can't place those those %s there.
 ItemLogs."You can't place %s there." You can't place %s there.
-ItemSets."Re-roll failed snare checks." Re-roll failed snare checks.
-ItemSets."Re-roll failed sneak checks." Re-roll failed sneak checks.
-ItemSets."Re-roll failed persuasion checks." Re-roll failed persuasion checks.
-ItemSets."Re-roll failed intimidation checks." Re-roll failed intimidation checks.
-ItemSets."Grants immunity to disarm." Grants immunity to disarm.
-ItemSets."Re-roll clearcast (Celestial)." Re-roll clearcast (Celestial).
-ItemSets."Re-roll clearcast (Draconic)." Re-roll clearcast (Draconic).
-ItemSets."Re-roll clearcast (Infernal)." Re-roll clearcast (Infernal).
-ItemSets."Reduce Arcane cooldown by 50%." Reduce Arcane cooldown by 50%.
-ItemSets."Reduce Bestial cooldown by 50%." Reduce Bestial cooldown by 50%.
-ItemSets."Reduce Abyssal cooldown by 50%." Reduce Abyssal cooldown by 50%.
-ItemSets."Heals D6 points per turn." Heals D6 points per turn.
-ItemSets."Befriend daemons." Befriend daemons.
+ItemSets."Re-roll failed snare checks." 重掷陷阱检定。
+ItemSets."Re-roll failed sneak checks." 重掷潜行检定。
+ItemSets."Re-roll failed persuasion checks." 重掷失败的说服检定。
+ItemSets."Re-roll failed intimidation checks." 重掷失败的恐吓检定。
+ItemSets."Grants immunity to disarm." 获得免疫缴械。
+ItemSets."Re-roll clearcast (Celestial)." 重掷沉静施法（天使系）。
+ItemSets."Re-roll clearcast (Draconic)." 重掷沉静施法（龙系）。
+ItemSets."Re-roll clearcast (Infernal)." 重掷沉静施法（地狱系）。
+ItemSets."Reduce Arcane cooldown by 50%." 减少奥术冷却时间 50% 。
+ItemSets."Reduce Bestial cooldown by 50%." 减少兽性法术冷却时间 50% 。
+ItemSets."Reduce Abyssal cooldown by 50%." 减少深渊法术冷却时间 50% 。
+ItemSets."Heals D6 points per turn." 每回合治疗 D6 点。
+ItemSets."Befriend daemons." 成为恶魔的朋友。
 AddonNames."Padded Spaulders" 棉护肩
 AddonNames."Leather Spaulders" 皮护肩
 AddonNames."Studded Spaulders" 札甲护肩
@@ -1849,49 +1849,49 @@ PotionNames."Potion of Stamina" 耐力药剂
 PotionNames."Potion of Charisma" 魅力药剂
 PotionNames."Potion of Clotting" 凝血药剂
 PotionNames."Potion of Floating" 漂浮药剂
-PotionDescs."PotionDesc" Remember that most potions are made by mixing mucus and excrements of some unspecified animal.
-PotionDescs."Potion of Antidote" Contains a mixture that smells and tastes bad enough to cure poisons and diseases.
-PotionDescs."Potion of Awareness" Contains a lovely tonic that causes your pupils to dilate beyond normal range.
-PotionDescs."Potion of Blindness" Contains blinding poison. How and where it is made remains a mystery though.
-PotionDescs."Potion of Burning" Contains a vitriolic and oily substance that burns your skin when touched.
-PotionDescs."Potion of Charming" Contains charming poison. How and where it is made remains a mystery though.
-PotionDescs."Potion of Confusion" Contains confusing poison. How and where it is made remains a mystery though.
-PotionDescs."Potion of Deafness" Contains deafening poison. How and where it is made remains a mystery though.
-PotionDescs."Potion of Death" Contains deadly poison. How and where it is made remains a mystery though.
-PotionDescs."Potion of Draining" Contains draining poison. How and where it is made remains a mystery though.
-PotionDescs."Potion of Energy" Contains a pleasant extract made from stimulating Erythroxylum leaves.
-PotionDescs."Potion of Healing" Contains a sweet sparkling soft drink that is made exclusively from vegetable extracts.
-PotionDescs."Potion of Holy Water" Contains water but for some reason it does not quench thirst if drunk, go figure.
-PotionDescs."Potion of Insight" Contains a strong and salty alcoholic beverage that supposedly expands your mind.
-PotionDescs."Potion of Leeching" Contains leeching poison. How and where it is made remains a mystery though.
-PotionDescs."Potion of Literacy" Contains just another pink fluid that teaches why we don't need no education.
-PotionDescs."Potion of Paralysis" Contains paralytic poison. How and where it is made remains a mystery though.
-PotionDescs."Potion of Sickness" Contains infected animal excrements that are known to cause various diseases.
-PotionDescs."Potion of Silencing" Contains silencing poison. How and where it is made remains a mystery though.
-PotionDescs."Potion of Sleeping" Contains sleeping poison. How and where it is made remains a mystery though.
-PotionDescs."Potion of Slowness" Contains slowing poison. How and where it is made remains a mystery though.
-PotionDescs."Potion of Swiftness" Contains dead bull juice that makes you so fast that it feels like having wings.
-PotionDescs."Potion of Troll Blood" Contains the most appalling liquid you have ever seen (not counting your own snot).
-PotionDescs."Potion of Willpower" Contains the power extracted from a single hair of Putimir 'the Bear' Vladin.
-PotionDescs."Potion of Wolf Form" Contains stuff that makes you instinctively howl even when you only smell it.
-PotionDescs."Potion of Strength" Contains a mixture that makes you stronger than you were like a minute ago.
-PotionDescs."Potion of Agility" Contains something that makes you smoother than a backwards walking pedophile.
-PotionDescs."Potion of Stamina" Contains 'Niagra', which would be awesome if there were any action available.
-PotionDescs."Potion of Charisma" Contains anti-wrinkle ointment that probably should be applied on your skin.
-PotionDescs."Potion of Clotting" Contains slightly poisonous mixture that stops you from bleeding.
-PotionDescs."Potion of Floating" Contains floater blood that makes you levitate.
-PotionLogs."You apply %s on your %s." You apply %s on your %s.
-PotionLogs."%s magically refills." %s magically refills.
-PotionLogs."You drink %s." You drink %s.
-PotionLogs."You drink an unknown potion." You drink an unknown potion.
-PotionLogs."The potion breaks and its contents splash on %s." The potion breaks and its contents splash on %s.
-PotionLogs."energised effect" energised effect
-PotionLogs."vitalised effect" vitalised effect
-PotionLogs."insightful effect" insightful effect
-PotionLogs."hastened effect" hastened effect
-PotionLogs."regeneration effect" regeneration effect
-PotionLogs."levitation effect" levitation effect
-PotionLogs."bleed effect" bleed effect
+PotionDescs."PotionDesc" @(30)记住，大多数药剂是由一些不明动物的粘液和排泄物混合而成的。
+PotionDescs."Potion of Antidote" @(30)里面是一种混合物，气味和味道都很糟糕，但可以解毒祛病。
+PotionDescs."Potion of Awareness" @(30)里面是一种可爱的滋补品，使您的瞳孔扩大超出正常范围。
+PotionDescs."Potion of Blindness" @(30)里面是一种致盲的毒药。它从何而来，怎样制造的仍然是个谜。
+PotionDescs."Potion of Burning" @(30)里面是一种硫酸和油性物质，皮肤触碰到会被灼伤。
+PotionDescs."Potion of Charming" @(30)里面是一种迷人的毒药。它从何而来，怎样制造的仍然是个谜。
+PotionDescs."Potion of Confusion" @(30)里面是混乱毒药。它从何而来，怎样制造的仍然是个谜。
+PotionDescs."Potion of Deafness" @(30)里面是致聋毒药。它从何而来，怎样制造的仍然是个谜。
+PotionDescs."Potion of Death" @(30)里面是死亡毒药。它从何而来，怎样制造的仍然是个谜。
+PotionDescs."Potion of Draining" @(30)里面是噬精毒药。它从何而来，怎样制造的仍然是个谜。
+PotionDescs."Potion of Energy" @(30)里面是一种从古柯叶总提取出来的刺激性物质，能令人愉快。
+PotionDescs."Potion of Healing" @(30)里面是一种甜的起泡软饮料，完全由植物提取物制成。
+PotionDescs."Potion of Holy Water" @(30)里面含有水分，但由于某些原因，它不解渴。如果喝了，猜猜看吧。
+PotionDescs."Potion of Insight" @(30)里面是一种非常咸的酒精饮料，据说可以开阔你的思维。
+PotionDescs."Potion of Leeching" @(30)里面是吸血毒药。它从何而来，怎样制造的仍然是个谜。
+PotionDescs."Potion of Literacy" @(30)里面是另一种粉色液体，它能告诉我们为什么不需要教育。
+PotionDescs."Potion of Paralysis" @(30)里面是麻痹毒药。它从何而来，怎样制造的仍然是个谜。
+PotionDescs."Potion of Sickness" @(30)里面有已知可引起多种疾病的受感染动物粪便。
+PotionDescs."Potion of Silencing" @(30)里面是沉默毒药。它从何而来，怎样制造的仍然是个谜。
+PotionDescs."Potion of Sleeping" @(30)里面是沉睡毒药。它从何而来，怎样制造的仍然是个谜。
+PotionDescs."Potion of Slowness" @(30)里面是迟缓毒药。它从何而来，怎样制造的仍然是个谜。
+PotionDescs."Potion of Swiftness" @(30)里面是死牛汁，它可以让你跑得飞快，感觉就像长了翅膀。
+PotionDescs."Potion of Troll Blood" @(30)里面是你所见过的最可怕的液体（不包括你自己的鼻涕）。
+PotionDescs."Potion of Willpower" @(30)里面的液体有着从“大熊”普蒂尔的一根头发中提取出来的力量。
+PotionDescs."Potion of Wolf Form" @(30)里面的液体闻一闻就会让你本能地狼嚎。
+PotionDescs."Potion of Strength" @(30)里面有一种混合物，瞬间就能让你更强壮。
+PotionDescs."Potion of Agility" @(30)里面有一些东西，可以让你比一个倒着走路的恋童癖者更灵活。
+PotionDescs."Potion of Stamina" @(30)里面是“尼亚加拉”，如果能用它做点什么就太棒了。
+PotionDescs."Potion of Charisma" @(30)里面是抗皱软膏，可能应该能用在你的皮肤上。
+PotionDescs."Potion of Clotting" @(30)里面是一种轻微的有毒混合物，可以防止出血。
+PotionDescs."Potion of Floating" @(30)里面是浮游类的血，可以让你浮空。
+PotionLogs."You apply %s on your %s." 你把%s敷在你的%s。
+PotionLogs."%s magically refills." %s神奇般的重新装满了。
+PotionLogs."You drink %s." 你喝掉了%s。
+PotionLogs."You drink an unknown potion." 你喝了一瓶未知的药剂。
+PotionLogs."The potion breaks and its contents splash on %s." 药瓶破碎了，里面的液体溅到%s身上。
+PotionLogs."energised effect" 精力充沛的效果
+PotionLogs."vitalised effect" 活力激发的效果
+PotionLogs."insightful effect" 顿悟的效果
+PotionLogs."hastened effect" 加速的效果
+PotionLogs."regeneration effect" 再生的效果
+PotionLogs."levitation effect" 浮空的效果
+PotionLogs."bleed effect" 流血的效果
 RingNames."Ring" 戒指
 RingNames."Ring of Ebbin" 艾宾之戒
 RingNames."Ring of Accuracy" 精准之戒
@@ -1925,51 +1925,51 @@ RingNames."Ring of Shadows" 暗影之戒
 RingNames."Ring of Shielding" 护盾之戒
 RingNames."Ring of Underdog" 弱势之戒
 RingDescs."RingDesc" @(30)除了用于标示已成为配偶的奴隶，有些戒指还能提供一些强力效果。
-RingDescs."Ring of Ebbin" 另一个统治世界的戒指。这是你的最爱！
-RingDescs."Ring of Accuracy" 允许佩戴者在远程武器和投掷武器射失时重掷命中骰。
-RingDescs."Ring of Adornment" 看起来令人印象深刻，但没有魔法力量。
-RingDescs."Ring of Brutality" 允许佩戴者在近战武器击空后重掷命中骰。
-RingDescs."Ring of Clarity" 获得对盲眼，耳聋，沉默效果的免疫力。
-RingDescs."Ring of Control" 获得对魅惑，混乱，麻痹效果的免疫力。
-RingDescs."Ring of Deflection" 加倍佩戴者的招架修正。这个效果无法叠加。
-RingDescs."Ring of Elements" 获得对火焰，冰霜，震击效果的免疫力。
-RingDescs."Ring of Evasion" 将格挡，闪避或招架修正之一加 1 。这个效果无法叠加。
-RingDescs."Ring of Familiar" 装备时召唤并控制一只幼龙。当幼龙死亡时，戒指也会同时摧毁。
-RingDescs."Ring of Fortitude" 获得对沉睡和恐惧效果的免疫力。
-RingDescs."Ring of Freedom" 获得对迟缓，击退，变形效果的免疫力。
-RingDescs."Ring of Grease" 强制佩戴者在远程命中后重掷命中骰。这枚戒指无法取下。
-RingDescs."Ring of Haste" 获得一个加速效果，但食物和水的消耗速度加倍。
-RingDescs."Ring of Hunger" 三倍食物消耗速度。这枚戒指无法取下。
-RingDescs."Ring of Immunity" 获得对毒害，疾病和诅咒效果的免疫力。
-RingDescs."Ring of Outcasts" 可以附魔三次而不是一次。
-RingDescs."Ring of Regeneration" 允许佩戴者在精力回复检定失败后重掷，同时会使他更容易着火。
-RingDescs."Ring of Resilience" 获得对吸血，噬精和即死效果的免疫力。
-RingDescs."Ring of Scholars" 在拾取卷轴和典籍的同时鉴定它们。
-RingDescs."Ring of Searching" 获得一次免费的搜索行动，同时允许佩戴者在搜索检定失败后重掷。这个效果无法叠加。
-RingDescs."Ring of Sustenance" 在奇数或偶数回合（主手或副手）忽略食物和水的消耗。
-RingDescs."Ring of Thirst" 三倍水消耗速度。这枚戒指无法取下。
-RingDescs."Ring of Anxiety" 使你更容易受任何性质的伤害。这枚戒指无法取下。
-RingDescs."Ring of Bloodlust" 治疗你相当于 20% 你造成的物理伤害。
-RingDescs."Ring of Conversion" 把所有你受到的伤害减少 10% 并转换为物理伤害。
-RingDescs."Ring of Cracking" 近战和远程武器的物理伤害增加 20% 。
-RingDescs."Ring of Noobery" 获得的经验减半。这个效果无法叠加。
-RingDescs."Ring of Shadows" 在你受到伤害时将你凭空藏匿。
-RingDescs."Ring of Shielding" 每点精力计为三点生命。这个效果无法叠加。
-RingDescs."Ring of Underdog" 最多增加所有的抗性五点，生命越低增加越多。
-RingDescs."InvisibleEbbin" 另一枚统治世界的戒指。这枚戒指还可以让你隐身，它是你的最爱！
-RingDescs."BlessedEvasion" 将格挡，闪避或招架修正之一加 2 。这个效果无法叠加。
-RingDescs."BlessedFamiliar" 在装备时召唤并控制一条龙。 当龙死亡时，戒指也会同时摧毁。
-RingDescs."BlessedHaste" 获得一个加速效果，不会增加食物和水的消耗。
-RingDescs."BlessedOutcasts" 可以附魔六次而不是一次。
-RingDescs."BlessedScholars" 当你拾起魔杖，药剂，卷轴，典籍时，鉴定它们。
-RingDescs."BlessedSustenance" 完全忽略食物和水的消耗。
-RingDescs."BlessedBloodlust" 治疗你相当于 30% 你造成的物理伤害。
-RingDescs."BlessedConversion" 把所有你受到的伤害减少 20% 并转换为物理伤害。
-RingDescs."BlessedCracking" 近战和远程武器的物理伤害增加 30% 。
-RingDescs."BlessedNoobery" 获得的经验减少到四分之一。这个效果无法叠加。
-RingDescs."BlessedShadows" 在你受到伤害时将你凭空藏匿并致盲攻击者。
-RingDescs."BlessedShielding" 每点精力计为五点生命。这个效果无法叠加。
-RingDescs."BlessedUnderdog" 最多增加所有的抗性八点，生命越低增加越多
+RingDescs."Ring of Ebbin" @(30)另一个统治世界的戒指。这是你的最爱！
+RingDescs."Ring of Accuracy" @(30)允许佩戴者在远程武器和投掷武器射失时重掷命中骰。
+RingDescs."Ring of Adornment" @(30)看起来令人印象深刻，但没有魔法力量。
+RingDescs."Ring of Brutality" @(30)允许佩戴者在近战武器击空后重掷命中骰。
+RingDescs."Ring of Clarity" @(30)获得对盲眼，耳聋，沉默效果的免疫力。
+RingDescs."Ring of Control" @(30)获得对魅惑，混乱，麻痹效果的免疫力。
+RingDescs."Ring of Deflection" @(30)加倍佩戴者的招架修正。这个效果无法叠加。
+RingDescs."Ring of Elements" @(30)获得对火焰，冰霜，震击效果的免疫力。
+RingDescs."Ring of Evasion" @(30)将格挡，闪避或招架修正之一加 1 。这个效果无法叠加。
+RingDescs."Ring of Familiar" @(30)装备时召唤并控制一只幼龙。当幼龙死亡时，戒指也会同时摧毁。
+RingDescs."Ring of Fortitude" @(30)获得对沉睡和恐惧效果的免疫力。
+RingDescs."Ring of Freedom" @(30)获得对迟缓，击退，变形效果的免疫力。
+RingDescs."Ring of Grease" @(30)强制佩戴者在远程命中后重掷命中骰。这枚戒指无法取下。
+RingDescs."Ring of Haste" @(30)获得一个加速效果，但食物和水的消耗速度加倍。
+RingDescs."Ring of Hunger" @(30)三倍食物消耗速度。这枚戒指无法取下。
+RingDescs."Ring of Immunity" @(30)获得对毒害，疾病和诅咒效果的免疫力。
+RingDescs."Ring of Outcasts" @(30)可以附魔三次而不是一次。
+RingDescs."Ring of Regeneration" @(30)允许佩戴者在精力回复检定失败后重掷，同时会使他更容易着火。
+RingDescs."Ring of Resilience" @(30)获得对吸血，噬精和即死效果的免疫力。
+RingDescs."Ring of Scholars" @(30)在拾取卷轴和典籍的同时鉴定它们。
+RingDescs."Ring of Searching" @(30)获得一次免费的搜索行动，同时允许佩戴者在搜索检定失败后重掷。这个效果无法叠加。
+RingDescs."Ring of Sustenance" @(30)在奇数或偶数回合（主手或副手）忽略食物和水的消耗。
+RingDescs."Ring of Thirst" @(30)三倍水消耗速度。这枚戒指无法取下。
+RingDescs."Ring of Anxiety" @(30)使你更容易受任何性质的伤害。这枚戒指无法取下。
+RingDescs."Ring of Bloodlust" @(30)治疗你相当于 20% 你造成的物理伤害。
+RingDescs."Ring of Conversion" @(30)把所有你受到的伤害减少 10% 并转换为物理伤害。
+RingDescs."Ring of Cracking" @(30)近战和远程武器的物理伤害增加 20% 。
+RingDescs."Ring of Noobery" @(30)获得的经验减半。这个效果无法叠加。
+RingDescs."Ring of Shadows" @(30)在你受到伤害时将你凭空藏匿。
+RingDescs."Ring of Shielding" @(30)每点精力计为三点生命。这个效果无法叠加。
+RingDescs."Ring of Underdog" @(30)最多增加所有的抗性五点，生命越低增加越多。
+RingDescs."InvisibleEbbin" @(30)另一枚统治世界的戒指。这枚戒指还可以让你隐身，它是你的最爱！
+RingDescs."BlessedEvasion" @(30)将格挡，闪避或招架修正之一加 2 。这个效果无法叠加。
+RingDescs."BlessedFamiliar" @(30)在装备时召唤并控制一条龙。 当龙死亡时，戒指也会同时摧毁。
+RingDescs."BlessedHaste" @(30)获得一个加速效果，不会增加食物和水的消耗。
+RingDescs."BlessedOutcasts" @(30)可以附魔六次而不是一次。
+RingDescs."BlessedScholars" @(30)当你拾起魔杖，药剂，卷轴，典籍时，鉴定它们。
+RingDescs."BlessedSustenance" @(30)完全忽略食物和水的消耗。
+RingDescs."BlessedBloodlust" @(30)治疗你相当于 30% 你造成的物理伤害。
+RingDescs."BlessedConversion" @(30)把所有你受到的伤害减少 20% 并转换为物理伤害。
+RingDescs."BlessedCracking" @(30)近战和远程武器的物理伤害增加 30% 。
+RingDescs."BlessedNoobery" @(30)获得的经验减少到四分之一。这个效果无法叠加。
+RingDescs."BlessedShadows" @(30)在你受到伤害时将你凭空藏匿并致盲攻击者。
+RingDescs."BlessedShielding" @(30)每点精力计为五点生命。这个效果无法叠加。
+RingDescs."BlessedUnderdog" @(30)最多增加所有的抗性八点，生命越低增加越多
 RuneNames."Rune" 符石
 RuneNames."Rune of Agility" 敏捷符石
 RuneNames."Rune of Charisma" 魅力符石
@@ -2142,10 +2142,10 @@ TomeNames."Tome of Animate Dead" 典籍：亡灵复生
 TomeNames."Tome of Transmute Item" 典籍：物品炼金
 TomeNames."Tome of Alter Terrain" 典籍：地表变形
 TomeNames."Tome of Arcane Missile" 典籍：奥术飞弹
-TomeDescs."BlessedTomeDesc" @(30)你鉴定过这本典籍，这是一本记载着%s法术的神圣典籍。
-TomeDescs."CursedTomeDesc" @(30)你鉴定过这本典籍，它被诅咒了，其中记载着%s法术。
-TomeDescs."IdentifiedTomeDesc" @(30)你鉴定过这本典籍，它记载着%s法术。
-TomeDescs."UnidentifiedTomeDesc" @(30)你知道这本典籍中记载着%s法术 ，但它尚未被鉴定。
+TomeDescs."BlessedTomeDesc" @(30)你鉴定过这本典籍，这是一本记载着 %s 法术的神圣典籍。
+TomeDescs."CursedTomeDesc" @(30)你鉴定过这本典籍，它被诅咒了，其中记载着 %s 法术。
+TomeDescs."IdentifiedTomeDesc" 你鉴定过这本典籍，它记载着 %s 法术。
+TomeDescs."UnidentifiedTomeDesc" 你知道这本典籍中记载着 %s 法术 ，但它尚未被鉴定。
 TomeDescs."CelestialTomeDesc" @(30)你在典籍上认出了一个天使系符记。不过你想可能还是应该先鉴定一下再读。
 TomeDescs."DraconicTomeDesc" @(30)你在典籍上认出了一个龙系符记。不过你想可能还是应该先鉴定一下再读。
 TomeDescs."InfernalTomeDesc" @(30)你在典籍上认出了一个地狱系符记。不过你想可能还是应该先鉴定一下再读。

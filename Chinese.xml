@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="6b293a2bf23b6e62f72d41b9f1fb416d839f37d1">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="7f92dafd21e67f3bc9010e222adbff23e6ddc5b4">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -1486,19 +1486,19 @@
     <str id="You can't place %s there." value="You can't place %s there."/>
   </ItemLogs>
   <ItemSets>
-    <str id="Re-roll failed snare checks." value="Re-roll failed snare checks."/>
-    <str id="Re-roll failed sneak checks." value="Re-roll failed sneak checks."/>
-    <str id="Re-roll failed persuasion checks." value="Re-roll failed persuasion checks."/>
-    <str id="Re-roll failed intimidation checks." value="Re-roll failed intimidation checks."/>
-    <str id="Grants immunity to disarm." value="Grants immunity to disarm."/>
-    <str id="Re-roll clearcast (Celestial)." value="Re-roll clearcast (Celestial)."/>
-    <str id="Re-roll clearcast (Draconic)." value="Re-roll clearcast (Draconic)."/>
-    <str id="Re-roll clearcast (Infernal)." value="Re-roll clearcast (Infernal)."/>
-    <str id="Reduce Arcane cooldown by 50%." value="Reduce Arcane cooldown by 50%."/>
-    <str id="Reduce Bestial cooldown by 50%." value="Reduce Bestial cooldown by 50%."/>
-    <str id="Reduce Abyssal cooldown by 50%." value="Reduce Abyssal cooldown by 50%."/>
-    <str id="Heals D6 points per turn." value="Heals D6 points per turn."/>
-    <str id="Befriend daemons." value="Befriend daemons."/>
+    <str id="Re-roll failed snare checks." value="Re-roll failed snare checks." local="重掷陷阱检定。"/>
+    <str id="Re-roll failed sneak checks." value="Re-roll failed sneak checks." local="重掷潜行检定。"/>
+    <str id="Re-roll failed persuasion checks." value="Re-roll failed persuasion checks." local="重掷失败的说服检定。"/>
+    <str id="Re-roll failed intimidation checks." value="Re-roll failed intimidation checks." local="重掷失败的恐吓检定。"/>
+    <str id="Grants immunity to disarm." value="Grants immunity to disarm." local="获得免疫缴械。"/>
+    <str id="Re-roll clearcast (Celestial)." value="Re-roll clearcast (Celestial)." local="重掷沉静施法（天使系）。"/>
+    <str id="Re-roll clearcast (Draconic)." value="Re-roll clearcast (Draconic)." local="重掷沉静施法（龙系）。"/>
+    <str id="Re-roll clearcast (Infernal)." value="Re-roll clearcast (Infernal)." local="重掷沉静施法（地狱系）。"/>
+    <str id="Reduce Arcane cooldown by 50%." value="Reduce Arcane cooldown by 50%." local="减少奥术冷却时间 50% 。"/>
+    <str id="Reduce Bestial cooldown by 50%." value="Reduce Bestial cooldown by 50%." local="减少兽性法术冷却时间 50% 。"/>
+    <str id="Reduce Abyssal cooldown by 50%." value="Reduce Abyssal cooldown by 50%." local="减少深渊法术冷却时间 50% 。"/>
+    <str id="Heals D6 points per turn." value="Heals D6 points per turn." local="每回合治疗 D6 点。"/>
+    <str id="Befriend daemons." value="Befriend daemons." local="成为恶魔的朋友。"/>
   </ItemSets>
   <AddonNames>
     <str id="Padded Spaulders" value="Padded Spaulders" local="棉护肩"/>
@@ -2014,51 +2014,51 @@
     <str id="Potion of Floating" value="Potion of Floating" local="漂浮药剂"/>
   </PotionNames>
   <PotionDescs>
-    <str id="PotionDesc" value="Remember that most potions are made by mixing mucus and excrements of some unspecified animal."/>
-    <str id="Potion of Antidote" value="Contains a mixture that smells and tastes bad enough to cure poisons and diseases."/>
-    <str id="Potion of Awareness" value="Contains a lovely tonic that causes your pupils to dilate beyond normal range."/>
-    <str id="Potion of Blindness" value="Contains blinding poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Burning" value="Contains a vitriolic and oily substance that burns your skin when touched."/>
-    <str id="Potion of Charming" value="Contains charming poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Confusion" value="Contains confusing poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Deafness" value="Contains deafening poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Death" value="Contains deadly poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Draining" value="Contains draining poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Energy" value="Contains a pleasant extract made from stimulating Erythroxylum leaves."/>
-    <str id="Potion of Healing" value="Contains a sweet sparkling soft drink that is made exclusively from vegetable extracts."/>
-    <str id="Potion of Holy Water" value="Contains water but for some reason it does not quench thirst if drunk, go figure."/>
-    <str id="Potion of Insight" value="Contains a strong and salty alcoholic beverage that supposedly expands your mind."/>
-    <str id="Potion of Leeching" value="Contains leeching poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Literacy" value="Contains just another pink fluid that teaches why we don't need no education."/>
-    <str id="Potion of Paralysis" value="Contains paralytic poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Sickness" value="Contains infected animal excrements that are known to cause various diseases."/>
-    <str id="Potion of Silencing" value="Contains silencing poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Sleeping" value="Contains sleeping poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Slowness" value="Contains slowing poison. How and where it is made remains a mystery though."/>
-    <str id="Potion of Swiftness" value="Contains dead bull juice that makes you so fast that it feels like having wings."/>
-    <str id="Potion of Troll Blood" value="Contains the most appalling liquid you have ever seen (not counting your own snot)."/>
-    <str id="Potion of Willpower" value="Contains the power extracted from a single hair of Putimir 'the Bear' Vladin."/>
-    <str id="Potion of Wolf Form" value="Contains stuff that makes you instinctively howl even when you only smell it."/>
-    <str id="Potion of Strength" value="Contains a mixture that makes you stronger than you were like a minute ago."/>
-    <str id="Potion of Agility" value="Contains something that makes you smoother than a backwards walking pedophile."/>
-    <str id="Potion of Stamina" value="Contains 'Niagra', which would be awesome if there were any action available."/>
-    <str id="Potion of Charisma" value="Contains anti-wrinkle ointment that probably should be applied on your skin."/>
-    <str id="Potion of Clotting" value="Contains slightly poisonous mixture that stops you from bleeding."/>
-    <str id="Potion of Floating" value="Contains floater blood that makes you levitate."/>
+    <str id="PotionDesc" value="Remember that most potions are made by mixing mucus and excrements of some unspecified animal." local="记住，大多数药剂是由一些不明动&#10;物的粘液和排泄物混合而成的。"/>
+    <str id="Potion of Antidote" value="Contains a mixture that smells and tastes bad enough to cure poisons and diseases." local="里面是一种混合物，气味和味道都&#10;很糟糕，但可以解毒祛病。"/>
+    <str id="Potion of Awareness" value="Contains a lovely tonic that causes your pupils to dilate beyond normal range." local="里面是一种可爱的滋补品，使您的&#10;瞳孔扩大超出正常范围。"/>
+    <str id="Potion of Blindness" value="Contains blinding poison. How and where it is made remains a mystery though." local="里面是一种致盲的毒药。它从何而&#10;来，怎样制造的仍然是个谜。"/>
+    <str id="Potion of Burning" value="Contains a vitriolic and oily substance that burns your skin when touched." local="里面是一种硫酸和油性物质，皮肤&#10;触碰到会被灼伤。"/>
+    <str id="Potion of Charming" value="Contains charming poison. How and where it is made remains a mystery though." local="里面是一种迷人的毒药。它从何而&#10;来，怎样制造的仍然是个谜。"/>
+    <str id="Potion of Confusion" value="Contains confusing poison. How and where it is made remains a mystery though." local="里面是混乱毒药。它从何而来，怎&#10;样制造的仍然是个谜。"/>
+    <str id="Potion of Deafness" value="Contains deafening poison. How and where it is made remains a mystery though." local="里面是致聋毒药。它从何而来，怎&#10;样制造的仍然是个谜。"/>
+    <str id="Potion of Death" value="Contains deadly poison. How and where it is made remains a mystery though." local="里面是死亡毒药。它从何而来，怎&#10;样制造的仍然是个谜。"/>
+    <str id="Potion of Draining" value="Contains draining poison. How and where it is made remains a mystery though." local="里面是噬精毒药。它从何而来，怎&#10;样制造的仍然是个谜。"/>
+    <str id="Potion of Energy" value="Contains a pleasant extract made from stimulating Erythroxylum leaves." local="里面是一种从古柯叶总提取出来的&#10;刺激性物质，能令人愉快。"/>
+    <str id="Potion of Healing" value="Contains a sweet sparkling soft drink that is made exclusively from vegetable extracts." local="里面是一种甜的起泡软饮料，完全&#10;由植物提取物制成。"/>
+    <str id="Potion of Holy Water" value="Contains water but for some reason it does not quench thirst if drunk, go figure." local="里面含有水分，但由于某些原因，&#10;它不解渴。如果喝了，猜猜看吧。"/>
+    <str id="Potion of Insight" value="Contains a strong and salty alcoholic beverage that supposedly expands your mind." local="里面是一种非常咸的酒精饮料，据&#10;说可以开阔你的思维。"/>
+    <str id="Potion of Leeching" value="Contains leeching poison. How and where it is made remains a mystery though." local="里面是吸血毒药。它从何而来，怎&#10;样制造的仍然是个谜。"/>
+    <str id="Potion of Literacy" value="Contains just another pink fluid that teaches why we don't need no education." local="里面是另一种粉色液体，它能告诉&#10;我们为什么不需要教育。"/>
+    <str id="Potion of Paralysis" value="Contains paralytic poison. How and where it is made remains a mystery though." local="里面是麻痹毒药。它从何而来，怎&#10;样制造的仍然是个谜。"/>
+    <str id="Potion of Sickness" value="Contains infected animal excrements that are known to cause various diseases." local="里面有已知可引起多种疾病的受感&#10;染动物粪便。"/>
+    <str id="Potion of Silencing" value="Contains silencing poison. How and where it is made remains a mystery though." local="里面是沉默毒药。它从何而来，怎&#10;样制造的仍然是个谜。"/>
+    <str id="Potion of Sleeping" value="Contains sleeping poison. How and where it is made remains a mystery though." local="里面是沉睡毒药。它从何而来，怎&#10;样制造的仍然是个谜。"/>
+    <str id="Potion of Slowness" value="Contains slowing poison. How and where it is made remains a mystery though." local="里面是迟缓毒药。它从何而来，怎&#10;样制造的仍然是个谜。"/>
+    <str id="Potion of Swiftness" value="Contains dead bull juice that makes you so fast that it feels like having wings." local="里面是死牛汁，它可以让你跑得飞&#10;快，感觉就像长了翅膀。"/>
+    <str id="Potion of Troll Blood" value="Contains the most appalling liquid you have ever seen (not counting your own snot)." local="里面是你所见过的最可怕的液体（&#10;不包括你自己的鼻涕）。"/>
+    <str id="Potion of Willpower" value="Contains the power extracted from a single hair of Putimir 'the Bear' Vladin." local="里面的液体有着从“大熊”普蒂尔的&#10;一根头发中提取出来的力量。"/>
+    <str id="Potion of Wolf Form" value="Contains stuff that makes you instinctively howl even when you only smell it." local="里面的液体闻一闻就会让你本能地&#10;狼嚎。"/>
+    <str id="Potion of Strength" value="Contains a mixture that makes you stronger than you were like a minute ago." local="里面有一种混合物，瞬间就能让你&#10;更强壮。"/>
+    <str id="Potion of Agility" value="Contains something that makes you smoother than a backwards walking pedophile." local="里面有一些东西，可以让你比一个&#10;倒着走路的恋童癖者更灵活。"/>
+    <str id="Potion of Stamina" value="Contains 'Niagra', which would be awesome if there were any action available." local="里面是“尼亚加拉”，如果能用它做&#10;点什么就太棒了。"/>
+    <str id="Potion of Charisma" value="Contains anti-wrinkle ointment that probably should be applied on your skin." local="里面是抗皱软膏，可能应该能用在&#10;你的皮肤上。"/>
+    <str id="Potion of Clotting" value="Contains slightly poisonous mixture that stops you from bleeding." local="里面是一种轻微的有毒混合物，可&#10;以防止出血。"/>
+    <str id="Potion of Floating" value="Contains floater blood that makes you levitate." local="里面是浮游类的血，可以让你浮空&#10;。"/>
   </PotionDescs>
   <PotionLogs>
-    <str id="You apply %s on your %s." value="You apply %s on your %s."/>
-    <str id="%s magically refills." value="%s magically refills."/>
-    <str id="You drink %s." value="You drink %s."/>
-    <str id="You drink an unknown potion." value="You drink an unknown potion."/>
-    <str id="The potion breaks and its contents splash on %s." value="The potion breaks and its contents splash on %s."/>
-    <str id="energised effect" value="energised effect"/>
-    <str id="vitalised effect" value="vitalised effect"/>
-    <str id="insightful effect" value="insightful effect"/>
-    <str id="hastened effect" value="hastened effect"/>
-    <str id="regeneration effect" value="regeneration effect"/>
-    <str id="levitation effect" value="levitation effect"/>
-    <str id="bleed effect" value="bleed effect"/>
+    <str id="You apply %s on your %s." value="You apply %s on your %s." local="你把%s敷在你的%s。"/>
+    <str id="%s magically refills." value="%s magically refills." local="%s神奇般的重新装满了。"/>
+    <str id="You drink %s." value="You drink %s." local="你喝掉了%s。"/>
+    <str id="You drink an unknown potion." value="You drink an unknown potion." local="你喝了一瓶未知的药剂。"/>
+    <str id="The potion breaks and its contents splash on %s." value="The potion breaks and its contents splash on %s." local="药瓶破碎了，里面的液体溅到%s身上。"/>
+    <str id="energised effect" value="energised effect" local="精力充沛的效果"/>
+    <str id="vitalised effect" value="vitalised effect" local="活力激发的效果"/>
+    <str id="insightful effect" value="insightful effect" local="顿悟的效果"/>
+    <str id="hastened effect" value="hastened effect" local="加速的效果"/>
+    <str id="regeneration effect" value="regeneration effect" local="再生的效果"/>
+    <str id="levitation effect" value="levitation effect" local="浮空的效果"/>
+    <str id="bleed effect" value="bleed effect" local="流血的效果"/>
   </PotionLogs>
   <RingNames>
     <str id="Ring" value="Ring" local="戒指"/>
@@ -2096,51 +2096,51 @@
   </RingNames>
   <RingDescs>
     <str id="RingDesc" value="In addition to being signs of spousal servitude, some rings can provide incredibly powerful effects." local="除了用于标示已成为配偶的奴隶，&#10;有些戒指还能提供一些强力效果。"/>
-    <str id="Ring of Ebbin" value="Another ring to rule them all. This one is now your precious!" local="另一个统治世界的戒指。这是你的最爱！"/>
-    <str id="Ring of Accuracy" value="Allows the wearer to re-roll misses with ranged and thrown weapons." local="允许佩戴者在远程武器和投掷武器射失时重掷命中骰。"/>
-    <str id="Ring of Adornment" value="Looks impressive but contains no magical powers." local="看起来令人印象深刻，但没有魔法力量。"/>
-    <str id="Ring of Brutality" value="Allows the wearer to re-roll misses with melee weapons." local="允许佩戴者在近战武器击空后重掷命中骰。"/>
-    <str id="Ring of Clarity" value="Grants immunity against blind, deafen and silence effects." local="获得对盲眼，耳聋，沉默效果的免疫力。"/>
-    <str id="Ring of Control" value="Grants immunity against charm, confuse and paralyse effects." local="获得对魅惑，混乱，麻痹效果的免疫力。"/>
-    <str id="Ring of Deflection" value="Doubles the wearer's parry modifier. This effect does not stack." local="加倍佩戴者的招架修正。这个效果无法叠加。"/>
-    <str id="Ring of Elements" value="Grants immunity against fire, frost and shock effects." local="获得对火焰，冰霜，震击效果的免疫力。"/>
-    <str id="Ring of Evasion" value="Increases either block, dodge or parry modifier by 1. This effect does not stack." local="将格挡，闪避或招架修正之一加 1 。这个效果无法叠加。"/>
-    <str id="Ring of Familiar" value="Summons and controls a whelp when equipped. This ring is destroyed if the whelp dies." local="装备时召唤并控制一只幼龙。当幼龙死亡时，戒指也会同时摧毁。"/>
+    <str id="Ring of Ebbin" value="Another ring to rule them all. This one is now your precious!" local="另一个统治世界的戒指。这是你的&#10;最爱！"/>
+    <str id="Ring of Accuracy" value="Allows the wearer to re-roll misses with ranged and thrown weapons." local="允许佩戴者在远程武器和投掷武器&#10;射失时重掷命中骰。"/>
+    <str id="Ring of Adornment" value="Looks impressive but contains no magical powers." local="看起来令人印象深刻，但没有魔法&#10;力量。"/>
+    <str id="Ring of Brutality" value="Allows the wearer to re-roll misses with melee weapons." local="允许佩戴者在近战武器击空后重掷&#10;命中骰。"/>
+    <str id="Ring of Clarity" value="Grants immunity against blind, deafen and silence effects." local="获得对盲眼，耳聋，沉默效果的免&#10;疫力。"/>
+    <str id="Ring of Control" value="Grants immunity against charm, confuse and paralyse effects." local="获得对魅惑，混乱，麻痹效果的免&#10;疫力。"/>
+    <str id="Ring of Deflection" value="Doubles the wearer's parry modifier. This effect does not stack." local="加倍佩戴者的招架修正。这个效果&#10;无法叠加。"/>
+    <str id="Ring of Elements" value="Grants immunity against fire, frost and shock effects." local="获得对火焰，冰霜，震击效果的免&#10;疫力。"/>
+    <str id="Ring of Evasion" value="Increases either block, dodge or parry modifier by 1. This effect does not stack." local="将格挡，闪避或招架修正之一加 1&#10; 。这个效果无法叠加。"/>
+    <str id="Ring of Familiar" value="Summons and controls a whelp when equipped. This ring is destroyed if the whelp dies." local="装备时召唤并控制一只幼龙。当幼&#10;龙死亡时，戒指也会同时摧毁。"/>
     <str id="Ring of Fortitude" value="Grants immunity against sleep and fear effects." local="获得对沉睡和恐惧效果的免疫力。"/>
-    <str id="Ring of Freedom" value="Grants immunity against slow, knockback and polymorph effects." local="获得对迟缓，击退，变形效果的免疫力。"/>
-    <str id="Ring of Grease" value="Forces the wearer to re-roll ranged hits. This ring cannot be unequipped." local="强制佩戴者在远程命中后重掷命中骰。这枚戒指无法取下。"/>
-    <str id="Ring of Haste" value="Grants a haste effect at the expense of doubling the food and water consumption rates." local="获得一个加速效果，但食物和水的消耗速度加倍。"/>
-    <str id="Ring of Hunger" value="Triples food consumption rate. This ring cannot be unequipped." local="三倍食物消耗速度。这枚戒指无法取下。"/>
-    <str id="Ring of Immunity" value="Grants immunity against poison, disease and curse effects." local="获得对毒害，疾病和诅咒效果的免疫力。"/>
+    <str id="Ring of Freedom" value="Grants immunity against slow, knockback and polymorph effects." local="获得对迟缓，击退，变形效果的免&#10;疫力。"/>
+    <str id="Ring of Grease" value="Forces the wearer to re-roll ranged hits. This ring cannot be unequipped." local="强制佩戴者在远程命中后重掷命中&#10;骰。这枚戒指无法取下。"/>
+    <str id="Ring of Haste" value="Grants a haste effect at the expense of doubling the food and water consumption rates." local="获得一个加速效果，但食物和水的&#10;消耗速度加倍。"/>
+    <str id="Ring of Hunger" value="Triples food consumption rate. This ring cannot be unequipped." local="三倍食物消耗速度。这枚戒指无法&#10;取下。"/>
+    <str id="Ring of Immunity" value="Grants immunity against poison, disease and curse effects." local="获得对毒害，疾病和诅咒效果的免&#10;疫力。"/>
     <str id="Ring of Outcasts" value="May contain up to three different enchants instead of one." local="可以附魔三次而不是一次。"/>
-    <str id="Ring of Regeneration" value="Allows the wearer to re-roll failed energy regeneration checks and makes him vulnerable to fire." local="允许佩戴者在精力回复检定失败后重掷，同时会使他更容易着火。"/>
-    <str id="Ring of Resilience" value="Grants immunity against leech, drain and instant death effects." local="获得对吸血，噬精和即死效果的免疫力。"/>
-    <str id="Ring of Scholars" value="Automatically identifies scrolls and tomes when they are picked up." local="在拾取卷轴和典籍的同时鉴定它们。"/>
-    <str id="Ring of Searching" value="Grants a free search action and allows the wielder to re-roll failed search checks. This effect does not stack." local="获得一次免费的搜索行动，同时允许佩戴者在搜索检定失败后重掷。这个效果无法叠加。"/>
-    <str id="Ring of Sustenance" value="Ignores food and water consumption on either even or odd game turns (main hand or offhand)." local="在奇数或偶数回合（主手或副手）忽略食物和水的消耗。"/>
-    <str id="Ring of Thirst" value="Triples water consumption rate. This ring cannot be unequipped." local="三倍水消耗速度。这枚戒指无法取下。"/>
-    <str id="Ring of Anxiety" value="Makes you vulnerable to all damage. This ring cannot be unequipped." local="使你更容易受任何性质的伤害。这枚戒指无法取下。"/>
-    <str id="Ring of Bloodlust" value="Heals you for 20% of the physical weapon damage you cause." local="治疗你相当于 20% 你造成的物理伤害。"/>
-    <str id="Ring of Conversion" value="Converts all weapon damage you receive into physical damage and reduces it by 10%." local="把所有你受到的伤害减少 10% 并转换为物理伤害。"/>
-    <str id="Ring of Cracking" value="Increases physical damage by 20% with melee and ranged weapons." local="近战和远程武器的物理伤害增加 20% 。"/>
-    <str id="Ring of Noobery" value="Halves experience gained. This effect does not stack." local="获得的经验减半。这个效果无法叠加。"/>
+    <str id="Ring of Regeneration" value="Allows the wearer to re-roll failed energy regeneration checks and makes him vulnerable to fire." local="允许佩戴者在精力回复检定失败后&#10;重掷，同时会使他更容易着火。"/>
+    <str id="Ring of Resilience" value="Grants immunity against leech, drain and instant death effects." local="获得对吸血，噬精和即死效果的免&#10;疫力。"/>
+    <str id="Ring of Scholars" value="Automatically identifies scrolls and tomes when they are picked up." local="在拾取卷轴和典籍的同时鉴定它们&#10;。"/>
+    <str id="Ring of Searching" value="Grants a free search action and allows the wielder to re-roll failed search checks. This effect does not stack." local="获得一次免费的搜索行动，同时允&#10;许佩戴者在搜索检定失败后重掷。&#10;这个效果无法叠加。"/>
+    <str id="Ring of Sustenance" value="Ignores food and water consumption on either even or odd game turns (main hand or offhand)." local="在奇数或偶数回合（主手或副手）&#10;忽略食物和水的消耗。"/>
+    <str id="Ring of Thirst" value="Triples water consumption rate. This ring cannot be unequipped." local="三倍水消耗速度。这枚戒指无法取&#10;下。"/>
+    <str id="Ring of Anxiety" value="Makes you vulnerable to all damage. This ring cannot be unequipped." local="使你更容易受任何性质的伤害。这&#10;枚戒指无法取下。"/>
+    <str id="Ring of Bloodlust" value="Heals you for 20% of the physical weapon damage you cause." local="治疗你相当于 20% 你造成的物理伤&#10;害。"/>
+    <str id="Ring of Conversion" value="Converts all weapon damage you receive into physical damage and reduces it by 10%." local="把所有你受到的伤害减少 10% 并转&#10;换为物理伤害。"/>
+    <str id="Ring of Cracking" value="Increases physical damage by 20% with melee and ranged weapons." local="近战和远程武器的物理伤害增加 2&#10;0% 。"/>
+    <str id="Ring of Noobery" value="Halves experience gained. This effect does not stack." local="获得的经验减半。这个效果无法叠&#10;加。"/>
     <str id="Ring of Shadows" value="Hides you in plain sight when you take damage." local="在你受到伤害时将你凭空藏匿。"/>
-    <str id="Ring of Shielding" value="Each point of energy counts as 3 points of health. This effect does not stack." local="每点精力计为三点生命。这个效果无法叠加。"/>
-    <str id="Ring of Underdog" value="Increases all resistances by up to 5, the lower your health." local="最多增加所有的抗性五点，生命越低增加越多。"/>
-    <str id="InvisibleEbbin" value="Another ring to rule them all. This one also makes you invisible and it is now your precious!" local="另一枚统治世界的戒指。这枚戒指还可以让你隐身，它是你的最爱！"/>
-    <str id="BlessedEvasion" value="Increases either block, dodge or parry modifier by 2. This effect does not stack." local="将格挡，闪避或招架修正之一加 2 。这个效果无法叠加。"/>
-    <str id="BlessedFamiliar" value="Summons and controls a drake when equipped. This ring is destroyed if the drake dies." local="在装备时召唤并控制一条龙。 当龙死亡时，戒指也会同时摧毁。"/>
-    <str id="BlessedHaste" value="Grants a haste effect without affecting food and water consumption rates." local="获得一个加速效果，不会增加食物和水的消耗。"/>
+    <str id="Ring of Shielding" value="Each point of energy counts as 3 points of health. This effect does not stack." local="每点精力计为三点生命。这个效果&#10;无法叠加。"/>
+    <str id="Ring of Underdog" value="Increases all resistances by up to 5, the lower your health." local="最多增加所有的抗性五点，生命越&#10;低增加越多。"/>
+    <str id="InvisibleEbbin" value="Another ring to rule them all. This one also makes you invisible and it is now your precious!" local="另一枚统治世界的戒指。这枚戒指&#10;还可以让你隐身，它是你的最爱！"/>
+    <str id="BlessedEvasion" value="Increases either block, dodge or parry modifier by 2. This effect does not stack." local="将格挡，闪避或招架修正之一加 2&#10; 。这个效果无法叠加。"/>
+    <str id="BlessedFamiliar" value="Summons and controls a drake when equipped. This ring is destroyed if the drake dies." local="在装备时召唤并控制一条龙。 当龙&#10;死亡时，戒指也会同时摧毁。"/>
+    <str id="BlessedHaste" value="Grants a haste effect without affecting food and water consumption rates." local="获得一个加速效果，不会增加食物&#10;和水的消耗。"/>
     <str id="BlessedOutcasts" value="May contain up to six different enchants instead of one." local="可以附魔六次而不是一次。"/>
-    <str id="BlessedScholars" value="Automatically identifies wands, potions, scrolls and tomes when they are picked up." local="当你拾起魔杖，药剂，卷轴，典籍时，鉴定它们。"/>
+    <str id="BlessedScholars" value="Automatically identifies wands, potions, scrolls and tomes when they are picked up." local="当你拾起魔杖，药剂，卷轴，典籍&#10;时，鉴定它们。"/>
     <str id="BlessedSustenance" value="Completely ignores food and water consumption." local="完全忽略食物和水的消耗。"/>
-    <str id="BlessedBloodlust" value="Heals you for 30% of the physical weapon damage you cause." local="治疗你相当于 30% 你造成的物理伤害。"/>
-    <str id="BlessedConversion" value="Converts all weapon damage you receive into physical damage and reduces it by 20%." local="把所有你受到的伤害减少 20% 并转换为物理伤害。"/>
-    <str id="BlessedCracking" value="Increases physical damage by 30% with melee and ranged weapons." local="近战和远程武器的物理伤害增加 30% 。"/>
-    <str id="BlessedNoobery" value="Quarters experience gained. This effect does not stack." local="获得的经验减少到四分之一。这个效果无法叠加。"/>
-    <str id="BlessedShadows" value="Hides you in plain sight and blinds the possible attacker when you take damage." local="在你受到伤害时将你凭空藏匿并致盲攻击者。"/>
-    <str id="BlessedShielding" value="Each point of energy counts as 5 points of health. This effect does not stack." local="每点精力计为五点生命。这个效果无法叠加。"/>
-    <str id="BlessedUnderdog" value="Increases all resistances by up to 8, the lower your health." local="最多增加所有的抗性八点，生命越低增加越多"/>
+    <str id="BlessedBloodlust" value="Heals you for 30% of the physical weapon damage you cause." local="治疗你相当于 30% 你造成的物理伤&#10;害。"/>
+    <str id="BlessedConversion" value="Converts all weapon damage you receive into physical damage and reduces it by 20%." local="把所有你受到的伤害减少 20% 并转&#10;换为物理伤害。"/>
+    <str id="BlessedCracking" value="Increases physical damage by 30% with melee and ranged weapons." local="近战和远程武器的物理伤害增加 3&#10;0% 。"/>
+    <str id="BlessedNoobery" value="Quarters experience gained. This effect does not stack." local="获得的经验减少到四分之一。这个&#10;效果无法叠加。"/>
+    <str id="BlessedShadows" value="Hides you in plain sight and blinds the possible attacker when you take damage." local="在你受到伤害时将你凭空藏匿并致&#10;盲攻击者。"/>
+    <str id="BlessedShielding" value="Each point of energy counts as 5 points of health. This effect does not stack." local="每点精力计为五点生命。这个效果&#10;无法叠加。"/>
+    <str id="BlessedUnderdog" value="Increases all resistances by up to 8, the lower your health." local="最多增加所有的抗性八点，生命越&#10;低增加越多"/>
   </RingDescs>
   <RuneNames>
     <str id="Rune" value="Rune" local="符石"/>
@@ -2331,10 +2331,10 @@
     <str id="Tome of Arcane Missile" value="Tome of Arcane Missile" local="典籍：奥术飞弹"/>
   </TomeNames>
   <TomeDescs>
-    <str id="BlessedTomeDesc" value="You have identified that this tome is blessed and it contains the %s spell." local="你鉴定过这本典籍，这是一本记载&#10;着%s法术的神圣典籍。"/>
-    <str id="CursedTomeDesc" value="You have identified that this tome is cursed and it contains the %s spell." local="你鉴定过这本典籍，它被诅咒了，&#10;其中记载着%s法术。"/>
-    <str id="IdentifiedTomeDesc" value="You have identified that this tome contains the %s spell." local="你鉴定过这本典籍，它记载着%s法&#10;术。"/>
-    <str id="UnidentifiedTomeDesc" value="You know that this tome contains the %s spell but it's not fully identified yet." local="你知道这本典籍中记载着%s法术 ，&#10;但它尚未被鉴定。"/>
+    <str id="BlessedTomeDesc" value="You have identified that this tome is blessed and it contains the %s spell." local="你鉴定过这本典籍，这是一本记载&#10;着 %s 法术的神圣典籍。"/>
+    <str id="CursedTomeDesc" value="You have identified that this tome is cursed and it contains the %s spell." local="你鉴定过这本典籍，它被诅咒了，&#10;其中记载着 %s 法术。"/>
+    <str id="IdentifiedTomeDesc" value="You have identified that this tome contains the %s spell." local="你鉴定过这本典籍，它记载着 %s 法术。"/>
+    <str id="UnidentifiedTomeDesc" value="You know that this tome contains the %s spell but it's not fully identified yet." local="你知道这本典籍中记载着 %s 法术 ，但它尚未被鉴定。"/>
     <str id="CelestialTomeDesc" value="You recognize the celestial symbol on the tome. You may want to identify it before reading though." local="你在典籍上认出了一个天使系符记&#10;。不过你想可能还是应该先鉴定一&#10;下再读。"/>
     <str id="DraconicTomeDesc" value="You recognize the draconic symbol on the tome. You may want to identify it before reading though." local="你在典籍上认出了一个龙系符记。&#10;不过你想可能还是应该先鉴定一下&#10;再读。"/>
     <str id="InfernalTomeDesc" value="You recognize the infernal symbol on the tome. You may want to identify it before reading though." local="你在典籍上认出了一个地狱系符记&#10;。不过你想可能还是应该先鉴定一&#10;下再读。"/>
