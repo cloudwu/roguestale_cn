@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="612957603adc7040045cdfeedd60f3796680a7ca">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="748010df62313ca204c9c7ec96e587ede2dee2b2">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -2331,30 +2331,30 @@
     <str id="Tome of Arcane Missile" value="Tome of Arcane Missile" local="典籍：奥术飞弹"/>
   </TomeNames>
   <TomeDescs>
-    <str id="BlessedTomeDesc" value="You have identified that this tome is blessed and it contains the %s spell."/>
-    <str id="CursedTomeDesc" value="You have identified that this tome is cursed and it contains the %s spell."/>
-    <str id="IdentifiedTomeDesc" value="You have identified that this tome contains the %s spell."/>
-    <str id="UnidentifiedTomeDesc" value="You know that this tome contains the %s spell but it's not fully identified yet."/>
-    <str id="CelestialTomeDesc" value="You recognize the celestial symbol on the tome. You may want to identify it before reading though."/>
-    <str id="DraconicTomeDesc" value="You recognize the draconic symbol on the tome. You may want to identify it before reading though."/>
-    <str id="InfernalTomeDesc" value="You recognize the infernal symbol on the tome. You may want to identify it before reading though."/>
-    <str id="ArcaneTomeDesc" value="You recognize the arcane symbol on the tome. You may want to identify it before reading though."/>
-    <str id="BestialTomeDesc" value="You recognize the bestial symbol on the tome. You may want to identify it before reading though."/>
-    <str id="AbyssalTomeDesc" value="You recognize the abyssal symbol on the tome. You may want to identify it before reading though."/>
-    <str id="UnknownTomeDesc" value="This tome appears to be written in some unknown language."/>
+    <str id="BlessedTomeDesc" value="You have identified that this tome is blessed and it contains the %s spell." local="你鉴定过这本典籍，这是一本记载&#10;着%s法术的神圣典籍。"/>
+    <str id="CursedTomeDesc" value="You have identified that this tome is cursed and it contains the %s spell." local="你鉴定过这本典籍，它被诅咒了，&#10;其中记载着%s法术。"/>
+    <str id="IdentifiedTomeDesc" value="You have identified that this tome contains the %s spell." local="你鉴定过这本典籍，它记载着%s法&#10;术。"/>
+    <str id="UnidentifiedTomeDesc" value="You know that this tome contains the %s spell but it's not fully identified yet." local="你知道这本典籍中记载着%s法术 ，&#10;但它尚未被鉴定。"/>
+    <str id="CelestialTomeDesc" value="You recognize the celestial symbol on the tome. You may want to identify it before reading though." local="你在典籍上认出了一个天使系符记&#10;。不过你想可能还是应该先鉴定一&#10;下再读。"/>
+    <str id="DraconicTomeDesc" value="You recognize the draconic symbol on the tome. You may want to identify it before reading though." local="你在典籍上认出了一个龙系符记。&#10;不过你想可能还是应该先鉴定一下&#10;再读。"/>
+    <str id="InfernalTomeDesc" value="You recognize the infernal symbol on the tome. You may want to identify it before reading though." local="你在典籍上认出了一个地狱系符记&#10;。不过你想可能还是应该先鉴定一&#10;下再读。"/>
+    <str id="ArcaneTomeDesc" value="You recognize the arcane symbol on the tome. You may want to identify it before reading though." local="你在典籍上认出了一个奥术符记。&#10;不过你想可能还是应该先鉴定一下&#10;再读。"/>
+    <str id="BestialTomeDesc" value="You recognize the bestial symbol on the tome. You may want to identify it before reading though." local="你在典籍上认出了一个兽性符记。&#10;不过你想可能还是应该先鉴定一下&#10;再读。"/>
+    <str id="AbyssalTomeDesc" value="You recognize the abyssal symbol on the tome. You may want to identify it before reading though." local="你在典籍上认出了一个深渊符记。&#10;不过你想可能还是应该先鉴定一下&#10;再读。"/>
+    <str id="UnknownTomeDesc" value="This tome appears to be written in some unknown language." local="这本典籍看起来是用一些未知语言&#10;撰写的。"/>
   </TomeDescs>
   <TomeLogs>
-    <str id="You begin to read %s." value="You begin to read %s."/>
-    <str id="You begin to read an unknown tome." value="You begin to read an unknown tome."/>
-    <str id="You open the tome at the bookmark and check out the nine inch males." value="You open the tome at the bookmark and check out the nine inch males."/>
-    <str id="You open the tome at the bookmark and check out the ladies. Ooh la la!" value="You open the tome at the bookmark and check out the ladies. Ooh la la!"/>
-    <str id="You finish reading the tome and learn how to cast %s." value="You finish reading the tome and learn how to cast %s."/>
-    <str id="You browse through the appendix and also learn how to cast %s." value="You browse through the appendix and also learn how to cast %s."/>
-    <str id="The tome glows brightly for a second and turns to dust." value="The tome glows brightly for a second and turns to dust."/>
-    <str id="You finish reading the tome and you forget something." value="You finish reading the tome and you forget something."/>
-    <str id="You finish reading the tome and you forget how to walk straight." value="You finish reading the tome and you forget how to walk straight."/>
-    <str id="You browse through the tome and look for pretty pictures." value="You browse through the tome and look for pretty pictures."/>
-    <str id="Your %s shimmers brightly before shattering to pieces." value="Your %s shimmers brightly before shattering to pieces."/>
+    <str id="You begin to read %s." value="You begin to read %s." local="你开始阅读 %s。"/>
+    <str id="You begin to read an unknown tome." value="You begin to read an unknown tome." local="你开始阅读一本未知的典籍。"/>
+    <str id="You open the tome at the bookmark and check out the nine inch males." value="You open the tome at the bookmark and check out the nine inch males." local="你翻到这本典籍的书签处，查阅那个 23 厘米的男性。"/>
+    <str id="You open the tome at the bookmark and check out the ladies. Ooh la la!" value="You open the tome at the bookmark and check out the ladies. Ooh la la!" local="你翻到这本典籍的书签处，查阅那个女士。哇哦！"/>
+    <str id="You finish reading the tome and learn how to cast %s." value="You finish reading the tome and learn how to cast %s." local="你读完了这本典籍，学会了施放%s."/>
+    <str id="You browse through the appendix and also learn how to cast %s." value="You browse through the appendix and also learn how to cast %s." local="你从附录开始阅览，也学会了施放%s。"/>
+    <str id="The tome glows brightly for a second and turns to dust." value="The tome glows brightly for a second and turns to dust." local="这本典籍开始发光，眨眼间变为了灰烬。"/>
+    <str id="You finish reading the tome and you forget something." value="You finish reading the tome and you forget something." local="你读完了这本典籍，似乎忘了什么。"/>
+    <str id="You finish reading the tome and you forget how to walk straight." value="You finish reading the tome and you forget how to walk straight." local="你读完了这本典籍，忘掉了怎么走直线。"/>
+    <str id="You browse through the tome and look for pretty pictures." value="You browse through the tome and look for pretty pictures." local="你翻阅这本典籍，想找点漂亮的图片。"/>
+    <str id="Your %s shimmers brightly before shattering to pieces." value="Your %s shimmers brightly before shattering to pieces." local="你的%s在破碎前闪耀着微光。"/>
   </TomeLogs>
   <ToolNames>
     <str id="Smoke Bomb" value="Smoke Bomb" local="烟雾弹"/>
@@ -3178,7 +3178,7 @@
     <str id="Empty your backpack and reset dungeon with 0 gold." value="Empty your backpack and reset dungeon with 0 gold." local="将你的背包清空，一个金币都不留，重置地牢。"/>
     <str id="Store %d or more gold coins." value="Store %d or more gold coins." local="存下 %d 或更多的金币。"/>
     <str id="Type &quot;%s&quot;." value="Type &quot;%s&quot;." local="输入 &quot;%s&quot; 。"/>
-    <str id="I'm over 9 inches" value="I'm over 9 inches" local="我超过了 23 厘米。"/>
+    <str id="I'm over 9 inches" value="I'm over 9 inches" local="我不只 23 厘米。"/>
     <str id="Reach level 18 or higher." value="Reach level 18 or higher." local="达到 18 级或更高等级。"/>
     <str id="Find a %s." value="Find a %s." local="找到一件 %s。"/>
     <str id="Slay enough trolls." value="Slay enough trolls." local="干掉足够多的巨魔。"/>
