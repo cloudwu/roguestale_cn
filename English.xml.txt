@@ -2235,10 +2235,10 @@ WandNames."Wand of Scripting" 抄写魔杖
 WandNames."Wand of Torture" 肆虐魔杖
 WandDescs."WandDesc" There appears to be inscription on the wand that is written in some unknown language.
 WandDescs."WandDescLiterate" The inscription on the wand says &quot;Point and click&quot;. Imagine if you would have to learn how to read for this?!?
-WandDescs."Wand of Blizzard" Shoots an amplified and enlarged frozen orb at the target location.
-WandDescs."Wand of Burning" Shoots a flaming stream at the target location hitting everyone on the path.
+WandDescs."Wand of Blizzard" @(30)向目标位置发射出一颗不断扩张和放大的冰球。
+WandDescs."Wand of Burning"  @(30)向目标位置发射出一束燃烧的热流，攻击路径上的所有单位。
 WandDescs."Wand of Channeling" Allows the caster to channel a known spell through the wand.
-WandDescs."Wand of Chilling" Shoots a frozen stream at the target location hitting everyone on the path.
+WandDescs."Wand of Chilling" @(30)向目标位置发射出一束冰冻的寒流，攻击路径上的所有单位。
 WandDescs."Wand of Corruption" Creates a cloud of corruption at the target location hitting everyone inside.
 WandDescs."Wand of Crippling" Shoots a crippling stream at the target location hitting everyone on the path.
 WandDescs."Wand of Crushing" Causes a boulder to fall from the ceiling at the target location.
