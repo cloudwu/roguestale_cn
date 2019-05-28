@@ -894,15 +894,15 @@ EffectLogs."You are no longer affected by %s." 你不再受到 %s 影响。
 EffectLogs."%s is no longer affected by %s." %s 不再受到 %s 影响。
 EffectLogs."You feel hastened." 你感到加速。
 EffectLogs."You land on %s." 你降落在 %s。
-EffectLogs."Hateful aura drains life from you." 仇恨的光环从你身上吸取生命值。
+EffectLogs."Hateful aura drains life from you." 仇恨光环从你身上吸取生命。
 EffectLogs."Your mana shield absorbs some of the damage before you run out of energy." 你的魔法盾在你耗尽能量前吸收了一些伤害。
 EffectLogs."Your attack is partially absorbed by a mana shield." 你的攻击部分被魔法盾所吸收。
 EffectLogs."Your mana shield absorbs all of the damage." 你的魔法盾吸收了所有的伤害。
 EffectLogs."Your attack is fully absorbed by a mana shield." 你的攻击被魔法盾全部吸收。
 EffectLogs."Your divine shield absorbs some of the damage before it collapses." 你的神盾在崩坏前吸收了一些伤害。
-EffectLogs."Your divine shield absorbs all of the damage." 你的神盾吸收了所有的伤害。
-EffectLogs."Your attack is partially absorbed by some magical effect." 你的攻击被一些魔法部分吸收。
-EffectLogs."Your attack is fully absorbed by some magical effect." 你的攻击被一些魔法效果完全吸收。
+EffectLogs."Your divine shield absorbs all of the damage." 你的神圣之盾吸收了所有的伤害。
+EffectLogs."Your attack is partially absorbed by some magical effect." 一些魔法效果部分吸收了你的攻击。
+EffectLogs."Your attack is fully absorbed by some magical effect." 一些魔法效果完全吸收了你的攻击。
 EffectLogs."You die... but you are saved by %s." 你死了... 但你被 %s 救活了.
 EffectLogs."%s dies... but is saved by some magical effect." %s 死了... 但被一些魔法效果救活了.
 EffectLogs."You are cursed." 你被诅咒了。
@@ -921,10 +921,10 @@ EffectLogs."You feel unnaturally hungry." 你感到不寻常的饥饿。
 EffectLogs."You feel exhausted." 你感到筋疲力尽。
 EffectLogs."You feel unnaturally thirsty." 你感到不寻常的口渴。
 EffectLogs."You are damaged by a poison." 你被毒物伤害了。
-EffectLogs."Your energy is drained by a poison." 你的能量值被毒物耗尽。
-EffectLogs."Your health is drained by a poison." 你的健康值被毒物耗尽。
+EffectLogs."Your energy is drained by a poison." 你的精力被毒物耗尽。
+EffectLogs."Your health is drained by a poison." 你的生命被毒物耗尽。
 EffectLogs."Your muscles ache badly." 你的肌肉十分疼痛。
-EffectLogs."You bleed from every orifice." 你七孔流血。
+EffectLogs."You bleed from every orifice." 你七窍流血。
 EffectLogs."Your bones feel plagued." 你的骨头很难受。
 EffectLogs."Your lungs feel like burning." 你的肺感到像烧了起来。
 EffectLogs."Your groin feels itchy." 你的腹股沟感到很痒。

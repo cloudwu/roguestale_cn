@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="2a0b413b0678256ce0bb1058ff7a085c8a507e23">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="f1174fdf9597eff5625dc2ae45787ce7cb5cde9c">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -502,12 +502,12 @@
     <str id="You can't order friends where you can't see." value="You can't order friends where you can't see." local="你无法命令伙伴去你看不见的地方。"/>
   </FocusLogs>
   <JumpLogs>
-    <str id="You jump over %s and land on %s." value="You jump over %s and land on %s." local="你跃越过了 %s 落在 %s 。"/>
-    <str id="%s jumps over %s and lands on %s." value="%s jumps over %s and lands on %s." local="%s 跃越过了 %s 落在 %s 。"/>
-    <str id="You jump over %s but you land face first on the floor." value="You jump over %s but you land face first on the floor." local="你跃过 %s 但在落地时脸先着地。"/>
-    <str id="%s jumps over %s but lands face first on the floor." value="%s jumps over %s but lands face first on the floor." local="%s 跃过 %s 但在落地时脸先着地。"/>
-    <str id="You try to jump over %s but you land right on top of it." value="You try to jump over %s but you land right on top of it." local="你试着跃过 %s 但却落在了上面。"/>
-    <str id="%s tries to jump over %s but lands right on top of it." value="%s tries to jump over %s but lands right on top of it." local="%s 试着跃过 %s 但却落在了上面。"/>
+    <str id="You jump over %s and land on %s." value="You jump over %s and land on %s." local="你跃越过了%s落在%s上。"/>
+    <str id="%s jumps over %s and lands on %s." value="%s jumps over %s and lands on %s." local="%s跃越过了%s落在%s上。"/>
+    <str id="You jump over %s but you land face first on the floor." value="You jump over %s but you land face first on the floor." local="你跃过%s，但在落地时脸先着地。"/>
+    <str id="%s jumps over %s but lands face first on the floor." value="%s jumps over %s but lands face first on the floor." local="%s 跃过%s，但在落地时脸先着地。"/>
+    <str id="You try to jump over %s but you land right on top of it." value="You try to jump over %s but you land right on top of it." local="你试着跃过%s，但却落在了上面。"/>
+    <str id="%s tries to jump over %s but lands right on top of it." value="%s tries to jump over %s but lands right on top of it." local="%s 试着跃过%s，但却落在了上面。"/>
   </JumpLogs>
   <AttackLogs>
     <str id="Your killing blow mortally hits %s" value="Your killing blow mortally hits %s" local="你的致命一击准确命中 %s"/>
@@ -972,55 +972,55 @@
     <str id="Wounded" value="%s seems wounded." local="%s 看起来受伤了。"/>
   </EffectSeems>
   <EffectLogs>
-    <str id="You are no longer %s." value="You are no longer %s."/>
-    <str id="%s is no longer %s." value="%s is no longer %s."/>
-    <str id="You are no longer affected by %s." value="You are no longer affected by %s."/>
-    <str id="%s is no longer affected by %s." value="%s is no longer affected by %s."/>
-    <str id="You feel hastened." value="You feel hastened."/>
-    <str id="You land on %s." value="You land on %s."/>
-    <str id="Hateful aura drains life from you." value="Hateful aura drains life from you."/>
-    <str id="Your mana shield absorbs some of the damage before you run out of energy." value="Your mana shield absorbs some of the damage before you run out of energy."/>
-    <str id="Your attack is partially absorbed by a mana shield." value="Your attack is partially absorbed by a mana shield."/>
-    <str id="Your mana shield absorbs all of the damage." value="Your mana shield absorbs all of the damage."/>
-    <str id="Your attack is fully absorbed by a mana shield." value="Your attack is fully absorbed by a mana shield."/>
-    <str id="Your divine shield absorbs some of the damage before it collapses." value="Your divine shield absorbs some of the damage before it collapses."/>
-    <str id="Your divine shield absorbs all of the damage." value="Your divine shield absorbs all of the damage."/>
-    <str id="Your attack is partially absorbed by some magical effect." value="Your attack is partially absorbed by some magical effect."/>
-    <str id="Your attack is fully absorbed by some magical effect." value="Your attack is fully absorbed by some magical effect."/>
-    <str id="You die... but you are saved by %s." value="You die... but you are saved by %s."/>
-    <str id="%s dies... but is saved by some magical effect." value="%s dies... but is saved by some magical effect."/>
-    <str id="You are cursed." value="You are cursed."/>
-    <str id="%s is cursed." value="%s is cursed."/>
-    <str id="You are poisoned." value="You are poisoned."/>
-    <str id="%s is poisoned." value="%s is poisoned."/>
-    <str id="You are diseased." value="You are diseased."/>
-    <str id="%s is diseased." value="%s is diseased."/>
-    <str id="%s is wearing off." value="%s is wearing off."/>
-    <str id="%s has worn off." value="%s has worn off."/>
-    <str id="%s's %s is wearing off." value="%s's %s is wearing off."/>
-    <str id="%s's %s has worn off." value="%s's %s has worn off."/>
-    <str id="%s heals you." value="%s heals you."/>
-    <str id="You feel agonized." value="You feel agonized."/>
-    <str id="You feel unnaturally hungry." value="You feel unnaturally hungry."/>
-    <str id="You feel exhausted." value="You feel exhausted."/>
-    <str id="You feel unnaturally thirsty." value="You feel unnaturally thirsty."/>
-    <str id="You are damaged by a poison." value="You are damaged by a poison."/>
-    <str id="Your energy is drained by a poison." value="Your energy is drained by a poison."/>
-    <str id="Your health is drained by a poison." value="Your health is drained by a poison."/>
-    <str id="Your muscles ache badly." value="Your muscles ache badly."/>
-    <str id="You bleed from every orifice." value="You bleed from every orifice."/>
-    <str id="Your bones feel plagued." value="Your bones feel plagued."/>
-    <str id="Your lungs feel like burning." value="Your lungs feel like burning."/>
-    <str id="Your groin feels itchy." value="Your groin feels itchy."/>
-    <str id="Your breath smells putrid." value="Your breath smells putrid."/>
-    <str id="Your joints feel swollen." value="Your joints feel swollen."/>
-    <str id="Your flesh feels rotten." value="Your flesh feels rotten."/>
-    <str id="Fire burns you." value="Fire burns you."/>
-    <str id="You are bleeding." value="You are bleeding."/>
-    <str id="You turn ethereal." value="You turn ethereal."/>
-    <str id="%s turns ethereal." value="%s turns ethereal."/>
-    <str id="You turn corporeal." value="You turn corporeal."/>
-    <str id="%s turns corporeal." value="%s turns corporeal."/>
+    <str id="You are no longer %s." value="You are no longer %s." local="你不再 %s 。"/>
+    <str id="%s is no longer %s." value="%s is no longer %s." local="%s 不再 %s 。"/>
+    <str id="You are no longer affected by %s." value="You are no longer affected by %s." local="你不再受到 %s 影响。"/>
+    <str id="%s is no longer affected by %s." value="%s is no longer affected by %s." local="%s 不再受到 %s 影响。"/>
+    <str id="You feel hastened." value="You feel hastened." local="你感到加速。"/>
+    <str id="You land on %s." value="You land on %s." local="你降落在 %s。"/>
+    <str id="Hateful aura drains life from you." value="Hateful aura drains life from you." local="仇恨光环从你身上吸取生命。"/>
+    <str id="Your mana shield absorbs some of the damage before you run out of energy." value="Your mana shield absorbs some of the damage before you run out of energy." local="你的魔法盾在你耗尽能量前吸收了一些伤害。"/>
+    <str id="Your attack is partially absorbed by a mana shield." value="Your attack is partially absorbed by a mana shield." local="你的攻击部分被魔法盾所吸收。"/>
+    <str id="Your mana shield absorbs all of the damage." value="Your mana shield absorbs all of the damage." local="你的魔法盾吸收了所有的伤害。"/>
+    <str id="Your attack is fully absorbed by a mana shield." value="Your attack is fully absorbed by a mana shield." local="你的攻击被魔法盾全部吸收。"/>
+    <str id="Your divine shield absorbs some of the damage before it collapses." value="Your divine shield absorbs some of the damage before it collapses." local="你的神盾在崩坏前吸收了一些伤害。"/>
+    <str id="Your divine shield absorbs all of the damage." value="Your divine shield absorbs all of the damage." local="你的神圣之盾吸收了所有的伤害。"/>
+    <str id="Your attack is partially absorbed by some magical effect." value="Your attack is partially absorbed by some magical effect." local="一些魔法效果部分吸收了你的攻击。"/>
+    <str id="Your attack is fully absorbed by some magical effect." value="Your attack is fully absorbed by some magical effect." local="一些魔法效果完全吸收了你的攻击。"/>
+    <str id="You die... but you are saved by %s." value="You die... but you are saved by %s." local="你死了... 但你被 %s 救活了."/>
+    <str id="%s dies... but is saved by some magical effect." value="%s dies... but is saved by some magical effect." local="%s 死了... 但被一些魔法效果救活了."/>
+    <str id="You are cursed." value="You are cursed." local="你被诅咒了。"/>
+    <str id="%s is cursed." value="%s is cursed." local="%s 被诅咒了。"/>
+    <str id="You are poisoned." value="You are poisoned." local="你中毒了。"/>
+    <str id="%s is poisoned." value="%s is poisoned." local="%s 中毒了。"/>
+    <str id="You are diseased." value="You are diseased." local="你生病了。"/>
+    <str id="%s is diseased." value="%s is diseased." local="%s 生病了。"/>
+    <str id="%s is wearing off." value="%s is wearing off." local="%s 发生了磨损。"/>
+    <str id="%s has worn off." value="%s has worn off." local="%s 已经磨损。"/>
+    <str id="%s's %s is wearing off." value="%s's %s is wearing off." local="%s 的 %s 发生磨损。"/>
+    <str id="%s's %s has worn off." value="%s's %s has worn off." local="%s 的 %s 已经磨损。"/>
+    <str id="%s heals you." value="%s heals you." local="%s 治愈了你."/>
+    <str id="You feel agonized." value="You feel agonized." local="你感到很痛苦。"/>
+    <str id="You feel unnaturally hungry." value="You feel unnaturally hungry." local="你感到不寻常的饥饿。"/>
+    <str id="You feel exhausted." value="You feel exhausted." local="你感到筋疲力尽。"/>
+    <str id="You feel unnaturally thirsty." value="You feel unnaturally thirsty." local="你感到不寻常的口渴。"/>
+    <str id="You are damaged by a poison." value="You are damaged by a poison." local="你被毒物伤害了。"/>
+    <str id="Your energy is drained by a poison." value="Your energy is drained by a poison." local="你的精力被毒物耗尽。"/>
+    <str id="Your health is drained by a poison." value="Your health is drained by a poison." local="你的生命被毒物耗尽。"/>
+    <str id="Your muscles ache badly." value="Your muscles ache badly." local="你的肌肉十分疼痛。"/>
+    <str id="You bleed from every orifice." value="You bleed from every orifice." local="你七窍流血。"/>
+    <str id="Your bones feel plagued." value="Your bones feel plagued." local="你的骨头很难受。"/>
+    <str id="Your lungs feel like burning." value="Your lungs feel like burning." local="你的肺感到像烧了起来。"/>
+    <str id="Your groin feels itchy." value="Your groin feels itchy." local="你的腹股沟感到很痒。"/>
+    <str id="Your breath smells putrid." value="Your breath smells putrid." local="你闻到腐烂的味道。"/>
+    <str id="Your joints feel swollen." value="Your joints feel swollen." local="你的关节在肿胀。"/>
+    <str id="Your flesh feels rotten." value="Your flesh feels rotten." local="你的肉在腐烂。"/>
+    <str id="Fire burns you." value="Fire burns you." local="火烧到了你。"/>
+    <str id="You are bleeding." value="You are bleeding." local="你在流血。"/>
+    <str id="You turn ethereal." value="You turn ethereal." local="你成了幻影。"/>
+    <str id="%s turns ethereal." value="%s turns ethereal." local="%s 成了幻影。"/>
+    <str id="You turn corporeal." value="You turn corporeal." local="你化为了实体。"/>
+    <str id="%s turns corporeal." value="%s turns corporeal." local="%s 化为了实体。"/>
   </EffectLogs>
   <TalentNames>
     <str id="Aimed Shot" value="Aimed Shot" local="瞄准射击"/>
@@ -4210,10 +4210,10 @@
     <str id="DLG_FIRST_WISH" value="- You did say rich with filth, right?"/>
     <str id="DLG_SECOND_WISH" value="- I see you're into twins. Let's make that two..."/>
     <str id="DLG_THIRD_WISH" value="- You get a feeling that you have just been fooled."/>
-    <str id="I would like to learn this '%s'." value="I would like to learn this '%s'."/>
-    <str id="Can you teach me this '%s' spell?" value="Can you teach me this '%s' spell?"/>
-    <str id="You already know %s." value="You already know %s."/>
-    <str id="You can't learn more talents at the moment." value="You can't learn more talents at the moment."/>
+    <str id="I would like to learn this '%s'." value="I would like to learn this '%s'." local="我想要学习 '%s'."/>
+    <str id="Can you teach me this '%s' spell?" value="Can you teach me this '%s' spell?" local="你能教教我这个 '%s' 法术吗?"/>
+    <str id="You already know %s." value="You already know %s." local="你已经知道 %s 了."/>
+    <str id="You can't learn more talents at the moment." value="You can't learn more talents at the moment." local="当前你不能再学习更多的天赋."/>
   </DialogueWindow>
   <StatusBarAnim>
     <str id="Satiated" value="Satiated" local="满足"/>
