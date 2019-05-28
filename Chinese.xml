@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="dd48ded744142c28ba133faf483f1b936e779de6">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="2a0b413b0678256ce0bb1058ff7a085c8a507e23">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -178,9 +178,9 @@
     <str id="STORED MATERIALS:" value="STORED MATERIALS:" local="入库材料："/>
     <str id="Destroy bound amulet" value="Destroy bound amulet" local="摧毁绑定的项链"/>
     <str id="Destroy bound ring" value="Destroy bound ring" local="摧毁绑定的戒指"/>
-    <str id="%dg" value="%dg"/>
-    <str id="Donate %dg" value="Donate %dg" local="捐献 %dg"/>
-    <str id="Feast and rest (%dg)" value="Feast and rest (%dg)" local="饱餐并休息 (%dg)"/>
+    <str id="%dg" value="%dg" local="%d 金"/>
+    <str id="Donate %dg" value="Donate %dg" local="捐献 %d 金"/>
+    <str id="Feast and rest (%dg)" value="Feast and rest (%dg)" local="饱餐并休息 (%d 金)"/>
     <str id="I'm fully prepared!" value="I'm fully prepared!" local="我已整装待发！"/>
   </GUITown>
   <GUIDesc>
@@ -240,7 +240,7 @@
   </GUIPops>
   <Quests>
     <str id="I got plenty of money!" value="I got plenty of money!" local="我获得了大量金钱！"/>
-    <str id="Pay the price (%dg)" value="Pay the price (%dg)" local="支付（%dg）"/>
+    <str id="Pay the price (%dg)" value="Pay the price (%dg)" local="支付（%d 金）"/>
     <str id="Consider him shaved!" value="Consider him shaved!" local="准备给他修面！"/>
     <str id="Yeah, yeah, I'm going!" value="Yeah, yeah, I'm going!" local="好的好的，我会去的！"/>
     <str id="How hard can it be?!?" value="How hard can it be?!?" local="能有多难?!?"/>
@@ -575,7 +575,7 @@
     <str id="%s snaps %s and swallows it whole." value="%s snaps %s and swallows it whole." local="%s 咬住 %s 整个吞了下去。"/>
     <str id="%s snaps %s and drains its power." value="%s snaps %s and drains its power." local="%s 咬住 %s 吸取了它的能量。"/>
     <str id="%s folds around %s's neck and it is equipped." value="%s folds around %s's neck and it is equipped." local="%s 环绕着 %s 的脖子，装备上了。"/>
-    <str id="Polymorphed cave bear snaps %s and swallows it whole." value="Polymorphed cave bear snaps %s and swallows it whole." local="变形的洞熊咬住 %s 整个吞了下去。"/>
+    <str id="Polymorphed cave bear snaps %s and swallows it whole." value="Polymorphed cave bear snaps %s and swallows it whole." local="被变形的洞熊咬住 %s 整个吞了下去。"/>
     <str id="Oh my G'awd, rocks can no longer be turned into scrap!" value="Oh my G'awd, rocks can no longer be turned into scrap!" local="哦，我的天呐，岩石不再变成碎片！"/>
     <str id="You salvage a piece of reusable scrap from the debris." value="You salvage a piece of reusable scrap from the debris." local="你从残骸中抢救出一块可以再利用的碎片。"/>
     <str id="You pull the trigger and shoot %s at %s." value="You pull the trigger and shoot %s at %s." local="你触动了扳机，把 %s 射向 %s 。"/>
@@ -685,7 +685,7 @@
     <str id="You can't eat undead corpses." value="You can't eat undead corpses." local="你不能食用亡灵的尸体。"/>
     <str id="You can't eat elemental corpses." value="You can't eat elemental corpses." local="你不能食用元素的尸体。"/>
     <str id="You can't use your surroundings while polymorphed." value="You can't use your surroundings while polymorphed." local="你不能在被变形时使用你附近的物品。"/>
-    <str id="You can't use your surroundings while shapeshifted." value="You can't use your surroundings while shapeshifted." local="你不能在变形时使用你附近的物品。"/>
+    <str id="You can't use your surroundings while shapeshifted." value="You can't use your surroundings while shapeshifted." local="你不能在变身时使用你附近的物品。"/>
     <str id="%s is not interested in what you have to say." value="%s is not interested in what you have to say." local="%s 没什么要对你说的了。"/>
     <str id="You seem to have awoken a slumbering treeman." value="You seem to have awoken a slumbering treeman." local="看起来你正在尝试唤醒一个沉睡的树人。"/>
     <str id="You don't have room for %s." value="You don't have room for %s." local="你没有空间放%s了。"/>
@@ -1047,8 +1047,8 @@
     <str id="Sixth Sense" value="Sixth Sense" local="第六感"/>
     <str id="Strong Will" value="Strong Will" local="坚强意志"/>
     <str id="Trap Master" value="Trap Master" local="陷阱大师"/>
-    <str id="Shapeshift: Wolf" value="Shapeshift: Wolf" local="变形：狼"/>
-    <str id="Shapeshift: Bear" value="Shapeshift: Bear" local="变形：熊"/>
+    <str id="Shapeshift: Wolf" value="Shapeshift: Wolf" local="变身：狼"/>
+    <str id="Shapeshift: Bear" value="Shapeshift: Bear" local="变身：熊"/>
     <str id="Bestial Wrath" value="Bestial Wrath" local="狂野怒火"/>
   </TalentNames>
   <TalentDescs>
@@ -1114,7 +1114,7 @@
     <str id="Shapeshift: Bear" value="Shapeshifts the creature into a bear and replaces all talents with Heroic Charge, Crushing Blow, Strong Will and" local="将生物变为一头熊，把天赋替换为&#10; 英勇冲锋，粉碎打击，坚强意志，&#10;敏锐目光（根据等级开放）。" space="True">
       <str id="paragraph 1" value="Keen Eye (based on level)." local=""/>
     </str>
-    <str id="Bestial Wrath" value="Increases physical damage by D3 while shapeshifted. This talent is also improved by the following heritages:" local="在变形时增加 D3 物理伤害。这个&#10;天赋还会被下列遗产增强：" space="True">
+    <str id="Bestial Wrath" value="Increases physical damage by D3 while shapeshifted. This talent is also improved by the following heritages:" local="在变身时增加 D3 物理伤害。这个&#10;天赋还会被下列遗产增强：" space="True">
       <str id="paragraph 1" value="Bestial Vigour, Leader of the Pack." local="兽性大发 ，团队领袖 。"/>
     </str>
   </TalentDescs>
@@ -3574,9 +3574,9 @@
     <str id="Face Muncher" value="Casts renewing touch on you when you critically hit in wolf form." local="狼形态下发出暴击的同时为你&#10;施放一个回复之触。">
       <str id="paragraph 1" value="This heritage can be unlocked by killing a full health human with a critical hit in wolf form at level 20." local="在等级 20 时的狼形态下，一&#10;击杀死一个满血的人类，可以&#10;解锁这项遗产。"/>
     </str>
-    <str id="Monster Chow" value="Increases health and energy while shapeshifted." local="在变形时增加生命值和精力。">
-      <str id="paragraph 1" value="This heritage can be unlocked by killing %d monsters and eating their corpses while shapeshifted." local="在变形后杀死 %d 个巨怪并吃&#10;掉它们的尸体。"/>
-      <str id="paragraph 2" value="Note that shapeshifting resets the counter and this must be completed in one shift." local="注意：施展变形术将充值计数&#10;器，因此必须在一次变形中完&#10;成。"/>
+    <str id="Monster Chow" value="Increases health and energy while shapeshifted." local="在变身时增加生命值和精力。">
+      <str id="paragraph 1" value="This heritage can be unlocked by killing %d monsters and eating their corpses while shapeshifted." local="在变身后杀死 %d 个巨怪并吃&#10;掉它们的尸体。"/>
+      <str id="paragraph 2" value="Note that shapeshifting resets the counter and this must be completed in one shift." local="注意：施展变身术将充值计数&#10;器，因此必须在一次变身中完&#10;成。"/>
       <str id="paragraph 3" value="Monsters eaten:" local="吃掉的巨怪："/>
     </str>
     <str id="Second Amendment" value="Allows you to learn spells from Arcane tomes while having a matching amulet equipped (*)." local="允许你在装备有对应的项链时&#10;，从奥术典籍中学习法术 (*)&#10;。">
@@ -3753,7 +3753,7 @@
     <str id="El Presidente" value="This challenge can be completed by doing the following:" local="完成这项挑战需要你做以下事&#10;情："/>
     <str id="Main Course" value="This challenge can be completed by by eating the following monsters while polymorphed:" local="完成这项挑战需要你在被变形&#10;后吃掉下列巨怪："/>
     <str id="Road to Hell" value="This challenge can be completed by killing %d under aged daemons at level 20 after typing:" local="完成这项挑战需要你杀死 %d &#10;个 20 级未成年恶魔后，输入&#10;：">
-      <str id="paragraph 1" value="&quot;%s&quot;"/>
+      <str id="paragraph 1" value="&quot;%s&quot;" local="&quot;%s&quot; "/>
       <str id="paragraph 2" value="Daemons killed:" local="已杀死恶魔："/>
     </str>
     <str id="Howdy Ho!" value="This challenge can be completed by finding and resurrecting Ken'nih before his corpse is eaten by rats." local="在老鼠吃掉肯'尼斯的尸体前找&#10;到它，就能完成这个挑战。">
@@ -3800,25 +3800,25 @@
     <str id="TestOfLeadership" value="This challenge can be completed by being known as '%s' after finishing the test of leadership." local="完成这项挑战需要你在完成领&#10;导力测试后被视为 '%s' 。">
       <str id="paragraph 1" value="The test of leadership has three questions and three possible types of answers (cruel, fair and gentle)." local="领导力测试有三个问题及三种&#10;类型的答案（无情、公正和温&#10;和）。"/>
     </str>
-    <str id="Path of Wisdom" value="%s">
+    <str id="Path of Wisdom" value="%s" local="%s ">
       <str id="paragraph 1" value="If you answer the test with one of each types of answers, you will be known as '%s'." local="如果你测试的答案每种类型都&#10;有，你会被视为'%s'。"/>
     </str>
-    <str id="Path of Justice" value="%s">
+    <str id="Path of Justice" value="%s" local="%s ">
       <str id="paragraph 1" value="If you answer the test with cruel and fair answers only, you will be known as '%s'." local="如果你测试的答案中有无情的&#10;和公正的，你会被视为'%s'。"/>
     </str>
-    <str id="Path of Decency" value="%s">
+    <str id="Path of Decency" value="%s" local="%s ">
       <str id="paragraph 1" value="If you answer the test with cruel and gentle answers only, you will be known as '%s'." local="如果你测试的答案中有无情的&#10;和温和的，你会被视为'%s'。"/>
     </str>
-    <str id="Path of Kindness" value="%s">
+    <str id="Path of Kindness" value="%s" local="%s ">
       <str id="paragraph 1" value="If you answer the test with fair and gentle answers only, you will be known as '%s'." local="如果你测试的答案中有公正的&#10;和温和的，你会被视为'%s'。"/>
     </str>
-    <str id="Path of Cruelty" value="%s">
+    <str id="Path of Cruelty" value="%s" local="%s ">
       <str id="paragraph 1" value="If you answer the test with cruel answers only, you will be known as '%s'." local="如果你测试的答案中只有无情&#10;的，你会被视为'%s'。"/>
     </str>
-    <str id="Path of Fairness" value="%s">
+    <str id="Path of Fairness" value="%s" local="%s ">
       <str id="paragraph 1" value="If you answer the test with fair answers only, you will be known as '%s'." local="If @(26)如果你测试的答案中只有公正的，你会被视为'%s'。"/>
     </str>
-    <str id="Path of Compassion" value="%s">
+    <str id="Path of Compassion" value="%s" local="%s ">
       <str id="paragraph 1" value="If you answer the test with gentle answers only, you will be known as '%s'." local="如果你测试的答案中只有温和&#10;的，你会被视为'%s'。"/>
     </str>
   </ChallengeDescs>
@@ -3885,25 +3885,25 @@
     <str id="the Gentle" value="the Gentle" local="温和的"/>
   </ChallengeTitles>
   <GameLogic>
-    <str id="You die. Press %s to continue." value="You die. Press %s to continue."/>
-    <str id="You are asleep and miss your turn." value="You are asleep and miss your turn."/>
-    <str id="You are paralysed and miss your turn." value="You are paralysed and miss your turn."/>
-    <str id="You are shocked and miss your turn." value="You are shocked and miss your turn."/>
-    <str id="You are stunned and miss your turn." value="You are stunned and miss your turn."/>
-    <str id="You feel slow and miss your turn." value="You feel slow and miss your turn."/>
-    <str id="You are afraid and try to run away." value="You are afraid and try to run away."/>
-    <str id="You ascend the stairs." value="You ascend the stairs."/>
-    <str id="You ascend the ladder." value="You ascend the ladder."/>
-    <str id="You descend the stairs." value="You descend the stairs."/>
-    <str id="You descend the ladder." value="You descend the ladder."/>
-    <str id="You can't enter town while polymorphed." value="You can't enter town while polymorphed."/>
-    <str id="You can't enter town while shapeshifted." value="You can't enter town while shapeshifted."/>
-    <str id="You can't use entrances at the moment." value="You can't use entrances at the moment."/>
-    <str id="Press %s to travel back to town." value="Press %s to travel back to town."/>
-    <str id="You can't travel at the moment." value="You can't travel at the moment."/>
-    <str id="You can't jump there." value="You can't jump there."/>
-    <str id="You can't fully rest while enemies are nearby." value="You can't fully rest while enemies are nearby."/>
-    <str id="You can't fully rest while hunger or thirst is not satiated." value="You can't fully rest while hunger or thirst is not satiated."/>
+    <str id="You die. Press %s to continue." value="You die. Press %s to continue." local="你死了。按下 %s 继续。"/>
+    <str id="You are asleep and miss your turn." value="You are asleep and miss your turn." local="你睡着了，失去了一个回合。"/>
+    <str id="You are paralysed and miss your turn." value="You are paralysed and miss your turn." local="你被麻痹了，失去了一个回合。"/>
+    <str id="You are shocked and miss your turn." value="You are shocked and miss your turn." local="你被震住了，失去了一个回合。"/>
+    <str id="You are stunned and miss your turn." value="You are stunned and miss your turn." local="你被眩晕了，失去了一个回合。"/>
+    <str id="You feel slow and miss your turn." value="You feel slow and miss your turn." local="你感到变慢了，失去了一个回合。"/>
+    <str id="You are afraid and try to run away." value="You are afraid and try to run away." local="你很害怕，试图逃跑。"/>
+    <str id="You ascend the stairs." value="You ascend the stairs." local="你爬上楼梯。"/>
+    <str id="You ascend the ladder." value="You ascend the ladder." local="你顺着梯子向上爬。"/>
+    <str id="You descend the stairs." value="You descend the stairs." local="你下了楼梯。"/>
+    <str id="You descend the ladder." value="You descend the ladder." local="你顺着梯子向下爬。"/>
+    <str id="You can't enter town while polymorphed." value="You can't enter town while polymorphed." local="你被变形后不能进入城镇。"/>
+    <str id="You can't enter town while shapeshifted." value="You can't enter town while shapeshifted." local="你变身了，不能进入城镇。"/>
+    <str id="You can't use entrances at the moment." value="You can't use entrances at the moment." local="你现在不能使用入口。"/>
+    <str id="Press %s to travel back to town." value="Press %s to travel back to town." local="按下 %s 回城。"/>
+    <str id="You can't travel at the moment." value="You can't travel at the moment." local="你现在无法快速回城。"/>
+    <str id="You can't jump there." value="You can't jump there." local="你无法跳到那里去。"/>
+    <str id="You can't fully rest while enemies are nearby." value="You can't fully rest while enemies are nearby." local="当附近有敌人时，你无法完全休息。"/>
+    <str id="You can't fully rest while hunger or thirst is not satiated." value="You can't fully rest while hunger or thirst is not satiated." local="当你的饥饿或口渴状态未被满足时，无法完全休息。"/>
   </GameLogic>
   <GameScreen>
     <str id="You can't bind hotkeys while shapeshifted." value="You can't bind hotkeys while shapeshifted."/>
@@ -4061,11 +4061,11 @@
     <str id="Spellbook" value="Spellbook" local="法术书"/>
     <str id="You can't use talents while blinded." value="You can't use talents while blinded." local="你无法在盲眼时使用天赋。"/>
     <str id="You can't use talents while confused." value="You can't use talents while confused." local="你无法在混乱时使用天赋。"/>
-    <str id="You can't use talents while polymorphed." value="You can't use talents while polymorphed." local="你无法在变形时使用天赋。"/>
+    <str id="You can't use talents while polymorphed." value="You can't use talents while polymorphed." local="你无法在变身时使用天赋。"/>
     <str id="You can't use talents while swimming." value="You can't use talents while swimming." local="你无法在游泳时使用天赋。"/>
     <str id="You are too tired to use talents at the moment." value="You are too tired to use talents at the moment." local="你现在太累了，无法使用天赋。"/>
     <str id="You can't use passive talents." value="You can't use passive talents." local="你无法使用被动天赋。"/>
-    <str id="You can't shapeshift while snared." value="You can't shapeshift while snared." local="在陷阱里，你无法变形。"/>
+    <str id="You can't shapeshift while snared." value="You can't shapeshift while snared." local="在陷阱里，你无法变身。"/>
     <str id="You can't use deadly throw without a thrown weapon." value="You can't use deadly throw without a thrown weapon." local="你没有投掷武器，所以无法进行死亡投掷。"/>
     <str id="Select a thrown weapon for deadly throw:" value="Select a thrown weapon for deadly throw:" local="选择一把投掷武器进行死亡投掷："/>
     <str id="Start quick shot by moving:" value="Start quick shot by moving:" local="移动后快速射击："/>
@@ -4094,7 +4094,7 @@
     <str id="You can't cast spells while blinded." value="You can't cast spells while blinded." local="你不能在盲眼时施放法术。"/>
     <str id="You can't cast spells while confused." value="You can't cast spells while confused." local="你不能在混乱时施放法术。"/>
     <str id="You can't cast spells while polymorphed." value="You can't cast spells while polymorphed." local="你不能在被变形时施放法术。"/>
-    <str id="You can't cast spells while shapeshifted." value="You can't cast spells while shapeshifted." local="你不能在变形时施放法术。"/>
+    <str id="You can't cast spells while shapeshifted." value="You can't cast spells while shapeshifted." local="你不能在变身时施放法术。"/>
     <str id="You can't use %s at the moment." value="You can't use %s at the moment." local="你现在无法使用%s。"/>
     <str id="You can't cast %s at the moment." value="You can't cast %s at the moment." local="你现在无法施放%s。"/>
   </SpellbookWindow>

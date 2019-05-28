@@ -160,9 +160,9 @@ GUITown."Boots" 靴子
 GUITown."STORED MATERIALS:" 入库材料：
 GUITown."Destroy bound amulet" 摧毁绑定的项链
 GUITown."Destroy bound ring" 摧毁绑定的戒指
-GUITown."%dg" %dg
-GUITown."Donate %dg" 捐献 %dg
-GUITown."Feast and rest (%dg)" 饱餐并休息 (%dg)
+GUITown."%dg" %d 金
+GUITown."Donate %dg" 捐献 %d 金
+GUITown."Feast and rest (%dg)" 饱餐并休息 (%d 金)
 GUITown."I'm fully prepared!" 我已整装待发！
 GUIDesc."MARKET_SQUARE" @(32)你进入了商业集市，这里可以和各式商人交易物品。
 GUIDesc."MARKET_SQUARE".1 @(32)注意：如果商人的货架被垃圾堆满的话，你可以通过在旅店休息重置它们。
@@ -208,7 +208,7 @@ GUIPops."You have reached" 你已达到
 GUIPops."Level %d" 等级 %d
 GUIPops."You have entered" 你已进入
 Quests."I got plenty of money!" 我获得了大量金钱！
-Quests."Pay the price (%dg)" 支付（%dg）
+Quests."Pay the price (%dg)" 支付（%d 金）
 Quests."Consider him shaved!" 准备给他修面！
 Quests."Yeah, yeah, I'm going!" 好的好的，我会去的！
 Quests."How hard can it be?!?" 能有多难?!?
@@ -452,12 +452,12 @@ FocusLogs."You order your friends to move to a new location." 你命令你的伙
 FocusLogs."You order your friends to stay put." 你命令你的伙伴原地待机。
 FocusLogs."You can't order friends there." 你无法命令伙伴去那里。
 FocusLogs."You can't order friends where you can't see." 你无法命令伙伴去你看不见的地方。
-JumpLogs."You jump over %s and land on %s." 你跃越过了 %s 落在 %s 。
-JumpLogs."%s jumps over %s and lands on %s." %s 跃越过了 %s 落在 %s 。
-JumpLogs."You jump over %s but you land face first on the floor." 你跃过 %s 但在落地时脸先着地。
-JumpLogs."%s jumps over %s but lands face first on the floor." %s 跃过 %s 但在落地时脸先着地。
-JumpLogs."You try to jump over %s but you land right on top of it." 你试着跃过 %s 但却落在了上面。
-JumpLogs."%s tries to jump over %s but lands right on top of it." %s 试着跃过 %s 但却落在了上面。
+JumpLogs."You jump over %s and land on %s." 你跃越过了%s落在%s上。
+JumpLogs."%s jumps over %s and lands on %s." %s跃越过了%s落在%s上。
+JumpLogs."You jump over %s but you land face first on the floor." 你跃过%s，但在落地时脸先着地。
+JumpLogs."%s jumps over %s but lands face first on the floor." %s 跃过%s，但在落地时脸先着地。
+JumpLogs."You try to jump over %s but you land right on top of it." 你试着跃过%s，但却落在了上面。
+JumpLogs."%s tries to jump over %s but lands right on top of it." %s 试着跃过%s，但却落在了上面。
 AttackLogs."Your killing blow mortally hits %s" 你的致命一击准确命中 %s
 AttackLogs."You critically hit %s with %s" %s 被你用 %s 暴击了
 AttackLogs."You hit %s with %s" %s 被你用 %s 击中
@@ -523,7 +523,7 @@ AttackLogs."You can't throw where you can't see." 你不能向你看不见的地
 AttackLogs."%s snaps %s and swallows it whole." %s 咬住 %s 整个吞了下去。
 AttackLogs."%s snaps %s and drains its power." %s 咬住 %s 吸取了它的能量。
 AttackLogs."%s folds around %s's neck and it is equipped." %s 环绕着 %s 的脖子，装备上了。
-AttackLogs."Polymorphed cave bear snaps %s and swallows it whole." 变形的洞熊咬住 %s 整个吞了下去。
+AttackLogs."Polymorphed cave bear snaps %s and swallows it whole." 被变形的洞熊咬住 %s 整个吞了下去。
 AttackLogs."Oh my G'awd, rocks can no longer be turned into scrap!" 哦，我的天呐，岩石不再变成碎片！
 AttackLogs."You salvage a piece of reusable scrap from the debris." 你从残骸中抢救出一块可以再利用的碎片。
 AttackLogs."You pull the trigger and shoot %s at %s." 你触动了扳机，把 %s 射向 %s 。
@@ -623,7 +623,7 @@ UseLogs."You eat %s." 你吃了%s。
 UseLogs."You can't eat undead corpses." 你不能食用亡灵的尸体。
 UseLogs."You can't eat elemental corpses." 你不能食用元素的尸体。
 UseLogs."You can't use your surroundings while polymorphed." 你不能在被变形时使用你附近的物品。
-UseLogs."You can't use your surroundings while shapeshifted." 你不能在变形时使用你附近的物品。
+UseLogs."You can't use your surroundings while shapeshifted." 你不能在变身时使用你附近的物品。
 UseLogs."%s is not interested in what you have to say." %s 没什么要对你说的了。
 UseLogs."You seem to have awoken a slumbering treeman." 看起来你正在尝试唤醒一个沉睡的树人。
 UseLogs."You don't have room for %s." 你没有空间放%s了。
@@ -961,8 +961,8 @@ TalentNames."Keen Eye" 锐利目光
 TalentNames."Sixth Sense" 第六感
 TalentNames."Strong Will" 坚强意志
 TalentNames."Trap Master" 陷阱大师
-TalentNames."Shapeshift: Wolf" 变形：狼
-TalentNames."Shapeshift: Bear" 变形：熊
+TalentNames."Shapeshift: Wolf" 变身：狼
+TalentNames."Shapeshift: Bear" 变身：熊
 TalentNames."Bestial Wrath" 狂野怒火
 TalentDescs."Aimed Shot" @(30)远程攻击每点敏捷增益修正获得 D3 的额外伤害，取代普通的 1 点额外伤害。
 TalentDescs."Multi Shot" @(30)远程攻击将命中目标生物邻接的多个额外生物目标，数量等于敏捷增益修正值。
@@ -1008,7 +1008,7 @@ TalentDescs."Shapeshift: Wolf" @(30)将生物变为一只狼，把天赋替换�
 TalentDescs."Shapeshift: Wolf".1 
 TalentDescs."Shapeshift: Bear" @(30)将生物变为一头熊，把天赋替换为 英勇冲锋，粉碎打击，坚强意志，敏锐目光（根据等级开放）。
 TalentDescs."Shapeshift: Bear".1 
-TalentDescs."Bestial Wrath" @(30)在变形时增加 D3 物理伤害。这个天赋还会被下列遗产增强：
+TalentDescs."Bestial Wrath" @(30)在变身时增加 D3 物理伤害。这个天赋还会被下列遗产增强：
 TalentDescs."Bestial Wrath".1 兽性大发 ，团队领袖 。
 SpellNames."Cure Disease" 治疗疾病
 SpellNames."Cure Poison" 治疗中毒
@@ -3256,9 +3256,9 @@ HeritageDescs."Vampiric Bite" @(26)狼形态的攻击附加一个吸血效果。
 HeritageDescs."Vampiric Bite".1 @(26)当你在狼形态时吃掉一只曾经吸过你的生命的蝙蝠可以解锁这项遗产。
 HeritageDescs."Face Muncher" @(26)狼形态下发出暴击的同时为你施放一个回复之触。
 HeritageDescs."Face Muncher".1 @(26)在等级 20 时的狼形态下，一击杀死一个满血的人类，可以解锁这项遗产。
-HeritageDescs."Monster Chow" @(26)在变形时增加生命值和精力。
-HeritageDescs."Monster Chow".1 @(26)在变形后杀死 %d 个巨怪并吃掉它们的尸体。
-HeritageDescs."Monster Chow".2 @(26)注意：施展变形术将充值计数器，因此必须在一次变形中完成。
+HeritageDescs."Monster Chow" @(26)在变身时增加生命值和精力。
+HeritageDescs."Monster Chow".1 @(26)在变身后杀死 %d 个巨怪并吃掉它们的尸体。
+HeritageDescs."Monster Chow".2 @(26)注意：施展变身术将充值计数器，因此必须在一次变身中完成。
 HeritageDescs."Monster Chow".3 @(26)吃掉的巨怪：
 HeritageDescs."Second Amendment" @(26)允许你在装备有对应的项链时，从奥术典籍中学习法术 (*)。
 HeritageDescs."Second Amendment".1 @(26)一旦你学会了一门奥术，你可以在装备有任意项链时施放它。
@@ -3405,7 +3405,7 @@ ChallengeDescs."Blood Sucker".2 @(26)吸取生命：
 ChallengeDescs."El Presidente" @(26)完成这项挑战需要你做以下事情：
 ChallengeDescs."Main Course" @(26)完成这项挑战需要你在被变形后吃掉下列巨怪：
 ChallengeDescs."Road to Hell" @(26)完成这项挑战需要你杀死 %d 个 20 级未成年恶魔后，输入：
-ChallengeDescs."Road to Hell".1 &quot;%s&quot;
+ChallengeDescs."Road to Hell".1 &quot;%s&quot; 
 ChallengeDescs."Road to Hell".2 @(26)已杀死恶魔：
 ChallengeDescs."Howdy Ho!" @(26)在老鼠吃掉肯'尼斯的尸体前找到它，就能完成这个挑战。
 ChallengeDescs."Howdy Ho!".1 @(26)注意：每局游戏只能尝试一次，为了完成挑战你必须被变形。
@@ -3442,19 +3442,19 @@ ChallengeDescs."Orbus Bomba" @(26)灌注此传奇效果需要你用增大的法�
 ChallengeDescs."Zombie Dog" @(26)灌注此传奇效果需要你杀死汪汪。
 ChallengeDescs."TestOfLeadership" @(26)完成这项挑战需要你在完成领导力测试后被视为 '%s' 。
 ChallengeDescs."TestOfLeadership".1 @(26)领导力测试有三个问题及三种类型的答案（无情、公正和温和）。
-ChallengeDescs."Path of Wisdom" %s
+ChallengeDescs."Path of Wisdom" %s 
 ChallengeDescs."Path of Wisdom".1 @(26)如果你测试的答案每种类型都有，你会被视为'%s'。
-ChallengeDescs."Path of Justice" %s
+ChallengeDescs."Path of Justice" %s 
 ChallengeDescs."Path of Justice".1 @(26)如果你测试的答案中有无情的和公正的，你会被视为'%s'。
-ChallengeDescs."Path of Decency" %s
+ChallengeDescs."Path of Decency" %s 
 ChallengeDescs."Path of Decency".1 @(26)如果你测试的答案中有无情的和温和的，你会被视为'%s'。
-ChallengeDescs."Path of Kindness" %s
+ChallengeDescs."Path of Kindness" %s 
 ChallengeDescs."Path of Kindness".1 @(26)如果你测试的答案中有公正的和温和的，你会被视为'%s'。
-ChallengeDescs."Path of Cruelty" %s
+ChallengeDescs."Path of Cruelty" %s 
 ChallengeDescs."Path of Cruelty".1 @(26)如果你测试的答案中只有无情的，你会被视为'%s'。
-ChallengeDescs."Path of Fairness" %s
+ChallengeDescs."Path of Fairness" %s 
 ChallengeDescs."Path of Fairness".1 If @(26)如果你测试的答案中只有公正的，你会被视为'%s'。
-ChallengeDescs."Path of Compassion" %s
+ChallengeDescs."Path of Compassion" %s 
 ChallengeDescs."Path of Compassion".1 @(26)如果你测试的答案中只有温和的，你会被视为'%s'。
 ChallengeTitles."Select Title" 选择头衔
 ChallengeTitles."the Alchemist" 炼金师
@@ -3516,25 +3516,25 @@ ChallengeTitles."the Kind" 友好的
 ChallengeTitles."the Cruel" 残忍的
 ChallengeTitles."the Fair" 公平的
 ChallengeTitles."the Gentle" 温和的
-GameLogic."You die. Press %s to continue." You die. Press %s to continue.
-GameLogic."You are asleep and miss your turn." You are asleep and miss your turn.
-GameLogic."You are paralysed and miss your turn." You are paralysed and miss your turn.
-GameLogic."You are shocked and miss your turn." You are shocked and miss your turn.
-GameLogic."You are stunned and miss your turn." You are stunned and miss your turn.
-GameLogic."You feel slow and miss your turn." You feel slow and miss your turn.
-GameLogic."You are afraid and try to run away." You are afraid and try to run away.
-GameLogic."You ascend the stairs." You ascend the stairs.
-GameLogic."You ascend the ladder." You ascend the ladder.
-GameLogic."You descend the stairs." You descend the stairs.
-GameLogic."You descend the ladder." You descend the ladder.
-GameLogic."You can't enter town while polymorphed." You can't enter town while polymorphed.
-GameLogic."You can't enter town while shapeshifted." You can't enter town while shapeshifted.
-GameLogic."You can't use entrances at the moment." You can't use entrances at the moment.
-GameLogic."Press %s to travel back to town." Press %s to travel back to town.
-GameLogic."You can't travel at the moment." You can't travel at the moment.
-GameLogic."You can't jump there." You can't jump there.
-GameLogic."You can't fully rest while enemies are nearby." You can't fully rest while enemies are nearby.
-GameLogic."You can't fully rest while hunger or thirst is not satiated." You can't fully rest while hunger or thirst is not satiated.
+GameLogic."You die. Press %s to continue." 你死了。按下 %s 继续。
+GameLogic."You are asleep and miss your turn." 你睡着了，失去了一个回合。
+GameLogic."You are paralysed and miss your turn." 你被麻痹了，失去了一个回合。
+GameLogic."You are shocked and miss your turn." 你被震住了，失去了一个回合。
+GameLogic."You are stunned and miss your turn." 你被眩晕了，失去了一个回合。
+GameLogic."You feel slow and miss your turn." 你感到变慢了，失去了一个回合。
+GameLogic."You are afraid and try to run away." 你很害怕，试图逃跑。
+GameLogic."You ascend the stairs." 你爬上楼梯。
+GameLogic."You ascend the ladder." 你顺着梯子向上爬。
+GameLogic."You descend the stairs." 你下了楼梯。
+GameLogic."You descend the ladder." 你顺着梯子向下爬。
+GameLogic."You can't enter town while polymorphed." 你被变形后不能进入城镇。
+GameLogic."You can't enter town while shapeshifted." 你变身了，不能进入城镇。
+GameLogic."You can't use entrances at the moment." 你现在不能使用入口。
+GameLogic."Press %s to travel back to town." 按下 %s 回城。
+GameLogic."You can't travel at the moment." 你现在无法快速回城。
+GameLogic."You can't jump there." 你无法跳到那里去。
+GameLogic."You can't fully rest while enemies are nearby." 当附近有敌人时，你无法完全休息。
+GameLogic."You can't fully rest while hunger or thirst is not satiated." 当你的饥饿或口渴状态未被满足时，无法完全休息。
 GameScreen."You can't bind hotkeys while shapeshifted." You can't bind hotkeys while shapeshifted.
 GameScreen."Action cancelled." Action cancelled.
 GameScreen."Quick shot finished." Quick shot finished.
@@ -3682,11 +3682,11 @@ InventoryWindow."You don't have enough free space to unequip your %s." You don't
 SpellbookWindow."Spellbook" 法术书
 SpellbookWindow."You can't use talents while blinded." 你无法在盲眼时使用天赋。
 SpellbookWindow."You can't use talents while confused." 你无法在混乱时使用天赋。
-SpellbookWindow."You can't use talents while polymorphed." 你无法在变形时使用天赋。
+SpellbookWindow."You can't use talents while polymorphed." 你无法在变身时使用天赋。
 SpellbookWindow."You can't use talents while swimming." 你无法在游泳时使用天赋。
 SpellbookWindow."You are too tired to use talents at the moment." 你现在太累了，无法使用天赋。
 SpellbookWindow."You can't use passive talents." 你无法使用被动天赋。
-SpellbookWindow."You can't shapeshift while snared." 在陷阱里，你无法变形。
+SpellbookWindow."You can't shapeshift while snared." 在陷阱里，你无法变身。
 SpellbookWindow."You can't use deadly throw without a thrown weapon." 你没有投掷武器，所以无法进行死亡投掷。
 SpellbookWindow."Select a thrown weapon for deadly throw:" 选择一把投掷武器进行死亡投掷：
 SpellbookWindow."Start quick shot by moving:" 移动后快速射击：
@@ -3715,7 +3715,7 @@ SpellbookWindow."The spell is on a cooldown with %d turns remaining." 这个法�
 SpellbookWindow."You can't cast spells while blinded." 你不能在盲眼时施放法术。
 SpellbookWindow."You can't cast spells while confused." 你不能在混乱时施放法术。
 SpellbookWindow."You can't cast spells while polymorphed." 你不能在被变形时施放法术。
-SpellbookWindow."You can't cast spells while shapeshifted." 你不能在变形时施放法术。
+SpellbookWindow."You can't cast spells while shapeshifted." 你不能在变身时施放法术。
 SpellbookWindow."You can't use %s at the moment." 你现在无法使用%s。
 SpellbookWindow."You can't cast %s at the moment." 你现在无法施放%s。
 AbilityGainWindow."Select ability to increase:" 选择提升一项属性：
