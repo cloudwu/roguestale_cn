@@ -2232,7 +2232,7 @@ WandNames."Wand of Ensnaring" 陷阱魔杖
 WandNames."Wand of Gobsmacking" 震惊魔杖
 WandNames."Wand of Rituals" 祭奠魔杖
 WandNames."Wand of Scripting" 抄写魔杖
-WandNames."Wand of Torture" 肆虐魔杖
+WandNames."Wand of Torture" 折磨魔杖
 WandDescs."WandDesc" @(30)魔杖上看起来被刻下了某种未知的语言。
 WandDescs."WandDescLiterate" @(30)魔杖上的刻痕说 &quot;指向和点击&quot;。想想一下如果你不得不学习如何阅读这段的话？！？
 WandDescs."Wand of Blizzard" @(30)向目标地点发射一颗不断扩张和放大的冰球。
