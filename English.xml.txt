@@ -2240,31 +2240,31 @@ WandDescs."Wand of Burning"  @(30)向目标地点发射一条燃烧的热浪，�
 WandDescs."Wand of Channeling" @(30)允许施法者通过魔杖通导一个已知的法术。
 WandDescs."Wand of Chilling" @(30)向目标地点发射一条冰冻的寒流，对路径上的所有单位造成伤害。
 WandDescs."Wand of Corruption" 在目标地点制造一团腐败之云，对覆盖范围内的所有单位造成伤害。
-WandDescs."Wand of Crippling" @(30)向目标地点发射一条毁灭的路径，对路径上的所有物体造成伤害。
+WandDescs."Wand of Crippling" @(30)向目标地点发射一条毁灭的路径，对路径上的所有单位造成伤害。
 WandDescs."Wand of Crushing" @(30)向目标地点的落下巨石。
-WandDescs."Wand of Entrapment" @(30)在目标地点张开大网，困住覆盖范围内的所有物体。
+WandDescs."Wand of Entrapment" @(30)在目标地点张开大网，困住覆盖范围内的所有单位。
 WandDescs."Wand of Excavation" @(30)这个魔杖的创造者相比于卖力气显然更爱动脑子。
 WandDescs."Wand of Freezing" @(30)造成冰霜伤害或者立即杀死目标生物。
 WandDescs."Wand of Infection" @(30)向目标地点发射一颗不断扩张和放大的感染球。
 WandDescs."Wand of Inferno" @(30)向目标地点发射一颗不断扩张和放大的火球。
 WandDescs."Wand of Knocking" @(30)击退目标生物并且造成伤害。
-WandDescs."Wand of Maelstrom" @(30)在目标地点制造一个死亡旋涡，对覆盖范围内的所有物体造成伤害。
+WandDescs."Wand of Maelstrom" @(30)在目标地点制造一个死亡旋涡，对覆盖范围内的所有单位造成伤害。
 WandDescs."Wand of Melting" @(30)造成火焰伤害或者立即杀死目标生物。
 WandDescs."Wand of Pollution" @(30)向目标地点发射一颗不断扩张和放大的毒球。
-WandDescs."Wand of Shifting" Teleports the caster to the target location.
-WandDescs."Wand of Shocking" Shoots an electric stream at the target location hitting everyone on the path.
-WandDescs."Wand of Tempest" Shoots an amplified and enlarged electric orb at the target location.
-WandDescs."Wand of Wishing" Stroke me gently and your wish might just come true.
-WandDescs."Wand of Wonders" The creator of this wand really likes to gamble.
-WandDescs."Wand of Zapping" Causes shock damage or instantly kills the target creature.
-WandDescs."Wand of Baffling" Shuffles the locations of all creatures within line of sight and confuses them.
-WandDescs."Wand of Bloodletting" Causes the target to bleed to death (in most cases).
-WandDescs."Wand of Disarming" Disarms the target by dropping its main hand weapon on the floor.
-WandDescs."Wand of Ensnaring" Snares the target in a bear trap and summons some wolves.
-WandDescs."Wand of Gobsmacking" Stuns a friend until you break the effect by swapping places.
-WandDescs."Wand of Rituals" Conjures a 3x3 sacrificial circle that is centered on the cursor.
-WandDescs."Wand of Scripting" Creates an average quality duplicate of a scroll.
-WandDescs."Wand of Torture" Causes immense magical damage but never enough to kill the target.
+WandDescs."Wand of Shifting" @(30)将施法者传送到目标地点。
+WandDescs."Wand of Shocking" @(30)向目标地点发射一条的电流，对路径上的所有单位造成伤害。
+WandDescs."Wand of Tempest" @(30)向目标地点发射一颗不断扩张和放大的闪电球。
+WandDescs."Wand of Wishing" @(30)轻柔得抚摸我将会让你梦想成真。
+WandDescs."Wand of Wonders" @(30)这个魔杖的创造者是个十足的赌徒。
+WandDescs."Wand of Zapping" @(30)造成震击伤害或者立即杀死目标生物。
+WandDescs."Wand of Baffling" @(30)打乱视线内所有生物的位置并使其混乱。
+WandDescs."Wand of Bloodletting" @(30)让目标流血至死（大多数情况下）。
+WandDescs."Wand of Disarming" @(30)缴械目标，让它的主手武器掉落在地板上。
+WandDescs."Wand of Ensnaring" @(30)将目标困在捕熊陷阱中同时召唤狼群。
+WandDescs."Wand of Gobsmacking" @(30)让一个朋友持续眩晕，除非你和他交换位置。
+WandDescs."Wand of Rituals" @(30)以鼠标为中心召唤出一个 3*3 的圆形献祭魔法阵。
+WandDescs."Wand of Scripting" @(30)以一般的水准复制一个卷轴。
+WandDescs."Wand of Torture" @(30)造成巨大的魔法伤害，但不会杀死目标。
 WandLogs."The wall crumbles and reveals a hidden door." The wall crumbles and reveals a hidden door.
 WandLogs."The wall crumbles and reveals a hidden passage." The wall crumbles and reveals a hidden passage.
 WandLogs."The wall crumbles and breaks into a boulder." The wall crumbles and breaks into a boulder.
