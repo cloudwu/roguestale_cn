@@ -3339,26 +3339,26 @@ ChallengeNames."Path of Kindness" 友善之路
 ChallengeNames."Path of Cruelty" 残忍之路
 ChallengeNames."Path of Fairness" 公平之路
 ChallengeNames."Path of Compassion" 怜悯之路
-ChallengeDescs."Unlocks &quot;%s&quot; title." Unlocks &quot;%s&quot; title.
-ChallengeDescs."This challenge can't be unlocked on casual difficulty level." This challenge can't be unlocked on casual difficulty level.
-ChallengeDescs."The description of this challenge is hidden until it is completed." The description of this challenge is hidden until it is completed.
-ChallengeDescs."The description of this challenge is hidden until it is completed.".1 It also requires draining the swamp so you might want to start there.
-ChallengeDescs."Bottled Rage" This challenge can be completed by killing an enemy with a healing potion.
-ChallengeDescs."One Stray Shot" This challenge can be completed by causing 25 or more damage to an enemy with a single shot.
-ChallengeDescs."One Stray Shot".1 Instant kill effects do not count.
-ChallengeDescs."The Curve Ball" This challenge can be completed by killing an uninjured level 10+ enemy with a single hit from a thrown weapon.
-ChallengeDescs."The Curve Ball".1 Instant kill effects do not count.
-ChallengeDescs."Itch Be Slapped" This challenge can be completed by killing an uninjured monster while causing damage only with your bare hands.
-ChallengeDescs."The Ghostbuster" This challenge can be completed by killing all Heroes of Hallwood in the final battle.
-ChallengeDescs."Against the Odds" This challenge can be completed by clearing a dungeon consisting of three or more levels with cursed jewelry.
-ChallengeDescs."Against the Odds".1 You must have a cursed amulet and two cursed rings equipped at the time the dungeon is reset.
-ChallengeDescs."Against the Odds".2 Closing an entrance does not count.
-ChallengeDescs."Dark Passenger" This challenge can be completed by reaching level 20 without lighting any torches.
-ChallengeDescs."The Loose Knot" This challenge can be completed by killing yourself using telekinesis.
-ChallengeDescs."True Devotion" This challenge can be completed by completing all other challenges.
-ChallengeDescs."Control Freak" This challenge can be completed by enslaving a daemon while having a human, undead, beast and monster friends
-ChallengeDescs."Control Freak".1 at the same.
-ChallengeDescs."Meticulous One" This challenge can be completed by finishing the following encounters in a single game:
+ChallengeDescs."Unlocks &quot;%s&quot; title." 解锁 &quot;%s&quot; 头衔。
+ChallengeDescs."This challenge can't be unlocked on casual difficulty level." @(26)这项挑战无法在休闲难度级别下完成。
+ChallengeDescs."The description of this challenge is hidden until it is completed." @(26)这项挑战的说明只有在完成后才可见。
+ChallengeDescs."The description of this challenge is hidden until it is completed.".1 @(26)它还需要排干沼泽，或许你该从那里开始。
+ChallengeDescs."Bottled Rage" @(26)完成这项挑战需要用一瓶治疗药剂杀死敌人完成。
+ChallengeDescs."One Stray Shot" @(26)完成这项挑战需要用单发射击对一个敌人造成 25 点或更高伤害。
+ChallengeDescs."One Stray Shot".1 @(26)触发即死效果不算。
+ChallengeDescs."The Curve Ball" @(26)完成这项挑战需要用一发投掷武器杀死一个无伤的 10+ 级敌人。
+ChallengeDescs."The Curve Ball".1 @(26)触发即死效果不算。
+ChallengeDescs."Itch Be Slapped" @(26)完成这项挑战需要你赤手空拳杀死一个无伤的巨怪。
+ChallengeDescs."The Ghostbuster" @(26)完成这项挑战需要你在终局之战中杀死所有的圣林英雄。
+ChallengeDescs."Against the Odds" @(26)完成这项挑战需要你带着被诅咒的珠宝清空至少有三层的地牢。
+ChallengeDescs."Against the Odds".1 @(26)你必须在重置地牢时就带上一个被诅咒的项链和两枚被诅咒的戒指。
+ChallengeDescs."Against the Odds".2 @(26)封堵上入口不算。
+ChallengeDescs."Dark Passenger" @(26)完成这项挑战需要你在升到 20 级之前不点燃任何一处壁火。
+ChallengeDescs."The Loose Knot" @(26)完成这项挑战需要你用念动力杀死自己。
+ChallengeDescs."True Devotion" @(26)完成这项挑战需要你完成所有其它挑战。
+ChallengeDescs."Control Freak" @(26)完成这项挑战需要你同时拥有人类，亡灵，野兽，巨怪伙伴时，再奴役一个恶魔。
+ChallengeDescs."Control Freak".1 
+ChallengeDescs."Meticulous One" @(26)完成这项挑战需要你完成以下遭遇战：
 ChallengeDescs."Feel the Power" This challenge can be completed by having %d or more ability points without buffs or debuffs.
 ChallengeDescs."Feel the Power".1 Note that this challenge is triggered at the end of a turn and it cannot be completed while in town.
 ChallengeDescs."Peaceful Hippie" This challenge can be completed by reaching level %d without killing anyone or anything.

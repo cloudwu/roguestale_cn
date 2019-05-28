@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="c057c2517ca76bed4021975f862cede9909b89ef">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="5332edd66ea46a6f8847bd1595fdb634aa371b93">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -3665,31 +3665,31 @@
     <str id="Path of Compassion" value="Path of Compassion" local="怜悯之路"/>
   </ChallengeNames>
   <ChallengeDescs>
-    <str id="Unlocks &quot;%s&quot; title." value="Unlocks &quot;%s&quot; title."/>
-    <str id="This challenge can't be unlocked on casual difficulty level." value="This challenge can't be unlocked on casual difficulty level."/>
-    <str id="The description of this challenge is hidden until it is completed." value="The description of this challenge is hidden until it is completed.">
-      <str id="paragraph 1" value="It also requires draining the swamp so you might want to start there."/>
+    <str id="Unlocks &quot;%s&quot; title." value="Unlocks &quot;%s&quot; title." local="解锁 &quot;%s&quot; 头衔。"/>
+    <str id="This challenge can't be unlocked on casual difficulty level." value="This challenge can't be unlocked on casual difficulty level." local="这项挑战无法在休闲难度级别&#10;下完成。"/>
+    <str id="The description of this challenge is hidden until it is completed." value="The description of this challenge is hidden until it is completed." local="这项挑战的说明只有在完成后&#10;才可见。">
+      <str id="paragraph 1" value="It also requires draining the swamp so you might want to start there." local="它还需要排干沼泽，或许你该&#10;从那里开始。"/>
     </str>
-    <str id="Bottled Rage" value="This challenge can be completed by killing an enemy with a healing potion."/>
-    <str id="One Stray Shot" value="This challenge can be completed by causing 25 or more damage to an enemy with a single shot.">
-      <str id="paragraph 1" value="Instant kill effects do not count."/>
+    <str id="Bottled Rage" value="This challenge can be completed by killing an enemy with a healing potion." local="完成这项挑战需要用一瓶治疗&#10;药剂杀死敌人完成。"/>
+    <str id="One Stray Shot" value="This challenge can be completed by causing 25 or more damage to an enemy with a single shot." local="完成这项挑战需要用单发射击&#10;对一个敌人造成 25 点或更高&#10;伤害。">
+      <str id="paragraph 1" value="Instant kill effects do not count." local="触发即死效果不算。"/>
     </str>
-    <str id="The Curve Ball" value="This challenge can be completed by killing an uninjured level 10+ enemy with a single hit from a thrown weapon.">
-      <str id="paragraph 1" value="Instant kill effects do not count."/>
+    <str id="The Curve Ball" value="This challenge can be completed by killing an uninjured level 10+ enemy with a single hit from a thrown weapon." local="完成这项挑战需要用一发投掷&#10;武器杀死一个无伤的 10+ 级敌&#10;人。">
+      <str id="paragraph 1" value="Instant kill effects do not count." local="触发即死效果不算。"/>
     </str>
-    <str id="Itch Be Slapped" value="This challenge can be completed by killing an uninjured monster while causing damage only with your bare hands."/>
-    <str id="The Ghostbuster" value="This challenge can be completed by killing all Heroes of Hallwood in the final battle."/>
-    <str id="Against the Odds" value="This challenge can be completed by clearing a dungeon consisting of three or more levels with cursed jewelry.">
-      <str id="paragraph 1" value="You must have a cursed amulet and two cursed rings equipped at the time the dungeon is reset."/>
-      <str id="paragraph 2" value="Closing an entrance does not count."/>
+    <str id="Itch Be Slapped" value="This challenge can be completed by killing an uninjured monster while causing damage only with your bare hands." local="完成这项挑战需要你赤手空拳&#10;杀死一个无伤的巨怪。"/>
+    <str id="The Ghostbuster" value="This challenge can be completed by killing all Heroes of Hallwood in the final battle." local="完成这项挑战需要你在终局之&#10;战中杀死所有的圣林英雄。"/>
+    <str id="Against the Odds" value="This challenge can be completed by clearing a dungeon consisting of three or more levels with cursed jewelry." local="完成这项挑战需要你带着被诅&#10;咒的珠宝清空至少有三层的地&#10;牢。">
+      <str id="paragraph 1" value="You must have a cursed amulet and two cursed rings equipped at the time the dungeon is reset." local="你必须在重置地牢时就带上一&#10;个被诅咒的项链和两枚被诅咒&#10;的戒指。"/>
+      <str id="paragraph 2" value="Closing an entrance does not count." local="封堵上入口不算。"/>
     </str>
-    <str id="Dark Passenger" value="This challenge can be completed by reaching level 20 without lighting any torches."/>
-    <str id="The Loose Knot" value="This challenge can be completed by killing yourself using telekinesis."/>
-    <str id="True Devotion" value="This challenge can be completed by completing all other challenges."/>
-    <str id="Control Freak" value="This challenge can be completed by enslaving a daemon while having a human, undead, beast and monster friends" space="True">
-      <str id="paragraph 1" value="at the same."/>
+    <str id="Dark Passenger" value="This challenge can be completed by reaching level 20 without lighting any torches." local="完成这项挑战需要你在升到 2&#10;0 级之前不点燃任何一处壁火&#10;。"/>
+    <str id="The Loose Knot" value="This challenge can be completed by killing yourself using telekinesis." local="完成这项挑战需要你用念动力&#10;杀死自己。"/>
+    <str id="True Devotion" value="This challenge can be completed by completing all other challenges." local="完成这项挑战需要你完成所有&#10;其它挑战。"/>
+    <str id="Control Freak" value="This challenge can be completed by enslaving a daemon while having a human, undead, beast and monster friends" local="完成这项挑战需要你同时拥有&#10;人类，亡灵，野兽，巨怪伙伴&#10;时，再奴役一个恶魔。" space="True">
+      <str id="paragraph 1" value="at the same." local=""/>
     </str>
-    <str id="Meticulous One" value="This challenge can be completed by finishing the following encounters in a single game:"/>
+    <str id="Meticulous One" value="This challenge can be completed by finishing the following encounters in a single game:" local="完成这项挑战需要你完成以下&#10;遭遇战："/>
     <str id="Feel the Power" value="This challenge can be completed by having %d or more ability points without buffs or debuffs.">
       <str id="paragraph 1" value="Note that this challenge is triggered at the end of a turn and it cannot be completed while in town."/>
     </str>
