@@ -2233,24 +2233,24 @@ WandNames."Wand of Gobsmacking" 震惊魔杖
 WandNames."Wand of Rituals" 祭奠魔杖
 WandNames."Wand of Scripting" 抄写魔杖
 WandNames."Wand of Torture" 肆虐魔杖
-WandDescs."WandDesc" There appears to be inscription on the wand that is written in some unknown language.
-WandDescs."WandDescLiterate" The inscription on the wand says &quot;Point and click&quot;. Imagine if you would have to learn how to read for this?!?
-WandDescs."Wand of Blizzard" @(30)向目标位置发射出一颗不断扩张和放大的冰球。
-WandDescs."Wand of Burning"  @(30)向目标位置发射出一束燃烧的热流，攻击路径上的所有单位。
-WandDescs."Wand of Channeling" Allows the caster to channel a known spell through the wand.
-WandDescs."Wand of Chilling" @(30)向目标位置发射出一束冰冻的寒流，攻击路径上的所有单位。
-WandDescs."Wand of Corruption" Creates a cloud of corruption at the target location hitting everyone inside.
-WandDescs."Wand of Crippling" Shoots a crippling stream at the target location hitting everyone on the path.
-WandDescs."Wand of Crushing" Causes a boulder to fall from the ceiling at the target location.
-WandDescs."Wand of Entrapment" Creates a web explosion at the target location trapping everyone inside.
-WandDescs."Wand of Excavation" The creator of this wand clearly favours brains over muscles.
-WandDescs."Wand of Freezing" Causes frost damage or instantly kills the target creature.
-WandDescs."Wand of Infection" Shoots an amplified and enlarged virulent orb at the target location.
-WandDescs."Wand of Inferno" Shoots an amplified and enlarged flaming orb at the target location.
-WandDescs."Wand of Knocking" Damages and knocks the target creature back.
-WandDescs."Wand of Maelstrom" Creates a death vortex at the target location hitting everyone inside.
-WandDescs."Wand of Melting" Causes fire damage or instantly kills the target creature.
-WandDescs."Wand of Pollution" Shoots an amplified and enlarged venomous orb at the target location.
+WandDescs."WandDesc" @(30)魔杖上看起来被刻下了某种未知的语言。
+WandDescs."WandDescLiterate" @(30)魔杖上的刻痕说 &quot;指向和点击&quot;。想想一下如果你不得不学习如何阅读这段的话？！？
+WandDescs."Wand of Blizzard" @(30)向目标地点发射一颗不断扩张和放大的冰球。
+WandDescs."Wand of Burning"  @(30)向目标地点发射一条燃烧的热浪，对路径上的所有单位造成伤害。
+WandDescs."Wand of Channeling" @(30)允许施法者通过魔杖通导一个已知的法术。
+WandDescs."Wand of Chilling" @(30)向目标地点发射一条冰冻的寒流，对路径上的所有单位造成伤害。
+WandDescs."Wand of Corruption" 在目标地点制造一团腐败之云，对覆盖范围内的所有单位造成伤害。
+WandDescs."Wand of Crippling" @(30)向目标地点发射一条毁灭的路径，对路径上的所有物体造成伤害。
+WandDescs."Wand of Crushing" @(30)向目标地点的落下巨石。
+WandDescs."Wand of Entrapment" @(30)在目标地点张开大网，困住覆盖范围内的所有物体。
+WandDescs."Wand of Excavation" @(30)这个魔杖的创造者相比于卖力气显然更爱动脑子。
+WandDescs."Wand of Freezing" @(30)造成冰霜伤害或者立即杀死目标生物。
+WandDescs."Wand of Infection" @(30)向目标地点发射一颗不断扩张和放大的感染球。
+WandDescs."Wand of Inferno" @(30)向目标地点发射一颗不断扩张和放大的火球。
+WandDescs."Wand of Knocking" @(30)击退目标生物并且造成伤害。
+WandDescs."Wand of Maelstrom" @(30)在目标地点制造一个死亡旋涡，对覆盖范围内的所有物体造成伤害。
+WandDescs."Wand of Melting" @(30)造成火焰伤害或者立即杀死目标生物。
+WandDescs."Wand of Pollution" @(30)向目标地点发射一颗不断扩张和放大的毒球。
 WandDescs."Wand of Shifting" Teleports the caster to the target location.
 WandDescs."Wand of Shocking" Shoots an electric stream at the target location hitting everyone on the path.
 WandDescs."Wand of Tempest" Shoots an amplified and enlarged electric orb at the target location.
