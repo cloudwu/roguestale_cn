@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="0d4b66561171d0c891dcc6f7d30dc4274ff620f0">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="dd48ded744142c28ba133faf483f1b936e779de6">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -255,7 +255,7 @@
     <str id="Nabon's Castle" value="Nabon's Castle" local="腊崩的城堡"/>
     <str id="Frostmourn Keep" value="Frostmourn Keep" local="霜之哀伤城楼"/>
     <str id="TRAVELER_DESC" value="Some travelers are staying in the inn and they claim to have seen %s in a dungeon nearby." local="待在旅店中的旅客声称在附近的地牢&#10;中见过 %s 。">
-      <str id="paragraph 1" value="The travelers don't seem like much of a dungeon dwellers but they are certainly greedier than your average rogue." local="这些旅客看起来不太像地牢中的土著&#10;，但肯定比你们这些游侠更贪婪。"/>
+      <str id="paragraph 1" value="The travelers don't seem like much of a dungeon dwellers but they are certainly greedier than your average rogue." local="这些旅客看起来不太像地牢中的怪兽&#10;，但肯定比你们这些游侠更贪婪。"/>
       <str id="paragraph 2" value="If you want to learn the location of the dungeon and %s, you will have to pay dearly for it." local="If @(32)如果你想打听地牢的位置以及 %s ，你需要必须付点钱。"/>
     </str>
     <str id="SPAWN_TRAVELER" value="You pay the travelers and head out to face %s." local="你付了钱给旅客，出发去找 %s 。"/>
@@ -1360,7 +1360,7 @@
     <str id="Deadly " value="Deadly " local="死亡之"/>
     <str id="Demonic " value="Demonic " local="恶魔之"/>
     <str id="Cleric's " value="Cleric's " local="牧师之"/>
-    <str id="Dweller's " value="Dweller's " local="土著之 "/>
+    <str id="Dweller's " value="Dweller's " local="水怪之 "/>
     <str id="Prophet's " value="Prophet's " local="先知之"/>
     <str id="Knight's " value="Knight's " local="骑士之"/>
     <str id="Arcanist's " value="Arcanist's " local="巧匠之"/>
@@ -2247,29 +2247,29 @@
     <str id="Scroll of Time Warp" value="Cancels your current quest and returns you to town, allowing you to try it again later." local="取消你当前的任务并返回城镇，允&#10;许你以后再此尝试。"/>
   </ScrollDescs>
   <ScrollLogs>
-    <str id="You feel less threatened for some reason." value="You feel less threatened for some reason."/>
-    <str id="You feel that you have upset your friends and made new enemies." value="You feel that you have upset your friends and made new enemies."/>
-    <str id="You feel that you have made new enemies." value="You feel that you have made new enemies."/>
-    <str id="You feel that you have upset your friends." value="You feel that you have upset your friends."/>
-    <str id="You feel daemon blood in your veins." value="You feel daemon blood in your veins."/>
-    <str id="You feel that everything is hidden." value="You feel that everything is hidden."/>
-    <str id="You feel that nothing is hidden anymore." value="You feel that nothing is hidden anymore."/>
-    <str id="Poof, %s has been dislocated." value="Poof, %s has been dislocated."/>
-    <str id="Poof, you have been dislocated." value="Poof, you have been dislocated."/>
-    <str id="%s yells: Your trickery is useless here!" value="%s yells: Your trickery is useless here!"/>
-    <str id="%s turns invisible." value="%s turns invisible."/>
-    <str id="You suddenly feel more talented than ever." value="You suddenly feel more talented than ever."/>
-    <str id="%s starts to levitate." value="%s starts to levitate."/>
-    <str id="The world seems somewhat stranger now." value="The world seems somewhat stranger now."/>
-    <str id="The world seems somewhat brighter now." value="The world seems somewhat brighter now."/>
-    <str id="%s is polymorphed." value="%s is polymorphed."/>
-    <str id="%s shimmers brightly before shattering to pieces." value="%s shimmers brightly before shattering to pieces."/>
-    <str id="%s vanishes before you teleport on it." value="%s vanishes before you teleport on it."/>
-    <str id="%s appears before you teleport on it." value="%s appears before you teleport on it."/>
-    <str id="You teleport to a new location." value="You teleport to a new location."/>
-    <str id="You feel death chill in your bones." value="You feel death chill in your bones."/>
-    <str id="You suddenly feel as if you've traveled 88 mph." value="You suddenly feel as if you've traveled 88 mph."/>
-    <str id="You suddenly get a strange deja vu feeling." value="You suddenly get a strange deja vu feeling."/>
+    <str id="You feel less threatened for some reason." value="You feel less threatened for some reason." local="因为某种原因，你感觉威胁减少了。"/>
+    <str id="You feel that you have upset your friends and made new enemies." value="You feel that you have upset your friends and made new enemies." local="你感觉惹恼了你的伙伴，你又有了新的敌人。"/>
+    <str id="You feel that you have made new enemies." value="You feel that you have made new enemies." local="你感觉有了新的敌人。"/>
+    <str id="You feel that you have upset your friends." value="You feel that you have upset your friends." local="你感觉惹恼了你的伙伴。"/>
+    <str id="You feel daemon blood in your veins." value="You feel daemon blood in your veins." local="你感觉你的体内流淌着恶魔之血。"/>
+    <str id="You feel that everything is hidden." value="You feel that everything is hidden." local="你感觉一切都隐形了。"/>
+    <str id="You feel that nothing is hidden anymore." value="You feel that nothing is hidden anymore." local="你感觉一切无所遁形。"/>
+    <str id="Poof, %s has been dislocated." value="Poof, %s has been dislocated." local="噗，%s 脱臼了。"/>
+    <str id="Poof, you have been dislocated." value="Poof, you have been dislocated." local="噗，你脱臼了。"/>
+    <str id="%s yells: Your trickery is useless here!" value="%s yells: Your trickery is useless here!" local="%s 喊道：你的诡计在这里是没有用的！"/>
+    <str id="%s turns invisible." value="%s turns invisible." local="%s 隐形了。"/>
+    <str id="You suddenly feel more talented than ever." value="You suddenly feel more talented than ever." local="你突然觉得自己比以前更有才华了。"/>
+    <str id="%s starts to levitate." value="%s starts to levitate." local="%s 开始飘了起来。"/>
+    <str id="The world seems somewhat stranger now." value="The world seems somewhat stranger now." local="现在的世界似乎有些陌生。"/>
+    <str id="The world seems somewhat brighter now." value="The world seems somewhat brighter now." local="现在世界似乎更加光明了。"/>
+    <str id="%s is polymorphed." value="%s is polymorphed." local="%s 被变形了。"/>
+    <str id="%s shimmers brightly before shattering to pieces." value="%s shimmers brightly before shattering to pieces." local="%s 在破碎成碎片之前光芒四射。"/>
+    <str id="%s vanishes before you teleport on it." value="%s vanishes before you teleport on it." local="%s 在你传送到它之前消失了。"/>
+    <str id="%s appears before you teleport on it." value="%s appears before you teleport on it." local="%s 在你传送到它之前出现了。"/>
+    <str id="You teleport to a new location." value="You teleport to a new location." local="你传到到一个新的位置。"/>
+    <str id="You feel death chill in your bones." value="You feel death chill in your bones." local="你感到死一般的彻骨之寒。"/>
+    <str id="You suddenly feel as if you've traveled 88 mph." value="You suddenly feel as if you've traveled 88 mph." local="你瞬间感觉时速到了 88 英里。"/>
+    <str id="You suddenly get a strange deja vu feeling." value="You suddenly get a strange deja vu feeling." local="一种奇怪的既视感瞬间袭来。"/>
   </ScrollLogs>
   <ShieldNames>
     <str id="Fist" value="Fist" local="拳头"/>
@@ -3158,7 +3158,7 @@
     <str id="You have cleared the dungeon but you are not alone!" value="You have cleared the dungeon but you are not alone!" local="你清空了地牢，但你并不孤单！"/>
     <str id="Arnold from Black Field" value="Arnold from Black Field" local="黑色领域的阿诺德"/>
     <str id="Bruce from Helm's Keep" value="Bruce from Helm's Keep" local="海尔姆堡的布鲁斯"/>
-    <str id="Dolph the Grove Dweller" value="Dolph the Grove Dweller" local="多尔夫的格鲁夫土著"/>
+    <str id="Dolph the Grove Dweller" value="Dolph the Grove Dweller" local="多尔夫的怪兽格鲁夫"/>
     <str id="Jason from Wharf Manor" value="Jason from Wharf Manor" local="码头庄园的杰森"/>
     <str id="Jeanne from Cloudy Dam" value="Jeanne from Cloudy Dam" local="云坝的珍妮"/>
     <str id="Lyman the Pandamonium" value="Lyman the Pandamonium" local="功夫大师莱曼"/>
@@ -3739,7 +3739,7 @@
     <str id="Acne Treatment" value="This challenge can be completed by regaining full health after spending %d or more turns in lava." local="完成这项挑战需要你在岩浆里&#10;坚持 %d 或更多回合后生命回&#10;满。">
       <str id="paragraph 1" value="Previous bath:" local="上次沐浴："/>
     </str>
-    <str id="Feeling Slimy" value="This challenge can be completed by regaining full health after being surrounded by %d dwellers and/or lurkers." local="完成这项挑战需要你在被 %d &#10;只土著或潜伏者包围后将生命&#10;回满。">
+    <str id="Feeling Slimy" value="This challenge can be completed by regaining full health after being surrounded by %d dwellers and/or lurkers." local="完成这项挑战需要你在被 %d &#10;只水怪或潜伏者包围后将生命&#10;回满。">
       <str id="paragraph 1" value="Note that being levitated while surrounded prevents that part of this challenge from triggering (so don't levitate)." local="注意：在被包围后浮空会阻止&#10;触发这项挑战（所以不要浮空&#10;）。"/>
     </str>
     <str id="Tax Evasion" value="This challenge can be completed by killing %d enemies in a row without being hit by a melee, ranged or spell attack." local="完成这项挑战需要你连续杀死&#10; %d 敌人，期间不被近战、远&#10;程、魔法攻击到。">
@@ -3784,8 +3784,8 @@
       <str id="paragraph 1" value="Note that triggered demonrats have a hateful aura that reflects damage." local="注意：激发的魔鼠带有一个憎&#10;恶光环可以反弹伤害。"/>
     </str>
     <str id="Drain the Swamp" value="Unlocks &quot;%s&quot; title and enables legendary effects." local="解锁 &quot;%s&quot; 头衔并&#10;开启传奇效果。">
-      <str id="paragraph 1" value="This challenge can be completed by naming a weapon &quot;Orangutang&quot; and using it to slay %d swamp monsters." local="完成这项挑战 需要你将一件武器 命名为 &quot;Orangutang&quot; 并用它杀死 %d 沼泽巨怪。"/>
-      <str id="paragraph 2" value="Note that it should be wielded in the main hand while killing lurkers and or dwellers." local="注意：在杀死潜伏者或土著时&#10;，武器必须握在主手。"/>
+      <str id="paragraph 1" value="This challenge can be completed by naming a weapon &quot;Orangutang&quot; and using it to slay %d swamp monsters." local="完成这项挑战 需要你将一件武器 命名为 &quot;Orangutang&quot; （译注：橙色之刃）并用它杀死 %d 沼泽巨怪。"/>
+      <str id="paragraph 2" value="Note that it should be wielded in the main hand while killing lurkers and or dwellers." local="注意：在杀死潜伏者或水怪时&#10;，武器必须握在主手。"/>
       <str id="paragraph 3" value="Swamp monsters killed:" local="已杀死沼泽巨怪："/>
     </str>
     <str id="Cheesy Musk" value="This legendary effect can be imbued by taming a cave bear." local="灌注此传奇效果需要驯服一只&#10;洞熊。"/>
@@ -3830,7 +3830,7 @@
     <str id="the Bearhand" value="the Bearhand" local="熊掌"/>
     <str id="the Chuckler" value="the Chuckler" local="笑面虎"/>
     <str id="the Cursed" value="the Cursed" local="诅咒之身"/>
-    <str id="the Dweller" value="the Dweller" local="土著"/>
+    <str id="the Dweller" value="the Dweller" local="地牢怪兽"/>
     <str id="the Gloomy" value="the Gloomy" local="忧郁的"/>
     <str id="the Insane" value="the Insane" local="狂魔"/>
     <str id="the Friendly" value="the Friendly" local="八面玲珑"/>

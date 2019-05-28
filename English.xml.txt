@@ -223,7 +223,7 @@ Quests."Cultists' Lair" 邪教徒的巢穴
 Quests."Nabon's Castle" 腊崩的城堡
 Quests."Frostmourn Keep" 霜之哀伤城楼
 Quests."TRAVELER_DESC" @(32)待在旅店中的旅客声称在附近的地牢中见过 %s 。
-Quests."TRAVELER_DESC".1 @(32)这些旅客看起来不太像地牢中的土著，但肯定比你们这些游侠更贪婪。
+Quests."TRAVELER_DESC".1 @(32)这些旅客看起来不太像地牢中的怪兽，但肯定比你们这些游侠更贪婪。
 Quests."TRAVELER_DESC".2 If @(32)如果你想打听地牢的位置以及 %s ，你需要必须付点钱。
 Quests."SPAWN_TRAVELER" 你付了钱给旅客，出发去找 %s 。
 Quests."ARTIFICER_DESC" @(32)工匠大师鲁班被捉为人质，工匠行会正在招募人选去解救他。
@@ -1241,7 +1241,7 @@ EnchantPrefixes."Electric " 雷电之
 EnchantPrefixes."Deadly " 死亡之
 EnchantPrefixes."Demonic " 恶魔之
 EnchantPrefixes."Cleric's " 牧师之
-EnchantPrefixes."Dweller's " 土著之 
+EnchantPrefixes."Dweller's " 水怪之 
 EnchantPrefixes."Prophet's " 先知之
 EnchantPrefixes."Knight's " 骑士之
 EnchantPrefixes."Arcanist's " 巧匠之
@@ -2066,29 +2066,29 @@ ScrollDescs."Scroll of Forestation" @(30)让目标蘑菇长成一个树人。可
 ScrollDescs."Scroll of Gimmiedat" @(30)将目标装备在主手的武器缴械到你的空手中。
 ScrollDescs."Scroll of Soothing" @(30)抚慰视野中的所有野兽。
 ScrollDescs."Scroll of Time Warp" @(30)取消你当前的任务并返回城镇，允许你以后再此尝试。
-ScrollLogs."You feel less threatened for some reason." You feel less threatened for some reason.
-ScrollLogs."You feel that you have upset your friends and made new enemies." You feel that you have upset your friends and made new enemies.
-ScrollLogs."You feel that you have made new enemies." You feel that you have made new enemies.
-ScrollLogs."You feel that you have upset your friends." You feel that you have upset your friends.
-ScrollLogs."You feel daemon blood in your veins." You feel daemon blood in your veins.
-ScrollLogs."You feel that everything is hidden." You feel that everything is hidden.
-ScrollLogs."You feel that nothing is hidden anymore." You feel that nothing is hidden anymore.
-ScrollLogs."Poof, %s has been dislocated." Poof, %s has been dislocated.
-ScrollLogs."Poof, you have been dislocated." Poof, you have been dislocated.
-ScrollLogs."%s yells: Your trickery is useless here!" %s yells: Your trickery is useless here!
-ScrollLogs."%s turns invisible." %s turns invisible.
-ScrollLogs."You suddenly feel more talented than ever." You suddenly feel more talented than ever.
-ScrollLogs."%s starts to levitate." %s starts to levitate.
-ScrollLogs."The world seems somewhat stranger now." The world seems somewhat stranger now.
-ScrollLogs."The world seems somewhat brighter now." The world seems somewhat brighter now.
-ScrollLogs."%s is polymorphed." %s is polymorphed.
-ScrollLogs."%s shimmers brightly before shattering to pieces." %s shimmers brightly before shattering to pieces.
-ScrollLogs."%s vanishes before you teleport on it." %s vanishes before you teleport on it.
-ScrollLogs."%s appears before you teleport on it." %s appears before you teleport on it.
-ScrollLogs."You teleport to a new location." You teleport to a new location.
-ScrollLogs."You feel death chill in your bones." You feel death chill in your bones.
-ScrollLogs."You suddenly feel as if you've traveled 88 mph." You suddenly feel as if you've traveled 88 mph.
-ScrollLogs."You suddenly get a strange deja vu feeling." You suddenly get a strange deja vu feeling.
+ScrollLogs."You feel less threatened for some reason." 因为某种原因，你感觉威胁减少了。
+ScrollLogs."You feel that you have upset your friends and made new enemies." 你感觉惹恼了你的伙伴，你又有了新的敌人。
+ScrollLogs."You feel that you have made new enemies." 你感觉有了新的敌人。
+ScrollLogs."You feel that you have upset your friends." 你感觉惹恼了你的伙伴。
+ScrollLogs."You feel daemon blood in your veins." 你感觉你的体内流淌着恶魔之血。
+ScrollLogs."You feel that everything is hidden." 你感觉一切都隐形了。
+ScrollLogs."You feel that nothing is hidden anymore." 你感觉一切无所遁形。
+ScrollLogs."Poof, %s has been dislocated." 噗，%s 脱臼了。
+ScrollLogs."Poof, you have been dislocated." 噗，你脱臼了。
+ScrollLogs."%s yells: Your trickery is useless here!" %s 喊道：你的诡计在这里是没有用的！
+ScrollLogs."%s turns invisible." %s 隐形了。
+ScrollLogs."You suddenly feel more talented than ever." 你突然觉得自己比以前更有才华了。
+ScrollLogs."%s starts to levitate." %s 开始飘了起来。
+ScrollLogs."The world seems somewhat stranger now." 现在的世界似乎有些陌生。
+ScrollLogs."The world seems somewhat brighter now." 现在世界似乎更加光明了。
+ScrollLogs."%s is polymorphed." %s 被变形了。
+ScrollLogs."%s shimmers brightly before shattering to pieces." %s 在破碎成碎片之前光芒四射。
+ScrollLogs."%s vanishes before you teleport on it." %s 在你传送到它之前消失了。
+ScrollLogs."%s appears before you teleport on it." %s 在你传送到它之前出现了。
+ScrollLogs."You teleport to a new location." 你传到到一个新的位置。
+ScrollLogs."You feel death chill in your bones." 你感到死一般的彻骨之寒。
+ScrollLogs."You suddenly feel as if you've traveled 88 mph." 你瞬间感觉时速到了 88 英里。
+ScrollLogs."You suddenly get a strange deja vu feeling." 一种奇怪的既视感瞬间袭来。
 ShieldNames."Fist" 拳头
 ShieldNames."Buckler" 小盾
 ShieldNames."Target" 圆盾
@@ -2933,7 +2933,7 @@ Achievements."You have cleared the dungeon!" 你清空了地牢！
 Achievements."You have cleared the dungeon but you are not alone!" 你清空了地牢，但你并不孤单！
 Achievements."Arnold from Black Field" 黑色领域的阿诺德
 Achievements."Bruce from Helm's Keep" 海尔姆堡的布鲁斯
-Achievements."Dolph the Grove Dweller" 多尔夫的格鲁夫土著
+Achievements."Dolph the Grove Dweller" 多尔夫的怪兽格鲁夫
 Achievements."Jason from Wharf Manor" 码头庄园的杰森
 Achievements."Jeanne from Cloudy Dam" 云坝的珍妮
 Achievements."Lyman the Pandamonium" 功夫大师莱曼
@@ -3394,7 +3394,7 @@ ChallengeDescs."Fully Buffed" @(26)解锁游戏开始时白色披风的选项。
 ChallengeDescs."Fully Buffed".1 @(26)完成这项挑战需要你同时拥有十二个或更多的 Buff 效果。
 ChallengeDescs."Acne Treatment" @(26)完成这项挑战需要你在岩浆里坚持 %d 或更多回合后生命回满。
 ChallengeDescs."Acne Treatment".1 上次沐浴：
-ChallengeDescs."Feeling Slimy" @(26)完成这项挑战需要你在被 %d 只土著或潜伏者包围后将生命回满。
+ChallengeDescs."Feeling Slimy" @(26)完成这项挑战需要你在被 %d 只水怪或潜伏者包围后将生命回满。
 ChallengeDescs."Feeling Slimy".1 @(26)注意：在被包围后浮空会阻止触发这项挑战（所以不要浮空）。
 ChallengeDescs."Tax Evasion" @(26)完成这项挑战需要你连续杀死 %d 敌人，期间不被近战、远程、魔法攻击到。
 ChallengeDescs."Tax Evasion".1 @(26)注意：蜗牛和倍魅惑的生物不计入内。
@@ -3428,8 +3428,8 @@ ChallengeDescs."Rat Lives Matter".1 @(26)注意：如果任一目标被巨鼠之
 ChallengeDescs."Triggered Much?" @(26)完成这项挑战需要你杀掉一只可能被激发的魔鼠。
 ChallengeDescs."Triggered Much?".1 @(26)注意：激发的魔鼠带有一个憎恶光环可以反弹伤害。
 ChallengeDescs."Drain the Swamp" @(26)解锁 &quot;%s&quot; 头衔并开启传奇效果。
-ChallengeDescs."Drain the Swamp".1 完成这项挑战 需要你将一件武器 命名为 &quot;Orangutang&quot; 并用它杀死 %d 沼泽巨怪。
-ChallengeDescs."Drain the Swamp".2 @(26)注意：在杀死潜伏者或土著时，武器必须握在主手。
+ChallengeDescs."Drain the Swamp".1 完成这项挑战 需要你将一件武器 命名为 &quot;Orangutang&quot; （译注：橙色之刃）并用它杀死 %d 沼泽巨怪。
+ChallengeDescs."Drain the Swamp".2 @(26)注意：在杀死潜伏者或水怪时，武器必须握在主手。
 ChallengeDescs."Drain the Swamp".3 @(26)已杀死沼泽巨怪：
 ChallengeDescs."Cheesy Musk" @(26)灌注此传奇效果需要驯服一只洞熊。
 ChallengeDescs."Death Proof" @(26)灌注此传奇效果需要在生命值低于 25% 且临接一个敌人时施放神圣之盾。
@@ -3463,7 +3463,7 @@ ChallengeTitles."the Assassin" 刺客
 ChallengeTitles."the Bearhand" 熊掌
 ChallengeTitles."the Chuckler" 笑面虎
 ChallengeTitles."the Cursed" 诅咒之身
-ChallengeTitles."the Dweller" 土著
+ChallengeTitles."the Dweller" 地牢怪兽
 ChallengeTitles."the Gloomy" 忧郁的
 ChallengeTitles."the Insane" 狂魔
 ChallengeTitles."the Friendly" 八面玲珑
