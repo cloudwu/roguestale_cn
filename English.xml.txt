@@ -1523,7 +1523,7 @@ AmuletDescs."Amulet of Yendor" @(30)可爱的首饰，然而没有魔法效果�
 AmuletDescs."Amulet of Battlemage" @(30)穿盔甲或盾牌时忽略它们对施法的负面影响。
 AmuletDescs."Amulet of Domination" @(30)你造成的每点伤害都有 17% 的机会魅惑目标一个回合。
 AmuletDescs."Amulet of Geomancy" @(30)教会你一个法术，该法术可以改变地形，把裂谷变为墙壁。
-AmuletDescs."Amulet of Radiance" @(30)给你一个半径为 1 的场。同时能让你免疫场效果。
+AmuletDescs."Amulet of Radiance" @(30)给你一个半径为 1 的光环。同时能让你免疫光环效果。
 AmuletDescs."Amulet of Sacrifice" @(30)在使用献祭圈进行献祭仪式时必须佩戴它。
 AmuletDescs."Amulet of Submission" @(30)你受到的每一点伤害都有 17% 的机会被魅惑。这个项链无法取下来。
 AmuletDescs."Amulet of Uberlyft" @(30)旅行按钮现在在清空 50% 的楼层后就可以使用。
@@ -1533,7 +1533,7 @@ AmuletDescs."BlessedFreeAction" @(30)获得一次免费行动，免疫迟缓效�
 AmuletDescs."BlessedGhostForm" @(30)超凡：让物理，毒害和疾病效果减半。
 AmuletDescs."BlessedBattlemage" @(30)穿盔甲或盾牌时忽略它们对施法和闪避的负面影响。
 AmuletDescs."BlessedDomination" @(30)你造成的每点伤害都有 33% 的机会魅惑目标一个回合。
-AmuletDescs."BlessedRadiance" @(30)给你一个半径为 2 的场。同时能让你免疫场效果。
+AmuletDescs."BlessedRadiance" @(30)给你一个半径为 2 的光环。同时能让你免疫光环效果。
 AmuletDescs."BlessedSacrifice" @(30)在使用献祭圈进行献祭仪式时必须拥有它。
 AmuletDescs."BlessedUberlyft" @(30)旅行按钮现在在清空 25% 的楼层后就可以使用。
 ArmourNames."Robe" 长袍
@@ -2939,21 +2939,21 @@ Achievements."Jeanne from Cloudy Dam" 云坝的珍妮
 Achievements."Lyman the Pandamonium" 功夫大师莱曼
 Achievements."Norris the Chuckler" 微笑的诺里斯
 Achievements."Randy the Dressmaker" 裁缝兰迪
-Achievements."Sylvie the Tall One" 高个的西尔维
+Achievements."Sylvie the Tall One" 高个子西尔维
 Achievements."Currently known: %d/%d" 当前知晓：%d/%d
 Achievements."Current score: %d" 当前分数：%d
 Achievements."Items donated: %d/%d" 物品已捐献：%d/%d
 Achievements."I love pink" 我喜欢粉色
 Achievements."Yes" 是
 Achievements."No" 不
-Achievements."I offer my dungeon to you" 我把我的地牢给你
-Achievements."Everything in life is luck" 运气就是生命的一切
+Achievements."I offer my dungeon to you" 我献上地牢给你
+Achievements."Everything in life is luck" 时也运也命也
 Achievements."Store %d or more gold coins." 存下 %d 或更多的金币。
 Achievements."Spend until you have 0 gold." 花到你只剩 0 金币。
-Achievements."Empty your backpack and reset dungeon with 0 gold." 将你的背包清空，一个金币都不留，重置地牢。
+Achievements."Empty your backpack and reset dungeon with 0 gold." @(24)将你的背包清空，一个金币都不留，重置地牢。
 Achievements."Store %d or more gold coins." 存下 %d 或更多的金币。
 Achievements."Type &quot;%s&quot;." 输入 &quot;%s&quot; 。
-Achievements."I'm over 9 inches" 我不只 23 厘米。
+Achievements."I'm over 9 inches" 我有二十三厘米
 Achievements."Reach level 18 or higher." 达到 18 级或更高等级。
 Achievements."Find a %s." 找到一件 %s。
 Achievements."Slay enough trolls." 干掉足够多的巨魔。
@@ -3103,11 +3103,11 @@ HeritageNames."Complex Tension" 张力无限
 HeritageNames."Solid Protection" 严密保护
 HeritageNames."Hardened Skull" 硬化头颅
 HeritageNames."Smart Clothing" 精美外衣
-HeritageNames."Cry On My Shoulder" 靠在肩膀上哭泣
-HeritageNames."Brace For Impact" 用护腕迎接冲击
-HeritageNames."Hairy Handguards" 华丽的护手
+HeritageNames."Cry On My Shoulder" 靠在我肩膀哭泣
+HeritageNames."Brace For Impact" 绷紧护腕
+HeritageNames."Hairy Handguards" 华丽护手
 HeritageNames."Don't Tread On Me" 不要踩我
-HeritageNames."Patron of Arts" 赞助的艺术
+HeritageNames."Patron of Arts" 艺术守护
 HeritageNames."Spiritual Guidance" 精神引导
 HeritageNames."Bestial Vigour" 兽性大发
 HeritageNames."Leader of the Pack" 团队领袖
@@ -3272,73 +3272,73 @@ HeritageDescs."Wester Worshipper" @(26)允许你通过一个雕花金字塔和�
 HeritageDescs."Wester Worshipper".1 @(26)一旦你学会了一门深渊法术，你就可以在背包中有金字塔时施放它。
 HeritageDescs."Wester Worshipper".2 @(26)向工匠行会捐赠一个未鉴定的金字塔可以解锁这项遗产。
 HeritageDescs."Wester Worshipper".3 @(26)(*) 注意：你需要读写：常识以及另一项读写天赋。
-ChallengeNames."Bottled Rage" Bottled Rage
-ChallengeNames."One Stray Shot" One Stray Shot
-ChallengeNames."The Curve Ball" The Curve Ball
-ChallengeNames."Itch Be Slapped" Itch Be Slapped
-ChallengeNames."The Ghostbuster" The Ghostbuster
-ChallengeNames."Against the Odds" Against the Odds
-ChallengeNames."Dark Passenger" Dark Passenger
-ChallengeNames."The Loose Knot" The Loose Knot
-ChallengeNames."True Devotion" True Devotion
-ChallengeNames."Control Freak" Control Freak
-ChallengeNames."Meticulous One" Meticulous One
-ChallengeNames."Feel the Power" Feel the Power
-ChallengeNames."Peaceful Hippie" Peaceful Hippie
-ChallengeNames."The Bubble Boy" The Bubble Boy
-ChallengeNames."The Prodigal Son" The Prodigal Son
-ChallengeNames."Merchant's Tale" Merchant's Tale
-ChallengeNames."Bigger They Are" Bigger They Are
-ChallengeNames."That's Cheating" That's Cheating
-ChallengeNames."The Epic Splat" The Epic Splat
-ChallengeNames."One Nasty Flu" One Nasty Flu
-ChallengeNames."Just a Scratch" Just a Scratch
-ChallengeNames."Idle Bookworm" Idle Bookworm
-ChallengeNames."Bad Romance" Bad Romance
-ChallengeNames."Undead Party" Undead Party
-ChallengeNames."The Red Mist" The Red Mist
-ChallengeNames."Poison Blade" Poison Blade
-ChallengeNames."Frosty Touch" Frosty Touch
-ChallengeNames."My Precious" My Precious
-ChallengeNames."Dark Shroud" Dark Shroud
-ChallengeNames."Fully Buffed" Fully Buffed
-ChallengeNames."Acne Treatment" Acne Treatment
-ChallengeNames."Feeling Slimy" Feeling Slimy
-ChallengeNames."Tax Evasion" Tax Evasion
-ChallengeNames."Blood Sucker" Blood Sucker
-ChallengeNames."El Presidente" El Presidente
-ChallengeNames."Main Course" Main Course
-ChallengeNames."Road to Hell" Road to Hell
-ChallengeNames."Howdy Ho!" Howdy Ho!
-ChallengeNames."Dog Whisperer" Dog Whisperer
-ChallengeNames."I Got This!" I Got This!
-ChallengeNames."Nabon's Demise" Nabon's Demise
-ChallengeNames."Dwarfageddon" Dwarfageddon
-ChallengeNames."Mental Disorder" Mental Disorder
-ChallengeNames."Mother of Drakes" Mother of Drakes
-ChallengeNames."It's Elementary" It's Elementary
-ChallengeNames."Safety Conscious" Safety Conscious
-ChallengeNames."Who's Trolling" Who's Trolling
-ChallengeNames."Greenhouse Effect" Greenhouse Effect
-ChallengeNames."Rat Lives Matter" Rat Lives Matter
-ChallengeNames."Triggered Much?" Triggered Much?
-ChallengeNames."Drain the Swamp" Drain the Swamp
-ChallengeNames."Cheesy Musk" Cheesy Musk
-ChallengeNames."Death Proof" Death Proof
-ChallengeNames."Flashlight" Flashlight
-ChallengeNames."Hateful Aura" Hateful Aura
-ChallengeNames."Leap of Faith" Leap of Faith
-ChallengeNames."Misinvisicast" Misinvisicast
-ChallengeNames."Nightshade" Nightshade
-ChallengeNames."Orbus Bomba" Orbus Bomba
-ChallengeNames."Zombie Dog" Zombie Dog
-ChallengeNames."Path of Wisdom" Path of Wisdom
-ChallengeNames."Path of Justice" Path of Justice
-ChallengeNames."Path of Decency" Path of Decency
-ChallengeNames."Path of Kindness" Path of Kindness
-ChallengeNames."Path of Cruelty" Path of Cruelty
-ChallengeNames."Path of Fairness" Path of Fairness
-ChallengeNames."Path of Compassion" Path of Compassion
+ChallengeNames."Bottled Rage" 药瓶爆裂
+ChallengeNames."One Stray Shot" 千钧一发
+ChallengeNames."The Curve Ball" 乾坤一掷
+ChallengeNames."Itch Be Slapped" 神拳铁掌
+ChallengeNames."The Ghostbuster" 镇邪驱鬼
+ChallengeNames."Against the Odds" 不畏诅咒
+ChallengeNames."Dark Passenger" 幽暗旅程
+ChallengeNames."The Loose Knot" 结扣松脱
+ChallengeNames."True Devotion" 真爱无限
+ChallengeNames."Control Freak" 怪物掌控
+ChallengeNames."Meticulous One" 小心翼翼
+ChallengeNames."Feel the Power" 力量无穷
+ChallengeNames."Peaceful Hippie" 和平大使
+ChallengeNames."The Bubble Boy" 泡泡男孩
+ChallengeNames."The Prodigal Son" 败家浪子
+ChallengeNames."Merchant's Tale" 巨贾传奇
+ChallengeNames."Bigger They Are" 顶天立地
+ChallengeNames."That's Cheating" 死里偷生
+ChallengeNames."The Epic Splat" 史诗背运
+ChallengeNames."One Nasty Flu" 严重流感
+ChallengeNames."Just a Scratch" 皮外之伤
+ChallengeNames."Idle Bookworm" 学富五车
+ChallengeNames."Bad Romance" 不解风情
+ChallengeNames."Undead Party" 亡灵聚会
+ChallengeNames."The Red Mist" 血色朦胧
+ChallengeNames."Poison Blade" 滴血封喉
+ChallengeNames."Frosty Touch" 寒冰冻结
+ChallengeNames."My Precious" 我的最爱
+ChallengeNames."Dark Shroud" 幽暗笼罩
+ChallengeNames."Fully Buffed" 完全增益
+ChallengeNames."Acne Treatment" 治疗痤疮
+ChallengeNames."Feeling Slimy" 黏黏糊糊
+ChallengeNames."Tax Evasion" 鸡鸣狗盗
+ChallengeNames."Blood Sucker" 吸星大法
+ChallengeNames."El Presidente" 总统先生
+ChallengeNames."Main Course" 饕餮大餐
+ChallengeNames."Road to Hell" 地狱之路
+ChallengeNames."Howdy Ho!" 你吼啊！
+ChallengeNames."Dog Whisperer" 驯犬大师
+ChallengeNames."I Got This!" 拿到了！
+ChallengeNames."Nabon's Demise" 腊崩之死
+ChallengeNames."Dwarfageddon" 未见矮人
+ChallengeNames."Mental Disorder" 精神错乱
+ChallengeNames."Mother of Drakes" 群龙之母
+ChallengeNames."It's Elementary" 致命元素
+ChallengeNames."Safety Conscious" 安全意识
+ChallengeNames."Who's Trolling" 谁是巨魔
+ChallengeNames."Greenhouse Effect" 温室效应
+ChallengeNames."Rat Lives Matter" 鼠害猖獗
+ChallengeNames."Triggered Much?" 惹够了？
+ChallengeNames."Drain the Swamp" 耗尽沼泽
+ChallengeNames."Cheesy Musk" 奶酪面具
+ChallengeNames."Death Proof" 防止死亡
+ChallengeNames."Flashlight" 闪闪发光
+ChallengeNames."Hateful Aura" 憎恶光环
+ChallengeNames."Leap of Faith" 信仰之跃
+ChallengeNames."Misinvisicast" 幻影迷踪
+ChallengeNames."Nightshade" 黑暗幽影
+ChallengeNames."Orbus Bomba" 死亡爆炸
+ChallengeNames."Zombie Dog" 僵尸之狗
+ChallengeNames."Path of Wisdom" 智慧之路
+ChallengeNames."Path of Justice" 正义之路
+ChallengeNames."Path of Decency" 庄重之路
+ChallengeNames."Path of Kindness" 友善之路
+ChallengeNames."Path of Cruelty" 残忍之路
+ChallengeNames."Path of Fairness" 公平之路
+ChallengeNames."Path of Compassion" 怜悯之路
 ChallengeDescs."Unlocks &quot;%s&quot; title." Unlocks &quot;%s&quot; title.
 ChallengeDescs."This challenge can't be unlocked on casual difficulty level." This challenge can't be unlocked on casual difficulty level.
 ChallengeDescs."The description of this challenge is hidden until it is completed." The description of this challenge is hidden until it is completed.
@@ -3407,8 +3407,8 @@ ChallengeDescs."Main Course" This challenge can be completed by by eating the fo
 ChallengeDescs."Road to Hell" This challenge can be completed by killing %d under aged daemons at level 20 after typing:
 ChallengeDescs."Road to Hell".1 &quot;%s&quot;
 ChallengeDescs."Road to Hell".2 Daemons killed:
-ChallengeDescs."Howdy Ho!" 完成这个挑战在老鼠吃掉肯'尼斯的尸体前找到它。
-ChallengeDescs."Howdy Ho!".1 注意：每局游戏只能尝试一次，为了完成挑战你必须被变形。
+ChallengeDescs."Howdy Ho!" @(26)在老鼠吃掉肯'尼斯的尸体前找到它，就能完成这个挑战。
+ChallengeDescs."Howdy Ho!".1 @(26)注意：每局游戏只能尝试一次，为了完成挑战你必须被变形。
 ChallengeDescs."Dog Whisperer" This challenge can be completed by having Woof cause any damage to the King.
 ChallengeDescs."I Got This!" This challenge can be completed by looting the crown on heroic difficulty level.
 ChallengeDescs."Nabon's Demise" This challenge can be completed by killing Dreadlord Nabon and ending his reign of terror.
@@ -3457,65 +3457,65 @@ ChallengeDescs."Path of Fairness".1 If you answer the test with fair answers onl
 ChallengeDescs."Path of Compassion" %s
 ChallengeDescs."Path of Compassion".1 If you answer the test with gentle answers only, you will be known as '%s'.
 ChallengeTitles."Select Title" 选择头衔
-ChallengeTitles."the Alchemist" the Alchemist
-ChallengeTitles."the Archer" the Archer
-ChallengeTitles."the Assassin" the Assassin
-ChallengeTitles."the Bearhand" the Bearhand
-ChallengeTitles."the Chuckler" the Chuckler
-ChallengeTitles."the Cursed" the Cursed
-ChallengeTitles."the Dweller" the Dweller
-ChallengeTitles."the Gloomy" the Gloomy
-ChallengeTitles."the Insane" the Insane
-ChallengeTitles."the Friendly" the Friendly
-ChallengeTitles."the Legend" the Legend
-ChallengeTitles."the Noble" the Noble
-ChallengeTitles."the Pacifist" the Pacifist
-ChallengeTitles."the Paladin" the Paladin
-ChallengeTitles."the Prodigy" the Prodigy
-ChallengeTitles."the Scrooge" the Scrooge
-ChallengeTitles."the Slayer" the Slayer
-ChallengeTitles."the Undying" the Undying
-ChallengeTitles."the Unlucky" the Unlucky
-ChallengeTitles."the Vermin" the Vermin
-ChallengeTitles."the Warrior" the Warrior
-ChallengeTitles."the Wizard" the Wizard
-ChallengeTitles."the Firelord" the Firelord
-ChallengeTitles."the Octopus" the Octopus
-ChallengeTitles."the Untouchable" the Untouchable
-ChallengeTitles."the Vampire" the Vampire
-ChallengeTitles."the Trump" the Trump
-ChallengeTitles."the Munchkin" the Munchkin
-ChallengeTitles."the Saint" the Saint
-ChallengeTitles."the Festive Poo" the Festive Poo
-ChallengeTitles."the Houndmaster" the Houndmaster
-ChallengeTitles."the Kingslayer" the Kingslayer
-ChallengeTitles."the Dreadlord" the Dreadlord
-ChallengeTitles."the Wishmaster" the Wishmaster
-ChallengeTitles."the Savage" the Savage
-ChallengeTitles."the Drakarum" the Drakarum
-ChallengeTitles."the Sherlock" the Sherlock
-ChallengeTitles."the Doctore" the Doctore
-ChallengeTitles."the Epeen Troll" the Epeen Troll
-ChallengeTitles."the Treehugger" the Treehugger
-ChallengeTitles."the Sneaky Git" the Sneaky Git
-ChallengeTitles."the Deplorable" the Deplorable
-ChallengeTitles."the Bog Chief" the Bog Chief
-ChallengeTitles."the Pioneer" the Pioneer
-ChallengeTitles."the Abjurer" the Abjurer
-ChallengeTitles."the Lighter" the Lighter
-ChallengeTitles."the Hateful" the Hateful
-ChallengeTitles."the Lavafrog" the Lavafrog
-ChallengeTitles."the Shifter" the Shifter
-ChallengeTitles."the Deadly" the Deadly
-ChallengeTitles."the Splasher" the Splasher
-ChallengeTitles."the Caretaker" the Caretaker
-ChallengeTitles."the Wise" the Wise
-ChallengeTitles."the Just" the Just
-ChallengeTitles."the Decent" the Decent
-ChallengeTitles."the Kind" the Kind
-ChallengeTitles."the Cruel" the Cruel
-ChallengeTitles."the Fair" the Fair
-ChallengeTitles."the Gentle" the Gentle
+ChallengeTitles."the Alchemist" 炼金师
+ChallengeTitles."the Archer" 射手
+ChallengeTitles."the Assassin" 刺客
+ChallengeTitles."the Bearhand" 熊掌
+ChallengeTitles."the Chuckler" 笑面虎
+ChallengeTitles."the Cursed" 诅咒之身
+ChallengeTitles."the Dweller" 土著
+ChallengeTitles."the Gloomy" 忧郁的
+ChallengeTitles."the Insane" 狂魔
+ChallengeTitles."the Friendly" 八面玲珑
+ChallengeTitles."the Legend" 传奇
+ChallengeTitles."the Noble" 贵族
+ChallengeTitles."the Pacifist" 圣雄
+ChallengeTitles."the Paladin" 圣骑士
+ChallengeTitles."the Prodigy" 奇才
+ChallengeTitles."the Scrooge" 吝啬鬼
+ChallengeTitles."the Slayer" 杀手
+ChallengeTitles."the Undying" 九命
+ChallengeTitles."the Unlucky" 衰神
+ChallengeTitles."the Vermin" 蛊毒
+ChallengeTitles."the Warrior" 武士
+ChallengeTitles."the Wizard" 法师
+ChallengeTitles."the Firelord" 火焰领主
+ChallengeTitles."the Octopus" 章鱼
+ChallengeTitles."the Untouchable" 不可触碰
+ChallengeTitles."the Vampire" 吸血鬼
+ChallengeTitles."the Trump" 特朗普
+ChallengeTitles."the Munchkin" 小白
+ChallengeTitles."the Saint" 圣徒
+ChallengeTitles."the Festive Poo" 节日便便
+ChallengeTitles."the Houndmaster" 驯兽师
+ChallengeTitles."the Kingslayer" 弑君者
+ChallengeTitles."the Dreadlord" 恐惧魔王
+ChallengeTitles."the Wishmaster" 许愿大师
+ChallengeTitles."the Savage" 野蛮人
+ChallengeTitles."the Drakarum" 龙母
+ChallengeTitles."the Sherlock" 夏洛克
+ChallengeTitles."the Doctore" 医生
+ChallengeTitles."the Epeen Troll" 巨魔杀手
+ChallengeTitles."the Treehugger" 植树人
+ChallengeTitles."the Sneaky Git" 卑鄙小人
+ChallengeTitles."the Deplorable" 坏蛋
+ChallengeTitles."the Bog Chief" 沼泽之王
+ChallengeTitles."the Pioneer" 先锋
+ChallengeTitles."the Abjurer" 背誓者
+ChallengeTitles."the Lighter" 点火人
+ChallengeTitles."the Hateful" 可恶的
+ChallengeTitles."the Lavafrog" 熔岩之蛙
+ChallengeTitles."the Shifter" 幻影
+ChallengeTitles."the Deadly" 死神
+ChallengeTitles."the Splasher" 溅射侠
+ChallengeTitles."the Caretaker" 看门人
+ChallengeTitles."the Wise" 睿智的
+ChallengeTitles."the Just" 正义的
+ChallengeTitles."the Decent" 正派的
+ChallengeTitles."the Kind" 友好的
+ChallengeTitles."the Cruel" 残忍的
+ChallengeTitles."the Fair" 公平的
+ChallengeTitles."the Gentle" 温和的
 GameLogic."You die. Press %s to continue." You die. Press %s to continue.
 GameLogic."You are asleep and miss your turn." You are asleep and miss your turn.
 GameLogic."You are paralysed and miss your turn." You are paralysed and miss your turn.

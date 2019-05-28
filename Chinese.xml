@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="7f92dafd21e67f3bc9010e222adbff23e6ddc5b4">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="c057c2517ca76bed4021975f862cede9909b89ef">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -1656,7 +1656,7 @@
     <str id="Amulet of Battlemage" value="Ignores negative effects to spellcasting while wearing armour and or shield." local="穿盔甲或盾牌时忽略它们对施法的&#10;负面影响。"/>
     <str id="Amulet of Domination" value="Every point of damage you cause has a 17% chance to charm the target for 1 turn." local="你造成的每点伤害都有 17% 的机会&#10;魅惑目标一个回合。"/>
     <str id="Amulet of Geomancy" value="Teaches a spell that allows you to alter the terrain height from chasms to walls." local="教会你一个法术，该法术可以改变&#10;地形，把裂谷变为墙壁。"/>
-    <str id="Amulet of Radiance" value="Gives you an aura with a radius of 1. Auras also make you immune to their effects." local="给你一个半径为 1 的场。同时能让&#10;你免疫场效果。"/>
+    <str id="Amulet of Radiance" value="Gives you an aura with a radius of 1. Auras also make you immune to their effects." local="给你一个半径为 1 的光环。同时能&#10;让你免疫光环效果。"/>
     <str id="Amulet of Sacrifice" value="This must be equipped in order to sacrifice something using a sacrificial circle and a ritual." local="在使用献祭圈进行献祭仪式时必须&#10;佩戴它。"/>
     <str id="Amulet of Submission" value="Every point of damage you receive has a 17% chance to charm you for 1 turn. This amulet cannot be unequipped." local="你受到的每一点伤害都有 17% 的机&#10;会被魅惑。这个项链无法取下来。"/>
     <str id="Amulet of Uberlyft" value="Travel button now works after clearing 50% of the current level." local="旅行按钮现在在清空 50% 的楼层后&#10;就可以使用。"/>
@@ -1666,7 +1666,7 @@
     <str id="BlessedGhostForm" value="Ethereal: Halves physical, poison and disease damage taken." local="超凡：让物理，毒害和疾病效果减&#10;半。"/>
     <str id="BlessedBattlemage" value="Ignores negative effects to spellcasting and dodging while wearing armour and or shield." local="穿盔甲或盾牌时忽略它们对施法和&#10;闪避的负面影响。"/>
     <str id="BlessedDomination" value="Every point of damage you cause has a 33% chance to charm the target for 1 turn." local="你造成的每点伤害都有 33% 的机会&#10;魅惑目标一个回合。"/>
-    <str id="BlessedRadiance" value="Gives you an aura with a radius of 2. Auras also make you immune to their effects." local="给你一个半径为 2 的场。同时能让&#10;你免疫场效果。"/>
+    <str id="BlessedRadiance" value="Gives you an aura with a radius of 2. Auras also make you immune to their effects." local="给你一个半径为 2 的光环。同时能&#10;让你免疫光环效果。"/>
     <str id="BlessedSacrifice" value="This must be in your possession in order to sacrifice something using a sacrificial circle and a ritual." local="在使用献祭圈进行献祭仪式时必须&#10;拥有它。"/>
     <str id="BlessedUberlyft" value="Travel button now works after clearing 25% of the current level." local="旅行按钮现在在清空 25% 的楼层后&#10;就可以使用。"/>
   </AmuletDescs>
@@ -3164,21 +3164,21 @@
     <str id="Lyman the Pandamonium" value="Lyman the Pandamonium" local="功夫大师莱曼"/>
     <str id="Norris the Chuckler" value="Norris the Chuckler" local="微笑的诺里斯"/>
     <str id="Randy the Dressmaker" value="Randy the Dressmaker" local="裁缝兰迪"/>
-    <str id="Sylvie the Tall One" value="Sylvie the Tall One" local="高个的西尔维"/>
+    <str id="Sylvie the Tall One" value="Sylvie the Tall One" local="高个子西尔维"/>
     <str id="Currently known: %d/%d" value="Currently known: %d/%d" local="当前知晓：%d/%d"/>
     <str id="Current score: %d" value="Current score: %d" local="当前分数：%d"/>
     <str id="Items donated: %d/%d" value="Items donated: %d/%d" local="物品已捐献：%d/%d"/>
     <str id="I love pink" value="I love pink" local="我喜欢粉色"/>
     <str id="Yes" value="Yes" local="是"/>
     <str id="No" value="No" local="不"/>
-    <str id="I offer my dungeon to you" value="I offer my dungeon to you" local="我把我的地牢给你"/>
-    <str id="Everything in life is luck" value="Everything in life is luck" local="运气就是生命的一切"/>
+    <str id="I offer my dungeon to you" value="I offer my dungeon to you" local="我献上地牢给你"/>
+    <str id="Everything in life is luck" value="Everything in life is luck" local="时也运也命也"/>
     <str id="Store %d or more gold coins." value="Store %d or more gold coins." local="存下 %d 或更多的金币。"/>
     <str id="Spend until you have 0 gold." value="Spend until you have 0 gold." local="花到你只剩 0 金币。"/>
-    <str id="Empty your backpack and reset dungeon with 0 gold." value="Empty your backpack and reset dungeon with 0 gold." local="将你的背包清空，一个金币都不留，重置地牢。"/>
+    <str id="Empty your backpack and reset dungeon with 0 gold." value="Empty your backpack and reset dungeon with 0 gold." local="将你的背包清空，一个金币&#10;都不留，重置地牢。"/>
     <str id="Store %d or more gold coins." value="Store %d or more gold coins." local="存下 %d 或更多的金币。"/>
     <str id="Type &quot;%s&quot;." value="Type &quot;%s&quot;." local="输入 &quot;%s&quot; 。"/>
-    <str id="I'm over 9 inches" value="I'm over 9 inches" local="我不只 23 厘米。"/>
+    <str id="I'm over 9 inches" value="I'm over 9 inches" local="我有二十三厘米"/>
     <str id="Reach level 18 or higher." value="Reach level 18 or higher." local="达到 18 级或更高等级。"/>
     <str id="Find a %s." value="Find a %s." local="找到一件 %s。"/>
     <str id="Slay enough trolls." value="Slay enough trolls." local="干掉足够多的巨魔。"/>
@@ -3354,11 +3354,11 @@
     <str id="Solid Protection" value="Solid Protection" local="严密保护"/>
     <str id="Hardened Skull" value="Hardened Skull" local="硬化头颅"/>
     <str id="Smart Clothing" value="Smart Clothing" local="精美外衣"/>
-    <str id="Cry On My Shoulder" value="Cry On My Shoulder" local="靠在肩膀上哭泣"/>
-    <str id="Brace For Impact" value="Brace For Impact" local="用护腕迎接冲击"/>
-    <str id="Hairy Handguards" value="Hairy Handguards" local="华丽的护手"/>
+    <str id="Cry On My Shoulder" value="Cry On My Shoulder" local="靠在我肩膀哭泣"/>
+    <str id="Brace For Impact" value="Brace For Impact" local="绷紧护腕"/>
+    <str id="Hairy Handguards" value="Hairy Handguards" local="华丽护手"/>
     <str id="Don't Tread On Me" value="Don't Tread On Me" local="不要踩我"/>
-    <str id="Patron of Arts" value="Patron of Arts" local="赞助的艺术"/>
+    <str id="Patron of Arts" value="Patron of Arts" local="艺术守护"/>
     <str id="Spiritual Guidance" value="Spiritual Guidance" local="精神引导"/>
     <str id="Bestial Vigour" value="Bestial Vigour" local="兽性大发"/>
     <str id="Leader of the Pack" value="Leader of the Pack" local="团队领袖"/>
@@ -3596,73 +3596,73 @@
     </str>
   </HeritageDescs>
   <ChallengeNames>
-    <str id="Bottled Rage" value="Bottled Rage"/>
-    <str id="One Stray Shot" value="One Stray Shot"/>
-    <str id="The Curve Ball" value="The Curve Ball"/>
-    <str id="Itch Be Slapped" value="Itch Be Slapped"/>
-    <str id="The Ghostbuster" value="The Ghostbuster"/>
-    <str id="Against the Odds" value="Against the Odds"/>
-    <str id="Dark Passenger" value="Dark Passenger"/>
-    <str id="The Loose Knot" value="The Loose Knot"/>
-    <str id="True Devotion" value="True Devotion"/>
-    <str id="Control Freak" value="Control Freak"/>
-    <str id="Meticulous One" value="Meticulous One"/>
-    <str id="Feel the Power" value="Feel the Power"/>
-    <str id="Peaceful Hippie" value="Peaceful Hippie"/>
-    <str id="The Bubble Boy" value="The Bubble Boy"/>
-    <str id="The Prodigal Son" value="The Prodigal Son"/>
-    <str id="Merchant's Tale" value="Merchant's Tale"/>
-    <str id="Bigger They Are" value="Bigger They Are"/>
-    <str id="That's Cheating" value="That's Cheating"/>
-    <str id="The Epic Splat" value="The Epic Splat"/>
-    <str id="One Nasty Flu" value="One Nasty Flu"/>
-    <str id="Just a Scratch" value="Just a Scratch"/>
-    <str id="Idle Bookworm" value="Idle Bookworm"/>
-    <str id="Bad Romance" value="Bad Romance"/>
-    <str id="Undead Party" value="Undead Party"/>
-    <str id="The Red Mist" value="The Red Mist"/>
-    <str id="Poison Blade" value="Poison Blade"/>
-    <str id="Frosty Touch" value="Frosty Touch"/>
-    <str id="My Precious" value="My Precious"/>
-    <str id="Dark Shroud" value="Dark Shroud"/>
-    <str id="Fully Buffed" value="Fully Buffed"/>
-    <str id="Acne Treatment" value="Acne Treatment"/>
-    <str id="Feeling Slimy" value="Feeling Slimy"/>
-    <str id="Tax Evasion" value="Tax Evasion"/>
-    <str id="Blood Sucker" value="Blood Sucker"/>
-    <str id="El Presidente" value="El Presidente"/>
-    <str id="Main Course" value="Main Course"/>
-    <str id="Road to Hell" value="Road to Hell"/>
-    <str id="Howdy Ho!" value="Howdy Ho!"/>
-    <str id="Dog Whisperer" value="Dog Whisperer"/>
-    <str id="I Got This!" value="I Got This!"/>
-    <str id="Nabon's Demise" value="Nabon's Demise"/>
-    <str id="Dwarfageddon" value="Dwarfageddon"/>
-    <str id="Mental Disorder" value="Mental Disorder"/>
-    <str id="Mother of Drakes" value="Mother of Drakes"/>
-    <str id="It's Elementary" value="It's Elementary"/>
-    <str id="Safety Conscious" value="Safety Conscious"/>
-    <str id="Who's Trolling" value="Who's Trolling"/>
-    <str id="Greenhouse Effect" value="Greenhouse Effect"/>
-    <str id="Rat Lives Matter" value="Rat Lives Matter"/>
-    <str id="Triggered Much?" value="Triggered Much?"/>
-    <str id="Drain the Swamp" value="Drain the Swamp"/>
-    <str id="Cheesy Musk" value="Cheesy Musk"/>
-    <str id="Death Proof" value="Death Proof"/>
-    <str id="Flashlight" value="Flashlight"/>
-    <str id="Hateful Aura" value="Hateful Aura"/>
-    <str id="Leap of Faith" value="Leap of Faith"/>
-    <str id="Misinvisicast" value="Misinvisicast"/>
-    <str id="Nightshade" value="Nightshade"/>
-    <str id="Orbus Bomba" value="Orbus Bomba"/>
-    <str id="Zombie Dog" value="Zombie Dog"/>
-    <str id="Path of Wisdom" value="Path of Wisdom"/>
-    <str id="Path of Justice" value="Path of Justice"/>
-    <str id="Path of Decency" value="Path of Decency"/>
-    <str id="Path of Kindness" value="Path of Kindness"/>
-    <str id="Path of Cruelty" value="Path of Cruelty"/>
-    <str id="Path of Fairness" value="Path of Fairness"/>
-    <str id="Path of Compassion" value="Path of Compassion"/>
+    <str id="Bottled Rage" value="Bottled Rage" local="药瓶爆裂"/>
+    <str id="One Stray Shot" value="One Stray Shot" local="千钧一发"/>
+    <str id="The Curve Ball" value="The Curve Ball" local="乾坤一掷"/>
+    <str id="Itch Be Slapped" value="Itch Be Slapped" local="神拳铁掌"/>
+    <str id="The Ghostbuster" value="The Ghostbuster" local="镇邪驱鬼"/>
+    <str id="Against the Odds" value="Against the Odds" local="不畏诅咒"/>
+    <str id="Dark Passenger" value="Dark Passenger" local="幽暗旅程"/>
+    <str id="The Loose Knot" value="The Loose Knot" local="结扣松脱"/>
+    <str id="True Devotion" value="True Devotion" local="真爱无限"/>
+    <str id="Control Freak" value="Control Freak" local="怪物掌控"/>
+    <str id="Meticulous One" value="Meticulous One" local="小心翼翼"/>
+    <str id="Feel the Power" value="Feel the Power" local="力量无穷"/>
+    <str id="Peaceful Hippie" value="Peaceful Hippie" local="和平大使"/>
+    <str id="The Bubble Boy" value="The Bubble Boy" local="泡泡男孩"/>
+    <str id="The Prodigal Son" value="The Prodigal Son" local="败家浪子"/>
+    <str id="Merchant's Tale" value="Merchant's Tale" local="巨贾传奇"/>
+    <str id="Bigger They Are" value="Bigger They Are" local="顶天立地"/>
+    <str id="That's Cheating" value="That's Cheating" local="死里偷生"/>
+    <str id="The Epic Splat" value="The Epic Splat" local="史诗背运"/>
+    <str id="One Nasty Flu" value="One Nasty Flu" local="严重流感"/>
+    <str id="Just a Scratch" value="Just a Scratch" local="皮外之伤"/>
+    <str id="Idle Bookworm" value="Idle Bookworm" local="学富五车"/>
+    <str id="Bad Romance" value="Bad Romance" local="不解风情"/>
+    <str id="Undead Party" value="Undead Party" local="亡灵聚会"/>
+    <str id="The Red Mist" value="The Red Mist" local="血色朦胧"/>
+    <str id="Poison Blade" value="Poison Blade" local="滴血封喉"/>
+    <str id="Frosty Touch" value="Frosty Touch" local="寒冰冻结"/>
+    <str id="My Precious" value="My Precious" local="我的最爱"/>
+    <str id="Dark Shroud" value="Dark Shroud" local="幽暗笼罩"/>
+    <str id="Fully Buffed" value="Fully Buffed" local="完全增益"/>
+    <str id="Acne Treatment" value="Acne Treatment" local="治疗痤疮"/>
+    <str id="Feeling Slimy" value="Feeling Slimy" local="黏黏糊糊"/>
+    <str id="Tax Evasion" value="Tax Evasion" local="鸡鸣狗盗"/>
+    <str id="Blood Sucker" value="Blood Sucker" local="吸星大法"/>
+    <str id="El Presidente" value="El Presidente" local="总统先生"/>
+    <str id="Main Course" value="Main Course" local="饕餮大餐"/>
+    <str id="Road to Hell" value="Road to Hell" local="地狱之路"/>
+    <str id="Howdy Ho!" value="Howdy Ho!" local="你吼啊！"/>
+    <str id="Dog Whisperer" value="Dog Whisperer" local="驯犬大师"/>
+    <str id="I Got This!" value="I Got This!" local="拿到了！"/>
+    <str id="Nabon's Demise" value="Nabon's Demise" local="腊崩之死"/>
+    <str id="Dwarfageddon" value="Dwarfageddon" local="未见矮人"/>
+    <str id="Mental Disorder" value="Mental Disorder" local="精神错乱"/>
+    <str id="Mother of Drakes" value="Mother of Drakes" local="群龙之母"/>
+    <str id="It's Elementary" value="It's Elementary" local="致命元素"/>
+    <str id="Safety Conscious" value="Safety Conscious" local="安全意识"/>
+    <str id="Who's Trolling" value="Who's Trolling" local="谁是巨魔"/>
+    <str id="Greenhouse Effect" value="Greenhouse Effect" local="温室效应"/>
+    <str id="Rat Lives Matter" value="Rat Lives Matter" local="鼠害猖獗"/>
+    <str id="Triggered Much?" value="Triggered Much?" local="惹够了？"/>
+    <str id="Drain the Swamp" value="Drain the Swamp" local="耗尽沼泽"/>
+    <str id="Cheesy Musk" value="Cheesy Musk" local="奶酪面具"/>
+    <str id="Death Proof" value="Death Proof" local="防止死亡"/>
+    <str id="Flashlight" value="Flashlight" local="闪闪发光"/>
+    <str id="Hateful Aura" value="Hateful Aura" local="憎恶光环"/>
+    <str id="Leap of Faith" value="Leap of Faith" local="信仰之跃"/>
+    <str id="Misinvisicast" value="Misinvisicast" local="幻影迷踪"/>
+    <str id="Nightshade" value="Nightshade" local="黑暗幽影"/>
+    <str id="Orbus Bomba" value="Orbus Bomba" local="死亡爆炸"/>
+    <str id="Zombie Dog" value="Zombie Dog" local="僵尸之狗"/>
+    <str id="Path of Wisdom" value="Path of Wisdom" local="智慧之路"/>
+    <str id="Path of Justice" value="Path of Justice" local="正义之路"/>
+    <str id="Path of Decency" value="Path of Decency" local="庄重之路"/>
+    <str id="Path of Kindness" value="Path of Kindness" local="友善之路"/>
+    <str id="Path of Cruelty" value="Path of Cruelty" local="残忍之路"/>
+    <str id="Path of Fairness" value="Path of Fairness" local="公平之路"/>
+    <str id="Path of Compassion" value="Path of Compassion" local="怜悯之路"/>
   </ChallengeNames>
   <ChallengeDescs>
     <str id="Unlocks &quot;%s&quot; title." value="Unlocks &quot;%s&quot; title."/>
@@ -3756,8 +3756,8 @@
       <str id="paragraph 1" value="&quot;%s&quot;"/>
       <str id="paragraph 2" value="Daemons killed:"/>
     </str>
-    <str id="Howdy Ho!" value="This challenge can be completed by finding and resurrecting Ken'nih before his corpse is eaten by rats." local="完成这个挑战在老鼠吃掉肯'尼斯的尸体前找到它。">
-      <str id="paragraph 1" value="Note that this can be attempted only once per game and you must be polymorphed in order to complete it." local="注意：每局游戏只能尝试一次，为了完成挑战你必须被变形。"/>
+    <str id="Howdy Ho!" value="This challenge can be completed by finding and resurrecting Ken'nih before his corpse is eaten by rats." local="在老鼠吃掉肯'尼斯的尸体前找&#10;到它，就能完成这个挑战。">
+      <str id="paragraph 1" value="Note that this can be attempted only once per game and you must be polymorphed in order to complete it." local="注意：每局游戏只能尝试一次&#10;，为了完成挑战你必须被变形&#10;。"/>
     </str>
     <str id="Dog Whisperer" value="This challenge can be completed by having Woof cause any damage to the King."/>
     <str id="I Got This!" value="This challenge can be completed by looting the crown on heroic difficulty level."/>
@@ -3824,65 +3824,65 @@
   </ChallengeDescs>
   <ChallengeTitles>
     <str id="Select Title" value="Select Title" local="选择头衔"/>
-    <str id="the Alchemist" value="the Alchemist"/>
-    <str id="the Archer" value="the Archer"/>
-    <str id="the Assassin" value="the Assassin"/>
-    <str id="the Bearhand" value="the Bearhand"/>
-    <str id="the Chuckler" value="the Chuckler"/>
-    <str id="the Cursed" value="the Cursed"/>
-    <str id="the Dweller" value="the Dweller"/>
-    <str id="the Gloomy" value="the Gloomy"/>
-    <str id="the Insane" value="the Insane"/>
-    <str id="the Friendly" value="the Friendly"/>
-    <str id="the Legend" value="the Legend"/>
-    <str id="the Noble" value="the Noble"/>
-    <str id="the Pacifist" value="the Pacifist"/>
-    <str id="the Paladin" value="the Paladin"/>
-    <str id="the Prodigy" value="the Prodigy"/>
-    <str id="the Scrooge" value="the Scrooge"/>
-    <str id="the Slayer" value="the Slayer"/>
-    <str id="the Undying" value="the Undying"/>
-    <str id="the Unlucky" value="the Unlucky"/>
-    <str id="the Vermin" value="the Vermin"/>
-    <str id="the Warrior" value="the Warrior"/>
-    <str id="the Wizard" value="the Wizard"/>
-    <str id="the Firelord" value="the Firelord"/>
-    <str id="the Octopus" value="the Octopus"/>
-    <str id="the Untouchable" value="the Untouchable"/>
-    <str id="the Vampire" value="the Vampire"/>
-    <str id="the Trump" value="the Trump"/>
-    <str id="the Munchkin" value="the Munchkin"/>
-    <str id="the Saint" value="the Saint"/>
-    <str id="the Festive Poo" value="the Festive Poo"/>
-    <str id="the Houndmaster" value="the Houndmaster"/>
-    <str id="the Kingslayer" value="the Kingslayer"/>
-    <str id="the Dreadlord" value="the Dreadlord"/>
-    <str id="the Wishmaster" value="the Wishmaster"/>
-    <str id="the Savage" value="the Savage"/>
-    <str id="the Drakarum" value="the Drakarum"/>
-    <str id="the Sherlock" value="the Sherlock"/>
-    <str id="the Doctore" value="the Doctore"/>
-    <str id="the Epeen Troll" value="the Epeen Troll"/>
-    <str id="the Treehugger" value="the Treehugger"/>
-    <str id="the Sneaky Git" value="the Sneaky Git"/>
-    <str id="the Deplorable" value="the Deplorable"/>
-    <str id="the Bog Chief" value="the Bog Chief"/>
-    <str id="the Pioneer" value="the Pioneer"/>
-    <str id="the Abjurer" value="the Abjurer"/>
-    <str id="the Lighter" value="the Lighter"/>
-    <str id="the Hateful" value="the Hateful"/>
-    <str id="the Lavafrog" value="the Lavafrog"/>
-    <str id="the Shifter" value="the Shifter"/>
-    <str id="the Deadly" value="the Deadly"/>
-    <str id="the Splasher" value="the Splasher"/>
-    <str id="the Caretaker" value="the Caretaker"/>
-    <str id="the Wise" value="the Wise"/>
-    <str id="the Just" value="the Just"/>
-    <str id="the Decent" value="the Decent"/>
-    <str id="the Kind" value="the Kind"/>
-    <str id="the Cruel" value="the Cruel"/>
-    <str id="the Fair" value="the Fair"/>
-    <str id="the Gentle" value="the Gentle"/>
+    <str id="the Alchemist" value="the Alchemist" local="炼金师"/>
+    <str id="the Archer" value="the Archer" local="射手"/>
+    <str id="the Assassin" value="the Assassin" local="刺客"/>
+    <str id="the Bearhand" value="the Bearhand" local="熊掌"/>
+    <str id="the Chuckler" value="the Chuckler" local="笑面虎"/>
+    <str id="the Cursed" value="the Cursed" local="诅咒之身"/>
+    <str id="the Dweller" value="the Dweller" local="土著"/>
+    <str id="the Gloomy" value="the Gloomy" local="忧郁的"/>
+    <str id="the Insane" value="the Insane" local="狂魔"/>
+    <str id="the Friendly" value="the Friendly" local="八面玲珑"/>
+    <str id="the Legend" value="the Legend" local="传奇"/>
+    <str id="the Noble" value="the Noble" local="贵族"/>
+    <str id="the Pacifist" value="the Pacifist" local="圣雄"/>
+    <str id="the Paladin" value="the Paladin" local="圣骑士"/>
+    <str id="the Prodigy" value="the Prodigy" local="奇才"/>
+    <str id="the Scrooge" value="the Scrooge" local="吝啬鬼"/>
+    <str id="the Slayer" value="the Slayer" local="杀手"/>
+    <str id="the Undying" value="the Undying" local="九命"/>
+    <str id="the Unlucky" value="the Unlucky" local="衰神"/>
+    <str id="the Vermin" value="the Vermin" local="蛊毒"/>
+    <str id="the Warrior" value="the Warrior" local="武士"/>
+    <str id="the Wizard" value="the Wizard" local="法师"/>
+    <str id="the Firelord" value="the Firelord" local="火焰领主"/>
+    <str id="the Octopus" value="the Octopus" local="章鱼"/>
+    <str id="the Untouchable" value="the Untouchable" local="不可触碰"/>
+    <str id="the Vampire" value="the Vampire" local="吸血鬼"/>
+    <str id="the Trump" value="the Trump" local="特朗普"/>
+    <str id="the Munchkin" value="the Munchkin" local="小白"/>
+    <str id="the Saint" value="the Saint" local="圣徒"/>
+    <str id="the Festive Poo" value="the Festive Poo" local="节日便便"/>
+    <str id="the Houndmaster" value="the Houndmaster" local="驯兽师"/>
+    <str id="the Kingslayer" value="the Kingslayer" local="弑君者"/>
+    <str id="the Dreadlord" value="the Dreadlord" local="恐惧魔王"/>
+    <str id="the Wishmaster" value="the Wishmaster" local="许愿大师"/>
+    <str id="the Savage" value="the Savage" local="野蛮人"/>
+    <str id="the Drakarum" value="the Drakarum" local="龙母"/>
+    <str id="the Sherlock" value="the Sherlock" local="夏洛克"/>
+    <str id="the Doctore" value="the Doctore" local="医生"/>
+    <str id="the Epeen Troll" value="the Epeen Troll" local="巨魔杀手"/>
+    <str id="the Treehugger" value="the Treehugger" local="植树人"/>
+    <str id="the Sneaky Git" value="the Sneaky Git" local="卑鄙小人"/>
+    <str id="the Deplorable" value="the Deplorable" local="坏蛋"/>
+    <str id="the Bog Chief" value="the Bog Chief" local="沼泽之王"/>
+    <str id="the Pioneer" value="the Pioneer" local="先锋"/>
+    <str id="the Abjurer" value="the Abjurer" local="背誓者"/>
+    <str id="the Lighter" value="the Lighter" local="点火人"/>
+    <str id="the Hateful" value="the Hateful" local="可恶的"/>
+    <str id="the Lavafrog" value="the Lavafrog" local="熔岩之蛙"/>
+    <str id="the Shifter" value="the Shifter" local="幻影"/>
+    <str id="the Deadly" value="the Deadly" local="死神"/>
+    <str id="the Splasher" value="the Splasher" local="溅射侠"/>
+    <str id="the Caretaker" value="the Caretaker" local="看门人"/>
+    <str id="the Wise" value="the Wise" local="睿智的"/>
+    <str id="the Just" value="the Just" local="正义的"/>
+    <str id="the Decent" value="the Decent" local="正派的"/>
+    <str id="the Kind" value="the Kind" local="友好的"/>
+    <str id="the Cruel" value="the Cruel" local="残忍的"/>
+    <str id="the Fair" value="the Fair" local="公平的"/>
+    <str id="the Gentle" value="the Gentle" local="温和的"/>
   </ChallengeTitles>
   <GameLogic>
     <str id="You die. Press %s to continue." value="You die. Press %s to continue."/>
