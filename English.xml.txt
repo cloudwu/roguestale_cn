@@ -903,7 +903,7 @@ EffectLogs."Your divine shield absorbs some of the damage before it collapses." 
 EffectLogs."Your divine shield absorbs all of the damage." 你的神圣之盾吸收了所有的伤害。
 EffectLogs."Your attack is partially absorbed by some magical effect." 一些魔法效果部分吸收了你的攻击。
 EffectLogs."Your attack is fully absorbed by some magical effect." 一些魔法效果完全吸收了你的攻击。
-EffectLogs."You die... but you are saved by %s." 你死了... 但你被 %s 救活了.
+EffectLogs."You die... but you are saved by %s." 你死了... 但你被 %s 救活了。
 EffectLogs."%s dies... but is saved by some magical effect." %s 死了... 但被一些魔法效果救活了.
 EffectLogs."You are cursed." 你被诅咒了。
 EffectLogs."%s is cursed." %s 被诅咒了。
@@ -917,9 +917,9 @@ EffectLogs."%s's %s is wearing off." %s 的 %s 发生磨损。
 EffectLogs."%s's %s has worn off." %s 的 %s 已经磨损。
 EffectLogs."%s heals you." %s 治愈了你.
 EffectLogs."You feel agonized." 你感到很痛苦。
-EffectLogs."You feel unnaturally hungry." 你感到不寻常的饥饿。
+EffectLogs."You feel unnaturally hungry." 你感到异乎寻常的饥饿。
 EffectLogs."You feel exhausted." 你感到筋疲力尽。
-EffectLogs."You feel unnaturally thirsty." 你感到不寻常的口渴。
+EffectLogs."You feel unnaturally thirsty." 你感到异乎寻常的口渴。
 EffectLogs."You are damaged by a poison." 你被毒物伤害了。
 EffectLogs."Your energy is drained by a poison." 你的精力被毒物耗尽。
 EffectLogs."Your health is drained by a poison." 你的生命被毒物耗尽。
@@ -2235,10 +2235,10 @@ WandNames."Wand of Scripting" 抄写魔杖
 WandNames."Wand of Torture" 肆虐魔杖
 WandDescs."WandDesc" There appears to be inscription on the wand that is written in some unknown language.
 WandDescs."WandDescLiterate" The inscription on the wand says &quot;Point and click&quot;. Imagine if you would have to learn how to read for this?!?
-WandDescs."Wand of Blizzard" Shoots an amplified and enlarged frozen orb at the target location.
-WandDescs."Wand of Burning" Shoots a flaming stream at the target location hitting everyone on the path.
+WandDescs."Wand of Blizzard" @(30)向目标位置发射出一颗不断扩张和放大的冰球。
+WandDescs."Wand of Burning"  @(30)向目标位置发射出一束燃烧的热流，攻击路径上的所有单位。
 WandDescs."Wand of Channeling" Allows the caster to channel a known spell through the wand.
-WandDescs."Wand of Chilling" Shoots a frozen stream at the target location hitting everyone on the path.
+WandDescs."Wand of Chilling" @(30)向目标位置发射出一束冰冻的寒流，攻击路径上的所有单位。
 WandDescs."Wand of Corruption" Creates a cloud of corruption at the target location hitting everyone inside.
 WandDescs."Wand of Crippling" Shoots a crippling stream at the target location hitting everyone on the path.
 WandDescs."Wand of Crushing" Causes a boulder to fall from the ceiling at the target location.
