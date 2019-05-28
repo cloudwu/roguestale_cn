@@ -903,7 +903,7 @@ EffectLogs."Your divine shield absorbs some of the damage before it collapses." 
 EffectLogs."Your divine shield absorbs all of the damage." 你的神圣之盾吸收了所有的伤害。
 EffectLogs."Your attack is partially absorbed by some magical effect." 一些魔法效果部分吸收了你的攻击。
 EffectLogs."Your attack is fully absorbed by some magical effect." 一些魔法效果完全吸收了你的攻击。
-EffectLogs."You die... but you are saved by %s." 你死了... 但你被 %s 救活了.
+EffectLogs."You die... but you are saved by %s." 你死了... 但你被 %s 救活了。
 EffectLogs."%s dies... but is saved by some magical effect." %s 死了... 但被一些魔法效果救活了.
 EffectLogs."You are cursed." 你被诅咒了。
 EffectLogs."%s is cursed." %s 被诅咒了。
@@ -917,9 +917,9 @@ EffectLogs."%s's %s is wearing off." %s 的 %s 发生磨损。
 EffectLogs."%s's %s has worn off." %s 的 %s 已经磨损。
 EffectLogs."%s heals you." %s 治愈了你.
 EffectLogs."You feel agonized." 你感到很痛苦。
-EffectLogs."You feel unnaturally hungry." 你感到不寻常的饥饿。
+EffectLogs."You feel unnaturally hungry." 你感到异乎寻常的饥饿。
 EffectLogs."You feel exhausted." 你感到筋疲力尽。
-EffectLogs."You feel unnaturally thirsty." 你感到不寻常的口渴。
+EffectLogs."You feel unnaturally thirsty." 你感到异乎寻常的口渴。
 EffectLogs."You are damaged by a poison." 你被毒物伤害了。
 EffectLogs."Your energy is drained by a poison." 你的精力被毒物耗尽。
 EffectLogs."Your health is drained by a poison." 你的生命被毒物耗尽。
