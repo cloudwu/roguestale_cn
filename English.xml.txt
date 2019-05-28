@@ -888,55 +888,55 @@ EffectSeems."+1 Agility" %s 看起来变得敏捷。
 EffectSeems."+1 Stamina" %s 看起来变得坚韧。
 EffectSeems."+1 Charisma" %s 看起来变得好看。
 EffectSeems."Wounded" %s 看起来受伤了。
-EffectLogs."You are no longer %s." You are no longer %s.
-EffectLogs."%s is no longer %s." %s is no longer %s.
-EffectLogs."You are no longer affected by %s." You are no longer affected by %s.
-EffectLogs."%s is no longer affected by %s." %s is no longer affected by %s.
-EffectLogs."You feel hastened." You feel hastened.
-EffectLogs."You land on %s." You land on %s.
-EffectLogs."Hateful aura drains life from you." Hateful aura drains life from you.
-EffectLogs."Your mana shield absorbs some of the damage before you run out of energy." Your mana shield absorbs some of the damage before you run out of energy.
-EffectLogs."Your attack is partially absorbed by a mana shield." Your attack is partially absorbed by a mana shield.
-EffectLogs."Your mana shield absorbs all of the damage." Your mana shield absorbs all of the damage.
-EffectLogs."Your attack is fully absorbed by a mana shield." Your attack is fully absorbed by a mana shield.
-EffectLogs."Your divine shield absorbs some of the damage before it collapses." Your divine shield absorbs some of the damage before it collapses.
-EffectLogs."Your divine shield absorbs all of the damage." Your divine shield absorbs all of the damage.
-EffectLogs."Your attack is partially absorbed by some magical effect." Your attack is partially absorbed by some magical effect.
-EffectLogs."Your attack is fully absorbed by some magical effect." Your attack is fully absorbed by some magical effect.
-EffectLogs."You die... but you are saved by %s." You die... but you are saved by %s.
-EffectLogs."%s dies... but is saved by some magical effect." %s dies... but is saved by some magical effect.
-EffectLogs."You are cursed." You are cursed.
-EffectLogs."%s is cursed." %s is cursed.
-EffectLogs."You are poisoned." You are poisoned.
-EffectLogs."%s is poisoned." %s is poisoned.
-EffectLogs."You are diseased." You are diseased.
-EffectLogs."%s is diseased." %s is diseased.
-EffectLogs."%s is wearing off." %s is wearing off.
-EffectLogs."%s has worn off." %s has worn off.
-EffectLogs."%s's %s is wearing off." %s's %s is wearing off.
-EffectLogs."%s's %s has worn off." %s's %s has worn off.
-EffectLogs."%s heals you." %s heals you.
-EffectLogs."You feel agonized." You feel agonized.
-EffectLogs."You feel unnaturally hungry." You feel unnaturally hungry.
-EffectLogs."You feel exhausted." You feel exhausted.
-EffectLogs."You feel unnaturally thirsty." You feel unnaturally thirsty.
-EffectLogs."You are damaged by a poison." You are damaged by a poison.
-EffectLogs."Your energy is drained by a poison." Your energy is drained by a poison.
-EffectLogs."Your health is drained by a poison." Your health is drained by a poison.
-EffectLogs."Your muscles ache badly." Your muscles ache badly.
-EffectLogs."You bleed from every orifice." You bleed from every orifice.
-EffectLogs."Your bones feel plagued." Your bones feel plagued.
-EffectLogs."Your lungs feel like burning." Your lungs feel like burning.
-EffectLogs."Your groin feels itchy." Your groin feels itchy.
-EffectLogs."Your breath smells putrid." Your breath smells putrid.
-EffectLogs."Your joints feel swollen." Your joints feel swollen.
-EffectLogs."Your flesh feels rotten." Your flesh feels rotten.
-EffectLogs."Fire burns you." Fire burns you.
-EffectLogs."You are bleeding." You are bleeding.
-EffectLogs."You turn ethereal." You turn ethereal.
-EffectLogs."%s turns ethereal." %s turns ethereal.
-EffectLogs."You turn corporeal." You turn corporeal.
-EffectLogs."%s turns corporeal." %s turns corporeal.
+EffectLogs."You are no longer %s." 你不再 %s 。
+EffectLogs."%s is no longer %s." %s 不再 %s 。
+EffectLogs."You are no longer affected by %s." 你不再受到 %s 影响。
+EffectLogs."%s is no longer affected by %s." %s 不再受到 %s 影响。
+EffectLogs."You feel hastened." 你感到加速。
+EffectLogs."You land on %s." 你降落在 %s。
+EffectLogs."Hateful aura drains life from you." 仇恨的光环从你身上吸取生命值。
+EffectLogs."Your mana shield absorbs some of the damage before you run out of energy." 你的魔法盾在你耗尽能量前吸收了一些伤害。
+EffectLogs."Your attack is partially absorbed by a mana shield." 你的攻击部分被魔法盾所吸收。
+EffectLogs."Your mana shield absorbs all of the damage." 你的魔法盾吸收了所有的伤害。
+EffectLogs."Your attack is fully absorbed by a mana shield." 你的攻击被魔法盾全部吸收。
+EffectLogs."Your divine shield absorbs some of the damage before it collapses." 你的神盾在崩坏前吸收了一些伤害。
+EffectLogs."Your divine shield absorbs all of the damage." 你的神盾吸收了所有的伤害。
+EffectLogs."Your attack is partially absorbed by some magical effect." 你的攻击被一些魔法部分吸收。
+EffectLogs."Your attack is fully absorbed by some magical effect." 你的攻击被一些魔法效果完全吸收。
+EffectLogs."You die... but you are saved by %s." 你死了... 但你被 %s 救活了.
+EffectLogs."%s dies... but is saved by some magical effect." %s 死了... 但被一些魔法效果救活了.
+EffectLogs."You are cursed." 你被诅咒了。
+EffectLogs."%s is cursed." %s 被诅咒了。
+EffectLogs."You are poisoned." 你中毒了。
+EffectLogs."%s is poisoned." %s 中毒了。
+EffectLogs."You are diseased." 你生病了。
+EffectLogs."%s is diseased." %s 生病了。
+EffectLogs."%s is wearing off." %s 发生了磨损。
+EffectLogs."%s has worn off." %s 已经磨损。
+EffectLogs."%s's %s is wearing off." %s 的 %s 发生磨损。
+EffectLogs."%s's %s has worn off." %s 的 %s 已经磨损。
+EffectLogs."%s heals you." %s 治愈了你.
+EffectLogs."You feel agonized." 你感到很痛苦。
+EffectLogs."You feel unnaturally hungry." 你感到不寻常的饥饿。
+EffectLogs."You feel exhausted." 你感到筋疲力尽。
+EffectLogs."You feel unnaturally thirsty." 你感到不寻常的口渴。
+EffectLogs."You are damaged by a poison." 你被毒物伤害了。
+EffectLogs."Your energy is drained by a poison." 你的能量值被毒物耗尽。
+EffectLogs."Your health is drained by a poison." 你的健康值被毒物耗尽。
+EffectLogs."Your muscles ache badly." 你的肌肉十分疼痛。
+EffectLogs."You bleed from every orifice." 你七孔流血。
+EffectLogs."Your bones feel plagued." 你的骨头很难受。
+EffectLogs."Your lungs feel like burning." 你的肺感到像烧了起来。
+EffectLogs."Your groin feels itchy." 你的腹股沟感到很痒。
+EffectLogs."Your breath smells putrid." 你闻到腐烂的味道。
+EffectLogs."Your joints feel swollen." 你的关节在肿胀。
+EffectLogs."Your flesh feels rotten." 你的肉在腐烂。
+EffectLogs."Fire burns you." 火烧到了你。
+EffectLogs."You are bleeding." 你在流血。
+EffectLogs."You turn ethereal." 你成了幻影。
+EffectLogs."%s turns ethereal." %s 成了幻影。
+EffectLogs."You turn corporeal." 你化为了实体。
+EffectLogs."%s turns corporeal." %s 化为了实体。
 TalentNames."Aimed Shot" 瞄准射击
 TalentNames."Multi Shot" 多重射击
 TalentNames."Quick Shot" 快速射击
@@ -3824,10 +3824,10 @@ DialogueWindow."DLG_ROUNDS_PLAYED_5" @(40)谢谢你这么快就来见我。现�
 DialogueWindow."DLG_FIRST_WISH" - You did say rich with filth, right?
 DialogueWindow."DLG_SECOND_WISH" - I see you're into twins. Let's make that two...
 DialogueWindow."DLG_THIRD_WISH" - You get a feeling that you have just been fooled.
-DialogueWindow."I would like to learn this '%s'." I would like to learn this '%s'.
-DialogueWindow."Can you teach me this '%s' spell?" Can you teach me this '%s' spell?
-DialogueWindow."You already know %s." You already know %s.
-DialogueWindow."You can't learn more talents at the moment." You can't learn more talents at the moment.
+DialogueWindow."I would like to learn this '%s'." 我想要学习 '%s'.
+DialogueWindow."Can you teach me this '%s' spell?" 你能教教我这个 '%s' 法术吗?
+DialogueWindow."You already know %s." 你已经知道 %s 了.
+DialogueWindow."You can't learn more talents at the moment." 当前你不能再学习更多的天赋.
 StatusBarAnim."Satiated" 满足
 StatusBarAnim."Dying" 濒死
 StatusBarAnim."Famished" 极饿
