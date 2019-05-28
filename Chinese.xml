@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="fff0667429d1d081cdecda2a73dc7550ab54c6e3">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="0d4b66561171d0c891dcc6f7d30dc4274ff620f0">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -2214,37 +2214,37 @@
     <str id="Scroll of Time Warp" value="Scroll of Time Warp" local="时空卷轴"/>
   </ScrollNames>
   <ScrollDescs>
-    <str id="ScrollDesc" value="In addition to being an excellent form of kindling, scrolls can prove out to be very useful in certain situations."/>
-    <str id="Scroll of Aggravation" value="Aggravates all creatures in the current level."/>
-    <str id="Scroll of Amnesia" value="Causes the caster to forget a random knowledge."/>
-    <str id="Scroll of Animation" value="Permanently turns a dead human into an undead familiar."/>
-    <str id="Scroll of Banishment" value="Attempts to banish all daemons within line of sight."/>
-    <str id="Scroll of Blessing" value="Removes all curse effects from the target creature, location or an item."/>
-    <str id="Scroll of Darkness" value="Blinds the caster temporarily."/>
-    <str id="Scroll of Detection" value="Reveals all hidden map objects to the caster."/>
-    <str id="Scroll of Dislocation" value="Teleports the target creature to a random location."/>
-    <str id="Scroll of Dispel" value="Removes all magical effects from the target creature, location or an item."/>
-    <str id="Scroll of Enchanting" value="Enchants an item in the caster's inventory."/>
-    <str id="Scroll of Identify" value="Identifies an item in the caster's inventory."/>
-    <str id="Scroll of Invisibility" value="Turns the target creature invisible."/>
-    <str id="Scroll of Knowledge" value="Teaches the caster a random knowledge."/>
-    <str id="Scroll of Levitation" value="Levitates the target creature."/>
-    <str id="Scroll of Light" value="Turns on all light sources in the current level."/>
-    <str id="Scroll of Polymorph" value="Polymorphs the target creature into a giant rat."/>
-    <str id="Scroll of Recharging" value="Charges a wand in the caster's inventory."/>
-    <str id="Scroll of Summoning" value="Summons a daemon at the target location and enslaves it."/>
-    <str id="Scroll of Teleport" value="Teleports the caster to the target location within line of sight."/>
-    <str id="Scroll of Turning" value="Attempts to turn all undead creatures within line of sight."/>
-    <str id="Scroll of Boomshroom" value="Causes the targeted mushroom patch to explode. May cause a chain reaction."/>
-    <str id="Scroll of Cultivation" value="Springs up a number of mushroom patches over a large area."/>
-    <str id="Scroll of Disorder" value="Summons a snake pit and possibly some snakes around it."/>
-    <str id="Scroll of Distraction" value="Summons up to 6 mirror images and hides you in plain sight."/>
-    <str id="Scroll of Entangling" value="Captures the target in a spider web and summons some spiders."/>
-    <str id="Scroll of First Aid" value="Stops you from bleeding and applies a renewing touch effect."/>
-    <str id="Scroll of Forestation" value="Causes the targeted mushroom patch to spawn a treeman. May cause a chain reaction."/>
-    <str id="Scroll of Gimmiedat" value="Disarms the target by equipping its main hand weapon in your empty thieving leprachaun hands."/>
-    <str id="Scroll of Soothing" value="Soothes all beasts within line of sight."/>
-    <str id="Scroll of Time Warp" value="Cancels your current quest and returns you to town, allowing you to try it again later."/>
+    <str id="ScrollDesc" value="In addition to being an excellent form of kindling, scrolls can prove out to be very useful in certain situations." local="除了是一种极佳的引燃材料之外，&#10;卷轴还能在特定处境下起到非常重&#10;要的作用。"/>
+    <str id="Scroll of Aggravation" value="Aggravates all creatures in the current level." local="激怒当前楼层的所有生物。"/>
+    <str id="Scroll of Amnesia" value="Causes the caster to forget a random knowledge." local="让施法者随机忘却一个知识。"/>
+    <str id="Scroll of Animation" value="Permanently turns a dead human into an undead familiar." local="将一个死去的人类永久的变成一个&#10;亡灵伙伴。"/>
+    <str id="Scroll of Banishment" value="Attempts to banish all daemons within line of sight." local="尝试驱逐视野中的所有恶魔。"/>
+    <str id="Scroll of Blessing" value="Removes all curse effects from the target creature, location or an item." local="移除目标生物，位置或物品上的所&#10;有诅咒效果。"/>
+    <str id="Scroll of Darkness" value="Blinds the caster temporarily." local="临时致盲施法者。"/>
+    <str id="Scroll of Detection" value="Reveals all hidden map objects to the caster." local="对施法者揭示所有隐藏的地图物品&#10;。"/>
+    <str id="Scroll of Dislocation" value="Teleports the target creature to a random location." local="把目标生物传送到一个随机位置。"/>
+    <str id="Scroll of Dispel" value="Removes all magical effects from the target creature, location or an item." local="移除目标生物、位置或物品上的所&#10;有魔法效果。"/>
+    <str id="Scroll of Enchanting" value="Enchants an item in the caster's inventory." local="对施法者物品栏中的一件物品附魔&#10;。"/>
+    <str id="Scroll of Identify" value="Identifies an item in the caster's inventory." local="鉴定施法者物品栏中的一件物品。"/>
+    <str id="Scroll of Invisibility" value="Turns the target creature invisible." local="让目标生物隐形。"/>
+    <str id="Scroll of Knowledge" value="Teaches the caster a random knowledge." local="教会施法者一个随机的知识。"/>
+    <str id="Scroll of Levitation" value="Levitates the target creature." local="让目标生物浮空。"/>
+    <str id="Scroll of Light" value="Turns on all light sources in the current level." local="点亮当前楼层中的所有光源。"/>
+    <str id="Scroll of Polymorph" value="Polymorphs the target creature into a giant rat." local="把目标生物变形为一只巨鼠。"/>
+    <str id="Scroll of Recharging" value="Charges a wand in the caster's inventory." local="对施法者物品栏中的一把魔杖充能&#10;。"/>
+    <str id="Scroll of Summoning" value="Summons a daemon at the target location and enslaves it." local="在目标位置召唤一个恶魔并奴役它&#10;。"/>
+    <str id="Scroll of Teleport" value="Teleports the caster to the target location within line of sight." local="将施法者传送到视野中的指定位置&#10;。"/>
+    <str id="Scroll of Turning" value="Attempts to turn all undead creatures within line of sight." local="尝试超度视野中的所有亡灵。"/>
+    <str id="Scroll of Boomshroom" value="Causes the targeted mushroom patch to explode. May cause a chain reaction." local="引爆目标处的蘑菇，有可能造成连&#10;锁反应。"/>
+    <str id="Scroll of Cultivation" value="Springs up a number of mushroom patches over a large area." local="在一大片区域上种下蘑菇。"/>
+    <str id="Scroll of Disorder" value="Summons a snake pit and possibly some snakes around it." local="召唤一个蛇坑，可能还会有一些蛇&#10;围绕着它。"/>
+    <str id="Scroll of Distraction" value="Summons up to 6 mirror images and hides you in plain sight." local="召唤最多 6 个镜像，让你凭空藏匿&#10;。"/>
+    <str id="Scroll of Entangling" value="Captures the target in a spider web and summons some spiders." local="用蜘蛛网捕获目标，并召唤一些蜘&#10;蛛。"/>
+    <str id="Scroll of First Aid" value="Stops you from bleeding and applies a renewing touch effect." local="给你止血并施加一个回复之触效果&#10;。"/>
+    <str id="Scroll of Forestation" value="Causes the targeted mushroom patch to spawn a treeman. May cause a chain reaction." local="让目标蘑菇长成一个树人。可能产&#10;生连锁反应。"/>
+    <str id="Scroll of Gimmiedat" value="Disarms the target by equipping its main hand weapon in your empty thieving leprachaun hands." local="将目标装备在主手的武器缴械到你&#10;的空手中。"/>
+    <str id="Scroll of Soothing" value="Soothes all beasts within line of sight." local="抚慰视野中的所有野兽。"/>
+    <str id="Scroll of Time Warp" value="Cancels your current quest and returns you to town, allowing you to try it again later." local="取消你当前的任务并返回城镇，允&#10;许你以后再此尝试。"/>
   </ScrollDescs>
   <ScrollLogs>
     <str id="You feel less threatened for some reason." value="You feel less threatened for some reason."/>

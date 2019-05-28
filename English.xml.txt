@@ -2035,37 +2035,37 @@ ScrollNames."Scroll of Forestation" 造林卷轴
 ScrollNames."Scroll of Gimmiedat" 空手入白刃卷轴
 ScrollNames."Scroll of Soothing" 抚慰卷轴
 ScrollNames."Scroll of Time Warp" 时空卷轴
-ScrollDescs."ScrollDesc" In addition to being an excellent form of kindling, scrolls can prove out to be very useful in certain situations.
-ScrollDescs."Scroll of Aggravation" Aggravates all creatures in the current level.
-ScrollDescs."Scroll of Amnesia" Causes the caster to forget a random knowledge.
-ScrollDescs."Scroll of Animation" Permanently turns a dead human into an undead familiar.
-ScrollDescs."Scroll of Banishment" Attempts to banish all daemons within line of sight.
-ScrollDescs."Scroll of Blessing" Removes all curse effects from the target creature, location or an item.
-ScrollDescs."Scroll of Darkness" Blinds the caster temporarily.
-ScrollDescs."Scroll of Detection" Reveals all hidden map objects to the caster.
-ScrollDescs."Scroll of Dislocation" Teleports the target creature to a random location.
-ScrollDescs."Scroll of Dispel" Removes all magical effects from the target creature, location or an item.
-ScrollDescs."Scroll of Enchanting" Enchants an item in the caster's inventory.
-ScrollDescs."Scroll of Identify" Identifies an item in the caster's inventory.
-ScrollDescs."Scroll of Invisibility" Turns the target creature invisible.
-ScrollDescs."Scroll of Knowledge" Teaches the caster a random knowledge.
-ScrollDescs."Scroll of Levitation" Levitates the target creature.
-ScrollDescs."Scroll of Light" Turns on all light sources in the current level.
-ScrollDescs."Scroll of Polymorph" Polymorphs the target creature into a giant rat.
-ScrollDescs."Scroll of Recharging" Charges a wand in the caster's inventory.
-ScrollDescs."Scroll of Summoning" Summons a daemon at the target location and enslaves it.
-ScrollDescs."Scroll of Teleport" Teleports the caster to the target location within line of sight.
-ScrollDescs."Scroll of Turning" Attempts to turn all undead creatures within line of sight.
-ScrollDescs."Scroll of Boomshroom" Causes the targeted mushroom patch to explode. May cause a chain reaction.
-ScrollDescs."Scroll of Cultivation" Springs up a number of mushroom patches over a large area.
-ScrollDescs."Scroll of Disorder" Summons a snake pit and possibly some snakes around it.
-ScrollDescs."Scroll of Distraction" Summons up to 6 mirror images and hides you in plain sight.
-ScrollDescs."Scroll of Entangling" Captures the target in a spider web and summons some spiders.
-ScrollDescs."Scroll of First Aid" Stops you from bleeding and applies a renewing touch effect.
-ScrollDescs."Scroll of Forestation" Causes the targeted mushroom patch to spawn a treeman. May cause a chain reaction.
-ScrollDescs."Scroll of Gimmiedat" Disarms the target by equipping its main hand weapon in your empty thieving leprachaun hands.
-ScrollDescs."Scroll of Soothing" Soothes all beasts within line of sight.
-ScrollDescs."Scroll of Time Warp" Cancels your current quest and returns you to town, allowing you to try it again later.
+ScrollDescs."ScrollDesc" @(30)除了是一种极佳的引燃材料之外，卷轴还能在特定处境下起到非常重要的作用。
+ScrollDescs."Scroll of Aggravation" @(30)激怒当前楼层的所有生物。
+ScrollDescs."Scroll of Amnesia" @(30)让施法者随机忘却一个知识。
+ScrollDescs."Scroll of Animation" @(30)将一个死去的人类永久的变成一个亡灵伙伴。
+ScrollDescs."Scroll of Banishment" @(30)尝试驱逐视野中的所有恶魔。
+ScrollDescs."Scroll of Blessing" @(30)移除目标生物，位置或物品上的所有诅咒效果。
+ScrollDescs."Scroll of Darkness" @(30)临时致盲施法者。
+ScrollDescs."Scroll of Detection" @(30)对施法者揭示所有隐藏的地图物品。
+ScrollDescs."Scroll of Dislocation" @(30)把目标生物传送到一个随机位置。
+ScrollDescs."Scroll of Dispel" @(30)移除目标生物、位置或物品上的所有魔法效果。
+ScrollDescs."Scroll of Enchanting" @(30)对施法者物品栏中的一件物品附魔。
+ScrollDescs."Scroll of Identify" @(30)鉴定施法者物品栏中的一件物品。
+ScrollDescs."Scroll of Invisibility" @(30)让目标生物隐形。
+ScrollDescs."Scroll of Knowledge" @(30)教会施法者一个随机的知识。
+ScrollDescs."Scroll of Levitation" @(30)让目标生物浮空。
+ScrollDescs."Scroll of Light" @(30)点亮当前楼层中的所有光源。
+ScrollDescs."Scroll of Polymorph" @(30)把目标生物变形为一只巨鼠。
+ScrollDescs."Scroll of Recharging" @(30)对施法者物品栏中的一把魔杖充能。
+ScrollDescs."Scroll of Summoning" @(30)在目标位置召唤一个恶魔并奴役它。
+ScrollDescs."Scroll of Teleport" @(30)将施法者传送到视野中的指定位置。
+ScrollDescs."Scroll of Turning" @(30)尝试超度视野中的所有亡灵。
+ScrollDescs."Scroll of Boomshroom" @(30)引爆目标处的蘑菇，有可能造成连锁反应。
+ScrollDescs."Scroll of Cultivation" @(30)在一大片区域上种下蘑菇。
+ScrollDescs."Scroll of Disorder" @(30)召唤一个蛇坑，可能还会有一些蛇围绕着它。
+ScrollDescs."Scroll of Distraction" @(30)召唤最多 6 个镜像，让你凭空藏匿。
+ScrollDescs."Scroll of Entangling" @(30)用蜘蛛网捕获目标，并召唤一些蜘蛛。
+ScrollDescs."Scroll of First Aid" @(30)给你止血并施加一个回复之触效果。
+ScrollDescs."Scroll of Forestation" @(30)让目标蘑菇长成一个树人。可能产生连锁反应。
+ScrollDescs."Scroll of Gimmiedat" @(30)将目标装备在主手的武器缴械到你的空手中。
+ScrollDescs."Scroll of Soothing" @(30)抚慰视野中的所有野兽。
+ScrollDescs."Scroll of Time Warp" @(30)取消你当前的任务并返回城镇，允许你以后再此尝试。
 ScrollLogs."You feel less threatened for some reason." You feel less threatened for some reason.
 ScrollLogs."You feel that you have upset your friends and made new enemies." You feel that you have upset your friends and made new enemies.
 ScrollLogs."You feel that you have made new enemies." You feel that you have made new enemies.
