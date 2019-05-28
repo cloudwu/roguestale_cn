@@ -4138,6 +4138,6 @@ ChatStrings."Steam achievements have been merged." Steam 成就被合并。
 ChatStrings."Third leg starts to wiggle and it attempts to fill your every orifice before exploding to pieces." 第三条腿开始扭动，试图从你身上的每一个孔钻进去。它即将爆炸。
 RogueTips."Tip of the day:" 今日提示：
 RogueTips."Press %s and type %s to view some basic info." 按下 %s 然后输入 %s 可以浏览一下基本信息。
-RogueTips."Hover mouse over your abilities to see how they function." 将鼠标停留在你的能力点上可以看到它们起怎样的效果。
+RogueTips."Hover mouse over your abilities to see how they function." 将鼠标停留在你的属性点上可以看到它们起怎样的效果。
 RogueTips."Boulders can be pushed over entrances to clear a dungeon." 把巨石推入入口可以清空地牢。
 RogueTips."There are hidden menus behind the keys %s, %s, %s and %s." 在按键 %s, %s, %s 和 %s 后面藏有隐藏菜单。

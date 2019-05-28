@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="f1174fdf9597eff5625dc2ae45787ce7cb5cde9c">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="2af6a2c522993eca70b35ee51b2d8f3b575517bb">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -4607,7 +4607,7 @@
   <RogueTips>
     <str id="Tip of the day:" value="Tip of the day:" local="今日提示："/>
     <str id="Press %s and type %s to view some basic info." value="Press %s and type %s to view some basic info." local="按下 %s 然后输入 %s 可以浏览一下基本信息。"/>
-    <str id="Hover mouse over your abilities to see how they function." value="Hover mouse over your abilities to see how they function." local="将鼠标停留在你的能力点上可以看到它们起怎样的效果。"/>
+    <str id="Hover mouse over your abilities to see how they function." value="Hover mouse over your abilities to see how they function." local="将鼠标停留在你的属性点上可以看到它们起怎样的效果。"/>
     <str id="Boulders can be pushed over entrances to clear a dungeon." value="Boulders can be pushed over entrances to clear a dungeon." local="把巨石推入入口可以清空地牢。"/>
     <str id="There are hidden menus behind the keys %s, %s, %s and %s." value="There are hidden menus behind the keys %s, %s, %s and %s." local="在按键 %s, %s, %s 和 %s 后面藏有隐藏菜单。"/>
   </RogueTips>
