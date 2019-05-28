@@ -282,7 +282,7 @@ Encounters."Bandit leader yells: Here kitty, kitty!" 匪首喊道：过来啊，
 Encounters."Orc boss yells: Wraaagh kek rega!" 兽人首领喊道：Wraaagh kek rega!
 Encounters."Undead captain rattles its bones!" 亡灵队长的骨头咯咯作响！
 Encounters."Papalob shrieks: Tsihihi-tsi-hih!" 趴趴洛尖叫着：Tsihihi-tsi-hih!
-Encounters."Infernal shouts: Kar eth ihm'nen!" 恶魔喊着：Kar eth ihm'nen!
+Encounters."Infernal shouts: Kar eth ihm'nen!" 地狱恶魔喊着：Kar eth ihm'nen!
 Encounters."That feeling quickly dissipates in the wind." 那种感觉很快地消散在风中。
 Encounters."Prince Altren yells: Don't worry mother, I will take care of this." 艾特仁王子喊道：不要担心，母后。我会搞定的。
 Encounters."Prince Altren yells: Don't worry father, I will take care of this." 艾特仁王子喊道：不要担心，父王。我会搞定的。
@@ -297,7 +297,7 @@ Travelers."a cave bear" 一只洞熊
 Travelers."a drake" 一条龙
 Travelers."a floater" 一只浮游类
 Travelers."a glutopod" 一只 glutopod
-Travelers."an infernal" 一个恶魔
+Travelers."an infernal" 一个地狱恶魔
 Travelers."a mamalob" 一只 mamalob
 Travelers."a wraith" 一个幽灵
 Travelers."a banshee" 一只女妖
@@ -308,7 +308,7 @@ Travelers."the cave bear" 这只洞熊
 Travelers."the drake" 这条龙
 Travelers."the floater" 这只浮游类
 Travelers."the glutopod" 这只 glutopod
-Travelers."the infernal" 这个恶魔
+Travelers."the infernal" 这个地狱恶魔
 Travelers."the mamalob" 这个 mamalob
 Travelers."the wraith" 这个幽灵
 Travelers."the banshee" 这个女妖
@@ -2002,8 +2002,8 @@ RuneNames."Rune of Might" 神力符石
 RuneNames."Rune of Power" 威能符石
 RuneNames."Rune of Vigor" 活力符石
 RuneNames."Rune of the Imp" 妖精符石
-RuneDescs."RuneDesc" 真是令人惭愧，因为这块符石，整个种族都得去死。
-RuneDescs."Rune of the Imp" 这块符石将一件武器变成传奇，使它坚不可摧，并允许你为它命名。
+RuneDescs."RuneDesc" @(30)真是令人惭愧，因为这块符石，整个种族都得去死。
+RuneDescs."Rune of the Imp" @(30)这块符石将一件武器变成传奇，使它坚不可摧，并允许你为它命名。
 ScrollNames."Scroll" 卷轴
 ScrollNames."Scroll of Aggravation" 激怒卷轴
 ScrollNames."Scroll of Amnesia" 健忘卷轴
@@ -3292,19 +3292,19 @@ ChallengeNames."Bigger They Are" 顶天立地
 ChallengeNames."That's Cheating" 死里偷生
 ChallengeNames."The Epic Splat" 史诗背运
 ChallengeNames."One Nasty Flu" 严重流感
-ChallengeNames."Just a Scratch" 皮外之伤
+ChallengeNames."Just a Scratch" 一点小伤
 ChallengeNames."Idle Bookworm" 学富五车
-ChallengeNames."Bad Romance" 不解风情
+ChallengeNames."Bad Romance" 一段孽缘
 ChallengeNames."Undead Party" 亡灵聚会
 ChallengeNames."The Red Mist" 血色朦胧
 ChallengeNames."Poison Blade" 滴血封喉
-ChallengeNames."Frosty Touch" 寒冰冻结
+ChallengeNames."Frosty Touch" 寒冰之触
 ChallengeNames."My Precious" 我的最爱
 ChallengeNames."Dark Shroud" 幽暗笼罩
 ChallengeNames."Fully Buffed" 完全增益
 ChallengeNames."Acne Treatment" 治疗痤疮
 ChallengeNames."Feeling Slimy" 黏黏糊糊
-ChallengeNames."Tax Evasion" 鸡鸣狗盗
+ChallengeNames."Tax Evasion" 凌波微步
 ChallengeNames."Blood Sucker" 吸星大法
 ChallengeNames."El Presidente" 总统先生
 ChallengeNames."Main Course" 饕餮大餐
@@ -3359,103 +3359,103 @@ ChallengeDescs."True Devotion" @(26)完成这项挑战需要你完成所有其�
 ChallengeDescs."Control Freak" @(26)完成这项挑战需要你同时拥有人类，亡灵，野兽，巨怪伙伴时，再奴役一个恶魔。
 ChallengeDescs."Control Freak".1 
 ChallengeDescs."Meticulous One" @(26)完成这项挑战需要你完成以下遭遇战：
-ChallengeDescs."Feel the Power" This challenge can be completed by having %d or more ability points without buffs or debuffs.
-ChallengeDescs."Feel the Power".1 Note that this challenge is triggered at the end of a turn and it cannot be completed while in town.
-ChallengeDescs."Peaceful Hippie" This challenge can be completed by reaching level %d without killing anyone or anything.
-ChallengeDescs."The Bubble Boy" This challenge can be completed by regaining full health after casting Divine Shield while having only one health
-ChallengeDescs."The Bubble Boy".1 remaining.
-ChallengeDescs."The Prodigal Son" This challenge can be completed by having six unused talent points.
-ChallengeDescs."Merchant's Tale" This challenge can be completed by having %d gold coins in your backpack.
-ChallengeDescs."Bigger They Are" This challenge can be completed by killing an uninjured monster with a single blow.
-ChallengeDescs."Bigger They Are".1 Instant kill effects do not count.
-ChallengeDescs."That's Cheating" This challenge can be completed by looting the crown after dying at least once.
-ChallengeDescs."The Epic Splat" This challenge can be completed by failing a reflex check while having Lightning Reflexes heritage and Sixth Sense
-ChallengeDescs."The Epic Splat".1 talent.
-ChallengeDescs."One Nasty Flu" This challenge can be completed by having 20 ability damage effects that reduce all abilities by 5.
-ChallengeDescs."Just a Scratch" This challenge can be completed by killing a creature that has hit you for %d or more points of damage with a single
-ChallengeDescs."Just a Scratch".1 attack or spell.
-ChallengeDescs."Idle Bookworm" This challenge can be completed by learning all Celestial, Draconic and Infernal spells in a single game.
-ChallengeDescs."Bad Romance" Enables the cloak style and color selection during character creation.
-ChallengeDescs."Bad Romance".1 This challenge can be completed by showing your inner rogue and killing your puppy eyed soul mate.
-ChallengeDescs."Undead Party" Unlocks the option to select left and right cloak styles at the start of the game.
-ChallengeDescs."Undead Party".1 This challenge can be completed by starting the final battle with %d or more undead friends.
-ChallengeDescs."The Red Mist" Unlocks the option to select red cloak color at the start of the game.
-ChallengeDescs."The Red Mist".1 This challenge can be completed by killing five or more enemies with a single melee attack.
-ChallengeDescs."Poison Blade" Unlocks the option to select green cloak color at the start of the game.
-ChallengeDescs."Poison Blade".1 This challenge can be completed by equipping a weapon that has ten or more poison effects.
-ChallengeDescs."Frosty Touch" Unlocks the option to select blue cloak color at the start of the game.
-ChallengeDescs."Frosty Touch".1 This challenge can be completed by killing an uninjured drake with frozen orbs.
-ChallengeDescs."Frosty Touch".2 Instant kill effects do not count.
-ChallengeDescs."My Precious" Unlocks the option to select purple cloak color at the start of the game.
-ChallengeDescs."My Precious".1 This challenge can be completed by obtaining the ring of power.
-ChallengeDescs."Dark Shroud" Unlocks the option to select black cloak color at the start of the game.
-ChallengeDescs."Dark Shroud".1 This challenge can be completed by having ten or more curse effects at the same time.
-ChallengeDescs."Fully Buffed" Unlocks the option to select white cloak color at the start of the game.
-ChallengeDescs."Fully Buffed".1 This challenge can be completed by having twelve or more buff effects at the same time.
-ChallengeDescs."Acne Treatment" This challenge can be completed by regaining full health after spending %d or more turns in lava.
-ChallengeDescs."Acne Treatment".1 Previous bath:
-ChallengeDescs."Feeling Slimy" This challenge can be completed by regaining full health after being surrounded by %d dwellers and/or lurkers.
-ChallengeDescs."Feeling Slimy".1 Note that being levitated while surrounded prevents that part of this challenge from triggering (so don't levitate).
-ChallengeDescs."Tax Evasion" This challenge can be completed by killing %d enemies in a row without being hit by a melee, ranged or spell attack.
-ChallengeDescs."Tax Evasion".1 Note that snails and charmed creatures do not count.
-ChallengeDescs."Tax Evasion".2 Enemies killed:
-ChallengeDescs."Blood Sucker" This challenge can be completed by regaining %d points of health by life draining enemies.
-ChallengeDescs."Blood Sucker".1 Note that any other form of healing resets the counter.
-ChallengeDescs."Blood Sucker".2 Life drained:
-ChallengeDescs."El Presidente" This challenge can be completed by doing the following:
-ChallengeDescs."Main Course" This challenge can be completed by by eating the following monsters while polymorphed:
-ChallengeDescs."Road to Hell" This challenge can be completed by killing %d under aged daemons at level 20 after typing:
+ChallengeDescs."Feel the Power" @(26)完成这项挑战需要你在没有 Buff 的情况下拥有 %d 或更多点属性。
+ChallengeDescs."Feel the Power".1 @(26)注意：这项挑战在回合结束时触发，并且不能在城镇中完成。
+ChallengeDescs."Peaceful Hippie" @(26)完成这项挑战需要你在不杀死任何东西的条件下升到 %d 级。
+ChallengeDescs."The Bubble Boy" @(26)完成这项挑战需要你在只剩一点生命时施放神圣之盾，然后将生命回满。
+ChallengeDescs."The Bubble Boy".1 
+ChallengeDescs."The Prodigal Son" @(26)完成这项挑战需要你有六点没使用的天赋点。
+ChallengeDescs."Merchant's Tale" @(26)完成这项挑战需要你的背包中有 %d 枚金币。
+ChallengeDescs."Bigger They Are" @(26)完成这项挑战需要你单次打击杀死一个无伤的巨怪。
+ChallengeDescs."Bigger They Are".1 @(26)触发即死效果不算。
+ChallengeDescs."That's Cheating" @(26)完成这项挑战需要你在拾取到王冠前至少差点死亡一次。
+ChallengeDescs."The Epic Splat" @(26)完成这项挑战需要你在同时有第六感天赋和闪电反应遗产时，还是未能通过反射检定。
+ChallengeDescs."The Epic Splat".1 
+ChallengeDescs."One Nasty Flu" @(26)完成这项挑战需要你身上有 20 个属性伤害效果，它们把你的属性点总和降到 5 。
+ChallengeDescs."Just a Scratch" @(26)完成这项挑战需要你杀死一个生物，该生物曾一击给你造成过 %d 或更多点的伤害。
+ChallengeDescs."Just a Scratch".1 
+ChallengeDescs."Idle Bookworm" @(26)完成这项挑战需要你在单次游戏中学会所有的天使系、龙系和地狱系法术。
+ChallengeDescs."Bad Romance" @(26)开启创建角色阶段的披风样式及颜色选项。
+ChallengeDescs."Bad Romance".1 @(26)完成这项挑战需要你展示内心深处的浪子，杀死你那有着一双可爱大眼睛的灵魂伴侣。
+ChallengeDescs."Undead Party" @(26)解锁游戏开始时选择左右披风样式的选项。
+ChallengeDescs."Undead Party".1 @(26)完成这项挑战需要你带着 %d 或更多个亡灵伙伴进入终局之战。
+ChallengeDescs."The Red Mist" @(26)解锁游戏开始时红色披风的选项。
+ChallengeDescs."The Red Mist".1 @(26)完成这项挑战需要你用一次近战攻击杀死五个或更多的敌人。
+ChallengeDescs."Poison Blade" @(26)解锁游戏开始时绿色披风的选项。
+ChallengeDescs."Poison Blade".1 @(26)完成这项挑战需要你装备一件淬有十种或更多种毒药的武器。
+ChallengeDescs."Frosty Touch" @(26)解锁游戏开始时蓝色披风的选项。
+ChallengeDescs."Frosty Touch".1 @(26)完成这项挑战需要你用冰球杀死一条无伤的龙。
+ChallengeDescs."Frosty Touch".2 @(26)触发即死效果不算。
+ChallengeDescs."My Precious" @(26)解锁游戏开始时紫色披风的选项。
+ChallengeDescs."My Precious".1 @(26)完成这项挑战需要你获得那枚魔戒。
+ChallengeDescs."Dark Shroud" @(26)解锁游戏开始时黑色披风的选项。
+ChallengeDescs."Dark Shroud".1 @(26)完成这项挑战需要你同时承受十种或更多的诅咒。
+ChallengeDescs."Fully Buffed" @(26)解锁游戏开始时白色披风的选项。
+ChallengeDescs."Fully Buffed".1 @(26)完成这项挑战需要你同时拥有十二个或更多的 Buff 效果。
+ChallengeDescs."Acne Treatment" @(26)完成这项挑战需要你在岩浆里坚持 %d 或更多回合后生命回满。
+ChallengeDescs."Acne Treatment".1 上次沐浴：
+ChallengeDescs."Feeling Slimy" @(26)完成这项挑战需要你在被 %d 只土著或潜伏者包围后将生命回满。
+ChallengeDescs."Feeling Slimy".1 @(26)注意：在被包围后浮空会阻止触发这项挑战（所以不要浮空）。
+ChallengeDescs."Tax Evasion" @(26)完成这项挑战需要你连续杀死 %d 敌人，期间不被近战、远程、魔法攻击到。
+ChallengeDescs."Tax Evasion".1 @(26)注意：蜗牛和倍魅惑的生物不计入内。
+ChallengeDescs."Tax Evasion".2 @(26)已杀死敌人：
+ChallengeDescs."Blood Sucker" @(26)完成这项挑战需要你从敌人那里吸取 %d 点生命。
+ChallengeDescs."Blood Sucker".1 @(26)注意：任何其它形式的生命回复都会重置计数器。
+ChallengeDescs."Blood Sucker".2 @(26)吸取生命：
+ChallengeDescs."El Presidente" @(26)完成这项挑战需要你做以下事情：
+ChallengeDescs."Main Course" @(26)完成这项挑战需要你在被变形后吃掉下列巨怪：
+ChallengeDescs."Road to Hell" @(26)完成这项挑战需要你杀死 %d 个 20 级未成年恶魔后，输入：
 ChallengeDescs."Road to Hell".1 &quot;%s&quot;
-ChallengeDescs."Road to Hell".2 Daemons killed:
+ChallengeDescs."Road to Hell".2 @(26)已杀死恶魔：
 ChallengeDescs."Howdy Ho!" @(26)在老鼠吃掉肯'尼斯的尸体前找到它，就能完成这个挑战。
 ChallengeDescs."Howdy Ho!".1 @(26)注意：每局游戏只能尝试一次，为了完成挑战你必须被变形。
-ChallengeDescs."Dog Whisperer" This challenge can be completed by having Woof cause any damage to the King.
-ChallengeDescs."I Got This!" This challenge can be completed by looting the crown on heroic difficulty level.
-ChallengeDescs."Nabon's Demise" This challenge can be completed by killing Dreadlord Nabon and ending his reign of terror.
-ChallengeDescs."Dwarfageddon" Unlocks &quot;%s&quot; title and adds runes to loot tables.
-ChallengeDescs."Dwarfageddon".1 This challenge can be completed by making sure that dwarves won't be added in the game anytime soon.
-ChallengeDescs."Mental Disorder" This challenge can be completed by befriending an infernal.
-ChallengeDescs."Mother of Drakes" This challenge can be completed by having three permanent drake friends at the same time.
-ChallengeDescs."It's Elementary" This challenge can be completed by causing at least %d points of enchanted elemental damage before resistances
-ChallengeDescs."It's Elementary".2 with a single melee or ranged hit.
-ChallengeDescs."Safety Conscious" This challenge can be completed by viewing your stats while having %d immunities (press Ctrl in the inventory).
-ChallengeDescs."Who's Trolling" This challenge can be completed by completing the following steps:%s
-ChallengeDescs."Who's Trolling".1 Trolls killed:
-ChallengeDescs."Greenhouse Effect" This challenge can be completed by having a treeman heal four or more other treemen in one turn.
-ChallengeDescs."Greenhouse Effect".1 Note that it's easier to spawn a treeman when you increase your critical hit modifier.
-ChallengeDescs."Rat Lives Matter" This challenge can be completed by killing a merchant and all his henchmen with giant rats.
-ChallengeDescs."Rat Lives Matter".1 Note that the challenge fails if any of the targets is killed by something other than a giant rat.
-ChallengeDescs."Triggered Much?" This challenge can be completed by slaying a demonrat that is properly triggered.
-ChallengeDescs."Triggered Much?".1 Note that triggered demonrats have a hateful aura that reflects damage.
-ChallengeDescs."Drain the Swamp" Unlocks &quot;%s&quot; title and enables legendary effects.
-ChallengeDescs."Drain the Swamp".1 This challenge can be completed by naming a weapon &quot;Orangutang&quot; and using it to slay %d swamp monsters.
-ChallengeDescs."Drain the Swamp".2 Note that it should be wielded in the main hand while killing lurkers and or dwellers.
-ChallengeDescs."Drain the Swamp".3 Swamp monsters killed:
-ChallengeDescs."Cheesy Musk" This legendary effect can be imbued by taming a cave bear.
-ChallengeDescs."Death Proof" This legendary effect can be imbued by casting Divine Shield while below 25% health and adjacent to an enemy.
-ChallengeDescs."Flashlight" This legendary effect can be imbued by reading a master's scroll of light.
-ChallengeDescs."Hateful Aura" This legendary effect can be imbued by killing a demonrat.
-ChallengeDescs."Leap of Faith" This legendary effect can be imbued by jumping over a lava chasm.
-ChallengeDescs."Misinvisicast" This legendary effect can be imbued by turning invisible when you cast Plane Shift.
-ChallengeDescs."Nightshade" This legendary effect can be imbued by applying a potent deadly poison on the weapon.
-ChallengeDescs."Orbus Bomba" This legendary effect can be imbued by killing an enemy with splash damage of an enlarged orb.
-ChallengeDescs."Zombie Dog" This legendary effect can be imbued by killing Woof.
-ChallengeDescs."TestOfLeadership" This challenge can be completed by being known as '%s' after finishing the test of leadership.
-ChallengeDescs."TestOfLeadership".1 The test of leadership has three questions and three possible types of answers (cruel, fair and gentle).
+ChallengeDescs."Dog Whisperer" @(26)完成这项挑战需要你的汪汪对国王造成伤害。
+ChallengeDescs."I Got This!" @(26)完成这项挑战需要你在英雄难度级别下取得王冠。
+ChallengeDescs."Nabon's Demise" @(26)完成这项挑战需要你杀死黑暗之主腊崩，终结他的恐怖统治。
+ChallengeDescs."Dwarfageddon" 解锁 &quot;%s&quot; 头衔， 在拾取表中增加符石。
+ChallengeDescs."Dwarfageddon".1 @(26)完成这项挑战需要你确认矮人不会很快加入游戏。
+ChallengeDescs."Mental Disorder" @(26)完成这项挑战需要你和地狱恶魔和平相处。
+ChallengeDescs."Mother of Drakes" @(26)完成这项挑战需要你永久的让三条龙作为伙伴。
+ChallengeDescs."It's Elementary" @(26)完成这项挑战需要你在一次近战或远程攻击中，元素附魔效果造成未抵抗的 %d 点伤害。
+ChallengeDescs."It's Elementary".2 
+ChallengeDescs."Safety Conscious" @(26)完成这项挑战需要你在同时拥有 %d 种免疫效果时查看自己的状态（弹出物品栏时按下 Ctrl）。
+ChallengeDescs."Who's Trolling" @(26)完成这项挑战需要你完成以下步骤：%s
+ChallengeDescs."Who's Trolling".1 @(26)已杀死巨魔：
+ChallengeDescs."Greenhouse Effect" @(26)完成这项挑战需要你有一个树人在一个回合内治愈四个或更多的树人。
+ChallengeDescs."Greenhouse Effect".1 @(26)注意：提升你的暴击修正会更容易诞生出树人。
+ChallengeDescs."Rat Lives Matter" @(26)完成这项挑战需要你用巨鼠杀死一个商人及其所有随从。
+ChallengeDescs."Rat Lives Matter".1 @(26)注意：如果任一目标被巨鼠之外的东西杀死都会导致挑战失败。
+ChallengeDescs."Triggered Much?" @(26)完成这项挑战需要你杀掉一只可能被激发的魔鼠。
+ChallengeDescs."Triggered Much?".1 @(26)注意：激发的魔鼠带有一个憎恶光环可以反弹伤害。
+ChallengeDescs."Drain the Swamp" @(26)解锁 &quot;%s&quot; 头衔并开启传奇效果。
+ChallengeDescs."Drain the Swamp".1 完成这项挑战 需要你将一件武器 命名为 &quot;Orangutang&quot; 并用它杀死 %d 沼泽巨怪。
+ChallengeDescs."Drain the Swamp".2 @(26)注意：在杀死潜伏者或土著时，武器必须握在主手。
+ChallengeDescs."Drain the Swamp".3 @(26)已杀死沼泽巨怪：
+ChallengeDescs."Cheesy Musk" @(26)灌注此传奇效果需要驯服一只洞熊。
+ChallengeDescs."Death Proof" @(26)灌注此传奇效果需要在生命值低于 25% 且临接一个敌人时施放神圣之盾。
+ChallengeDescs."Flashlight" @(26)灌注此传奇效果需要阅读一本大师级的光明卷轴。
+ChallengeDescs."Hateful Aura" @(26)灌注此传奇效果需要杀死一只魔鼠。
+ChallengeDescs."Leap of Faith" @(26)灌注此传奇效果需要跃过一个熔岩峡谷。
+ChallengeDescs."Misinvisicast" @(26)灌注此传奇效果需要在你施放位面传送的同时进入隐身状态。
+ChallengeDescs."Nightshade" @(26)灌注此传奇效果需要将一瓶强效死亡药剂淬在武器上。
+ChallengeDescs."Orbus Bomba" @(26)灌注此传奇效果需要你用增大的法术球的溅射杀死一个敌人。
+ChallengeDescs."Zombie Dog" @(26)灌注此传奇效果需要你杀死汪汪。
+ChallengeDescs."TestOfLeadership" @(26)完成这项挑战需要你在完成领导力测试后被视为 '%s' 。
+ChallengeDescs."TestOfLeadership".1 @(26)领导力测试有三个问题及三种类型的答案（无情、公正和温和）。
 ChallengeDescs."Path of Wisdom" %s
-ChallengeDescs."Path of Wisdom".1 If you answer the test with one of each types of answers, you will be known as '%s'.
+ChallengeDescs."Path of Wisdom".1 @(26)如果你测试的答案每种类型都有，你会被视为'%s'。
 ChallengeDescs."Path of Justice" %s
-ChallengeDescs."Path of Justice".1 If you answer the test with cruel and fair answers only, you will be known as '%s'.
+ChallengeDescs."Path of Justice".1 @(26)如果你测试的答案中有无情的和公正的，你会被视为'%s'。
 ChallengeDescs."Path of Decency" %s
-ChallengeDescs."Path of Decency".1 If you answer the test with cruel and gentle answers only, you will be known as '%s'.
+ChallengeDescs."Path of Decency".1 @(26)如果你测试的答案中有无情的和温和的，你会被视为'%s'。
 ChallengeDescs."Path of Kindness" %s
-ChallengeDescs."Path of Kindness".1 If you answer the test with fair and gentle answers only, you will be known as '%s'.
+ChallengeDescs."Path of Kindness".1 @(26)如果你测试的答案中有公正的和温和的，你会被视为'%s'。
 ChallengeDescs."Path of Cruelty" %s
-ChallengeDescs."Path of Cruelty".1 If you answer the test with cruel answers only, you will be known as '%s'.
+ChallengeDescs."Path of Cruelty".1 @(26)如果你测试的答案中只有无情的，你会被视为'%s'。
 ChallengeDescs."Path of Fairness" %s
-ChallengeDescs."Path of Fairness".1 If you answer the test with fair answers only, you will be known as '%s'.
+ChallengeDescs."Path of Fairness".1 If @(26)如果你测试的答案中只有公正的，你会被视为'%s'。
 ChallengeDescs."Path of Compassion" %s
-ChallengeDescs."Path of Compassion".1 If you answer the test with gentle answers only, you will be known as '%s'.
+ChallengeDescs."Path of Compassion".1 @(26)如果你测试的答案中只有温和的，你会被视为'%s'。
 ChallengeTitles."Select Title" 选择头衔
 ChallengeTitles."the Alchemist" 炼金师
 ChallengeTitles."the Archer" 射手
@@ -3481,7 +3481,7 @@ ChallengeTitles."the Warrior" 武士
 ChallengeTitles."the Wizard" 法师
 ChallengeTitles."the Firelord" 火焰领主
 ChallengeTitles."the Octopus" 章鱼
-ChallengeTitles."the Untouchable" 不可触碰
+ChallengeTitles."the Untouchable" 无法触碰
 ChallengeTitles."the Vampire" 吸血鬼
 ChallengeTitles."the Trump" 特朗普
 ChallengeTitles."the Munchkin" 小白
@@ -3507,7 +3507,7 @@ ChallengeTitles."the Hateful" 可恶的
 ChallengeTitles."the Lavafrog" 熔岩之蛙
 ChallengeTitles."the Shifter" 幻影
 ChallengeTitles."the Deadly" 死神
-ChallengeTitles."the Splasher" 溅射侠
+ChallengeTitles."the Splasher" 喷射战士
 ChallengeTitles."the Caretaker" 看门人
 ChallengeTitles."the Wise" 睿智的
 ChallengeTitles."the Just" 正义的
@@ -3778,9 +3778,9 @@ DialogueWindow."STR_INTRO_SCARED" STR_NAME seems happy to be alive.
 DialogueWindow."STR_INTRO_SMITTEN" STR_NAME seems badly smitten.
 DialogueWindow."STR_BREAK_UP_1" What, why, please don't?!?
 DialogueWindow."STR_BREAK_UP_2" What, why, you little bitch?!?
-DialogueWindow."STR_INTRO_SOUL_MATE" Your soul mate looks at you with puppy eyes.
-DialogueWindow."STR_ATTACK_SOUL_MATE" I'm sorry but it's because of me, not you.
-DialogueWindow."STR_FUBAR_SOUL_MATE" You can almost feel how the puppy eyes shatter.
+DialogueWindow."STR_INTRO_SOUL_MATE" @(40)你的灵魂伴侣用一双可爱的大眼睛盯着你。
+DialogueWindow."STR_ATTACK_SOUL_MATE" @(40)抱歉，这都是我的问题，和你无关。
+DialogueWindow."STR_FUBAR_SOUL_MATE" @(40)你完全能感受到那双可爱的大眼睛中的震惊。
 DialogueWindow."STR_ASK_TRICKS" Can you teach me any new tricks?
 DialogueWindow."STR_ASK_MOVES" Do you know any fancy moves?
 DialogueWindow."STR_SHOW_WARES" Let's see your wares.

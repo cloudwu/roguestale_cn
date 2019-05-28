@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="5332edd66ea46a6f8847bd1595fdb634aa371b93">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="fff0667429d1d081cdecda2a73dc7550ab54c6e3">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -322,7 +322,7 @@
     <str id="Orc boss yells: Wraaagh kek rega!" value="Orc boss yells: Wraaagh kek rega!" local="兽人首领喊道：Wraaagh kek rega!"/>
     <str id="Undead captain rattles its bones!" value="Undead captain rattles its bones!" local="亡灵队长的骨头咯咯作响！"/>
     <str id="Papalob shrieks: Tsihihi-tsi-hih!" value="Papalob shrieks: Tsihihi-tsi-hih!" local="趴趴洛尖叫着：Tsihihi-tsi-hih!"/>
-    <str id="Infernal shouts: Kar eth ihm'nen!" value="Infernal shouts: Kar eth ihm'nen!" local="恶魔喊着：Kar eth ihm'nen!"/>
+    <str id="Infernal shouts: Kar eth ihm'nen!" value="Infernal shouts: Kar eth ihm'nen!" local="地狱恶魔喊着：Kar eth ihm'nen!"/>
     <str id="That feeling quickly dissipates in the wind." value="That feeling quickly dissipates in the wind." local="那种感觉很快地消散在风中。"/>
     <str id="Prince Altren yells: Don't worry mother, I will take care of this." value="Prince Altren yells: Don't worry mother, I will take care of this." local="艾特仁王子喊道：不要担心，母后。我会搞定的。"/>
     <str id="Prince Altren yells: Don't worry father, I will take care of this." value="Prince Altren yells: Don't worry father, I will take care of this." local="艾特仁王子喊道：不要担心，父王。我会搞定的。"/>
@@ -339,7 +339,7 @@
     <str id="a drake" value="a drake" local="一条龙"/>
     <str id="a floater" value="a floater" local="一只浮游类"/>
     <str id="a glutopod" value="a glutopod" local="一只 glutopod"/>
-    <str id="an infernal" value="an infernal" local="一个恶魔"/>
+    <str id="an infernal" value="an infernal" local="一个地狱恶魔"/>
     <str id="a mamalob" value="a mamalob" local="一只 mamalob"/>
     <str id="a wraith" value="a wraith" local="一个幽灵"/>
     <str id="a banshee" value="a banshee" local="一只女妖"/>
@@ -350,7 +350,7 @@
     <str id="the drake" value="the drake" local="这条龙"/>
     <str id="the floater" value="the floater" local="这只浮游类"/>
     <str id="the glutopod" value="the glutopod" local="这只 glutopod"/>
-    <str id="the infernal" value="the infernal" local="这个恶魔"/>
+    <str id="the infernal" value="the infernal" local="这个地狱恶魔"/>
     <str id="the mamalob" value="the mamalob" local="这个 mamalob"/>
     <str id="the wraith" value="the wraith" local="这个幽灵"/>
     <str id="the banshee" value="the banshee" local="这个女妖"/>
@@ -2177,8 +2177,8 @@
     <str id="Rune of the Imp" value="Rune of the Imp" local="妖精符石"/>
   </RuneNames>
   <RuneDescs>
-    <str id="RuneDesc" value="It's such a shame that an entire race had to die for this rune to exist." local="真是令人惭愧，因为这块符石，整个种族都得去死。"/>
-    <str id="Rune of the Imp" value="This rune gives legendary status to a weapon making it unbreakable and allows you to name the weapon." local="这块符石将一件武器变成传奇，使它坚不可摧，并允许你为它命名。"/>
+    <str id="RuneDesc" value="It's such a shame that an entire race had to die for this rune to exist." local="真是令人惭愧，因为这块符石，整&#10;个种族都得去死。"/>
+    <str id="Rune of the Imp" value="This rune gives legendary status to a weapon making it unbreakable and allows you to name the weapon." local="这块符石将一件武器变成传奇，使&#10;它坚不可摧，并允许你为它命名。"/>
   </RuneDescs>
   <ScrollNames>
     <str id="Scroll" value="Scroll" local="卷轴"/>
@@ -3616,19 +3616,19 @@
     <str id="That's Cheating" value="That's Cheating" local="死里偷生"/>
     <str id="The Epic Splat" value="The Epic Splat" local="史诗背运"/>
     <str id="One Nasty Flu" value="One Nasty Flu" local="严重流感"/>
-    <str id="Just a Scratch" value="Just a Scratch" local="皮外之伤"/>
+    <str id="Just a Scratch" value="Just a Scratch" local="一点小伤"/>
     <str id="Idle Bookworm" value="Idle Bookworm" local="学富五车"/>
-    <str id="Bad Romance" value="Bad Romance" local="不解风情"/>
+    <str id="Bad Romance" value="Bad Romance" local="一段孽缘"/>
     <str id="Undead Party" value="Undead Party" local="亡灵聚会"/>
     <str id="The Red Mist" value="The Red Mist" local="血色朦胧"/>
     <str id="Poison Blade" value="Poison Blade" local="滴血封喉"/>
-    <str id="Frosty Touch" value="Frosty Touch" local="寒冰冻结"/>
+    <str id="Frosty Touch" value="Frosty Touch" local="寒冰之触"/>
     <str id="My Precious" value="My Precious" local="我的最爱"/>
     <str id="Dark Shroud" value="Dark Shroud" local="幽暗笼罩"/>
     <str id="Fully Buffed" value="Fully Buffed" local="完全增益"/>
     <str id="Acne Treatment" value="Acne Treatment" local="治疗痤疮"/>
     <str id="Feeling Slimy" value="Feeling Slimy" local="黏黏糊糊"/>
-    <str id="Tax Evasion" value="Tax Evasion" local="鸡鸣狗盗"/>
+    <str id="Tax Evasion" value="Tax Evasion" local="凌波微步"/>
     <str id="Blood Sucker" value="Blood Sucker" local="吸星大法"/>
     <str id="El Presidente" value="El Presidente" local="总统先生"/>
     <str id="Main Course" value="Main Course" local="饕餮大餐"/>
@@ -3690,136 +3690,136 @@
       <str id="paragraph 1" value="at the same." local=""/>
     </str>
     <str id="Meticulous One" value="This challenge can be completed by finishing the following encounters in a single game:" local="完成这项挑战需要你完成以下&#10;遭遇战："/>
-    <str id="Feel the Power" value="This challenge can be completed by having %d or more ability points without buffs or debuffs.">
-      <str id="paragraph 1" value="Note that this challenge is triggered at the end of a turn and it cannot be completed while in town."/>
+    <str id="Feel the Power" value="This challenge can be completed by having %d or more ability points without buffs or debuffs." local="完成这项挑战需要你在没有 B&#10;uff 的情况下拥有 %d 或更多&#10;点属性。">
+      <str id="paragraph 1" value="Note that this challenge is triggered at the end of a turn and it cannot be completed while in town." local="注意：这项挑战在回合结束时&#10;触发，并且不能在城镇中完成&#10;。"/>
     </str>
-    <str id="Peaceful Hippie" value="This challenge can be completed by reaching level %d without killing anyone or anything."/>
-    <str id="The Bubble Boy" value="This challenge can be completed by regaining full health after casting Divine Shield while having only one health" space="True">
-      <str id="paragraph 1" value="remaining."/>
+    <str id="Peaceful Hippie" value="This challenge can be completed by reaching level %d without killing anyone or anything." local="完成这项挑战需要你在不杀死&#10;任何东西的条件下升到 %d 级&#10;。"/>
+    <str id="The Bubble Boy" value="This challenge can be completed by regaining full health after casting Divine Shield while having only one health" local="完成这项挑战需要你在只剩一&#10;点生命时施放神圣之盾，然后&#10;将生命回满。" space="True">
+      <str id="paragraph 1" value="remaining." local=""/>
     </str>
-    <str id="The Prodigal Son" value="This challenge can be completed by having six unused talent points."/>
-    <str id="Merchant's Tale" value="This challenge can be completed by having %d gold coins in your backpack."/>
-    <str id="Bigger They Are" value="This challenge can be completed by killing an uninjured monster with a single blow.">
-      <str id="paragraph 1" value="Instant kill effects do not count."/>
+    <str id="The Prodigal Son" value="This challenge can be completed by having six unused talent points." local="完成这项挑战需要你有六点没&#10;使用的天赋点。"/>
+    <str id="Merchant's Tale" value="This challenge can be completed by having %d gold coins in your backpack." local="完成这项挑战需要你的背包中&#10;有 %d 枚金币。"/>
+    <str id="Bigger They Are" value="This challenge can be completed by killing an uninjured monster with a single blow." local="完成这项挑战需要你单次打击&#10;杀死一个无伤的巨怪。">
+      <str id="paragraph 1" value="Instant kill effects do not count." local="触发即死效果不算。"/>
     </str>
-    <str id="That's Cheating" value="This challenge can be completed by looting the crown after dying at least once."/>
-    <str id="The Epic Splat" value="This challenge can be completed by failing a reflex check while having Lightning Reflexes heritage and Sixth Sense" space="True">
-      <str id="paragraph 1" value="talent."/>
+    <str id="That's Cheating" value="This challenge can be completed by looting the crown after dying at least once." local="完成这项挑战需要你在拾取到&#10;王冠前至少差点死亡一次。"/>
+    <str id="The Epic Splat" value="This challenge can be completed by failing a reflex check while having Lightning Reflexes heritage and Sixth Sense" local="完成这项挑战需要你在同时有&#10;第六感天赋和闪电反应遗产时&#10;，还是未能通过反射检定。" space="True">
+      <str id="paragraph 1" value="talent." local=""/>
     </str>
-    <str id="One Nasty Flu" value="This challenge can be completed by having 20 ability damage effects that reduce all abilities by 5."/>
-    <str id="Just a Scratch" value="This challenge can be completed by killing a creature that has hit you for %d or more points of damage with a single" space="True">
-      <str id="paragraph 1" value="attack or spell."/>
+    <str id="One Nasty Flu" value="This challenge can be completed by having 20 ability damage effects that reduce all abilities by 5." local="完成这项挑战需要你身上有 2&#10;0 个属性伤害效果，它们把你&#10;的属性点总和降到 5 。"/>
+    <str id="Just a Scratch" value="This challenge can be completed by killing a creature that has hit you for %d or more points of damage with a single" local="完成这项挑战需要你杀死一个&#10;生物，该生物曾一击给你造成&#10;过 %d 或更多点的伤害。" space="True">
+      <str id="paragraph 1" value="attack or spell." local=""/>
     </str>
-    <str id="Idle Bookworm" value="This challenge can be completed by learning all Celestial, Draconic and Infernal spells in a single game."/>
-    <str id="Bad Romance" value="Enables the cloak style and color selection during character creation.">
-      <str id="paragraph 1" value="This challenge can be completed by showing your inner rogue and killing your puppy eyed soul mate."/>
+    <str id="Idle Bookworm" value="This challenge can be completed by learning all Celestial, Draconic and Infernal spells in a single game." local="完成这项挑战需要你在单次游&#10;戏中学会所有的天使系、龙系&#10;和地狱系法术。"/>
+    <str id="Bad Romance" value="Enables the cloak style and color selection during character creation." local="开启创建角色阶段的披风样式&#10;及颜色选项。">
+      <str id="paragraph 1" value="This challenge can be completed by showing your inner rogue and killing your puppy eyed soul mate." local="完成这项挑战需要你展示内心&#10;深处的浪子，杀死你那有着一&#10;双可爱大眼睛的灵魂伴侣。"/>
     </str>
-    <str id="Undead Party" value="Unlocks the option to select left and right cloak styles at the start of the game.">
-      <str id="paragraph 1" value="This challenge can be completed by starting the final battle with %d or more undead friends."/>
+    <str id="Undead Party" value="Unlocks the option to select left and right cloak styles at the start of the game." local="解锁游戏开始时选择左右披风&#10;样式的选项。">
+      <str id="paragraph 1" value="This challenge can be completed by starting the final battle with %d or more undead friends." local="完成这项挑战需要你带着 %d &#10;或更多个亡灵伙伴进入终局之&#10;战。"/>
     </str>
-    <str id="The Red Mist" value="Unlocks the option to select red cloak color at the start of the game.">
-      <str id="paragraph 1" value="This challenge can be completed by killing five or more enemies with a single melee attack."/>
+    <str id="The Red Mist" value="Unlocks the option to select red cloak color at the start of the game." local="解锁游戏开始时红色披风的选&#10;项。">
+      <str id="paragraph 1" value="This challenge can be completed by killing five or more enemies with a single melee attack." local="完成这项挑战需要你用一次近&#10;战攻击杀死五个或更多的敌人&#10;。"/>
     </str>
-    <str id="Poison Blade" value="Unlocks the option to select green cloak color at the start of the game.">
-      <str id="paragraph 1" value="This challenge can be completed by equipping a weapon that has ten or more poison effects."/>
+    <str id="Poison Blade" value="Unlocks the option to select green cloak color at the start of the game." local="解锁游戏开始时绿色披风的选&#10;项。">
+      <str id="paragraph 1" value="This challenge can be completed by equipping a weapon that has ten or more poison effects." local="完成这项挑战需要你装备一件&#10;淬有十种或更多种毒药的武器&#10;。"/>
     </str>
-    <str id="Frosty Touch" value="Unlocks the option to select blue cloak color at the start of the game.">
-      <str id="paragraph 1" value="This challenge can be completed by killing an uninjured drake with frozen orbs."/>
-      <str id="paragraph 2" value="Instant kill effects do not count."/>
+    <str id="Frosty Touch" value="Unlocks the option to select blue cloak color at the start of the game." local="解锁游戏开始时蓝色披风的选&#10;项。">
+      <str id="paragraph 1" value="This challenge can be completed by killing an uninjured drake with frozen orbs." local="完成这项挑战需要你用冰球杀&#10;死一条无伤的龙。"/>
+      <str id="paragraph 2" value="Instant kill effects do not count." local="触发即死效果不算。"/>
     </str>
-    <str id="My Precious" value="Unlocks the option to select purple cloak color at the start of the game.">
-      <str id="paragraph 1" value="This challenge can be completed by obtaining the ring of power."/>
+    <str id="My Precious" value="Unlocks the option to select purple cloak color at the start of the game." local="解锁游戏开始时紫色披风的选&#10;项。">
+      <str id="paragraph 1" value="This challenge can be completed by obtaining the ring of power." local="完成这项挑战需要你获得那枚&#10;魔戒。"/>
     </str>
-    <str id="Dark Shroud" value="Unlocks the option to select black cloak color at the start of the game.">
-      <str id="paragraph 1" value="This challenge can be completed by having ten or more curse effects at the same time."/>
+    <str id="Dark Shroud" value="Unlocks the option to select black cloak color at the start of the game." local="解锁游戏开始时黑色披风的选&#10;项。">
+      <str id="paragraph 1" value="This challenge can be completed by having ten or more curse effects at the same time." local="完成这项挑战需要你同时承受&#10;十种或更多的诅咒。"/>
     </str>
-    <str id="Fully Buffed" value="Unlocks the option to select white cloak color at the start of the game.">
-      <str id="paragraph 1" value="This challenge can be completed by having twelve or more buff effects at the same time."/>
+    <str id="Fully Buffed" value="Unlocks the option to select white cloak color at the start of the game." local="解锁游戏开始时白色披风的选&#10;项。">
+      <str id="paragraph 1" value="This challenge can be completed by having twelve or more buff effects at the same time." local="完成这项挑战需要你同时拥有&#10;十二个或更多的 Buff 效果。"/>
     </str>
-    <str id="Acne Treatment" value="This challenge can be completed by regaining full health after spending %d or more turns in lava.">
-      <str id="paragraph 1" value="Previous bath:"/>
+    <str id="Acne Treatment" value="This challenge can be completed by regaining full health after spending %d or more turns in lava." local="完成这项挑战需要你在岩浆里&#10;坚持 %d 或更多回合后生命回&#10;满。">
+      <str id="paragraph 1" value="Previous bath:" local="上次沐浴："/>
     </str>
-    <str id="Feeling Slimy" value="This challenge can be completed by regaining full health after being surrounded by %d dwellers and/or lurkers.">
-      <str id="paragraph 1" value="Note that being levitated while surrounded prevents that part of this challenge from triggering (so don't levitate)."/>
+    <str id="Feeling Slimy" value="This challenge can be completed by regaining full health after being surrounded by %d dwellers and/or lurkers." local="完成这项挑战需要你在被 %d &#10;只土著或潜伏者包围后将生命&#10;回满。">
+      <str id="paragraph 1" value="Note that being levitated while surrounded prevents that part of this challenge from triggering (so don't levitate)." local="注意：在被包围后浮空会阻止&#10;触发这项挑战（所以不要浮空&#10;）。"/>
     </str>
-    <str id="Tax Evasion" value="This challenge can be completed by killing %d enemies in a row without being hit by a melee, ranged or spell attack.">
-      <str id="paragraph 1" value="Note that snails and charmed creatures do not count."/>
-      <str id="paragraph 2" value="Enemies killed:"/>
+    <str id="Tax Evasion" value="This challenge can be completed by killing %d enemies in a row without being hit by a melee, ranged or spell attack." local="完成这项挑战需要你连续杀死&#10; %d 敌人，期间不被近战、远&#10;程、魔法攻击到。">
+      <str id="paragraph 1" value="Note that snails and charmed creatures do not count." local="注意：蜗牛和倍魅惑的生物不&#10;计入内。"/>
+      <str id="paragraph 2" value="Enemies killed:" local="已杀死敌人："/>
     </str>
-    <str id="Blood Sucker" value="This challenge can be completed by regaining %d points of health by life draining enemies.">
-      <str id="paragraph 1" value="Note that any other form of healing resets the counter."/>
-      <str id="paragraph 2" value="Life drained:"/>
+    <str id="Blood Sucker" value="This challenge can be completed by regaining %d points of health by life draining enemies." local="完成这项挑战需要你从敌人那&#10;里吸取 %d 点生命。">
+      <str id="paragraph 1" value="Note that any other form of healing resets the counter." local="注意：任何其它形式的生命回&#10;复都会重置计数器。"/>
+      <str id="paragraph 2" value="Life drained:" local="吸取生命："/>
     </str>
-    <str id="El Presidente" value="This challenge can be completed by doing the following:"/>
-    <str id="Main Course" value="This challenge can be completed by by eating the following monsters while polymorphed:"/>
-    <str id="Road to Hell" value="This challenge can be completed by killing %d under aged daemons at level 20 after typing:">
+    <str id="El Presidente" value="This challenge can be completed by doing the following:" local="完成这项挑战需要你做以下事&#10;情："/>
+    <str id="Main Course" value="This challenge can be completed by by eating the following monsters while polymorphed:" local="完成这项挑战需要你在被变形&#10;后吃掉下列巨怪："/>
+    <str id="Road to Hell" value="This challenge can be completed by killing %d under aged daemons at level 20 after typing:" local="完成这项挑战需要你杀死 %d &#10;个 20 级未成年恶魔后，输入&#10;：">
       <str id="paragraph 1" value="&quot;%s&quot;"/>
-      <str id="paragraph 2" value="Daemons killed:"/>
+      <str id="paragraph 2" value="Daemons killed:" local="已杀死恶魔："/>
     </str>
     <str id="Howdy Ho!" value="This challenge can be completed by finding and resurrecting Ken'nih before his corpse is eaten by rats." local="在老鼠吃掉肯'尼斯的尸体前找&#10;到它，就能完成这个挑战。">
       <str id="paragraph 1" value="Note that this can be attempted only once per game and you must be polymorphed in order to complete it." local="注意：每局游戏只能尝试一次&#10;，为了完成挑战你必须被变形&#10;。"/>
     </str>
-    <str id="Dog Whisperer" value="This challenge can be completed by having Woof cause any damage to the King."/>
-    <str id="I Got This!" value="This challenge can be completed by looting the crown on heroic difficulty level."/>
-    <str id="Nabon's Demise" value="This challenge can be completed by killing Dreadlord Nabon and ending his reign of terror."/>
-    <str id="Dwarfageddon" value="Unlocks &quot;%s&quot; title and adds runes to loot tables.">
-      <str id="paragraph 1" value="This challenge can be completed by making sure that dwarves won't be added in the game anytime soon."/>
+    <str id="Dog Whisperer" value="This challenge can be completed by having Woof cause any damage to the King." local="完成这项挑战需要你的汪汪对&#10;国王造成伤害。"/>
+    <str id="I Got This!" value="This challenge can be completed by looting the crown on heroic difficulty level." local="完成这项挑战需要你在英雄难&#10;度级别下取得王冠。"/>
+    <str id="Nabon's Demise" value="This challenge can be completed by killing Dreadlord Nabon and ending his reign of terror." local="完成这项挑战需要你杀死黑暗&#10;之主腊崩，终结他的恐怖统治&#10;。"/>
+    <str id="Dwarfageddon" value="Unlocks &quot;%s&quot; title and adds runes to loot tables." local="解锁 &quot;%s&quot; 头衔， 在拾取表中增加符石。">
+      <str id="paragraph 1" value="This challenge can be completed by making sure that dwarves won't be added in the game anytime soon." local="完成这项挑战需要你确认矮人&#10;不会很快加入游戏。"/>
     </str>
-    <str id="Mental Disorder" value="This challenge can be completed by befriending an infernal."/>
-    <str id="Mother of Drakes" value="This challenge can be completed by having three permanent drake friends at the same time."/>
-    <str id="It's Elementary" value="This challenge can be completed by causing at least %d points of enchanted elemental damage before resistances" space="True">
-      <str id="paragraph 2" value="with a single melee or ranged hit."/>
+    <str id="Mental Disorder" value="This challenge can be completed by befriending an infernal." local="完成这项挑战需要你和地狱恶&#10;魔和平相处。"/>
+    <str id="Mother of Drakes" value="This challenge can be completed by having three permanent drake friends at the same time." local="完成这项挑战需要你永久的让&#10;三条龙作为伙伴。"/>
+    <str id="It's Elementary" value="This challenge can be completed by causing at least %d points of enchanted elemental damage before resistances" local="完成这项挑战需要你在一次近&#10;战或远程攻击中，元素附魔效&#10;果造成未抵抗的 %d 点伤害。" space="True">
+      <str id="paragraph 2" value="with a single melee or ranged hit." local=""/>
     </str>
-    <str id="Safety Conscious" value="This challenge can be completed by viewing your stats while having %d immunities (press Ctrl in the inventory)."/>
-    <str id="Who's Trolling" value="This challenge can be completed by completing the following steps:%s">
-      <str id="paragraph 1" value="Trolls killed:"/>
+    <str id="Safety Conscious" value="This challenge can be completed by viewing your stats while having %d immunities (press Ctrl in the inventory)." local="完成这项挑战需要你在同时拥&#10;有 %d 种免疫效果时查看自己&#10;的状态（弹出物品栏时按下 C&#10;trl）。"/>
+    <str id="Who's Trolling" value="This challenge can be completed by completing the following steps:%s" local="完成这项挑战需要你完成以下&#10;步骤：%s">
+      <str id="paragraph 1" value="Trolls killed:" local="已杀死巨魔："/>
     </str>
-    <str id="Greenhouse Effect" value="This challenge can be completed by having a treeman heal four or more other treemen in one turn.">
-      <str id="paragraph 1" value="Note that it's easier to spawn a treeman when you increase your critical hit modifier."/>
+    <str id="Greenhouse Effect" value="This challenge can be completed by having a treeman heal four or more other treemen in one turn." local="完成这项挑战需要你有一个树&#10;人在一个回合内治愈四个或更&#10;多的树人。">
+      <str id="paragraph 1" value="Note that it's easier to spawn a treeman when you increase your critical hit modifier." local="注意：提升你的暴击修正会更&#10;容易诞生出树人。"/>
     </str>
-    <str id="Rat Lives Matter" value="This challenge can be completed by killing a merchant and all his henchmen with giant rats.">
-      <str id="paragraph 1" value="Note that the challenge fails if any of the targets is killed by something other than a giant rat."/>
+    <str id="Rat Lives Matter" value="This challenge can be completed by killing a merchant and all his henchmen with giant rats." local="完成这项挑战需要你用巨鼠杀&#10;死一个商人及其所有随从。">
+      <str id="paragraph 1" value="Note that the challenge fails if any of the targets is killed by something other than a giant rat." local="注意：如果任一目标被巨鼠之&#10;外的东西杀死都会导致挑战失&#10;败。"/>
     </str>
-    <str id="Triggered Much?" value="This challenge can be completed by slaying a demonrat that is properly triggered.">
-      <str id="paragraph 1" value="Note that triggered demonrats have a hateful aura that reflects damage."/>
+    <str id="Triggered Much?" value="This challenge can be completed by slaying a demonrat that is properly triggered." local="完成这项挑战需要你杀掉一只&#10;可能被激发的魔鼠。">
+      <str id="paragraph 1" value="Note that triggered demonrats have a hateful aura that reflects damage." local="注意：激发的魔鼠带有一个憎&#10;恶光环可以反弹伤害。"/>
     </str>
-    <str id="Drain the Swamp" value="Unlocks &quot;%s&quot; title and enables legendary effects.">
-      <str id="paragraph 1" value="This challenge can be completed by naming a weapon &quot;Orangutang&quot; and using it to slay %d swamp monsters."/>
-      <str id="paragraph 2" value="Note that it should be wielded in the main hand while killing lurkers and or dwellers."/>
-      <str id="paragraph 3" value="Swamp monsters killed:"/>
+    <str id="Drain the Swamp" value="Unlocks &quot;%s&quot; title and enables legendary effects." local="解锁 &quot;%s&quot; 头衔并&#10;开启传奇效果。">
+      <str id="paragraph 1" value="This challenge can be completed by naming a weapon &quot;Orangutang&quot; and using it to slay %d swamp monsters." local="完成这项挑战 需要你将一件武器 命名为 &quot;Orangutang&quot; 并用它杀死 %d 沼泽巨怪。"/>
+      <str id="paragraph 2" value="Note that it should be wielded in the main hand while killing lurkers and or dwellers." local="注意：在杀死潜伏者或土著时&#10;，武器必须握在主手。"/>
+      <str id="paragraph 3" value="Swamp monsters killed:" local="已杀死沼泽巨怪："/>
     </str>
-    <str id="Cheesy Musk" value="This legendary effect can be imbued by taming a cave bear."/>
-    <str id="Death Proof" value="This legendary effect can be imbued by casting Divine Shield while below 25% health and adjacent to an enemy."/>
-    <str id="Flashlight" value="This legendary effect can be imbued by reading a master's scroll of light."/>
-    <str id="Hateful Aura" value="This legendary effect can be imbued by killing a demonrat."/>
-    <str id="Leap of Faith" value="This legendary effect can be imbued by jumping over a lava chasm."/>
-    <str id="Misinvisicast" value="This legendary effect can be imbued by turning invisible when you cast Plane Shift."/>
-    <str id="Nightshade" value="This legendary effect can be imbued by applying a potent deadly poison on the weapon."/>
-    <str id="Orbus Bomba" value="This legendary effect can be imbued by killing an enemy with splash damage of an enlarged orb."/>
-    <str id="Zombie Dog" value="This legendary effect can be imbued by killing Woof."/>
-    <str id="TestOfLeadership" value="This challenge can be completed by being known as '%s' after finishing the test of leadership.">
-      <str id="paragraph 1" value="The test of leadership has three questions and three possible types of answers (cruel, fair and gentle)."/>
+    <str id="Cheesy Musk" value="This legendary effect can be imbued by taming a cave bear." local="灌注此传奇效果需要驯服一只&#10;洞熊。"/>
+    <str id="Death Proof" value="This legendary effect can be imbued by casting Divine Shield while below 25% health and adjacent to an enemy." local="灌注此传奇效果需要在生命值&#10;低于 25% 且临接一个敌人时施&#10;放神圣之盾。"/>
+    <str id="Flashlight" value="This legendary effect can be imbued by reading a master's scroll of light." local="灌注此传奇效果需要阅读一本&#10;大师级的光明卷轴。"/>
+    <str id="Hateful Aura" value="This legendary effect can be imbued by killing a demonrat." local="灌注此传奇效果需要杀死一只&#10;魔鼠。"/>
+    <str id="Leap of Faith" value="This legendary effect can be imbued by jumping over a lava chasm." local="灌注此传奇效果需要跃过一个&#10;熔岩峡谷。"/>
+    <str id="Misinvisicast" value="This legendary effect can be imbued by turning invisible when you cast Plane Shift." local="灌注此传奇效果需要在你施放&#10;位面传送的同时进入隐身状态&#10;。"/>
+    <str id="Nightshade" value="This legendary effect can be imbued by applying a potent deadly poison on the weapon." local="灌注此传奇效果需要将一瓶强&#10;效死亡药剂淬在武器上。"/>
+    <str id="Orbus Bomba" value="This legendary effect can be imbued by killing an enemy with splash damage of an enlarged orb." local="灌注此传奇效果需要你用增大&#10;的法术球的溅射杀死一个敌人&#10;。"/>
+    <str id="Zombie Dog" value="This legendary effect can be imbued by killing Woof." local="灌注此传奇效果需要你杀死汪&#10;汪。"/>
+    <str id="TestOfLeadership" value="This challenge can be completed by being known as '%s' after finishing the test of leadership." local="完成这项挑战需要你在完成领&#10;导力测试后被视为 '%s' 。">
+      <str id="paragraph 1" value="The test of leadership has three questions and three possible types of answers (cruel, fair and gentle)." local="领导力测试有三个问题及三种&#10;类型的答案（无情、公正和温&#10;和）。"/>
     </str>
     <str id="Path of Wisdom" value="%s">
-      <str id="paragraph 1" value="If you answer the test with one of each types of answers, you will be known as '%s'."/>
+      <str id="paragraph 1" value="If you answer the test with one of each types of answers, you will be known as '%s'." local="如果你测试的答案每种类型都&#10;有，你会被视为'%s'。"/>
     </str>
     <str id="Path of Justice" value="%s">
-      <str id="paragraph 1" value="If you answer the test with cruel and fair answers only, you will be known as '%s'."/>
+      <str id="paragraph 1" value="If you answer the test with cruel and fair answers only, you will be known as '%s'." local="如果你测试的答案中有无情的&#10;和公正的，你会被视为'%s'。"/>
     </str>
     <str id="Path of Decency" value="%s">
-      <str id="paragraph 1" value="If you answer the test with cruel and gentle answers only, you will be known as '%s'."/>
+      <str id="paragraph 1" value="If you answer the test with cruel and gentle answers only, you will be known as '%s'." local="如果你测试的答案中有无情的&#10;和温和的，你会被视为'%s'。"/>
     </str>
     <str id="Path of Kindness" value="%s">
-      <str id="paragraph 1" value="If you answer the test with fair and gentle answers only, you will be known as '%s'."/>
+      <str id="paragraph 1" value="If you answer the test with fair and gentle answers only, you will be known as '%s'." local="如果你测试的答案中有公正的&#10;和温和的，你会被视为'%s'。"/>
     </str>
     <str id="Path of Cruelty" value="%s">
-      <str id="paragraph 1" value="If you answer the test with cruel answers only, you will be known as '%s'."/>
+      <str id="paragraph 1" value="If you answer the test with cruel answers only, you will be known as '%s'." local="如果你测试的答案中只有无情&#10;的，你会被视为'%s'。"/>
     </str>
     <str id="Path of Fairness" value="%s">
-      <str id="paragraph 1" value="If you answer the test with fair answers only, you will be known as '%s'."/>
+      <str id="paragraph 1" value="If you answer the test with fair answers only, you will be known as '%s'." local="If @(26)如果你测试的答案中只有公正的，你会被视为'%s'。"/>
     </str>
     <str id="Path of Compassion" value="%s">
-      <str id="paragraph 1" value="If you answer the test with gentle answers only, you will be known as '%s'."/>
+      <str id="paragraph 1" value="If you answer the test with gentle answers only, you will be known as '%s'." local="如果你测试的答案中只有温和&#10;的，你会被视为'%s'。"/>
     </str>
   </ChallengeDescs>
   <ChallengeTitles>
@@ -3848,7 +3848,7 @@
     <str id="the Wizard" value="the Wizard" local="法师"/>
     <str id="the Firelord" value="the Firelord" local="火焰领主"/>
     <str id="the Octopus" value="the Octopus" local="章鱼"/>
-    <str id="the Untouchable" value="the Untouchable" local="不可触碰"/>
+    <str id="the Untouchable" value="the Untouchable" local="无法触碰"/>
     <str id="the Vampire" value="the Vampire" local="吸血鬼"/>
     <str id="the Trump" value="the Trump" local="特朗普"/>
     <str id="the Munchkin" value="the Munchkin" local="小白"/>
@@ -3874,7 +3874,7 @@
     <str id="the Lavafrog" value="the Lavafrog" local="熔岩之蛙"/>
     <str id="the Shifter" value="the Shifter" local="幻影"/>
     <str id="the Deadly" value="the Deadly" local="死神"/>
-    <str id="the Splasher" value="the Splasher" local="溅射侠"/>
+    <str id="the Splasher" value="the Splasher" local="喷射战士"/>
     <str id="the Caretaker" value="the Caretaker" local="看门人"/>
     <str id="the Wise" value="the Wise" local="睿智的"/>
     <str id="the Just" value="the Just" local="正义的"/>
@@ -4163,9 +4163,9 @@
     <str id="STR_INTRO_SMITTEN" value="STR_NAME seems badly smitten."/>
     <str id="STR_BREAK_UP_1" value="What, why, please don't?!?"/>
     <str id="STR_BREAK_UP_2" value="What, why, you little bitch?!?"/>
-    <str id="STR_INTRO_SOUL_MATE" value="Your soul mate looks at you with puppy eyes."/>
-    <str id="STR_ATTACK_SOUL_MATE" value="I'm sorry but it's because of me, not you."/>
-    <str id="STR_FUBAR_SOUL_MATE" value="You can almost feel how the puppy eyes shatter."/>
+    <str id="STR_INTRO_SOUL_MATE" value="Your soul mate looks at you with puppy eyes." local="你的灵魂伴侣用一双可爱的大眼睛盯着你。"/>
+    <str id="STR_ATTACK_SOUL_MATE" value="I'm sorry but it's because of me, not you." local="抱歉，这都是我的问题，和你无关。"/>
+    <str id="STR_FUBAR_SOUL_MATE" value="You can almost feel how the puppy eyes shatter." local="你完全能感受到那双可爱的大眼睛中的震惊。"/>
     <str id="STR_ASK_TRICKS" value="Can you teach me any new tricks?"/>
     <str id="STR_ASK_MOVES" value="Do you know any fancy moves?"/>
     <str id="STR_SHOW_WARES" value="Let's see your wares."/>
