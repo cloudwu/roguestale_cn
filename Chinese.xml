@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="47ce422082498b78d877842050e16381f59596a7">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="50007ee95f10faf4759ce692018bd75fd252c4d9">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -672,7 +672,7 @@
     <str id="You suck your thumb." value="You suck your thumb." local="你吸了下手指。"/>
     <str id="You wiggle your toe." value="You wiggle your toe." local="你扭了下脚趾。"/>
     <str id="You sniff your armpit." value="You sniff your armpit." local="你闻了下的腋窝。"/>
-    <str id="You fart silently); whew." value="You fart silently); whew." local="你默默地放了个屁 ;) You fart silently); 噢。"/>
+    <str id="You fart silently); whew." value="You fart silently); whew." local="你默默地放了个屁 ;) 噗。"/>
     <str id="You rest but don't feel any better." value="You rest but don't feel any better." local="你休息了一下，但并没有好多少。"/>
     <str id="You rest and feel a bit more energetic." value="You rest and feel a bit more energetic." local="你休息了一下，感觉精力更充沛了。"/>
     <str id="You rest and feel a bit more healthy." value="You rest and feel a bit more healthy." local="你休息了一下，感觉更健康了。"/>
@@ -1775,17 +1775,17 @@
     <str id="Fragment of Aetherus" value="Fragment of Aetherus" local="以太碎片"/>
     <str id="Fragment of Terranus" value="Fragment of Terranus" local="地核碎片"/>
     <str id="Eye of the Beholder" value="Eye of the Beholder" local="旁观之眼"/>
-    <str id="Crystal Tear of a Maiden" value="Crystal Tear of a Maiden" local="圣女之泪"/>
+    <str id="Crystal Tear of a Maiden" value="Crystal Tear of a Maiden" local="少女之泪"/>
     <str id="Misplaced Dragon Egg" value="Misplaced Dragon Egg" local="错位龙蛋"/>
     <str id="Pulsating Daemon's Heart" value="Pulsating Daemon's Heart" local="恶魔之心"/>
     <str id="Book of Fading Memories" value="Book of Fading Memories" local="遗忘之书"/>
     <str id="Manuscript of Knowledge" value="Manuscript of Knowledge" local="知识原稿"/>
     <str id="High Capacity Quiver" value="High Capacity Quiver" local="高容箭囊"/>
-    <str id="Third Leg of the Imp" value="Third Leg of the Imp" local="妖精的第三只脚"/>
+    <str id="Third Leg of the Imp" value="Third Leg of the Imp" local="小恶魔的第三条脚"/>
     <str id="Stone of Arcane Power" value="Stone of Arcane Power" local="奥术之石"/>
     <str id="Star Spangled Cap" value="Star Spangled Cap" local="闪耀之帽"/>
     <str id="Glove of Liberalism" value="Glove of Liberalism" local="自由手套"/>
-    <str id="Wristband of Liberalism" value="Wristband of Liberalism" local="只有护腕"/>
+    <str id="Wristband of Liberalism" value="Wristband of Liberalism" local="自由护腕"/>
     <str id="Black Meistercard" value="Black Meistercard" local="黑色卡片"/>
     <str id="Deadly Ghoul Tooth" value="Deadly Ghoul Tooth" local="食尸鬼之牙"/>
     <str id="Mad Torque Slingshot" value="Mad Torque Slingshot" local="狂力弹弓"/>
@@ -1796,40 +1796,40 @@
     <str id="Loose Weapon Chain" value="Loose Weapon Chain" local="宽松的武器链"/>
     <str id="Time Dilation Device" value="Time Dilation Device" local="时间膨胀装置"/>
     <str id="Fishing Hook and Line" value="Fishing Hook and Line" local="钓鱼套件"/>
-    <str id="Fairy Jizzed Bull Horn" value="Fairy Jizzed Bull Horn" local="精灵遗弃的牛角"/>
+    <str id="Fairy Jizzed Bull Horn" value="Fairy Jizzed Bull Horn" local="仙女遗弃的牛角"/>
     <str id="Engraved Pyramidion" value="Engraved Pyramidion" local="雕花金字塔"/>
   </CharmNames>
   <CharmDescs>
-    <str id="Lucky Number Seven" value="The house always wins, the sooner you realise that the better."/>
-    <str id="Fluffy Rabbit's Foot" value="This hare was privileged enough to limp away with the rest of its white limbs."/>
-    <str id="Fragment of Volcanus" value="If this is just a fragment, you wonder how hot the real thing would be."/>
-    <str id="Fragment of Aquarius" value="If this is just a fragment, you wonder how cold the real thing would be."/>
-    <str id="Fragment of Aetherus" value="If this is just a fragment, you wonder how windy the real thing would be."/>
-    <str id="Fragment of Terranus" value="If this is just a fragment, you wonder how tough the real thing would be."/>
-    <str id="Eye of the Beholder" value="No monsters were hurt while making this eye. It happened during the removal."/>
-    <str id="Crystal Tear of a Maiden" value="This tear was collected just before a young girl lost her innocence to a horde of savage raiders."/>
-    <str id="Misplaced Dragon Egg" value="The owner of this egg has to settle for one kingdom instead of seven."/>
-    <str id="Pulsating Daemon's Heart" value="This ticker just keeps on going. Perhaps it has some magic powers."/>
-    <str id="Book of Fading Memories" value="A gentleman bunny or hairy hands on the cover would've been too much, right?"/>
-    <str id="Manuscript of Knowledge" value="So this is how you make items and game mechanics obsolete as time goes by."/>
-    <str id="High Capacity Quiver" value="This turns any bow into an assault bow. Remember to shout out the name of your deity before mowing infidels."/>
-    <str id="Third Leg of the Imp" value="They say that Lyrion Bannister finally lost his mojo and the dwarves were no more. So sad."/>
-    <str id="Stone of Arcane Power" value="If this was black, the moon worshiping sand people would dance around it."/>
-    <str id="Star Spangled Cap" value="Perhaps the 2020 written on the cap means that you win bigly."/>
-    <str id="Glove of Liberalism" value="Projects a terrible force when 'Kameha..', uhm, 'Ei' is spoken out loud."/>
-    <str id="Wristband of Liberalism" value="It reads 'Tafsa inte' in demonic, which roughly means 'Don't touch me' in common."/>
-    <str id="Black Meistercard" value="Debt is wealth that you never have to pay back. You should start accumulating now..."/>
-    <str id="Deadly Ghoul Tooth" value="Isn't it weird that a ghoul tooth coin is the most powerful item in the game?"/>
-    <str id="Mad Torque Slingshot" value="Rubber will be invented in about a 1000 years. Until then, sinews and intestines will have to do."/>
-    <str id="Duelist's Wristbow" value="Anyone else get a scary, scarab-y, -ey, uhh whatever, feeling about this?"/>
-    <str id="Uberlyft's Lost Shoe" value="Clip-clop, clip-clop, Uberlyft needs its missing shoe to make you pop."/>
-    <str id="Creepy Stone Face" value="The face of cultural appropriation panda when it got lei'd and someone said 'Aloha! Snackbar?'."/>
-    <str id="Golden Chastity Key" value="These things would work if all the keys would match only one lock but when all keys match every lock..."/>
-    <str id="Loose Weapon Chain" value="Think about a tight weapon chain. Either your hand is ripped off or the chain limits your reach."/>
-    <str id="Time Dilation Device" value="Wow. An unconfortably large earring in a game where there is no earring slot to equip it. Awesome."/>
-    <str id="Fishing Hook and Line" value="Oh well, this was one of those things that were never intended to be added but here we are."/>
-    <str id="Fairy Jizzed Bull Horn" value="This horn wasn't able to avoid a busload of fairies that were offended by its toxic masculinity."/>
-    <str id="Engraved Pyramidion" value="This symbolizes the abyssal ways of clipping tips and tops of things that protrude too much."/>
+    <str id="Lucky Number Seven" value="The house always wins, the sooner you realise that the better." local="庄家永远赢，越早意识到这点越好&#10;。"/>
+    <str id="Fluffy Rabbit's Foot" value="This hare was privileged enough to limp away with the rest of its white limbs." local="这只野兔幸运的用剩下的腿跛着跑&#10;掉了。"/>
+    <str id="Fragment of Volcanus" value="If this is just a fragment, you wonder how hot the real thing would be." local="如果这仅仅是块碎片，你很难想象&#10;那个东西该有多滚烫。"/>
+    <str id="Fragment of Aquarius" value="If this is just a fragment, you wonder how cold the real thing would be." local="如果这仅仅是块碎片，你很难想象&#10;那个东西该有多冰冷。"/>
+    <str id="Fragment of Aetherus" value="If this is just a fragment, you wonder how windy the real thing would be." local="如果这仅仅是块碎片，你很难想象&#10;那个东西该有多大风。"/>
+    <str id="Fragment of Terranus" value="If this is just a fragment, you wonder how tough the real thing would be." local="如果这仅仅是块碎片，你很难想象&#10;那个东西该有多坚硬。"/>
+    <str id="Eye of the Beholder" value="No monsters were hurt while making this eye. It happened during the removal." local="制造这只眼的时候没有巨怪受伤。&#10;那发生在摘除的时候。"/>
+    <str id="Crystal Tear of a Maiden" value="This tear was collected just before a young girl lost her innocence to a horde of savage raiders." local="这些眼泪是在一个小女孩被一群野&#10;蛮的游牧者强暴的时候收集起来的&#10;。"/>
+    <str id="Misplaced Dragon Egg" value="The owner of this egg has to settle for one kingdom instead of seven." local="这枚蛋的主人必须满足于一个王国&#10;，而不能是七个。"/>
+    <str id="Pulsating Daemon's Heart" value="This ticker just keeps on going. Perhaps it has some magic powers." local="这只东西一直在动。也许它有一些&#10;魔力。"/>
+    <str id="Book of Fading Memories" value="A gentleman bunny or hairy hands on the cover would've been too much, right?" local="封面上如果画个长发蒙面的白衣少&#10;女就太多余了，对吗？"/>
+    <str id="Manuscript of Knowledge" value="So this is how you make items and game mechanics obsolete as time goes by." local="没错，这里记载着物品和游戏机制&#10;是怎么随着时间流逝而过时的。"/>
+    <str id="High Capacity Quiver" value="This turns any bow into an assault bow. Remember to shout out the name of your deity before mowing infidels." local="这将把任何弓变成突击弓。记得在&#10;收割异教徒之前喊出你的神的名字&#10;。"/>
+    <str id="Third Leg of the Imp" value="They say that Lyrion Bannister finally lost his mojo and the dwarves were no more. So sad." local=" 他们说兰利昂·提尼斯特最终失去&#10;了魔力，矮人再也不会有了。好难&#10;过。"/>
+    <str id="Stone of Arcane Power" value="If this was black, the moon worshiping sand people would dance around it." local="如果这曾是黑色的，拜月神教的人&#10;们会围着它跳舞。"/>
+    <str id="Star Spangled Cap" value="Perhaps the 2020 written on the cap means that you win bigly." local="也许帽子上写的 2020 意味着你赢&#10;得了巨大的胜利。"/>
+    <str id="Glove of Liberalism" value="Projects a terrible force when 'Kameha..', uhm, 'Ei' is spoken out loud." local="当你喊出 'Kameha..', 嗯, 'Ei' &#10;时会施放可怕的力量。"/>
+    <str id="Wristband of Liberalism" value="It reads 'Tafsa inte' in demonic, which roughly means 'Don't touch me' in common." local="用恶魔语写着 'Tafsa inte' ，通&#10;常是 '不要碰我' 的意思。"/>
+    <str id="Black Meistercard" value="Debt is wealth that you never have to pay back. You should start accumulating now..." local="债务是你永远不需要偿还的财富。&#10;你现在就应该开始积累……"/>
+    <str id="Deadly Ghoul Tooth" value="Isn't it weird that a ghoul tooth coin is the most powerful item in the game?" local="这是不是很奇怪，一枚食尸鬼牙齿&#10;硬币是游戏中最强大的物品？"/>
+    <str id="Mad Torque Slingshot" value="Rubber will be invented in about a 1000 years. Until then, sinews and intestines will have to do." local="橡胶将在大约一千年后被发明出来&#10;。在那之前，必须用肌腱和肠子来&#10;做。"/>
+    <str id="Duelist's Wristbow" value="Anyone else get a scary, scarab-y, -ey, uhh whatever, feeling about this?" local="有人怕，怕，怕这个吗？不管这样&#10;，你觉得怎样？"/>
+    <str id="Uberlyft's Lost Shoe" value="Clip-clop, clip-clop, Uberlyft needs its missing shoe to make you pop." local="嘀嘀，嘀嘀，优步需要它的鞋子带&#10;你走。"/>
+    <str id="Creepy Stone Face" value="The face of cultural appropriation panda when it got lei'd and someone said 'Aloha! Snackbar?'." local="在废弃前，这张脸是对熊猫形象的&#10;文化挪用，有人看到就喊 '看！那&#10;是家快餐店吗？'。"/>
+    <str id="Golden Chastity Key" value="These things would work if all the keys would match only one lock but when all keys match every lock..." local="如果一把钥匙开一把锁的话，这些&#10;东西可能能行。可是每把钥匙都能&#10;开任意一把锁……"/>
+    <str id="Loose Weapon Chain" value="Think about a tight weapon chain. Either your hand is ripped off or the chain limits your reach." local="想象一个很紧的武器链，要么你的&#10;手被扯掉了，要么是链子妨碍你去&#10;取。"/>
+    <str id="Time Dilation Device" value="Wow. An unconfortably large earring in a game where there is no earring slot to equip it. Awesome." local="哇喔。游戏里有这么一个超大的耳&#10;环，但却没有耳环槽来装备它。太&#10;棒了。"/>
+    <str id="Fishing Hook and Line" value="Oh well, this was one of those things that were never intended to be added but here we are." local="好吧，我本来永远都不想加这个东&#10;西的，不过现在有了。"/>
+    <str id="Fairy Jizzed Bull Horn" value="This horn wasn't able to avoid a busload of fairies that were offended by its toxic masculinity." local="这个牛角散发出的直男癌气息无可&#10;避免的会招来一车皮深受其害的小&#10;仙女。"/>
+    <str id="Engraved Pyramidion" value="This symbolizes the abyssal ways of clipping tips and tops of things that protrude too much." local="这象征着以深渊的方式裁剪掉多余&#10;的东西突出重点。"/>
   </CharmDescs>
   <CharmEffects>
     <str id="Lucky Number Seven" value="All physical damage you deal to enemies also bleeds gold coins."/>
@@ -2174,11 +2174,11 @@
     <str id="Rune of Might" value="Rune of Might" local="神力符石"/>
     <str id="Rune of Power" value="Rune of Power" local="威能符石"/>
     <str id="Rune of Vigor" value="Rune of Vigor" local="活力符石"/>
-    <str id="Rune of the Imp" value="Rune of the Imp" local="妖精符石"/>
+    <str id="Rune of the Imp" value="Rune of the Imp" local="小恶魔符石"/>
   </RuneNames>
   <RuneDescs>
     <str id="RuneDesc" value="It's such a shame that an entire race had to die for this rune to exist." local="真是令人惭愧，因为这块符石，整&#10;个种族都得去死。"/>
-    <str id="Rune of the Imp" value="This rune gives legendary status to a weapon making it unbreakable and allows you to name the weapon." local="这块符石将一件武器变成传奇，使&#10;它坚不可摧，并允许你为它命名。"/>
+    <str id="Rune of the Imp" value="This rune gives legendary status to a weapon making it unbreakable and allows you to name the weapon." local="这块符石能将一件武器变成传奇，&#10;使它坚不可摧，并允许你为它命名&#10;。"/>
   </RuneDescs>
   <ScrollNames>
     <str id="Scroll" value="Scroll" local="卷轴"/>
@@ -3584,7 +3584,7 @@
       <str id="paragraph 2" value="This heritage can be unlocked by donating an item from the future to the Artisan's Guild." local="你从未来捐赠任意一个物品给&#10;工匠行会可以解锁这项遗产。"/>
       <str id="paragraph 3" value="(*) Note that you will also need to know Literacy: Common and one of the other literacies." local="(*) 注意：你需要读写：常识&#10;以及另一项读写天赋。"/>
     </str>
-    <str id="Rise of Fairies" value="Allows you to learn spells from Bestial tomes with a Fairy Jizzed Bull Horn while levitating (*)." local="允许你通过精灵遗弃的牛角在&#10;浮空时从兽性典籍中学习法术&#10; (*)。">
+    <str id="Rise of Fairies" value="Allows you to learn spells from Bestial tomes with a Fairy Jizzed Bull Horn while levitating (*)." local="允许你通过仙女遗弃的牛角在&#10;浮空时从兽性典籍中学习法术&#10; (*)。">
       <str id="paragraph 1" value="Once you have learned a Bestial spell you can cast it while having a horn in your backpack." local="一旦你学会了一门兽性法术，&#10;你就可以在背包中有牛角时施&#10;放它。"/>
       <str id="paragraph 2" value="This heritage can be unlocked by attempting to donate an unidentified horn to the Artisan's Guild." local="向工匠行会捐赠一个未鉴定的&#10;牛角可以解锁这项遗产。"/>
       <str id="paragraph 3" value="(*) Note that you will also need to know Literacy: Common and one of the other literacies." local="(*) 注意：你需要读写：常识&#10;以及另一项读写天赋。"/>
