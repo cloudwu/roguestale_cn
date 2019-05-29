@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="2af6a2c522993eca70b35ee51b2d8f3b575517bb">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="1f72f876a3b53584be9bc86fbde8224bea3b344c">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -987,7 +987,7 @@
     <str id="Your divine shield absorbs all of the damage." value="Your divine shield absorbs all of the damage." local="你的神圣之盾吸收了所有的伤害。"/>
     <str id="Your attack is partially absorbed by some magical effect." value="Your attack is partially absorbed by some magical effect." local="一些魔法效果部分吸收了你的攻击。"/>
     <str id="Your attack is fully absorbed by some magical effect." value="Your attack is fully absorbed by some magical effect." local="一些魔法效果完全吸收了你的攻击。"/>
-    <str id="You die... but you are saved by %s." value="You die... but you are saved by %s." local="你死了... 但你被 %s 救活了."/>
+    <str id="You die... but you are saved by %s." value="You die... but you are saved by %s." local="你死了... 但你被 %s 救活了。"/>
     <str id="%s dies... but is saved by some magical effect." value="%s dies... but is saved by some magical effect." local="%s 死了... 但被一些魔法效果救活了."/>
     <str id="You are cursed." value="You are cursed." local="你被诅咒了。"/>
     <str id="%s is cursed." value="%s is cursed." local="%s 被诅咒了。"/>
@@ -1001,9 +1001,9 @@
     <str id="%s's %s has worn off." value="%s's %s has worn off." local="%s 的 %s 已经磨损。"/>
     <str id="%s heals you." value="%s heals you." local="%s 治愈了你."/>
     <str id="You feel agonized." value="You feel agonized." local="你感到很痛苦。"/>
-    <str id="You feel unnaturally hungry." value="You feel unnaturally hungry." local="你感到不寻常的饥饿。"/>
+    <str id="You feel unnaturally hungry." value="You feel unnaturally hungry." local="你感到异乎寻常的饥饿。"/>
     <str id="You feel exhausted." value="You feel exhausted." local="你感到筋疲力尽。"/>
-    <str id="You feel unnaturally thirsty." value="You feel unnaturally thirsty." local="你感到不寻常的口渴。"/>
+    <str id="You feel unnaturally thirsty." value="You feel unnaturally thirsty." local="你感到异乎寻常的口渴。"/>
     <str id="You are damaged by a poison." value="You are damaged by a poison." local="你被毒物伤害了。"/>
     <str id="Your energy is drained by a poison." value="Your energy is drained by a poison." local="你的精力被毒物耗尽。"/>
     <str id="Your health is drained by a poison." value="Your health is drained by a poison." local="你的生命被毒物耗尽。"/>
@@ -1148,7 +1148,7 @@
     <str id="Release Soul" value="Release Soul" local="释放灵魂"/>
     <str id="Summon Daemon" value="Summon Daemon" local="召唤恶魔"/>
     <str id="Venomous Orb" value="Venomous Orb" local="毒球术"/>
-    <str id="Virulent Orb" value="Virulent Orb" local="病球术"/>
+    <str id="Virulent Orb" value="Virulent Orb" local="疫球术"/>
     <str id="Divine Shield" value="Divine Shield" local="神圣之盾"/>
     <str id="Conjure Daemon" value="Conjure Daemon" local="驱逐恶魔"/>
     <str id="Identify Item" value="Identify Item" local="物品鉴定"/>
@@ -2031,7 +2031,7 @@
     <str id="Potion of Leeching" value="Contains leeching poison. How and where it is made remains a mystery though." local="里面是吸血毒药。它从何而来，怎&#10;样制造的仍然是个谜。"/>
     <str id="Potion of Literacy" value="Contains just another pink fluid that teaches why we don't need no education." local="里面是另一种粉色液体，它能告诉&#10;我们为什么不需要教育。"/>
     <str id="Potion of Paralysis" value="Contains paralytic poison. How and where it is made remains a mystery though." local="里面是麻痹毒药。它从何而来，怎&#10;样制造的仍然是个谜。"/>
-    <str id="Potion of Sickness" value="Contains infected animal excrements that are known to cause various diseases." local="里面有已知可引起多种疾病的受感&#10;染动物粪便。"/>
+    <str id="Potion of Sickness" value="Contains infected animal excrements that are known to cause various diseases." local="里面有携带瘟疫的动物粪便，可引&#10;起多种疾病。"/>
     <str id="Potion of Silencing" value="Contains silencing poison. How and where it is made remains a mystery though." local="里面是沉默毒药。它从何而来，怎&#10;样制造的仍然是个谜。"/>
     <str id="Potion of Sleeping" value="Contains sleeping poison. How and where it is made remains a mystery though." local="里面是沉睡毒药。它从何而来，怎&#10;样制造的仍然是个谜。"/>
     <str id="Potion of Slowness" value="Contains slowing poison. How and where it is made remains a mystery though." local="里面是迟缓毒药。它从何而来，怎&#10;样制造的仍然是个谜。"/>
@@ -2318,7 +2318,7 @@
     <str id="Tome of Release Soul" value="Tome of Release Soul" local="典籍：释放灵魂"/>
     <str id="Tome of Summon Daemon" value="Tome of Summon Daemon" local="典籍：召唤恶魔"/>
     <str id="Tome of Venomous Orb" value="Tome of Venomous Orb" local="典籍：毒球术"/>
-    <str id="Tome of Virulent Orb" value="Tome of Virulent Orb" local="典籍：病球术"/>
+    <str id="Tome of Virulent Orb" value="Tome of Virulent Orb" local="典籍：疫球术"/>
     <str id="Tome of Divine Shield" value="Tome of Divine Shield" local="典籍：神圣之盾"/>
     <str id="Tome of Conjure Daemon" value="Tome of Conjure Daemon" local="典籍：驱逐恶魔"/>
     <str id="Tome of Identify Item" value="Tome of Identify Item" local="典籍：物品鉴定"/>
@@ -2410,7 +2410,7 @@
     <str id="Wand of Entrapment" value="Wand of Entrapment" local="诱捕魔杖"/>
     <str id="Wand of Excavation" value="Wand of Excavation" local="挖掘魔杖"/>
     <str id="Wand of Freezing" value="Wand of Freezing" local="冰冻魔杖"/>
-    <str id="Wand of Infection" value="Wand of Infection" local="感染魔杖"/>
+    <str id="Wand of Infection" value="Wand of Infection" local="瘟疫魔杖"/>
     <str id="Wand of Inferno" value="Wand of Inferno" local="怒火魔杖"/>
     <str id="Wand of Knocking" value="Wand of Knocking" local="击退魔杖"/>
     <str id="Wand of Maelstrom" value="Wand of Maelstrom" local="漩涡魔杖"/>
@@ -2429,41 +2429,41 @@
     <str id="Wand of Gobsmacking" value="Wand of Gobsmacking" local="震惊魔杖"/>
     <str id="Wand of Rituals" value="Wand of Rituals" local="祭奠魔杖"/>
     <str id="Wand of Scripting" value="Wand of Scripting" local="抄写魔杖"/>
-    <str id="Wand of Torture" value="Wand of Torture" local="肆虐魔杖"/>
+    <str id="Wand of Torture" value="Wand of Torture" local="折磨魔杖"/>
   </WandNames>
   <WandDescs>
-    <str id="WandDesc" value="There appears to be inscription on the wand that is written in some unknown language."/>
-    <str id="WandDescLiterate" value="The inscription on the wand says &quot;Point and click&quot;. Imagine if you would have to learn how to read for this?!?"/>
-    <str id="Wand of Blizzard" value="Shoots an amplified and enlarged frozen orb at the target location."/>
-    <str id="Wand of Burning" value="Shoots a flaming stream at the target location hitting everyone on the path."/>
-    <str id="Wand of Channeling" value="Allows the caster to channel a known spell through the wand."/>
-    <str id="Wand of Chilling" value="Shoots a frozen stream at the target location hitting everyone on the path."/>
-    <str id="Wand of Corruption" value="Creates a cloud of corruption at the target location hitting everyone inside."/>
-    <str id="Wand of Crippling" value="Shoots a crippling stream at the target location hitting everyone on the path."/>
-    <str id="Wand of Crushing" value="Causes a boulder to fall from the ceiling at the target location."/>
-    <str id="Wand of Entrapment" value="Creates a web explosion at the target location trapping everyone inside."/>
-    <str id="Wand of Excavation" value="The creator of this wand clearly favours brains over muscles."/>
-    <str id="Wand of Freezing" value="Causes frost damage or instantly kills the target creature."/>
-    <str id="Wand of Infection" value="Shoots an amplified and enlarged virulent orb at the target location."/>
-    <str id="Wand of Inferno" value="Shoots an amplified and enlarged flaming orb at the target location."/>
-    <str id="Wand of Knocking" value="Damages and knocks the target creature back."/>
-    <str id="Wand of Maelstrom" value="Creates a death vortex at the target location hitting everyone inside."/>
-    <str id="Wand of Melting" value="Causes fire damage or instantly kills the target creature."/>
-    <str id="Wand of Pollution" value="Shoots an amplified and enlarged venomous orb at the target location."/>
-    <str id="Wand of Shifting" value="Teleports the caster to the target location."/>
-    <str id="Wand of Shocking" value="Shoots an electric stream at the target location hitting everyone on the path."/>
-    <str id="Wand of Tempest" value="Shoots an amplified and enlarged electric orb at the target location."/>
-    <str id="Wand of Wishing" value="Stroke me gently and your wish might just come true."/>
-    <str id="Wand of Wonders" value="The creator of this wand really likes to gamble."/>
-    <str id="Wand of Zapping" value="Causes shock damage or instantly kills the target creature."/>
-    <str id="Wand of Baffling" value="Shuffles the locations of all creatures within line of sight and confuses them."/>
-    <str id="Wand of Bloodletting" value="Causes the target to bleed to death (in most cases)."/>
-    <str id="Wand of Disarming" value="Disarms the target by dropping its main hand weapon on the floor."/>
-    <str id="Wand of Ensnaring" value="Snares the target in a bear trap and summons some wolves."/>
-    <str id="Wand of Gobsmacking" value="Stuns a friend until you break the effect by swapping places."/>
-    <str id="Wand of Rituals" value="Conjures a 3x3 sacrificial circle that is centered on the cursor."/>
-    <str id="Wand of Scripting" value="Creates an average quality duplicate of a scroll."/>
-    <str id="Wand of Torture" value="Causes immense magical damage but never enough to kill the target."/>
+    <str id="WandDesc" value="There appears to be inscription on the wand that is written in some unknown language." local="魔杖上看起来被刻下了某种未知的&#10;语言。"/>
+    <str id="WandDescLiterate" value="The inscription on the wand says &quot;Point and click&quot;. Imagine if you would have to learn how to read for this?!?" local="魔杖上的刻痕说「指向和点击」。&#10;想象一下如果你不得不学习如何阅&#10;读这段的话?!?"/>
+    <str id="Wand of Blizzard" value="Shoots an amplified and enlarged frozen orb at the target location." local="向目标地点发射一颗不断扩张和放&#10;大的冰球。"/>
+    <str id="Wand of Burning" value="Shoots a flaming stream at the target location hitting everyone on the path." local=" @(30)向目标地点发射一条燃烧的热浪，对路径上的所有单位造成伤害。"/>
+    <str id="Wand of Channeling" value="Allows the caster to channel a known spell through the wand." local="允许施法者通过魔杖通导一个已知&#10;的法术。"/>
+    <str id="Wand of Chilling" value="Shoots a frozen stream at the target location hitting everyone on the path." local="向目标地点发射一条冰冻的寒流，&#10;对路径上的所有单位造成伤害。"/>
+    <str id="Wand of Corruption" value="Creates a cloud of corruption at the target location hitting everyone inside." local="在目标地点制造一团腐败之云，对覆盖范围内的所有单位造成伤害。"/>
+    <str id="Wand of Crippling" value="Shoots a crippling stream at the target location hitting everyone on the path." local="向目标地点发射一条毁灭的路径，&#10;对路径上的所有单位造成伤害。"/>
+    <str id="Wand of Crushing" value="Causes a boulder to fall from the ceiling at the target location." local="向目标地点的落下巨石。"/>
+    <str id="Wand of Entrapment" value="Creates a web explosion at the target location trapping everyone inside." local="在目标地点张开大网，困住覆盖范&#10;围内的所有单位。"/>
+    <str id="Wand of Excavation" value="The creator of this wand clearly favours brains over muscles." local="这个魔杖的创造者相比于卖力气显&#10;然更爱动脑子。"/>
+    <str id="Wand of Freezing" value="Causes frost damage or instantly kills the target creature." local="造成冰霜伤害或者立即杀死目标生&#10;物。"/>
+    <str id="Wand of Infection" value="Shoots an amplified and enlarged virulent orb at the target location." local="向目标地点发射一颗不断扩张和放&#10;大的瘟疫球。"/>
+    <str id="Wand of Inferno" value="Shoots an amplified and enlarged flaming orb at the target location." local="向目标地点发射一颗不断扩张和放&#10;大的火球。"/>
+    <str id="Wand of Knocking" value="Damages and knocks the target creature back." local="击退目标生物并且造成伤害。"/>
+    <str id="Wand of Maelstrom" value="Creates a death vortex at the target location hitting everyone inside." local="在目标地点制造一个死亡旋涡，对&#10;覆盖范围内的所有单位造成伤害。"/>
+    <str id="Wand of Melting" value="Causes fire damage or instantly kills the target creature." local="造成火焰伤害或者立即杀死目标生&#10;物。"/>
+    <str id="Wand of Pollution" value="Shoots an amplified and enlarged venomous orb at the target location." local="向目标地点发射一颗不断扩张和放&#10;大的毒球。"/>
+    <str id="Wand of Shifting" value="Teleports the caster to the target location." local="将施法者传送到目标地点。"/>
+    <str id="Wand of Shocking" value="Shoots an electric stream at the target location hitting everyone on the path." local="向目标地点发射一条的电流，对路&#10;径上的所有单位造成伤害。"/>
+    <str id="Wand of Tempest" value="Shoots an amplified and enlarged electric orb at the target location." local="向目标地点发射一颗不断扩张和放&#10;大的闪电球。"/>
+    <str id="Wand of Wishing" value="Stroke me gently and your wish might just come true." local="轻柔得抚摸我将会让你梦想成真。"/>
+    <str id="Wand of Wonders" value="The creator of this wand really likes to gamble." local="这个魔杖的创造者是个十足的赌徒&#10;。"/>
+    <str id="Wand of Zapping" value="Causes shock damage or instantly kills the target creature." local="造成震击伤害或者立即杀死目标生&#10;物。"/>
+    <str id="Wand of Baffling" value="Shuffles the locations of all creatures within line of sight and confuses them." local="打乱视线内所有生物的位置并使其&#10;混乱。"/>
+    <str id="Wand of Bloodletting" value="Causes the target to bleed to death (in most cases)." local="让目标流血至死（大多数情况下）&#10;。"/>
+    <str id="Wand of Disarming" value="Disarms the target by dropping its main hand weapon on the floor." local="缴械目标，让它的主手武器掉落在&#10;地板上。"/>
+    <str id="Wand of Ensnaring" value="Snares the target in a bear trap and summons some wolves." local="将目标困在捕熊陷阱中同时召唤狼&#10;群。"/>
+    <str id="Wand of Gobsmacking" value="Stuns a friend until you break the effect by swapping places." local="让一个朋友持续眩晕，除非你和他&#10;交换位置。"/>
+    <str id="Wand of Rituals" value="Conjures a 3x3 sacrificial circle that is centered on the cursor." local="以鼠标为中心召唤出一个 3*3 的圆&#10;形献祭魔法阵。"/>
+    <str id="Wand of Scripting" value="Creates an average quality duplicate of a scroll." local="以一般的水准复制一个卷轴。"/>
+    <str id="Wand of Torture" value="Causes immense magical damage but never enough to kill the target." local="造成巨大的魔法伤害，但不会杀死&#10;目标。"/>
   </WandDescs>
   <WandLogs>
     <str id="The wall crumbles and reveals a hidden door." value="The wall crumbles and reveals a hidden door."/>
@@ -2642,7 +2642,7 @@
     <str id="Satyr's Sting" value="This used to belong to Ranger Satyr'Dae before you picked it up from his remains." local="这曾经属于独行侠赛特，你从他的遗物中获得。"/>
     <str id="Logar's Blade" value="This used to belong to Swordmaster Logar before you took it from his cold dead hands." local="这曾经属于剑圣洛迦，他的手已不再有体温。"/>
     <str id="Altren's Kiss" value="This used to belong to Prince Altren and there's a carving on the stock that says XLVII, whatever that means." local="这曾经属于艾特仁王子，上面刻有 XLVII ，已经不知道其含义。"/>
-    <str id="Staff of the Trickster" value="This used to belong to Ryan the Trickster and it teaches its wielder how to cast the Virulent Orb spell." local="这曾经属于魔术师赖安，持有它的人可以释放病球术。"/>
+    <str id="Staff of the Trickster" value="This used to belong to Ryan the Trickster and it teaches its wielder how to cast the Virulent Orb spell." local="这曾经属于魔术师赖安，持有它的人可以释放瘟疫球。"/>
     <str id="Staff of the Archmage" value="This used to belong to Archmage Gyffendal and it teaches its wielder how to cast the Flaming Orb spell." local="这曾经属于大法师高焚岱，持有它的人可以释放火球术。"/>
     <str id="Staff of the Ice Queen" value="This used to belong to Ice Queen Altara and it teaches its wielder how to cast the Frozen Orb spell." local="这曾经属于冰霜女王艾特娜，持有它的人可以释放冰球术。"/>
     <str id="Death Star" value="These throwing stars are one of the deadliest tools used by the Blackhand assassins."/>
@@ -2756,14 +2756,14 @@
     <str id="Wraith" value="Wraith" local="幽灵"/>
     <str id="Banshee" value="Banshee"/>
     <str id="Glutopod" value="Glutopod"/>
-    <str id="Dark Prince" value="Dark Prince"/>
+    <str id="Dark Prince" value="Dark Prince" local="黑暗王子"/>
     <str id="Papalob" value="Papalob" local="趴趴洛"/>
     <str id="Lasher" value="Lasher"/>
     <str id="Slicer" value="Slicer"/>
-    <str id="Earth elemental" value="Earth elemental"/>
-    <str id="Air elemental" value="Air elemental"/>
-    <str id="Fire elemental" value="Fire elemental"/>
-    <str id="Water elemental" value="Water elemental"/>
+    <str id="Earth elemental" value="Earth elemental" local="土元素"/>
+    <str id="Air elemental" value="Air elemental" local="气元素"/>
+    <str id="Fire elemental" value="Fire elemental" local="火元素"/>
+    <str id="Water elemental" value="Water elemental" local="水元素"/>
     <str id="Dweller" value="Dweller"/>
     <str id="Lurker" value="Lurker"/>
     <str id="Floater" value="Floater"/>
@@ -2771,12 +2771,12 @@
     <str id="Troll" value="Troll"/>
     <str id="Treeman" value="Treeman"/>
     <str id="Demonrat" value="Demonrat" local="魔鼠"/>
-    <str id="Orc" value="Orc"/>
-    <str id="Orc grunt" value="Orc grunt"/>
-    <str id="Orc archer" value="Orc archer"/>
-    <str id="Orc shaman" value="Orc shaman"/>
-    <str id="Orc boss" value="Orc boss"/>
-    <str id="Orc miner" value="Orc miner"/>
+    <str id="Orc" value="Orc" local="兽人"/>
+    <str id="Orc grunt" value="Orc grunt" local="兽人步兵"/>
+    <str id="Orc archer" value="Orc archer" local="兽人弓箭手"/>
+    <str id="Orc shaman" value="Orc shaman" local="兽人萨满"/>
+    <str id="Orc boss" value="Orc boss" local="兽人首领"/>
+    <str id="Orc miner" value="Orc miner" local="兽人矿工"/>
     <str id="Loot hoarder" value="Loot hoarder"/>
     <str id="Player" value="Player"/>
     <str id="Wise" value="Wise"/>
@@ -2892,10 +2892,10 @@
     <str id="You see %s leading down here." value="You see %s leading down here."/>
     <str id="You see %s and %d other items." value="You see %s and %d other items."/>
     <str id="You see %s and %d other items here." value="You see %s and %d other items here."/>
-    <str id="You open %s." value="You open %s."/>
-    <str id="You close %s." value="You close %s."/>
-    <str id="You light %s." value="You light %s."/>
-    <str id="You douse %s." value="You douse %s."/>
+    <str id="You open %s." value="You open %s." local="你打开了 %s。"/>
+    <str id="You close %s." value="You close %s." local="你关闭了 %s。"/>
+    <str id="You light %s." value="You light %s." local="你点亮了 %s。"/>
+    <str id="You douse %s." value="You douse %s." local="你熄灭了 %s。"/>
     <str id="You step on %s." value="You step on %s."/>
     <str id="You step into %s." value="You step into %s."/>
     <str id="You step on a hidden %s." value="You step on a hidden %s."/>
