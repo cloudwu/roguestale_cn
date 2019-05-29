@@ -725,7 +725,7 @@ CombatTexts."Attack!" 攻击！
 CombatTexts."Move it!" 过去！
 CombatTexts."Stay put!" 别动！
 CombatTexts."Triggered" 触发
-CombatTexts."'Molar Varghulis'" “莫拉尔 瓦古尼斯”
+CombatTexts."'Molar Varghulis'" “凡人皆有一死”
 CombatTexts."Charmed (%d)" 魅惑了 (%d)
 CombatTexts."Equalized" 平衡了
 Abilities."Strength" 力量
@@ -1651,7 +1651,7 @@ CharmNames."Golden Chastity Key" 金色贞洁钥匙
 CharmNames."Loose Weapon Chain" 宽松的武器链
 CharmNames."Time Dilation Device" 时间膨胀装置
 CharmNames."Fishing Hook and Line" 钓鱼套件
-CharmNames."Fairy Jizzed Bull Horn" 仙女遗弃的牛角
+CharmNames."Fairy Jizzed Bull Horn" 仙女摧残过的牛角
 CharmNames."Engraved Pyramidion" 雕花金字塔
 CharmDescs."Lucky Number Seven" @(30)庄家永远赢，越早意识到这点越好。
 CharmDescs."Fluffy Rabbit's Foot" @(30)这只野兔幸运的用剩下的腿跛着跑掉了。
@@ -1672,49 +1672,49 @@ CharmDescs."Star Spangled Cap" @(30)也许帽子上写的 2020 意味着你赢�
 CharmDescs."Glove of Liberalism" @(30)当你喊出 'Kameha..', 嗯, 'Ei' 时会施放可怕的力量。
 CharmDescs."Wristband of Liberalism" @(30)用恶魔语写着 'Tafsa inte' ，通常是 '不要碰我' 的意思。
 CharmDescs."Black Meistercard" @(30)债务是你永远不需要偿还的财富。你现在就应该开始积累……
-CharmDescs."Deadly Ghoul Tooth" @(30)这是不是很奇怪，一枚食尸鬼牙齿硬币是游戏中最强大的物品？
+CharmDescs."Deadly Ghoul Tooth" @(30)这是不是很奇怪，一枚食尸鬼牙齿的硬币是游戏中最强大的物品？
 CharmDescs."Mad Torque Slingshot" @(30)橡胶将在大约一千年后被发明出来。在那之前，必须用肌腱和肠子来做。
 CharmDescs."Duelist's Wristbow" @(30)有人怕，怕，怕这个吗？不管这样，你觉得怎样？
 CharmDescs."Uberlyft's Lost Shoe" @(30)嘀嘀，嘀嘀，优步需要它的鞋子带你走。
-CharmDescs."Creepy Stone Face" @(30)在废弃前，这张脸是对熊猫形象的文化挪用，有人看到就喊 '看！那是家快餐店吗？'。
+CharmDescs."Creepy Stone Face" @(30)这张脸过去是对熊猫形象的文化挪用，有人看到就喊 '看！那是家快餐店吗？'。
 CharmDescs."Golden Chastity Key" @(30)如果一把钥匙开一把锁的话，这些东西可能能行。可是每把钥匙都能开任意一把锁……
 CharmDescs."Loose Weapon Chain" @(30)想象一个很紧的武器链，要么你的手被扯掉了，要么是链子妨碍你去取。
 CharmDescs."Time Dilation Device" @(30)哇喔。游戏里有这么一个超大的耳环，但却没有耳环槽来装备它。太棒了。
 CharmDescs."Fishing Hook and Line" @(30)好吧，我本来永远都不想加这个东西的，不过现在有了。
 CharmDescs."Fairy Jizzed Bull Horn" @(30)这个牛角散发出的直男癌气息无可避免的会招来一车皮深受其害的小仙女。
 CharmDescs."Engraved Pyramidion" @(30)这象征着以深渊的方式裁剪掉多余的东西突出重点。
-CharmEffects."Lucky Number Seven" All physical damage you deal to enemies also bleeds gold coins.
-CharmEffects."Fluffy Rabbit's Foot" Grants immunity against stun effects.
-CharmEffects."Fragment of Volcanus" Doubles the effect of fire damage enchants on weapons.
-CharmEffects."Fragment of Aquarius" Doubles the effect of frost damage enchants on weapons.
-CharmEffects."Fragment of Aetherus" Doubles the effect of shock damage enchants on weapons.
-CharmEffects."Fragment of Terranus" Increases minimum and maximum block modifier by 1.
-CharmEffects."Eye of the Beholder" You appear to be twice as far than you actually are (at least when calculating range modifiers).
-CharmEffects."Crystal Tear of a Maiden" Increases max cast modifier of Celestial spells by 1.
-CharmEffects."Misplaced Dragon Egg" Increases max cast modifier of Draconic spells by 1.
-CharmEffects."Pulsating Daemon's Heart" Increases max cast modifier of Infernal spells by 1.
-CharmEffects."Book of Fading Memories" Every turn spent resting with this book makes you forget a random knowledge.
-CharmEffects."Manuscript of Knowledge" All items are automatically identified when they are picked up.
-CharmEffects."High Capacity Quiver" Doubles the maximum stack size of bolts and arrows.
-CharmEffects."Third Leg of the Imp" Use this demonic appendage with a blessed ring to permanently bind the ring's power on it.
-CharmEffects."Stone of Arcane Power" Reduces the cooldown of Arcane spells by 50%.
-CharmEffects."Star Spangled Cap" Sadly, all this cap does is that it enrages demonrats when they see a person carrying one.
-CharmEffects."Glove of Liberalism" Increases physical damage by 50% against daemons.
-CharmEffects."Wristband of Liberalism" Daemons must pass a mental check in order to attack you.
-CharmEffects."Black Meistercard" You can enchant items for free, at least until credits run out.
-CharmEffects."Deadly Ghoul Tooth" 当你把这个扔向敌人的同时说出“莫拉尔 瓦古尼斯”会有奇妙的效果。
-CharmEffects."Mad Torque Slingshot" Increases the maximum range of thrown rocks by 60% and converts their damage type to magical.
-CharmEffects."Duelist's Wristbow" Shoots a bolt back at the attacker when you parry an attack.
-CharmEffects."Uberlyft's Lost Shoe" Travel button works in town now and it takes you back to where you left.
-CharmEffects."Creepy Stone Face" Allows you to see health bars on all visible creatures.
-CharmEffects."Golden Chastity Key" When you pick a locked chest, a critical success adds blessed loot in the chest.
-CharmEffects."Loose Weapon Chain" Grants immunity against disarm effects.
-CharmEffects."Time Dilation Device" You can use this earring to make the game consider all turns as either even or odd.
-CharmEffects."Fishing Hook and Line" Water chasms can now be used to catch fish.
-CharmEffects."Fairy Jizzed Bull Horn" Allows apprentice wizards to learn and cast Bestial spells while levitating (it's those fairies, duh).
-CharmEffects."Engraved Pyramidion" Allows apprentice wizards to learn and cast Abyssal spells while standing in a sacrificial circle.
-CharmEffects."BlessedFamiliar" Any drake attempting to attack you becomes your friend permanently.
-CharmEffects."BlessedOutcasts" Summons a loot hoarder at the first level of every random dungeon.
+CharmEffects."Lucky Number Seven" @(30)在你对敌人造成物理伤害的同时撒出金币。
+CharmEffects."Fluffy Rabbit's Foot" @(30)获得针对眩晕效果的免疫力。
+CharmEffects."Fragment of Volcanus" @(30)将附魔在武器上的火焰伤害加倍。
+CharmEffects."Fragment of Aquarius" @(30)将附魔在武器上的冰霜伤害加倍。
+CharmEffects."Fragment of Aetherus" @(30)将附魔在武器上的震击伤害加倍。
+CharmEffects."Fragment of Terranus" @(30)将最小及最大格挡修正增加一点。
+CharmEffects."Eye of the Beholder" @(30)你看起来在你实际所在之处的两倍远（至少在计算远程修正时）。
+CharmEffects."Crystal Tear of a Maiden" @(30)将天使系法术的施法修正增加一点。
+CharmEffects."Misplaced Dragon Egg" @(30)将龙系法术的施法修正增加一点。
+CharmEffects."Pulsating Daemon's Heart" @(30)将地狱系法术的施法修正增加一点。
+CharmEffects."Book of Fading Memories" @(30)带着这本书每休息一个回合就会随机忘记一个知识。
+CharmEffects."Manuscript of Knowledge" @(30)所有的物品在拾起时就会被自动鉴定。
+CharmEffects."High Capacity Quiver" @(30)把箭囊的最大容量翻倍。
+CharmEffects."Third Leg of the Imp" @(30)把一个神圣的戒指和它恶魔附体，可以永远的把该戒指的力量绑定在其上。
+CharmEffects."Stone of Arcane Power" @(30)将奥术的冷却时间减少一半。
+CharmEffects."Star Spangled Cap" @(30)可悲的是，这顶帽子唯一能做的就是让戴着它的人激怒魔鼠。
+CharmEffects."Glove of Liberalism" @(30)针对恶魔增加 50% 物理伤害。
+CharmEffects."Wristband of Liberalism" @(30)恶魔每次攻击你前必须通过一次精神检定。
+CharmEffects."Black Meistercard" @(30)你可以免费附魔物品，直到你的信用耗尽。
+CharmEffects."Deadly Ghoul Tooth" @(30)当你把这个扔向敌人的同时说出“凡人皆有一死”会有奇妙的效果。
+CharmEffects."Mad Torque Slingshot" @(30)将投掷岩石的最大范围提升 60% ，并将伤害转换为魔法伤害。
+CharmEffects."Duelist's Wristbow" @(30)每次你招架一次攻击时，就向攻击者射出一支小箭。
+CharmEffects."Uberlyft's Lost Shoe" @(30)旅行按钮现在在城里也可以用了，它能把你带回你离开的地方。
+CharmEffects."Creepy Stone Face" @(30)允许你看到所有可见生物的生命条。
+CharmEffects."Golden Chastity Key" @(30)当你去开一个锁上的箱子时，一次成功暴击会增加神圣的拾取品。
+CharmEffects."Loose Weapon Chain" @(30)获得针对缴械效果的免疫力。
+CharmEffects."Time Dilation Device" @(30)你可以用这个耳环把游戏的所有回合都视为奇数或偶数。
+CharmEffects."Fishing Hook and Line" @(30)水峡谷现在可以用来钓鱼。
+CharmEffects."Fairy Jizzed Bull Horn" @(30)允许巫师学徒在浮空（是那些小仙女们，嘟）时学习和释放兽性法术。
+CharmEffects."Engraved Pyramidion" @(30)允许巫师学徒站在献祭圈内时学习和施放深渊法术。
+CharmEffects."BlessedFamiliar" @(30)任何企图攻击力的龙都会永久变成你的伙伴。
+CharmEffects."BlessedOutcasts" @(30)在每个随机地牢的第一层召唤一个收藏家。
 CoinNames."Gold Coin" 金币
 CoinStacks."Gold Coin" 金币堆
 CoinDescs."StoredCoins" 你的背包中共有 %d 枚金币，还有 %d 枚金币存放在工匠工坊中。
@@ -2566,7 +2566,7 @@ CreatureNames."Orc archer" 兽人弓箭手
 CreatureNames."Orc shaman" 兽人萨满
 CreatureNames."Orc boss" 兽人首领
 CreatureNames."Orc miner" 兽人矿工
-CreatureNames."Loot hoarder" Loot hoarder
+CreatureNames."Loot hoarder" 收藏家
 CreatureNames."Player" Player
 CreatureNames."Wise" Wise
 CreatureNames."Just" Just
@@ -3264,7 +3264,7 @@ HeritageDescs."Second Amendment" @(26)允许你在装备有对应的项链时，
 HeritageDescs."Second Amendment".1 @(26)一旦你学会了一门奥术，你可以在装备有任意项链时施放它。
 HeritageDescs."Second Amendment".2 @(26)你从未来捐赠任意一个物品给工匠行会可以解锁这项遗产。
 HeritageDescs."Second Amendment".3 @(26)(*) 注意：你需要读写：常识以及另一项读写天赋。
-HeritageDescs."Rise of Fairies" @(26)允许你通过仙女遗弃的牛角在浮空时从兽性典籍中学习法术 (*)。
+HeritageDescs."Rise of Fairies" @(26)允许你通过仙女摧残过的牛角并在浮空时从兽性典籍中学习法术 (*)。
 HeritageDescs."Rise of Fairies".1 @(26)一旦你学会了一门兽性法术，你就可以在背包中有牛角时施放它。
 HeritageDescs."Rise of Fairies".2 @(26)向工匠行会捐赠一个未鉴定的牛角可以解锁这项遗产。
 HeritageDescs."Rise of Fairies".3 @(26)(*) 注意：你需要读写：常识以及另一项读写天赋。

@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="50007ee95f10faf4759ce692018bd75fd252c4d9">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="e5ba7868f8b666e89fd0048f4c79b92e899e701b">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -791,7 +791,7 @@
     <str id="Move it!" value="Move it!" local="过去！"/>
     <str id="Stay put!" value="Stay put!" local="别动！"/>
     <str id="Triggered" value="Triggered" local="触发"/>
-    <str id="'Molar Varghulis'" value="'Molar Varghulis'" local="“莫拉尔 瓦古尼斯”"/>
+    <str id="'Molar Varghulis'" value="'Molar Varghulis'" local="“凡人皆有一死”"/>
     <str id="Charmed (%d)" value="Charmed (%d)" local="魅惑了 (%d)"/>
     <str id="Equalized" value="Equalized" local="平衡了"/>
   </CombatTexts>
@@ -1796,7 +1796,7 @@
     <str id="Loose Weapon Chain" value="Loose Weapon Chain" local="宽松的武器链"/>
     <str id="Time Dilation Device" value="Time Dilation Device" local="时间膨胀装置"/>
     <str id="Fishing Hook and Line" value="Fishing Hook and Line" local="钓鱼套件"/>
-    <str id="Fairy Jizzed Bull Horn" value="Fairy Jizzed Bull Horn" local="仙女遗弃的牛角"/>
+    <str id="Fairy Jizzed Bull Horn" value="Fairy Jizzed Bull Horn" local="仙女摧残过的牛角"/>
     <str id="Engraved Pyramidion" value="Engraved Pyramidion" local="雕花金字塔"/>
   </CharmNames>
   <CharmDescs>
@@ -1819,11 +1819,11 @@
     <str id="Glove of Liberalism" value="Projects a terrible force when 'Kameha..', uhm, 'Ei' is spoken out loud." local="当你喊出 'Kameha..', 嗯, 'Ei' &#10;时会施放可怕的力量。"/>
     <str id="Wristband of Liberalism" value="It reads 'Tafsa inte' in demonic, which roughly means 'Don't touch me' in common." local="用恶魔语写着 'Tafsa inte' ，通&#10;常是 '不要碰我' 的意思。"/>
     <str id="Black Meistercard" value="Debt is wealth that you never have to pay back. You should start accumulating now..." local="债务是你永远不需要偿还的财富。&#10;你现在就应该开始积累……"/>
-    <str id="Deadly Ghoul Tooth" value="Isn't it weird that a ghoul tooth coin is the most powerful item in the game?" local="这是不是很奇怪，一枚食尸鬼牙齿&#10;硬币是游戏中最强大的物品？"/>
+    <str id="Deadly Ghoul Tooth" value="Isn't it weird that a ghoul tooth coin is the most powerful item in the game?" local="这是不是很奇怪，一枚食尸鬼牙齿&#10;的硬币是游戏中最强大的物品？"/>
     <str id="Mad Torque Slingshot" value="Rubber will be invented in about a 1000 years. Until then, sinews and intestines will have to do." local="橡胶将在大约一千年后被发明出来&#10;。在那之前，必须用肌腱和肠子来&#10;做。"/>
     <str id="Duelist's Wristbow" value="Anyone else get a scary, scarab-y, -ey, uhh whatever, feeling about this?" local="有人怕，怕，怕这个吗？不管这样&#10;，你觉得怎样？"/>
     <str id="Uberlyft's Lost Shoe" value="Clip-clop, clip-clop, Uberlyft needs its missing shoe to make you pop." local="嘀嘀，嘀嘀，优步需要它的鞋子带&#10;你走。"/>
-    <str id="Creepy Stone Face" value="The face of cultural appropriation panda when it got lei'd and someone said 'Aloha! Snackbar?'." local="在废弃前，这张脸是对熊猫形象的&#10;文化挪用，有人看到就喊 '看！那&#10;是家快餐店吗？'。"/>
+    <str id="Creepy Stone Face" value="The face of cultural appropriation panda when it got lei'd and someone said 'Aloha! Snackbar?'." local="这张脸过去是对熊猫形象的文化挪&#10;用，有人看到就喊 '看！那是家快&#10;餐店吗？'。"/>
     <str id="Golden Chastity Key" value="These things would work if all the keys would match only one lock but when all keys match every lock..." local="如果一把钥匙开一把锁的话，这些&#10;东西可能能行。可是每把钥匙都能&#10;开任意一把锁……"/>
     <str id="Loose Weapon Chain" value="Think about a tight weapon chain. Either your hand is ripped off or the chain limits your reach." local="想象一个很紧的武器链，要么你的&#10;手被扯掉了，要么是链子妨碍你去&#10;取。"/>
     <str id="Time Dilation Device" value="Wow. An unconfortably large earring in a game where there is no earring slot to equip it. Awesome." local="哇喔。游戏里有这么一个超大的耳&#10;环，但却没有耳环槽来装备它。太&#10;棒了。"/>
@@ -1832,38 +1832,38 @@
     <str id="Engraved Pyramidion" value="This symbolizes the abyssal ways of clipping tips and tops of things that protrude too much." local="这象征着以深渊的方式裁剪掉多余&#10;的东西突出重点。"/>
   </CharmDescs>
   <CharmEffects>
-    <str id="Lucky Number Seven" value="All physical damage you deal to enemies also bleeds gold coins."/>
-    <str id="Fluffy Rabbit's Foot" value="Grants immunity against stun effects."/>
-    <str id="Fragment of Volcanus" value="Doubles the effect of fire damage enchants on weapons."/>
-    <str id="Fragment of Aquarius" value="Doubles the effect of frost damage enchants on weapons."/>
-    <str id="Fragment of Aetherus" value="Doubles the effect of shock damage enchants on weapons."/>
-    <str id="Fragment of Terranus" value="Increases minimum and maximum block modifier by 1."/>
-    <str id="Eye of the Beholder" value="You appear to be twice as far than you actually are (at least when calculating range modifiers)."/>
-    <str id="Crystal Tear of a Maiden" value="Increases max cast modifier of Celestial spells by 1."/>
-    <str id="Misplaced Dragon Egg" value="Increases max cast modifier of Draconic spells by 1."/>
-    <str id="Pulsating Daemon's Heart" value="Increases max cast modifier of Infernal spells by 1."/>
-    <str id="Book of Fading Memories" value="Every turn spent resting with this book makes you forget a random knowledge."/>
-    <str id="Manuscript of Knowledge" value="All items are automatically identified when they are picked up."/>
-    <str id="High Capacity Quiver" value="Doubles the maximum stack size of bolts and arrows."/>
-    <str id="Third Leg of the Imp" value="Use this demonic appendage with a blessed ring to permanently bind the ring's power on it."/>
-    <str id="Stone of Arcane Power" value="Reduces the cooldown of Arcane spells by 50%."/>
-    <str id="Star Spangled Cap" value="Sadly, all this cap does is that it enrages demonrats when they see a person carrying one."/>
-    <str id="Glove of Liberalism" value="Increases physical damage by 50% against daemons."/>
-    <str id="Wristband of Liberalism" value="Daemons must pass a mental check in order to attack you."/>
-    <str id="Black Meistercard" value="You can enchant items for free, at least until credits run out."/>
-    <str id="Deadly Ghoul Tooth" value="You can say 'Molar Varghulis' for dramatic effect when you throw this at your enemy." local="当你把这个扔向敌人的同时说出“莫拉尔 瓦古尼斯”会有奇妙的效果。"/>
-    <str id="Mad Torque Slingshot" value="Increases the maximum range of thrown rocks by 60% and converts their damage type to magical."/>
-    <str id="Duelist's Wristbow" value="Shoots a bolt back at the attacker when you parry an attack."/>
-    <str id="Uberlyft's Lost Shoe" value="Travel button works in town now and it takes you back to where you left."/>
-    <str id="Creepy Stone Face" value="Allows you to see health bars on all visible creatures."/>
-    <str id="Golden Chastity Key" value="When you pick a locked chest, a critical success adds blessed loot in the chest."/>
-    <str id="Loose Weapon Chain" value="Grants immunity against disarm effects."/>
-    <str id="Time Dilation Device" value="You can use this earring to make the game consider all turns as either even or odd."/>
-    <str id="Fishing Hook and Line" value="Water chasms can now be used to catch fish."/>
-    <str id="Fairy Jizzed Bull Horn" value="Allows apprentice wizards to learn and cast Bestial spells while levitating (it's those fairies, duh)."/>
-    <str id="Engraved Pyramidion" value="Allows apprentice wizards to learn and cast Abyssal spells while standing in a sacrificial circle."/>
-    <str id="BlessedFamiliar" value="Any drake attempting to attack you becomes your friend permanently."/>
-    <str id="BlessedOutcasts" value="Summons a loot hoarder at the first level of every random dungeon."/>
+    <str id="Lucky Number Seven" value="All physical damage you deal to enemies also bleeds gold coins." local="在你对敌人造成物理伤害的同时撒&#10;出金币。"/>
+    <str id="Fluffy Rabbit's Foot" value="Grants immunity against stun effects." local="获得针对眩晕效果的免疫力。"/>
+    <str id="Fragment of Volcanus" value="Doubles the effect of fire damage enchants on weapons." local="将附魔在武器上的火焰伤害加倍。"/>
+    <str id="Fragment of Aquarius" value="Doubles the effect of frost damage enchants on weapons." local="将附魔在武器上的冰霜伤害加倍。"/>
+    <str id="Fragment of Aetherus" value="Doubles the effect of shock damage enchants on weapons." local="将附魔在武器上的震击伤害加倍。"/>
+    <str id="Fragment of Terranus" value="Increases minimum and maximum block modifier by 1." local="将最小及最大格挡修正增加一点。"/>
+    <str id="Eye of the Beholder" value="You appear to be twice as far than you actually are (at least when calculating range modifiers)." local="你看起来在你实际所在之处的两倍&#10;远（至少在计算远程修正时）。"/>
+    <str id="Crystal Tear of a Maiden" value="Increases max cast modifier of Celestial spells by 1." local="将天使系法术的施法修正增加一点&#10;。"/>
+    <str id="Misplaced Dragon Egg" value="Increases max cast modifier of Draconic spells by 1." local="将龙系法术的施法修正增加一点。"/>
+    <str id="Pulsating Daemon's Heart" value="Increases max cast modifier of Infernal spells by 1." local="将地狱系法术的施法修正增加一点&#10;。"/>
+    <str id="Book of Fading Memories" value="Every turn spent resting with this book makes you forget a random knowledge." local="带着这本书每休息一个回合就会随&#10;机忘记一个知识。"/>
+    <str id="Manuscript of Knowledge" value="All items are automatically identified when they are picked up." local="所有的物品在拾起时就会被自动鉴&#10;定。"/>
+    <str id="High Capacity Quiver" value="Doubles the maximum stack size of bolts and arrows." local="把箭囊的最大容量翻倍。"/>
+    <str id="Third Leg of the Imp" value="Use this demonic appendage with a blessed ring to permanently bind the ring's power on it." local="把一个神圣的戒指和它恶魔附体，&#10;可以永远的把该戒指的力量绑定在&#10;其上。"/>
+    <str id="Stone of Arcane Power" value="Reduces the cooldown of Arcane spells by 50%." local="将奥术的冷却时间减少一半。"/>
+    <str id="Star Spangled Cap" value="Sadly, all this cap does is that it enrages demonrats when they see a person carrying one." local="可悲的是，这顶帽子唯一能做的就&#10;是让戴着它的人激怒魔鼠。"/>
+    <str id="Glove of Liberalism" value="Increases physical damage by 50% against daemons." local="针对恶魔增加 50% 物理伤害。"/>
+    <str id="Wristband of Liberalism" value="Daemons must pass a mental check in order to attack you." local="恶魔每次攻击你前必须通过一次精&#10;神检定。"/>
+    <str id="Black Meistercard" value="You can enchant items for free, at least until credits run out." local="你可以免费附魔物品，直到你的信&#10;用耗尽。"/>
+    <str id="Deadly Ghoul Tooth" value="You can say 'Molar Varghulis' for dramatic effect when you throw this at your enemy." local="当你把这个扔向敌人的同时说出“凡&#10;人皆有一死”会有奇妙的效果。"/>
+    <str id="Mad Torque Slingshot" value="Increases the maximum range of thrown rocks by 60% and converts their damage type to magical." local="将投掷岩石的最大范围提升 60% ，&#10;并将伤害转换为魔法伤害。"/>
+    <str id="Duelist's Wristbow" value="Shoots a bolt back at the attacker when you parry an attack." local="每次你招架一次攻击时，就向攻击&#10;者射出一支小箭。"/>
+    <str id="Uberlyft's Lost Shoe" value="Travel button works in town now and it takes you back to where you left." local="旅行按钮现在在城里也可以用了，&#10;它能把你带回你离开的地方。"/>
+    <str id="Creepy Stone Face" value="Allows you to see health bars on all visible creatures." local="允许你看到所有可见生物的生命条&#10;。"/>
+    <str id="Golden Chastity Key" value="When you pick a locked chest, a critical success adds blessed loot in the chest." local="当你去开一个锁上的箱子时，一次&#10;成功暴击会增加神圣的拾取品。"/>
+    <str id="Loose Weapon Chain" value="Grants immunity against disarm effects." local="获得针对缴械效果的免疫力。"/>
+    <str id="Time Dilation Device" value="You can use this earring to make the game consider all turns as either even or odd." local="你可以用这个耳环把游戏的所有回&#10;合都视为奇数或偶数。"/>
+    <str id="Fishing Hook and Line" value="Water chasms can now be used to catch fish." local="水峡谷现在可以用来钓鱼。"/>
+    <str id="Fairy Jizzed Bull Horn" value="Allows apprentice wizards to learn and cast Bestial spells while levitating (it's those fairies, duh)." local="允许巫师学徒在浮空（是那些小仙&#10;女们，嘟）时学习和释放兽性法术&#10;。"/>
+    <str id="Engraved Pyramidion" value="Allows apprentice wizards to learn and cast Abyssal spells while standing in a sacrificial circle." local="允许巫师学徒站在献祭圈内时学习&#10;和施放深渊法术。"/>
+    <str id="BlessedFamiliar" value="Any drake attempting to attack you becomes your friend permanently." local="任何企图攻击力的龙都会永久变成&#10;你的伙伴。"/>
+    <str id="BlessedOutcasts" value="Summons a loot hoarder at the first level of every random dungeon." local="在每个随机地牢的第一层召唤一个&#10;收藏家。"/>
   </CharmEffects>
   <CoinNames>
     <str id="Gold Coin" value="Gold Coin" local="金币"/>
@@ -2777,7 +2777,7 @@
     <str id="Orc shaman" value="Orc shaman" local="兽人萨满"/>
     <str id="Orc boss" value="Orc boss" local="兽人首领"/>
     <str id="Orc miner" value="Orc miner" local="兽人矿工"/>
-    <str id="Loot hoarder" value="Loot hoarder"/>
+    <str id="Loot hoarder" value="Loot hoarder" local="收藏家"/>
     <str id="Player" value="Player"/>
     <str id="Wise" value="Wise"/>
     <str id="Just" value="Just"/>
@@ -3584,7 +3584,7 @@
       <str id="paragraph 2" value="This heritage can be unlocked by donating an item from the future to the Artisan's Guild." local="你从未来捐赠任意一个物品给&#10;工匠行会可以解锁这项遗产。"/>
       <str id="paragraph 3" value="(*) Note that you will also need to know Literacy: Common and one of the other literacies." local="(*) 注意：你需要读写：常识&#10;以及另一项读写天赋。"/>
     </str>
-    <str id="Rise of Fairies" value="Allows you to learn spells from Bestial tomes with a Fairy Jizzed Bull Horn while levitating (*)." local="允许你通过仙女遗弃的牛角在&#10;浮空时从兽性典籍中学习法术&#10; (*)。">
+    <str id="Rise of Fairies" value="Allows you to learn spells from Bestial tomes with a Fairy Jizzed Bull Horn while levitating (*)." local="允许你通过仙女摧残过的牛角&#10;并在浮空时从兽性典籍中学习&#10;法术 (*)。">
       <str id="paragraph 1" value="Once you have learned a Bestial spell you can cast it while having a horn in your backpack." local="一旦你学会了一门兽性法术，&#10;你就可以在背包中有牛角时施&#10;放它。"/>
       <str id="paragraph 2" value="This heritage can be unlocked by attempting to donate an unidentified horn to the Artisan's Guild." local="向工匠行会捐赠一个未鉴定的&#10;牛角可以解锁这项遗产。"/>
       <str id="paragraph 3" value="(*) Note that you will also need to know Literacy: Common and one of the other literacies." local="(*) 注意：你需要读写：常识&#10;以及另一项读写天赋。"/>
