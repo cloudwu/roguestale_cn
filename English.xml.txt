@@ -3535,68 +3535,68 @@ GameLogic."You can't travel at the moment." 你现在无法快速回城。
 GameLogic."You can't jump there." 你无法跳到那里去。
 GameLogic."You can't fully rest while enemies are nearby." 当附近有敌人时，你无法完全休息。
 GameLogic."You can't fully rest while hunger or thirst is not satiated." 当你的饥饿或口渴状态未被满足时，无法完全休息。
-GameScreen."You can't bind hotkeys while shapeshifted." You can't bind hotkeys while shapeshifted.
-GameScreen."Action cancelled." Action cancelled.
-GameScreen."Quick shot finished." Quick shot finished.
-GameScreen."You can't loot while blinded." You can't loot while blinded.
-GameScreen."You can't loot while confused." You can't loot while confused.
-GameScreen."You can't loot while polymorphed." You can't loot while polymorphed.
-GameScreen."You can't loot while shapeshifted." You can't loot while shapeshifted.
-GameScreen."You can't jump while snared." You can't jump while snared.
-GameScreen."You can't jump while blinded." You can't jump while blinded.
-GameScreen."You can't jump while confused." You can't jump while confused.
-GameScreen."You can't jump while levitated." You can't jump while levitated.
-GameScreen."You can't jump while swimming." You can't jump while swimming.
-GameScreen."You are too tired to jump at the moment." You are too tired to jump at the moment.
-GameScreen."Press %s, %s, %s, or %s, to jump at the selected direction." Press %s, %s, %s, or %s, to jump at the selected direction.
-GameScreen."You can't swap items while blinded." You can't swap items while blinded.
-GameScreen."You can't swap items while confused." You can't swap items while confused.
-GameScreen."You can't swap items while polymorphed." You can't swap items while polymorphed.
-GameScreen."You can't swap items while shapeshifted." You can't swap items while shapeshifted.
-GameScreen."You can't equip or use items while blinded." You can't equip or use items while blinded.
-GameScreen."You can't equip or use items while confused." You can't equip or use items while confused.
-GameScreen."You can't equip or use items while polymorphed." You can't equip or use items while polymorphed.
-GameScreen."You can't equip or use items while shapeshifted." You can't equip or use items while shapeshifted.
-GameScreen."You can't sort items while blinded." You can't sort items while blinded.
-GameScreen."You can't sort items while confused." You can't sort items while confused.
-GameScreen."You can't sort items while polymorphed." You can't sort items while polymorphed.
-GameScreen."You can't sort items while shapeshifted." You can't sort items while shapeshifted.
-GameScreen."Inventory sorted successfully." Inventory sorted successfully.
-GameScreen."Something went wrong while sorting the inventory." Something went wrong while sorting the inventory.
-GameScreen."Your %s was dropped on the ground." Your %s was dropped on the ground.
-GameScreen."You probably lost some item but it could've been cursed!." You probably lost some item but it could've been cursed!.
-GameScreen."You can't travel while blinded." You can't travel while blinded.
-GameScreen."You can't travel while confused." You can't travel while confused.
-GameScreen."You can't travel while polymorphed." You can't travel while polymorphed.
-GameScreen."You can't travel while shapeshifted." You can't travel while shapeshifted.
-GameScreen."You can't make ranged attacks while blinded." You can't make ranged attacks while blinded.
-GameScreen."You can't make ranged attacks while confused." You can't make ranged attacks while confused.
-GameScreen."You can't make ranged attacks while polymorphed." You can't make ranged attacks while polymorphed.
-GameScreen."You can't make ranged attacks while shapeshifted." You can't make ranged attacks while shapeshifted.
-GameScreen."You can't search while blinded." You can't search while blinded.
-GameScreen."You can't search while confused." You can't search while confused.
-GameScreen."You can't drop items while blinded." You can't drop items while blinded.
-GameScreen."You can't drop items while confused." You can't drop items while confused.
-GameScreen."You can't drop items while polymorphed." You can't drop items while polymorphed.
-GameScreen."You can't drop items while shapeshifted." You can't drop items while shapeshifted.
-GameScreen."You can't throw items while blinded." You can't throw items while blinded.
-GameScreen."You can't throw items while confused." You can't throw items while confused.
-GameScreen."You can't throw items while polymorphed." You can't throw items while polymorphed.
-GameScreen."You can't throw items while shapeshifted." You can't throw items while shapeshifted.
-GameScreen."You can't order friends while blinded." You can't order friends while blinded.
-GameScreen."You can't order friends while confused." You can't order friends while confused.
-GameScreen."You can't order friends while silenced." You can't order friends while silenced.
-GameScreen."You can't order friends that you don't have." You can't order friends that you don't have.
-GameScreen."Select a target to send your friends at and press %s:" Select a target to send your friends at and press %s:
-GameScreen."You can't cast spells or use talents while blinded." You can't cast spells or use talents while blinded.
-GameScreen."You can't cast spells or use talents while confused." You can't cast spells or use talents while confused.
-GameScreen."You can't cast spells or use talents while polymorphed." You can't cast spells or use talents while polymorphed.
-GameScreen."You can't cast spells or use talents while shapeshifted." You can't cast spells or use talents while shapeshifted.
-GameScreen."You can't cast spells or use talents while silenced." You can't cast spells or use talents while silenced.
-GameScreen."You can't look around while blinded." You can't look around while blinded.
-GameScreen."You can't look around while confused." You can't look around while confused.
-GameScreen."Select a target to look at and press %s:" Select a target to look at and press %s:
-GameScreen."You can't chat while silenced, duh!" You can't chat while silenced, duh!
+GameScreen."You can't bind hotkeys while shapeshifted." 你不能在变身后绑定热键。
+GameScreen."Action cancelled." 行动已取消。
+GameScreen."Quick shot finished." 快速射击已结束。
+GameScreen."You can't loot while blinded." 你不能在盲眼状态拾取。
+GameScreen."You can't loot while confused." 你不能在混乱状态拾取。
+GameScreen."You can't loot while polymorphed." 你不能在被变形时拾取。
+GameScreen."You can't loot while shapeshifted." 你不能在变身状态拾取。
+GameScreen."You can't jump while snared." 你不能困在陷阱中跳跃。
+GameScreen."You can't jump while blinded." 你不能在盲眼状态跳跃。
+GameScreen."You can't jump while confused." 你不能在混乱状态跳跃。
+GameScreen."You can't jump while levitated." 你不能在浮空状态跳跃。
+GameScreen."You can't jump while swimming." 你不能在游泳时跳跃。
+GameScreen."You are too tired to jump at the moment." 此刻你太累了，不能跳跃。
+GameScreen."Press %s, %s, %s, or %s, to jump at the selected direction." 按下 %s, %s, %s, 或 %s, 跳去选择的方向。
+GameScreen."You can't swap items while blinded." 你不能在盲眼状态下交换物品。
+GameScreen."You can't swap items while confused." 你不能在混乱状态下交换物品。
+GameScreen."You can't swap items while polymorphed." 被变形时你无法交换物品。
+GameScreen."You can't swap items while shapeshifted." 你不能在变身状态下交换物品。
+GameScreen."You can't equip or use items while blinded." 你不能在盲眼状态下装备或使用物品。
+GameScreen."You can't equip or use items while confused." 你不能在混乱状态下装备或使用物品。
+GameScreen."You can't equip or use items while polymorphed." 被变形时你无法装备或使用物品。
+GameScreen."You can't equip or use items while shapeshifted." 你不能在变身状态下装备或使用物品。
+GameScreen."You can't sort items while blinded." 你不能在盲眼状态下整理物品。
+GameScreen."You can't sort items while confused." 你不能在混乱状态下整理物品。
+GameScreen."You can't sort items while polymorphed." 被变形时你无法整理物品。
+GameScreen."You can't sort items while shapeshifted." 你不能在变身状态下整理物品。
+GameScreen."Inventory sorted successfully." 成功整理了物品栏。
+GameScreen."Something went wrong while sorting the inventory." 在整理物品栏时出了一点问题。
+GameScreen."Your %s was dropped on the ground." 你的%s掉到了地上。
+GameScreen."You probably lost some item but it could've been cursed!." 你可能丢了点什么，不过它已经被诅咒了！
+GameScreen."You can't travel while blinded." 你在盲眼状态下无法旅行。
+GameScreen."You can't travel while confused." 你在混乱状态下无法旅行。
+GameScreen."You can't travel while polymorphed." 被变形时，你无法旅行。
+GameScreen."You can't travel while shapeshifted." 你在变身状态下无法旅行。
+GameScreen."You can't make ranged attacks while blinded." 你在盲眼状态下无法进行远程攻击。
+GameScreen."You can't make ranged attacks while confused." 你在混乱状态下无法进行远程攻击。
+GameScreen."You can't make ranged attacks while polymorphed." 被变形时，你无法进行远程攻击。
+GameScreen."You can't make ranged attacks while shapeshifted." 你在变身状态下无法进行远程攻击。
+GameScreen."You can't search while blinded." 你在盲眼状态下无法搜索。
+GameScreen."You can't search while confused." 你在混乱状态下无法搜索。
+GameScreen."You can't drop items while blinded." 你在盲眼状态下无法丢弃物品。
+GameScreen."You can't drop items while confused." 你在混乱状态下无法丢弃物品。
+GameScreen."You can't drop items while polymorphed." 被变形时，你无法丢弃物品。
+GameScreen."You can't drop items while shapeshifted." 你在变身状态下无法丢弃物品。
+GameScreen."You can't throw items while blinded." 你在盲眼状态下无法投掷物品。
+GameScreen."You can't throw items while confused." 你在混乱状态下无法投掷物品。
+GameScreen."You can't throw items while polymorphed." 被变形时，你无法投掷物品。
+GameScreen."You can't throw items while shapeshifted." 你在变身状态下无法投掷物品。
+GameScreen."You can't order friends while blinded." 你在盲眼状态下无法指挥伙伴。
+GameScreen."You can't order friends while confused." 你在混乱状态下无法指挥伙伴。
+GameScreen."You can't order friends while silenced." 你在沉默状态下无法指挥伙伴。
+GameScreen."You can't order friends that you don't have." 你没有伙伴时，无法指挥伙伴。
+GameScreen."Select a target to send your friends at and press %s:" 为你的伙伴选择一个目标，然后按下 %s：
+GameScreen."You can't cast spells or use talents while blinded." 你在盲眼状态下无法施放法术或使用天赋。
+GameScreen."You can't cast spells or use talents while confused." 你在混乱状态下无法施放法术或使用天赋。
+GameScreen."You can't cast spells or use talents while polymorphed." 被变形时，你无法施放法术或使用天赋。
+GameScreen."You can't cast spells or use talents while shapeshifted." 你在变身状态下无法施放法术或使用天赋。
+GameScreen."You can't cast spells or use talents while silenced." 你在沉默状态下无法施放法术或使用天赋。
+GameScreen."You can't look around while blinded." 你在盲眼状态下无法观察四周。
+GameScreen."You can't look around while confused." 你在混乱状态下无法观察四周。
+GameScreen."Select a target to look at and press %s:" 选择一个观察的目标，然后按下 %s：
+GameScreen."You can't chat while silenced, duh!" 在沉默时你无法聊天，嘟！
 LootWindow."Buy:" 购买：
 LootWindow."Craft:" 制造：
 LootWindow."Loot:" 拾取：

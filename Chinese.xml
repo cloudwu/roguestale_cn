@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="1f72f876a3b53584be9bc86fbde8224bea3b344c">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="32ea78c82ec3ef4beefdf42a995c2a98db671bc2">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -3906,68 +3906,68 @@
     <str id="You can't fully rest while hunger or thirst is not satiated." value="You can't fully rest while hunger or thirst is not satiated." local="当你的饥饿或口渴状态未被满足时，无法完全休息。"/>
   </GameLogic>
   <GameScreen>
-    <str id="You can't bind hotkeys while shapeshifted." value="You can't bind hotkeys while shapeshifted."/>
-    <str id="Action cancelled." value="Action cancelled."/>
-    <str id="Quick shot finished." value="Quick shot finished."/>
-    <str id="You can't loot while blinded." value="You can't loot while blinded."/>
-    <str id="You can't loot while confused." value="You can't loot while confused."/>
-    <str id="You can't loot while polymorphed." value="You can't loot while polymorphed."/>
-    <str id="You can't loot while shapeshifted." value="You can't loot while shapeshifted."/>
-    <str id="You can't jump while snared." value="You can't jump while snared."/>
-    <str id="You can't jump while blinded." value="You can't jump while blinded."/>
-    <str id="You can't jump while confused." value="You can't jump while confused."/>
-    <str id="You can't jump while levitated." value="You can't jump while levitated."/>
-    <str id="You can't jump while swimming." value="You can't jump while swimming."/>
-    <str id="You are too tired to jump at the moment." value="You are too tired to jump at the moment."/>
-    <str id="Press %s, %s, %s, or %s, to jump at the selected direction." value="Press %s, %s, %s, or %s, to jump at the selected direction."/>
-    <str id="You can't swap items while blinded." value="You can't swap items while blinded."/>
-    <str id="You can't swap items while confused." value="You can't swap items while confused."/>
-    <str id="You can't swap items while polymorphed." value="You can't swap items while polymorphed."/>
-    <str id="You can't swap items while shapeshifted." value="You can't swap items while shapeshifted."/>
-    <str id="You can't equip or use items while blinded." value="You can't equip or use items while blinded."/>
-    <str id="You can't equip or use items while confused." value="You can't equip or use items while confused."/>
-    <str id="You can't equip or use items while polymorphed." value="You can't equip or use items while polymorphed."/>
-    <str id="You can't equip or use items while shapeshifted." value="You can't equip or use items while shapeshifted."/>
-    <str id="You can't sort items while blinded." value="You can't sort items while blinded."/>
-    <str id="You can't sort items while confused." value="You can't sort items while confused."/>
-    <str id="You can't sort items while polymorphed." value="You can't sort items while polymorphed."/>
-    <str id="You can't sort items while shapeshifted." value="You can't sort items while shapeshifted."/>
-    <str id="Inventory sorted successfully." value="Inventory sorted successfully."/>
-    <str id="Something went wrong while sorting the inventory." value="Something went wrong while sorting the inventory."/>
-    <str id="Your %s was dropped on the ground." value="Your %s was dropped on the ground."/>
-    <str id="You probably lost some item but it could've been cursed!." value="You probably lost some item but it could've been cursed!."/>
-    <str id="You can't travel while blinded." value="You can't travel while blinded."/>
-    <str id="You can't travel while confused." value="You can't travel while confused."/>
-    <str id="You can't travel while polymorphed." value="You can't travel while polymorphed."/>
-    <str id="You can't travel while shapeshifted." value="You can't travel while shapeshifted."/>
-    <str id="You can't make ranged attacks while blinded." value="You can't make ranged attacks while blinded."/>
-    <str id="You can't make ranged attacks while confused." value="You can't make ranged attacks while confused."/>
-    <str id="You can't make ranged attacks while polymorphed." value="You can't make ranged attacks while polymorphed."/>
-    <str id="You can't make ranged attacks while shapeshifted." value="You can't make ranged attacks while shapeshifted."/>
-    <str id="You can't search while blinded." value="You can't search while blinded."/>
-    <str id="You can't search while confused." value="You can't search while confused."/>
-    <str id="You can't drop items while blinded." value="You can't drop items while blinded."/>
-    <str id="You can't drop items while confused." value="You can't drop items while confused."/>
-    <str id="You can't drop items while polymorphed." value="You can't drop items while polymorphed."/>
-    <str id="You can't drop items while shapeshifted." value="You can't drop items while shapeshifted."/>
-    <str id="You can't throw items while blinded." value="You can't throw items while blinded."/>
-    <str id="You can't throw items while confused." value="You can't throw items while confused."/>
-    <str id="You can't throw items while polymorphed." value="You can't throw items while polymorphed."/>
-    <str id="You can't throw items while shapeshifted." value="You can't throw items while shapeshifted."/>
-    <str id="You can't order friends while blinded." value="You can't order friends while blinded."/>
-    <str id="You can't order friends while confused." value="You can't order friends while confused."/>
-    <str id="You can't order friends while silenced." value="You can't order friends while silenced."/>
-    <str id="You can't order friends that you don't have." value="You can't order friends that you don't have."/>
-    <str id="Select a target to send your friends at and press %s:" value="Select a target to send your friends at and press %s:"/>
-    <str id="You can't cast spells or use talents while blinded." value="You can't cast spells or use talents while blinded."/>
-    <str id="You can't cast spells or use talents while confused." value="You can't cast spells or use talents while confused."/>
-    <str id="You can't cast spells or use talents while polymorphed." value="You can't cast spells or use talents while polymorphed."/>
-    <str id="You can't cast spells or use talents while shapeshifted." value="You can't cast spells or use talents while shapeshifted."/>
-    <str id="You can't cast spells or use talents while silenced." value="You can't cast spells or use talents while silenced."/>
-    <str id="You can't look around while blinded." value="You can't look around while blinded."/>
-    <str id="You can't look around while confused." value="You can't look around while confused."/>
-    <str id="Select a target to look at and press %s:" value="Select a target to look at and press %s:"/>
-    <str id="You can't chat while silenced, duh!" value="You can't chat while silenced, duh!"/>
+    <str id="You can't bind hotkeys while shapeshifted." value="You can't bind hotkeys while shapeshifted." local="你不能在变身后绑定热键。"/>
+    <str id="Action cancelled." value="Action cancelled." local="行动已取消。"/>
+    <str id="Quick shot finished." value="Quick shot finished." local="快速射击已结束。"/>
+    <str id="You can't loot while blinded." value="You can't loot while blinded." local="你不能在盲眼状态拾取。"/>
+    <str id="You can't loot while confused." value="You can't loot while confused." local="你不能在混乱状态拾取。"/>
+    <str id="You can't loot while polymorphed." value="You can't loot while polymorphed." local="你不能在被变形时拾取。"/>
+    <str id="You can't loot while shapeshifted." value="You can't loot while shapeshifted." local="你不能在变身状态拾取。"/>
+    <str id="You can't jump while snared." value="You can't jump while snared." local="你不能困在陷阱中跳跃。"/>
+    <str id="You can't jump while blinded." value="You can't jump while blinded." local="你不能在盲眼状态跳跃。"/>
+    <str id="You can't jump while confused." value="You can't jump while confused." local="你不能在混乱状态跳跃。"/>
+    <str id="You can't jump while levitated." value="You can't jump while levitated." local="你不能在浮空状态跳跃。"/>
+    <str id="You can't jump while swimming." value="You can't jump while swimming." local="你不能在游泳时跳跃。"/>
+    <str id="You are too tired to jump at the moment." value="You are too tired to jump at the moment." local="此刻你太累了，不能跳跃。"/>
+    <str id="Press %s, %s, %s, or %s, to jump at the selected direction." value="Press %s, %s, %s, or %s, to jump at the selected direction." local="按下 %s, %s, %s, 或 %s, 跳去选择的方向。"/>
+    <str id="You can't swap items while blinded." value="You can't swap items while blinded." local="你不能在盲眼状态下交换物品。"/>
+    <str id="You can't swap items while confused." value="You can't swap items while confused." local="你不能在混乱状态下交换物品。"/>
+    <str id="You can't swap items while polymorphed." value="You can't swap items while polymorphed." local="被变形时你无法交换物品。"/>
+    <str id="You can't swap items while shapeshifted." value="You can't swap items while shapeshifted." local="你不能在变身状态下交换物品。"/>
+    <str id="You can't equip or use items while blinded." value="You can't equip or use items while blinded." local="你不能在盲眼状态下装备或使用物品。"/>
+    <str id="You can't equip or use items while confused." value="You can't equip or use items while confused." local="你不能在混乱状态下装备或使用物品。"/>
+    <str id="You can't equip or use items while polymorphed." value="You can't equip or use items while polymorphed." local="被变形时你无法装备或使用物品。"/>
+    <str id="You can't equip or use items while shapeshifted." value="You can't equip or use items while shapeshifted." local="你不能在变身状态下装备或使用物品。"/>
+    <str id="You can't sort items while blinded." value="You can't sort items while blinded." local="你不能在盲眼状态下整理物品。"/>
+    <str id="You can't sort items while confused." value="You can't sort items while confused." local="你不能在混乱状态下整理物品。"/>
+    <str id="You can't sort items while polymorphed." value="You can't sort items while polymorphed." local="被变形时你无法整理物品。"/>
+    <str id="You can't sort items while shapeshifted." value="You can't sort items while shapeshifted." local="你不能在变身状态下整理物品。"/>
+    <str id="Inventory sorted successfully." value="Inventory sorted successfully." local="成功整理了物品栏。"/>
+    <str id="Something went wrong while sorting the inventory." value="Something went wrong while sorting the inventory." local="在整理物品栏时出了一点问题。"/>
+    <str id="Your %s was dropped on the ground." value="Your %s was dropped on the ground." local="你的%s掉到了地上。"/>
+    <str id="You probably lost some item but it could've been cursed!." value="You probably lost some item but it could've been cursed!." local="你可能丢了点什么，不过它已经被诅咒了！"/>
+    <str id="You can't travel while blinded." value="You can't travel while blinded." local="你在盲眼状态下无法旅行。"/>
+    <str id="You can't travel while confused." value="You can't travel while confused." local="你在混乱状态下无法旅行。"/>
+    <str id="You can't travel while polymorphed." value="You can't travel while polymorphed." local="被变形时，你无法旅行。"/>
+    <str id="You can't travel while shapeshifted." value="You can't travel while shapeshifted." local="你在变身状态下无法旅行。"/>
+    <str id="You can't make ranged attacks while blinded." value="You can't make ranged attacks while blinded." local="你在盲眼状态下无法进行远程攻击。"/>
+    <str id="You can't make ranged attacks while confused." value="You can't make ranged attacks while confused." local="你在混乱状态下无法进行远程攻击。"/>
+    <str id="You can't make ranged attacks while polymorphed." value="You can't make ranged attacks while polymorphed." local="被变形时，你无法进行远程攻击。"/>
+    <str id="You can't make ranged attacks while shapeshifted." value="You can't make ranged attacks while shapeshifted." local="你在变身状态下无法进行远程攻击。"/>
+    <str id="You can't search while blinded." value="You can't search while blinded." local="你在盲眼状态下无法搜索。"/>
+    <str id="You can't search while confused." value="You can't search while confused." local="你在混乱状态下无法搜索。"/>
+    <str id="You can't drop items while blinded." value="You can't drop items while blinded." local="你在盲眼状态下无法丢弃物品。"/>
+    <str id="You can't drop items while confused." value="You can't drop items while confused." local="你在混乱状态下无法丢弃物品。"/>
+    <str id="You can't drop items while polymorphed." value="You can't drop items while polymorphed." local="被变形时，你无法丢弃物品。"/>
+    <str id="You can't drop items while shapeshifted." value="You can't drop items while shapeshifted." local="你在变身状态下无法丢弃物品。"/>
+    <str id="You can't throw items while blinded." value="You can't throw items while blinded." local="你在盲眼状态下无法投掷物品。"/>
+    <str id="You can't throw items while confused." value="You can't throw items while confused." local="你在混乱状态下无法投掷物品。"/>
+    <str id="You can't throw items while polymorphed." value="You can't throw items while polymorphed." local="被变形时，你无法投掷物品。"/>
+    <str id="You can't throw items while shapeshifted." value="You can't throw items while shapeshifted." local="你在变身状态下无法投掷物品。"/>
+    <str id="You can't order friends while blinded." value="You can't order friends while blinded." local="你在盲眼状态下无法指挥伙伴。"/>
+    <str id="You can't order friends while confused." value="You can't order friends while confused." local="你在混乱状态下无法指挥伙伴。"/>
+    <str id="You can't order friends while silenced." value="You can't order friends while silenced." local="你在沉默状态下无法指挥伙伴。"/>
+    <str id="You can't order friends that you don't have." value="You can't order friends that you don't have." local="你没有伙伴时，无法指挥伙伴。"/>
+    <str id="Select a target to send your friends at and press %s:" value="Select a target to send your friends at and press %s:" local="为你的伙伴选择一个目标，然后按下 %s："/>
+    <str id="You can't cast spells or use talents while blinded." value="You can't cast spells or use talents while blinded." local="你在盲眼状态下无法施放法术或使用天赋。"/>
+    <str id="You can't cast spells or use talents while confused." value="You can't cast spells or use talents while confused." local="你在混乱状态下无法施放法术或使用天赋。"/>
+    <str id="You can't cast spells or use talents while polymorphed." value="You can't cast spells or use talents while polymorphed." local="被变形时，你无法施放法术或使用天赋。"/>
+    <str id="You can't cast spells or use talents while shapeshifted." value="You can't cast spells or use talents while shapeshifted." local="你在变身状态下无法施放法术或使用天赋。"/>
+    <str id="You can't cast spells or use talents while silenced." value="You can't cast spells or use talents while silenced." local="你在沉默状态下无法施放法术或使用天赋。"/>
+    <str id="You can't look around while blinded." value="You can't look around while blinded." local="你在盲眼状态下无法观察四周。"/>
+    <str id="You can't look around while confused." value="You can't look around while confused." local="你在混乱状态下无法观察四周。"/>
+    <str id="Select a target to look at and press %s:" value="Select a target to look at and press %s:" local="选择一个观察的目标，然后按下 %s："/>
+    <str id="You can't chat while silenced, duh!" value="You can't chat while silenced, duh!" local="在沉默时你无法聊天，嘟！"/>
   </GameScreen>
   <LootWindow>
     <str id="Buy:" value="Buy:" local="购买："/>
