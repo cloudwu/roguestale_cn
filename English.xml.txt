@@ -3721,99 +3721,99 @@ SpellbookWindow."You can't cast %s at the moment." 你现在无法施放%s。
 AbilityGainWindow."Select ability to increase:" 选择提升一项属性：
 TalentGainWindow."Select talent to learn:" 选择一项天赋学习：
 TalentGainWindow."Points remaining:" 剩余点数：
-DialogueWindow."STR_INTRO_BORED" You see a bored-looking STR_MAN.
-DialogueWindow."STR_INTRO_STERN" You see a stern-looking STR_MAN.
-DialogueWindow."STR_INTRO_SHADY" You see a shady-looking STR_MAN.
-DialogueWindow."STR_INTRO_TOUGH" You see a tough-looking STR_MAN.
-DialogueWindow."STR_INTRO_POMPOUS" You see a pompous-looking STR_MAN.
-DialogueWindow."STR_INTRO_PIOUS" You see a STR_MAN that seems self-righteous.
-DialogueWindow."STR_INTRO_HOLIER" You see a STR_MAN who seems holier than thou.
-DialogueWindow."STR_INTRO_RUGGED" You see a STR_MAN who seems somewhat rugged.
-DialogueWindow."STR_ASK_NAME_1" Who are you?
-DialogueWindow."STR_ASK_NAME_2" Who did you say you are?
-DialogueWindow."STR_TELL_NAME_1" I'm STR_NAME, and you are?
-DialogueWindow."STR_TELL_NAME_2" I didn't, but I'm STR_NAME, and you are?
-DialogueWindow."STR_SAY_PLAYER" I'm STR_PLAYER.
-DialogueWindow."STR_SAY_ALIAS" (Lie) I'm STR_ALIAS.
-DialogueWindow."STR_MEET_PLAYER" Well met, STR_PLAYER.
-DialogueWindow."STR_MEET_ALIAS" Well met, STR_ALIAS.
-DialogueWindow."STR_ASK_JOB_1" What do you do?
-DialogueWindow."STR_ASK_JOB_2" So, what is it that you do?
-DialogueWindow."STR_SECRET" I can't tell you that...
-DialogueWindow."STR_ARCHER" I'm an archer.
-DialogueWindow."STR_BOWMAN" I'm a bowman.
-DialogueWindow."STR_CLERIC" I'm a cleric.
-DialogueWindow."STR_FIGHTER" I'm a fighter.
-DialogueWindow."STR_HENCHMAN" I'm here to protect my master, STR_MASTER.
-DialogueWindow."STR_MERCHANT_1" Straight to business eh? Well, I'm a merchant.
-DialogueWindow."STR_MERCHANT_2" I'm a merchant and I trade and identify items here.
-DialogueWindow."STR_PALADIN" I'm a paladin.
-DialogueWindow."STR_PRIEST" I'm a priest.
-DialogueWindow."STR_RANGER" I'm a ranger.
-DialogueWindow."STR_WARLOCK" I'm a warlock.
-DialogueWindow."STR_WARRIOR" I'm a warrior.
-DialogueWindow."STR_WIZARD" I'm a wizard.
-DialogueWindow."STR_INTRO_1" You're back.
-DialogueWindow."STR_INTRO_2" It's you again.
-DialogueWindow."STR_INTRO_3" Hrmph, you're back.
-DialogueWindow."STR_INTRO_4" Hrmph, who are you again?
-DialogueWindow."STR_INTRO_5" Welcome back.
-DialogueWindow."STR_INTRO_6" What do you want?
-DialogueWindow."STR_TAUNT_1" That time of the month eh?
-DialogueWindow."STR_WARNING_1" Keep going and I'll show you what time it is.
-DialogueWindow."STR_ATTACK_1" Roll over and die!
-DialogueWindow."STR_ATTACK_2" I'm your worst nightmare!
-DialogueWindow."STR_ATTACK_3" Please roll over and die!
-DialogueWindow."STR_ATTACK_4" Actually I'll just kill you.
-DialogueWindow."STR_ATTACK_5" Die, die, die, seriously, just die!
-DialogueWindow."STR_ATTACK_6" Not before you roll over and die!
-DialogueWindow."STR_ATTACK_7" Hand over your goods!
-DialogueWindow."STR_ATTACK_8" It's time for you to die now.
-DialogueWindow."STR_FUBAR" Oh for Fubar's sake!
-DialogueWindow."STR_ASK_MASTER" Tell me more about your master.
-DialogueWindow."STR_TELL_YOU_CANT" I can't do that, now go away.
-DialogueWindow."STR_INTIMIDATE" If you want to live, you better help me now...
-DialogueWindow."STR_PERSUADE" I can see the way you look at me. What if...
-DialogueWindow."STR_INTRO_SCARED" STR_NAME seems happy to be alive.
-DialogueWindow."STR_INTRO_SMITTEN" STR_NAME seems badly smitten.
-DialogueWindow."STR_BREAK_UP_1" What, why, please don't?!?
-DialogueWindow."STR_BREAK_UP_2" What, why, you little bitch?!?
+DialogueWindow."STR_INTRO_BORED" 你看见了一个讨厌的 STR_MAN 。
+DialogueWindow."STR_INTRO_STERN" 你看见了一个严肃的 STR_MAN 。
+DialogueWindow."STR_INTRO_SHADY" 你看见了一个阴险的 STR_MAN 。
+DialogueWindow."STR_INTRO_TOUGH" 你看见了一个结实的 STR_MAN 。
+DialogueWindow."STR_INTRO_POMPOUS" 你看见了一个傲慢的 STR_MAN 。
+DialogueWindow."STR_INTRO_PIOUS" 你看见了一个 STR_MAN ，看起来很自以为是。
+DialogueWindow."STR_INTRO_HOLIER" 你看见了一个 STR_MAN ，看起来很自负。
+DialogueWindow."STR_INTRO_RUGGED" 你看见了一个 STR_MAN ，看起来很顽强。
+DialogueWindow."STR_ASK_NAME_1" 你是谁？
+DialogueWindow."STR_ASK_NAME_2" 你说你是谁？
+DialogueWindow."STR_TELL_NAME_1" 我叫 STR_NAME ，你呢？
+DialogueWindow."STR_TELL_NAME_2" 我不是。我叫 STR_NAME ，你呢？
+DialogueWindow."STR_SAY_PLAYER" 我是 STR_PLAYER 。
+DialogueWindow."STR_SAY_ALIAS" (说谎) 我叫 STR_ALIAS 。
+DialogueWindow."STR_MEET_PLAYER" 你好， STR_PLAYER 。
+DialogueWindow."STR_MEET_ALIAS" 你好， STR_ALIAS 。
+DialogueWindow."STR_ASK_JOB_1" 你在做什么？
+DialogueWindow."STR_ASK_JOB_2" 那么，你是做什么的？
+DialogueWindow."STR_SECRET" 我不能告诉你……
+DialogueWindow."STR_ARCHER" 我是一个射手。
+DialogueWindow."STR_BOWMAN" 我是一个弓箭手。
+DialogueWindow."STR_CLERIC" 我是一个牧师。
+DialogueWindow."STR_FIGHTER" 我是一个战士。
+DialogueWindow."STR_HENCHMAN" 我在保护我的师傅，STR_MASTER 。
+DialogueWindow."STR_MERCHANT_1" 开门见山吧？嗯，我是一个商人。
+DialogueWindow."STR_MERCHANT_2" @(40)我是一个商人，我在这里做生意，还能鉴定物品。
+DialogueWindow."STR_PALADIN" 我是一个圣骑士。
+DialogueWindow."STR_PRIEST" 我是一个祭祀。
+DialogueWindow."STR_RANGER" 我是一个独行侠。
+DialogueWindow."STR_WARLOCK" 我是一个术士。
+DialogueWindow."STR_WARRIOR" 我是一个武士。
+DialogueWindow."STR_WIZARD" 我是一个法师。
+DialogueWindow."STR_INTRO_1" 你回来了。
+DialogueWindow."STR_INTRO_2" 又是你。
+DialogueWindow."STR_INTRO_3" 嗯哼，你回来了。
+DialogueWindow."STR_INTRO_4" 嗯哼，你又是谁？
+DialogueWindow."STR_INTRO_5" 欢迎回来。
+DialogueWindow."STR_INTRO_6" 你想要什么？
+DialogueWindow."STR_TAUNT_1" 每个月这个时候哈？
+DialogueWindow."STR_WARNING_1" 继续，我会告诉你现在是什么时候了。
+DialogueWindow."STR_ATTACK_1" 去死吧！
+DialogueWindow."STR_ATTACK_2" 我是你的噩梦！
+DialogueWindow."STR_ATTACK_3" 请去死吧！
+DialogueWindow."STR_ATTACK_4" 实际上，我要杀了你。
+DialogueWindow."STR_ATTACK_5" 死，死，死，死！
+DialogueWindow."STR_ATTACK_6" 在此之前，你先去死吧！
+DialogueWindow."STR_ATTACK_7" 交出你的财物！
+DialogueWindow."STR_ATTACK_8" 现在该你去死了。
+DialogueWindow."STR_FUBAR" 看在福霸的份上！
+DialogueWindow."STR_ASK_MASTER" 给我讲讲更多你师傅的事。
+DialogueWindow."STR_TELL_YOU_CANT" 我做不了，现在走吧。
+DialogueWindow."STR_INTIMIDATE" 如果你想活下去，最好现在帮助我……
+DialogueWindow."STR_PERSUADE" 我能看到你看着我的样子。如果……
+DialogueWindow."STR_INTRO_SCARED" STR_NAME 看起来很高兴能活着。
+DialogueWindow."STR_INTRO_SMITTEN" STR_NAME 看起来收到严重打击。
+DialogueWindow."STR_BREAK_UP_1" 什么，为什么，不要啊 ?!?
+DialogueWindow."STR_BREAK_UP_2" 什么，为什么，你个小婊子 ?!?
 DialogueWindow."STR_INTRO_SOUL_MATE" @(40)你的灵魂伴侣用一双可爱的大眼睛盯着你。
 DialogueWindow."STR_ATTACK_SOUL_MATE" @(40)抱歉，这都是我的问题，和你无关。
 DialogueWindow."STR_FUBAR_SOUL_MATE" @(40)你完全能感受到那双可爱的大眼睛中的震惊。
-DialogueWindow."STR_ASK_TRICKS" Can you teach me any new tricks?
-DialogueWindow."STR_ASK_MOVES" Do you know any fancy moves?
-DialogueWindow."STR_SHOW_WARES" Let's see your wares.
-DialogueWindow."STR_IDENTIFY" Could you identify this...
-DialogueWindow."STR_TELL_PERHAPS" Perhaps, if you are ready to learn...
-DialogueWindow."STR_INTRO_TRICKS" Ready to learn some new tricks?
-DialogueWindow."STR_INTRO_MOVES" Ready to learn some fancy moves?
-DialogueWindow."STR_ASK_SPELLS_1" Do you know any cool spells?
-DialogueWindow."STR_ASK_SPELLS_2" Do you know any other spells?
-DialogueWindow."STR_TELL_SPELLS" Yes, but only one well enough to teach.
-DialogueWindow."STR_ASK_TEACH_OTHER" Can you teach me those other spells?
-DialogueWindow."STR_INTRO_LESSON" Hrmph, did you forget something?
-DialogueWindow."STR_INTRO_READY" Hrmph, you're back. Are you ready now?
-DialogueWindow."STR_INTRO_GO_AWAY" I've already told you enough, now go away.
-DialogueWindow."STR_CONFIRM" Are you sure that is what you want?
-DialogueWindow."STR_YES_PLEASE" Yes please, anytime you're ready.
-DialogueWindow."STR_NO_THANKS" Let me think about this again.
-DialogueWindow."STR_YES" Yes.
-DialogueWindow."STR_NO" No.
-DialogueWindow."STR_OF_COURSE" Of course I do.
-DialogueWindow."STR_ALLRIGHT" Allright.
-DialogueWindow."STR_CERTAINLY" Certainly.
-DialogueWindow."STR_WHATEVER" Whatever.
-DialogueWindow."STR_RETHINK" Try not to think too hard.
-DialogueWindow."STR_TEACH_TALENT" So, the first thing you need to know is that...
-DialogueWindow."STR_TEACH_SPELL" So, all you have to do is say these words...
-DialogueWindow."STR_MAN" man
-DialogueWindow."STR_WOMAN" woman
-DialogueWindow."STR_MALE_ALIAS" John Doe
-DialogueWindow."STR_FEMALE_ALIAS" Jane Doe
-DialogueWindow."STR_MASTER" whom is dead now
-DialogueWindow."DLG_FINAL_VERDICT" After carefully examining your answers, the powers that be have come to a conclusion.
-DialogueWindow."DLG_FINAL_VERDICT".1 You are hereby known as %s %s the %s.
+DialogueWindow."STR_ASK_TRICKS" 你能教我一点新技巧？
+DialogueWindow."STR_ASK_MOVES" 你知道什么炫酷的招数？
+DialogueWindow."STR_SHOW_WARES" 看看你的货。
+DialogueWindow."STR_IDENTIFY" 这个你能鉴定吗？……
+DialogueWindow."STR_TELL_PERHAPS" 或许，如果你已经准备好学习……
+DialogueWindow."STR_INTRO_TRICKS" 准备好学习一些新技巧了吗？
+DialogueWindow."STR_INTRO_MOVES" 准备好学习一些新招数了吗？
+DialogueWindow."STR_ASK_SPELLS_1" 你会什么有趣的法术吗？
+DialogueWindow."STR_ASK_SPELLS_2" 你还会什么法术吗？
+DialogueWindow."STR_TELL_SPELLS" 好的，不过只能教一个。
+DialogueWindow."STR_ASK_TEACH_OTHER" 你能教我其它法术吗？
+DialogueWindow."STR_INTRO_LESSON" 哈，你是不是忘了什么？
+DialogueWindow."STR_INTRO_READY" 哈，你又回来了。现在准备好了吗？
+DialogueWindow."STR_INTRO_GO_AWAY" 我已经都告诉你了，你现在走吧。
+DialogueWindow."STR_CONFIRM" 你确定那就是你想要的？
+DialogueWindow."STR_YES_PLEASE" 好的，你准备好就可以。
+DialogueWindow."STR_NO_THANKS" 让我再考虑一次。
+DialogueWindow."STR_YES" 是的。
+DialogueWindow."STR_NO" 不是。
+DialogueWindow."STR_OF_COURSE" 当然可以。
+DialogueWindow."STR_ALLRIGHT" 好的。
+DialogueWindow."STR_CERTAINLY" 一定。
+DialogueWindow."STR_WHATEVER" 随便。
+DialogueWindow."STR_RETHINK" 不要想太多了。
+DialogueWindow."STR_TEACH_TALENT" 所以，你要知道的第一件事是……
+DialogueWindow."STR_TEACH_SPELL" 所以，你要做的就是念出这些……
+DialogueWindow."STR_MAN" 男人
+DialogueWindow."STR_WOMAN" 女人
+DialogueWindow."STR_MALE_ALIAS" 吴明
+DialogueWindow."STR_FEMALE_ALIAS" 吴敏
+DialogueWindow."STR_MASTER" 现在他死了
+DialogueWindow."DLG_FINAL_VERDICT" @(40)在仔细检查了你的回答后，当权者有了个结论。
+DialogueWindow."DLG_FINAL_VERDICT".1 根据与此，你被称为 %s %s %s。
 DialogueWindow."DLG_DEATH_GREETING" 不用打招呼了。我是死神，我一直在等着你。
 DialogueWindow."DLG_ROUNDS_PLAYED_0" @(40)随便说一句，你将直接下地狱，因为你活得太久了。
 DialogueWindow."DLG_ROUNDS_PLAYED_1" @(40)是什么耽误了你这么久？我都担心你不会来了。
@@ -3821,9 +3821,9 @@ DialogueWindow."DLG_ROUNDS_PLAYED_2" @(40)你老是不来，我差点去喊人�
 DialogueWindow."DLG_ROUNDS_PLAYED_3" @(40)你应该早点来的，不过没关系，这里有足够的热量烧热你的汤。
 DialogueWindow."DLG_ROUNDS_PLAYED_4" @(40)谢谢你不再浪费我的时间。现在走吧，祝你住的愉快。
 DialogueWindow."DLG_ROUNDS_PLAYED_5" @(40)谢谢你这么快就来见我。现在让我给你不朽之爱。
-DialogueWindow."DLG_FIRST_WISH" - You did say rich with filth, right?
-DialogueWindow."DLG_SECOND_WISH" - I see you're into twins. Let's make that two...
-DialogueWindow."DLG_THIRD_WISH" - You get a feeling that you have just been fooled.
+DialogueWindow."DLG_FIRST_WISH" @(40)- 你说了很多脏话，对吗？
+DialogueWindow."DLG_SECOND_WISH" @(40)- 我看见你变成了双胞胎。那么就满足两……
+DialogueWindow."DLG_THIRD_WISH" @(40)- 你感觉你刚刚被愚弄了。
 DialogueWindow."I would like to learn this '%s'." 我想要学习 '%s'.
 DialogueWindow."Can you teach me this '%s' spell?" 你能教教我这个 '%s' 法术吗?
 DialogueWindow."You already know %s." 你已经知道 %s 了.

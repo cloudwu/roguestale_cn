@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="32ea78c82ec3ef4beefdf42a995c2a98db671bc2">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="47ce422082498b78d877842050e16381f59596a7">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -4106,99 +4106,99 @@
     <str id="Points remaining:" value="Points remaining:" local="剩余点数："/>
   </TalentGainWindow>
   <DialogueWindow>
-    <str id="STR_INTRO_BORED" value="You see a bored-looking STR_MAN."/>
-    <str id="STR_INTRO_STERN" value="You see a stern-looking STR_MAN."/>
-    <str id="STR_INTRO_SHADY" value="You see a shady-looking STR_MAN."/>
-    <str id="STR_INTRO_TOUGH" value="You see a tough-looking STR_MAN."/>
-    <str id="STR_INTRO_POMPOUS" value="You see a pompous-looking STR_MAN."/>
-    <str id="STR_INTRO_PIOUS" value="You see a STR_MAN that seems self-righteous."/>
-    <str id="STR_INTRO_HOLIER" value="You see a STR_MAN who seems holier than thou."/>
-    <str id="STR_INTRO_RUGGED" value="You see a STR_MAN who seems somewhat rugged."/>
-    <str id="STR_ASK_NAME_1" value="Who are you?"/>
-    <str id="STR_ASK_NAME_2" value="Who did you say you are?"/>
-    <str id="STR_TELL_NAME_1" value="I'm STR_NAME, and you are?"/>
-    <str id="STR_TELL_NAME_2" value="I didn't, but I'm STR_NAME, and you are?"/>
-    <str id="STR_SAY_PLAYER" value="I'm STR_PLAYER."/>
-    <str id="STR_SAY_ALIAS" value="(Lie) I'm STR_ALIAS."/>
-    <str id="STR_MEET_PLAYER" value="Well met, STR_PLAYER."/>
-    <str id="STR_MEET_ALIAS" value="Well met, STR_ALIAS."/>
-    <str id="STR_ASK_JOB_1" value="What do you do?"/>
-    <str id="STR_ASK_JOB_2" value="So, what is it that you do?"/>
-    <str id="STR_SECRET" value="I can't tell you that..."/>
-    <str id="STR_ARCHER" value="I'm an archer."/>
-    <str id="STR_BOWMAN" value="I'm a bowman."/>
-    <str id="STR_CLERIC" value="I'm a cleric."/>
-    <str id="STR_FIGHTER" value="I'm a fighter."/>
-    <str id="STR_HENCHMAN" value="I'm here to protect my master, STR_MASTER."/>
-    <str id="STR_MERCHANT_1" value="Straight to business eh? Well, I'm a merchant."/>
-    <str id="STR_MERCHANT_2" value="I'm a merchant and I trade and identify items here."/>
-    <str id="STR_PALADIN" value="I'm a paladin."/>
-    <str id="STR_PRIEST" value="I'm a priest."/>
-    <str id="STR_RANGER" value="I'm a ranger."/>
-    <str id="STR_WARLOCK" value="I'm a warlock."/>
-    <str id="STR_WARRIOR" value="I'm a warrior."/>
-    <str id="STR_WIZARD" value="I'm a wizard."/>
-    <str id="STR_INTRO_1" value="You're back."/>
-    <str id="STR_INTRO_2" value="It's you again."/>
-    <str id="STR_INTRO_3" value="Hrmph, you're back."/>
-    <str id="STR_INTRO_4" value="Hrmph, who are you again?"/>
-    <str id="STR_INTRO_5" value="Welcome back."/>
-    <str id="STR_INTRO_6" value="What do you want?"/>
-    <str id="STR_TAUNT_1" value="That time of the month eh?"/>
-    <str id="STR_WARNING_1" value="Keep going and I'll show you what time it is."/>
-    <str id="STR_ATTACK_1" value="Roll over and die!"/>
-    <str id="STR_ATTACK_2" value="I'm your worst nightmare!"/>
-    <str id="STR_ATTACK_3" value="Please roll over and die!"/>
-    <str id="STR_ATTACK_4" value="Actually I'll just kill you."/>
-    <str id="STR_ATTACK_5" value="Die, die, die, seriously, just die!"/>
-    <str id="STR_ATTACK_6" value="Not before you roll over and die!"/>
-    <str id="STR_ATTACK_7" value="Hand over your goods!"/>
-    <str id="STR_ATTACK_8" value="It's time for you to die now."/>
-    <str id="STR_FUBAR" value="Oh for Fubar's sake!"/>
-    <str id="STR_ASK_MASTER" value="Tell me more about your master."/>
-    <str id="STR_TELL_YOU_CANT" value="I can't do that, now go away."/>
-    <str id="STR_INTIMIDATE" value="If you want to live, you better help me now..."/>
-    <str id="STR_PERSUADE" value="I can see the way you look at me. What if..."/>
-    <str id="STR_INTRO_SCARED" value="STR_NAME seems happy to be alive."/>
-    <str id="STR_INTRO_SMITTEN" value="STR_NAME seems badly smitten."/>
-    <str id="STR_BREAK_UP_1" value="What, why, please don't?!?"/>
-    <str id="STR_BREAK_UP_2" value="What, why, you little bitch?!?"/>
+    <str id="STR_INTRO_BORED" value="You see a bored-looking STR_MAN." local="你看见了一个讨厌的 STR_MAN 。"/>
+    <str id="STR_INTRO_STERN" value="You see a stern-looking STR_MAN." local="你看见了一个严肃的 STR_MAN 。"/>
+    <str id="STR_INTRO_SHADY" value="You see a shady-looking STR_MAN." local="你看见了一个阴险的 STR_MAN 。"/>
+    <str id="STR_INTRO_TOUGH" value="You see a tough-looking STR_MAN." local="你看见了一个结实的 STR_MAN 。"/>
+    <str id="STR_INTRO_POMPOUS" value="You see a pompous-looking STR_MAN." local="你看见了一个傲慢的 STR_MAN 。"/>
+    <str id="STR_INTRO_PIOUS" value="You see a STR_MAN that seems self-righteous." local="你看见了一个 STR_MAN ，看起来很自以为是。"/>
+    <str id="STR_INTRO_HOLIER" value="You see a STR_MAN who seems holier than thou." local="你看见了一个 STR_MAN ，看起来很自负。"/>
+    <str id="STR_INTRO_RUGGED" value="You see a STR_MAN who seems somewhat rugged." local="你看见了一个 STR_MAN ，看起来很顽强。"/>
+    <str id="STR_ASK_NAME_1" value="Who are you?" local="你是谁？"/>
+    <str id="STR_ASK_NAME_2" value="Who did you say you are?" local="你说你是谁？"/>
+    <str id="STR_TELL_NAME_1" value="I'm STR_NAME, and you are?" local="我叫 STR_NAME ，你呢？"/>
+    <str id="STR_TELL_NAME_2" value="I didn't, but I'm STR_NAME, and you are?" local="我不是。我叫 STR_NAME ，你呢？"/>
+    <str id="STR_SAY_PLAYER" value="I'm STR_PLAYER." local="我是 STR_PLAYER 。"/>
+    <str id="STR_SAY_ALIAS" value="(Lie) I'm STR_ALIAS." local="(说谎) 我叫 STR_ALIAS 。"/>
+    <str id="STR_MEET_PLAYER" value="Well met, STR_PLAYER." local="你好， STR_PLAYER 。"/>
+    <str id="STR_MEET_ALIAS" value="Well met, STR_ALIAS." local="你好， STR_ALIAS 。"/>
+    <str id="STR_ASK_JOB_1" value="What do you do?" local="你在做什么？"/>
+    <str id="STR_ASK_JOB_2" value="So, what is it that you do?" local="那么，你是做什么的？"/>
+    <str id="STR_SECRET" value="I can't tell you that..." local="我不能告诉你……"/>
+    <str id="STR_ARCHER" value="I'm an archer." local="我是一个射手。"/>
+    <str id="STR_BOWMAN" value="I'm a bowman." local="我是一个弓箭手。"/>
+    <str id="STR_CLERIC" value="I'm a cleric." local="我是一个牧师。"/>
+    <str id="STR_FIGHTER" value="I'm a fighter." local="我是一个战士。"/>
+    <str id="STR_HENCHMAN" value="I'm here to protect my master, STR_MASTER." local="我在保护我的师傅，STR_MASTER 。"/>
+    <str id="STR_MERCHANT_1" value="Straight to business eh? Well, I'm a merchant." local="开门见山吧？嗯，我是一个商人。"/>
+    <str id="STR_MERCHANT_2" value="I'm a merchant and I trade and identify items here." local="我是一个商人，我在这里做生意，还能鉴定物&#10;品。"/>
+    <str id="STR_PALADIN" value="I'm a paladin." local="我是一个圣骑士。"/>
+    <str id="STR_PRIEST" value="I'm a priest." local="我是一个祭祀。"/>
+    <str id="STR_RANGER" value="I'm a ranger." local="我是一个独行侠。"/>
+    <str id="STR_WARLOCK" value="I'm a warlock." local="我是一个术士。"/>
+    <str id="STR_WARRIOR" value="I'm a warrior." local="我是一个武士。"/>
+    <str id="STR_WIZARD" value="I'm a wizard." local="我是一个法师。"/>
+    <str id="STR_INTRO_1" value="You're back." local="你回来了。"/>
+    <str id="STR_INTRO_2" value="It's you again." local="又是你。"/>
+    <str id="STR_INTRO_3" value="Hrmph, you're back." local="嗯哼，你回来了。"/>
+    <str id="STR_INTRO_4" value="Hrmph, who are you again?" local="嗯哼，你又是谁？"/>
+    <str id="STR_INTRO_5" value="Welcome back." local="欢迎回来。"/>
+    <str id="STR_INTRO_6" value="What do you want?" local="你想要什么？"/>
+    <str id="STR_TAUNT_1" value="That time of the month eh?" local="每个月这个时候哈？"/>
+    <str id="STR_WARNING_1" value="Keep going and I'll show you what time it is." local="继续，我会告诉你现在是什么时候了。"/>
+    <str id="STR_ATTACK_1" value="Roll over and die!" local="去死吧！"/>
+    <str id="STR_ATTACK_2" value="I'm your worst nightmare!" local="我是你的噩梦！"/>
+    <str id="STR_ATTACK_3" value="Please roll over and die!" local="请去死吧！"/>
+    <str id="STR_ATTACK_4" value="Actually I'll just kill you." local="实际上，我要杀了你。"/>
+    <str id="STR_ATTACK_5" value="Die, die, die, seriously, just die!" local="死，死，死，死！"/>
+    <str id="STR_ATTACK_6" value="Not before you roll over and die!" local="在此之前，你先去死吧！"/>
+    <str id="STR_ATTACK_7" value="Hand over your goods!" local="交出你的财物！"/>
+    <str id="STR_ATTACK_8" value="It's time for you to die now." local="现在该你去死了。"/>
+    <str id="STR_FUBAR" value="Oh for Fubar's sake!" local="看在福霸的份上！"/>
+    <str id="STR_ASK_MASTER" value="Tell me more about your master." local="给我讲讲更多你师傅的事。"/>
+    <str id="STR_TELL_YOU_CANT" value="I can't do that, now go away." local="我做不了，现在走吧。"/>
+    <str id="STR_INTIMIDATE" value="If you want to live, you better help me now..." local="如果你想活下去，最好现在帮助我……"/>
+    <str id="STR_PERSUADE" value="I can see the way you look at me. What if..." local="我能看到你看着我的样子。如果……"/>
+    <str id="STR_INTRO_SCARED" value="STR_NAME seems happy to be alive." local="STR_NAME 看起来很高兴能活着。"/>
+    <str id="STR_INTRO_SMITTEN" value="STR_NAME seems badly smitten." local="STR_NAME 看起来收到严重打击。"/>
+    <str id="STR_BREAK_UP_1" value="What, why, please don't?!?" local="什么，为什么，不要啊 ?!?"/>
+    <str id="STR_BREAK_UP_2" value="What, why, you little bitch?!?" local="什么，为什么，你个小婊子 ?!?"/>
     <str id="STR_INTRO_SOUL_MATE" value="Your soul mate looks at you with puppy eyes." local="你的灵魂伴侣用一双可爱的大眼睛盯着你。"/>
     <str id="STR_ATTACK_SOUL_MATE" value="I'm sorry but it's because of me, not you." local="抱歉，这都是我的问题，和你无关。"/>
     <str id="STR_FUBAR_SOUL_MATE" value="You can almost feel how the puppy eyes shatter." local="你完全能感受到那双可爱的大眼睛中的震惊。"/>
-    <str id="STR_ASK_TRICKS" value="Can you teach me any new tricks?"/>
-    <str id="STR_ASK_MOVES" value="Do you know any fancy moves?"/>
-    <str id="STR_SHOW_WARES" value="Let's see your wares."/>
-    <str id="STR_IDENTIFY" value="Could you identify this..."/>
-    <str id="STR_TELL_PERHAPS" value="Perhaps, if you are ready to learn..."/>
-    <str id="STR_INTRO_TRICKS" value="Ready to learn some new tricks?"/>
-    <str id="STR_INTRO_MOVES" value="Ready to learn some fancy moves?"/>
-    <str id="STR_ASK_SPELLS_1" value="Do you know any cool spells?"/>
-    <str id="STR_ASK_SPELLS_2" value="Do you know any other spells?"/>
-    <str id="STR_TELL_SPELLS" value="Yes, but only one well enough to teach."/>
-    <str id="STR_ASK_TEACH_OTHER" value="Can you teach me those other spells?"/>
-    <str id="STR_INTRO_LESSON" value="Hrmph, did you forget something?"/>
-    <str id="STR_INTRO_READY" value="Hrmph, you're back. Are you ready now?"/>
-    <str id="STR_INTRO_GO_AWAY" value="I've already told you enough, now go away."/>
-    <str id="STR_CONFIRM" value="Are you sure that is what you want?"/>
-    <str id="STR_YES_PLEASE" value="Yes please, anytime you're ready."/>
-    <str id="STR_NO_THANKS" value="Let me think about this again."/>
-    <str id="STR_YES" value="Yes."/>
-    <str id="STR_NO" value="No."/>
-    <str id="STR_OF_COURSE" value="Of course I do."/>
-    <str id="STR_ALLRIGHT" value="Allright."/>
-    <str id="STR_CERTAINLY" value="Certainly."/>
-    <str id="STR_WHATEVER" value="Whatever."/>
-    <str id="STR_RETHINK" value="Try not to think too hard."/>
-    <str id="STR_TEACH_TALENT" value="So, the first thing you need to know is that..."/>
-    <str id="STR_TEACH_SPELL" value="So, all you have to do is say these words..."/>
-    <str id="STR_MAN" value="man"/>
-    <str id="STR_WOMAN" value="woman"/>
-    <str id="STR_MALE_ALIAS" value="John Doe"/>
-    <str id="STR_FEMALE_ALIAS" value="Jane Doe"/>
-    <str id="STR_MASTER" value="whom is dead now"/>
-    <str id="DLG_FINAL_VERDICT" value="After carefully examining your answers, the powers that be have come to a conclusion." space="True">
-      <str id="paragraph 1" value="You are hereby known as %s %s the %s."/>
+    <str id="STR_ASK_TRICKS" value="Can you teach me any new tricks?" local="你能教我一点新技巧？"/>
+    <str id="STR_ASK_MOVES" value="Do you know any fancy moves?" local="你知道什么炫酷的招数？"/>
+    <str id="STR_SHOW_WARES" value="Let's see your wares." local="看看你的货。"/>
+    <str id="STR_IDENTIFY" value="Could you identify this..." local="这个你能鉴定吗？……"/>
+    <str id="STR_TELL_PERHAPS" value="Perhaps, if you are ready to learn..." local="或许，如果你已经准备好学习……"/>
+    <str id="STR_INTRO_TRICKS" value="Ready to learn some new tricks?" local="准备好学习一些新技巧了吗？"/>
+    <str id="STR_INTRO_MOVES" value="Ready to learn some fancy moves?" local="准备好学习一些新招数了吗？"/>
+    <str id="STR_ASK_SPELLS_1" value="Do you know any cool spells?" local="你会什么有趣的法术吗？"/>
+    <str id="STR_ASK_SPELLS_2" value="Do you know any other spells?" local="你还会什么法术吗？"/>
+    <str id="STR_TELL_SPELLS" value="Yes, but only one well enough to teach." local="好的，不过只能教一个。"/>
+    <str id="STR_ASK_TEACH_OTHER" value="Can you teach me those other spells?" local="你能教我其它法术吗？"/>
+    <str id="STR_INTRO_LESSON" value="Hrmph, did you forget something?" local="哈，你是不是忘了什么？"/>
+    <str id="STR_INTRO_READY" value="Hrmph, you're back. Are you ready now?" local="哈，你又回来了。现在准备好了吗？"/>
+    <str id="STR_INTRO_GO_AWAY" value="I've already told you enough, now go away." local="我已经都告诉你了，你现在走吧。"/>
+    <str id="STR_CONFIRM" value="Are you sure that is what you want?" local="你确定那就是你想要的？"/>
+    <str id="STR_YES_PLEASE" value="Yes please, anytime you're ready." local="好的，你准备好就可以。"/>
+    <str id="STR_NO_THANKS" value="Let me think about this again." local="让我再考虑一次。"/>
+    <str id="STR_YES" value="Yes." local="是的。"/>
+    <str id="STR_NO" value="No." local="不是。"/>
+    <str id="STR_OF_COURSE" value="Of course I do." local="当然可以。"/>
+    <str id="STR_ALLRIGHT" value="Allright." local="好的。"/>
+    <str id="STR_CERTAINLY" value="Certainly." local="一定。"/>
+    <str id="STR_WHATEVER" value="Whatever." local="随便。"/>
+    <str id="STR_RETHINK" value="Try not to think too hard." local="不要想太多了。"/>
+    <str id="STR_TEACH_TALENT" value="So, the first thing you need to know is that..." local="所以，你要知道的第一件事是……"/>
+    <str id="STR_TEACH_SPELL" value="So, all you have to do is say these words..." local="所以，你要做的就是念出这些……"/>
+    <str id="STR_MAN" value="man" local="男人"/>
+    <str id="STR_WOMAN" value="woman" local="女人"/>
+    <str id="STR_MALE_ALIAS" value="John Doe" local="吴明"/>
+    <str id="STR_FEMALE_ALIAS" value="Jane Doe" local="吴敏"/>
+    <str id="STR_MASTER" value="whom is dead now" local="现在他死了"/>
+    <str id="DLG_FINAL_VERDICT" value="After carefully examining your answers, the powers that be have come to a conclusion." local="在仔细检查了你的回答后，当权者有了个结论&#10;。" space="True">
+      <str id="paragraph 1" value="You are hereby known as %s %s the %s." local="根据与此，你被称为 %s %s %s。"/>
     </str>
     <str id="DLG_DEATH_GREETING" value="Why hello there. I'm Death and I've been expecting you." local="不用打招呼了。我是死神，我一直在等着你。"/>
     <str id="DLG_ROUNDS_PLAYED_0" value="By the way, you're going straight to hell because you overstayed your visit in life." local="随便说一句，你将直接下地狱，因为你活得太&#10;久了。"/>
@@ -4207,9 +4207,9 @@
     <str id="DLG_ROUNDS_PLAYED_3" value="You could've come earlier but don't worry, there's plenty of heat here to keep your soup hot." local="你应该早点来的，不过没关系，这里有足够的&#10;热量烧热你的汤。"/>
     <str id="DLG_ROUNDS_PLAYED_4" value="Thank you for not wasting my time any more than you did. Now move along and enjoy your stay." local="谢谢你不再浪费我的时间。现在走吧，祝你住&#10;的愉快。"/>
     <str id="DLG_ROUNDS_PLAYED_5" value="Thank you for coming to me so soon. Now let me reward you with everlasting agony." local="谢谢你这么快就来见我。现在让我给你不朽之&#10;爱。"/>
-    <str id="DLG_FIRST_WISH" value="- You did say rich with filth, right?"/>
-    <str id="DLG_SECOND_WISH" value="- I see you're into twins. Let's make that two..."/>
-    <str id="DLG_THIRD_WISH" value="- You get a feeling that you have just been fooled."/>
+    <str id="DLG_FIRST_WISH" value="- You did say rich with filth, right?" local="- 你说了很多脏话，对吗？"/>
+    <str id="DLG_SECOND_WISH" value="- I see you're into twins. Let's make that two..." local="- 我看见你变成了双胞胎。那么就满足两……"/>
+    <str id="DLG_THIRD_WISH" value="- You get a feeling that you have just been fooled." local="- 你感觉你刚刚被愚弄了。"/>
     <str id="I would like to learn this '%s'." value="I would like to learn this '%s'." local="我想要学习 '%s'."/>
     <str id="Can you teach me this '%s' spell?" value="Can you teach me this '%s' spell?" local="你能教教我这个 '%s' 法术吗?"/>
     <str id="You already know %s." value="You already know %s." local="你已经知道 %s 了."/>
