@@ -1039,7 +1039,7 @@ SpellNames."Plane Shift" 位面传送
 SpellNames."Release Soul" 释放灵魂
 SpellNames."Summon Daemon" 召唤恶魔
 SpellNames."Venomous Orb" 毒球术
-SpellNames."Virulent Orb" 病球术
+SpellNames."Virulent Orb" 疫球术
 SpellNames."Divine Shield" 神圣之盾
 SpellNames."Conjure Daemon" 驱逐恶魔
 SpellNames."Identify Item" 物品鉴定
@@ -1866,7 +1866,7 @@ PotionDescs."Potion of Insight" @(30)里面是一种非常咸的酒精饮料，�
 PotionDescs."Potion of Leeching" @(30)里面是吸血毒药。它从何而来，怎样制造的仍然是个谜。
 PotionDescs."Potion of Literacy" @(30)里面是另一种粉色液体，它能告诉我们为什么不需要教育。
 PotionDescs."Potion of Paralysis" @(30)里面是麻痹毒药。它从何而来，怎样制造的仍然是个谜。
-PotionDescs."Potion of Sickness" @(30)里面有已知可引起多种疾病的受感染动物粪便。
+PotionDescs."Potion of Sickness" @(30)里面有携带瘟疫的动物粪便，可引起多种疾病。
 PotionDescs."Potion of Silencing" @(30)里面是沉默毒药。它从何而来，怎样制造的仍然是个谜。
 PotionDescs."Potion of Sleeping" @(30)里面是沉睡毒药。它从何而来，怎样制造的仍然是个谜。
 PotionDescs."Potion of Slowness" @(30)里面是迟缓毒药。它从何而来，怎样制造的仍然是个谜。
@@ -2131,7 +2131,7 @@ TomeNames."Tome of Plane Shift" 典籍：位面传送
 TomeNames."Tome of Release Soul" 典籍：释放灵魂
 TomeNames."Tome of Summon Daemon" 典籍：召唤恶魔
 TomeNames."Tome of Venomous Orb" 典籍：毒球术
-TomeNames."Tome of Virulent Orb" 典籍：病球术
+TomeNames."Tome of Virulent Orb" 典籍：疫球术
 TomeNames."Tome of Divine Shield" 典籍：神圣之盾
 TomeNames."Tome of Conjure Daemon" 典籍：驱逐恶魔
 TomeNames."Tome of Identify Item" 典籍：物品鉴定
@@ -2213,7 +2213,7 @@ WandNames."Wand of Crushing" 落石魔杖
 WandNames."Wand of Entrapment" 诱捕魔杖
 WandNames."Wand of Excavation" 挖掘魔杖
 WandNames."Wand of Freezing" 冰冻魔杖
-WandNames."Wand of Infection" 感染魔杖
+WandNames."Wand of Infection" 瘟疫魔杖
 WandNames."Wand of Inferno" 怒火魔杖
 WandNames."Wand of Knocking" 击退魔杖
 WandNames."Wand of Maelstrom" 漩涡魔杖
@@ -2245,7 +2245,7 @@ WandDescs."Wand of Crushing" @(30)向目标地点的落下巨石。
 WandDescs."Wand of Entrapment" @(30)在目标地点张开大网，困住覆盖范围内的所有单位。
 WandDescs."Wand of Excavation" @(30)这个魔杖的创造者相比于卖力气显然更爱动脑子。
 WandDescs."Wand of Freezing" @(30)造成冰霜伤害或者立即杀死目标生物。
-WandDescs."Wand of Infection" @(30)向目标地点发射一颗不断扩张和放大的感染球。
+WandDescs."Wand of Infection" @(30)向目标地点发射一颗不断扩张和放大的瘟疫球。
 WandDescs."Wand of Inferno" @(30)向目标地点发射一颗不断扩张和放大的火球。
 WandDescs."Wand of Knocking" @(30)击退目标生物并且造成伤害。
 WandDescs."Wand of Maelstrom" @(30)在目标地点制造一个死亡旋涡，对覆盖范围内的所有单位造成伤害。
@@ -2437,7 +2437,7 @@ WeaponDescs."Royal Mace" This is one of those toys that you get to have as a Kin
 WeaponDescs."Satyr's Sting" 这曾经属于独行侠赛特，你从他的遗物中获得。
 WeaponDescs."Logar's Blade" 这曾经属于剑圣洛迦，他的手已不再有体温。
 WeaponDescs."Altren's Kiss" 这曾经属于艾特仁王子，上面刻有 XLVII ，已经不知道其含义。
-WeaponDescs."Staff of the Trickster" 这曾经属于魔术师赖安，持有它的人可以释放病球术。
+WeaponDescs."Staff of the Trickster" 这曾经属于魔术师赖安，持有它的人可以释放瘟疫球。
 WeaponDescs."Staff of the Archmage" 这曾经属于大法师高焚岱，持有它的人可以释放火球术。
 WeaponDescs."Staff of the Ice Queen" 这曾经属于冰霜女王艾特娜，持有它的人可以释放冰球术。
 WeaponDescs."Death Star" These throwing stars are one of the deadliest tools used by the Blackhand assassins.
