@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="e5ba7868f8b666e89fd0048f4c79b92e899e701b">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="21a87b79880acf3aecce78994717f5a0aa64dd9d">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -2871,100 +2871,100 @@
     <str id="something squishy" value="something squishy" local="黏糊糊的东西"/>
   </TileNames>
   <TileLogs>
-    <str id="You see %s." value="You see %s."/>
-    <str id="You see a blank %s." value="You see a blank %s."/>
-    <str id="You see a broken %s." value="You see a broken %s."/>
-    <str id="You see a defiled %s." value="You see a defiled %s."/>
-    <str id="You see a closed %s." value="You see a closed %s."/>
-    <str id="You see an empty %s." value="You see an empty %s."/>
-    <str id="You see a lit %s." value="You see a lit %s."/>
-    <str id="You see an unlit %s." value="You see an unlit %s."/>
-    <str id="You see a doused %s." value="You see a doused %s."/>
-    <str id="You see a hidden %s." value="You see a hidden %s."/>
-    <str id="You see %s here." value="You see %s here."/>
-    <str id="You see a broken %s here." value="You see a broken %s here."/>
-    <str id="You see a defiled %s here." value="You see a defiled %s here."/>
-    <str id="You see a doused %s here." value="You see a doused %s here."/>
-    <str id="You see %s that says: %s" value="You see %s that says: %s"/>
-    <str id="You see %s leading up." value="You see %s leading up."/>
-    <str id="You see %s leading down." value="You see %s leading down."/>
-    <str id="You see %s leading up here." value="You see %s leading up here."/>
-    <str id="You see %s leading down here." value="You see %s leading down here."/>
-    <str id="You see %s and %d other items." value="You see %s and %d other items."/>
-    <str id="You see %s and %d other items here." value="You see %s and %d other items here."/>
-    <str id="You open %s." value="You open %s." local="你打开了 %s。"/>
-    <str id="You close %s." value="You close %s." local="你关闭了 %s。"/>
-    <str id="You light %s." value="You light %s." local="你点亮了 %s。"/>
-    <str id="You douse %s." value="You douse %s." local="你熄灭了 %s。"/>
-    <str id="You step on %s." value="You step on %s."/>
-    <str id="You step into %s." value="You step into %s."/>
-    <str id="You step on a hidden %s." value="You step on a hidden %s."/>
-    <str id="You step into a hidden %s." value="You step into a hidden %s."/>
-    <str id="You step on %s and fall down." value="You step on %s and fall down."/>
-    <str id="You step on a hidden %s and fall down." value="You step on a hidden %s and fall down."/>
-    <str id="You step on %s and something hits you." value="You step on %s and something hits you."/>
-    <str id="You step on a hidden %s and something hits you." value="You step on a hidden %s and something hits you."/>
-    <str id="You step on %s but nothing seems to happen." value="You step on %s but nothing seems to happen."/>
-    <str id="You step on something that feels like %s." value="You step on something that feels like %s."/>
-    <str id="You step on something that feels like a corpse." value="You step on something that feels like a corpse."/>
-    <str id="You bump into something that feels like %s." value="You bump into something that feels like %s."/>
-    <str id="You float over %s." value="You float over %s."/>
-    <str id="You float into %s." value="You float into %s."/>
-    <str id="You float into a hidden %s." value="You float into a hidden %s."/>
-    <str id="You gently float over %s." value="You gently float over %s."/>
-    <str id="You carefully avoid %s." value="You carefully avoid %s."/>
-    <str id="You carefully avoid a hidden %s." value="You carefully avoid a hidden %s."/>
-    <str id="You push %s." value="You push %s."/>
-    <str id="You fail to push %s." value="You fail to push %s."/>
-    <str id="You crank %s." value="You crank %s."/>
-    <str id="%s says: %s" value="%s says: %s"/>
-    <str id="%s is blank." value="%s is blank."/>
-    <str id="You disarm %s." value="You disarm %s."/>
-    <str id="You disarm %s into a trap kit." value="You disarm %s into a trap kit."/>
-    <str id="You fail to disarm %s." value="You fail to disarm %s."/>
-    <str id="You attempt to disarm %s but you stumble on it." value="You attempt to disarm %s but you stumble on it."/>
-    <str id="You move out of %s." value="You move out of %s."/>
-    <str id="You break free from %s." value="You break free from %s."/>
-    <str id="You climb out of %s." value="You climb out of %s."/>
-    <str id="You fail to break free from %s." value="You fail to break free from %s."/>
-    <str id="You fail to climb out of %s." value="You fail to climb out of %s."/>
-    <str id="You are too tired to break free from %s." value="You are too tired to break free from %s."/>
-    <str id="You are too tired to climb out of %s." value="You are too tired to climb out of %s."/>
-    <str id="You wonder who put this %s here." value="You wonder who put this %s here."/>
-    <str id="You wonder how this %s ended here." value="You wonder how this %s ended here."/>
-    <str id="You wonder who dug this %s here." value="You wonder who dug this %s here."/>
-    <str id="You hear alarm bells in the distance." value="You hear alarm bells in the distance."/>
-    <str id="BOULDER_FALLS_BUT_IS_CAUGHT" value="A boulder falls down from the ceiling but %s catches it before it can do any damage."/>
-    <str id="BOULDER_FALLS_PASS_THROUGH" value="A boulder falls down from the ceiling on %s but it just passes through."/>
-    <str id="BOULDER_FALLS_STEP_ASIDE" value="A boulder falls down but you step aside before being flattened."/>
-    <str id="BOULDER_FALLS_STEPS_ASIDE" value="A boulder falls down but %s steps aside before being flattened."/>
-    <str id="BOULDER_FALLS_AND_FLATTENS" value="A boulder falls down from the ceiling and flattens %s."/>
-    <str id="BOULDER_FALLS_AND_SINKS" value="A boulder falls down from the ceiling and sinks in the chasm."/>
-    <str id="BOULDER_FALLS_DOWN" value="A boulder falls down from the ceiling."/>
-    <str id="THE_BOULDER_SINKS_TILE" value="The boulder lands on %s and tears it apart before sinking in a chasm."/>
-    <str id="A_BOULDER_SINKS_TILE" value="A boulder falls down on %s and tears it apart before sinking in a chasm."/>
-    <str id="THE_BOULDER_BREAKS_TILE" value="The boulder lands on %s and breaks it."/>
-    <str id="A_BOULDER_BREAKS_TILE" value="A boulder falls down on %s and breaks it."/>
-    <str id="THE_BOULDER_SEALS_TILE" value="The boulder lands on %s and seals it shut."/>
-    <str id="A_BOULDER_SEALS_TILE" value="A boulder falls down on %s and seals it shut."/>
-    <str id="THE_BOULDER_DESTROYS_ALL" value="The boulder lands on %s and destroys everything inside."/>
-    <str id="A_BOULDER_DESTROYS_ALL" value="A boulder falls down on %s and destroys everything inside."/>
-    <str id="GATE_FALLS_PASS_THROUGH" value="A gate falls down on %s but it just passes through."/>
-    <str id="GATE_FALLS_STEP_ASIDE" value="A gate falls down but you step aside before being mangled."/>
-    <str id="GATE_FALLS_STEPS_ASIDE" value="A gate falls down but %s steps aside before being mangled."/>
-    <str id="GATE_FALLS_AND_MANGLES" value="A gate falls down mangles %s."/>
-    <str id="PICK_LOCK_SUCCESS" value="You successfully pick the lock."/>
-    <str id="PICK_LOCK_FAILURE" value="You fail to pick the lock on %s."/>
-    <str id="PICK_LOCK_TRAP_SPRUNG" value="You fail to pick the lock on %s and its trap is sprung."/>
-    <str id="PICK_LOCK_CRIT_FAILURE" value="You fail to pick the lock on %s and its tumblers reset."/>
-    <str id="BROKEN_DOOR_WONT_CLOSE" value="The door seems to be broken and it won't close."/>
-    <str id="CANT_OPEN_LOCKED_TILE" value="You try to open %s but it seems to be locked."/>
-    <str id="KICK_CRACKS_WIDE_OPEN" value="You kick %s and it cracks wide open."/>
-    <str id="KICK_CRACKS_TO_PIECES" value="You kick %s and it cracks to pieces."/>
-    <str id="KICK_TUMBLES_TO_GROUND" value="You kick %s and it tumbles to the ground."/>
-    <str id="KICK_DOESNT_BUDGE" value="You kick %s but it doesn't seem to budge."/>
-    <str id="KICK_TRIP_OVER" value="You attempt to kick %s but you trip over and hit it with your head instead."/>
-    <str id="KICK_PROPERLY_DEFILED" value="You kick %s and it is properly defiled."/>
+    <str id="You see %s." value="You see %s." local="你看见了%s。"/>
+    <str id="You see a blank %s." value="You see a blank %s." local="你看见了一个空的%s。"/>
+    <str id="You see a broken %s." value="You see a broken %s." local="你看见了一个破损的%s。"/>
+    <str id="You see a defiled %s." value="You see a defiled %s." local="你看见一个弄脏的%s。"/>
+    <str id="You see a closed %s." value="You see a closed %s." local="你看见一个关闭的%s。"/>
+    <str id="You see an empty %s." value="You see an empty %s." local="你看见一个空的%s。"/>
+    <str id="You see a lit %s." value="You see a lit %s." local="你看见一个点亮的%s。"/>
+    <str id="You see an unlit %s." value="You see an unlit %s." local="你看见一个未点亮的%s。"/>
+    <str id="You see a doused %s." value="You see a doused %s." local="你看见一个浸湿的%s。"/>
+    <str id="You see a hidden %s." value="You see a hidden %s." local="你看见一个隐藏的%s。"/>
+    <str id="You see %s here." value="You see %s here." local="你在这里看见了%s。"/>
+    <str id="You see a broken %s here." value="You see a broken %s here." local="你在这里看见了一个破损的%s。"/>
+    <str id="You see a defiled %s here." value="You see a defiled %s here." local="你在这里看见一个弄脏的%s。"/>
+    <str id="You see a doused %s here." value="You see a doused %s here." local="你在这里看见一个浸湿的%s。"/>
+    <str id="You see %s that says: %s" value="You see %s that says: %s" local="你见 %s 说道：%s"/>
+    <str id="You see %s leading up." value="You see %s leading up." local="你看见 %s 上去了。"/>
+    <str id="You see %s leading down." value="You see %s leading down." local="你看见 %s 下来了。"/>
+    <str id="You see %s leading up here." value="You see %s leading up here." local="你看见 %s 上到这里。"/>
+    <str id="You see %s leading down here." value="You see %s leading down here." local="你看见 %s 下来这里。"/>
+    <str id="You see %s and %d other items." value="You see %s and %d other items." local="你看到了 %s 以及 %d 件其它物品。"/>
+    <str id="You see %s and %d other items here." value="You see %s and %d other items here." local="你在这里看到了 %s 以及 %d 件其它物品。"/>
+    <str id="You open %s." value="You open %s." local="你打开了%s。"/>
+    <str id="You close %s." value="You close %s." local="你关闭了%s。"/>
+    <str id="You light %s." value="You light %s." local="你点亮了%s。"/>
+    <str id="You douse %s." value="You douse %s." local="你熄灭了%s。"/>
+    <str id="You step on %s." value="You step on %s." local="你踩上%s。"/>
+    <str id="You step into %s." value="You step into %s." local="你步入%s。"/>
+    <str id="You step on a hidden %s." value="You step on a hidden %s." local="你踩上一个隐藏的%s。"/>
+    <str id="You step into a hidden %s." value="You step into a hidden %s." local="你步入一个隐藏的%s。"/>
+    <str id="You step on %s and fall down." value="You step on %s and fall down." local="你踏上%s，摔了下去。"/>
+    <str id="You step on a hidden %s and fall down." value="You step on a hidden %s and fall down." local="你踏上一个隐藏的%s，摔了下去。"/>
+    <str id="You step on %s and something hits you." value="You step on %s and something hits you." local="你踏上%s，有什么东西击中了你。"/>
+    <str id="You step on a hidden %s and something hits you." value="You step on a hidden %s and something hits you." local="你踩上一个隐藏的%s，有什么东西击中了你。"/>
+    <str id="You step on %s but nothing seems to happen." value="You step on %s but nothing seems to happen." local="你踏上%s，不过什么也没有发生。"/>
+    <str id="You step on something that feels like %s." value="You step on something that feels like %s." local="你踩上了什么东西，感觉像%s。"/>
+    <str id="You step on something that feels like a corpse." value="You step on something that feels like a corpse." local="你踩到一个像尸体的东西。"/>
+    <str id="You bump into something that feels like %s." value="You bump into something that feels like %s." local="你不小心碰到了什么，感觉像%s。"/>
+    <str id="You float over %s." value="You float over %s." local="你飘过%s。"/>
+    <str id="You float into %s." value="You float into %s." local="你飘入%s。"/>
+    <str id="You float into a hidden %s." value="You float into a hidden %s." local="你飘入一个隐藏的%s。"/>
+    <str id="You gently float over %s." value="You gently float over %s." local="你轻轻的飘过%s。"/>
+    <str id="You carefully avoid %s." value="You carefully avoid %s." local="你小心翼翼地避开%s。"/>
+    <str id="You carefully avoid a hidden %s." value="You carefully avoid a hidden %s." local="你小心翼翼地避开一个隐藏的%s。"/>
+    <str id="You push %s." value="You push %s." local="你推动%s。"/>
+    <str id="You fail to push %s." value="You fail to push %s." local="你没能推动%s。"/>
+    <str id="You crank %s." value="You crank %s." local="你启动%s。"/>
+    <str id="%s says: %s" value="%s says: %s" local="%s说到：%s"/>
+    <str id="%s is blank." value="%s is blank." local="%s是空的。"/>
+    <str id="You disarm %s." value="You disarm %s." local="你解除了%s。"/>
+    <str id="You disarm %s into a trap kit." value="You disarm %s into a trap kit." local="你将%s解除得到一个陷阱包。"/>
+    <str id="You fail to disarm %s." value="You fail to disarm %s." local="你未能解除%s。"/>
+    <str id="You attempt to disarm %s but you stumble on it." value="You attempt to disarm %s but you stumble on it." local="你试着解除%s，可是却绊到了。"/>
+    <str id="You move out of %s." value="You move out of %s." local="你从%s之中脱离。"/>
+    <str id="You break free from %s." value="You break free from %s." local="你从%s之中挣脱出来。"/>
+    <str id="You climb out of %s." value="You climb out of %s." local="你爬出了%s。"/>
+    <str id="You fail to break free from %s." value="You fail to break free from %s." local="你未能从%s之中挣脱出来。"/>
+    <str id="You fail to climb out of %s." value="You fail to climb out of %s." local="你未能爬出%s。"/>
+    <str id="You are too tired to break free from %s." value="You are too tired to break free from %s." local="你太累了，无法挣脱%s。"/>
+    <str id="You are too tired to climb out of %s." value="You are too tired to climb out of %s." local="你太累了，无法爬出%s。"/>
+    <str id="You wonder who put this %s here." value="You wonder who put this %s here." local="你想知道是谁把%s放在这里的。"/>
+    <str id="You wonder how this %s ended here." value="You wonder how this %s ended here." local="你想知道这里的%s最后会怎样。"/>
+    <str id="You wonder who dug this %s here." value="You wonder who dug this %s here." local="你想知道是谁在这里把%s挖出来的。"/>
+    <str id="You hear alarm bells in the distance." value="You hear alarm bells in the distance." local="你听见了附近的警铃声。"/>
+    <str id="BOULDER_FALLS_BUT_IS_CAUGHT" value="A boulder falls down from the ceiling but %s catches it before it can do any damage." local="从天花板上落下了一块巨石，不过%s抓住了它，没有造成任何伤害。"/>
+    <str id="BOULDER_FALLS_PASS_THROUGH" value="A boulder falls down from the ceiling on %s but it just passes through." local="%s头顶的天花板上落下了一块巨石，擦身而过。"/>
+    <str id="BOULDER_FALLS_STEP_ASIDE" value="A boulder falls down but you step aside before being flattened." local="一块巨石落下，你在被砸扁前闪到了一边。"/>
+    <str id="BOULDER_FALLS_STEPS_ASIDE" value="A boulder falls down but %s steps aside before being flattened." local="一块巨石落下，%s在被砸扁前闪到了一边。"/>
+    <str id="BOULDER_FALLS_AND_FLATTENS" value="A boulder falls down from the ceiling and flattens %s." local="从天花板上落下了一块巨石，砸扁了%s。"/>
+    <str id="BOULDER_FALLS_AND_SINKS" value="A boulder falls down from the ceiling and sinks in the chasm." local="从天花板上落下了一块巨石，沉入了深坑。"/>
+    <str id="BOULDER_FALLS_DOWN" value="A boulder falls down from the ceiling." local="从天花板上落下了一块巨石。"/>
+    <str id="THE_BOULDER_SINKS_TILE" value="The boulder lands on %s and tears it apart before sinking in a chasm." local="那块巨石落在了 %s 上面，将它砸成了几块，然后沉入了深坑。"/>
+    <str id="A_BOULDER_SINKS_TILE" value="A boulder falls down on %s and tears it apart before sinking in a chasm." local="一块巨石落在了 %s 上面，将它砸成了几块，然后沉入了深坑。"/>
+    <str id="THE_BOULDER_BREAKS_TILE" value="The boulder lands on %s and breaks it." local="那块巨石落在了 %s 上面，砸坏了它。"/>
+    <str id="A_BOULDER_BREAKS_TILE" value="A boulder falls down on %s and breaks it." local="一块巨石落在了 %s 上面，砸坏了它。"/>
+    <str id="THE_BOULDER_SEALS_TILE" value="The boulder lands on %s and seals it shut." local="那块巨石落在了 %s 上面，封掉了它。"/>
+    <str id="A_BOULDER_SEALS_TILE" value="A boulder falls down on %s and seals it shut." local="一块巨石落在了 %s 上面，封掉了它。"/>
+    <str id="THE_BOULDER_DESTROYS_ALL" value="The boulder lands on %s and destroys everything inside." local="那块巨石落在了 %s 上面，摧毁了里面的一切。"/>
+    <str id="A_BOULDER_DESTROYS_ALL" value="A boulder falls down on %s and destroys everything inside." local="一块巨石落在了 %s 上面，摧毁了里面的一切。"/>
+    <str id="GATE_FALLS_PASS_THROUGH" value="A gate falls down on %s but it just passes through." local="一座闸门从 %s 头上落下，擦身而过。"/>
+    <str id="GATE_FALLS_STEP_ASIDE" value="A gate falls down but you step aside before being mangled." local="一座闸门落下，你在被砍断前躲开了。"/>
+    <str id="GATE_FALLS_STEPS_ASIDE" value="A gate falls down but %s steps aside before being mangled." local="一座闸门落下，%s在被砍断前躲开了。"/>
+    <str id="GATE_FALLS_AND_MANGLES" value="A gate falls down mangles %s." local="一座闸门落下，斩断了%s。"/>
+    <str id="PICK_LOCK_SUCCESS" value="You successfully pick the lock." local="你成功了开了锁。"/>
+    <str id="PICK_LOCK_FAILURE" value="You fail to pick the lock on %s." local="你未能打开%s上的锁。"/>
+    <str id="PICK_LOCK_TRAP_SPRUNG" value="You fail to pick the lock on %s and its trap is sprung." local="你未能打开%s上的锁，还触发了上面的机关。"/>
+    <str id="PICK_LOCK_CRIT_FAILURE" value="You fail to pick the lock on %s and its tumblers reset." local="你未能打开%s上的锁，它的齿轮重置了。"/>
+    <str id="BROKEN_DOOR_WONT_CLOSE" value="The door seems to be broken and it won't close." local="这扇门看起来坏掉了，无法再关闭。"/>
+    <str id="CANT_OPEN_LOCKED_TILE" value="You try to open %s but it seems to be locked." local="你试着打开%s，但它似乎锁上了。"/>
+    <str id="KICK_CRACKS_WIDE_OPEN" value="You kick %s and it cracks wide open." local="你踹向%s，它裂开了个大口。"/>
+    <str id="KICK_CRACKS_TO_PIECES" value="You kick %s and it cracks to pieces." local="你踹向%s，它裂成了碎片。"/>
+    <str id="KICK_TUMBLES_TO_GROUND" value="You kick %s and it tumbles to the ground." local="你踹向%s，它滚到了地上。"/>
+    <str id="KICK_DOESNT_BUDGE" value="You kick %s but it doesn't seem to budge." local="你踹向%s，它似乎纹丝不动。"/>
+    <str id="KICK_TRIP_OVER" value="You attempt to kick %s but you trip over and hit it with your head instead." local="你原本想踢%s，可是绊倒了，你的头撞了它。"/>
+    <str id="KICK_PROPERLY_DEFILED" value="You kick %s and it is properly defiled." local="你踹了%s一脚，它被弄脏了。"/>
     <str id="KICK_SPAWN_OCCUPANT" value="You kick %s but its occupant doesn't seem all that pleased."/>
     <str id="KICK_STUCK_FOR_GOOD" value="You kick %s causing it to be stuck for good."/>
     <str id="KICK_SPRINGS_BACK" value="You kick %s but it springs back and throws you on the floor."/>
@@ -3994,68 +3994,68 @@
     <str id="Select:" value="Select:" local="选择："/>
     <str id="Bind ring:" value="Bind ring:" local="绑定戒指："/>
     <str id="You can't wield that in the offhand." value="You can't wield that in the offhand." local="你不能在副手穿戴它。"/>
-    <str id="You can't swap that, it's magically bound to you!" value="You can't swap that, it's magically bound to you!"/>
-    <str id="You can sell the item by holding down the Ctrl-key." value="You can sell the item by holding down the Ctrl-key."/>
-    <str id="You can store the item by holding down the Ctrl-key." value="You can store the item by holding down the Ctrl-key."/>
-    <str id="You can sell the item by pressing the Square-button." value="You can sell the item by pressing the Square-button."/>
-    <str id="You can store the item by pressing the Square-button." value="You can store the item by pressing the Square-button."/>
-    <str id="Primary weapons equipped." value="Primary weapons equipped."/>
-    <str id="Secondary weapons equipped." value="Secondary weapons equipped."/>
-    <str id="%s can't be equipped or unequipped while in town." value="%s can't be equipped or unequipped while in town."/>
-    <str id="You can't use deadly throw with that." value="You can't use deadly throw with that."/>
-    <str id="You can't throw that, it's magically bound to you!" value="You can't throw that, it's magically bound to you!"/>
-    <str id="Select a target to throw %s at and press %s:" value="Select a target to throw %s at and press %s:"/>
-    <str id="Select a target or item to cast a %s at and press %s:" value="Select a target or item to cast a %s at and press %s:"/>
-    <str id="Select a target to cast a %s at and press %s:" value="Select a target to cast a %s at and press %s:"/>
-    <str id="Select an item to cast a %s on and press %s:" value="Select an item to cast a %s on and press %s:"/>
-    <str id="You can't seem to figure out what to do with the scroll." value="You can't seem to figure out what to do with the scroll."/>
-    <str id="Select a target or item to zap a %s at and press %s:" value="Select a target or item to zap a %s at and press %s:"/>
-    <str id="Select a target to zap a %s at and press %s:" value="Select a target to zap a %s at and press %s:"/>
-    <str id="Select an item to zap a %s on and press %s:" value="Select an item to zap a %s on and press %s:"/>
-    <str id="You can't seem to figure out what to do with the wand." value="You can't seem to figure out what to do with the wand."/>
-    <str id="You can't zap with a depleted wand." value="You can't zap with a depleted wand."/>
-    <str id="You can't seem to be able to use that at the moment." value="You can't seem to be able to use that at the moment."/>
-    <str id="Select a spell to channel through the wand." value="Select a spell to channel through the wand."/>
-    <str id="As you begin to handle %s you are interrupted." value="As you begin to handle %s you are interrupted."/>
-    <str id="Select an item to use a %s on and press %s:" value="Select an item to use a %s on and press %s:"/>
-    <str id="You can't seem to figure out what to do with the rune." value="You can't seem to figure out what to do with the rune."/>
-    <str id="You sell %s and receive a gold coin." value="You sell %s and receive a gold coin."/>
-    <str id="You sell %s and receive %d gold coins." value="You sell %s and receive %d gold coins."/>
-    <str id="You don't have enough free space to carry all the gold." value="You don't have enough free space to carry all the gold."/>
-    <str id="The merchant is not interested to buy those." value="The merchant is not interested to buy those."/>
-    <str id="The merchant is not interested to buy that." value="The merchant is not interested to buy that."/>
-    <str id="The merchant doesn't have free space for that at the moment." value="The merchant doesn't have free space for that at the moment."/>
-    <str id="%s can't be sold while it is equipped." value="%s can't be sold while it is equipped."/>
-    <str id="The merchant is not interested in unidentified items." value="The merchant is not interested in unidentified items."/>
-    <str id="%s is repaired for %d gold coins." value="%s is repaired for %d gold coins."/>
-    <str id="You can't afford to repair %s." value="You can't afford to repair %s."/>
-    <str id="Those %s are already in perfect condition." value="Those %s are already in perfect condition."/>
-    <str id="%s is already in perfect condition." value="%s is already in perfect condition."/>
-    <str id="You can't repair %s." value="You can't repair %s."/>
-    <str id="You pay %d gold coins and your %s is identified as %s." value="You pay %d gold coins and your %s is identified as %s."/>
-    <str id="You can't afford to identify %s." value="You can't afford to identify %s."/>
-    <str id="Those %s are already identified." value="Those %s are already identified."/>
-    <str id="%s is already identified." value="%s is already identified."/>
-    <str id="You swipe your Black Meistercard and get to choose an enchant for the item." value="You swipe your Black Meistercard and get to choose an enchant for the item."/>
-    <str id="You swipe your Black Meistercard and the item is enchanted as %s." value="You swipe your Black Meistercard and the item is enchanted as %s."/>
-    <str id="You pay %d gold coins and you get to choose an enchant for the item." value="You pay %d gold coins and you get to choose an enchant for the item."/>
-    <str id="You pay %d gold coins and the item is enchanted as %s." value="You pay %d gold coins and the item is enchanted as %s."/>
-    <str id="%s is enchanted for %d gold coins." value="%s is enchanted for %d gold coins."/>
-    <str id="You can't afford to enchant %s." value="You can't afford to enchant %s."/>
-    <str id="Those %s cannot be enchanted." value="Those %s cannot be enchanted."/>
-    <str id="%s cannot be enchanted." value="%s cannot be enchanted."/>
-    <str id="You give %s to a clerk and %d gold coins are added to your ledger (%d)." value="You give %s to a clerk and %d gold coins are added to your ledger (%d)."/>
-    <str id="You give %s to a clerk to be stored for later use (%d)." value="You give %s to a clerk to be stored for later use (%d)."/>
-    <str id="You can't store those %s here." value="You can't store those %s here."/>
-    <str id="You can't store %s here." value="You can't store %s here."/>
-    <str id="You attempt to donate a charm to the Artisans' Guild and they identify it for you." value="You attempt to donate a charm to the Artisans' Guild and they identify it for you."/>
-    <str id="You donate %s to the Artisans' Guild." value="You donate %s to the Artisans' Guild."/>
-    <str id="You can't donate those %s here." value="You can't donate those %s here."/>
-    <str id="You can't donate %s here." value="You can't donate %s here."/>
-    <str id="You can't bind %s on %s." value="You can't bind %s on %s."/>
-    <str id="You bind %s on %s." value="You bind %s on %s."/>
-    <str id="You don't have enough free hands to equip that." value="You don't have enough free hands to equip that."/>
-    <str id="You don't have enough free space to unequip your %s." value="You don't have enough free space to unequip your %s."/>
+    <str id="You can't swap that, it's magically bound to you!" value="You can't swap that, it's magically bound to you!" local="你无法交换，它和你魔法绑定了！"/>
+    <str id="You can sell the item by holding down the Ctrl-key." value="You can sell the item by holding down the Ctrl-key." local="你可以按住 Ctrl 键来卖掉物品。"/>
+    <str id="You can store the item by holding down the Ctrl-key." value="You can store the item by holding down the Ctrl-key." local="你可以按住 Ctrl 键来储存物品。"/>
+    <str id="You can sell the item by pressing the Square-button." value="You can sell the item by pressing the Square-button." local="你可以按方块键卖掉物品。"/>
+    <str id="You can store the item by pressing the Square-button." value="You can store the item by pressing the Square-button." local="你可以按方块键储存物品。"/>
+    <str id="Primary weapons equipped." value="Primary weapons equipped." local="装备了主要武器。"/>
+    <str id="Secondary weapons equipped." value="Secondary weapons equipped." local="装备了次要武器。"/>
+    <str id="%s can't be equipped or unequipped while in town." value="%s can't be equipped or unequipped while in town." local="%s 不能在城镇里装备或卸下。"/>
+    <str id="You can't use deadly throw with that." value="You can't use deadly throw with that." local="你不能用那个进行死亡投掷。"/>
+    <str id="You can't throw that, it's magically bound to you!" value="You can't throw that, it's magically bound to you!" local="你不能投掷它，它和你魔法绑定了！"/>
+    <str id="Select a target to throw %s at and press %s:" value="Select a target to throw %s at and press %s:" local="选择一个投掷 %s 的目标，按下 %s 确认："/>
+    <str id="Select a target or item to cast a %s at and press %s:" value="Select a target or item to cast a %s at and press %s:" local="选择释放 %s 的目标或针对的物品，按下 %s 确认："/>
+    <str id="Select a target to cast a %s at and press %s:" value="Select a target to cast a %s at and press %s:" local="选择释放 %s 的目标，然后按下 %s ："/>
+    <str id="Select an item to cast a %s on and press %s:" value="Select an item to cast a %s on and press %s:" local="选择释放 %s 针对的物品，然后按下 %s ："/>
+    <str id="You can't seem to figure out what to do with the scroll." value="You can't seem to figure out what to do with the scroll." local="你似乎不知道怎么卷轴该怎么用。"/>
+    <str id="Select a target or item to zap a %s at and press %s:" value="Select a target or item to zap a %s at and press %s:" local="选择一个目标或物品，对其放出 %s ，按下 %s 确认："/>
+    <str id="Select a target to zap a %s at and press %s:" value="Select a target to zap a %s at and press %s:" local="选择一个目标，对其放出 %s ，然后按下 %s ："/>
+    <str id="Select an item to zap a %s on and press %s:" value="Select an item to zap a %s on and press %s:" local="选择一件物品，对其放出 %s ，然后按下 %s ："/>
+    <str id="You can't seem to figure out what to do with the wand." value="You can't seem to figure out what to do with the wand." local="你似乎不知道怎么魔杖该怎么用。"/>
+    <str id="You can't zap with a depleted wand." value="You can't zap with a depleted wand." local="你不能用耗尽的魔杖施法。"/>
+    <str id="You can't seem to be able to use that at the moment." value="You can't seem to be able to use that at the moment." local="你现在似乎不知道这个该怎么用。"/>
+    <str id="Select a spell to channel through the wand." value="Select a spell to channel through the wand." local="选择一个法术通过魔杖通导。"/>
+    <str id="As you begin to handle %s you are interrupted." value="As you begin to handle %s you are interrupted." local="当你开始操作 %s 时，你被打断了。"/>
+    <str id="Select an item to use a %s on and press %s:" value="Select an item to use a %s on and press %s:" local="选择一个物品，对其使用 %s ，按下 %s 确认："/>
+    <str id="You can't seem to figure out what to do with the rune." value="You can't seem to figure out what to do with the rune." local="你似乎不知道该怎么使用符石。"/>
+    <str id="You sell %s and receive a gold coin." value="You sell %s and receive a gold coin." local="你把 %s 卖掉了，得到了一个金币。"/>
+    <str id="You sell %s and receive %d gold coins." value="You sell %s and receive %d gold coins." local="你把 %s 卖掉了，得到了 %d 个金币。"/>
+    <str id="You don't have enough free space to carry all the gold." value="You don't have enough free space to carry all the gold." local="你没有足够的空间接收所有的金币。"/>
+    <str id="The merchant is not interested to buy those." value="The merchant is not interested to buy those." local="商人对购买那些东西没有兴趣。"/>
+    <str id="The merchant is not interested to buy that." value="The merchant is not interested to buy that." local="商人对购买那个东西没有兴趣。"/>
+    <str id="The merchant doesn't have free space for that at the moment." value="The merchant doesn't have free space for that at the moment." local="商人目前没有空间。"/>
+    <str id="%s can't be sold while it is equipped." value="%s can't be sold while it is equipped." local="%s 在装备中，所有无法售卖。"/>
+    <str id="The merchant is not interested in unidentified items." value="The merchant is not interested in unidentified items." local="商人对未鉴定的物品没有兴趣。"/>
+    <str id="%s is repaired for %d gold coins." value="%s is repaired for %d gold coins." local="%s 修好了，你支付了 %d 个金币。"/>
+    <str id="You can't afford to repair %s." value="You can't afford to repair %s." local="你修不起 %s 。"/>
+    <str id="Those %s are already in perfect condition." value="Those %s are already in perfect condition." local="那些 %s 已经是最佳状态。"/>
+    <str id="%s is already in perfect condition." value="%s is already in perfect condition." local="%s 在最佳状态。"/>
+    <str id="You can't repair %s." value="You can't repair %s." local="你无法修理 %s 。"/>
+    <str id="You pay %d gold coins and your %s is identified as %s." value="You pay %d gold coins and your %s is identified as %s." local="你支付了 %d 个金币，你的 %s 被鉴定为 %s 。"/>
+    <str id="You can't afford to identify %s." value="You can't afford to identify %s." local="你鉴定不起 %s 。"/>
+    <str id="Those %s are already identified." value="Those %s are already identified." local="那些 %s 已经被鉴定过了。"/>
+    <str id="%s is already identified." value="%s is already identified." local="%s 已经被鉴定过了。"/>
+    <str id="You swipe your Black Meistercard and get to choose an enchant for the item." value="You swipe your Black Meistercard and get to choose an enchant for the item." local="你刷了你的黑卡，开始为这个物品选择一项附魔。"/>
+    <str id="You swipe your Black Meistercard and the item is enchanted as %s." value="You swipe your Black Meistercard and the item is enchanted as %s." local="你刷了你的黑卡，这个物品被附上 %s 。"/>
+    <str id="You pay %d gold coins and you get to choose an enchant for the item." value="You pay %d gold coins and you get to choose an enchant for the item." local="你支付了 %d 个金币，开始为这个物品选择一项附魔。"/>
+    <str id="You pay %d gold coins and the item is enchanted as %s." value="You pay %d gold coins and the item is enchanted as %s." local="你支付了 %d 个金币，这个物品被附上 %s 。"/>
+    <str id="%s is enchanted for %d gold coins." value="%s is enchanted for %d gold coins." local="%s 被附魔了，支付 %d 个金币。"/>
+    <str id="You can't afford to enchant %s." value="You can't afford to enchant %s." local="附魔 %s 的钱，你支付不起。"/>
+    <str id="Those %s cannot be enchanted." value="Those %s cannot be enchanted." local="那些 %s 无法被附魔。"/>
+    <str id="%s cannot be enchanted." value="%s cannot be enchanted." local="%s 无法被附魔。"/>
+    <str id="You give %s to a clerk and %d gold coins are added to your ledger (%d)." value="You give %s to a clerk and %d gold coins are added to your ledger (%d)." local="你把 %s 交给店员，你的账户上多了 %d 个金币（%d）。"/>
+    <str id="You give %s to a clerk to be stored for later use (%d)." value="You give %s to a clerk to be stored for later use (%d)." local="你把 %s 交给店员存放起来共日后使用（%d）。"/>
+    <str id="You can't store those %s here." value="You can't store those %s here." local="你无法把那些 %s 存放在这里。"/>
+    <str id="You can't store %s here." value="You can't store %s here." local="你无法把 %s 存放在这里。"/>
+    <str id="You attempt to donate a charm to the Artisans' Guild and they identify it for you." value="You attempt to donate a charm to the Artisans' Guild and they identify it for you." local="你试着向工匠行会捐赠一件饰品，他们帮你做了鉴定。"/>
+    <str id="You donate %s to the Artisans' Guild." value="You donate %s to the Artisans' Guild." local="你把 %s 捐赠给工匠行会。"/>
+    <str id="You can't donate those %s here." value="You can't donate those %s here." local="你无法捐赠那些 %s 。"/>
+    <str id="You can't donate %s here." value="You can't donate %s here." local="你无法捐赠 %s 。"/>
+    <str id="You can't bind %s on %s." value="You can't bind %s on %s." local="你无法将 %s 绑定到 %s 上面。"/>
+    <str id="You bind %s on %s." value="You bind %s on %s." local="你将 %s 绑定到 %s 上面。"/>
+    <str id="You don't have enough free hands to equip that." value="You don't have enough free hands to equip that." local="你没有空出来的手装备它。"/>
+    <str id="You don't have enough free space to unequip your %s." value="You don't have enough free space to unequip your %s." local="你没有地方放置卸下的 %s 。"/>
   </InventoryWindow>
   <SpellbookWindow>
     <str id="Spellbook" value="Spellbook" local="法术书"/>

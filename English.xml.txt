@@ -2654,100 +2654,100 @@ TileNames."a water chasm" 一个深水峡谷
 TileNames."the water chasm" 这个深水峡谷
 TileNames."something icky" 讨厌的东西
 TileNames."something squishy" 黏糊糊的东西
-TileLogs."You see %s." You see %s.
-TileLogs."You see a blank %s." You see a blank %s.
-TileLogs."You see a broken %s." You see a broken %s.
-TileLogs."You see a defiled %s." You see a defiled %s.
-TileLogs."You see a closed %s." You see a closed %s.
-TileLogs."You see an empty %s." You see an empty %s.
-TileLogs."You see a lit %s." You see a lit %s.
-TileLogs."You see an unlit %s." You see an unlit %s.
-TileLogs."You see a doused %s." You see a doused %s.
-TileLogs."You see a hidden %s." You see a hidden %s.
-TileLogs."You see %s here." You see %s here.
-TileLogs."You see a broken %s here." You see a broken %s here.
-TileLogs."You see a defiled %s here." You see a defiled %s here.
-TileLogs."You see a doused %s here." You see a doused %s here.
-TileLogs."You see %s that says: %s" You see %s that says: %s
-TileLogs."You see %s leading up." You see %s leading up.
-TileLogs."You see %s leading down." You see %s leading down.
-TileLogs."You see %s leading up here." You see %s leading up here.
-TileLogs."You see %s leading down here." You see %s leading down here.
-TileLogs."You see %s and %d other items." You see %s and %d other items.
-TileLogs."You see %s and %d other items here." You see %s and %d other items here.
-TileLogs."You open %s." 你打开了 %s。
-TileLogs."You close %s." 你关闭了 %s。
-TileLogs."You light %s." 你点亮了 %s。
-TileLogs."You douse %s." 你熄灭了 %s。
-TileLogs."You step on %s." You step on %s.
-TileLogs."You step into %s." You step into %s.
-TileLogs."You step on a hidden %s." You step on a hidden %s.
-TileLogs."You step into a hidden %s." You step into a hidden %s.
-TileLogs."You step on %s and fall down." You step on %s and fall down.
-TileLogs."You step on a hidden %s and fall down." You step on a hidden %s and fall down.
-TileLogs."You step on %s and something hits you." You step on %s and something hits you.
-TileLogs."You step on a hidden %s and something hits you." You step on a hidden %s and something hits you.
-TileLogs."You step on %s but nothing seems to happen." You step on %s but nothing seems to happen.
-TileLogs."You step on something that feels like %s." You step on something that feels like %s.
-TileLogs."You step on something that feels like a corpse." You step on something that feels like a corpse.
-TileLogs."You bump into something that feels like %s." You bump into something that feels like %s.
-TileLogs."You float over %s." You float over %s.
-TileLogs."You float into %s." You float into %s.
-TileLogs."You float into a hidden %s." You float into a hidden %s.
-TileLogs."You gently float over %s." You gently float over %s.
-TileLogs."You carefully avoid %s." You carefully avoid %s.
-TileLogs."You carefully avoid a hidden %s." You carefully avoid a hidden %s.
-TileLogs."You push %s." You push %s.
-TileLogs."You fail to push %s." You fail to push %s.
-TileLogs."You crank %s." You crank %s.
-TileLogs."%s says: %s" %s says: %s
-TileLogs."%s is blank." %s is blank.
-TileLogs."You disarm %s." You disarm %s.
-TileLogs."You disarm %s into a trap kit." You disarm %s into a trap kit.
-TileLogs."You fail to disarm %s." You fail to disarm %s.
-TileLogs."You attempt to disarm %s but you stumble on it." You attempt to disarm %s but you stumble on it.
-TileLogs."You move out of %s." You move out of %s.
-TileLogs."You break free from %s." You break free from %s.
-TileLogs."You climb out of %s." You climb out of %s.
-TileLogs."You fail to break free from %s." You fail to break free from %s.
-TileLogs."You fail to climb out of %s." You fail to climb out of %s.
-TileLogs."You are too tired to break free from %s." You are too tired to break free from %s.
-TileLogs."You are too tired to climb out of %s." You are too tired to climb out of %s.
-TileLogs."You wonder who put this %s here." You wonder who put this %s here.
-TileLogs."You wonder how this %s ended here." You wonder how this %s ended here.
-TileLogs."You wonder who dug this %s here." You wonder who dug this %s here.
-TileLogs."You hear alarm bells in the distance." You hear alarm bells in the distance.
-TileLogs."BOULDER_FALLS_BUT_IS_CAUGHT" A boulder falls down from the ceiling but %s catches it before it can do any damage.
-TileLogs."BOULDER_FALLS_PASS_THROUGH" A boulder falls down from the ceiling on %s but it just passes through.
-TileLogs."BOULDER_FALLS_STEP_ASIDE" A boulder falls down but you step aside before being flattened.
-TileLogs."BOULDER_FALLS_STEPS_ASIDE" A boulder falls down but %s steps aside before being flattened.
-TileLogs."BOULDER_FALLS_AND_FLATTENS" A boulder falls down from the ceiling and flattens %s.
-TileLogs."BOULDER_FALLS_AND_SINKS" A boulder falls down from the ceiling and sinks in the chasm.
-TileLogs."BOULDER_FALLS_DOWN" A boulder falls down from the ceiling.
-TileLogs."THE_BOULDER_SINKS_TILE" The boulder lands on %s and tears it apart before sinking in a chasm.
-TileLogs."A_BOULDER_SINKS_TILE" A boulder falls down on %s and tears it apart before sinking in a chasm.
-TileLogs."THE_BOULDER_BREAKS_TILE" The boulder lands on %s and breaks it.
-TileLogs."A_BOULDER_BREAKS_TILE" A boulder falls down on %s and breaks it.
-TileLogs."THE_BOULDER_SEALS_TILE" The boulder lands on %s and seals it shut.
-TileLogs."A_BOULDER_SEALS_TILE" A boulder falls down on %s and seals it shut.
-TileLogs."THE_BOULDER_DESTROYS_ALL" The boulder lands on %s and destroys everything inside.
-TileLogs."A_BOULDER_DESTROYS_ALL" A boulder falls down on %s and destroys everything inside.
-TileLogs."GATE_FALLS_PASS_THROUGH" A gate falls down on %s but it just passes through.
-TileLogs."GATE_FALLS_STEP_ASIDE" A gate falls down but you step aside before being mangled.
-TileLogs."GATE_FALLS_STEPS_ASIDE" A gate falls down but %s steps aside before being mangled.
-TileLogs."GATE_FALLS_AND_MANGLES" A gate falls down mangles %s.
-TileLogs."PICK_LOCK_SUCCESS" You successfully pick the lock.
-TileLogs."PICK_LOCK_FAILURE" You fail to pick the lock on %s.
-TileLogs."PICK_LOCK_TRAP_SPRUNG" You fail to pick the lock on %s and its trap is sprung.
-TileLogs."PICK_LOCK_CRIT_FAILURE" You fail to pick the lock on %s and its tumblers reset.
-TileLogs."BROKEN_DOOR_WONT_CLOSE" The door seems to be broken and it won't close.
-TileLogs."CANT_OPEN_LOCKED_TILE" You try to open %s but it seems to be locked.
-TileLogs."KICK_CRACKS_WIDE_OPEN" You kick %s and it cracks wide open.
-TileLogs."KICK_CRACKS_TO_PIECES" You kick %s and it cracks to pieces.
-TileLogs."KICK_TUMBLES_TO_GROUND" You kick %s and it tumbles to the ground.
-TileLogs."KICK_DOESNT_BUDGE" You kick %s but it doesn't seem to budge.
-TileLogs."KICK_TRIP_OVER" You attempt to kick %s but you trip over and hit it with your head instead.
-TileLogs."KICK_PROPERLY_DEFILED" You kick %s and it is properly defiled.
+TileLogs."You see %s." 你看见了%s。
+TileLogs."You see a blank %s." 你看见了一个空的%s。
+TileLogs."You see a broken %s." 你看见了一个破损的%s。
+TileLogs."You see a defiled %s." 你看见一个弄脏的%s。
+TileLogs."You see a closed %s." 你看见一个关闭的%s。
+TileLogs."You see an empty %s." 你看见一个空的%s。
+TileLogs."You see a lit %s." 你看见一个点亮的%s。
+TileLogs."You see an unlit %s." 你看见一个未点亮的%s。
+TileLogs."You see a doused %s." 你看见一个浸湿的%s。
+TileLogs."You see a hidden %s." 你看见一个隐藏的%s。
+TileLogs."You see %s here." 你在这里看见了%s。
+TileLogs."You see a broken %s here." 你在这里看见了一个破损的%s。
+TileLogs."You see a defiled %s here." 你在这里看见一个弄脏的%s。
+TileLogs."You see a doused %s here." 你在这里看见一个浸湿的%s。
+TileLogs."You see %s that says: %s" 你见 %s 说道：%s
+TileLogs."You see %s leading up." 你看见 %s 上去了。
+TileLogs."You see %s leading down." 你看见 %s 下来了。
+TileLogs."You see %s leading up here." 你看见 %s 上到这里。
+TileLogs."You see %s leading down here." 你看见 %s 下来这里。
+TileLogs."You see %s and %d other items." 你看到了 %s 以及 %d 件其它物品。
+TileLogs."You see %s and %d other items here." 你在这里看到了 %s 以及 %d 件其它物品。
+TileLogs."You open %s." 你打开了%s。
+TileLogs."You close %s." 你关闭了%s。
+TileLogs."You light %s." 你点亮了%s。
+TileLogs."You douse %s." 你熄灭了%s。
+TileLogs."You step on %s." 你踩上%s。
+TileLogs."You step into %s." 你步入%s。
+TileLogs."You step on a hidden %s." 你踩上一个隐藏的%s。
+TileLogs."You step into a hidden %s." 你步入一个隐藏的%s。
+TileLogs."You step on %s and fall down." 你踏上%s，摔了下去。
+TileLogs."You step on a hidden %s and fall down." 你踏上一个隐藏的%s，摔了下去。
+TileLogs."You step on %s and something hits you." 你踏上%s，有什么东西击中了你。
+TileLogs."You step on a hidden %s and something hits you." 你踩上一个隐藏的%s，有什么东西击中了你。
+TileLogs."You step on %s but nothing seems to happen." 你踏上%s，不过什么也没有发生。
+TileLogs."You step on something that feels like %s." 你踩上了什么东西，感觉像%s。
+TileLogs."You step on something that feels like a corpse." 你踩到一个像尸体的东西。
+TileLogs."You bump into something that feels like %s." 你不小心碰到了什么，感觉像%s。
+TileLogs."You float over %s." 你飘过%s。
+TileLogs."You float into %s." 你飘入%s。
+TileLogs."You float into a hidden %s." 你飘入一个隐藏的%s。
+TileLogs."You gently float over %s." 你轻轻的飘过%s。
+TileLogs."You carefully avoid %s." 你小心翼翼地避开%s。
+TileLogs."You carefully avoid a hidden %s." 你小心翼翼地避开一个隐藏的%s。
+TileLogs."You push %s." 你推动%s。
+TileLogs."You fail to push %s." 你没能推动%s。
+TileLogs."You crank %s." 你启动%s。
+TileLogs."%s says: %s" %s说到：%s
+TileLogs."%s is blank." %s是空的。
+TileLogs."You disarm %s." 你解除了%s。
+TileLogs."You disarm %s into a trap kit." 你将%s解除得到一个陷阱包。
+TileLogs."You fail to disarm %s." 你未能解除%s。
+TileLogs."You attempt to disarm %s but you stumble on it." 你试着解除%s，可是却绊到了。
+TileLogs."You move out of %s." 你从%s之中脱离。
+TileLogs."You break free from %s." 你从%s之中挣脱出来。
+TileLogs."You climb out of %s." 你爬出了%s。
+TileLogs."You fail to break free from %s." 你未能从%s之中挣脱出来。
+TileLogs."You fail to climb out of %s." 你未能爬出%s。
+TileLogs."You are too tired to break free from %s." 你太累了，无法挣脱%s。
+TileLogs."You are too tired to climb out of %s." 你太累了，无法爬出%s。
+TileLogs."You wonder who put this %s here." 你想知道是谁把%s放在这里的。
+TileLogs."You wonder how this %s ended here." 你想知道这里的%s最后会怎样。
+TileLogs."You wonder who dug this %s here." 你想知道是谁在这里把%s挖出来的。
+TileLogs."You hear alarm bells in the distance." 你听见了附近的警铃声。
+TileLogs."BOULDER_FALLS_BUT_IS_CAUGHT" 从天花板上落下了一块巨石，不过%s抓住了它，没有造成任何伤害。
+TileLogs."BOULDER_FALLS_PASS_THROUGH" %s头顶的天花板上落下了一块巨石，擦身而过。
+TileLogs."BOULDER_FALLS_STEP_ASIDE" 一块巨石落下，你在被砸扁前闪到了一边。
+TileLogs."BOULDER_FALLS_STEPS_ASIDE" 一块巨石落下，%s在被砸扁前闪到了一边。
+TileLogs."BOULDER_FALLS_AND_FLATTENS" 从天花板上落下了一块巨石，砸扁了%s。
+TileLogs."BOULDER_FALLS_AND_SINKS" 从天花板上落下了一块巨石，沉入了深坑。
+TileLogs."BOULDER_FALLS_DOWN" 从天花板上落下了一块巨石。
+TileLogs."THE_BOULDER_SINKS_TILE" 那块巨石落在了 %s 上面，将它砸成了几块，然后沉入了深坑。
+TileLogs."A_BOULDER_SINKS_TILE" 一块巨石落在了 %s 上面，将它砸成了几块，然后沉入了深坑。
+TileLogs."THE_BOULDER_BREAKS_TILE" 那块巨石落在了 %s 上面，砸坏了它。
+TileLogs."A_BOULDER_BREAKS_TILE" 一块巨石落在了 %s 上面，砸坏了它。
+TileLogs."THE_BOULDER_SEALS_TILE" 那块巨石落在了 %s 上面，封掉了它。
+TileLogs."A_BOULDER_SEALS_TILE" 一块巨石落在了 %s 上面，封掉了它。
+TileLogs."THE_BOULDER_DESTROYS_ALL" 那块巨石落在了 %s 上面，摧毁了里面的一切。
+TileLogs."A_BOULDER_DESTROYS_ALL" 一块巨石落在了 %s 上面，摧毁了里面的一切。
+TileLogs."GATE_FALLS_PASS_THROUGH" 一座闸门从 %s 头上落下，擦身而过。
+TileLogs."GATE_FALLS_STEP_ASIDE" 一座闸门落下，你在被砍断前躲开了。
+TileLogs."GATE_FALLS_STEPS_ASIDE" 一座闸门落下，%s在被砍断前躲开了。
+TileLogs."GATE_FALLS_AND_MANGLES" 一座闸门落下，斩断了%s。
+TileLogs."PICK_LOCK_SUCCESS" 你成功了开了锁。
+TileLogs."PICK_LOCK_FAILURE" 你未能打开%s上的锁。
+TileLogs."PICK_LOCK_TRAP_SPRUNG" 你未能打开%s上的锁，还触发了上面的机关。
+TileLogs."PICK_LOCK_CRIT_FAILURE" 你未能打开%s上的锁，它的齿轮重置了。
+TileLogs."BROKEN_DOOR_WONT_CLOSE" 这扇门看起来坏掉了，无法再关闭。
+TileLogs."CANT_OPEN_LOCKED_TILE" 你试着打开%s，但它似乎锁上了。
+TileLogs."KICK_CRACKS_WIDE_OPEN" 你踹向%s，它裂开了个大口。
+TileLogs."KICK_CRACKS_TO_PIECES" 你踹向%s，它裂成了碎片。
+TileLogs."KICK_TUMBLES_TO_GROUND" 你踹向%s，它滚到了地上。
+TileLogs."KICK_DOESNT_BUDGE" 你踹向%s，它似乎纹丝不动。
+TileLogs."KICK_TRIP_OVER" 你原本想踢%s，可是绊倒了，你的头撞了它。
+TileLogs."KICK_PROPERLY_DEFILED" 你踹了%s一脚，它被弄脏了。
 TileLogs."KICK_SPAWN_OCCUPANT" You kick %s but its occupant doesn't seem all that pleased.
 TileLogs."KICK_STUCK_FOR_GOOD" You kick %s causing it to be stuck for good.
 TileLogs."KICK_SPRINGS_BACK" You kick %s but it springs back and throws you on the floor.
@@ -3617,68 +3617,68 @@ InventoryWindow."Store:" 存储：
 InventoryWindow."Select:" 选择：
 InventoryWindow."Bind ring:" 绑定戒指：
 InventoryWindow."You can't wield that in the offhand." 你不能在副手穿戴它。
-InventoryWindow."You can't swap that, it's magically bound to you!" You can't swap that, it's magically bound to you!
-InventoryWindow."You can sell the item by holding down the Ctrl-key." You can sell the item by holding down the Ctrl-key.
-InventoryWindow."You can store the item by holding down the Ctrl-key." You can store the item by holding down the Ctrl-key.
-InventoryWindow."You can sell the item by pressing the Square-button." You can sell the item by pressing the Square-button.
-InventoryWindow."You can store the item by pressing the Square-button." You can store the item by pressing the Square-button.
-InventoryWindow."Primary weapons equipped." Primary weapons equipped.
-InventoryWindow."Secondary weapons equipped." Secondary weapons equipped.
-InventoryWindow."%s can't be equipped or unequipped while in town." %s can't be equipped or unequipped while in town.
-InventoryWindow."You can't use deadly throw with that." You can't use deadly throw with that.
-InventoryWindow."You can't throw that, it's magically bound to you!" You can't throw that, it's magically bound to you!
-InventoryWindow."Select a target to throw %s at and press %s:" Select a target to throw %s at and press %s:
-InventoryWindow."Select a target or item to cast a %s at and press %s:" Select a target or item to cast a %s at and press %s:
-InventoryWindow."Select a target to cast a %s at and press %s:" Select a target to cast a %s at and press %s:
-InventoryWindow."Select an item to cast a %s on and press %s:" Select an item to cast a %s on and press %s:
-InventoryWindow."You can't seem to figure out what to do with the scroll." You can't seem to figure out what to do with the scroll.
-InventoryWindow."Select a target or item to zap a %s at and press %s:" Select a target or item to zap a %s at and press %s:
-InventoryWindow."Select a target to zap a %s at and press %s:" Select a target to zap a %s at and press %s:
-InventoryWindow."Select an item to zap a %s on and press %s:" Select an item to zap a %s on and press %s:
-InventoryWindow."You can't seem to figure out what to do with the wand." You can't seem to figure out what to do with the wand.
-InventoryWindow."You can't zap with a depleted wand." You can't zap with a depleted wand.
-InventoryWindow."You can't seem to be able to use that at the moment." You can't seem to be able to use that at the moment.
-InventoryWindow."Select a spell to channel through the wand." Select a spell to channel through the wand.
-InventoryWindow."As you begin to handle %s you are interrupted." As you begin to handle %s you are interrupted.
-InventoryWindow."Select an item to use a %s on and press %s:" Select an item to use a %s on and press %s:
-InventoryWindow."You can't seem to figure out what to do with the rune." You can't seem to figure out what to do with the rune.
-InventoryWindow."You sell %s and receive a gold coin." You sell %s and receive a gold coin.
-InventoryWindow."You sell %s and receive %d gold coins." You sell %s and receive %d gold coins.
-InventoryWindow."You don't have enough free space to carry all the gold." You don't have enough free space to carry all the gold.
-InventoryWindow."The merchant is not interested to buy those." The merchant is not interested to buy those.
-InventoryWindow."The merchant is not interested to buy that." The merchant is not interested to buy that.
-InventoryWindow."The merchant doesn't have free space for that at the moment." The merchant doesn't have free space for that at the moment.
-InventoryWindow."%s can't be sold while it is equipped." %s can't be sold while it is equipped.
-InventoryWindow."The merchant is not interested in unidentified items." The merchant is not interested in unidentified items.
-InventoryWindow."%s is repaired for %d gold coins." %s is repaired for %d gold coins.
-InventoryWindow."You can't afford to repair %s." You can't afford to repair %s.
-InventoryWindow."Those %s are already in perfect condition." Those %s are already in perfect condition.
-InventoryWindow."%s is already in perfect condition." %s is already in perfect condition.
-InventoryWindow."You can't repair %s." You can't repair %s.
-InventoryWindow."You pay %d gold coins and your %s is identified as %s." You pay %d gold coins and your %s is identified as %s.
-InventoryWindow."You can't afford to identify %s." You can't afford to identify %s.
-InventoryWindow."Those %s are already identified." Those %s are already identified.
-InventoryWindow."%s is already identified." %s is already identified.
-InventoryWindow."You swipe your Black Meistercard and get to choose an enchant for the item." You swipe your Black Meistercard and get to choose an enchant for the item.
-InventoryWindow."You swipe your Black Meistercard and the item is enchanted as %s." You swipe your Black Meistercard and the item is enchanted as %s.
-InventoryWindow."You pay %d gold coins and you get to choose an enchant for the item." You pay %d gold coins and you get to choose an enchant for the item.
-InventoryWindow."You pay %d gold coins and the item is enchanted as %s." You pay %d gold coins and the item is enchanted as %s.
-InventoryWindow."%s is enchanted for %d gold coins." %s is enchanted for %d gold coins.
-InventoryWindow."You can't afford to enchant %s." You can't afford to enchant %s.
-InventoryWindow."Those %s cannot be enchanted." Those %s cannot be enchanted.
-InventoryWindow."%s cannot be enchanted." %s cannot be enchanted.
-InventoryWindow."You give %s to a clerk and %d gold coins are added to your ledger (%d)." You give %s to a clerk and %d gold coins are added to your ledger (%d).
-InventoryWindow."You give %s to a clerk to be stored for later use (%d)." You give %s to a clerk to be stored for later use (%d).
-InventoryWindow."You can't store those %s here." You can't store those %s here.
-InventoryWindow."You can't store %s here." You can't store %s here.
-InventoryWindow."You attempt to donate a charm to the Artisans' Guild and they identify it for you." You attempt to donate a charm to the Artisans' Guild and they identify it for you.
-InventoryWindow."You donate %s to the Artisans' Guild." You donate %s to the Artisans' Guild.
-InventoryWindow."You can't donate those %s here." You can't donate those %s here.
-InventoryWindow."You can't donate %s here." You can't donate %s here.
-InventoryWindow."You can't bind %s on %s." You can't bind %s on %s.
-InventoryWindow."You bind %s on %s." You bind %s on %s.
-InventoryWindow."You don't have enough free hands to equip that." You don't have enough free hands to equip that.
-InventoryWindow."You don't have enough free space to unequip your %s." You don't have enough free space to unequip your %s.
+InventoryWindow."You can't swap that, it's magically bound to you!" 你无法交换，它和你魔法绑定了！
+InventoryWindow."You can sell the item by holding down the Ctrl-key." 你可以按住 Ctrl 键来卖掉物品。
+InventoryWindow."You can store the item by holding down the Ctrl-key." 你可以按住 Ctrl 键来储存物品。
+InventoryWindow."You can sell the item by pressing the Square-button." 你可以按方块键卖掉物品。
+InventoryWindow."You can store the item by pressing the Square-button." 你可以按方块键储存物品。
+InventoryWindow."Primary weapons equipped." 装备了主要武器。
+InventoryWindow."Secondary weapons equipped." 装备了次要武器。
+InventoryWindow."%s can't be equipped or unequipped while in town." %s 不能在城镇里装备或卸下。
+InventoryWindow."You can't use deadly throw with that." 你不能用那个进行死亡投掷。
+InventoryWindow."You can't throw that, it's magically bound to you!" 你不能投掷它，它和你魔法绑定了！
+InventoryWindow."Select a target to throw %s at and press %s:" 选择一个投掷 %s 的目标，按下 %s 确认：
+InventoryWindow."Select a target or item to cast a %s at and press %s:" 选择释放 %s 的目标或针对的物品，按下 %s 确认：
+InventoryWindow."Select a target to cast a %s at and press %s:" 选择释放 %s 的目标，然后按下 %s ：
+InventoryWindow."Select an item to cast a %s on and press %s:" 选择释放 %s 针对的物品，然后按下 %s ：
+InventoryWindow."You can't seem to figure out what to do with the scroll." 你似乎不知道怎么卷轴该怎么用。
+InventoryWindow."Select a target or item to zap a %s at and press %s:" 选择一个目标或物品，对其放出 %s ，按下 %s 确认：
+InventoryWindow."Select a target to zap a %s at and press %s:" 选择一个目标，对其放出 %s ，然后按下 %s ：
+InventoryWindow."Select an item to zap a %s on and press %s:" 选择一件物品，对其放出 %s ，然后按下 %s ：
+InventoryWindow."You can't seem to figure out what to do with the wand." 你似乎不知道怎么魔杖该怎么用。
+InventoryWindow."You can't zap with a depleted wand." 你不能用耗尽的魔杖施法。
+InventoryWindow."You can't seem to be able to use that at the moment." 你现在似乎不知道这个该怎么用。
+InventoryWindow."Select a spell to channel through the wand." 选择一个法术通过魔杖通导。
+InventoryWindow."As you begin to handle %s you are interrupted." 当你开始操作 %s 时，你被打断了。
+InventoryWindow."Select an item to use a %s on and press %s:" 选择一个物品，对其使用 %s ，按下 %s 确认：
+InventoryWindow."You can't seem to figure out what to do with the rune." 你似乎不知道该怎么使用符石。
+InventoryWindow."You sell %s and receive a gold coin." 你把 %s 卖掉了，得到了一个金币。
+InventoryWindow."You sell %s and receive %d gold coins." 你把 %s 卖掉了，得到了 %d 个金币。
+InventoryWindow."You don't have enough free space to carry all the gold." 你没有足够的空间接收所有的金币。
+InventoryWindow."The merchant is not interested to buy those." 商人对购买那些东西没有兴趣。
+InventoryWindow."The merchant is not interested to buy that." 商人对购买那个东西没有兴趣。
+InventoryWindow."The merchant doesn't have free space for that at the moment." 商人目前没有空间。
+InventoryWindow."%s can't be sold while it is equipped." %s 在装备中，所有无法售卖。
+InventoryWindow."The merchant is not interested in unidentified items." 商人对未鉴定的物品没有兴趣。
+InventoryWindow."%s is repaired for %d gold coins." %s 修好了，你支付了 %d 个金币。
+InventoryWindow."You can't afford to repair %s." 你修不起 %s 。
+InventoryWindow."Those %s are already in perfect condition." 那些 %s 已经是最佳状态。
+InventoryWindow."%s is already in perfect condition." %s 在最佳状态。
+InventoryWindow."You can't repair %s." 你无法修理 %s 。
+InventoryWindow."You pay %d gold coins and your %s is identified as %s." 你支付了 %d 个金币，你的 %s 被鉴定为 %s 。
+InventoryWindow."You can't afford to identify %s." 你鉴定不起 %s 。
+InventoryWindow."Those %s are already identified." 那些 %s 已经被鉴定过了。
+InventoryWindow."%s is already identified." %s 已经被鉴定过了。
+InventoryWindow."You swipe your Black Meistercard and get to choose an enchant for the item." 你刷了你的黑卡，开始为这个物品选择一项附魔。
+InventoryWindow."You swipe your Black Meistercard and the item is enchanted as %s." 你刷了你的黑卡，这个物品被附上 %s 。
+InventoryWindow."You pay %d gold coins and you get to choose an enchant for the item." 你支付了 %d 个金币，开始为这个物品选择一项附魔。
+InventoryWindow."You pay %d gold coins and the item is enchanted as %s." 你支付了 %d 个金币，这个物品被附上 %s 。
+InventoryWindow."%s is enchanted for %d gold coins." %s 被附魔了，支付 %d 个金币。
+InventoryWindow."You can't afford to enchant %s." 附魔 %s 的钱，你支付不起。
+InventoryWindow."Those %s cannot be enchanted." 那些 %s 无法被附魔。
+InventoryWindow."%s cannot be enchanted." %s 无法被附魔。
+InventoryWindow."You give %s to a clerk and %d gold coins are added to your ledger (%d)." 你把 %s 交给店员，你的账户上多了 %d 个金币（%d）。
+InventoryWindow."You give %s to a clerk to be stored for later use (%d)." 你把 %s 交给店员存放起来共日后使用（%d）。
+InventoryWindow."You can't store those %s here." 你无法把那些 %s 存放在这里。
+InventoryWindow."You can't store %s here." 你无法把 %s 存放在这里。
+InventoryWindow."You attempt to donate a charm to the Artisans' Guild and they identify it for you." 你试着向工匠行会捐赠一件饰品，他们帮你做了鉴定。
+InventoryWindow."You donate %s to the Artisans' Guild." 你把 %s 捐赠给工匠行会。
+InventoryWindow."You can't donate those %s here." 你无法捐赠那些 %s 。
+InventoryWindow."You can't donate %s here." 你无法捐赠 %s 。
+InventoryWindow."You can't bind %s on %s." 你无法将 %s 绑定到 %s 上面。
+InventoryWindow."You bind %s on %s." 你将 %s 绑定到 %s 上面。
+InventoryWindow."You don't have enough free hands to equip that." 你没有空出来的手装备它。
+InventoryWindow."You don't have enough free space to unequip your %s." 你没有地方放置卸下的 %s 。
 SpellbookWindow."Spellbook" 法术书
 SpellbookWindow."You can't use talents while blinded." 你无法在盲眼时使用天赋。
 SpellbookWindow."You can't use talents while confused." 你无法在混乱时使用天赋。
