@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="21a87b79880acf3aecce78994717f5a0aa64dd9d">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="283eda9bd9e8b724f00fc234c149ef58567bd5eb">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -2829,7 +2829,7 @@
     <str id="entrance" value="entrance" local="入口"/>
     <str id="stairs" value="stairs" local="楼梯"/>
     <str id="a ladder" value="a ladder" local="梯子"/>
-    <str id="gate" value="gate" local="大门"/>
+    <str id="gate" value="gate" local="闸门"/>
     <str id="grave" value="grave" local="坟墓"/>
     <str id="lever" value="lever" local="控制杆"/>
     <str id="pillar" value="pillar" local="柱子"/>
@@ -2965,59 +2965,59 @@
     <str id="KICK_DOESNT_BUDGE" value="You kick %s but it doesn't seem to budge." local="你踹向%s，它似乎纹丝不动。"/>
     <str id="KICK_TRIP_OVER" value="You attempt to kick %s but you trip over and hit it with your head instead." local="你原本想踢%s，可是绊倒了，你的头撞了它。"/>
     <str id="KICK_PROPERLY_DEFILED" value="You kick %s and it is properly defiled." local="你踹了%s一脚，它被弄脏了。"/>
-    <str id="KICK_SPAWN_OCCUPANT" value="You kick %s but its occupant doesn't seem all that pleased."/>
-    <str id="KICK_STUCK_FOR_GOOD" value="You kick %s causing it to be stuck for good."/>
-    <str id="KICK_SPRINGS_BACK" value="You kick %s but it springs back and throws you on the floor."/>
-    <str id="KICK_REVOLVES_BACK" value="You kick %s but it revolves back and hits you on the nuts."/>
-    <str id="KICK_TRAP_SPRUNG" value="You kick %s but its trap is sprung and a poison dart hits you."/>
-    <str id="CANT_USE_BROKEN_TILE" value="You can't seem to figure out a way to use the broken %s."/>
-    <str id="CANT_USE_DEFILED_TILE" value="You can't seem to figure out a way to use the defiled %s."/>
-    <str id="CANT_DISARM_PIT_TRAP" value="You can't seem to figure out a way to disarm %s."/>
-    <str id="HARVEST_SUCCESS" value="You harvest a bloodcap from %s."/>
-    <str id="HARVEST_FAILURE" value="You fail to harvest %s."/>
-    <str id="HARVEST_CRIT_FAILURE" value="You attempt to harvest %s but it spews spores on your face."/>
-    <str id="BROWSE_THROUGH_CONTENTS" value="You browse through the contents of %s."/>
-    <str id="BEGIN_TO_PRACTICE" value="You begin to practice with %s."/>
-    <str id="LOOK_INTO_THE_DEPTHS" value="You look into the depths of %s."/>
-    <str id="CONTEMPLATE_THOUGHTS" value="You contemplate your thoughts at %s."/>
-    <str id="DELVE_IN_YOUR_THOUGHTS" value="You delve in your thoughts with %s."/>
-    <str id="TRY_TO_PRACTICE" value="You try to practice with %s but you don't feel talented enough."/>
-    <str id="TRY_TO_LOOK_INTO" value="You try to look into the depths of %s but you don't feel talented enough."/>
-    <str id="TRY_TO_CONTEMPLATE" value="You try to contemplate your thoughts at %s but you don't feel talented enough."/>
-    <str id="TRY_TO_DELVE_IN" value="You try to delve in your thoughts with %s but you don't feel talented enough."/>
-    <str id="BROKEN_CANT_TEACH_YOU" value="There's nothing that this broken %s can teach you."/>
-    <str id="DOUSED_CANT_TEACH_YOU" value="There's nothing that this doused %s can teach you."/>
-    <str id="NOT_SPIRITUALLY_ATTUNED" value="You are not spiritually attuned to commune with this totem."/>
-    <str id="BLIND_STEP_BEAR_TRAP" value="You step on something and feel crippling pain."/>
-    <str id="BLIND_STEP_SPIKE_TRAP" value="You step on something and feel sharp pain."/>
-    <str id="BLIND_STEP_SPIDER_WEB" value="You step into something and become entangled."/>
-    <str id="BLIND_FLOAT_SPIDER_WEB" value="You float into something and become entangled."/>
-    <str id="BLIND_STEP_SPIKED_PIT" value="You fall down and feel sharp pain."/>
-    <str id="BLIND_STEP_WATER_PIT" value="You fall down in a water pit."/>
-    <str id="BLIND_STEP_MAGIC_TRAP" value="You take a step and something hits you."/>
-    <str id="TRAP_MASTER_CRIT_FAILURE" value="You attempt to carefully avoid %s but you accidentally stumble on it."/>
-    <str id="BEAR_TRAP_CRIT_FAILURE" value="You attempt to break free from %s but it just claws deeper into your leg."/>
-    <str id="SPIKE_TRAP_CRIT_FAILURE" value="As you move out of %s, you manage to stumble on one of the spikes."/>
-    <str id="SPIDER_WEB_CRIT_FAILURE" value="You attempt to break free from %s but you are interrupted by a strange sound."/>
-    <str id="SPIKED_PIT_CRIT_FAILURE" value="You attempt to climb out of %s but you fail miserably and fall down."/>
-    <str id="WATER_PIT_CRIT_FAILURE" value="You attempt to climb out of %s but you end up inhaling some water."/>
-    <str id="MAGIC_TRAP_CRIT_FAILURE" value="As you move out of %s something hits you in the back."/>
-    <str id="REST_IN_TRAP_SUCCESS" value="You rest and feel a bit more energetic."/>
-    <str id="BEAR_TRAP_REST_FAILURE" value="You rest but you feel blood gushing out of your trapped leg."/>
-    <str id="SPIKE_TRAP_REST_FAILURE" value="You rest until you manage to stumble on one of the spikes."/>
-    <str id="SPIDER_WEB_REST_FAILURE" value="You rest until you hear a strange sound above you."/>
-    <str id="SPIKED_PIT_REST_FAILURE" value="You rest and enjoy your stay until you stumble on one of the spikes."/>
-    <str id="WATER_PIT_REST_FAILURE" value="You rest and try to enjoy the bath but you end up inhaling some water."/>
-    <str id="MAGIC_TRAP_REST_FAILURE" value="You rest and imagine about boiling a frog when something hits you."/>
-    <str id="BLIND_STEP_ALARM_TRIGGER" value="You step on something and now everyone knows you're here!"/>
-    <str id="BLIND_STEP_CRUSH_TRIGGER" value="You step on something and hear rumbling coming from above."/>
-    <str id="BLIND_STEP_GATE_TRIGGER" value="You step on something and hear some mechanical sounds."/>
-    <str id="STEP_ON_ALARM_TRIGGER" value="You step on %s and now everyone knows you're here!"/>
-    <str id="STEP_ON_CRUSH_TRIGGER" value="You step on %s and hear rumbling coming from above."/>
-    <str id="STEP_ON_GATE_TRIGGER" value="You step on %s and hear some mechanical sounds."/>
-    <str id="YOU_SEE_ALARM_TRIGGER" value="You see %s that is attached to a number of alarm bells."/>
-    <str id="YOU_SEE_CRUSH_TRIGGER" value="You see %s that drops a boulder hanging from the ceiling."/>
-    <str id="YOU_SEE_GATE_TRIGGER" value="You see %s that seems to be connected to a gate nearby."/>
+    <str id="KICK_SPAWN_OCCUPANT" value="You kick %s but its occupant doesn't seem all that pleased." local="你踢了%s一脚，它的主人似乎不太高兴。"/>
+    <str id="KICK_STUCK_FOR_GOOD" value="You kick %s causing it to be stuck for good." local="你踢了%s一脚，它永远卡住了。"/>
+    <str id="KICK_SPRINGS_BACK" value="You kick %s but it springs back and throws you on the floor." local="你踢了%s一脚，它弹了起来，把你摔在地板上。"/>
+    <str id="KICK_REVOLVES_BACK" value="You kick %s but it revolves back and hits you on the nuts." local="你踢了%s一脚，它弹了回来，击中了你的蛋蛋。"/>
+    <str id="KICK_TRAP_SPRUNG" value="You kick %s but its trap is sprung and a poison dart hits you." local="你踢了%s一脚，触发了陷阱，毒箭击中了你。"/>
+    <str id="CANT_USE_BROKEN_TILE" value="You can't seem to figure out a way to use the broken %s." local="你似乎找不到使用这个坏掉的%s的方法。"/>
+    <str id="CANT_USE_DEFILED_TILE" value="You can't seem to figure out a way to use the defiled %s." local="你似乎找不到使用这个脏掉的%s的方法。"/>
+    <str id="CANT_DISARM_PIT_TRAP" value="You can't seem to figure out a way to disarm %s." local="你似乎找不到解除%s的方法。"/>
+    <str id="HARVEST_SUCCESS" value="You harvest a bloodcap from %s." local="你从%s采到了一个血蘑菇。"/>
+    <str id="HARVEST_FAILURE" value="You fail to harvest %s." local="你未能采到血蘑菇。"/>
+    <str id="HARVEST_CRIT_FAILURE" value="You attempt to harvest %s but it spews spores on your face." local="你试图去采%s，但它的孢子喷了你一脸。"/>
+    <str id="BROWSE_THROUGH_CONTENTS" value="You browse through the contents of %s." local="您浏览%s的内容。"/>
+    <str id="BEGIN_TO_PRACTICE" value="You begin to practice with %s." local="你开始用%s进行练习。"/>
+    <str id="LOOK_INTO_THE_DEPTHS" value="You look into the depths of %s." local="你向%s的深处望去。"/>
+    <str id="CONTEMPLATE_THOUGHTS" value="You contemplate your thoughts at %s." local="你在%s边沉思。"/>
+    <str id="DELVE_IN_YOUR_THOUGHTS" value="You delve in your thoughts with %s." local="你用%s探究自己的内心。"/>
+    <str id="TRY_TO_PRACTICE" value="You try to practice with %s but you don't feel talented enough." local="你想用%s进行练习，但是觉得天赋还不够。"/>
+    <str id="TRY_TO_LOOK_INTO" value="You try to look into the depths of %s but you don't feel talented enough." local="你试着望进%s的深处，但是觉得天赋还不够。"/>
+    <str id="TRY_TO_CONTEMPLATE" value="You try to contemplate your thoughts at %s but you don't feel talented enough." local="你试着在%s边沉思，但是觉得天赋还不够。"/>
+    <str id="TRY_TO_DELVE_IN" value="You try to delve in your thoughts with %s but you don't feel talented enough." local="你想用%s探究自己的内心，但是觉得天赋还不够。"/>
+    <str id="BROKEN_CANT_TEACH_YOU" value="There's nothing that this broken %s can teach you." local="这个坏掉的%s什么都教不了你。"/>
+    <str id="DOUSED_CANT_TEACH_YOU" value="There's nothing that this doused %s can teach you." local="这个浸湿的%s什么都教不了你。"/>
+    <str id="NOT_SPIRITUALLY_ATTUNED" value="You are not spiritually attuned to commune with this totem." local="你的精神未能协调到和这个图腾沟通。"/>
+    <str id="BLIND_STEP_BEAR_TRAP" value="You step on something and feel crippling pain." local="你踩到了什么东西，感到一阵剧痛。"/>
+    <str id="BLIND_STEP_SPIKE_TRAP" value="You step on something and feel sharp pain." local="你踩到了什么东西，感到一阵刺痛。"/>
+    <str id="BLIND_STEP_SPIDER_WEB" value="You step into something and become entangled." local="你踩到了什么东西，被缠住了。"/>
+    <str id="BLIND_FLOAT_SPIDER_WEB" value="You float into something and become entangled." local="你撞到什么东西，被缠住了。"/>
+    <str id="BLIND_STEP_SPIKED_PIT" value="You fall down and feel sharp pain." local="你跌落了，感到一阵刺痛。"/>
+    <str id="BLIND_STEP_WATER_PIT" value="You fall down in a water pit." local="你跌入一个水坑。"/>
+    <str id="BLIND_STEP_MAGIC_TRAP" value="You take a step and something hits you." local="你走了一步，什么东西击中了你。"/>
+    <str id="TRAP_MASTER_CRIT_FAILURE" value="You attempt to carefully avoid %s but you accidentally stumble on it." local="您小心翼翼地避开%s，但却被意外地绊到了。"/>
+    <str id="BEAR_TRAP_CRIT_FAILURE" value="You attempt to break free from %s but it just claws deeper into your leg." local="你试图挣脱%s，但它的钩爪却深深地扎进你的腿中。"/>
+    <str id="SPIKE_TRAP_CRIT_FAILURE" value="As you move out of %s, you manage to stumble on one of the spikes." local="在你想离开%s时，你却被其中一个尖刺绊倒。"/>
+    <str id="SPIDER_WEB_CRIT_FAILURE" value="You attempt to break free from %s but you are interrupted by a strange sound." local="你试图挣脱%s，却被一个奇怪的声音打断了。"/>
+    <str id="SPIKED_PIT_CRIT_FAILURE" value="You attempt to climb out of %s but you fail miserably and fall down." local="你试图爬出%s，但一个失误让你又摔了下去。"/>
+    <str id="WATER_PIT_CRIT_FAILURE" value="You attempt to climb out of %s but you end up inhaling some water." local="你试图爬出%s，但却呛了一口水。"/>
+    <str id="MAGIC_TRAP_CRIT_FAILURE" value="As you move out of %s something hits you in the back." local="当你想走出%s时，有什么击中了你的后背。"/>
+    <str id="REST_IN_TRAP_SUCCESS" value="You rest and feel a bit more energetic." local="你休息了一下，感觉精力更充沛了。"/>
+    <str id="BEAR_TRAP_REST_FAILURE" value="You rest but you feel blood gushing out of your trapped leg." local="你休息了一下，但却感觉到血从你被困的腿中喷涌而出。"/>
+    <str id="SPIKE_TRAP_REST_FAILURE" value="You rest until you manage to stumble on one of the spikes." local="你休息了一下，但又被其中一根刺绊倒。"/>
+    <str id="SPIDER_WEB_REST_FAILURE" value="You rest until you hear a strange sound above you." local="你休息了一下，在你的上方传来一个奇怪的声音。"/>
+    <str id="SPIKED_PIT_REST_FAILURE" value="You rest and enjoy your stay until you stumble on one of the spikes." local="你休息了一下，然后被刺扎了一下。"/>
+    <str id="WATER_PIT_REST_FAILURE" value="You rest and try to enjoy the bath but you end up inhaling some water." local="你休息了一下，本想借机洗个澡，结果却被呛了水。"/>
+    <str id="MAGIC_TRAP_REST_FAILURE" value="You rest and imagine about boiling a frog when something hits you." local="你休息了一下，感觉自己像只锅里的青蛙，被击中了一下。"/>
+    <str id="BLIND_STEP_ALARM_TRIGGER" value="You step on something and now everyone knows you're here!" local="你踩到什么东西，现在大家都知道你在这里！"/>
+    <str id="BLIND_STEP_CRUSH_TRIGGER" value="You step on something and hear rumbling coming from above." local="你踩到什么东西，听到上面传来隆隆声。"/>
+    <str id="BLIND_STEP_GATE_TRIGGER" value="You step on something and hear some mechanical sounds." local="你踩到什么东西，听到一些机械的声音。"/>
+    <str id="STEP_ON_ALARM_TRIGGER" value="You step on %s and now everyone knows you're here!" local="你踩到%s，现在大家都知道你在这里！"/>
+    <str id="STEP_ON_CRUSH_TRIGGER" value="You step on %s and hear rumbling coming from above." local="你踩到%s，上面传来隆隆声。"/>
+    <str id="STEP_ON_GATE_TRIGGER" value="You step on %s and hear some mechanical sounds." local="你踩到%s，听到一些机械的声音。"/>
+    <str id="YOU_SEE_ALARM_TRIGGER" value="You see %s that is attached to a number of alarm bells." local="你看见%s，上面有一组铃铛。"/>
+    <str id="YOU_SEE_CRUSH_TRIGGER" value="You see %s that drops a boulder hanging from the ceiling." local="你看见%s，连着天花板上的一块巨石。"/>
+    <str id="YOU_SEE_GATE_TRIGGER" value="You see %s that seems to be connected to a gate nearby." local="你看见%s，似乎连接着附近的一道闸门。"/>
   </TileLogs>
   <RIPTitles>
     <str id="Here lies %s." value="Here lies %s." local="%s 在此长眠。"/>

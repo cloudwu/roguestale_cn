@@ -2614,7 +2614,7 @@ TileNames."door" 门
 TileNames."entrance" 入口
 TileNames."stairs" 楼梯
 TileNames."a ladder" 梯子
-TileNames."gate" 大门
+TileNames."gate" 闸门
 TileNames."grave" 坟墓
 TileNames."lever" 控制杆
 TileNames."pillar" 柱子
@@ -2748,59 +2748,59 @@ TileLogs."KICK_TUMBLES_TO_GROUND" 你踹向%s，它滚到了地上。
 TileLogs."KICK_DOESNT_BUDGE" 你踹向%s，它似乎纹丝不动。
 TileLogs."KICK_TRIP_OVER" 你原本想踢%s，可是绊倒了，你的头撞了它。
 TileLogs."KICK_PROPERLY_DEFILED" 你踹了%s一脚，它被弄脏了。
-TileLogs."KICK_SPAWN_OCCUPANT" You kick %s but its occupant doesn't seem all that pleased.
-TileLogs."KICK_STUCK_FOR_GOOD" You kick %s causing it to be stuck for good.
-TileLogs."KICK_SPRINGS_BACK" You kick %s but it springs back and throws you on the floor.
-TileLogs."KICK_REVOLVES_BACK" You kick %s but it revolves back and hits you on the nuts.
-TileLogs."KICK_TRAP_SPRUNG" You kick %s but its trap is sprung and a poison dart hits you.
-TileLogs."CANT_USE_BROKEN_TILE" You can't seem to figure out a way to use the broken %s.
-TileLogs."CANT_USE_DEFILED_TILE" You can't seem to figure out a way to use the defiled %s.
-TileLogs."CANT_DISARM_PIT_TRAP" You can't seem to figure out a way to disarm %s.
-TileLogs."HARVEST_SUCCESS" You harvest a bloodcap from %s.
-TileLogs."HARVEST_FAILURE" You fail to harvest %s.
-TileLogs."HARVEST_CRIT_FAILURE" You attempt to harvest %s but it spews spores on your face.
-TileLogs."BROWSE_THROUGH_CONTENTS" You browse through the contents of %s.
-TileLogs."BEGIN_TO_PRACTICE" You begin to practice with %s.
-TileLogs."LOOK_INTO_THE_DEPTHS" You look into the depths of %s.
-TileLogs."CONTEMPLATE_THOUGHTS" You contemplate your thoughts at %s.
-TileLogs."DELVE_IN_YOUR_THOUGHTS" You delve in your thoughts with %s.
-TileLogs."TRY_TO_PRACTICE" You try to practice with %s but you don't feel talented enough.
-TileLogs."TRY_TO_LOOK_INTO" You try to look into the depths of %s but you don't feel talented enough.
-TileLogs."TRY_TO_CONTEMPLATE" You try to contemplate your thoughts at %s but you don't feel talented enough.
-TileLogs."TRY_TO_DELVE_IN" You try to delve in your thoughts with %s but you don't feel talented enough.
-TileLogs."BROKEN_CANT_TEACH_YOU" There's nothing that this broken %s can teach you.
-TileLogs."DOUSED_CANT_TEACH_YOU" There's nothing that this doused %s can teach you.
-TileLogs."NOT_SPIRITUALLY_ATTUNED" You are not spiritually attuned to commune with this totem.
-TileLogs."BLIND_STEP_BEAR_TRAP" You step on something and feel crippling pain.
-TileLogs."BLIND_STEP_SPIKE_TRAP" You step on something and feel sharp pain.
-TileLogs."BLIND_STEP_SPIDER_WEB" You step into something and become entangled.
-TileLogs."BLIND_FLOAT_SPIDER_WEB" You float into something and become entangled.
-TileLogs."BLIND_STEP_SPIKED_PIT" You fall down and feel sharp pain.
-TileLogs."BLIND_STEP_WATER_PIT" You fall down in a water pit.
-TileLogs."BLIND_STEP_MAGIC_TRAP" You take a step and something hits you.
-TileLogs."TRAP_MASTER_CRIT_FAILURE" You attempt to carefully avoid %s but you accidentally stumble on it.
-TileLogs."BEAR_TRAP_CRIT_FAILURE" You attempt to break free from %s but it just claws deeper into your leg.
-TileLogs."SPIKE_TRAP_CRIT_FAILURE" As you move out of %s, you manage to stumble on one of the spikes.
-TileLogs."SPIDER_WEB_CRIT_FAILURE" You attempt to break free from %s but you are interrupted by a strange sound.
-TileLogs."SPIKED_PIT_CRIT_FAILURE" You attempt to climb out of %s but you fail miserably and fall down.
-TileLogs."WATER_PIT_CRIT_FAILURE" You attempt to climb out of %s but you end up inhaling some water.
-TileLogs."MAGIC_TRAP_CRIT_FAILURE" As you move out of %s something hits you in the back.
-TileLogs."REST_IN_TRAP_SUCCESS" You rest and feel a bit more energetic.
-TileLogs."BEAR_TRAP_REST_FAILURE" You rest but you feel blood gushing out of your trapped leg.
-TileLogs."SPIKE_TRAP_REST_FAILURE" You rest until you manage to stumble on one of the spikes.
-TileLogs."SPIDER_WEB_REST_FAILURE" You rest until you hear a strange sound above you.
-TileLogs."SPIKED_PIT_REST_FAILURE" You rest and enjoy your stay until you stumble on one of the spikes.
-TileLogs."WATER_PIT_REST_FAILURE" You rest and try to enjoy the bath but you end up inhaling some water.
-TileLogs."MAGIC_TRAP_REST_FAILURE" You rest and imagine about boiling a frog when something hits you.
-TileLogs."BLIND_STEP_ALARM_TRIGGER" You step on something and now everyone knows you're here!
-TileLogs."BLIND_STEP_CRUSH_TRIGGER" You step on something and hear rumbling coming from above.
-TileLogs."BLIND_STEP_GATE_TRIGGER" You step on something and hear some mechanical sounds.
-TileLogs."STEP_ON_ALARM_TRIGGER" You step on %s and now everyone knows you're here!
-TileLogs."STEP_ON_CRUSH_TRIGGER" You step on %s and hear rumbling coming from above.
-TileLogs."STEP_ON_GATE_TRIGGER" You step on %s and hear some mechanical sounds.
-TileLogs."YOU_SEE_ALARM_TRIGGER" You see %s that is attached to a number of alarm bells.
-TileLogs."YOU_SEE_CRUSH_TRIGGER" You see %s that drops a boulder hanging from the ceiling.
-TileLogs."YOU_SEE_GATE_TRIGGER" You see %s that seems to be connected to a gate nearby.
+TileLogs."KICK_SPAWN_OCCUPANT" 你踢了%s一脚，它的主人似乎不太高兴。
+TileLogs."KICK_STUCK_FOR_GOOD" 你踢了%s一脚，它永远卡住了。
+TileLogs."KICK_SPRINGS_BACK" 你踢了%s一脚，它弹了起来，把你摔在地板上。
+TileLogs."KICK_REVOLVES_BACK" 你踢了%s一脚，它弹了回来，击中了你的蛋蛋。
+TileLogs."KICK_TRAP_SPRUNG" 你踢了%s一脚，触发了陷阱，毒箭击中了你。
+TileLogs."CANT_USE_BROKEN_TILE" 你似乎找不到使用这个坏掉的%s的方法。
+TileLogs."CANT_USE_DEFILED_TILE" 你似乎找不到使用这个脏掉的%s的方法。
+TileLogs."CANT_DISARM_PIT_TRAP" 你似乎找不到解除%s的方法。
+TileLogs."HARVEST_SUCCESS" 你从%s采到了一个血蘑菇。
+TileLogs."HARVEST_FAILURE" 你未能采到血蘑菇。
+TileLogs."HARVEST_CRIT_FAILURE" 你试图去采%s，但它的孢子喷了你一脸。
+TileLogs."BROWSE_THROUGH_CONTENTS" 您浏览%s的内容。
+TileLogs."BEGIN_TO_PRACTICE" 你开始用%s进行练习。
+TileLogs."LOOK_INTO_THE_DEPTHS" 你向%s的深处望去。
+TileLogs."CONTEMPLATE_THOUGHTS" 你在%s边沉思。
+TileLogs."DELVE_IN_YOUR_THOUGHTS" 你用%s探究自己的内心。
+TileLogs."TRY_TO_PRACTICE" 你想用%s进行练习，但是觉得天赋还不够。
+TileLogs."TRY_TO_LOOK_INTO" 你试着望进%s的深处，但是觉得天赋还不够。
+TileLogs."TRY_TO_CONTEMPLATE" 你试着在%s边沉思，但是觉得天赋还不够。
+TileLogs."TRY_TO_DELVE_IN" 你想用%s探究自己的内心，但是觉得天赋还不够。
+TileLogs."BROKEN_CANT_TEACH_YOU" 这个坏掉的%s什么都教不了你。
+TileLogs."DOUSED_CANT_TEACH_YOU" 这个浸湿的%s什么都教不了你。
+TileLogs."NOT_SPIRITUALLY_ATTUNED" 你的精神未能协调到和这个图腾沟通。
+TileLogs."BLIND_STEP_BEAR_TRAP" 你踩到了什么东西，感到一阵剧痛。
+TileLogs."BLIND_STEP_SPIKE_TRAP" 你踩到了什么东西，感到一阵刺痛。
+TileLogs."BLIND_STEP_SPIDER_WEB" 你踩到了什么东西，被缠住了。
+TileLogs."BLIND_FLOAT_SPIDER_WEB" 你撞到什么东西，被缠住了。
+TileLogs."BLIND_STEP_SPIKED_PIT" 你跌落了，感到一阵刺痛。
+TileLogs."BLIND_STEP_WATER_PIT" 你跌入一个水坑。
+TileLogs."BLIND_STEP_MAGIC_TRAP" 你走了一步，什么东西击中了你。
+TileLogs."TRAP_MASTER_CRIT_FAILURE" 您小心翼翼地避开%s，但却被意外地绊到了。
+TileLogs."BEAR_TRAP_CRIT_FAILURE" 你试图挣脱%s，但它的钩爪却深深地扎进你的腿中。
+TileLogs."SPIKE_TRAP_CRIT_FAILURE" 在你想离开%s时，你却被其中一个尖刺绊倒。
+TileLogs."SPIDER_WEB_CRIT_FAILURE" 你试图挣脱%s，却被一个奇怪的声音打断了。
+TileLogs."SPIKED_PIT_CRIT_FAILURE" 你试图爬出%s，但一个失误让你又摔了下去。
+TileLogs."WATER_PIT_CRIT_FAILURE" 你试图爬出%s，但却呛了一口水。
+TileLogs."MAGIC_TRAP_CRIT_FAILURE" 当你想走出%s时，有什么击中了你的后背。
+TileLogs."REST_IN_TRAP_SUCCESS" 你休息了一下，感觉精力更充沛了。
+TileLogs."BEAR_TRAP_REST_FAILURE" 你休息了一下，但却感觉到血从你被困的腿中喷涌而出。
+TileLogs."SPIKE_TRAP_REST_FAILURE" 你休息了一下，但又被其中一根刺绊倒。
+TileLogs."SPIDER_WEB_REST_FAILURE" 你休息了一下，在你的上方传来一个奇怪的声音。
+TileLogs."SPIKED_PIT_REST_FAILURE" 你休息了一下，然后被刺扎了一下。
+TileLogs."WATER_PIT_REST_FAILURE" 你休息了一下，本想借机洗个澡，结果却被呛了水。
+TileLogs."MAGIC_TRAP_REST_FAILURE" 你休息了一下，感觉自己像只锅里的青蛙，被击中了一下。
+TileLogs."BLIND_STEP_ALARM_TRIGGER" 你踩到什么东西，现在大家都知道你在这里！
+TileLogs."BLIND_STEP_CRUSH_TRIGGER" 你踩到什么东西，听到上面传来隆隆声。
+TileLogs."BLIND_STEP_GATE_TRIGGER" 你踩到什么东西，听到一些机械的声音。
+TileLogs."STEP_ON_ALARM_TRIGGER" 你踩到%s，现在大家都知道你在这里！
+TileLogs."STEP_ON_CRUSH_TRIGGER" 你踩到%s，上面传来隆隆声。
+TileLogs."STEP_ON_GATE_TRIGGER" 你踩到%s，听到一些机械的声音。
+TileLogs."YOU_SEE_ALARM_TRIGGER" 你看见%s，上面有一组铃铛。
+TileLogs."YOU_SEE_CRUSH_TRIGGER" 你看见%s，连着天花板上的一块巨石。
+TileLogs."YOU_SEE_GATE_TRIGGER" 你看见%s，似乎连接着附近的一道闸门。
 RIPTitles."Here lies %s." %s 在此长眠。
 RIPTitles."Here lies %s the %s." %s %s 在此长眠。
 RIPTitles."Here lies %s from %s %s." %s 在此长眠，来自 %s %s 。
