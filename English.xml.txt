@@ -3899,24 +3899,24 @@ EffectAnim."Demonic Visage" @(44)&#10;它让你的脸变得好像克林贡人一
 EffectAnim."Demonic Visage".1 
 EffectAnim."Enslave Daemon" @(44)&#10;除非您成为一个恶魔，否则永远无法看到这段文字。
 EffectAnim."Curse of Agony" @(44)&#10;有机会遭受 D3 点魔法伤害。
-EffectAnim."Curse of Envy" @(44)&#10;有机会使你嫉妒 D6 回合。在嫉妒状态时，你会被迫向附近相同性别的生物移动并攻击对方。如果没有这种生物则失去回合。
+EffectAnim."Curse of Envy" @(44)&#10;有机会使你嫉妒 D6 回合。在嫉妒状态时，你被迫向附近相同性别的生物移动并攻击对方。如果没有这种生物则失去回合。
 EffectAnim."Curse of Envy".1 
 EffectAnim."Curse of Gluttony" @(44)&#10;有机会使你花掉一个回合进食或喝水。如果你没有食物供消耗，你会被陷入 D6 回合的狂乱。
 EffectAnim."Curse of Gluttony".1 
-EffectAnim."Curse of Greed" @(44)&#10;有机会使你贪婪 D6 回合。在贪婪状态时，你会被迫向附近的物品移动并拾取它。如果附近没有物品，则失去回合。
+EffectAnim."Curse of Greed" @(44)&#10;有机会使你贪婪 D6 回合。在贪婪状态时，你被迫向附近的物品移动并拾取它。如果附近没有物品，则失去回合。
 EffectAnim."Curse of Greed".1 
 EffectAnim."Curse of Hunger" @(44)&#10;有机会使你在七级饥饿状态上降低一个级别（相当于最高 360 回合的食物消耗）。
 EffectAnim."Curse of Hunger".1 
-EffectAnim."Curse of Lust" @(44)&#10;有机会使你淫荡 D6 回合。在淫荡状态时，你会被迫向附近不同性别的生物移动并把对方打服。如果没有这种生物则失去回合。
+EffectAnim."Curse of Lust" @(44)&#10;有机会使你淫荡 D6 回合。在淫荡状态时，你被迫向附近不同性别的生物移动并把对方打服。如果没有这种生物则失去回合。
 EffectAnim."Curse of Lust".1 
 EffectAnim."Curse of Lust".2 
-EffectAnim."Curse of Pride" @(44)&#10;有机会使你鲁莽 D6 回合。在鲁莽状态时，你会被迫向附近的敌人移动并攻击对方。如果没有敌人则失去回合。
+EffectAnim."Curse of Pride" @(44)&#10;有机会使你鲁莽 D6 回合。在鲁莽状态时，你被迫向附近的敌人移动并攻击对方。如果没有敌人则失去回合。
 EffectAnim."Curse of Pride".1 
 EffectAnim."Curse of Sloth" @(44)&#10;有机会使你失去一点精力并失去下个回合。这个效果还会强制力重掷已经成功的精力恢复骰。
 EffectAnim."Curse of Sloth".1 
 EffectAnim."Curse of Thirst" @(44)&#10;有机会使你在七级干渴状态上降低一个级别（相当于最高 360 回合的饮水消耗）。
 EffectAnim."Curse of Thirst".1 
-EffectAnim."Curse of Wrath" @(44)&#10;有机会使你狂乱 D6 回合。在狂乱状态时，你会被迫向附近的生物移动并攻击对方。如果没有生物则失去回合。
+EffectAnim."Curse of Wrath" @(44)&#10;有机会使你狂乱 D6 回合。在狂乱状态时，你被迫向附近的生物移动并攻击对方。如果没有生物则失去回合。
 EffectAnim."Curse of Wrath".1 
 EffectAnim."Blinding Poison" @(44)&#10;有机会对你致盲 D6 回合。在盲眼状态时，你还是可以行动，但是你看不见任何东西。这还会给你的命中骰附加一个相当于毒害强度级别的负面修正。
 EffectAnim."Blinding Poison".1  
@@ -3943,64 +3943,64 @@ EffectAnim."Sleeping Poison" @(44)&#10;有机会使你沉睡 D6 回合。任何�
 EffectAnim."Sleeping Poison".1 
 EffectAnim."Slowing Poison" @(44)&#10;它视为一个迟缓效果，这个效果有可能导致你失去下一个回合。这还会降低回避，招架，格挡修正，降低值等于毒害强度级别。
 EffectAnim."Slowing Poison".1 
-EffectAnim."Aching Muscle" It has a chance of causing one point of strength damage and a chance to place a slow effect on you for D6 turns.
-EffectAnim."Bloody Flux" It has a chance of causing one point of stamina damage and a chance to cause D3 points of health damage.
-EffectAnim."Bone Plague" It has a chance of causing one point of strength damage and a chance to place a paralysis effect on you for D6 turns.
-EffectAnim."Burning Lung" It has a chance of causing one point of stamina damage and a chance to cause D3 points of energy damage.
-EffectAnim."Dungeon Fever" It has a chance of triggering the effects of any other disease.
-EffectAnim."Itching Groin" It has a chance of causing one point of agility damage and a chance to place a blind effect on you for D6 turns.
-EffectAnim."Putrid Breath" It has a chance of causing one point of charisma damage and a chance to place a silence effect on you for D6 turns.
-EffectAnim."Swollen Joint" It has a chance of causing one point of agility damage and a chance to place a confusion effect on you for D6 turns.
-EffectAnim."Rotting Flesh" It has a chance of causing one point of charisma damage and a chance to place a sleep effect on you for D6 turns.
-EffectAnim."Afraid" You are afraid and you are forced to run away from the source of this effect.
-EffectAnim."Asleep" You are asleep and that causes you to miss your turn.
-EffectAnim."Blinded" You are blinded and that allows you to bump into walls without kicking them, which is just amazing.
-EffectAnim."Charmed" You are charmed and you are forced to attack the nearest creature that is also an enemy of the charmer or miss
-EffectAnim."Charmed".1 your turn if no such creature exists.
-EffectAnim."Chilled" You are chilled and that may cause you to miss your turn.
-EffectAnim."Confused" You are confused and that allows you to play this game as if you were drunk while sober.
-EffectAnim."Deafened" You are deafened and that prevents you from enjoying the awesome sounds of this game.
-EffectAnim."Energised" You are energised and that allows you to re-roll failed energy regeneration checks.
-EffectAnim."Envious" You are envious and you are forced to move towards and attack the nearest creature of the same gender or miss
-EffectAnim."Envious".1 your turn if no such creature exists.
-EffectAnim."Frenzied" You are frenzied and you are forced to move towards and attack the nearest creature or miss your turn if no such
-EffectAnim."Frenzied".1 creature exists.
-EffectAnim."Greedy" You are greedy and you are forced to move towards the nearest item and attempt to pick it up or miss your turn if
-EffectAnim."Greedy".1 no such item exists.
-EffectAnim."Hastened" You are hastened and that allows you to act twice in one turn every now and then.
-EffectAnim."Insightful" You are insightful and that allows you to identify items just by picking them up.
-EffectAnim."Invisible" You are invisible and that is just unfair towards the lovely creatures that want to kill you.
-EffectAnim."Levitated" You are levitated and that allows you to float over traps without getting stuck.
-EffectAnim."Lustful" You are lustful and you are forced to move towards the nearest creature of the opposite gender and beat that
-EffectAnim."Lustful".1 creature into submission or miss your turn if no such creature exists.
-EffectAnim."On fire" You are on fire. You can always try to douse yourself with a water flask.
-EffectAnim."Paralysed" You are paralysed and that causes you to miss your turn.
-EffectAnim."Polymorphed" 你被变形了，这能让你找到肯'尼斯。
-EffectAnim."Reckless" You are reckless and you are forced to move towards and attack the nearest enemy creature or miss your turn if no
-EffectAnim."Reckless".1 such creature exists.
-EffectAnim."Shocked" You are shocked and that causes you to miss your turn.
-EffectAnim."Silenced" You are silenced and that prevents you from casting spells and reading scrolls.
-EffectAnim."Slowed" You are slowed and that may cause you to miss your turn.
-EffectAnim."Stunned" You are stunned and that causes you to miss your turn.
-EffectAnim."Vitalised" You are vitalised and that allows you to re-roll failed health regeneration checks.
-EffectAnim."Revitalised" You have gained the ability to regenerate but you are also vulnerable to fire.
-EffectAnim."You have temporarily gained knowledge of the %s talent." You have temporarily gained knowledge of the %s talent.
-EffectAnim."-1 Strength" Your strength is decreased by 1.
-EffectAnim."-1 Agility" Your agility is decreased by 1.
-EffectAnim."-1 Stamina" Your stamina is decreased by 1.
-EffectAnim."-1 Charisma" Your charisma is decreased by 1.
-EffectAnim."+1 Strength" Your strength is increased by 1.
-EffectAnim."+1 Agility" Your agility is increased by 1.
-EffectAnim."+1 Stamina" Your stamina is increased by 1.
-EffectAnim."+1 Charisma" Your charisma is increased by 1.
-EffectAnim."Wounded" You are bleeding and take D3 points of bleed damage per turn.
-EffectAnim."You have 1 bolt or arrow equipped." You have 1 bolt or arrow equipped.
-EffectAnim."You have %d bolts or arrows equipped." You have %d bolts or arrows equipped.
-EffectAnim."Your weapon must be reloaded by resting before it can be used again." Your weapon must be reloaded by resting before it can be used again.
-EffectAnim."Your main hand weapon is poisoned." Your main hand weapon is poisoned.
-EffectAnim."Your offhand weapon is poisoned." Your offhand weapon is poisoned.
-EffectAnim."AMULET_COOLDOWN_DESC" The spell contained in your amulet is on cooldown. Recharge it by having it equipped for as many turns as it says.
-EffectAnim."CAN_LEARN_TALENT_DESC" You can learn a talent now. Find a trainer or use one of the trainer tiles (altar, dummy, fireplace, target, well or totem).
+EffectAnim."Aching Muscle" @(44)&#10;有机会造成一点力量伤害，并且有机会给你附加一个 D6 回合的迟缓效果。
+EffectAnim."Bloody Flux" @(44)&#10;有机会造成一点耐力伤害，并且有机会给你造成 D3 点生命的伤害。
+EffectAnim."Bone Plague" @(44)&#10;有机会造成一点力量伤害，并且有机会给你附加一个 D6 回合的麻痹效果。
+EffectAnim."Burning Lung" @(44)&#10;有机会造成一点耐力伤害，并且有机会给你造成 D3 点精力的伤害。
+EffectAnim."Dungeon Fever" @(44)&#10;有机会触发随机的任意疾病效果。
+EffectAnim."Itching Groin" @(44)&#10;有机会造成一点敏捷伤害，并且有机会给你附加一个 D6 回合的盲眼效果。
+EffectAnim."Putrid Breath" @(44)&#10;有机会造成一点魅力伤害，并且有机会给你附加一个 D6 回合的沉默效果。
+EffectAnim."Swollen Joint" @(44)&#10;有机会造成一点敏捷伤害，并且有机会给你附加一个 D6 回合的混乱效果。
+EffectAnim."Rotting Flesh" @(44)&#10;有机会造成一点魅力伤害，并且有机会给你附加一个 D6 回合的沉睡效果。
+EffectAnim."Afraid" @(44)&#10;你害怕了，你被迫逃离引起这个效果的源头。
+EffectAnim."Asleep" @(44)&#10;你睡着了，这会导致你失去你的回合。
+EffectAnim."Blinded" @(44)&#10;你被弄瞎了，这允许你不用踢墙就撞进墙里面，这太神奇了。
+EffectAnim."Charmed" @(44)&#10;你被魅惑了，你被迫攻击附近的施魅者的敌人。如果没有这样的生物，你会失去你的回合。
+EffectAnim."Charmed".1 
+EffectAnim."Chilled" @(44)&#10;你被冰冻了，这会导致你失去回合。
+EffectAnim."Confused" @(44)&#10;你被混乱了，这让你在清醒时也像醉酒了一样玩这个游戏。
+EffectAnim."Deafened" @(44)&#10;你被致聋了，这会阻止你欣赏游戏中超赞的音效。
+EffectAnim."Energised" @(44)&#10;你精力充沛，这让你可以重掷失败的精力回复检定。
+EffectAnim."Envious" @(44)&#10;你充满嫉妒，你被迫向附近相同性别的生物移动并攻击对方。如果没有这种生物则失去回合。
+EffectAnim."Envious".1 
+EffectAnim."Frenzied" @(44)&#10;你狂乱了，你被迫向附近的生物移动并攻击对方。如果没有生物则失去回合。
+EffectAnim."Frenzied".1 
+EffectAnim."Greedy" @(44)&#10;你很贪婪，你被迫向附近的物品移动并拾取它。如果附近没有物品，则失去回合。
+EffectAnim."Greedy".1 
+EffectAnim."Hastened" @(44)&#10;你被加速了，这让你可以从现在开始将一个回合视为两个。
+EffectAnim."Insightful" @(44)&#10;你顿悟了，这让你在拾取物品时同时鉴定它们。
+EffectAnim."Invisible" @(44)&#10;你隐身了，这对那些想杀死你的可爱生物来说极不公平。
+EffectAnim."Levitated" @(44)&#10;你漂浮起来，这让你可以飘过陷阱而不会陷入。
+EffectAnim."Lustful" @(44)&#10;你变得好色，你被迫向附近不同性别的生物移动并把对方打服。如果没有这种生物则失去回合。
+EffectAnim."Lustful".1 
+EffectAnim."On fire" @(44)&#10;你着火了。这种时候你可以试着用水袋打湿自己。
+EffectAnim."Paralysed" @(44)&#10;你被麻痹了，这让你失去了回合。
+EffectAnim."Polymorphed" @(44)&#10;你被变形了，这能让你找到肯'尼斯。
+EffectAnim."Reckless" @(44)&#10;你变得鲁莽，你被迫向附近的敌人移动并攻击对方。如果没有敌人则失去回合。
+EffectAnim."Reckless".1 
+EffectAnim."Shocked" @(44)&#10;你被震击了，这导致你失去了回合。
+EffectAnim."Silenced" @(44)&#10;你被沉默了，这使你无法施法或阅读卷轴。
+EffectAnim."Slowed" @(44)&#10;你被迟缓了，这可能让你失去回合。
+EffectAnim."Stunned" @(44)&#10;你被眩晕了，这导致你失去了回合。
+EffectAnim."Vitalised" @(44)&#10;你活力四射，这允许你重掷失败的生命回复检定。
+EffectAnim."Revitalised" @(44)&#10;你获得了持续回复的能力，但同时也变得更加怕火。
+EffectAnim."You have temporarily gained knowledge of the %s talent." @(44)&#10;你临时获得了有关%s天赋的知识。
+EffectAnim."-1 Strength" 力量减 1 。
+EffectAnim."-1 Agility" 敏捷减 1 。
+EffectAnim."-1 Stamina" 耐力减 1 。
+EffectAnim."-1 Charisma" 魅力减 1 。
+EffectAnim."+1 Strength" 力量加 1 。
+EffectAnim."+1 Agility" 敏捷加 1 。
+EffectAnim."+1 Stamina" 耐力加 1 。
+EffectAnim."+1 Charisma" 魅力加 1 。
+EffectAnim."Wounded" 你在流血，每个回合承受 D3 点流血伤害。
+EffectAnim."You have 1 bolt or arrow equipped." 你装备有 1 只箭。
+EffectAnim."You have %d bolts or arrows equipped." 你装备有 %d 只箭。
+EffectAnim."Your weapon must be reloaded by resting before it can be used again." @(44)你的武器必须先通过休息来装弹才能再次使用。
+EffectAnim."Your main hand weapon is poisoned." 你的主手武器已淬毒。
+EffectAnim."Your offhand weapon is poisoned." 你的副手武器已淬毒。
+EffectAnim."AMULET_COOLDOWN_DESC" @(44)你项链中的法术在冷却中。需要通过装备它并经过它所述的回合数才可以再次使用。
+EffectAnim."CAN_LEARN_TALENT_DESC" @(44)你现在可以学习一项新的天赋。找一个导师或使用一种训练地块（祭坛、假人、火堆、箭靶、水井或是图腾）。
 DeathScreen."KING_SCREEN_STORY" 随着你把王冠戴在头上，走廊里的窃窃私语伴随着你每一次呼吸越发清晰入耳：
 DeathScreen."KING_SCREEN_STORY".1 &quot;%s已死。%s万岁！&quot;
 DeathScreen."KING_SCREEN_STORY".2 你在一次公平挑战中击败了%s，现在你成为了霜之哀伤的合法统治者。

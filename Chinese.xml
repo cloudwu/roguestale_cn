@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="66a5e570337a2f03f8a245a30e5fbfd857091b97">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="6a24ff7d78171452332f7dded8202fb9b7b89ad4">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -4301,23 +4301,23 @@
     </str>
     <str id="Enslave Daemon" value="You should never be able to see this text unless you become a daemon." local="&#10;除非您成为一个恶魔，否则永远无法看到这段文字&#10;。"/>
     <str id="Curse of Agony" value="It has a chance of causing D3 points of magic damage." local="&#10;有机会遭受 D3 点魔法伤害。"/>
-    <str id="Curse of Envy" value="It has a chance of causing you to become envious for D6 turns. While envious, you are forced to move towards and" local="&#10;有机会使你嫉妒 D6 回合。在嫉妒状态时，你会被&#10;迫向附近相同性别的生物移动并攻击对方。如果没&#10;有这种生物则失去回合。" space="True">
+    <str id="Curse of Envy" value="It has a chance of causing you to become envious for D6 turns. While envious, you are forced to move towards and" local="&#10;有机会使你嫉妒 D6 回合。在嫉妒状态时，你被迫&#10;向附近相同性别的生物移动并攻击对方。如果没有&#10;这种生物则失去回合。" space="True">
       <str id="paragraph 1" value="attack the nearest creature of the same gender or miss your turn if no such creature exists." local=""/>
     </str>
     <str id="Curse of Gluttony" value="It has a chance of causing you to spend a turn eating or drinking. If you don't have anything suitable to consume," local="&#10;有机会使你花掉一个回合进食或喝水。如果你没有&#10;食物供消耗，你会被陷入 D6 回合的狂乱。" space="True">
       <str id="paragraph 1" value="you will be frenzied for D6 turns." local=""/>
     </str>
-    <str id="Curse of Greed" value="It has a chance of causing you to become greedy for D6 turns. While greedy, you are forced to move towards the" local="&#10;有机会使你贪婪 D6 回合。在贪婪状态时，你会被&#10;迫向附近的物品移动并拾取它。如果附近没有物品&#10;，则失去回合。" space="True">
+    <str id="Curse of Greed" value="It has a chance of causing you to become greedy for D6 turns. While greedy, you are forced to move towards the" local="&#10;有机会使你贪婪 D6 回合。在贪婪状态时，你被迫&#10;向附近的物品移动并拾取它。如果附近没有物品，&#10;则失去回合。" space="True">
       <str id="paragraph 1" value="nearest item and attempt to pick it up or miss your turn if no such item exists." local=""/>
     </str>
     <str id="Curse of Hunger" value="It has a chance of causing you to lose one level on the seven level hunger track (counts as up to 360 turns of food" local="&#10;有机会使你在七级饥饿状态上降低一个级别（相当&#10;于最高 360 回合的食物消耗）。" space="True">
       <str id="paragraph 1" value="consumption)." local=""/>
     </str>
-    <str id="Curse of Lust" value="It has a chance of causing you to become lustful for D6 turns. While lustful, you are forced to move towards the" local="&#10;有机会使你淫荡 D6 回合。在淫荡状态时，你会被&#10;迫向附近不同性别的生物移动并把对方打服。如果&#10;没有这种生物则失去回合。" space="True">
+    <str id="Curse of Lust" value="It has a chance of causing you to become lustful for D6 turns. While lustful, you are forced to move towards the" local="&#10;有机会使你淫荡 D6 回合。在淫荡状态时，你被迫&#10;向附近不同性别的生物移动并把对方打服。如果没&#10;有这种生物则失去回合。" space="True">
       <str id="paragraph 1" value="nearest creature of the opposite gender and beat that creature into submission or miss your turn if no such" local=""/>
       <str id="paragraph 2" value="creature exists." local=""/>
     </str>
-    <str id="Curse of Pride" value="It has a chance of causing you to become reckless for D6 turns. While reckless, you are forced to move towards and" local="&#10;有机会使你鲁莽 D6 回合。在鲁莽状态时，你会被&#10;迫向附近的敌人移动并攻击对方。如果没有敌人则&#10;失去回合。" space="True">
+    <str id="Curse of Pride" value="It has a chance of causing you to become reckless for D6 turns. While reckless, you are forced to move towards and" local="&#10;有机会使你鲁莽 D6 回合。在鲁莽状态时，你被迫&#10;向附近的敌人移动并攻击对方。如果没有敌人则失&#10;去回合。" space="True">
       <str id="paragraph 1" value="attack the nearest enemy creature or miss your turn if no such creature exists." local=""/>
     </str>
     <str id="Curse of Sloth" value="It has a chance of causing you to lose one point of energy and miss your next turn. This effect also forces you to" local="&#10;有机会使你失去一点精力并失去下个回合。这个效&#10;果还会强制力重掷已经成功的精力恢复骰。" space="True">
@@ -4326,7 +4326,7 @@
     <str id="Curse of Thirst" value="It has a chance of causing you to lose one level on the seven level thirst track (counts as up to 360 turns of water" local="&#10;有机会使你在七级干渴状态上降低一个级别（相当&#10;于最高 360 回合的饮水消耗）。" space="True">
       <str id="paragraph 1" value="consumption)." local=""/>
     </str>
-    <str id="Curse of Wrath" value="It has a chance of causing you to become frenzied for D6 turns. While frenzied, you are forced to move towards and" local="&#10;有机会使你狂乱 D6 回合。在狂乱状态时，你会被&#10;迫向附近的生物移动并攻击对方。如果没有生物则&#10;失去回合。" space="True">
+    <str id="Curse of Wrath" value="It has a chance of causing you to become frenzied for D6 turns. While frenzied, you are forced to move towards and" local="&#10;有机会使你狂乱 D6 回合。在狂乱状态时，你被迫&#10;向附近的生物移动并攻击对方。如果没有生物则失&#10;去回合。" space="True">
       <str id="paragraph 1" value="attack the nearest creature or miss your turn if no such creature exists." local=""/>
     </str>
     <str id="Blinding Poison" value="It has a chance of blinding you for D6 turns. While blinded, you may act normally with the exception that you can't" local="&#10;有机会对你致盲 D6 回合。在盲眼状态时，你还是&#10;可以行动，但是你看不见任何东西。这还会给你的&#10;命中骰附加一个相当于毒害强度级别的负面修正。" space="True">
@@ -4364,70 +4364,70 @@
     <str id="Slowing Poison" value="It counts as a slow effect and as an effect that may cause you to miss your next turn. This also reduces dodge, parry" local="&#10;它视为一个迟缓效果，这个效果有可能导致你失去&#10;下一个回合。这还会降低回避，招架，格挡修正，&#10;降低值等于毒害强度级别。" space="True">
       <str id="paragraph 1" value="and block modifiers with a number that equals to the power level of the poison." local=""/>
     </str>
-    <str id="Aching Muscle" value="It has a chance of causing one point of strength damage and a chance to place a slow effect on you for D6 turns."/>
-    <str id="Bloody Flux" value="It has a chance of causing one point of stamina damage and a chance to cause D3 points of health damage."/>
-    <str id="Bone Plague" value="It has a chance of causing one point of strength damage and a chance to place a paralysis effect on you for D6 turns."/>
-    <str id="Burning Lung" value="It has a chance of causing one point of stamina damage and a chance to cause D3 points of energy damage."/>
-    <str id="Dungeon Fever" value="It has a chance of triggering the effects of any other disease."/>
-    <str id="Itching Groin" value="It has a chance of causing one point of agility damage and a chance to place a blind effect on you for D6 turns."/>
-    <str id="Putrid Breath" value="It has a chance of causing one point of charisma damage and a chance to place a silence effect on you for D6 turns."/>
-    <str id="Swollen Joint" value="It has a chance of causing one point of agility damage and a chance to place a confusion effect on you for D6 turns."/>
-    <str id="Rotting Flesh" value="It has a chance of causing one point of charisma damage and a chance to place a sleep effect on you for D6 turns."/>
-    <str id="Afraid" value="You are afraid and you are forced to run away from the source of this effect."/>
-    <str id="Asleep" value="You are asleep and that causes you to miss your turn."/>
-    <str id="Blinded" value="You are blinded and that allows you to bump into walls without kicking them, which is just amazing."/>
-    <str id="Charmed" value="You are charmed and you are forced to attack the nearest creature that is also an enemy of the charmer or miss" space="True">
-      <str id="paragraph 1" value="your turn if no such creature exists."/>
+    <str id="Aching Muscle" value="It has a chance of causing one point of strength damage and a chance to place a slow effect on you for D6 turns." local="&#10;有机会造成一点力量伤害，并且有机会给你附加一&#10;个 D6 回合的迟缓效果。"/>
+    <str id="Bloody Flux" value="It has a chance of causing one point of stamina damage and a chance to cause D3 points of health damage." local="&#10;有机会造成一点耐力伤害，并且有机会给你造成 D&#10;3 点生命的伤害。"/>
+    <str id="Bone Plague" value="It has a chance of causing one point of strength damage and a chance to place a paralysis effect on you for D6 turns." local="&#10;有机会造成一点力量伤害，并且有机会给你附加一&#10;个 D6 回合的麻痹效果。"/>
+    <str id="Burning Lung" value="It has a chance of causing one point of stamina damage and a chance to cause D3 points of energy damage." local="&#10;有机会造成一点耐力伤害，并且有机会给你造成 D&#10;3 点精力的伤害。"/>
+    <str id="Dungeon Fever" value="It has a chance of triggering the effects of any other disease." local="&#10;有机会触发随机的任意疾病效果。"/>
+    <str id="Itching Groin" value="It has a chance of causing one point of agility damage and a chance to place a blind effect on you for D6 turns." local="&#10;有机会造成一点敏捷伤害，并且有机会给你附加一&#10;个 D6 回合的盲眼效果。"/>
+    <str id="Putrid Breath" value="It has a chance of causing one point of charisma damage and a chance to place a silence effect on you for D6 turns." local="&#10;有机会造成一点魅力伤害，并且有机会给你附加一&#10;个 D6 回合的沉默效果。"/>
+    <str id="Swollen Joint" value="It has a chance of causing one point of agility damage and a chance to place a confusion effect on you for D6 turns." local="&#10;有机会造成一点敏捷伤害，并且有机会给你附加一&#10;个 D6 回合的混乱效果。"/>
+    <str id="Rotting Flesh" value="It has a chance of causing one point of charisma damage and a chance to place a sleep effect on you for D6 turns." local="&#10;有机会造成一点魅力伤害，并且有机会给你附加一&#10;个 D6 回合的沉睡效果。"/>
+    <str id="Afraid" value="You are afraid and you are forced to run away from the source of this effect." local="&#10;你害怕了，你被迫逃离引起这个效果的源头。"/>
+    <str id="Asleep" value="You are asleep and that causes you to miss your turn." local="&#10;你睡着了，这会导致你失去你的回合。"/>
+    <str id="Blinded" value="You are blinded and that allows you to bump into walls without kicking them, which is just amazing." local="&#10;你被弄瞎了，这允许你不用踢墙就撞进墙里面，这&#10;太神奇了。"/>
+    <str id="Charmed" value="You are charmed and you are forced to attack the nearest creature that is also an enemy of the charmer or miss" local="&#10;你被魅惑了，你被迫攻击附近的施魅者的敌人。如&#10;果没有这样的生物，你会失去你的回合。" space="True">
+      <str id="paragraph 1" value="your turn if no such creature exists." local=""/>
     </str>
-    <str id="Chilled" value="You are chilled and that may cause you to miss your turn."/>
-    <str id="Confused" value="You are confused and that allows you to play this game as if you were drunk while sober."/>
-    <str id="Deafened" value="You are deafened and that prevents you from enjoying the awesome sounds of this game."/>
-    <str id="Energised" value="You are energised and that allows you to re-roll failed energy regeneration checks."/>
-    <str id="Envious" value="You are envious and you are forced to move towards and attack the nearest creature of the same gender or miss" space="True">
-      <str id="paragraph 1" value="your turn if no such creature exists."/>
+    <str id="Chilled" value="You are chilled and that may cause you to miss your turn." local="&#10;你被冰冻了，这会导致你失去回合。"/>
+    <str id="Confused" value="You are confused and that allows you to play this game as if you were drunk while sober." local="&#10;你被混乱了，这让你在清醒时也像醉酒了一样玩这&#10;个游戏。"/>
+    <str id="Deafened" value="You are deafened and that prevents you from enjoying the awesome sounds of this game." local="&#10;你被致聋了，这会阻止你欣赏游戏中超赞的音效。"/>
+    <str id="Energised" value="You are energised and that allows you to re-roll failed energy regeneration checks." local="&#10;你精力充沛，这让你可以重掷失败的精力回复检定&#10;。"/>
+    <str id="Envious" value="You are envious and you are forced to move towards and attack the nearest creature of the same gender or miss" local="&#10;你充满嫉妒，你被迫向附近相同性别的生物移动并&#10;攻击对方。如果没有这种生物则失去回合。" space="True">
+      <str id="paragraph 1" value="your turn if no such creature exists." local=""/>
     </str>
-    <str id="Frenzied" value="You are frenzied and you are forced to move towards and attack the nearest creature or miss your turn if no such" space="True">
-      <str id="paragraph 1" value="creature exists."/>
+    <str id="Frenzied" value="You are frenzied and you are forced to move towards and attack the nearest creature or miss your turn if no such" local="&#10;你狂乱了，你被迫向附近的生物移动并攻击对方。&#10;如果没有生物则失去回合。" space="True">
+      <str id="paragraph 1" value="creature exists." local=""/>
     </str>
-    <str id="Greedy" value="You are greedy and you are forced to move towards the nearest item and attempt to pick it up or miss your turn if" space="True">
-      <str id="paragraph 1" value="no such item exists."/>
+    <str id="Greedy" value="You are greedy and you are forced to move towards the nearest item and attempt to pick it up or miss your turn if" local="&#10;你很贪婪，你被迫向附近的物品移动并拾取它。如&#10;果附近没有物品，则失去回合。" space="True">
+      <str id="paragraph 1" value="no such item exists." local=""/>
     </str>
-    <str id="Hastened" value="You are hastened and that allows you to act twice in one turn every now and then."/>
-    <str id="Insightful" value="You are insightful and that allows you to identify items just by picking them up."/>
-    <str id="Invisible" value="You are invisible and that is just unfair towards the lovely creatures that want to kill you."/>
-    <str id="Levitated" value="You are levitated and that allows you to float over traps without getting stuck."/>
-    <str id="Lustful" value="You are lustful and you are forced to move towards the nearest creature of the opposite gender and beat that" space="True">
-      <str id="paragraph 1" value="creature into submission or miss your turn if no such creature exists."/>
+    <str id="Hastened" value="You are hastened and that allows you to act twice in one turn every now and then." local="&#10;你被加速了，这让你可以从现在开始将一个回合视&#10;为两个。"/>
+    <str id="Insightful" value="You are insightful and that allows you to identify items just by picking them up." local="&#10;你顿悟了，这让你在拾取物品时同时鉴定它们。"/>
+    <str id="Invisible" value="You are invisible and that is just unfair towards the lovely creatures that want to kill you." local="&#10;你隐身了，这对那些想杀死你的可爱生物来说极不&#10;公平。"/>
+    <str id="Levitated" value="You are levitated and that allows you to float over traps without getting stuck." local="&#10;你漂浮起来，这让你可以飘过陷阱而不会陷入。"/>
+    <str id="Lustful" value="You are lustful and you are forced to move towards the nearest creature of the opposite gender and beat that" local="&#10;你变得好色，你被迫向附近不同性别的生物移动并&#10;把对方打服。如果没有这种生物则失去回合。" space="True">
+      <str id="paragraph 1" value="creature into submission or miss your turn if no such creature exists." local=""/>
     </str>
-    <str id="On fire" value="You are on fire. You can always try to douse yourself with a water flask."/>
-    <str id="Paralysed" value="You are paralysed and that causes you to miss your turn."/>
-    <str id="Polymorphed" value="You are polymorphed and that allows you to find Ken'nih." local="你被变形了，这能让你找到肯'尼斯。"/>
-    <str id="Reckless" value="You are reckless and you are forced to move towards and attack the nearest enemy creature or miss your turn if no" space="True">
-      <str id="paragraph 1" value="such creature exists."/>
+    <str id="On fire" value="You are on fire. You can always try to douse yourself with a water flask." local="&#10;你着火了。这种时候你可以试着用水袋打湿自己。"/>
+    <str id="Paralysed" value="You are paralysed and that causes you to miss your turn." local="&#10;你被麻痹了，这让你失去了回合。"/>
+    <str id="Polymorphed" value="You are polymorphed and that allows you to find Ken'nih." local="&#10;你被变形了，这能让你找到肯'尼斯。"/>
+    <str id="Reckless" value="You are reckless and you are forced to move towards and attack the nearest enemy creature or miss your turn if no" local="&#10;你变得鲁莽，你被迫向附近的敌人移动并攻击对方&#10;。如果没有敌人则失去回合。" space="True">
+      <str id="paragraph 1" value="such creature exists." local=""/>
     </str>
-    <str id="Shocked" value="You are shocked and that causes you to miss your turn."/>
-    <str id="Silenced" value="You are silenced and that prevents you from casting spells and reading scrolls."/>
-    <str id="Slowed" value="You are slowed and that may cause you to miss your turn."/>
-    <str id="Stunned" value="You are stunned and that causes you to miss your turn."/>
-    <str id="Vitalised" value="You are vitalised and that allows you to re-roll failed health regeneration checks."/>
-    <str id="Revitalised" value="You have gained the ability to regenerate but you are also vulnerable to fire."/>
-    <str id="You have temporarily gained knowledge of the %s talent." value="You have temporarily gained knowledge of the %s talent."/>
-    <str id="-1 Strength" value="Your strength is decreased by 1."/>
-    <str id="-1 Agility" value="Your agility is decreased by 1."/>
-    <str id="-1 Stamina" value="Your stamina is decreased by 1."/>
-    <str id="-1 Charisma" value="Your charisma is decreased by 1."/>
-    <str id="+1 Strength" value="Your strength is increased by 1."/>
-    <str id="+1 Agility" value="Your agility is increased by 1."/>
-    <str id="+1 Stamina" value="Your stamina is increased by 1."/>
-    <str id="+1 Charisma" value="Your charisma is increased by 1."/>
-    <str id="Wounded" value="You are bleeding and take D3 points of bleed damage per turn."/>
-    <str id="You have 1 bolt or arrow equipped." value="You have 1 bolt or arrow equipped."/>
-    <str id="You have %d bolts or arrows equipped." value="You have %d bolts or arrows equipped."/>
-    <str id="Your weapon must be reloaded by resting before it can be used again." value="Your weapon must be reloaded by resting before it can be used again."/>
-    <str id="Your main hand weapon is poisoned." value="Your main hand weapon is poisoned."/>
-    <str id="Your offhand weapon is poisoned." value="Your offhand weapon is poisoned."/>
-    <str id="AMULET_COOLDOWN_DESC" value="The spell contained in your amulet is on cooldown. Recharge it by having it equipped for as many turns as it says."/>
-    <str id="CAN_LEARN_TALENT_DESC" value="You can learn a talent now. Find a trainer or use one of the trainer tiles (altar, dummy, fireplace, target, well or totem)."/>
+    <str id="Shocked" value="You are shocked and that causes you to miss your turn." local="&#10;你被震击了，这导致你失去了回合。"/>
+    <str id="Silenced" value="You are silenced and that prevents you from casting spells and reading scrolls." local="&#10;你被沉默了，这使你无法施法或阅读卷轴。"/>
+    <str id="Slowed" value="You are slowed and that may cause you to miss your turn." local="&#10;你被迟缓了，这可能让你失去回合。"/>
+    <str id="Stunned" value="You are stunned and that causes you to miss your turn." local="&#10;你被眩晕了，这导致你失去了回合。"/>
+    <str id="Vitalised" value="You are vitalised and that allows you to re-roll failed health regeneration checks." local="&#10;你活力四射，这允许你重掷失败的生命回复检定。"/>
+    <str id="Revitalised" value="You have gained the ability to regenerate but you are also vulnerable to fire." local="&#10;你获得了持续回复的能力，但同时也变得更加怕火&#10;。"/>
+    <str id="You have temporarily gained knowledge of the %s talent." value="You have temporarily gained knowledge of the %s talent." local="&#10;你临时获得了有关%s天赋的知识。"/>
+    <str id="-1 Strength" value="Your strength is decreased by 1." local="力量减 1 。"/>
+    <str id="-1 Agility" value="Your agility is decreased by 1." local="敏捷减 1 。"/>
+    <str id="-1 Stamina" value="Your stamina is decreased by 1." local="耐力减 1 。"/>
+    <str id="-1 Charisma" value="Your charisma is decreased by 1." local="魅力减 1 。"/>
+    <str id="+1 Strength" value="Your strength is increased by 1." local="力量加 1 。"/>
+    <str id="+1 Agility" value="Your agility is increased by 1." local="敏捷加 1 。"/>
+    <str id="+1 Stamina" value="Your stamina is increased by 1." local="耐力加 1 。"/>
+    <str id="+1 Charisma" value="Your charisma is increased by 1." local="魅力加 1 。"/>
+    <str id="Wounded" value="You are bleeding and take D3 points of bleed damage per turn." local="你在流血，每个回合承受 D3 点流血伤害。"/>
+    <str id="You have 1 bolt or arrow equipped." value="You have 1 bolt or arrow equipped." local="你装备有 1 只箭。"/>
+    <str id="You have %d bolts or arrows equipped." value="You have %d bolts or arrows equipped." local="你装备有 %d 只箭。"/>
+    <str id="Your weapon must be reloaded by resting before it can be used again." value="Your weapon must be reloaded by resting before it can be used again." local="你的武器必须先通过休息来装弹才能再次使用。"/>
+    <str id="Your main hand weapon is poisoned." value="Your main hand weapon is poisoned." local="你的主手武器已淬毒。"/>
+    <str id="Your offhand weapon is poisoned." value="Your offhand weapon is poisoned." local="你的副手武器已淬毒。"/>
+    <str id="AMULET_COOLDOWN_DESC" value="The spell contained in your amulet is on cooldown. Recharge it by having it equipped for as many turns as it says." local="你项链中的法术在冷却中。需要通过装备它并经过&#10;它所述的回合数才可以再次使用。"/>
+    <str id="CAN_LEARN_TALENT_DESC" value="You can learn a talent now. Find a trainer or use one of the trainer tiles (altar, dummy, fireplace, target, well or totem)." local="你现在可以学习一项新的天赋。找一个导师或使用&#10;一种训练地块（祭坛、假人、火堆、箭靶、水井或&#10;是图腾）。"/>
   </EffectAnim>
   <DeathScreen>
     <str id="KING_SCREEN_STORY" value="As you place the crown on your head, whispers start hearing in the hallways growing stronger with every breath you take:" local="随着你把王冠戴在头上，走廊里的窃窃私语伴随着你每一次呼吸越发清晰入耳：">
