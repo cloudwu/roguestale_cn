@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="f25ef8aaf7b30c272c286c653802fad66bc23c22">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="8c2ffa01c107bce2921cbe9f694057bd4a6c3c57">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -735,12 +735,12 @@
     <str id="You set a magic trap at your feet." value="You set a magic trap at your feet." local="你在脚下设置了一个魔法陷阱。"/>
     <str id="You can't set a magic trap here." value="You can't set a magic trap here." local="你不能在此安装魔法陷阱。"/>
     <str id="The dog collar is on cooldown with %d turns remaining." value="The dog collar is on cooldown with %d turns remaining." local="狗项圈还有%d回合冷却。"/>
-    <str id="You closely examine %s and conclude that it is of more use to a skilled craftsman." value="You closely examine %s and conclude that it is of more use to a skilled craftsman."/>
-    <str id="You flip a coin and it lands on its head." value="You flip a coin and it lands on its head."/>
-    <str id="You flip a coin and it lands on its tail." value="You flip a coin and it lands on its tail."/>
-    <str id="Select a blessed ring to bind on %s." value="Select a blessed ring to bind on %s."/>
-    <str id="You set the time dilation to match 'Even' turns." value="You set the time dilation to match 'Even' turns."/>
-    <str id="You set the time dilation to match 'Odd' turns." value="You set the time dilation to match 'Odd' turns."/>
+    <str id="You closely examine %s and conclude that it is of more use to a skilled craftsman." value="You closely examine %s and conclude that it is of more use to a skilled craftsman." local="你仔细检查了%s，结论是它对一个熟练的工匠更有用。"/>
+    <str id="You flip a coin and it lands on its head." value="You flip a coin and it lands on its head." local="你抛起一枚硬币，它正面朝上。"/>
+    <str id="You flip a coin and it lands on its tail." value="You flip a coin and it lands on its tail." local="你抛起一枚硬币，它背面朝上。"/>
+    <str id="Select a blessed ring to bind on %s." value="Select a blessed ring to bind on %s." local="选择一个神圣的戒指绑定在%s之上。"/>
+    <str id="You set the time dilation to match 'Even' turns." value="You set the time dilation to match 'Even' turns." local="你设置时间膨胀装置为“偶数”回合。"/>
+    <str id="You set the time dilation to match 'Odd' turns." value="You set the time dilation to match 'Odd' turns." local="你设置时间膨胀装置为“奇数”回合。"/>
   </UseLogs>
   <ActionLogs>
     <str id="You disarm %s." value="You disarm %s."/>
@@ -3492,7 +3492,7 @@
       <str id="paragraph 1" value="This heritage can be unlocked by wearing an orange shirt or robe and wielding two swords at the same time." local="解锁这项遗产需要你在穿着橙&#10;色衬衫或头巾时同时拿着两把&#10;剑。"/>
     </str>
     <str id="Three Tails" value="Allows you to enchant your yellow shirt or robe." local="允许你对你的黄色衬衫和头巾&#10;进行附魔。">
-      <str id="paragraph 1" value="This heritage can be unlocked by wearing a yellow shirt or robe and flipping a coin until you get three tails in a row." local="解锁这项遗产需要你在穿着黄&#10;色衬衫或头巾时抛投硬币，直&#10;到连续掷出三个反面。"/>
+      <str id="paragraph 1" value="This heritage can be unlocked by wearing a yellow shirt or robe and flipping a coin until you get three tails in a row." local="解锁这项遗产需要你在穿着黄&#10;色衬衫或头巾时抛投硬币，直&#10;到连续掷出三个背面。"/>
     </str>
     <str id="The Pink Order" value="Allows you to enchant your pink shirt or robe." local="允许你对你的粉色衬衫和头巾&#10;进行附魔。">
       <str id="paragraph 1" value="This heritage can be unlocked by wearing a pink shirt or robe and saying '%s' without the quotes on the chat." local="解锁这项遗产需要你在穿着粉&#10;色衬衫或头巾时，在聊天频道&#10;说出 '%s' （不带引号）。"/>

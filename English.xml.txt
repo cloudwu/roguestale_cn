@@ -673,12 +673,12 @@ UseLogs."You can't set a bear trap here." 你不能在此安装捕熊陷阱。
 UseLogs."You set a magic trap at your feet." 你在脚下设置了一个魔法陷阱。
 UseLogs."You can't set a magic trap here." 你不能在此安装魔法陷阱。
 UseLogs."The dog collar is on cooldown with %d turns remaining." 狗项圈还有%d回合冷却。
-UseLogs."You closely examine %s and conclude that it is of more use to a skilled craftsman." You closely examine %s and conclude that it is of more use to a skilled craftsman.
-UseLogs."You flip a coin and it lands on its head." You flip a coin and it lands on its head.
-UseLogs."You flip a coin and it lands on its tail." You flip a coin and it lands on its tail.
-UseLogs."Select a blessed ring to bind on %s." Select a blessed ring to bind on %s.
-UseLogs."You set the time dilation to match 'Even' turns." You set the time dilation to match 'Even' turns.
-UseLogs."You set the time dilation to match 'Odd' turns." You set the time dilation to match 'Odd' turns.
+UseLogs."You closely examine %s and conclude that it is of more use to a skilled craftsman." 你仔细检查了%s，结论是它对一个熟练的工匠更有用。
+UseLogs."You flip a coin and it lands on its head." 你抛起一枚硬币，它正面朝上。
+UseLogs."You flip a coin and it lands on its tail." 你抛起一枚硬币，它背面朝上。
+UseLogs."Select a blessed ring to bind on %s." 选择一个神圣的戒指绑定在%s之上。
+UseLogs."You set the time dilation to match 'Even' turns." 你设置时间膨胀装置为“偶数”回合。
+UseLogs."You set the time dilation to match 'Odd' turns." 你设置时间膨胀装置为“奇数”回合。
 ActionLogs."You disarm %s." You disarm %s.
 ActionLogs."You sidestep to avoid being knocked back." You sidestep to avoid being knocked back.
 ActionLogs."You are knocked back." You are knocked back.
@@ -3202,7 +3202,7 @@ HeritageDescs."Loose Weight".1 @(26)解锁这项遗产需要你在穿着蓝色�
 HeritageDescs."The Wanderer" @(26)允许你对你的橙色衬衫和头巾进行附魔。
 HeritageDescs."The Wanderer".1 @(26)解锁这项遗产需要你在穿着橙色衬衫或头巾时同时拿着两把剑。
 HeritageDescs."Three Tails" @(26)允许你对你的黄色衬衫和头巾进行附魔。
-HeritageDescs."Three Tails".1 @(26)解锁这项遗产需要你在穿着黄色衬衫或头巾时抛投硬币，直到连续掷出三个反面。
+HeritageDescs."Three Tails".1 @(26)解锁这项遗产需要你在穿着黄色衬衫或头巾时抛投硬币，直到连续掷出三个背面。
 HeritageDescs."The Pink Order" @(26)允许你对你的粉色衬衫和头巾进行附魔。
 HeritageDescs."The Pink Order".1 @(26)解锁这项遗产需要你在穿着粉色衬衫或头巾时，在聊天频道说出 '%s' （不带引号）。
 HeritageDescs."Big Bada Boom" @(26)允许你对你的白色衬衫和头巾进行附魔。
