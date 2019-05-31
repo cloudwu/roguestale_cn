@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="283eda9bd9e8b724f00fc234c149ef58567bd5eb">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="66a5e570337a2f03f8a245a30e5fbfd857091b97">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -1205,40 +1205,40 @@
     <str id="Hit Modifier: Stamina" value="Hit Modifier: Stamina" local="命中修正：耐力"/>
   </SpellDescs>
   <SpellLogs>
-    <str id="You gain clearcasting and cast the spell for free." value="You gain clearcasting and cast the spell for free."/>
-    <str id="You have a feeling that the spell didn't come out right." value="You have a feeling that the spell didn't come out right."/>
-    <str id="But apparently the spell just fizzles." value="But apparently the spell just fizzles."/>
-    <str id="The spell's energy discharges from every orifice." value="The spell's energy discharges from every orifice."/>
-    <str id="A sudden sensation of horror overcomes you." value="A sudden sensation of horror overcomes you."/>
-    <str id="Your lips can't seem to keep up with your brain." value="Your lips can't seem to keep up with your brain."/>
-    <str id="The spell drains you dry before fizzling out." value="The spell drains you dry before fizzling out."/>
-    <str id="You suddenly see things from a new perspective." value="You suddenly see things from a new perspective."/>
-    <str id="You suddenly see through yourself." value="You suddenly see through yourself."/>
-    <str id="You seem to have angered %s." value="You seem to have angered %s."/>
-    <str id="You shift to a new location." value="You shift to a new location."/>
-    <str id="The soul's magical energy hits you." value="The soul's magical energy hits you."/>
-    <str id="%s misses its target and hits %s instead." value="%s misses its target and hits %s instead."/>
-    <str id="%s critically hits %s." value="%s critically hits %s."/>
-    <str id="%s hits %s." value="%s hits %s."/>
-    <str id="%s has no effect on %s." value="%s has no effect on %s."/>
-    <str id="%s is destroyed by %s." value="%s is destroyed by %s."/>
-    <str id="You have gained %s." value="You have gained %s."/>
-    <str id="%s has gained %s." value="%s has gained %s."/>
-    <str id="Your %s is refreshed." value="Your %s is refreshed."/>
-    <str id="%s's %s has been refreshed." value="%s's %s has been refreshed."/>
-    <str id="You are affected by %s." value="You are affected by %s."/>
-    <str id="%s is affected by %s." value="%s is affected by %s."/>
-    <str id="%s appears out of thin air." value="%s appears out of thin air."/>
-    <str id="%s vanishes into thin air." value="%s vanishes into thin air."/>
-    <str id="You forget how to cast %s." value="You forget how to cast %s."/>
-    <str id="You learn how to cast %s." value="You learn how to cast %s."/>
-    <str id="You have learned a new talent." value="You have learned a new talent."/>
-    <str id="%s is reanimated as %s." value="%s is reanimated as %s."/>
-    <str id="%s is resurrected." value="%s is resurrected."/>
-    <str id="The chasm fills up and becomes a floor." value="The chasm fills up and becomes a floor."/>
-    <str id="The floor rises up and becomes a wall." value="The floor rises up and becomes a wall."/>
-    <str id="The wall crumbles and reveals a floor." value="The wall crumbles and reveals a floor."/>
-    <str id="The floor crumbles and reveals a chasm." value="The floor crumbles and reveals a chasm."/>
+    <str id="You gain clearcasting and cast the spell for free." value="You gain clearcasting and cast the spell for free." local="你获得沉静施法，本次施法免费。"/>
+    <str id="You have a feeling that the spell didn't come out right." value="You have a feeling that the spell didn't come out right." local="你感觉法术不能正确的释放出来。"/>
+    <str id="But apparently the spell just fizzles." value="But apparently the spell just fizzles." local="但很明显法术失效了。"/>
+    <str id="The spell's energy discharges from every orifice." value="The spell's energy discharges from every orifice." local="该法术的能量从每一个出口释放。"/>
+    <str id="A sudden sensation of horror overcomes you." value="A sudden sensation of horror overcomes you." local="一个恐怖的感觉笼罩着你。"/>
+    <str id="Your lips can't seem to keep up with your brain." value="Your lips can't seem to keep up with your brain." local="你的嘴唇似乎跟不上你的大脑。"/>
+    <str id="The spell drains you dry before fizzling out." value="The spell drains you dry before fizzling out." local="这个法术在失败前抽干了你。"/>
+    <str id="You suddenly see things from a new perspective." value="You suddenly see things from a new perspective." local="你突然从一个新的视角看问题。"/>
+    <str id="You suddenly see through yourself." value="You suddenly see through yourself." local="你突然看穿了自己。"/>
+    <str id="You seem to have angered %s." value="You seem to have angered %s." local="你似乎惹恼了%s。"/>
+    <str id="You shift to a new location." value="You shift to a new location." local="你传送到了一个新的位置。"/>
+    <str id="The soul's magical energy hits you." value="The soul's magical energy hits you." local="晶石的魔力击中了你。"/>
+    <str id="%s misses its target and hits %s instead." value="%s misses its target and hits %s instead." local="%s偏离了目标，而是击中了%s。"/>
+    <str id="%s critically hits %s." value="%s critically hits %s." local="%s暴击了%s。"/>
+    <str id="%s hits %s." value="%s hits %s." local="%s击中了%s。"/>
+    <str id="%s has no effect on %s." value="%s has no effect on %s." local="%s对%s无效。"/>
+    <str id="%s is destroyed by %s." value="%s is destroyed by %s." local="%s被%s摧毁了。"/>
+    <str id="You have gained %s." value="You have gained %s." local="你获得了%s。"/>
+    <str id="%s has gained %s." value="%s has gained %s." local="%s获得了%s。"/>
+    <str id="Your %s is refreshed." value="Your %s is refreshed." local="你的%s被刷新了。"/>
+    <str id="%s's %s has been refreshed." value="%s's %s has been refreshed." local="%s的%s被刷新了。"/>
+    <str id="You are affected by %s." value="You are affected by %s." local="你受到%s的影响。"/>
+    <str id="%s is affected by %s." value="%s is affected by %s." local="%s受到%s的影响。"/>
+    <str id="%s appears out of thin air." value="%s appears out of thin air." local="%s凭空出现。"/>
+    <str id="%s vanishes into thin air." value="%s vanishes into thin air." local="%s凭空消失。"/>
+    <str id="You forget how to cast %s." value="You forget how to cast %s." local="你忘了怎样释放%s。"/>
+    <str id="You learn how to cast %s." value="You learn how to cast %s." local="你学会了释放%s。"/>
+    <str id="You have learned a new talent." value="You have learned a new talent." local="你学会了一项新天赋。"/>
+    <str id="%s is reanimated as %s." value="%s is reanimated as %s." local="%s复活成为了%s。"/>
+    <str id="%s is resurrected." value="%s is resurrected." local="%s复活了。"/>
+    <str id="The chasm fills up and becomes a floor." value="The chasm fills up and becomes a floor." local="深坑上升变成了地板。"/>
+    <str id="The floor rises up and becomes a wall." value="The floor rises up and becomes a wall." local="地板上升变成了墙体。"/>
+    <str id="The wall crumbles and reveals a floor." value="The wall crumbles and reveals a floor." local="墙体破碎变成了地板。"/>
+    <str id="The floor crumbles and reveals a chasm." value="The floor crumbles and reveals a chasm." local="地板破碎变成了深坑。"/>
   </SpellLogs>
   <EnchantNames>
     <str id="Mark of Agility" value="Mark of Agility" local="敏捷印记"/>
@@ -4280,89 +4280,89 @@
     <str id="You can't throw at yourself." value="You can't throw at yourself." local="你不能对自己投掷。"/>
   </CursorAnim>
   <EffectAnim>
-    <str id="Oogled" value="You are oogled."/>
-    <str id="Divine Grace" value="It increases agility and charisma by 1 and physical, poison and disease resistances by 1."/>
-    <str id="Divine Might" value="It increases strength and stamina by 1 and fire, frost and shock resistances by 1."/>
-    <str id="Divine Reach" value="It allows you to cast spells at any target within line of sight."/>
-    <str id="Divine Shield" value="It normally absorbs up to 30 points of damage before wearing off."/>
-    <str id="Renewing Touch" value="It heals you for D3 + CHA points per turn."/>
-    <str id="Amplify Magic" value="It amplifies the damage of orb spells by D6."/>
-    <str id="Enlarge Orb" value="It causes the next orb spell to explode upon impact causing an additional D6 + STA points of damage and the" space="True">
-      <str id="paragraph 1" value="spell's normal damage on any adjacent creatures."/>
+    <str id="Oogled" value="You are oogled." local="你被盗了。"/>
+    <str id="Divine Grace" value="It increases agility and charisma by 1 and physical, poison and disease resistances by 1." local="&#10;敏捷+1 魅力+1 物理抗性+1 毒害抗性+1 疾病抗性+1"/>
+    <str id="Divine Might" value="It increases strength and stamina by 1 and fire, frost and shock resistances by 1." local="&#10;力量+1 耐力+1 火焰抗性+1 冰霜抗性+1 震击抗性+1"/>
+    <str id="Divine Reach" value="It allows you to cast spells at any target within line of sight." local="&#10;允许你向视野中任意目标施法。"/>
+    <str id="Divine Shield" value="It normally absorbs up to 30 points of damage before wearing off." local="&#10;在消失前，它一般能吸收最高 30 点伤害。"/>
+    <str id="Renewing Touch" value="It heals you for D3 + CHA points per turn." local="&#10;每回合回复 D3 + 魅力 点生命。"/>
+    <str id="Amplify Magic" value="It amplifies the damage of orb spells by D6." local="&#10;增强法术球伤害 D6 。"/>
+    <str id="Enlarge Orb" value="It causes the next orb spell to explode upon impact causing an additional D6 + STA points of damage and the" local="&#10;让下一个法术球爆炸，其冲击力将增加直接命中的&#10;伤害 D6 + 耐力，且常规伤害会波及邻接生物。" space="True">
+      <str id="paragraph 1" value="spell's normal damage on any adjacent creatures." local=""/>
     </str>
-    <str id="Illumination" value="It increases light radius and search radius by 1."/>
-    <str id="Mage Armour" value="It increases all resistances by a number equal to STA / 2, or 1, whichever is higher. This effect is automatically" space="True">
-      <str id="paragraph 1" value="dispelled if your equipped items change for whatever reason."/>
+    <str id="Illumination" value="It increases light radius and search radius by 1." local="&#10;增加光照半径及搜索半径各一格。"/>
+    <str id="Mage Armour" value="It increases all resistances by a number equal to STA / 2, or 1, whichever is higher. This effect is automatically" local="&#10;增加所有抗性 耐力/2 或 1 点，取较高值。无论什&#10;么原因，只要你装备的物品有所变化，该效果都会&#10;自动消除。" space="True">
+      <str id="paragraph 1" value="dispelled if your equipped items change for whatever reason." local=""/>
     </str>
-    <str id="Mirror Image" value="You should never be able to see this text unless you become an illusion."/>
-    <str id="Capture Soul" value="It captures your soul in a gem upon death."/>
-    <str id="Demonic Visage" value="It makes your face resemble that of a Kling'On and any creature attempting to attack you must pass a mental check" space="True">
-      <str id="paragraph 1" value="or be afraid for D6 turns."/>
+    <str id="Mirror Image" value="You should never be able to see this text unless you become an illusion." local="&#10;除非你变成了一个幻象，否则你永远都不可能看到&#10;这段文字。"/>
+    <str id="Capture Soul" value="It captures your soul in a gem upon death." local="&#10;死亡会将你的灵魂摄入一颗晶石。"/>
+    <str id="Demonic Visage" value="It makes your face resemble that of a Kling'On and any creature attempting to attack you must pass a mental check" local="&#10;它让你的脸变得好像克林贡人一样，任何生物企图&#10;攻击你之前都必须通过一次精神检定，失败会恐惧&#10; D6 回合。" space="True">
+      <str id="paragraph 1" value="or be afraid for D6 turns." local=""/>
     </str>
-    <str id="Enslave Daemon" value="You should never be able to see this text unless you become a daemon."/>
-    <str id="Curse of Agony" value="It has a chance of causing D3 points of magic damage."/>
-    <str id="Curse of Envy" value="It has a chance of causing you to become envious for D6 turns. While envious, you are forced to move towards and" space="True">
-      <str id="paragraph 1" value="attack the nearest creature of the same gender or miss your turn if no such creature exists."/>
+    <str id="Enslave Daemon" value="You should never be able to see this text unless you become a daemon." local="&#10;除非您成为一个恶魔，否则永远无法看到这段文字&#10;。"/>
+    <str id="Curse of Agony" value="It has a chance of causing D3 points of magic damage." local="&#10;有机会遭受 D3 点魔法伤害。"/>
+    <str id="Curse of Envy" value="It has a chance of causing you to become envious for D6 turns. While envious, you are forced to move towards and" local="&#10;有机会使你嫉妒 D6 回合。在嫉妒状态时，你会被&#10;迫向附近相同性别的生物移动并攻击对方。如果没&#10;有这种生物则失去回合。" space="True">
+      <str id="paragraph 1" value="attack the nearest creature of the same gender or miss your turn if no such creature exists." local=""/>
     </str>
-    <str id="Curse of Gluttony" value="It has a chance of causing you to spend a turn eating or drinking. If you don't have anything suitable to consume," space="True">
-      <str id="paragraph 1" value="you will be frenzied for D6 turns."/>
+    <str id="Curse of Gluttony" value="It has a chance of causing you to spend a turn eating or drinking. If you don't have anything suitable to consume," local="&#10;有机会使你花掉一个回合进食或喝水。如果你没有&#10;食物供消耗，你会被陷入 D6 回合的狂乱。" space="True">
+      <str id="paragraph 1" value="you will be frenzied for D6 turns." local=""/>
     </str>
-    <str id="Curse of Greed" value="It has a chance of causing you to become greedy for D6 turns. While greedy, you are forced to move towards the" space="True">
-      <str id="paragraph 1" value="nearest item and attempt to pick it up or miss your turn if no such item exists."/>
+    <str id="Curse of Greed" value="It has a chance of causing you to become greedy for D6 turns. While greedy, you are forced to move towards the" local="&#10;有机会使你贪婪 D6 回合。在贪婪状态时，你会被&#10;迫向附近的物品移动并拾取它。如果附近没有物品&#10;，则失去回合。" space="True">
+      <str id="paragraph 1" value="nearest item and attempt to pick it up or miss your turn if no such item exists." local=""/>
     </str>
-    <str id="Curse of Hunger" value="It has a chance of causing you to lose one level on the seven level hunger track (counts as up to 360 turns of food" space="True">
-      <str id="paragraph 1" value="consumption)."/>
+    <str id="Curse of Hunger" value="It has a chance of causing you to lose one level on the seven level hunger track (counts as up to 360 turns of food" local="&#10;有机会使你在七级饥饿状态上降低一个级别（相当&#10;于最高 360 回合的食物消耗）。" space="True">
+      <str id="paragraph 1" value="consumption)." local=""/>
     </str>
-    <str id="Curse of Lust" value="It has a chance of causing you to become lustful for D6 turns. While lustful, you are forced to move towards the" space="True">
-      <str id="paragraph 1" value="nearest creature of the opposite gender and beat that creature into submission or miss your turn if no such"/>
-      <str id="paragraph 2" value="creature exists."/>
+    <str id="Curse of Lust" value="It has a chance of causing you to become lustful for D6 turns. While lustful, you are forced to move towards the" local="&#10;有机会使你淫荡 D6 回合。在淫荡状态时，你会被&#10;迫向附近不同性别的生物移动并把对方打服。如果&#10;没有这种生物则失去回合。" space="True">
+      <str id="paragraph 1" value="nearest creature of the opposite gender and beat that creature into submission or miss your turn if no such" local=""/>
+      <str id="paragraph 2" value="creature exists." local=""/>
     </str>
-    <str id="Curse of Pride" value="It has a chance of causing you to become reckless for D6 turns. While reckless, you are forced to move towards and" space="True">
-      <str id="paragraph 1" value="attack the nearest enemy creature or miss your turn if no such creature exists."/>
+    <str id="Curse of Pride" value="It has a chance of causing you to become reckless for D6 turns. While reckless, you are forced to move towards and" local="&#10;有机会使你鲁莽 D6 回合。在鲁莽状态时，你会被&#10;迫向附近的敌人移动并攻击对方。如果没有敌人则&#10;失去回合。" space="True">
+      <str id="paragraph 1" value="attack the nearest enemy creature or miss your turn if no such creature exists." local=""/>
     </str>
-    <str id="Curse of Sloth" value="It has a chance of causing you to lose one point of energy and miss your next turn. This effect also forces you to" space="True">
-      <str id="paragraph 1" value="re-roll successful energy regeneration rolls."/>
+    <str id="Curse of Sloth" value="It has a chance of causing you to lose one point of energy and miss your next turn. This effect also forces you to" local="&#10;有机会使你失去一点精力并失去下个回合。这个效&#10;果还会强制力重掷已经成功的精力恢复骰。" space="True">
+      <str id="paragraph 1" value="re-roll successful energy regeneration rolls." local=""/>
     </str>
-    <str id="Curse of Thirst" value="It has a chance of causing you to lose one level on the seven level thirst track (counts as up to 360 turns of water" space="True">
-      <str id="paragraph 1" value="consumption)."/>
+    <str id="Curse of Thirst" value="It has a chance of causing you to lose one level on the seven level thirst track (counts as up to 360 turns of water" local="&#10;有机会使你在七级干渴状态上降低一个级别（相当&#10;于最高 360 回合的饮水消耗）。" space="True">
+      <str id="paragraph 1" value="consumption)." local=""/>
     </str>
-    <str id="Curse of Wrath" value="It has a chance of causing you to become frenzied for D6 turns. While frenzied, you are forced to move towards and" space="True">
-      <str id="paragraph 1" value="attack the nearest creature or miss your turn if no such creature exists."/>
+    <str id="Curse of Wrath" value="It has a chance of causing you to become frenzied for D6 turns. While frenzied, you are forced to move towards and" local="&#10;有机会使你狂乱 D6 回合。在狂乱状态时，你会被&#10;迫向附近的生物移动并攻击对方。如果没有生物则&#10;失去回合。" space="True">
+      <str id="paragraph 1" value="attack the nearest creature or miss your turn if no such creature exists." local=""/>
     </str>
-    <str id="Blinding Poison" value="It has a chance of blinding you for D6 turns. While blinded, you may act normally with the exception that you can't" space="True">
-      <str id="paragraph 1" value=" see anything. This also applies a negative modifier to hit rolls that equals to the power level of the poison."/>
+    <str id="Blinding Poison" value="It has a chance of blinding you for D6 turns. While blinded, you may act normally with the exception that you can't" local="&#10;有机会对你致盲 D6 回合。在盲眼状态时，你还是&#10;可以行动，但是你看不见任何东西。这还会给你的&#10;命中骰附加一个相当于毒害强度级别的负面修正。" space="True">
+      <str id="paragraph 1" value=" see anything. This also applies a negative modifier to hit rolls that equals to the power level of the poison." local=" "/>
     </str>
-    <str id="Charming Poison" value="It has a chance of charming you for D6 turns. While charmed, you are forced to attack the nearest creature that is" space="True">
-      <str id="paragraph 1" value="also an enemy of the charmer or miss your turn if no such creature exists. This also forces you to pass a mental"/>
-      <str id="paragraph 2" value="check before attacking the charmer."/>
+    <str id="Charming Poison" value="It has a chance of charming you for D6 turns. While charmed, you are forced to attack the nearest creature that is" local="&#10;有机会魅惑你 D6 回合。在魅惑状态时，你被迫攻&#10;击最近的施魅者的敌人，如果没有这样的生物则失&#10;去回合。这还会强迫你在攻击施魅者前进行一次精&#10;神检定。" space="True">
+      <str id="paragraph 1" value="also an enemy of the charmer or miss your turn if no such creature exists. This also forces you to pass a mental" local=""/>
+      <str id="paragraph 2" value="check before attacking the charmer." local=""/>
     </str>
-    <str id="Confusing Poison" value="It has a chance of confusing you for D6 turns. While confused, your moves and attacks are made in a random" space="True">
-      <str id="paragraph 1" value=" direction. This also applies a negative modifier to hit rolls that equals to the power level of the poison."/>
+    <str id="Confusing Poison" value="It has a chance of confusing you for D6 turns. While confused, your moves and attacks are made in a random" local="&#10;有机会混乱你 D6 回合。在混乱状态时，你会向随&#10;机方向移动。这还会给你的命中骰附加一个相当于&#10;毒害强度级别的负面修正。" space="True">
+      <str id="paragraph 1" value=" direction. This also applies a negative modifier to hit rolls that equals to the power level of the poison." local=""/>
     </str>
-    <str id="Deadly Poison" value="It has a chance of causing D3 points of poison damage. This also forces you to re-roll successful health regeneration" space="True">
-      <str id="paragraph 1" value="rolls."/>
+    <str id="Deadly Poison" value="It has a chance of causing D3 points of poison damage. This also forces you to re-roll successful health regeneration" local="&#10;有机会导致 D3 点毒伤害。这还会迫使你重掷成功&#10;的生命回复骰。" space="True">
+      <str id="paragraph 1" value="rolls." local=""/>
     </str>
-    <str id="Deafening Poison" value="It has a chance of deafening you for D6 turns. This also applies a negative modifier on casting rolls that equals to the" space="True">
-      <str id="paragraph 1" value="power level of the poison. Creatures with %s talent are not affected."/>
+    <str id="Deafening Poison" value="It has a chance of deafening you for D6 turns. This also applies a negative modifier on casting rolls that equals to the" local="&#10;有机会让你聋耳 D6 回合。这还会给你的施法骰附&#10;加一个相当于毒害强度级别的负面修正。" space="True">
+      <str id="paragraph 1" value="power level of the poison. Creatures with %s talent are not affected." local="&#10;拥有%s天赋的生物不会受影响。"/>
     </str>
-    <str id="Draining Poison" value="It has a chance of causing you to lose 1 point of energy. This also applies a negative modifier on energy" space="True">
-      <str id="paragraph 1" value="regeneration rolls that equals to the power level of the poison. The damage caused by this poison also counts as"/>
-      <str id="paragraph 2" value="an energy drain effect for immunity purposes."/>
+    <str id="Draining Poison" value="It has a chance of causing you to lose 1 point of energy. This also applies a negative modifier on energy" local="&#10;有机会使你失去一点精力。这还会给你的精力回复&#10;骰附加一个相当于毒害强度级别的负面修正。这个&#10;毒药引起的伤害在做免疫检查时视作噬精效果。" space="True">
+      <str id="paragraph 1" value="regeneration rolls that equals to the power level of the poison. The damage caused by this poison also counts as" local=""/>
+      <str id="paragraph 2" value="an energy drain effect for immunity purposes." local=""/>
     </str>
-    <str id="Leeching Poison" value="It has a chance of causing you to lose D3 points of health. This also applies a negative modifier on health" space="True">
-      <str id="paragraph 1" value="regeneration rolls that equals to the power level of the poison. The damage caused by this poison also counts as"/>
-      <str id="paragraph 2" value="a health drain effect for immunity purposes."/>
+    <str id="Leeching Poison" value="It has a chance of causing you to lose D3 points of health. This also applies a negative modifier on health" local="&#10;有机会使你失去 D3 点生命。这还会给你的生命回&#10;复骰附加一个相当于毒害强度级别的负面修正。这&#10;个毒药引起的伤害在做免疫检查时视作吸血效果。" space="True">
+      <str id="paragraph 1" value="regeneration rolls that equals to the power level of the poison. The damage caused by this poison also counts as" local=""/>
+      <str id="paragraph 2" value="a health drain effect for immunity purposes." local=""/>
     </str>
-    <str id="Paralytic Poison" value="It has a chance of paralysing you for D6 turns. This also counts as a slow effect."/>
-    <str id="Silencing Poison" value="It has a chance of silencing you for D6 turns. While silenced, you may not cast spells, read scrolls or talk to other" space="True">
-      <str id="paragraph 1" value="creatures. This also applies a negative modifier on casting rolls that equals to the power level of the poison."/>
-      <str id="paragraph 2" value="Creatures with %s talent are not affected."/>
+    <str id="Paralytic Poison" value="It has a chance of paralysing you for D6 turns. This also counts as a slow effect." local="&#10;有机会使你麻痹 D6 回合。这视作迟缓效果。"/>
+    <str id="Silencing Poison" value="It has a chance of silencing you for D6 turns. While silenced, you may not cast spells, read scrolls or talk to other" local="&#10;有机会使你沉默 D6 回合。在沉默状态时，你无法&#10;施法，阅读卷轴，以及和别的生物交谈。这还会给&#10;你的施法骰附加一个相当于毒害强度级别的负面修&#10;正。" space="True">
+      <str id="paragraph 1" value="creatures. This also applies a negative modifier on casting rolls that equals to the power level of the poison." local="&#10;拥有%s天赋的生物不会受影响。"/>
+      <str id="paragraph 2" value="Creatures with %s talent are not affected." local=""/>
     </str>
-    <str id="Sleeping Poison" value="It has a chance of causing you to fall asleep for D6 turns. Any damage will interrupt the current sleep effect but the" space="True">
-      <str id="paragraph 1" value="poison remains and you may fall asleep again on the next turn."/>
+    <str id="Sleeping Poison" value="It has a chance of causing you to fall asleep for D6 turns. Any damage will interrupt the current sleep effect but the" local="&#10;有机会使你沉睡 D6 回合。任何伤害都将打断当前&#10;的沉睡效果，但毒害依然存在，你下个回合还是有&#10;可能陷入沉睡。" space="True">
+      <str id="paragraph 1" value="poison remains and you may fall asleep again on the next turn." local=""/>
     </str>
-    <str id="Slowing Poison" value="It counts as a slow effect and as an effect that may cause you to miss your next turn. This also reduces dodge, parry" space="True">
-      <str id="paragraph 1" value="and block modifiers with a number that equals to the power level of the poison."/>
+    <str id="Slowing Poison" value="It counts as a slow effect and as an effect that may cause you to miss your next turn. This also reduces dodge, parry" local="&#10;它视为一个迟缓效果，这个效果有可能导致你失去&#10;下一个回合。这还会降低回避，招架，格挡修正，&#10;降低值等于毒害强度级别。" space="True">
+      <str id="paragraph 1" value="and block modifiers with a number that equals to the power level of the poison." local=""/>
     </str>
     <str id="Aching Muscle" value="It has a chance of causing one point of strength damage and a chance to place a slow effect on you for D6 turns."/>
     <str id="Bloody Flux" value="It has a chance of causing one point of stamina damage and a chance to cause D3 points of health damage."/>

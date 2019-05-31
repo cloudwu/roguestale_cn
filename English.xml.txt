@@ -1092,40 +1092,40 @@ SpellDescs."Arcane Missile" @(30)立刻杀死目标生物，或对其造成魔�
 SpellDescs."Alter Terrain" @(30)在偶数回合抬高，在奇数回合降低地块高度。
 SpellDescs."Hit Modifier: Charisma" 命中修正：魅力
 SpellDescs."Hit Modifier: Stamina" 命中修正：耐力
-SpellLogs."You gain clearcasting and cast the spell for free." You gain clearcasting and cast the spell for free.
-SpellLogs."You have a feeling that the spell didn't come out right." You have a feeling that the spell didn't come out right.
-SpellLogs."But apparently the spell just fizzles." But apparently the spell just fizzles.
-SpellLogs."The spell's energy discharges from every orifice." The spell's energy discharges from every orifice.
-SpellLogs."A sudden sensation of horror overcomes you." A sudden sensation of horror overcomes you.
-SpellLogs."Your lips can't seem to keep up with your brain." Your lips can't seem to keep up with your brain.
-SpellLogs."The spell drains you dry before fizzling out." The spell drains you dry before fizzling out.
-SpellLogs."You suddenly see things from a new perspective." You suddenly see things from a new perspective.
-SpellLogs."You suddenly see through yourself." You suddenly see through yourself.
-SpellLogs."You seem to have angered %s." You seem to have angered %s.
-SpellLogs."You shift to a new location." You shift to a new location.
-SpellLogs."The soul's magical energy hits you." The soul's magical energy hits you.
-SpellLogs."%s misses its target and hits %s instead." %s misses its target and hits %s instead.
-SpellLogs."%s critically hits %s." %s critically hits %s.
-SpellLogs."%s hits %s." %s hits %s.
-SpellLogs."%s has no effect on %s." %s has no effect on %s.
-SpellLogs."%s is destroyed by %s." %s is destroyed by %s.
-SpellLogs."You have gained %s." You have gained %s.
-SpellLogs."%s has gained %s." %s has gained %s.
-SpellLogs."Your %s is refreshed." Your %s is refreshed.
-SpellLogs."%s's %s has been refreshed." %s's %s has been refreshed.
-SpellLogs."You are affected by %s." You are affected by %s.
-SpellLogs."%s is affected by %s." %s is affected by %s.
-SpellLogs."%s appears out of thin air." %s appears out of thin air.
-SpellLogs."%s vanishes into thin air." %s vanishes into thin air.
-SpellLogs."You forget how to cast %s." You forget how to cast %s.
-SpellLogs."You learn how to cast %s." You learn how to cast %s.
-SpellLogs."You have learned a new talent." You have learned a new talent.
-SpellLogs."%s is reanimated as %s." %s is reanimated as %s.
-SpellLogs."%s is resurrected." %s is resurrected.
-SpellLogs."The chasm fills up and becomes a floor." The chasm fills up and becomes a floor.
-SpellLogs."The floor rises up and becomes a wall." The floor rises up and becomes a wall.
-SpellLogs."The wall crumbles and reveals a floor." The wall crumbles and reveals a floor.
-SpellLogs."The floor crumbles and reveals a chasm." The floor crumbles and reveals a chasm.
+SpellLogs."You gain clearcasting and cast the spell for free." 你获得沉静施法，本次施法免费。
+SpellLogs."You have a feeling that the spell didn't come out right." 你感觉法术不能正确的释放出来。
+SpellLogs."But apparently the spell just fizzles." 但很明显法术失效了。
+SpellLogs."The spell's energy discharges from every orifice." 该法术的能量从每一个出口释放。
+SpellLogs."A sudden sensation of horror overcomes you." 一个恐怖的感觉笼罩着你。
+SpellLogs."Your lips can't seem to keep up with your brain." 你的嘴唇似乎跟不上你的大脑。
+SpellLogs."The spell drains you dry before fizzling out." 这个法术在失败前抽干了你。
+SpellLogs."You suddenly see things from a new perspective." 你突然从一个新的视角看问题。
+SpellLogs."You suddenly see through yourself." 你突然看穿了自己。
+SpellLogs."You seem to have angered %s." 你似乎惹恼了%s。
+SpellLogs."You shift to a new location." 你传送到了一个新的位置。
+SpellLogs."The soul's magical energy hits you." 晶石的魔力击中了你。
+SpellLogs."%s misses its target and hits %s instead." %s偏离了目标，而是击中了%s。
+SpellLogs."%s critically hits %s." %s暴击了%s。
+SpellLogs."%s hits %s." %s击中了%s。
+SpellLogs."%s has no effect on %s." %s对%s无效。
+SpellLogs."%s is destroyed by %s." %s被%s摧毁了。
+SpellLogs."You have gained %s." 你获得了%s。
+SpellLogs."%s has gained %s." %s获得了%s。
+SpellLogs."Your %s is refreshed." 你的%s被刷新了。
+SpellLogs."%s's %s has been refreshed." %s的%s被刷新了。
+SpellLogs."You are affected by %s." 你受到%s的影响。
+SpellLogs."%s is affected by %s." %s受到%s的影响。
+SpellLogs."%s appears out of thin air." %s凭空出现。
+SpellLogs."%s vanishes into thin air." %s凭空消失。
+SpellLogs."You forget how to cast %s." 你忘了怎样释放%s。
+SpellLogs."You learn how to cast %s." 你学会了释放%s。
+SpellLogs."You have learned a new talent." 你学会了一项新天赋。
+SpellLogs."%s is reanimated as %s." %s复活成为了%s。
+SpellLogs."%s is resurrected." %s复活了。
+SpellLogs."The chasm fills up and becomes a floor." 深坑上升变成了地板。
+SpellLogs."The floor rises up and becomes a wall." 地板上升变成了墙体。
+SpellLogs."The wall crumbles and reveals a floor." 墙体破碎变成了地板。
+SpellLogs."The floor crumbles and reveals a chasm." 地板破碎变成了深坑。
 EnchantNames."Mark of Agility" 敏捷印记
 EnchantNames."Mark of Charisma" 魅力印记
 EnchantNames."Mark of Stamina" 耐力印记
@@ -3881,68 +3881,68 @@ CursorAnim."You can't attack yourself." 你不能攻击自己。
 CursorAnim."You can't attack empty spaces." 你不能攻击空位。
 CursorAnim."You can't shoot at yourself." 你不能射击自己。
 CursorAnim."You can't throw at yourself." 你不能对自己投掷。
-EffectAnim."Oogled" You are oogled.
-EffectAnim."Divine Grace" It increases agility and charisma by 1 and physical, poison and disease resistances by 1.
-EffectAnim."Divine Might" It increases strength and stamina by 1 and fire, frost and shock resistances by 1.
-EffectAnim."Divine Reach" It allows you to cast spells at any target within line of sight.
-EffectAnim."Divine Shield" It normally absorbs up to 30 points of damage before wearing off.
-EffectAnim."Renewing Touch" It heals you for D3 + CHA points per turn.
-EffectAnim."Amplify Magic" It amplifies the damage of orb spells by D6.
-EffectAnim."Enlarge Orb" It causes the next orb spell to explode upon impact causing an additional D6 + STA points of damage and the
-EffectAnim."Enlarge Orb".1 spell's normal damage on any adjacent creatures.
-EffectAnim."Illumination" It increases light radius and search radius by 1.
-EffectAnim."Mage Armour" It increases all resistances by a number equal to STA / 2, or 1, whichever is higher. This effect is automatically
-EffectAnim."Mage Armour".1 dispelled if your equipped items change for whatever reason.
-EffectAnim."Mirror Image" You should never be able to see this text unless you become an illusion.
-EffectAnim."Capture Soul" It captures your soul in a gem upon death.
-EffectAnim."Demonic Visage" It makes your face resemble that of a Kling'On and any creature attempting to attack you must pass a mental check
-EffectAnim."Demonic Visage".1 or be afraid for D6 turns.
-EffectAnim."Enslave Daemon" You should never be able to see this text unless you become a daemon.
-EffectAnim."Curse of Agony" It has a chance of causing D3 points of magic damage.
-EffectAnim."Curse of Envy" It has a chance of causing you to become envious for D6 turns. While envious, you are forced to move towards and
-EffectAnim."Curse of Envy".1 attack the nearest creature of the same gender or miss your turn if no such creature exists.
-EffectAnim."Curse of Gluttony" It has a chance of causing you to spend a turn eating or drinking. If you don't have anything suitable to consume,
-EffectAnim."Curse of Gluttony".1 you will be frenzied for D6 turns.
-EffectAnim."Curse of Greed" It has a chance of causing you to become greedy for D6 turns. While greedy, you are forced to move towards the
-EffectAnim."Curse of Greed".1 nearest item and attempt to pick it up or miss your turn if no such item exists.
-EffectAnim."Curse of Hunger" It has a chance of causing you to lose one level on the seven level hunger track (counts as up to 360 turns of food
-EffectAnim."Curse of Hunger".1 consumption).
-EffectAnim."Curse of Lust" It has a chance of causing you to become lustful for D6 turns. While lustful, you are forced to move towards the
-EffectAnim."Curse of Lust".1 nearest creature of the opposite gender and beat that creature into submission or miss your turn if no such
-EffectAnim."Curse of Lust".2 creature exists.
-EffectAnim."Curse of Pride" It has a chance of causing you to become reckless for D6 turns. While reckless, you are forced to move towards and
-EffectAnim."Curse of Pride".1 attack the nearest enemy creature or miss your turn if no such creature exists.
-EffectAnim."Curse of Sloth" It has a chance of causing you to lose one point of energy and miss your next turn. This effect also forces you to
-EffectAnim."Curse of Sloth".1 re-roll successful energy regeneration rolls.
-EffectAnim."Curse of Thirst" It has a chance of causing you to lose one level on the seven level thirst track (counts as up to 360 turns of water
-EffectAnim."Curse of Thirst".1 consumption).
-EffectAnim."Curse of Wrath" It has a chance of causing you to become frenzied for D6 turns. While frenzied, you are forced to move towards and
-EffectAnim."Curse of Wrath".1 attack the nearest creature or miss your turn if no such creature exists.
-EffectAnim."Blinding Poison" It has a chance of blinding you for D6 turns. While blinded, you may act normally with the exception that you can't
-EffectAnim."Blinding Poison".1  see anything. This also applies a negative modifier to hit rolls that equals to the power level of the poison.
-EffectAnim."Charming Poison" It has a chance of charming you for D6 turns. While charmed, you are forced to attack the nearest creature that is
-EffectAnim."Charming Poison".1 also an enemy of the charmer or miss your turn if no such creature exists. This also forces you to pass a mental
-EffectAnim."Charming Poison".2 check before attacking the charmer.
-EffectAnim."Confusing Poison" It has a chance of confusing you for D6 turns. While confused, your moves and attacks are made in a random
-EffectAnim."Confusing Poison".1  direction. This also applies a negative modifier to hit rolls that equals to the power level of the poison.
-EffectAnim."Deadly Poison" It has a chance of causing D3 points of poison damage. This also forces you to re-roll successful health regeneration
-EffectAnim."Deadly Poison".1 rolls.
-EffectAnim."Deafening Poison" It has a chance of deafening you for D6 turns. This also applies a negative modifier on casting rolls that equals to the
-EffectAnim."Deafening Poison".1 power level of the poison. Creatures with %s talent are not affected.
-EffectAnim."Draining Poison" It has a chance of causing you to lose 1 point of energy. This also applies a negative modifier on energy
-EffectAnim."Draining Poison".1 regeneration rolls that equals to the power level of the poison. The damage caused by this poison also counts as
-EffectAnim."Draining Poison".2 an energy drain effect for immunity purposes.
-EffectAnim."Leeching Poison" It has a chance of causing you to lose D3 points of health. This also applies a negative modifier on health
-EffectAnim."Leeching Poison".1 regeneration rolls that equals to the power level of the poison. The damage caused by this poison also counts as
-EffectAnim."Leeching Poison".2 a health drain effect for immunity purposes.
-EffectAnim."Paralytic Poison" It has a chance of paralysing you for D6 turns. This also counts as a slow effect.
-EffectAnim."Silencing Poison" It has a chance of silencing you for D6 turns. While silenced, you may not cast spells, read scrolls or talk to other
-EffectAnim."Silencing Poison".1 creatures. This also applies a negative modifier on casting rolls that equals to the power level of the poison.
-EffectAnim."Silencing Poison".2 Creatures with %s talent are not affected.
-EffectAnim."Sleeping Poison" It has a chance of causing you to fall asleep for D6 turns. Any damage will interrupt the current sleep effect but the
-EffectAnim."Sleeping Poison".1 poison remains and you may fall asleep again on the next turn.
-EffectAnim."Slowing Poison" It counts as a slow effect and as an effect that may cause you to miss your next turn. This also reduces dodge, parry
-EffectAnim."Slowing Poison".1 and block modifiers with a number that equals to the power level of the poison.
+EffectAnim."Oogled" 你被盗了。
+EffectAnim."Divine Grace" &#10;敏捷+1 魅力+1 物理抗性+1 毒害抗性+1 疾病抗性+1
+EffectAnim."Divine Might" &#10;力量+1 耐力+1 火焰抗性+1 冰霜抗性+1 震击抗性+1
+EffectAnim."Divine Reach" @(44)&#10;允许你向视野中任意目标施法。
+EffectAnim."Divine Shield" @(44)&#10;在消失前，它一般能吸收最高 30 点伤害。
+EffectAnim."Renewing Touch" @(44)&#10;每回合回复 D3 + 魅力 点生命。
+EffectAnim."Amplify Magic" @(44)&#10;增强法术球伤害 D6 。
+EffectAnim."Enlarge Orb" @(44)&#10;让下一个法术球爆炸，其冲击力将增加直接命中的伤害 D6 + 耐力，且常规伤害会波及邻接生物。
+EffectAnim."Enlarge Orb".1 
+EffectAnim."Illumination" @(44)&#10;增加光照半径及搜索半径各一格。
+EffectAnim."Mage Armour" @(44)&#10;增加所有抗性 耐力/2 或 1 点，取较高值。无论什么原因，只要你装备的物品有所变化，该效果都会自动消除。
+EffectAnim."Mage Armour".1 
+EffectAnim."Mirror Image" @(44)&#10;除非你变成了一个幻象，否则你永远都不可能看到这段文字。
+EffectAnim."Capture Soul" @(44)&#10;死亡会将你的灵魂摄入一颗晶石。
+EffectAnim."Demonic Visage" @(44)&#10;它让你的脸变得好像克林贡人一样，任何生物企图攻击你之前都必须通过一次精神检定，失败会恐惧 D6 回合。
+EffectAnim."Demonic Visage".1 
+EffectAnim."Enslave Daemon" @(44)&#10;除非您成为一个恶魔，否则永远无法看到这段文字。
+EffectAnim."Curse of Agony" @(44)&#10;有机会遭受 D3 点魔法伤害。
+EffectAnim."Curse of Envy" @(44)&#10;有机会使你嫉妒 D6 回合。在嫉妒状态时，你会被迫向附近相同性别的生物移动并攻击对方。如果没有这种生物则失去回合。
+EffectAnim."Curse of Envy".1 
+EffectAnim."Curse of Gluttony" @(44)&#10;有机会使你花掉一个回合进食或喝水。如果你没有食物供消耗，你会被陷入 D6 回合的狂乱。
+EffectAnim."Curse of Gluttony".1 
+EffectAnim."Curse of Greed" @(44)&#10;有机会使你贪婪 D6 回合。在贪婪状态时，你会被迫向附近的物品移动并拾取它。如果附近没有物品，则失去回合。
+EffectAnim."Curse of Greed".1 
+EffectAnim."Curse of Hunger" @(44)&#10;有机会使你在七级饥饿状态上降低一个级别（相当于最高 360 回合的食物消耗）。
+EffectAnim."Curse of Hunger".1 
+EffectAnim."Curse of Lust" @(44)&#10;有机会使你淫荡 D6 回合。在淫荡状态时，你会被迫向附近不同性别的生物移动并把对方打服。如果没有这种生物则失去回合。
+EffectAnim."Curse of Lust".1 
+EffectAnim."Curse of Lust".2 
+EffectAnim."Curse of Pride" @(44)&#10;有机会使你鲁莽 D6 回合。在鲁莽状态时，你会被迫向附近的敌人移动并攻击对方。如果没有敌人则失去回合。
+EffectAnim."Curse of Pride".1 
+EffectAnim."Curse of Sloth" @(44)&#10;有机会使你失去一点精力并失去下个回合。这个效果还会强制力重掷已经成功的精力恢复骰。
+EffectAnim."Curse of Sloth".1 
+EffectAnim."Curse of Thirst" @(44)&#10;有机会使你在七级干渴状态上降低一个级别（相当于最高 360 回合的饮水消耗）。
+EffectAnim."Curse of Thirst".1 
+EffectAnim."Curse of Wrath" @(44)&#10;有机会使你狂乱 D6 回合。在狂乱状态时，你会被迫向附近的生物移动并攻击对方。如果没有生物则失去回合。
+EffectAnim."Curse of Wrath".1 
+EffectAnim."Blinding Poison" @(44)&#10;有机会对你致盲 D6 回合。在盲眼状态时，你还是可以行动，但是你看不见任何东西。这还会给你的命中骰附加一个相当于毒害强度级别的负面修正。
+EffectAnim."Blinding Poison".1  
+EffectAnim."Charming Poison" @(44)&#10;有机会魅惑你 D6 回合。在魅惑状态时，你被迫攻击最近的施魅者的敌人，如果没有这样的生物则失去回合。这还会强迫你在攻击施魅者前进行一次精神检定。
+EffectAnim."Charming Poison".1 
+EffectAnim."Charming Poison".2 
+EffectAnim."Confusing Poison" @(44)&#10;有机会混乱你 D6 回合。在混乱状态时，你会向随机方向移动。这还会给你的命中骰附加一个相当于毒害强度级别的负面修正。
+EffectAnim."Confusing Poison".1 
+EffectAnim."Deadly Poison" @(44)&#10;有机会导致 D3 点毒伤害。这还会迫使你重掷成功的生命回复骰。
+EffectAnim."Deadly Poison".1 
+EffectAnim."Deafening Poison" @(44)&#10;有机会让你聋耳 D6 回合。这还会给你的施法骰附加一个相当于毒害强度级别的负面修正。
+EffectAnim."Deafening Poison".1 @(44)&#10;拥有%s天赋的生物不会受影响。
+EffectAnim."Draining Poison" @(44)&#10;有机会使你失去一点精力。这还会给你的精力回复骰附加一个相当于毒害强度级别的负面修正。这个毒药引起的伤害在做免疫检查时视作噬精效果。
+EffectAnim."Draining Poison".1 
+EffectAnim."Draining Poison".2 
+EffectAnim."Leeching Poison" @(44)&#10;有机会使你失去 D3 点生命。这还会给你的生命回复骰附加一个相当于毒害强度级别的负面修正。这个毒药引起的伤害在做免疫检查时视作吸血效果。
+EffectAnim."Leeching Poison".1 
+EffectAnim."Leeching Poison".2 
+EffectAnim."Paralytic Poison" @(44)&#10;有机会使你麻痹 D6 回合。这视作迟缓效果。
+EffectAnim."Silencing Poison" @(44)&#10;有机会使你沉默 D6 回合。在沉默状态时，你无法施法，阅读卷轴，以及和别的生物交谈。这还会给你的施法骰附加一个相当于毒害强度级别的负面修正。
+EffectAnim."Silencing Poison".1 @(44)&#10;拥有%s天赋的生物不会受影响。
+EffectAnim."Silencing Poison".2 
+EffectAnim."Sleeping Poison" @(44)&#10;有机会使你沉睡 D6 回合。任何伤害都将打断当前的沉睡效果，但毒害依然存在，你下个回合还是有可能陷入沉睡。
+EffectAnim."Sleeping Poison".1 
+EffectAnim."Slowing Poison" @(44)&#10;它视为一个迟缓效果，这个效果有可能导致你失去下一个回合。这还会降低回避，招架，格挡修正，降低值等于毒害强度级别。
+EffectAnim."Slowing Poison".1 
 EffectAnim."Aching Muscle" It has a chance of causing one point of strength damage and a chance to place a slow effect on you for D6 turns.
 EffectAnim."Bloody Flux" It has a chance of causing one point of stamina damage and a chance to cause D3 points of health damage.
 EffectAnim."Bone Plague" It has a chance of causing one point of strength damage and a chance to place a paralysis effect on you for D6 turns.
