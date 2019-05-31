@@ -2451,8 +2451,8 @@ LegendaryNames."Misinvisicast" 幻影迷踪
 LegendaryNames."Nightshade" 黑暗幽影
 LegendaryNames."Orbus Bomba" 法球炸弹
 LegendaryNames."Zombie Dog" 僵尸之狗
-LegendaryDescs."WeaponDesc" Well, like it or not, this weapon is now extra shiny with a cool name and it's also unbreakable.
-LegendaryDescs."EffectDesc" This weapon can gain a legendary effect if it's equipped in the main hand while imbuement conditions are met.
+LegendaryDescs."WeaponDesc" @(26)好吧，不管你喜不喜欢，这个武器现在有了一个很酷的名字，而且它是不会坏的。
+LegendaryDescs."EffectDesc" @(26)当这把武器装备在主手且满足灌注条件时，它会获得一个传奇效果。
 LegendaryDescs."Cheesy Musk" @(26)现在洞熊在攻击你的时候自动被驯化。
 LegendaryDescs."Death Proof" @(26)只要这个效果不在冷却状态，当你将承受足以致死的伤害时，自动施放神圣之盾。
 LegendaryDescs."Flashlight" @(26)任何人只要看到这把武器，在他的回合最后就会发亮。

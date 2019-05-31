@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="ab08888d61785ae27e64854bca9571ebb9337b78">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="f25ef8aaf7b30c272c286c653802fad66bc23c22">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -2659,8 +2659,8 @@
     <str id="Zombie Dog" value="Zombie Dog" local="僵尸之狗"/>
   </LegendaryNames>
   <LegendaryDescs>
-    <str id="WeaponDesc" value="Well, like it or not, this weapon is now extra shiny with a cool name and it's also unbreakable."/>
-    <str id="EffectDesc" value="This weapon can gain a legendary effect if it's equipped in the main hand while imbuement conditions are met."/>
+    <str id="WeaponDesc" value="Well, like it or not, this weapon is now extra shiny with a cool name and it's also unbreakable." local="好吧，不管你喜不喜欢，这个&#10;武器现在有了一个很酷的名字&#10;，而且它是不会坏的。"/>
+    <str id="EffectDesc" value="This weapon can gain a legendary effect if it's equipped in the main hand while imbuement conditions are met." local="当这把武器装备在主手且满足&#10;灌注条件时，它会获得一个传&#10;奇效果。"/>
     <str id="Cheesy Musk" value="Cave bears are now automatically tamed when they try to attack you." local="现在洞熊在攻击你的时候自动&#10;被驯化。"/>
     <str id="Death Proof" value="Divine Shield is automatically cast if this effect is not on cooldown and damage taken would kill you." local="只要这个效果不在冷却状态，&#10;当你将承受足以致死的伤害时&#10;，自动施放神圣之盾。"/>
     <str id="Flashlight" value="Everyone who can see this weapon at the end of their own turn will be illuminated." local="任何人只要看到这把武器，在&#10;他的回合最后就会发亮。"/>
