@@ -296,9 +296,9 @@ Encounters."The remains of the third leg wiggle all over and inside you." 第三
 Travelers."a cave bear" 一只洞熊
 Travelers."a drake" 一条龙
 Travelers."a floater" 一只浮游类
-Travelers."a glutopod" 一只 glutopod
+Travelers."a glutopod" 一只格鲁特
 Travelers."an infernal" 一个地狱恶魔
-Travelers."a mamalob" 一只 mamalob
+Travelers."a mamalob" 一只麻麻洛
 Travelers."a wraith" 一个幽灵
 Travelers."a banshee" 一只女妖
 Travelers."an elemental" 一个元素怪
@@ -307,9 +307,9 @@ Travelers."a demonrat" 一只魔鼠
 Travelers."the cave bear" 这只洞熊
 Travelers."the drake" 这条龙
 Travelers."the floater" 这只浮游类
-Travelers."the glutopod" 这只 glutopod
+Travelers."the glutopod" 这只格鲁特
 Travelers."the infernal" 这个地狱恶魔
-Travelers."the mamalob" 这个 mamalob
+Travelers."the mamalob" 这只麻麻洛
 Travelers."the wraith" 这个幽灵
 Travelers."the banshee" 这个女妖
 Travelers."the elemental" 这个元素怪
@@ -1303,64 +1303,65 @@ EnchantSuffixes." of Battle" （战斗）
 EnchantSuffixes." of Sorcery" （巫术）
 EnchantSuffixes." of Zeal" （热忱）
 EnchantSuffixes." of Legends" （传奇）
-ItemLogs."You see %s here." You see %s here.
-ItemLogs."You see %s." You see %s.
-ItemLogs."%s is no longer blessed." %s is no longer blessed.
-ItemLogs."%s is no longer cursed." %s is no longer cursed.
-ItemLogs."%s has lost its shine." %s has lost its shine.
-ItemLogs."%s is stained by the spell." %s is stained by the spell.
-ItemLogs."%s shatters to pieces." %s shatters to pieces.
-ItemLogs."You have identified %s as %s." You have identified %s as %s.
-ItemLogs."%s radiates divine light for a moment." %s radiates divine light for a moment.
-ItemLogs."You transmute %s into %d gold coins." You transmute %s into %d gold coins.
-ItemLogs."You transmute %s into a gold coin." You transmute %s into a gold coin.
-ItemLogs."You transmute some of your chest hairs into gold particles." You transmute some of your chest hairs into gold particles.
-ItemLogs."%s is destroyed by magical imbalance." %s is destroyed by magical imbalance.
-ItemLogs."%s glows black for a moment." %s glows black for a moment.
-ItemLogs."%s glows blue for a moment." %s glows blue for a moment.
-ItemLogs."%s glows blue for a moment before shattering to pieces." %s glows blue for a moment before shattering to pieces.
-ItemLogs."You gain knowledge about %s." You gain knowledge about %s.
-ItemLogs."You feel that you have forgotten something." You feel that you have forgotten something.
-ItemLogs."You feel dumber than a rock." You feel dumber than a rock.
-ItemLogs."You use the %s on %s." You use the %s on %s.
-ItemLogs."%s shines brightly for a moment." %s shines brightly for a moment.
-ItemLogs."%s emits darkness for a moment." %s emits darkness for a moment.
-ItemLogs."You name your %s as %s." You name your %s as %s.
-ItemLogs."%s becomes a legendary item." %s becomes a legendary item.
-ItemLogs."You reset the legendary effect on your %s." You reset the legendary effect on your %s.
-ItemLogs."%s legendary effect is imbued in your %s." %s legendary effect is imbued in your %s.
-ItemLogs."Your %s has lost its shine." Your %s has lost its shine.
-ItemLogs."%s's %s has lost its shine." %s's %s has lost its shine.
-ItemLogs."Your %s is damaged." Your %s is damaged.
-ItemLogs."%s's %s is damaged." %s's %s is damaged.
-ItemLogs."Your %s is broken." Your %s is broken.
-ItemLogs."%s's %s is broken." %s's %s is broken.
-ItemLogs."%s worn on your main hand is destroyed." %s worn on your main hand is destroyed.
-ItemLogs."%s worn on your offhand is destroyed." %s worn on your offhand is destroyed.
-ItemLogs."Your %s slips from your hand and is unequipped." Your %s slips from your hand and is unequipped.
-ItemLogs."%s's %s slips and is unequipped." %s's %s slips and is unequipped.
-ItemLogs."Your %s slips from your hand and falls to the ground." Your %s slips from your hand and falls to the ground.
-ItemLogs."%s's %s slips and falls to the ground." %s's %s slips and falls to the ground.
-ItemLogs."Your %s slips from your hand and is stolen by %s." Your %s slips from your hand and is stolen by %s.
-ItemLogs."%s's %s slips and is stolen by you" %s's %s slips and is stolen by you
-ItemLogs."The %s has no effect on you." The %s has no effect on you.
-ItemLogs."The potion has no effect on you." The potion has no effect on you.
-ItemLogs."You are affected by %s." You are affected by %s.
-ItemLogs."Your %s is refreshed by %s." Your %s is refreshed by %s.
-ItemLogs."Your %s is refreshed by the potion." Your %s is refreshed by the potion.
-ItemLogs."%s didn't seem to have any effect." %s didn't seem to have any effect.
-ItemLogs."%s shines and repairs itself." %s shines and repairs itself.
-ItemLogs."%s radiates a divine light for a moment." %s radiates a divine light for a moment.
-ItemLogs."%s didn't seem to have any effect." %s didn't seem to have any effect.
-ItemLogs."You buy %s for a gold coin." You buy %s for a gold coin.
-ItemLogs."You buy %s for %d gold coins." You buy %s for %d gold coins.
-ItemLogs."You can't afford to buy those %s." You can't afford to buy those %s.
-ItemLogs."You can't afford to buy %s." You can't afford to buy %s.
-ItemLogs."You don't have enough materials to craft %s." You don't have enough materials to craft %s.
-ItemLogs."You don't have enough free space for those %s." You don't have enough free space for those %s.
-ItemLogs."You don't have enough free space for %s." You don't have enough free space for %s.
-ItemLogs."You can't place those those %s there." You can't place those those %s there.
-ItemLogs."You can't place %s there." You can't place %s there.
+ItemLogs."You see %s here." 你在这里看见了%s。
+ItemLogs."You see %s." 你看见%s。
+ItemLogs."%s is no longer blessed." %s不再神圣。
+ItemLogs."%s is no longer cursed." %s不再被诅咒。
+ItemLogs."%s has lost its shine." %s失去了光泽。
+ItemLogs."%s is stained by the spell." %s被法术玷污了。
+ItemLogs."%s shatters to pieces." %s碎成了几片。
+ItemLogs."You have identified %s as %s." 你将%s鉴定为%s。
+ItemLogs."%s radiates divine light for a moment." %s散发出一束神圣的光芒。
+ItemLogs."You transmute %s into %d gold coins." 你将%s点化为 %d 枚金币。
+ItemLogs."You transmute %s into a gold coin." 你将%s点化为一枚金币。
+ItemLogs."You transmute some of your chest hairs into gold particles." 你将你的胸毛点化成黄金微粒。
+ItemLogs."%s is destroyed by magical imbalance." %s由于魔力失衡而毁灭。
+ItemLogs."%s glows black for a moment." %s散发出一束黑色的光芒。
+ItemLogs."%s glows blue for a moment." %s散发出一束蓝色的光芒。
+ItemLogs."%s glows blue for a moment before shattering to pieces." %s散发出一束蓝色的光芒随之粉碎。
+ItemLogs."You gain knowledge about %s." 你获得了关于%s的知识。
+ItemLogs."You feel that you have forgotten something." 你觉得你忘了些东西。
+ItemLogs."You feel dumber than a rock." 你觉得自己比石头还笨。
+# 这里需要用 %1 %2 倒序
+ItemLogs."You use the %s on %s." 你取出%s，将其对%s使用。
+ItemLogs."%s shines brightly for a moment." 刹那间，%s闪耀出光芒。
+ItemLogs."%s emits darkness for a moment." 刹那间，%s透着黑暗。
+ItemLogs."You name your %s as %s." 你将你的%s命名为%s。
+ItemLogs."%s becomes a legendary item." %s变成了一件传奇物品。
+ItemLogs."You reset the legendary effect on your %s." 你在你的%s上重置了传奇效果。
+ItemLogs."%s legendary effect is imbued in your %s." %s 传奇效果被灌注到你的%s内。
+ItemLogs."Your %s has lost its shine." 你的%s失去了光泽。
+ItemLogs."%s's %s has lost its shine." %s的%s失去了光泽。
+ItemLogs."Your %s is damaged." 你的%s损坏了。
+ItemLogs."%s's %s is damaged." %s的%s损坏了。
+ItemLogs."Your %s is broken." 你的%s损毁了。
+ItemLogs."%s's %s is broken." %s的%s损毁了。
+ItemLogs."%s worn on your main hand is destroyed." 你主手装备的%s被摧毁了。
+ItemLogs."%s worn on your offhand is destroyed." 你副手装备的%s被摧毁了。
+ItemLogs."Your %s slips from your hand and is unequipped." 你的%s从主手滑落，卸了下来。
+ItemLogs."%s's %s slips and is unequipped." %s的%s滑落，卸了下来。
+ItemLogs."Your %s slips from your hand and falls to the ground." 你的%s从主手滑落，掉在地上。
+ItemLogs."%s's %s slips and falls to the ground." %s的%s滑落，掉在地上。
+ItemLogs."Your %s slips from your hand and is stolen by %s." 你的%s从主手换罗，被%s偷走。
+ItemLogs."%s's %s slips and is stolen by you" %s的%s滑落，被你偷走
+ItemLogs."The %s has no effect on you." 这个%s对你不起效果。
+ItemLogs."The potion has no effect on you." 这瓶药剂对你不起效果。
+ItemLogs."You are affected by %s." 你收到了%s的影响。
+ItemLogs."Your %s is refreshed by %s." 你的%s被%s恢复。
+ItemLogs."Your %s is refreshed by the potion." 你的%s被这药剂恢复。
+ItemLogs."%s didn't seem to have any effect." %s看起来不带任何效果。
+ItemLogs."%s shines and repairs itself." %s闪了一下，自我修理好了。
+ItemLogs."%s radiates a divine light for a moment." %s一刹那放射出神圣的光芒。
+ItemLogs."%s didn't seem to have any effect." %s看起来不带任何效果。
+ItemLogs."You buy %s for a gold coin." 你用一枚金币买了%s。
+ItemLogs."You buy %s for %d gold coins." 你买了%s，花掉你 %d 枚金币。
+ItemLogs."You can't afford to buy those %s." 你买不起那些%s。
+ItemLogs."You can't afford to buy %s." 你买不起%s。
+ItemLogs."You don't have enough materials to craft %s." 你没有足够的材料制造%s。
+ItemLogs."You don't have enough free space for those %s." 你没有足够的空间存放那些%s。
+ItemLogs."You don't have enough free space for %s." 你没有足够的空间存放%s。
+ItemLogs."You can't place those those %s there." 你无法将那些%s放在那里。
+ItemLogs."You can't place %s there." 你无法将%s放在那里。
 ItemSets."Re-roll failed snare checks." 重掷陷阱检定。
 ItemSets."Re-roll failed sneak checks." 重掷潜行检定。
 ItemSets."Re-roll failed persuasion checks." 重掷失败的说服检定。
@@ -2313,7 +2314,7 @@ WeaponNames."Branch" 树枝
 WeaponNames."Bow" 弓
 WeaponNames."Recurve" 反曲弓
 WeaponNames."Mangler" 大剑
-WeaponNames."Chopper" 大斧
+WeaponNames."Chopper" 巨斧
 WeaponNames."Crusher" 大锤
 WeaponNames."Digger" 镐
 WeaponNames."Spear" 长枪
@@ -2337,7 +2338,7 @@ WeaponNames."Fine Branch" 精美树枝
 WeaponNames."Fine Bow" 精美之弓
 WeaponNames."Fine Recurve" 精美反曲弓
 WeaponNames."Fine Mangler" 精美大剑
-WeaponNames."Fine Chopper" 精美大斧
+WeaponNames."Fine Chopper" 精美巨斧
 WeaponNames."Fine Crusher" 精美大锤
 WeaponNames."Fine Digger" 精美之镐
 WeaponNames."Fine Spear" 精美长枪
@@ -2370,97 +2371,97 @@ WeaponNames."Staff of the Trickster" 魔术师之杖
 WeaponNames."Staff of the Archmage" 大法师之杖
 WeaponNames."Staff of the Ice Queen" 冰霜女王之杖
 WeaponNames."Death Star" 死星
-WeaponDescs."Dagger" This is a piercing weapon and as such has a chance of ignoring the target's physical resistance.
-WeaponDescs."Talon" This weapon is perfect against those nasty kidneys that keep coming in its way.
-WeaponDescs."Hatchet" This is a thrown melee weapon and as such can be both equipped and thrown for full damage.
-WeaponDescs."Sword" This is a slashing weapon and as such has a good chance of doubling the base damage against weaker targets.
-WeaponDescs."Claw" This claw feels like an extension of some kind but it actually works pretty well.
-WeaponDescs."Axe" This weapon is great for chopping down trees and orcs which grow rampant in the dungeons.
-WeaponDescs."Club" This weapon should only be used as a last resort unless you're born with a green skin.
-WeaponDescs."Mace" This is a crushing weapon and as such has a good chance of halving the target's physical resistance.
-WeaponDescs."Hammer" This weapon is durable and as such it allows to re-roll failed durability checks.
-WeaponDescs."Flail" This is a flailing weapon and as such has a good chance of ignoring the target's parry or block modifiers.
-WeaponDescs."Branch" Tie a string on a tree branch, fletch some sticks and take over the world.
-WeaponDescs."Bow" This is a ranged weapon and as such must be equipped with the right kind of arrows in the offhand.
-WeaponDescs."Recurve" Get a horse and call yourself a Khan. Barring that, it also works in a closed environment.
-WeaponDescs."Mangler" This sword is perfectly balanced to keep those pesky peasants in line.
-WeaponDescs."Chopper" A man who can cut down a tree with an axe can cut down a bigger tree with this.
-WeaponDescs."Crusher" Works brilliantly in situations where you must crush or be crushed.
-WeaponDescs."Digger" This weapon is great for knocking down obstacles such as orcs and walls.
-WeaponDescs."Spear" This weapon is a polearm and as such has a range of up to two tiles with the attack button.
-WeaponDescs."Staff" This weapon is a conduit and as such it allows the wielder to re-roll failed spell to-hit rolls.
-WeaponDescs."Crossbow" This is a slow weapon and as such must be rearmed after every time it is used.
-WeaponDescs."Repeater" Unlike regular crossbows, the ones on the receiving end of a repeater won't get to tell their story.
-WeaponDescs."Rock" This rock looks fancier and rests more fittingly in your palm than many other rocks.
-WeaponDescs."Throwing Knife" This knife is perfectly balanced to stop those weaklings who try to run away.
-WeaponDescs."Throwing Star" This weapon is great for those villains who don't mind robbing their victims.
-WeaponDescs."Fine Dagger" This is a piercing weapon and as such has a chance of ignoring the target's physical resistance.
-WeaponDescs."Fine Talon" This weapon is perfect against those nasty kidneys that keep coming in its way.
-WeaponDescs."Fine Hatchet" This is a thrown melee weapon and as such can be both equipped and thrown for full damage.
-WeaponDescs."Fine Sword" This is a slashing weapon and as such has a good chance of doubling the base damage against weaker targets.
-WeaponDescs."Fine Claw" This claw feels like an extension of some kind but it actually works pretty well.
-WeaponDescs."Fine Axe" This weapon is great for chopping down trees and orcs which grow rampant in the dungeons.
-WeaponDescs."Fine Club" This weapon should only be used as a last resort unless you're born with a green skin.
-WeaponDescs."Fine Mace" This is a crushing weapon and as such has a good chance of halving the target's physical resistance.
-WeaponDescs."Fine Hammer" This weapon is durable and as such it allows to re-roll failed durability checks.
-WeaponDescs."Fine Flail" This is a flailing weapon and as such has a good chance of ignoring the target's parry or block modifiers.
-WeaponDescs."Fine Branch" Tie a string on a tree branch, fletch some sticks and take over the world.
-WeaponDescs."Fine Bow" This is a ranged weapon and as such must be equipped with the right kind of arrows in the offhand.
-WeaponDescs."Fine Recurve" Get a horse and call yourself a Khan. Barring that, it also works in a closed environment.
-WeaponDescs."Fine Mangler" This sword is perfectly balanced to keep those pesky peasants in line.
-WeaponDescs."Fine Chopper" A man who can cut down a tree with an axe can cut down a bigger tree with this.
-WeaponDescs."Fine Crusher" Works brilliantly in situations where you must crush or be crushed.
-WeaponDescs."Fine Digger" This weapon is great for knocking down obstacles such as orcs and walls.
-WeaponDescs."Fine Spear" This weapon is a polearm and as such has a range of up to two tiles with the attack button.
-WeaponDescs."Fine Staff" This weapon is a conduit and as such it allows the wielder to re-roll failed spell to-hit rolls.
-WeaponDescs."Fine Crossbow" This is a slow weapon and as such must be rearmed after every time it is used.
-WeaponDescs."Fine Repeater" Unlike regular crossbows, the ones on the receiving end of a repeater won't get to tell their story.
-WeaponDescs."Wizard Staff" This weapon teaches its wielder how to cast one of the five orb spells.
-WeaponDescs."Wizard Staff 0" This weapon teaches its wielder how to cast the Flaming Orb spell.
-WeaponDescs."Wizard Staff 1" This weapon teaches its wielder how to cast the Frozen Orb spell.
-WeaponDescs."Wizard Staff 2" This weapon teaches its wielder how to cast the Electric Orb spell.
-WeaponDescs."Wizard Staff 3" This weapon teaches its wielder how to cast the Venomous Orb spell.
-WeaponDescs."Wizard Staff 4" This weapon teaches its wielder how to cast the Virulent Orb spell.
-WeaponDescs."Wizard Staff 5" This weapon teaches its wielder how to cast the Release Soul spell.
-WeaponDescs."Celestial Staff" Description...
-WeaponDescs."Draconic Staff" Description...
-WeaponDescs."Infernal Staff" Description...
-WeaponDescs."Arcane Staff" Description...
-WeaponDescs."Bestial Staff" Description...
-WeaponDescs."Abyssal Staff" Description...
-WeaponDescs."Fine Throwing Knife" This knife is perfectly balanced to stop those weaklings who try to run away.
-WeaponDescs."Fine Throwing Star" This weapon is great for those villains who don't mind robbing their victims.
-WeaponDescs."Gifin's Claw" 这曾经属于吉夫大师，你从他的尸体上夺了过来。
-WeaponDescs."Gareth's Axe" 这曾经属于驯熊师加雷思，你从他的尸体上捡到的。
-WeaponDescs."Dawid's Hammer" 这曾经属于圣骑士达维德，他已经随他的兄弟们战死沙场。
-WeaponDescs."Royal Mace" This is one of those toys that you get to have as a King. Enjoy while it's yours.
-WeaponDescs."Satyr's Sting" 这曾经属于独行侠赛特，你从他的遗物中获得。
-WeaponDescs."Logar's Blade" 这曾经属于剑圣洛迦，他的手已不再有体温。
-WeaponDescs."Altren's Kiss" 这曾经属于艾特仁王子，上面刻有 XLVII ，已经不知道其含义。
-WeaponDescs."Staff of the Trickster" 这曾经属于魔术师赖安，持有它的人可以释放瘟疫球。
-WeaponDescs."Staff of the Archmage" 这曾经属于大法师高焚岱，持有它的人可以释放火球术。
-WeaponDescs."Staff of the Ice Queen" 这曾经属于冰霜女王艾特娜，持有它的人可以释放冰球术。
-WeaponDescs."Death Star" These throwing stars are one of the deadliest tools used by the Blackhand assassins.
-LegendaryNames."Cheesy Musk" Cheesy Musk
-LegendaryNames."Death Proof" Death Proof
-LegendaryNames."Flashlight" Flashlight
-LegendaryNames."Hateful Aura" Hateful Aura
-LegendaryNames."Leap of Faith" Leap of Faith
-LegendaryNames."Misinvisicast" Misinvisicast
-LegendaryNames."Nightshade" Nightshade
-LegendaryNames."Orbus Bomba" Orbus Bomba
-LegendaryNames."Zombie Dog" Zombie Dog
+WeaponDescs."Dagger" @(26)这是一种穿刺武器，因此有可能忽略目标的物理抵抗。
+WeaponDescs."Talon" @(26)这把武器用来对付那些坏蛋简直太棒了。
+WeaponDescs."Hatchet" @(26)这是一种投掷近战武器，因此既可以装备使用也可以仍出去造成全部伤害。
+WeaponDescs."Sword" @(26)这是一种砍杀武器，因此对较弱的目标有加倍基础伤害的好机会。
+WeaponDescs."Claw" @(26)这只爪子感觉像是某种类型的扩展，但实际上它工作得很好。
+WeaponDescs."Axe" @(26)这种武器非常适合砍倒地牢里猖獗兽人和树木。
+WeaponDescs."Club" @(26)除非你的皮肤是绿色的，否则这种武器只能作为最后的手段使用。
+WeaponDescs."Mace" @(26)这是一种粉碎性武器，因此很有可能将目标的物理抗性减半。
+WeaponDescs."Hammer" @(26)这把武器非常耐用，它允许你在耐久检定失败时重掷。
+WeaponDescs."Flail" @(26)这是一把连打型武器，有更大的可能忽略目标的招架或格挡修正。
+WeaponDescs."Branch" @(26)把一根绳子系在树枝上，给树枝装上羽毛，然后就能征服世界。
+WeaponDescs."Bow" @(26)这是一种远程武器，因此必须在副手配备正确类型的羽箭。
+WeaponDescs."Recurve" @(26)骑上一匹马，叫自己可汗。除此之外，室内也能工作。
+WeaponDescs."Mangler" @(26)这把剑打造的很好，能使那些讨厌的农民守规矩。
+WeaponDescs."Chopper" @(26)一个能用小斧头砍倒一棵树的人能用这个砍倒一棵更大的树。
+WeaponDescs."Crusher" @(26)在你必须粉碎对方或被对方粉碎的情况下它显得辉煌无比。
+WeaponDescs."Digger" @(26)这把武器是在击倒障碍方面特别出色，比如兽人和墙壁。
+WeaponDescs."Spear" @(26)这种武器是一种长柄武器，因此你可以通过按攻击按钮打出两格的攻击范围。
+WeaponDescs."Staff" @(26)这把武器是一种导器，这意味着它允许持有者重掷失败的施法骰和法术命中骰。
+WeaponDescs."Crossbow" @(26)这是一种慢速武器，因此每次使用后都必须重新整备。
+WeaponDescs."Repeater" @(26)与普通的弩不同，被连弩总结的家伙都来不及叫出来。
+WeaponDescs."Rock" @(26)这块岩石看起来比其他石头更漂亮，放在你的手掌上也更合适。
+WeaponDescs."Throwing Knife" @(26)这把飞刀锻造的非常之好，正好用来阻止那些弱夫逃跑。
+WeaponDescs."Throwing Star" @(26)这把武器对那些肆意抢劫的恶棍来说太棒了。
+WeaponDescs."Fine Dagger" @(26)这是一种穿刺武器，因此有可能忽略目标的物理抵抗。
+WeaponDescs."Fine Talon" @(26)这把武器用来对付那些坏蛋简直太棒了。
+WeaponDescs."Fine Hatchet" @(26)这是一种投掷近战武器，因此既可以装备使用也可以仍出去造成全部伤害。
+WeaponDescs."Fine Sword" @(26)这是一种砍杀武器，因此对较弱的目标有加倍基础伤害的好机会。
+WeaponDescs."Fine Claw" @(26)这只爪子感觉像是某种类型的扩展，但实际上它工作得很好。
+WeaponDescs."Fine Axe" @(26)这种武器非常适合砍倒地牢里猖獗兽人和树木。
+WeaponDescs."Fine Club" @(26)除非你的皮肤是绿色的，否则这种武器只能作为最后的手段使用。
+WeaponDescs."Fine Mace" @(26)这是一种粉碎性武器，因此很有可能将目标的物理抗性减半。
+WeaponDescs."Fine Hammer" @(26)这把武器非常耐用，它允许你在耐久检定失败时重掷。
+WeaponDescs."Fine Flail" @(26)这是一把连打型武器，有更大的可能忽略目标的招架或格挡修正。
+WeaponDescs."Fine Branch" @(26)把一根绳子系在树枝上，给树枝装上羽毛，然后就能征服世界。
+WeaponDescs."Fine Bow" @(26)这是一种远程武器，因此必须在副手配备正确类型的羽箭。
+WeaponDescs."Fine Recurve" @(26)骑上一匹马，叫自己可汗。除此之外，室内也能工作。
+WeaponDescs."Fine Mangler" @(26)这把剑打造的很好，能使那些讨厌的农民守规矩。
+WeaponDescs."Fine Chopper" @(26)一个能用小斧头砍倒一棵树的人能用这个砍倒一棵更大的树。
+WeaponDescs."Fine Crusher" @(26)在你必须粉碎对方或被对方粉碎的情况下它显得辉煌无比。
+WeaponDescs."Fine Digger" @(26)这把武器是在击倒障碍方面特别出色，比如兽人和墙壁。
+WeaponDescs."Fine Spear" @(26)这种武器是一种长柄武器，因此你可以通过按攻击按钮打出两格的攻击范围。
+WeaponDescs."Fine Staff" @(26)这把武器是一种导器，这意味着它允许持有者重掷失败的施法骰和法术命中骰。
+WeaponDescs."Fine Crossbow" @(26)这是一种慢速武器，因此每次使用后都必须重新整备。
+WeaponDescs."Fine Repeater" @(26)与普通的弩不同，被连弩总结的家伙都来不及叫出来。
+WeaponDescs."Wizard Staff" @(26)这把武器能教会使用者如何释放五种法术球中的一种。
+WeaponDescs."Wizard Staff 0" @(26)这把武器能教会使用者如何释放火球术。
+WeaponDescs."Wizard Staff 1" @(26)这把武器能教会使用者如何释放冰球术。
+WeaponDescs."Wizard Staff 2" @(26)这把武器能教会使用者如何释放电球术。
+WeaponDescs."Wizard Staff 3" @(26)这把武器能教会使用者如何释放毒球术。
+WeaponDescs."Wizard Staff 4" @(26)这把武器能教会使用者如何释放疫球术。
+WeaponDescs."Wizard Staff 5" @(26)这把武器能教会使用者如何释放释放灵魂。
+WeaponDescs."Celestial Staff" 说明……
+WeaponDescs."Draconic Staff" 说明……
+WeaponDescs."Infernal Staff" 说明……
+WeaponDescs."Arcane Staff" 说明……
+WeaponDescs."Bestial Staff" 说明……
+WeaponDescs."Abyssal Staff" 说明……
+WeaponDescs."Fine Throwing Knife" @(26)这把飞刀锻造的非常之好，正好用来阻止那些弱夫逃跑。
+WeaponDescs."Fine Throwing Star" @(26)这把武器对那些肆意抢劫的恶棍来说太棒了。
+WeaponDescs."Gifin's Claw" @(26)这曾经属于吉夫大师，你从他的尸体上夺了过来。
+WeaponDescs."Gareth's Axe" @(26)这曾经属于驯熊师加雷思，你从他的尸体上捡到的。
+WeaponDescs."Dawid's Hammer" @(26)这曾经属于圣骑士达维德，他已经随他的兄弟们战死沙场。
+WeaponDescs."Royal Mace" @(26)这是你成为一个国王的诸多玩具中的一个。好好把玩。
+WeaponDescs."Satyr's Sting" @(26)这曾经属于独行侠赛特，你从他的遗物中获得。
+WeaponDescs."Logar's Blade" @(26)这曾经属于剑圣洛迦，他的手已不再有体温。
+WeaponDescs."Altren's Kiss" @(26)这曾经属于艾特仁王子，上面刻有 XLVII ，已经不知道其含义。
+WeaponDescs."Staff of the Trickster" @(26)这曾经属于魔术师赖安，持有它的人可以释放瘟疫球。
+WeaponDescs."Staff of the Archmage" @(26)这曾经属于大法师高焚岱，持有它的人可以释放火球术。
+WeaponDescs."Staff of the Ice Queen" @(26)这曾经属于冰霜女王艾特娜，持有它的人可以释放冰球术。
+WeaponDescs."Death Star" @(26)这些手里剑是黑手刺客用过的最致命的武器。
+LegendaryNames."Cheesy Musk" 奶酪面具
+LegendaryNames."Death Proof" 死亡防护
+LegendaryNames."Flashlight" 闪闪发光
+LegendaryNames."Hateful Aura" 憎恶光环
+LegendaryNames."Leap of Faith" 信仰之跃
+LegendaryNames."Misinvisicast" 幻影迷踪
+LegendaryNames."Nightshade" 黑暗幽影
+LegendaryNames."Orbus Bomba" 法球炸弹
+LegendaryNames."Zombie Dog" 僵尸之狗
 LegendaryDescs."WeaponDesc" Well, like it or not, this weapon is now extra shiny with a cool name and it's also unbreakable.
 LegendaryDescs."EffectDesc" This weapon can gain a legendary effect if it's equipped in the main hand while imbuement conditions are met.
-LegendaryDescs."Cheesy Musk" Cave bears are now automatically tamed when they try to attack you.
-LegendaryDescs."Death Proof" Divine Shield is automatically cast if this effect is not on cooldown and damage taken would kill you.
-LegendaryDescs."Flashlight" Everyone who can see this weapon at the end of their own turn will be illuminated.
-LegendaryDescs."Hateful Aura" 33% of damage taken is copied to all nearby creatures and you are healed for half of the damage caused this way.
-LegendaryDescs."Leap of Faith" Jumping no longer requires energy and it always succeeds.
-LegendaryDescs."Misinvisicast" Miscasting always turns you invisible in addition to other effects.
-LegendaryDescs."Nightshade" Poisons applied to weapons last forever and count as potent when they are applied.
-LegendaryDescs."Orbus Bomba" Automatically casts Enlarge Orb at the end of your turn if you are not already affected by it.
-LegendaryDescs."Zombie Dog" Woof comes back to life at the start of a new dungeon if he happens to be dead (reset dungeon in town).
+LegendaryDescs."Cheesy Musk" @(26)现在洞熊在攻击你的时候自动被驯化。
+LegendaryDescs."Death Proof" @(26)只要这个效果不在冷却状态，当你将承受足以致死的伤害时，自动施放神圣之盾。
+LegendaryDescs."Flashlight" @(26)任何人只要看到这把武器，在他的回合最后就会发亮。
+LegendaryDescs."Hateful Aura" @(26)受到的伤害的 33% 会复制给所有附近的生物，而你会被治愈这种方式造成的伤害的一半。
+LegendaryDescs."Leap of Faith" @(26)跳跃不再需要精力点，而且永远成功。
+LegendaryDescs."Misinvisicast" @(26)施法失误在造成其它影响之外一定会将你隐身。
+LegendaryDescs."Nightshade" @(26)在武器上的淬毒永远生效，且视作强效。
+LegendaryDescs."Orbus Bomba" @(26)如果你没有释放 法术球增大 ，那么在你的回合结束的时候就自动释放它。
+LegendaryDescs."Zombie Dog" @(26)如果汪汪死了，那么在每个新的地牢开始时会复活（在城镇中重置）。
 CreatureNames."Invisible creature" 隐形生物
 CreatureNames."the corpse of %s" %s的尸体
 CreatureNames."a dead %s" 死去的%s
@@ -2530,35 +2531,35 @@ CreatureNames."Dawid the Paladin" 圣骑士达维德
 CreatureNames."Leo Noerde" 鲁班
 CreatureNames."Ken'nih" 肯'尼斯
 CreatureNames."Chronomancer" 时空术士
-CreatureNames."Verman" Verman
-CreatureNames."Butcher" Butcher
-CreatureNames."Darkseer" Darkseer
-CreatureNames."Illusion" Illusion
-CreatureNames."Evil Genie" Evil Genie
+CreatureNames."Verman" 韦尔曼
+CreatureNames."Butcher" 屠夫
+CreatureNames."Darkseer" 黑暗贤者
+CreatureNames."Illusion" 幻觉
+CreatureNames."Evil Genie" 恶鬼
 CreatureNames."King" 国王
 CreatureNames."Queen" 女王
 CreatureNames."Monster" 巨怪
 CreatureNames."Cave bear" 洞熊
 CreatureNames."Drake" 龙
 CreatureNames."Infernal" 恶魔
-CreatureNames."Mamalob" Mamalob
+CreatureNames."Mamalob" 麻麻洛
 CreatureNames."Wraith" 幽灵
-CreatureNames."Banshee" Banshee
-CreatureNames."Glutopod" Glutopod
+CreatureNames."Banshee" 女妖
+CreatureNames."Glutopod" 格鲁特
 CreatureNames."Dark Prince" 黑暗王子
 CreatureNames."Papalob" 趴趴洛
-CreatureNames."Lasher" Lasher
-CreatureNames."Slicer" Slicer
+CreatureNames."Lasher" 逃兵
+CreatureNames."Slicer" 胖妞
 CreatureNames."Earth elemental" 土元素
 CreatureNames."Air elemental" 气元素
 CreatureNames."Fire elemental" 火元素
 CreatureNames."Water elemental" 水元素
-CreatureNames."Dweller" Dweller
-CreatureNames."Lurker" Lurker
-CreatureNames."Floater" Floater
-CreatureNames."Floaty" Floaty
-CreatureNames."Troll" Troll
-CreatureNames."Treeman" Treeman
+CreatureNames."Dweller" 水怪
+CreatureNames."Lurker" 潜伏者
+CreatureNames."Floater" 浮游类
+CreatureNames."Floaty" 浮浮
+CreatureNames."Troll" 巨魔
+CreatureNames."Treeman" 树人
 CreatureNames."Demonrat" 魔鼠
 CreatureNames."Orc" 兽人
 CreatureNames."Orc grunt" 兽人步兵
@@ -2567,15 +2568,15 @@ CreatureNames."Orc shaman" 兽人萨满
 CreatureNames."Orc boss" 兽人首领
 CreatureNames."Orc miner" 兽人矿工
 CreatureNames."Loot hoarder" 收藏家
-CreatureNames."Player" Player
-CreatureNames."Wise" Wise
-CreatureNames."Just" Just
-CreatureNames."Decent" Decent
-CreatureNames."Kind" Kind
-CreatureNames."Cruel" Cruel
-CreatureNames."Fair" Fair
-CreatureNames."Gentle" Gentle
-CreatureNames."Haxxor" Haxxor
+CreatureNames."Player" 玩家
+CreatureNames."Wise" 睿智的
+CreatureNames."Just" 公正的
+CreatureNames."Decent" 正义的
+CreatureNames."Kind" 友好的
+CreatureNames."Cruel" 残忍的
+CreatureNames."Fair" 公平的
+CreatureNames."Gentle" 温和的
+CreatureNames."Haxxor" 开挂者
 CreatureNames."Undead" 亡灵
 CreatureNames."Undead warrior" 亡灵战士
 CreatureNames."Undead archer" 亡灵射手
@@ -3324,13 +3325,13 @@ ChallengeNames."Rat Lives Matter" 鼠害猖獗
 ChallengeNames."Triggered Much?" 惹够了？
 ChallengeNames."Drain the Swamp" 耗尽沼泽
 ChallengeNames."Cheesy Musk" 奶酪面具
-ChallengeNames."Death Proof" 防止死亡
+ChallengeNames."Death Proof" 死亡防护
 ChallengeNames."Flashlight" 闪闪发光
 ChallengeNames."Hateful Aura" 憎恶光环
 ChallengeNames."Leap of Faith" 信仰之跃
 ChallengeNames."Misinvisicast" 幻影迷踪
 ChallengeNames."Nightshade" 黑暗幽影
-ChallengeNames."Orbus Bomba" 死亡爆炸
+ChallengeNames."Orbus Bomba" 法球炸弹
 ChallengeNames."Zombie Dog" 僵尸之狗
 ChallengeNames."Path of Wisdom" 智慧之路
 ChallengeNames."Path of Justice" 正义之路
@@ -3510,8 +3511,8 @@ ChallengeTitles."the Deadly" 死神
 ChallengeTitles."the Splasher" 喷射战士
 ChallengeTitles."the Caretaker" 看门人
 ChallengeTitles."the Wise" 睿智的
-ChallengeTitles."the Just" 正义的
-ChallengeTitles."the Decent" 正派的
+ChallengeTitles."the Just" 公正的
+ChallengeTitles."the Decent" 正义的
 ChallengeTitles."the Kind" 友好的
 ChallengeTitles."the Cruel" 残忍的
 ChallengeTitles."the Fair" 公平的

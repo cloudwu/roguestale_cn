@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="6a24ff7d78171452332f7dded8202fb9b7b89ad4">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="ab08888d61785ae27e64854bca9571ebb9337b78">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -338,9 +338,9 @@
     <str id="a cave bear" value="a cave bear" local="一只洞熊"/>
     <str id="a drake" value="a drake" local="一条龙"/>
     <str id="a floater" value="a floater" local="一只浮游类"/>
-    <str id="a glutopod" value="a glutopod" local="一只 glutopod"/>
+    <str id="a glutopod" value="a glutopod" local="一只格鲁特"/>
     <str id="an infernal" value="an infernal" local="一个地狱恶魔"/>
-    <str id="a mamalob" value="a mamalob" local="一只 mamalob"/>
+    <str id="a mamalob" value="a mamalob" local="一只麻麻洛"/>
     <str id="a wraith" value="a wraith" local="一个幽灵"/>
     <str id="a banshee" value="a banshee" local="一只女妖"/>
     <str id="an elemental" value="an elemental" local="一个元素怪"/>
@@ -349,9 +349,9 @@
     <str id="the cave bear" value="the cave bear" local="这只洞熊"/>
     <str id="the drake" value="the drake" local="这条龙"/>
     <str id="the floater" value="the floater" local="这只浮游类"/>
-    <str id="the glutopod" value="the glutopod" local="这只 glutopod"/>
+    <str id="the glutopod" value="the glutopod" local="这只格鲁特"/>
     <str id="the infernal" value="the infernal" local="这个地狱恶魔"/>
-    <str id="the mamalob" value="the mamalob" local="这个 mamalob"/>
+    <str id="the mamalob" value="the mamalob" local="这只麻麻洛"/>
     <str id="the wraith" value="the wraith" local="这个幽灵"/>
     <str id="the banshee" value="the banshee" local="这个女妖"/>
     <str id="the elemental" value="the elemental" local="这个元素怪"/>
@@ -1426,64 +1426,64 @@
     <str id=" of Legends" value=" of Legends" local="（传奇）"/>
   </EnchantSuffixes>
   <ItemLogs>
-    <str id="You see %s here." value="You see %s here."/>
-    <str id="You see %s." value="You see %s."/>
-    <str id="%s is no longer blessed." value="%s is no longer blessed."/>
-    <str id="%s is no longer cursed." value="%s is no longer cursed."/>
-    <str id="%s has lost its shine." value="%s has lost its shine."/>
-    <str id="%s is stained by the spell." value="%s is stained by the spell."/>
-    <str id="%s shatters to pieces." value="%s shatters to pieces."/>
-    <str id="You have identified %s as %s." value="You have identified %s as %s."/>
-    <str id="%s radiates divine light for a moment." value="%s radiates divine light for a moment."/>
-    <str id="You transmute %s into %d gold coins." value="You transmute %s into %d gold coins."/>
-    <str id="You transmute %s into a gold coin." value="You transmute %s into a gold coin."/>
-    <str id="You transmute some of your chest hairs into gold particles." value="You transmute some of your chest hairs into gold particles."/>
-    <str id="%s is destroyed by magical imbalance." value="%s is destroyed by magical imbalance."/>
-    <str id="%s glows black for a moment." value="%s glows black for a moment."/>
-    <str id="%s glows blue for a moment." value="%s glows blue for a moment."/>
-    <str id="%s glows blue for a moment before shattering to pieces." value="%s glows blue for a moment before shattering to pieces."/>
-    <str id="You gain knowledge about %s." value="You gain knowledge about %s."/>
-    <str id="You feel that you have forgotten something." value="You feel that you have forgotten something."/>
-    <str id="You feel dumber than a rock." value="You feel dumber than a rock."/>
-    <str id="You use the %s on %s." value="You use the %s on %s."/>
-    <str id="%s shines brightly for a moment." value="%s shines brightly for a moment."/>
-    <str id="%s emits darkness for a moment." value="%s emits darkness for a moment."/>
-    <str id="You name your %s as %s." value="You name your %s as %s."/>
-    <str id="%s becomes a legendary item." value="%s becomes a legendary item."/>
-    <str id="You reset the legendary effect on your %s." value="You reset the legendary effect on your %s."/>
-    <str id="%s legendary effect is imbued in your %s." value="%s legendary effect is imbued in your %s."/>
-    <str id="Your %s has lost its shine." value="Your %s has lost its shine."/>
-    <str id="%s's %s has lost its shine." value="%s's %s has lost its shine."/>
-    <str id="Your %s is damaged." value="Your %s is damaged."/>
-    <str id="%s's %s is damaged." value="%s's %s is damaged."/>
-    <str id="Your %s is broken." value="Your %s is broken."/>
-    <str id="%s's %s is broken." value="%s's %s is broken."/>
-    <str id="%s worn on your main hand is destroyed." value="%s worn on your main hand is destroyed."/>
-    <str id="%s worn on your offhand is destroyed." value="%s worn on your offhand is destroyed."/>
-    <str id="Your %s slips from your hand and is unequipped." value="Your %s slips from your hand and is unequipped."/>
-    <str id="%s's %s slips and is unequipped." value="%s's %s slips and is unequipped."/>
-    <str id="Your %s slips from your hand and falls to the ground." value="Your %s slips from your hand and falls to the ground."/>
-    <str id="%s's %s slips and falls to the ground." value="%s's %s slips and falls to the ground."/>
-    <str id="Your %s slips from your hand and is stolen by %s." value="Your %s slips from your hand and is stolen by %s."/>
-    <str id="%s's %s slips and is stolen by you" value="%s's %s slips and is stolen by you"/>
-    <str id="The %s has no effect on you." value="The %s has no effect on you."/>
-    <str id="The potion has no effect on you." value="The potion has no effect on you."/>
-    <str id="You are affected by %s." value="You are affected by %s."/>
-    <str id="Your %s is refreshed by %s." value="Your %s is refreshed by %s."/>
-    <str id="Your %s is refreshed by the potion." value="Your %s is refreshed by the potion."/>
-    <str id="%s didn't seem to have any effect." value="%s didn't seem to have any effect."/>
-    <str id="%s shines and repairs itself." value="%s shines and repairs itself."/>
-    <str id="%s radiates a divine light for a moment." value="%s radiates a divine light for a moment."/>
-    <str id="%s didn't seem to have any effect." value="%s didn't seem to have any effect."/>
-    <str id="You buy %s for a gold coin." value="You buy %s for a gold coin."/>
-    <str id="You buy %s for %d gold coins." value="You buy %s for %d gold coins."/>
-    <str id="You can't afford to buy those %s." value="You can't afford to buy those %s."/>
-    <str id="You can't afford to buy %s." value="You can't afford to buy %s."/>
-    <str id="You don't have enough materials to craft %s." value="You don't have enough materials to craft %s."/>
-    <str id="You don't have enough free space for those %s." value="You don't have enough free space for those %s."/>
-    <str id="You don't have enough free space for %s." value="You don't have enough free space for %s."/>
-    <str id="You can't place those those %s there." value="You can't place those those %s there."/>
-    <str id="You can't place %s there." value="You can't place %s there."/>
+    <str id="You see %s here." value="You see %s here." local="你在这里看见了%s。"/>
+    <str id="You see %s." value="You see %s." local="你看见%s。"/>
+    <str id="%s is no longer blessed." value="%s is no longer blessed." local="%s不再神圣。"/>
+    <str id="%s is no longer cursed." value="%s is no longer cursed." local="%s不再被诅咒。"/>
+    <str id="%s has lost its shine." value="%s has lost its shine." local="%s失去了光泽。"/>
+    <str id="%s is stained by the spell." value="%s is stained by the spell." local="%s被法术玷污了。"/>
+    <str id="%s shatters to pieces." value="%s shatters to pieces." local="%s碎成了几片。"/>
+    <str id="You have identified %s as %s." value="You have identified %s as %s." local="你将%s鉴定为%s。"/>
+    <str id="%s radiates divine light for a moment." value="%s radiates divine light for a moment." local="%s散发出一束神圣的光芒。"/>
+    <str id="You transmute %s into %d gold coins." value="You transmute %s into %d gold coins." local="你将%s点化为 %d 枚金币。"/>
+    <str id="You transmute %s into a gold coin." value="You transmute %s into a gold coin." local="你将%s点化为一枚金币。"/>
+    <str id="You transmute some of your chest hairs into gold particles." value="You transmute some of your chest hairs into gold particles." local="你将你的胸毛点化成黄金微粒。"/>
+    <str id="%s is destroyed by magical imbalance." value="%s is destroyed by magical imbalance." local="%s由于魔力失衡而毁灭。"/>
+    <str id="%s glows black for a moment." value="%s glows black for a moment." local="%s散发出一束黑色的光芒。"/>
+    <str id="%s glows blue for a moment." value="%s glows blue for a moment." local="%s散发出一束蓝色的光芒。"/>
+    <str id="%s glows blue for a moment before shattering to pieces." value="%s glows blue for a moment before shattering to pieces." local="%s散发出一束蓝色的光芒随之粉碎。"/>
+    <str id="You gain knowledge about %s." value="You gain knowledge about %s." local="你获得了关于%s的知识。"/>
+    <str id="You feel that you have forgotten something." value="You feel that you have forgotten something." local="你觉得你忘了些东西。"/>
+    <str id="You feel dumber than a rock." value="You feel dumber than a rock." local="你觉得自己比石头还笨。"/>
+    <str id="You use the %s on %s." value="You use the %s on %s." local="你取出%s，将其对%s使用。"/>
+    <str id="%s shines brightly for a moment." value="%s shines brightly for a moment." local="刹那间，%s闪耀出光芒。"/>
+    <str id="%s emits darkness for a moment." value="%s emits darkness for a moment." local="刹那间，%s透着黑暗。"/>
+    <str id="You name your %s as %s." value="You name your %s as %s." local="你将你的%s命名为%s。"/>
+    <str id="%s becomes a legendary item." value="%s becomes a legendary item." local="%s变成了一件传奇物品。"/>
+    <str id="You reset the legendary effect on your %s." value="You reset the legendary effect on your %s." local="你在你的%s上重置了传奇效果。"/>
+    <str id="%s legendary effect is imbued in your %s." value="%s legendary effect is imbued in your %s." local="%s 传奇效果被灌注到你的%s内。"/>
+    <str id="Your %s has lost its shine." value="Your %s has lost its shine." local="你的%s失去了光泽。"/>
+    <str id="%s's %s has lost its shine." value="%s's %s has lost its shine." local="%s的%s失去了光泽。"/>
+    <str id="Your %s is damaged." value="Your %s is damaged." local="你的%s损坏了。"/>
+    <str id="%s's %s is damaged." value="%s's %s is damaged." local="%s的%s损坏了。"/>
+    <str id="Your %s is broken." value="Your %s is broken." local="你的%s损毁了。"/>
+    <str id="%s's %s is broken." value="%s's %s is broken." local="%s的%s损毁了。"/>
+    <str id="%s worn on your main hand is destroyed." value="%s worn on your main hand is destroyed." local="你主手装备的%s被摧毁了。"/>
+    <str id="%s worn on your offhand is destroyed." value="%s worn on your offhand is destroyed." local="你副手装备的%s被摧毁了。"/>
+    <str id="Your %s slips from your hand and is unequipped." value="Your %s slips from your hand and is unequipped." local="你的%s从主手滑落，卸了下来。"/>
+    <str id="%s's %s slips and is unequipped." value="%s's %s slips and is unequipped." local="%s的%s滑落，卸了下来。"/>
+    <str id="Your %s slips from your hand and falls to the ground." value="Your %s slips from your hand and falls to the ground." local="你的%s从主手滑落，掉在地上。"/>
+    <str id="%s's %s slips and falls to the ground." value="%s's %s slips and falls to the ground." local="%s的%s滑落，掉在地上。"/>
+    <str id="Your %s slips from your hand and is stolen by %s." value="Your %s slips from your hand and is stolen by %s." local="你的%s从主手换罗，被%s偷走。"/>
+    <str id="%s's %s slips and is stolen by you" value="%s's %s slips and is stolen by you" local="%s的%s滑落，被你偷走"/>
+    <str id="The %s has no effect on you." value="The %s has no effect on you." local="这个%s对你不起效果。"/>
+    <str id="The potion has no effect on you." value="The potion has no effect on you." local="这瓶药剂对你不起效果。"/>
+    <str id="You are affected by %s." value="You are affected by %s." local="你收到了%s的影响。"/>
+    <str id="Your %s is refreshed by %s." value="Your %s is refreshed by %s." local="你的%s被%s恢复。"/>
+    <str id="Your %s is refreshed by the potion." value="Your %s is refreshed by the potion." local="你的%s被这药剂恢复。"/>
+    <str id="%s didn't seem to have any effect." value="%s didn't seem to have any effect." local="%s看起来不带任何效果。"/>
+    <str id="%s shines and repairs itself." value="%s shines and repairs itself." local="%s闪了一下，自我修理好了。"/>
+    <str id="%s radiates a divine light for a moment." value="%s radiates a divine light for a moment." local="%s一刹那放射出神圣的光芒。"/>
+    <str id="%s didn't seem to have any effect." value="%s didn't seem to have any effect." local="%s看起来不带任何效果。"/>
+    <str id="You buy %s for a gold coin." value="You buy %s for a gold coin." local="你用一枚金币买了%s。"/>
+    <str id="You buy %s for %d gold coins." value="You buy %s for %d gold coins." local="你买了%s，花掉你 %d 枚金币。"/>
+    <str id="You can't afford to buy those %s." value="You can't afford to buy those %s." local="你买不起那些%s。"/>
+    <str id="You can't afford to buy %s." value="You can't afford to buy %s." local="你买不起%s。"/>
+    <str id="You don't have enough materials to craft %s." value="You don't have enough materials to craft %s." local="你没有足够的材料制造%s。"/>
+    <str id="You don't have enough free space for those %s." value="You don't have enough free space for those %s." local="你没有足够的空间存放那些%s。"/>
+    <str id="You don't have enough free space for %s." value="You don't have enough free space for %s." local="你没有足够的空间存放%s。"/>
+    <str id="You can't place those those %s there." value="You can't place those those %s there." local="你无法将那些%s放在那里。"/>
+    <str id="You can't place %s there." value="You can't place %s there." local="你无法将%s放在那里。"/>
   </ItemLogs>
   <ItemSets>
     <str id="Re-roll failed snare checks." value="Re-roll failed snare checks." local="重掷陷阱检定。"/>
@@ -2516,7 +2516,7 @@
     <str id="Bow" value="Bow" local="弓"/>
     <str id="Recurve" value="Recurve" local="反曲弓"/>
     <str id="Mangler" value="Mangler" local="大剑"/>
-    <str id="Chopper" value="Chopper" local="大斧"/>
+    <str id="Chopper" value="Chopper" local="巨斧"/>
     <str id="Crusher" value="Crusher" local="大锤"/>
     <str id="Digger" value="Digger" local="镐"/>
     <str id="Spear" value="Spear" local="长枪"/>
@@ -2540,7 +2540,7 @@
     <str id="Fine Bow" value="Fine Bow" local="精美之弓"/>
     <str id="Fine Recurve" value="Fine Recurve" local="精美反曲弓"/>
     <str id="Fine Mangler" value="Fine Mangler" local="精美大剑"/>
-    <str id="Fine Chopper" value="Fine Chopper" local="精美大斧"/>
+    <str id="Fine Chopper" value="Fine Chopper" local="精美巨斧"/>
     <str id="Fine Crusher" value="Fine Crusher" local="精美大锤"/>
     <str id="Fine Digger" value="Fine Digger" local="精美之镐"/>
     <str id="Fine Spear" value="Fine Spear" local="精美长枪"/>
@@ -2575,101 +2575,101 @@
     <str id="Death Star" value="Death Star" local="死星"/>
   </WeaponNames>
   <WeaponDescs>
-    <str id="Dagger" value="This is a piercing weapon and as such has a chance of ignoring the target's physical resistance."/>
-    <str id="Talon" value="This weapon is perfect against those nasty kidneys that keep coming in its way."/>
-    <str id="Hatchet" value="This is a thrown melee weapon and as such can be both equipped and thrown for full damage."/>
-    <str id="Sword" value="This is a slashing weapon and as such has a good chance of doubling the base damage against weaker targets."/>
-    <str id="Claw" value="This claw feels like an extension of some kind but it actually works pretty well."/>
-    <str id="Axe" value="This weapon is great for chopping down trees and orcs which grow rampant in the dungeons."/>
-    <str id="Club" value="This weapon should only be used as a last resort unless you're born with a green skin."/>
-    <str id="Mace" value="This is a crushing weapon and as such has a good chance of halving the target's physical resistance."/>
-    <str id="Hammer" value="This weapon is durable and as such it allows to re-roll failed durability checks."/>
-    <str id="Flail" value="This is a flailing weapon and as such has a good chance of ignoring the target's parry or block modifiers."/>
-    <str id="Branch" value="Tie a string on a tree branch, fletch some sticks and take over the world."/>
-    <str id="Bow" value="This is a ranged weapon and as such must be equipped with the right kind of arrows in the offhand."/>
-    <str id="Recurve" value="Get a horse and call yourself a Khan. Barring that, it also works in a closed environment."/>
-    <str id="Mangler" value="This sword is perfectly balanced to keep those pesky peasants in line."/>
-    <str id="Chopper" value="A man who can cut down a tree with an axe can cut down a bigger tree with this."/>
-    <str id="Crusher" value="Works brilliantly in situations where you must crush or be crushed."/>
-    <str id="Digger" value="This weapon is great for knocking down obstacles such as orcs and walls."/>
-    <str id="Spear" value="This weapon is a polearm and as such has a range of up to two tiles with the attack button."/>
-    <str id="Staff" value="This weapon is a conduit and as such it allows the wielder to re-roll failed spell to-hit rolls."/>
-    <str id="Crossbow" value="This is a slow weapon and as such must be rearmed after every time it is used."/>
-    <str id="Repeater" value="Unlike regular crossbows, the ones on the receiving end of a repeater won't get to tell their story."/>
-    <str id="Rock" value="This rock looks fancier and rests more fittingly in your palm than many other rocks."/>
-    <str id="Throwing Knife" value="This knife is perfectly balanced to stop those weaklings who try to run away."/>
-    <str id="Throwing Star" value="This weapon is great for those villains who don't mind robbing their victims."/>
-    <str id="Fine Dagger" value="This is a piercing weapon and as such has a chance of ignoring the target's physical resistance."/>
-    <str id="Fine Talon" value="This weapon is perfect against those nasty kidneys that keep coming in its way."/>
-    <str id="Fine Hatchet" value="This is a thrown melee weapon and as such can be both equipped and thrown for full damage."/>
-    <str id="Fine Sword" value="This is a slashing weapon and as such has a good chance of doubling the base damage against weaker targets."/>
-    <str id="Fine Claw" value="This claw feels like an extension of some kind but it actually works pretty well."/>
-    <str id="Fine Axe" value="This weapon is great for chopping down trees and orcs which grow rampant in the dungeons."/>
-    <str id="Fine Club" value="This weapon should only be used as a last resort unless you're born with a green skin."/>
-    <str id="Fine Mace" value="This is a crushing weapon and as such has a good chance of halving the target's physical resistance."/>
-    <str id="Fine Hammer" value="This weapon is durable and as such it allows to re-roll failed durability checks."/>
-    <str id="Fine Flail" value="This is a flailing weapon and as such has a good chance of ignoring the target's parry or block modifiers."/>
-    <str id="Fine Branch" value="Tie a string on a tree branch, fletch some sticks and take over the world."/>
-    <str id="Fine Bow" value="This is a ranged weapon and as such must be equipped with the right kind of arrows in the offhand."/>
-    <str id="Fine Recurve" value="Get a horse and call yourself a Khan. Barring that, it also works in a closed environment."/>
-    <str id="Fine Mangler" value="This sword is perfectly balanced to keep those pesky peasants in line."/>
-    <str id="Fine Chopper" value="A man who can cut down a tree with an axe can cut down a bigger tree with this."/>
-    <str id="Fine Crusher" value="Works brilliantly in situations where you must crush or be crushed."/>
-    <str id="Fine Digger" value="This weapon is great for knocking down obstacles such as orcs and walls."/>
-    <str id="Fine Spear" value="This weapon is a polearm and as such has a range of up to two tiles with the attack button."/>
-    <str id="Fine Staff" value="This weapon is a conduit and as such it allows the wielder to re-roll failed spell to-hit rolls."/>
-    <str id="Fine Crossbow" value="This is a slow weapon and as such must be rearmed after every time it is used."/>
-    <str id="Fine Repeater" value="Unlike regular crossbows, the ones on the receiving end of a repeater won't get to tell their story."/>
-    <str id="Wizard Staff" value="This weapon teaches its wielder how to cast one of the five orb spells."/>
-    <str id="Wizard Staff 0" value="This weapon teaches its wielder how to cast the Flaming Orb spell."/>
-    <str id="Wizard Staff 1" value="This weapon teaches its wielder how to cast the Frozen Orb spell."/>
-    <str id="Wizard Staff 2" value="This weapon teaches its wielder how to cast the Electric Orb spell."/>
-    <str id="Wizard Staff 3" value="This weapon teaches its wielder how to cast the Venomous Orb spell."/>
-    <str id="Wizard Staff 4" value="This weapon teaches its wielder how to cast the Virulent Orb spell."/>
-    <str id="Wizard Staff 5" value="This weapon teaches its wielder how to cast the Release Soul spell."/>
-    <str id="Celestial Staff" value="Description..."/>
-    <str id="Draconic Staff" value="Description..."/>
-    <str id="Infernal Staff" value="Description..."/>
-    <str id="Arcane Staff" value="Description..."/>
-    <str id="Bestial Staff" value="Description..."/>
-    <str id="Abyssal Staff" value="Description..."/>
-    <str id="Fine Throwing Knife" value="This knife is perfectly balanced to stop those weaklings who try to run away."/>
-    <str id="Fine Throwing Star" value="This weapon is great for those villains who don't mind robbing their victims."/>
-    <str id="Gifin's Claw" value="This used to belong to Master Gifin-Gif before you snatched it from his dead body." local="这曾经属于吉夫大师，你从他的尸体上夺了过来。"/>
-    <str id="Gareth's Axe" value="This used to belong to Beartamer Gareth before you looted it from his corpse." local="这曾经属于驯熊师加雷思，你从他的尸体上捡到的。"/>
-    <str id="Dawid's Hammer" value="This used to belong to Dawid the Paladin before he joined his battle brothers in the afterlife." local="这曾经属于圣骑士达维德，他已经随他的兄弟们战死沙场。"/>
-    <str id="Royal Mace" value="This is one of those toys that you get to have as a King. Enjoy while it's yours."/>
-    <str id="Satyr's Sting" value="This used to belong to Ranger Satyr'Dae before you picked it up from his remains." local="这曾经属于独行侠赛特，你从他的遗物中获得。"/>
-    <str id="Logar's Blade" value="This used to belong to Swordmaster Logar before you took it from his cold dead hands." local="这曾经属于剑圣洛迦，他的手已不再有体温。"/>
-    <str id="Altren's Kiss" value="This used to belong to Prince Altren and there's a carving on the stock that says XLVII, whatever that means." local="这曾经属于艾特仁王子，上面刻有 XLVII ，已经不知道其含义。"/>
-    <str id="Staff of the Trickster" value="This used to belong to Ryan the Trickster and it teaches its wielder how to cast the Virulent Orb spell." local="这曾经属于魔术师赖安，持有它的人可以释放瘟疫球。"/>
-    <str id="Staff of the Archmage" value="This used to belong to Archmage Gyffendal and it teaches its wielder how to cast the Flaming Orb spell." local="这曾经属于大法师高焚岱，持有它的人可以释放火球术。"/>
-    <str id="Staff of the Ice Queen" value="This used to belong to Ice Queen Altara and it teaches its wielder how to cast the Frozen Orb spell." local="这曾经属于冰霜女王艾特娜，持有它的人可以释放冰球术。"/>
-    <str id="Death Star" value="These throwing stars are one of the deadliest tools used by the Blackhand assassins."/>
+    <str id="Dagger" value="This is a piercing weapon and as such has a chance of ignoring the target's physical resistance." local="这是一种穿刺武器，因此有可&#10;能忽略目标的物理抵抗。"/>
+    <str id="Talon" value="This weapon is perfect against those nasty kidneys that keep coming in its way." local="这把武器用来对付那些坏蛋简&#10;直太棒了。"/>
+    <str id="Hatchet" value="This is a thrown melee weapon and as such can be both equipped and thrown for full damage." local="这是一种投掷近战武器，因此&#10;既可以装备使用也可以仍出去&#10;造成全部伤害。"/>
+    <str id="Sword" value="This is a slashing weapon and as such has a good chance of doubling the base damage against weaker targets." local="这是一种砍杀武器，因此对较&#10;弱的目标有加倍基础伤害的好&#10;机会。"/>
+    <str id="Claw" value="This claw feels like an extension of some kind but it actually works pretty well." local="这只爪子感觉像是某种类型的&#10;扩展，但实际上它工作得很好&#10;。"/>
+    <str id="Axe" value="This weapon is great for chopping down trees and orcs which grow rampant in the dungeons." local="这种武器非常适合砍倒地牢里&#10;猖獗兽人和树木。"/>
+    <str id="Club" value="This weapon should only be used as a last resort unless you're born with a green skin." local="除非你的皮肤是绿色的，否则&#10;这种武器只能作为最后的手段&#10;使用。"/>
+    <str id="Mace" value="This is a crushing weapon and as such has a good chance of halving the target's physical resistance." local="这是一种粉碎性武器，因此很&#10;有可能将目标的物理抗性减半&#10;。"/>
+    <str id="Hammer" value="This weapon is durable and as such it allows to re-roll failed durability checks." local="这把武器非常耐用，它允许你&#10;在耐久检定失败时重掷。"/>
+    <str id="Flail" value="This is a flailing weapon and as such has a good chance of ignoring the target's parry or block modifiers." local="这是一把连打型武器，有更大&#10;的可能忽略目标的招架或格挡&#10;修正。"/>
+    <str id="Branch" value="Tie a string on a tree branch, fletch some sticks and take over the world." local="把一根绳子系在树枝上，给树&#10;枝装上羽毛，然后就能征服世&#10;界。"/>
+    <str id="Bow" value="This is a ranged weapon and as such must be equipped with the right kind of arrows in the offhand." local="这是一种远程武器，因此必须&#10;在副手配备正确类型的羽箭。"/>
+    <str id="Recurve" value="Get a horse and call yourself a Khan. Barring that, it also works in a closed environment." local="骑上一匹马，叫自己可汗。除&#10;此之外，室内也能工作。"/>
+    <str id="Mangler" value="This sword is perfectly balanced to keep those pesky peasants in line." local="这把剑打造的很好，能使那些&#10;讨厌的农民守规矩。"/>
+    <str id="Chopper" value="A man who can cut down a tree with an axe can cut down a bigger tree with this." local="一个能用小斧头砍倒一棵树的&#10;人能用这个砍倒一棵更大的树&#10;。"/>
+    <str id="Crusher" value="Works brilliantly in situations where you must crush or be crushed." local="在你必须粉碎对方或被对方粉&#10;碎的情况下它显得辉煌无比。"/>
+    <str id="Digger" value="This weapon is great for knocking down obstacles such as orcs and walls." local="这把武器是在击倒障碍方面特&#10;别出色，比如兽人和墙壁。"/>
+    <str id="Spear" value="This weapon is a polearm and as such has a range of up to two tiles with the attack button." local="这种武器是一种长柄武器，因&#10;此你可以通过按攻击按钮打出&#10;两格的攻击范围。"/>
+    <str id="Staff" value="This weapon is a conduit and as such it allows the wielder to re-roll failed spell to-hit rolls." local="这把武器是一种导器，这意味&#10;着它允许持有者重掷失败的施&#10;法骰和法术命中骰。"/>
+    <str id="Crossbow" value="This is a slow weapon and as such must be rearmed after every time it is used." local="这是一种慢速武器，因此每次&#10;使用后都必须重新整备。"/>
+    <str id="Repeater" value="Unlike regular crossbows, the ones on the receiving end of a repeater won't get to tell their story." local="与普通的弩不同，被连弩总结&#10;的家伙都来不及叫出来。"/>
+    <str id="Rock" value="This rock looks fancier and rests more fittingly in your palm than many other rocks." local="这块岩石看起来比其他石头更&#10;漂亮，放在你的手掌上也更合&#10;适。"/>
+    <str id="Throwing Knife" value="This knife is perfectly balanced to stop those weaklings who try to run away." local="这把飞刀锻造的非常之好，正&#10;好用来阻止那些弱夫逃跑。"/>
+    <str id="Throwing Star" value="This weapon is great for those villains who don't mind robbing their victims." local="这把武器对那些肆意抢劫的恶&#10;棍来说太棒了。"/>
+    <str id="Fine Dagger" value="This is a piercing weapon and as such has a chance of ignoring the target's physical resistance." local="这是一种穿刺武器，因此有可&#10;能忽略目标的物理抵抗。"/>
+    <str id="Fine Talon" value="This weapon is perfect against those nasty kidneys that keep coming in its way." local="这把武器用来对付那些坏蛋简&#10;直太棒了。"/>
+    <str id="Fine Hatchet" value="This is a thrown melee weapon and as such can be both equipped and thrown for full damage." local="这是一种投掷近战武器，因此&#10;既可以装备使用也可以仍出去&#10;造成全部伤害。"/>
+    <str id="Fine Sword" value="This is a slashing weapon and as such has a good chance of doubling the base damage against weaker targets." local="这是一种砍杀武器，因此对较&#10;弱的目标有加倍基础伤害的好&#10;机会。"/>
+    <str id="Fine Claw" value="This claw feels like an extension of some kind but it actually works pretty well." local="这只爪子感觉像是某种类型的&#10;扩展，但实际上它工作得很好&#10;。"/>
+    <str id="Fine Axe" value="This weapon is great for chopping down trees and orcs which grow rampant in the dungeons." local="这种武器非常适合砍倒地牢里&#10;猖獗兽人和树木。"/>
+    <str id="Fine Club" value="This weapon should only be used as a last resort unless you're born with a green skin." local="除非你的皮肤是绿色的，否则&#10;这种武器只能作为最后的手段&#10;使用。"/>
+    <str id="Fine Mace" value="This is a crushing weapon and as such has a good chance of halving the target's physical resistance." local="这是一种粉碎性武器，因此很&#10;有可能将目标的物理抗性减半&#10;。"/>
+    <str id="Fine Hammer" value="This weapon is durable and as such it allows to re-roll failed durability checks." local="这把武器非常耐用，它允许你&#10;在耐久检定失败时重掷。"/>
+    <str id="Fine Flail" value="This is a flailing weapon and as such has a good chance of ignoring the target's parry or block modifiers." local="这是一把连打型武器，有更大&#10;的可能忽略目标的招架或格挡&#10;修正。"/>
+    <str id="Fine Branch" value="Tie a string on a tree branch, fletch some sticks and take over the world." local="把一根绳子系在树枝上，给树&#10;枝装上羽毛，然后就能征服世&#10;界。"/>
+    <str id="Fine Bow" value="This is a ranged weapon and as such must be equipped with the right kind of arrows in the offhand." local="这是一种远程武器，因此必须&#10;在副手配备正确类型的羽箭。"/>
+    <str id="Fine Recurve" value="Get a horse and call yourself a Khan. Barring that, it also works in a closed environment." local="骑上一匹马，叫自己可汗。除&#10;此之外，室内也能工作。"/>
+    <str id="Fine Mangler" value="This sword is perfectly balanced to keep those pesky peasants in line." local="这把剑打造的很好，能使那些&#10;讨厌的农民守规矩。"/>
+    <str id="Fine Chopper" value="A man who can cut down a tree with an axe can cut down a bigger tree with this." local="一个能用小斧头砍倒一棵树的&#10;人能用这个砍倒一棵更大的树&#10;。"/>
+    <str id="Fine Crusher" value="Works brilliantly in situations where you must crush or be crushed." local="在你必须粉碎对方或被对方粉&#10;碎的情况下它显得辉煌无比。"/>
+    <str id="Fine Digger" value="This weapon is great for knocking down obstacles such as orcs and walls." local="这把武器是在击倒障碍方面特&#10;别出色，比如兽人和墙壁。"/>
+    <str id="Fine Spear" value="This weapon is a polearm and as such has a range of up to two tiles with the attack button." local="这种武器是一种长柄武器，因&#10;此你可以通过按攻击按钮打出&#10;两格的攻击范围。"/>
+    <str id="Fine Staff" value="This weapon is a conduit and as such it allows the wielder to re-roll failed spell to-hit rolls." local="这把武器是一种导器，这意味&#10;着它允许持有者重掷失败的施&#10;法骰和法术命中骰。"/>
+    <str id="Fine Crossbow" value="This is a slow weapon and as such must be rearmed after every time it is used." local="这是一种慢速武器，因此每次&#10;使用后都必须重新整备。"/>
+    <str id="Fine Repeater" value="Unlike regular crossbows, the ones on the receiving end of a repeater won't get to tell their story." local="与普通的弩不同，被连弩总结&#10;的家伙都来不及叫出来。"/>
+    <str id="Wizard Staff" value="This weapon teaches its wielder how to cast one of the five orb spells." local="这把武器能教会使用者如何释&#10;放五种法术球中的一种。"/>
+    <str id="Wizard Staff 0" value="This weapon teaches its wielder how to cast the Flaming Orb spell." local="这把武器能教会使用者如何释&#10;放火球术。"/>
+    <str id="Wizard Staff 1" value="This weapon teaches its wielder how to cast the Frozen Orb spell." local="这把武器能教会使用者如何释&#10;放冰球术。"/>
+    <str id="Wizard Staff 2" value="This weapon teaches its wielder how to cast the Electric Orb spell." local="这把武器能教会使用者如何释&#10;放电球术。"/>
+    <str id="Wizard Staff 3" value="This weapon teaches its wielder how to cast the Venomous Orb spell." local="这把武器能教会使用者如何释&#10;放毒球术。"/>
+    <str id="Wizard Staff 4" value="This weapon teaches its wielder how to cast the Virulent Orb spell." local="这把武器能教会使用者如何释&#10;放疫球术。"/>
+    <str id="Wizard Staff 5" value="This weapon teaches its wielder how to cast the Release Soul spell." local="这把武器能教会使用者如何释&#10;放释放灵魂。"/>
+    <str id="Celestial Staff" value="Description..." local="说明……"/>
+    <str id="Draconic Staff" value="Description..." local="说明……"/>
+    <str id="Infernal Staff" value="Description..." local="说明……"/>
+    <str id="Arcane Staff" value="Description..." local="说明……"/>
+    <str id="Bestial Staff" value="Description..." local="说明……"/>
+    <str id="Abyssal Staff" value="Description..." local="说明……"/>
+    <str id="Fine Throwing Knife" value="This knife is perfectly balanced to stop those weaklings who try to run away." local="这把飞刀锻造的非常之好，正&#10;好用来阻止那些弱夫逃跑。"/>
+    <str id="Fine Throwing Star" value="This weapon is great for those villains who don't mind robbing their victims." local="这把武器对那些肆意抢劫的恶&#10;棍来说太棒了。"/>
+    <str id="Gifin's Claw" value="This used to belong to Master Gifin-Gif before you snatched it from his dead body." local="这曾经属于吉夫大师，你从他&#10;的尸体上夺了过来。"/>
+    <str id="Gareth's Axe" value="This used to belong to Beartamer Gareth before you looted it from his corpse." local="这曾经属于驯熊师加雷思，你&#10;从他的尸体上捡到的。"/>
+    <str id="Dawid's Hammer" value="This used to belong to Dawid the Paladin before he joined his battle brothers in the afterlife." local="这曾经属于圣骑士达维德，他&#10;已经随他的兄弟们战死沙场。"/>
+    <str id="Royal Mace" value="This is one of those toys that you get to have as a King. Enjoy while it's yours." local="这是你成为一个国王的诸多玩&#10;具中的一个。好好把玩。"/>
+    <str id="Satyr's Sting" value="This used to belong to Ranger Satyr'Dae before you picked it up from his remains." local="这曾经属于独行侠赛特，你从&#10;他的遗物中获得。"/>
+    <str id="Logar's Blade" value="This used to belong to Swordmaster Logar before you took it from his cold dead hands." local="这曾经属于剑圣洛迦，他的手&#10;已不再有体温。"/>
+    <str id="Altren's Kiss" value="This used to belong to Prince Altren and there's a carving on the stock that says XLVII, whatever that means." local="这曾经属于艾特仁王子，上面&#10;刻有 XLVII ，已经不知道其含&#10;义。"/>
+    <str id="Staff of the Trickster" value="This used to belong to Ryan the Trickster and it teaches its wielder how to cast the Virulent Orb spell." local="这曾经属于魔术师赖安，持有&#10;它的人可以释放瘟疫球。"/>
+    <str id="Staff of the Archmage" value="This used to belong to Archmage Gyffendal and it teaches its wielder how to cast the Flaming Orb spell." local="这曾经属于大法师高焚岱，持&#10;有它的人可以释放火球术。"/>
+    <str id="Staff of the Ice Queen" value="This used to belong to Ice Queen Altara and it teaches its wielder how to cast the Frozen Orb spell." local="这曾经属于冰霜女王艾特娜，&#10;持有它的人可以释放冰球术。"/>
+    <str id="Death Star" value="These throwing stars are one of the deadliest tools used by the Blackhand assassins." local="这些手里剑是黑手刺客用过的&#10;最致命的武器。"/>
   </WeaponDescs>
   <LegendaryNames>
-    <str id="Cheesy Musk" value="Cheesy Musk"/>
-    <str id="Death Proof" value="Death Proof"/>
-    <str id="Flashlight" value="Flashlight"/>
-    <str id="Hateful Aura" value="Hateful Aura"/>
-    <str id="Leap of Faith" value="Leap of Faith"/>
-    <str id="Misinvisicast" value="Misinvisicast"/>
-    <str id="Nightshade" value="Nightshade"/>
-    <str id="Orbus Bomba" value="Orbus Bomba"/>
-    <str id="Zombie Dog" value="Zombie Dog"/>
+    <str id="Cheesy Musk" value="Cheesy Musk" local="奶酪面具"/>
+    <str id="Death Proof" value="Death Proof" local="死亡防护"/>
+    <str id="Flashlight" value="Flashlight" local="闪闪发光"/>
+    <str id="Hateful Aura" value="Hateful Aura" local="憎恶光环"/>
+    <str id="Leap of Faith" value="Leap of Faith" local="信仰之跃"/>
+    <str id="Misinvisicast" value="Misinvisicast" local="幻影迷踪"/>
+    <str id="Nightshade" value="Nightshade" local="黑暗幽影"/>
+    <str id="Orbus Bomba" value="Orbus Bomba" local="法球炸弹"/>
+    <str id="Zombie Dog" value="Zombie Dog" local="僵尸之狗"/>
   </LegendaryNames>
   <LegendaryDescs>
     <str id="WeaponDesc" value="Well, like it or not, this weapon is now extra shiny with a cool name and it's also unbreakable."/>
     <str id="EffectDesc" value="This weapon can gain a legendary effect if it's equipped in the main hand while imbuement conditions are met."/>
-    <str id="Cheesy Musk" value="Cave bears are now automatically tamed when they try to attack you."/>
-    <str id="Death Proof" value="Divine Shield is automatically cast if this effect is not on cooldown and damage taken would kill you."/>
-    <str id="Flashlight" value="Everyone who can see this weapon at the end of their own turn will be illuminated."/>
-    <str id="Hateful Aura" value="33% of damage taken is copied to all nearby creatures and you are healed for half of the damage caused this way."/>
-    <str id="Leap of Faith" value="Jumping no longer requires energy and it always succeeds."/>
-    <str id="Misinvisicast" value="Miscasting always turns you invisible in addition to other effects."/>
-    <str id="Nightshade" value="Poisons applied to weapons last forever and count as potent when they are applied."/>
-    <str id="Orbus Bomba" value="Automatically casts Enlarge Orb at the end of your turn if you are not already affected by it."/>
-    <str id="Zombie Dog" value="Woof comes back to life at the start of a new dungeon if he happens to be dead (reset dungeon in town)."/>
+    <str id="Cheesy Musk" value="Cave bears are now automatically tamed when they try to attack you." local="现在洞熊在攻击你的时候自动&#10;被驯化。"/>
+    <str id="Death Proof" value="Divine Shield is automatically cast if this effect is not on cooldown and damage taken would kill you." local="只要这个效果不在冷却状态，&#10;当你将承受足以致死的伤害时&#10;，自动施放神圣之盾。"/>
+    <str id="Flashlight" value="Everyone who can see this weapon at the end of their own turn will be illuminated." local="任何人只要看到这把武器，在&#10;他的回合最后就会发亮。"/>
+    <str id="Hateful Aura" value="33% of damage taken is copied to all nearby creatures and you are healed for half of the damage caused this way." local="受到的伤害的 33% 会复制给所&#10;有附近的生物，而你会被治愈&#10;这种方式造成的伤害的一半。"/>
+    <str id="Leap of Faith" value="Jumping no longer requires energy and it always succeeds." local="跳跃不再需要精力点，而且永&#10;远成功。"/>
+    <str id="Misinvisicast" value="Miscasting always turns you invisible in addition to other effects." local="施法失误在造成其它影响之外&#10;一定会将你隐身。"/>
+    <str id="Nightshade" value="Poisons applied to weapons last forever and count as potent when they are applied." local="在武器上的淬毒永远生效，且&#10;视作强效。"/>
+    <str id="Orbus Bomba" value="Automatically casts Enlarge Orb at the end of your turn if you are not already affected by it." local="如果你没有释放 法术球增大 &#10;，那么在你的回合结束的时候&#10;就自动释放它。"/>
+    <str id="Zombie Dog" value="Woof comes back to life at the start of a new dungeon if he happens to be dead (reset dungeon in town)." local="如果汪汪死了，那么在每个新&#10;的地牢开始时会复活（在城镇&#10;中重置）。"/>
   </LegendaryDescs>
   <CreatureNames>
     <str id="Invisible creature" value="Invisible creature" local="隐形生物"/>
@@ -2741,35 +2741,35 @@
     <str id="Leo Noerde" value="Leo Noerde" local="鲁班"/>
     <str id="Ken'nih" value="Ken'nih" local="肯'尼斯"/>
     <str id="Chronomancer" value="Chronomancer" local="时空术士"/>
-    <str id="Verman" value="Verman"/>
-    <str id="Butcher" value="Butcher"/>
-    <str id="Darkseer" value="Darkseer"/>
-    <str id="Illusion" value="Illusion"/>
-    <str id="Evil Genie" value="Evil Genie"/>
+    <str id="Verman" value="Verman" local="韦尔曼"/>
+    <str id="Butcher" value="Butcher" local="屠夫"/>
+    <str id="Darkseer" value="Darkseer" local="黑暗贤者"/>
+    <str id="Illusion" value="Illusion" local="幻觉"/>
+    <str id="Evil Genie" value="Evil Genie" local="恶鬼"/>
     <str id="King" value="King" local="国王"/>
     <str id="Queen" value="Queen" local="女王"/>
     <str id="Monster" value="Monster" local="巨怪"/>
     <str id="Cave bear" value="Cave bear" local="洞熊"/>
     <str id="Drake" value="Drake" local="龙"/>
     <str id="Infernal" value="Infernal" local="恶魔"/>
-    <str id="Mamalob" value="Mamalob"/>
+    <str id="Mamalob" value="Mamalob" local="麻麻洛"/>
     <str id="Wraith" value="Wraith" local="幽灵"/>
-    <str id="Banshee" value="Banshee"/>
-    <str id="Glutopod" value="Glutopod"/>
+    <str id="Banshee" value="Banshee" local="女妖"/>
+    <str id="Glutopod" value="Glutopod" local="格鲁特"/>
     <str id="Dark Prince" value="Dark Prince" local="黑暗王子"/>
     <str id="Papalob" value="Papalob" local="趴趴洛"/>
-    <str id="Lasher" value="Lasher"/>
-    <str id="Slicer" value="Slicer"/>
+    <str id="Lasher" value="Lasher" local="逃兵"/>
+    <str id="Slicer" value="Slicer" local="胖妞"/>
     <str id="Earth elemental" value="Earth elemental" local="土元素"/>
     <str id="Air elemental" value="Air elemental" local="气元素"/>
     <str id="Fire elemental" value="Fire elemental" local="火元素"/>
     <str id="Water elemental" value="Water elemental" local="水元素"/>
-    <str id="Dweller" value="Dweller"/>
-    <str id="Lurker" value="Lurker"/>
-    <str id="Floater" value="Floater"/>
-    <str id="Floaty" value="Floaty"/>
-    <str id="Troll" value="Troll"/>
-    <str id="Treeman" value="Treeman"/>
+    <str id="Dweller" value="Dweller" local="水怪"/>
+    <str id="Lurker" value="Lurker" local="潜伏者"/>
+    <str id="Floater" value="Floater" local="浮游类"/>
+    <str id="Floaty" value="Floaty" local="浮浮"/>
+    <str id="Troll" value="Troll" local="巨魔"/>
+    <str id="Treeman" value="Treeman" local="树人"/>
     <str id="Demonrat" value="Demonrat" local="魔鼠"/>
     <str id="Orc" value="Orc" local="兽人"/>
     <str id="Orc grunt" value="Orc grunt" local="兽人步兵"/>
@@ -2778,15 +2778,15 @@
     <str id="Orc boss" value="Orc boss" local="兽人首领"/>
     <str id="Orc miner" value="Orc miner" local="兽人矿工"/>
     <str id="Loot hoarder" value="Loot hoarder" local="收藏家"/>
-    <str id="Player" value="Player"/>
-    <str id="Wise" value="Wise"/>
-    <str id="Just" value="Just"/>
-    <str id="Decent" value="Decent"/>
-    <str id="Kind" value="Kind"/>
-    <str id="Cruel" value="Cruel"/>
-    <str id="Fair" value="Fair"/>
-    <str id="Gentle" value="Gentle"/>
-    <str id="Haxxor" value="Haxxor"/>
+    <str id="Player" value="Player" local="玩家"/>
+    <str id="Wise" value="Wise" local="睿智的"/>
+    <str id="Just" value="Just" local="公正的"/>
+    <str id="Decent" value="Decent" local="正义的"/>
+    <str id="Kind" value="Kind" local="友好的"/>
+    <str id="Cruel" value="Cruel" local="残忍的"/>
+    <str id="Fair" value="Fair" local="公平的"/>
+    <str id="Gentle" value="Gentle" local="温和的"/>
+    <str id="Haxxor" value="Haxxor" local="开挂者"/>
     <str id="Undead" value="Undead" local="亡灵"/>
     <str id="Undead warrior" value="Undead warrior" local="亡灵战士"/>
     <str id="Undead archer" value="Undead archer" local="亡灵射手"/>
@@ -3648,13 +3648,13 @@
     <str id="Triggered Much?" value="Triggered Much?" local="惹够了？"/>
     <str id="Drain the Swamp" value="Drain the Swamp" local="耗尽沼泽"/>
     <str id="Cheesy Musk" value="Cheesy Musk" local="奶酪面具"/>
-    <str id="Death Proof" value="Death Proof" local="防止死亡"/>
+    <str id="Death Proof" value="Death Proof" local="死亡防护"/>
     <str id="Flashlight" value="Flashlight" local="闪闪发光"/>
     <str id="Hateful Aura" value="Hateful Aura" local="憎恶光环"/>
     <str id="Leap of Faith" value="Leap of Faith" local="信仰之跃"/>
     <str id="Misinvisicast" value="Misinvisicast" local="幻影迷踪"/>
     <str id="Nightshade" value="Nightshade" local="黑暗幽影"/>
-    <str id="Orbus Bomba" value="Orbus Bomba" local="死亡爆炸"/>
+    <str id="Orbus Bomba" value="Orbus Bomba" local="法球炸弹"/>
     <str id="Zombie Dog" value="Zombie Dog" local="僵尸之狗"/>
     <str id="Path of Wisdom" value="Path of Wisdom" local="智慧之路"/>
     <str id="Path of Justice" value="Path of Justice" local="正义之路"/>
@@ -3877,8 +3877,8 @@
     <str id="the Splasher" value="the Splasher" local="喷射战士"/>
     <str id="the Caretaker" value="the Caretaker" local="看门人"/>
     <str id="the Wise" value="the Wise" local="睿智的"/>
-    <str id="the Just" value="the Just" local="正义的"/>
-    <str id="the Decent" value="the Decent" local="正派的"/>
+    <str id="the Just" value="the Just" local="公正的"/>
+    <str id="the Decent" value="the Decent" local="正义的"/>
     <str id="the Kind" value="the Kind" local="友好的"/>
     <str id="the Cruel" value="the Cruel" local="残忍的"/>
     <str id="the Fair" value="the Fair" local="公平的"/>
