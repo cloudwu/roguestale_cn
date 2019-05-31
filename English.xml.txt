@@ -528,25 +528,26 @@ AttackLogs."Oh my G'awd, rocks can no longer be turned into scrap!" 哦，我的
 AttackLogs."You salvage a piece of reusable scrap from the debris." 你从残骸中抢救出一块可以再利用的碎片。
 AttackLogs."You pull the trigger and shoot %s at %s." 你触动了扳机，把 %s 射向 %s 。
 AttackLogs."You pull the trigger but nothing happens." 你触动了扳机，但什么也没有发生。
-CastLogs."You cast %s at %s." You cast %s at %s.
-CastLogs."You cast %s on %s." You cast %s on %s.
-CastLogs."%s casts %s at %s." %s casts %s at %s.
-CastLogs."%s casts %s on %s." %s casts %s on %s.
-CastLogs."%s casts a spell at %s." %s casts a spell at %s.
-CastLogs."%s casts a spell on %s." %s casts a spell on %s.
-CastLogs."You cast %s on yourself." You cast %s on yourself.
-CastLogs."You can't cast %s there." You can't cast %s there.
-CastLogs."You can't cast %s on %s." You can't cast %s on %s.
-CastLogs."You can't cast %s on yourself." You can't cast %s on yourself.
-CastLogs."You can't cast where you can't see." You can't cast where you can't see.
-CastLogs."You choose not to cast %s at yourself." You choose not to cast %s at yourself.
-CastLogs."You start to cast a spell from %s." You start to cast a spell from %s.
-CastLogs."%s decides to zap you instead." %s decides to zap you instead.
-CastLogs."%s is cursed and it decides to zap you instead." %s is cursed and it decides to zap you instead.
-CastLogs."You zap %s at %s." You zap %s at %s.
-CastLogs."%s zaps %s at %s." %s zaps %s at %s.
-CastLogs."You can't zap %s there." You can't zap %s there.
-CastLogs."You can't zap where you can't see." You can't zap where you can't see.
+# TODO: 用 %1 %2 重排
+CastLogs."You cast %s at %s." 你将%s施放到%s。
+CastLogs."You cast %s on %s." 你将%s施放在%s上面。
+CastLogs."%s casts %s at %s." %s将%s施放到%s。
+CastLogs."%s casts %s on %s." %s将%s施放在%s上面。
+CastLogs."%s casts a spell at %s." %s对%s施放了一个法术。
+CastLogs."%s casts a spell on %s." %s在%s上面施放了一个法术。
+CastLogs."You cast %s on yourself." 你对自己施放了%s。
+CastLogs."You can't cast %s there." 你无法向那里施放%s。
+CastLogs."You can't cast %s on %s." 你无法将%s释放在%s上面。
+CastLogs."You can't cast %s on yourself." 你无法对自己施放%s。
+CastLogs."You can't cast where you can't see." 你无法向你看不见的地方施法。
+CastLogs."You choose not to cast %s at yourself." 你选择不对自己施放%s。
+CastLogs."You start to cast a spell from %s." 你开始从%s施放一个法术。
+CastLogs."%s decides to zap you instead." %s决定换成对你施术。
+CastLogs."%s is cursed and it decides to zap you instead." %s被诅咒了，它决定换成对你施术。
+CastLogs."You zap %s at %s." 你施展%s，攻击%s。
+CastLogs."%s zaps %s at %s." %s施展%s，攻击%s。
+CastLogs."You can't zap %s there." 你无法对那里施展%s。
+CastLogs."You can't zap where you can't see." 你无法向你看不到的地方施术。
 SearchLogs."You notice something skulking in the shadows." 你注意到有什么东西藏在阴影里。
 SearchLogs."%s notices you skulking in the shadows." %s注意到你躲在阴影里。
 SearchLogs."You notice something and find %s nearby." 您注意到一些东西，并在附近找到%s。

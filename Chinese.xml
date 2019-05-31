@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="42bda306fdcd7e0e8be5c01654a6c3b39a59ba1c">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="6ae7843e6bddcb339a288c119b1897045d253965">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -582,25 +582,25 @@
     <str id="You pull the trigger but nothing happens." value="You pull the trigger but nothing happens." local="你触动了扳机，但什么也没有发生。"/>
   </AttackLogs>
   <CastLogs>
-    <str id="You cast %s at %s." value="You cast %s at %s."/>
-    <str id="You cast %s on %s." value="You cast %s on %s."/>
-    <str id="%s casts %s at %s." value="%s casts %s at %s."/>
-    <str id="%s casts %s on %s." value="%s casts %s on %s."/>
-    <str id="%s casts a spell at %s." value="%s casts a spell at %s."/>
-    <str id="%s casts a spell on %s." value="%s casts a spell on %s."/>
-    <str id="You cast %s on yourself." value="You cast %s on yourself."/>
-    <str id="You can't cast %s there." value="You can't cast %s there."/>
-    <str id="You can't cast %s on %s." value="You can't cast %s on %s."/>
-    <str id="You can't cast %s on yourself." value="You can't cast %s on yourself."/>
-    <str id="You can't cast where you can't see." value="You can't cast where you can't see."/>
-    <str id="You choose not to cast %s at yourself." value="You choose not to cast %s at yourself."/>
-    <str id="You start to cast a spell from %s." value="You start to cast a spell from %s."/>
-    <str id="%s decides to zap you instead." value="%s decides to zap you instead."/>
-    <str id="%s is cursed and it decides to zap you instead." value="%s is cursed and it decides to zap you instead."/>
-    <str id="You zap %s at %s." value="You zap %s at %s."/>
-    <str id="%s zaps %s at %s." value="%s zaps %s at %s."/>
-    <str id="You can't zap %s there." value="You can't zap %s there."/>
-    <str id="You can't zap where you can't see." value="You can't zap where you can't see."/>
+    <str id="You cast %s at %s." value="You cast %s at %s." local="你将%s施放到%s。"/>
+    <str id="You cast %s on %s." value="You cast %s on %s." local="你将%s施放在%s上面。"/>
+    <str id="%s casts %s at %s." value="%s casts %s at %s." local="%s将%s施放到%s。"/>
+    <str id="%s casts %s on %s." value="%s casts %s on %s." local="%s将%s施放在%s上面。"/>
+    <str id="%s casts a spell at %s." value="%s casts a spell at %s." local="%s对%s施放了一个法术。"/>
+    <str id="%s casts a spell on %s." value="%s casts a spell on %s." local="%s在%s上面施放了一个法术。"/>
+    <str id="You cast %s on yourself." value="You cast %s on yourself." local="你对自己施放了%s。"/>
+    <str id="You can't cast %s there." value="You can't cast %s there." local="你无法向那里施放%s。"/>
+    <str id="You can't cast %s on %s." value="You can't cast %s on %s." local="你无法将%s释放在%s上面。"/>
+    <str id="You can't cast %s on yourself." value="You can't cast %s on yourself." local="你无法对自己施放%s。"/>
+    <str id="You can't cast where you can't see." value="You can't cast where you can't see." local="你无法向你看不见的地方施法。"/>
+    <str id="You choose not to cast %s at yourself." value="You choose not to cast %s at yourself." local="你选择不对自己施放%s。"/>
+    <str id="You start to cast a spell from %s." value="You start to cast a spell from %s." local="你开始从%s施放一个法术。"/>
+    <str id="%s decides to zap you instead." value="%s decides to zap you instead." local="%s决定换成对你施术。"/>
+    <str id="%s is cursed and it decides to zap you instead." value="%s is cursed and it decides to zap you instead." local="%s被诅咒了，它决定换成对你施术。"/>
+    <str id="You zap %s at %s." value="You zap %s at %s." local="你施展%s，攻击%s。"/>
+    <str id="%s zaps %s at %s." value="%s zaps %s at %s." local="%s施展%s，攻击%s。"/>
+    <str id="You can't zap %s there." value="You can't zap %s there." local="你无法对那里施展%s。"/>
+    <str id="You can't zap where you can't see." value="You can't zap where you can't see." local="你无法向你看不到的地方施术。"/>
   </CastLogs>
   <SearchLogs>
     <str id="You notice something skulking in the shadows." value="You notice something skulking in the shadows." local="你注意到有什么东西藏在阴影里。"/>
