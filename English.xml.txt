@@ -566,7 +566,7 @@ MoveLogs."You attempt to climb out of the water chasm but you inhale some water.
 MoveLogs."You fail to climb out of the chasm." 你没能爬出深坑。
 MoveLogs."You succesfully climb out out of the chasm." 你成功地爬出了深坑。
 MoveLogs."You fall down in a lava chasm." 你掉进了熔岩坑里。
-MoveLogs."You step on a lava chasm and fall down." 你踩到一个熔岩坑，然后掉下去。
+MoveLogs."You step on a lava chasm and fall down." 你踩到一个熔岩坑，然后掉了下去。
 MoveLogs."You fall down in a water chasm." 你掉进了一个水坑里。
 MoveLogs."You step on a water chasm and fall down." 你踩在一个水坑上摔了下来。
 MoveLogs."You move silently and hide in plain sight." 你默默潜行，在视野中藏了起来。
