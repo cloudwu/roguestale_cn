@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="8c2ffa01c107bce2921cbe9f694057bd4a6c3c57">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="875fe7aba594e57859628fe1fff9af9597bf16e4">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -2466,20 +2466,20 @@
     <str id="Wand of Torture" value="Causes immense magical damage but never enough to kill the target." local="造成巨大的魔法伤害，但不会杀死&#10;目标。"/>
   </WandDescs>
   <WandLogs>
-    <str id="The wall crumbles and reveals a hidden door." value="The wall crumbles and reveals a hidden door."/>
-    <str id="The wall crumbles and reveals a hidden passage." value="The wall crumbles and reveals a hidden passage."/>
-    <str id="The wall crumbles and breaks into a boulder." value="The wall crumbles and breaks into a boulder."/>
-    <str id="%s crumbles to dust." value="%s crumbles to dust."/>
-    <str id="%s collapses into a spiked pit." value="%s collapses into a spiked pit."/>
-    <str id="The floor collapses into a spiked pit." value="The floor collapses into a spiked pit."/>
-    <str id="You fall down into the spiked pit." value="You fall down into the spiked pit."/>
-    <str id="%s falls down into the spiked pit." value="%s falls down into the spiked pit."/>
-    <str id="You switch places with %s." value="You switch places with %s."/>
-    <str id="%s shimmers brightly for a second." value="%s shimmers brightly for a second."/>
-    <str id="%s has lost its blessing." value="%s has lost its blessing."/>
-    <str id="%s has reached its maximum charges." value="%s has reached its maximum charges."/>
-    <str id="You create a duplicate of %s." value="You create a duplicate of %s."/>
-    <str id="You don't have room for the duplicated %s." value="You don't have room for the duplicated %s."/>
+    <str id="The wall crumbles and reveals a hidden door." value="The wall crumbles and reveals a hidden door." local="墙倒塌了，露出一扇隐藏的门。"/>
+    <str id="The wall crumbles and reveals a hidden passage." value="The wall crumbles and reveals a hidden passage." local="墙倒塌了，露出一条隐蔽的通道。"/>
+    <str id="The wall crumbles and breaks into a boulder." value="The wall crumbles and breaks into a boulder." local="墙碎裂成一块巨石。"/>
+    <str id="%s crumbles to dust." value="%s crumbles to dust." local="%s化为尘埃。"/>
+    <str id="%s collapses into a spiked pit." value="%s collapses into a spiked pit." local="%s塌陷进一个有尖刺的坑里。"/>
+    <str id="The floor collapses into a spiked pit." value="The floor collapses into a spiked pit." local="地板塌陷成一个有尖刺的坑。"/>
+    <str id="You fall down into the spiked pit." value="You fall down into the spiked pit." local="你掉进了有尖刺的坑里。"/>
+    <str id="%s falls down into the spiked pit." value="%s falls down into the spiked pit." local="%s掉进了有尖刺的坑里。"/>
+    <str id="You switch places with %s." value="You switch places with %s." local="你和%s交换了位置。"/>
+    <str id="%s shimmers brightly for a second." value="%s shimmers brightly for a second." local="%s闪亮了一秒钟。"/>
+    <str id="%s has lost its blessing." value="%s has lost its blessing." local="%s失去了它的祝福。"/>
+    <str id="%s has reached its maximum charges." value="%s has reached its maximum charges." local="%s已达到最高次数。"/>
+    <str id="You create a duplicate of %s." value="You create a duplicate of %s." local="你创建了%s的复制品。"/>
+    <str id="You don't have room for the duplicated %s." value="You don't have room for the duplicated %s." local="你没有空间复制%s。"/>
   </WandLogs>
   <WeaponNames>
     <str id="Fist" value="Fist" local="拳套"/>

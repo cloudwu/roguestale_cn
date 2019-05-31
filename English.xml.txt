@@ -2266,20 +2266,20 @@ WandDescs."Wand of Gobsmacking" @(30)让一个朋友持续眩晕，除非你和�
 WandDescs."Wand of Rituals" @(30)以鼠标为中心召唤出一个 3*3 的圆形献祭魔法阵。
 WandDescs."Wand of Scripting" @(30)以一般的水准复制一个卷轴。
 WandDescs."Wand of Torture" @(30)造成巨大的魔法伤害，但不会杀死目标。
-WandLogs."The wall crumbles and reveals a hidden door." The wall crumbles and reveals a hidden door.
-WandLogs."The wall crumbles and reveals a hidden passage." The wall crumbles and reveals a hidden passage.
-WandLogs."The wall crumbles and breaks into a boulder." The wall crumbles and breaks into a boulder.
-WandLogs."%s crumbles to dust." %s crumbles to dust.
-WandLogs."%s collapses into a spiked pit." %s collapses into a spiked pit.
-WandLogs."The floor collapses into a spiked pit." The floor collapses into a spiked pit.
-WandLogs."You fall down into the spiked pit." You fall down into the spiked pit.
-WandLogs."%s falls down into the spiked pit." %s falls down into the spiked pit.
-WandLogs."You switch places with %s." You switch places with %s.
-WandLogs."%s shimmers brightly for a second." %s shimmers brightly for a second.
-WandLogs."%s has lost its blessing." %s has lost its blessing.
-WandLogs."%s has reached its maximum charges." %s has reached its maximum charges.
-WandLogs."You create a duplicate of %s." You create a duplicate of %s.
-WandLogs."You don't have room for the duplicated %s." You don't have room for the duplicated %s.
+WandLogs."The wall crumbles and reveals a hidden door." 墙倒塌了，露出一扇隐藏的门。
+WandLogs."The wall crumbles and reveals a hidden passage." 墙倒塌了，露出一条隐蔽的通道。
+WandLogs."The wall crumbles and breaks into a boulder." 墙碎裂成一块巨石。
+WandLogs."%s crumbles to dust." %s化为尘埃。
+WandLogs."%s collapses into a spiked pit." %s塌陷进一个有尖刺的坑里。
+WandLogs."The floor collapses into a spiked pit." 地板塌陷成一个有尖刺的坑。
+WandLogs."You fall down into the spiked pit." 你掉进了有尖刺的坑里。
+WandLogs."%s falls down into the spiked pit." %s掉进了有尖刺的坑里。
+WandLogs."You switch places with %s." 你和%s交换了位置。
+WandLogs."%s shimmers brightly for a second." %s闪亮了一秒钟。
+WandLogs."%s has lost its blessing." %s失去了它的祝福。
+WandLogs."%s has reached its maximum charges." %s已达到最高次数。
+WandLogs."You create a duplicate of %s." 你创建了%s的复制品。
+WandLogs."You don't have room for the duplicated %s." 你没有空间复制%s。
 WeaponNames."Fist" 拳套
 WeaponNames."Stone" 石块
 WeaponNames."Barbed Whip" 荆棘之鞭
