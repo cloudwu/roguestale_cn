@@ -362,7 +362,7 @@ LootTips."Current setting: Even" 当前设置：偶数
 LootTips."Current setting: Odd" 当前设置：奇数
 LootTips."Fire Aura" 火焰光环
 LootTips."Frost Aura" 冰霜光环
-LootTips."Shock Aura" 震击光环
+LootTips."Shock Aura" 雷电光环
 LootTips."Poison Aura" 毒害光环
 LootTips."Disease Aura" 疾病光环
 LootTips."Damage: %s" 伤害：%s
@@ -679,40 +679,40 @@ UseLogs."You flip a coin and it lands on its tail." 你抛起一枚硬币，它�
 UseLogs."Select a blessed ring to bind on %s." 选择一个神圣的戒指绑定在%s之上。
 UseLogs."You set the time dilation to match 'Even' turns." 你设置时间膨胀装置为“偶数”回合。
 UseLogs."You set the time dilation to match 'Odd' turns." 你设置时间膨胀装置为“奇数”回合。
-ActionLogs."You disarm %s." You disarm %s.
-ActionLogs."You sidestep to avoid being knocked back." You sidestep to avoid being knocked back.
-ActionLogs."You are knocked back." You are knocked back.
-ActionLogs."%s is knocked back." %s is knocked back.
-ActionLogs."You need to equip arrows to shoot with that weapon." You need to equip arrows to shoot with that weapon.
-ActionLogs."You need to equip bolts to shoot with that weapon." You need to equip bolts to shoot with that weapon.
-ActionLogs."You can't attack at range without a ranged weapon." You can't attack at range without a ranged weapon.
-ActionLogs."Woof can only be stored when he is adjacent to you." Woof can only be stored when he is adjacent to you.
-ActionLogs."Can't store Woof because he doesn't exist." Can't store Woof because he doesn't exist.
-ActionLogs."Can't spawn Woof because there isn't enough free space." Can't spawn Woof because there isn't enough free space.
-ActionLogs."You blow kisses at %s." You blow kisses at %s.
-ActionLogs."You lovingly hug %s." You lovingly hug %s.
-ActionLogs."%s notices its master and stops attacking." %s notices its master and stops attacking.
-ActionLogs."You shapeshift back into a human." You shapeshift back into a human.
-ActionLogs."You shapeshift into a wolf." You shapeshift into a wolf.
-ActionLogs."You shapeshift into a bear." You shapeshift into a bear.
-ActionLogs."%s vanishes." %s vanishes.
-ActionLogs."%s dies and sinks in the water." %s dies and sinks in the water.
-ActionLogs."%s dies and sinks in the lava." %s dies and sinks in the lava.
-ActionLogs."%s dies." %s dies.
-ActionLogs."%s's flaming aura hits you." %s's flaming aura hits you.
-ActionLogs."%s's flaming aura hits you but all damage is resisted." %s's flaming aura hits you but all damage is resisted.
-ActionLogs."%s's frozen aura hits you." %s's frozen aura hits you.
-ActionLogs."%s's frozen aura hits you but all damage is resisted." %s's frozen aura hits you but all damage is resisted.
-ActionLogs."%s's electric aura hits you." %s's electric aura hits you.
-ActionLogs."%s's electric aura hits you but all damage is resisted." %s's electric aura hits you but all damage is resisted.
-ActionLogs."%s's venomous aura hits you." %s's venomous aura hits you.
-ActionLogs."%s's venomous aura hits you but all damage is resisted." %s's venomous aura hits you but all damage is resisted.
-ActionLogs."%s's virulent aura hits you." %s's virulent aura hits you.
-ActionLogs."%s's virulent aura hits you but all damage is resisted." %s's virulent aura hits you but all damage is resisted.
-ActionLogs."%s sink in the water." %s sink in the water.
-ActionLogs."%s sinks in the water." %s sinks in the water.
-ActionLogs."%s sink in the lava." %s sink in the lava.
-ActionLogs."%s sinks in the lava." %s sinks in the lava.
+ActionLogs."You disarm %s." 你缴械了%s。
+ActionLogs."You sidestep to avoid being knocked back." 你闪到一边，避免被击退。
+ActionLogs."You are knocked back." 你被击退了。
+ActionLogs."%s is knocked back." %s被击退了。
+ActionLogs."You need to equip arrows to shoot with that weapon." 你需要装备羽箭才能用那种武器射击。
+ActionLogs."You need to equip bolts to shoot with that weapon." 你需要装备箭头才能用那种武器射击。
+ActionLogs."You can't attack at range without a ranged weapon." 你缺少一把远程武器无法远程攻击。
+ActionLogs."Woof can only be stored when he is adjacent to you." 汪汪和你邻接的时候无法被存起来。
+ActionLogs."Can't store Woof because he doesn't exist." 汪汪不存在的时候无法被存起来。
+ActionLogs."Can't spawn Woof because there isn't enough free space." 因为没有足够的空间，所以不能放出汪汪。
+ActionLogs."You blow kisses at %s." 你给了%s一个飞吻。
+ActionLogs."You lovingly hug %s." 你给了%s一个爱的拥抱。
+ActionLogs."%s notices its master and stops attacking." %s注意到它的主人并停止攻击。
+ActionLogs."You shapeshift back into a human." 你变身回人类。
+ActionLogs."You shapeshift into a wolf." 你变身成一只狼。
+ActionLogs."You shapeshift into a bear." 你变身成一头熊。
+ActionLogs."%s vanishes." %s消失了。
+ActionLogs."%s dies and sinks in the water." %s死了，沉入水中。
+ActionLogs."%s dies and sinks in the lava." %s死了，沉入岩浆。
+ActionLogs."%s dies." %s死了。
+ActionLogs."%s's flaming aura hits you." %s的火焰光环击中了你。
+ActionLogs."%s's flaming aura hits you but all damage is resisted." %s的火焰光环击中了你，但所有的伤害都被抵抗了。
+ActionLogs."%s's frozen aura hits you." %s的冰霜光环击中了你。
+ActionLogs."%s's frozen aura hits you but all damage is resisted." %s的冰霜光环击中了你，但所有的伤害都被抵抗了。
+ActionLogs."%s's electric aura hits you." %s的雷电光环击中了你。
+ActionLogs."%s's electric aura hits you but all damage is resisted." %s的雷电光环击中了你，但所有的伤害都被抵抗了。
+ActionLogs."%s's venomous aura hits you." %s的毒害光环击中了你。
+ActionLogs."%s's venomous aura hits you but all damage is resisted." %s的毒害光环击中了你，但所有的伤害都被抵抗了。
+ActionLogs."%s's virulent aura hits you." %s的瘟疫光环击中了你。
+ActionLogs."%s's virulent aura hits you but all damage is resisted." %s的瘟疫光环击中了你，但所有的伤害都被抵抗了。
+ActionLogs."%s sink in the water." %s沉入水中。
+ActionLogs."%s sinks in the water." %s沉入水中。
+ActionLogs."%s sink in the lava." %s沉入岩浆。
+ActionLogs."%s sinks in the lava." %s沉入岩浆。
 CombatTexts."Friend Gained" 获得伙伴
 CombatTexts."Friend Lost" 失去伙伴
 CombatTexts."Reflex Save" 反射脱险

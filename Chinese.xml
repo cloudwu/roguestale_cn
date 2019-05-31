@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="875fe7aba594e57859628fe1fff9af9597bf16e4">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="573e73cf7ffdb542dc896e1413e7082cdf3ba828">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -406,7 +406,7 @@
     <str id="Current setting: Odd" value="Current setting: Odd" local="当前设置：奇数"/>
     <str id="Fire Aura" value="Fire Aura" local="火焰光环"/>
     <str id="Frost Aura" value="Frost Aura" local="冰霜光环"/>
-    <str id="Shock Aura" value="Shock Aura" local="震击光环"/>
+    <str id="Shock Aura" value="Shock Aura" local="雷电光环"/>
     <str id="Poison Aura" value="Poison Aura" local="毒害光环"/>
     <str id="Disease Aura" value="Disease Aura" local="疾病光环"/>
     <str id="Damage: %s" value="Damage: %s" local="伤害：%s"/>
@@ -743,40 +743,40 @@
     <str id="You set the time dilation to match 'Odd' turns." value="You set the time dilation to match 'Odd' turns." local="你设置时间膨胀装置为“奇数”回合。"/>
   </UseLogs>
   <ActionLogs>
-    <str id="You disarm %s." value="You disarm %s."/>
-    <str id="You sidestep to avoid being knocked back." value="You sidestep to avoid being knocked back."/>
-    <str id="You are knocked back." value="You are knocked back."/>
-    <str id="%s is knocked back." value="%s is knocked back."/>
-    <str id="You need to equip arrows to shoot with that weapon." value="You need to equip arrows to shoot with that weapon."/>
-    <str id="You need to equip bolts to shoot with that weapon." value="You need to equip bolts to shoot with that weapon."/>
-    <str id="You can't attack at range without a ranged weapon." value="You can't attack at range without a ranged weapon."/>
-    <str id="Woof can only be stored when he is adjacent to you." value="Woof can only be stored when he is adjacent to you."/>
-    <str id="Can't store Woof because he doesn't exist." value="Can't store Woof because he doesn't exist."/>
-    <str id="Can't spawn Woof because there isn't enough free space." value="Can't spawn Woof because there isn't enough free space."/>
-    <str id="You blow kisses at %s." value="You blow kisses at %s."/>
-    <str id="You lovingly hug %s." value="You lovingly hug %s."/>
-    <str id="%s notices its master and stops attacking." value="%s notices its master and stops attacking."/>
-    <str id="You shapeshift back into a human." value="You shapeshift back into a human."/>
-    <str id="You shapeshift into a wolf." value="You shapeshift into a wolf."/>
-    <str id="You shapeshift into a bear." value="You shapeshift into a bear."/>
-    <str id="%s vanishes." value="%s vanishes."/>
-    <str id="%s dies and sinks in the water." value="%s dies and sinks in the water."/>
-    <str id="%s dies and sinks in the lava." value="%s dies and sinks in the lava."/>
-    <str id="%s dies." value="%s dies."/>
-    <str id="%s's flaming aura hits you." value="%s's flaming aura hits you."/>
-    <str id="%s's flaming aura hits you but all damage is resisted." value="%s's flaming aura hits you but all damage is resisted."/>
-    <str id="%s's frozen aura hits you." value="%s's frozen aura hits you."/>
-    <str id="%s's frozen aura hits you but all damage is resisted." value="%s's frozen aura hits you but all damage is resisted."/>
-    <str id="%s's electric aura hits you." value="%s's electric aura hits you."/>
-    <str id="%s's electric aura hits you but all damage is resisted." value="%s's electric aura hits you but all damage is resisted."/>
-    <str id="%s's venomous aura hits you." value="%s's venomous aura hits you."/>
-    <str id="%s's venomous aura hits you but all damage is resisted." value="%s's venomous aura hits you but all damage is resisted."/>
-    <str id="%s's virulent aura hits you." value="%s's virulent aura hits you."/>
-    <str id="%s's virulent aura hits you but all damage is resisted." value="%s's virulent aura hits you but all damage is resisted."/>
-    <str id="%s sink in the water." value="%s sink in the water."/>
-    <str id="%s sinks in the water." value="%s sinks in the water."/>
-    <str id="%s sink in the lava." value="%s sink in the lava."/>
-    <str id="%s sinks in the lava." value="%s sinks in the lava."/>
+    <str id="You disarm %s." value="You disarm %s." local="你缴械了%s。"/>
+    <str id="You sidestep to avoid being knocked back." value="You sidestep to avoid being knocked back." local="你闪到一边，避免被击退。"/>
+    <str id="You are knocked back." value="You are knocked back." local="你被击退了。"/>
+    <str id="%s is knocked back." value="%s is knocked back." local="%s被击退了。"/>
+    <str id="You need to equip arrows to shoot with that weapon." value="You need to equip arrows to shoot with that weapon." local="你需要装备羽箭才能用那种武器射击。"/>
+    <str id="You need to equip bolts to shoot with that weapon." value="You need to equip bolts to shoot with that weapon." local="你需要装备箭头才能用那种武器射击。"/>
+    <str id="You can't attack at range without a ranged weapon." value="You can't attack at range without a ranged weapon." local="你缺少一把远程武器无法远程攻击。"/>
+    <str id="Woof can only be stored when he is adjacent to you." value="Woof can only be stored when he is adjacent to you." local="汪汪和你邻接的时候无法被存起来。"/>
+    <str id="Can't store Woof because he doesn't exist." value="Can't store Woof because he doesn't exist." local="汪汪不存在的时候无法被存起来。"/>
+    <str id="Can't spawn Woof because there isn't enough free space." value="Can't spawn Woof because there isn't enough free space." local="因为没有足够的空间，所以不能放出汪汪。"/>
+    <str id="You blow kisses at %s." value="You blow kisses at %s." local="你给了%s一个飞吻。"/>
+    <str id="You lovingly hug %s." value="You lovingly hug %s." local="你给了%s一个爱的拥抱。"/>
+    <str id="%s notices its master and stops attacking." value="%s notices its master and stops attacking." local="%s注意到它的主人并停止攻击。"/>
+    <str id="You shapeshift back into a human." value="You shapeshift back into a human." local="你变身回人类。"/>
+    <str id="You shapeshift into a wolf." value="You shapeshift into a wolf." local="你变身成一只狼。"/>
+    <str id="You shapeshift into a bear." value="You shapeshift into a bear." local="你变身成一头熊。"/>
+    <str id="%s vanishes." value="%s vanishes." local="%s消失了。"/>
+    <str id="%s dies and sinks in the water." value="%s dies and sinks in the water." local="%s死了，沉入水中。"/>
+    <str id="%s dies and sinks in the lava." value="%s dies and sinks in the lava." local="%s死了，沉入岩浆。"/>
+    <str id="%s dies." value="%s dies." local="%s死了。"/>
+    <str id="%s's flaming aura hits you." value="%s's flaming aura hits you." local="%s的火焰光环击中了你。"/>
+    <str id="%s's flaming aura hits you but all damage is resisted." value="%s's flaming aura hits you but all damage is resisted." local="%s的火焰光环击中了你，但所有的伤害都被抵抗了。"/>
+    <str id="%s's frozen aura hits you." value="%s's frozen aura hits you." local="%s的冰霜光环击中了你。"/>
+    <str id="%s's frozen aura hits you but all damage is resisted." value="%s's frozen aura hits you but all damage is resisted." local="%s的冰霜光环击中了你，但所有的伤害都被抵抗了。"/>
+    <str id="%s's electric aura hits you." value="%s's electric aura hits you." local="%s的雷电光环击中了你。"/>
+    <str id="%s's electric aura hits you but all damage is resisted." value="%s's electric aura hits you but all damage is resisted." local="%s的雷电光环击中了你，但所有的伤害都被抵抗了。"/>
+    <str id="%s's venomous aura hits you." value="%s's venomous aura hits you." local="%s的毒害光环击中了你。"/>
+    <str id="%s's venomous aura hits you but all damage is resisted." value="%s's venomous aura hits you but all damage is resisted." local="%s的毒害光环击中了你，但所有的伤害都被抵抗了。"/>
+    <str id="%s's virulent aura hits you." value="%s's virulent aura hits you." local="%s的瘟疫光环击中了你。"/>
+    <str id="%s's virulent aura hits you but all damage is resisted." value="%s's virulent aura hits you but all damage is resisted." local="%s的瘟疫光环击中了你，但所有的伤害都被抵抗了。"/>
+    <str id="%s sink in the water." value="%s sink in the water." local="%s沉入水中。"/>
+    <str id="%s sinks in the water." value="%s sinks in the water." local="%s沉入水中。"/>
+    <str id="%s sink in the lava." value="%s sink in the lava." local="%s沉入岩浆。"/>
+    <str id="%s sinks in the lava." value="%s sinks in the lava." local="%s沉入岩浆。"/>
   </ActionLogs>
   <CombatTexts>
     <str id="Friend Gained" value="Friend Gained" local="获得伙伴"/>
