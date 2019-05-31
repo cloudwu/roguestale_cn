@@ -556,56 +556,56 @@ SearchLogs."You notice something and find a hidden passage nearby." 你注意到
 SearchLogs."You search your surroundings and find a hidden door nearby." 你搜索四周，发现了附近的一扇暗门。
 SearchLogs."You search your surroundings and find a hidden passage nearby." 你搜索四周，发现了一个隐藏的通道。
 SearchLogs."You search your surroundings." 你搜索四周。
-MoveLogs."You attempt to swim while exhausted and inhale some lava." You attempt to swim while exhausted and inhale some lava.
-MoveLogs."You attempt to swim while exhausted and inhale some water." You attempt to swim while exhausted and inhale some water.
-MoveLogs."You are too tired to swim at the moment." You are too tired to swim at the moment.
-MoveLogs."You are too tired to climb out of the chasm at the moment." You are too tired to climb out of the chasm at the moment.
-MoveLogs."You attempt to climb out of the lava chasm but you inhale some fumes." You attempt to climb out of the lava chasm but you inhale some fumes.
-MoveLogs."You attempt to climb out of the water chasm but you inhale some water." You attempt to climb out of the water chasm but you inhale some water.
-MoveLogs."You fail to climb out of the chasm." You fail to climb out of the chasm.
-MoveLogs."You succesfully climb out out of the chasm." You succesfully climb out out of the chasm.
-MoveLogs."You fall down in a lava chasm." You fall down in a lava chasm.
-MoveLogs."You step on a lava chasm and fall down." You step on a lava chasm and fall down.
-MoveLogs."You fall down in a water chasm." You fall down in a water chasm.
-MoveLogs."You step on a water chasm and fall down." You step on a water chasm and fall down.
-MoveLogs."You move silently and hide in plain sight." You move silently and hide in plain sight.
-MoveLogs."You move silently and remain hidden." You move silently and remain hidden.
-MoveLogs."You fail to move silently and become visible." You fail to move silently and become visible.
-MoveLogs."%s becomes visible." %s becomes visible.
-MoveLogs."You fail to move silently." You fail to move silently.
-MoveLogs."You fail to hide due to being watched by someone." You fail to hide due to being watched by someone.
-MoveLogs."You are no longer hidden." You are no longer hidden.
-MoveLogs."%s is no longer hidden." %s is no longer hidden.
-MoveLogs."You swap places with %s." You swap places with %s.
-MoveLogs."You are too tired to swap places with %s." You are too tired to swap places with %s.
-MoveLogs."You pat %s and remind who the master is." You pat %s and remind who the master is.
-MoveLogs."You can't attack people you know before talking to them." You can't attack people you know before talking to them.
-MoveLogs."You can't attack other people before talking to them." You can't attack other people before talking to them.
-MoveLogs."You bump into something hidden." You bump into something hidden.
-MoveLogs."%s bumps into you." %s bumps into you.
-MoveLogs."You choose not to step on a lava chasm." You choose not to step on a lava chasm.
-MoveLogs."You choose not to step on a water chasm." You choose not to step on a water chasm.
-MoveLogs."You choose not to step on %s." You choose not to step on %s.
-MoveLogs."You feel a bit more energetic." You feel a bit more energetic.
-MoveLogs."You are too tired to break things right now." You are too tired to break things right now.
-MoveLogs."%s rolls on %s and tears it apart before sinking in a chasm." %s rolls on %s and tears it apart before sinking in a chasm.
-MoveLogs."%s rolls down and sinks in a lava chasm." %s rolls down and sinks in a lava chasm.
-MoveLogs."%s rolls down and sinks in a water chasm." %s rolls down and sinks in a water chasm.
-MoveLogs."You push %s but something seems to be blocking the way." You push %s but something seems to be blocking the way.
-MoveLogs."%s rolls on %s and seals it shut." %s rolls on %s and seals it shut.
-MoveLogs."%s rolls on %s and breaks it." %s rolls on %s and breaks it.
-MoveLogs."%s rolls on an entrance and seals it shut." %s rolls on an entrance and seals it shut.
-MoveLogs."%s rolls on a pit and seals it shut." %s rolls on a pit and seals it shut.
-MoveLogs."You are too tired to push %s right now." You are too tired to push %s right now.
-MoveLogs."You bump into something solid." You bump into something solid.
-MoveLogs."You kick %s and remember that right-click uses things." You kick %s and remember that right-click uses things.
-MoveLogs."You kick the wall and remember that right-click uses things." You kick the wall and remember that right-click uses things.
-MoveLogs."You kick the obstacle and remember that right-click uses things." You kick the obstacle and remember that right-click uses things.
-MoveLogs."You feel that you have been dislocated." You feel that you have been dislocated.
-MoveLogs."You feel that the universe just farted." You feel that the universe just farted.
-MoveLogs."The bridge breaks under your weight but you step aside before falling in a chasm." The bridge breaks under your weight but you step aside before falling in a chasm.
-MoveLogs."%s breaks under your weight and you fall down in a lava chasm." %s breaks under your weight and you fall down in a lava chasm.
-MoveLogs."%s breaks under your weight and you fall down in a water chasm." %s breaks under your weight and you fall down in a water chasm.
+MoveLogs."You attempt to swim while exhausted and inhale some lava." 你在精疲力尽时试图游泳，结果吸入了一些岩浆。
+MoveLogs."You attempt to swim while exhausted and inhale some water." 你在精疲力尽时试图游泳，结果呛了一些水。
+MoveLogs."You are too tired to swim at the moment." 你现在太累了，不能游泳。
+MoveLogs."You are too tired to climb out of the chasm at the moment." 你现在太累了，爬不出这个深坑。
+MoveLogs."You attempt to climb out of the lava chasm but you inhale some fumes." 你试图爬出熔岩坑，但你呛了一口烟。
+MoveLogs."You attempt to climb out of the water chasm but you inhale some water." 你试图爬出水坑，但你呛了一口水。
+MoveLogs."You fail to climb out of the chasm." 你没能爬出深坑。
+MoveLogs."You succesfully climb out out of the chasm." 你成功地爬出了深坑。
+MoveLogs."You fall down in a lava chasm." 你掉进了熔岩坑里。
+MoveLogs."You step on a lava chasm and fall down." 你踩到一个熔岩坑，然后掉下去。
+MoveLogs."You fall down in a water chasm." 你掉进了一个水坑里。
+MoveLogs."You step on a water chasm and fall down." 你踩在一个水坑上摔了下来。
+MoveLogs."You move silently and hide in plain sight." 你默默潜行，在视野中藏了起来。
+MoveLogs."You move silently and remain hidden." 你默默潜行，保持着隐身状态。
+MoveLogs."You fail to move silently and become visible." 你潜行失败，变得可见。
+MoveLogs."%s becomes visible." %s变得可见。
+MoveLogs."You fail to move silently." 你潜行失败。
+MoveLogs."You fail to hide due to being watched by someone." 你没能躲起来，被某人看见了。
+MoveLogs."You are no longer hidden." 你不再隐身。
+MoveLogs."%s is no longer hidden." %s不再隐身。
+MoveLogs."You swap places with %s." 你可%s交换了位置。
+MoveLogs."You are too tired to swap places with %s." 你太累了，无法和%s交换位置。
+MoveLogs."You pat %s and remind who the master is." 你轻轻的拍了拍%s，示意谁才是大师。
+MoveLogs."You can't attack people you know before talking to them." 在和你认识的人交谈之前，你不能攻击他们。
+MoveLogs."You can't attack other people before talking to them." 在和别人说话之前，你不能攻击他们。
+MoveLogs."You bump into something hidden." 你碰到了隐藏的东西。
+MoveLogs."%s bumps into you." %s撞到你。
+MoveLogs."You choose not to step on a lava chasm." 你选择不踩到熔岩裂口。
+MoveLogs."You choose not to step on a water chasm." 你选择不踩到一个水坑。
+MoveLogs."You choose not to step on %s." 你选择不踩上%s。
+MoveLogs."You feel a bit more energetic." 你觉得精力更充沛了。
+MoveLogs."You are too tired to break things right now." 你太累了，现在不能把东西弄坏。
+MoveLogs."%s rolls on %s and tears it apart before sinking in a chasm." %s滚到%s上面，在落下深坑之前把它碾成了几片。
+MoveLogs."%s rolls down and sinks in a lava chasm." %s滚下，沉入熔浆。
+MoveLogs."%s rolls down and sinks in a water chasm." %s滚下，沉入水中。
+MoveLogs."You push %s but something seems to be blocking the way." 你推了推%s，但好像有什么挡住了去路。
+MoveLogs."%s rolls on %s and seals it shut." %s滚到了%s上面，将它封闭。
+MoveLogs."%s rolls on %s and breaks it." %s滚到了%s上面，破坏了它。
+MoveLogs."%s rolls on an entrance and seals it shut." %s滚到了入口上，封住了它。
+MoveLogs."%s rolls on a pit and seals it shut." %s滚到了坑里，封住了它。
+MoveLogs."You are too tired to push %s right now." 你现在太累了，无法推动%s。
+MoveLogs."You bump into something solid." 你撞到了一个结实的东西。
+MoveLogs."You kick %s and remember that right-click uses things." 你踢到%s，记起了用鼠标右键使用东西。
+MoveLogs."You kick the wall and remember that right-click uses things." 你踢到墙，记起了用鼠标右键使用东西。
+MoveLogs."You kick the obstacle and remember that right-click uses things." 你踢到障碍物，记起了用鼠标右键使用东西。
+MoveLogs."You feel that you have been dislocated." 你觉得自己被弄糊涂了。
+MoveLogs."You feel that the universe just farted." 你觉得整个宇宙都在放屁。
+MoveLogs."The bridge breaks under your weight but you step aside before falling in a chasm." 桥在你的重压下断裂了，但你在掉入深渊之前闪到了一边。
+MoveLogs."%s breaks under your weight and you fall down in a lava chasm." %s在你的重压下断裂了，但你在掉入岩浆中之前闪到了一边。 
+MoveLogs."%s breaks under your weight and you fall down in a water chasm." %s在你的重压下断裂了，但你在落水之前闪到了一边。 
 RestLogs."You roll your eyes." 你眨了下眼。
 RestLogs."You pick your nose." 你擤了下鼻子。
 RestLogs."You feel your butt." 你拍了拍屁股。

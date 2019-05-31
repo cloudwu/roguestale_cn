@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="573e73cf7ffdb542dc896e1413e7082cdf3ba828">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="42bda306fdcd7e0e8be5c01654a6c3b39a59ba1c">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -614,56 +614,56 @@
     <str id="You search your surroundings." value="You search your surroundings." local="你搜索四周。"/>
   </SearchLogs>
   <MoveLogs>
-    <str id="You attempt to swim while exhausted and inhale some lava." value="You attempt to swim while exhausted and inhale some lava."/>
-    <str id="You attempt to swim while exhausted and inhale some water." value="You attempt to swim while exhausted and inhale some water."/>
-    <str id="You are too tired to swim at the moment." value="You are too tired to swim at the moment."/>
-    <str id="You are too tired to climb out of the chasm at the moment." value="You are too tired to climb out of the chasm at the moment."/>
-    <str id="You attempt to climb out of the lava chasm but you inhale some fumes." value="You attempt to climb out of the lava chasm but you inhale some fumes."/>
-    <str id="You attempt to climb out of the water chasm but you inhale some water." value="You attempt to climb out of the water chasm but you inhale some water."/>
-    <str id="You fail to climb out of the chasm." value="You fail to climb out of the chasm."/>
-    <str id="You succesfully climb out out of the chasm." value="You succesfully climb out out of the chasm."/>
-    <str id="You fall down in a lava chasm." value="You fall down in a lava chasm."/>
-    <str id="You step on a lava chasm and fall down." value="You step on a lava chasm and fall down."/>
-    <str id="You fall down in a water chasm." value="You fall down in a water chasm."/>
-    <str id="You step on a water chasm and fall down." value="You step on a water chasm and fall down."/>
-    <str id="You move silently and hide in plain sight." value="You move silently and hide in plain sight."/>
-    <str id="You move silently and remain hidden." value="You move silently and remain hidden."/>
-    <str id="You fail to move silently and become visible." value="You fail to move silently and become visible."/>
-    <str id="%s becomes visible." value="%s becomes visible."/>
-    <str id="You fail to move silently." value="You fail to move silently."/>
-    <str id="You fail to hide due to being watched by someone." value="You fail to hide due to being watched by someone."/>
-    <str id="You are no longer hidden." value="You are no longer hidden."/>
-    <str id="%s is no longer hidden." value="%s is no longer hidden."/>
-    <str id="You swap places with %s." value="You swap places with %s."/>
-    <str id="You are too tired to swap places with %s." value="You are too tired to swap places with %s."/>
-    <str id="You pat %s and remind who the master is." value="You pat %s and remind who the master is."/>
-    <str id="You can't attack people you know before talking to them." value="You can't attack people you know before talking to them."/>
-    <str id="You can't attack other people before talking to them." value="You can't attack other people before talking to them."/>
-    <str id="You bump into something hidden." value="You bump into something hidden."/>
-    <str id="%s bumps into you." value="%s bumps into you."/>
-    <str id="You choose not to step on a lava chasm." value="You choose not to step on a lava chasm."/>
-    <str id="You choose not to step on a water chasm." value="You choose not to step on a water chasm."/>
-    <str id="You choose not to step on %s." value="You choose not to step on %s."/>
-    <str id="You feel a bit more energetic." value="You feel a bit more energetic."/>
-    <str id="You are too tired to break things right now." value="You are too tired to break things right now."/>
-    <str id="%s rolls on %s and tears it apart before sinking in a chasm." value="%s rolls on %s and tears it apart before sinking in a chasm."/>
-    <str id="%s rolls down and sinks in a lava chasm." value="%s rolls down and sinks in a lava chasm."/>
-    <str id="%s rolls down and sinks in a water chasm." value="%s rolls down and sinks in a water chasm."/>
-    <str id="You push %s but something seems to be blocking the way." value="You push %s but something seems to be blocking the way."/>
-    <str id="%s rolls on %s and seals it shut." value="%s rolls on %s and seals it shut."/>
-    <str id="%s rolls on %s and breaks it." value="%s rolls on %s and breaks it."/>
-    <str id="%s rolls on an entrance and seals it shut." value="%s rolls on an entrance and seals it shut."/>
-    <str id="%s rolls on a pit and seals it shut." value="%s rolls on a pit and seals it shut."/>
-    <str id="You are too tired to push %s right now." value="You are too tired to push %s right now."/>
-    <str id="You bump into something solid." value="You bump into something solid."/>
-    <str id="You kick %s and remember that right-click uses things." value="You kick %s and remember that right-click uses things."/>
-    <str id="You kick the wall and remember that right-click uses things." value="You kick the wall and remember that right-click uses things."/>
-    <str id="You kick the obstacle and remember that right-click uses things." value="You kick the obstacle and remember that right-click uses things."/>
-    <str id="You feel that you have been dislocated." value="You feel that you have been dislocated."/>
-    <str id="You feel that the universe just farted." value="You feel that the universe just farted."/>
-    <str id="The bridge breaks under your weight but you step aside before falling in a chasm." value="The bridge breaks under your weight but you step aside before falling in a chasm."/>
-    <str id="%s breaks under your weight and you fall down in a lava chasm." value="%s breaks under your weight and you fall down in a lava chasm."/>
-    <str id="%s breaks under your weight and you fall down in a water chasm." value="%s breaks under your weight and you fall down in a water chasm."/>
+    <str id="You attempt to swim while exhausted and inhale some lava." value="You attempt to swim while exhausted and inhale some lava." local="你在精疲力尽时试图游泳，结果吸入了一些岩浆。"/>
+    <str id="You attempt to swim while exhausted and inhale some water." value="You attempt to swim while exhausted and inhale some water." local="你在精疲力尽时试图游泳，结果呛了一些水。"/>
+    <str id="You are too tired to swim at the moment." value="You are too tired to swim at the moment." local="你现在太累了，不能游泳。"/>
+    <str id="You are too tired to climb out of the chasm at the moment." value="You are too tired to climb out of the chasm at the moment." local="你现在太累了，爬不出这个深坑。"/>
+    <str id="You attempt to climb out of the lava chasm but you inhale some fumes." value="You attempt to climb out of the lava chasm but you inhale some fumes." local="你试图爬出熔岩坑，但你呛了一口烟。"/>
+    <str id="You attempt to climb out of the water chasm but you inhale some water." value="You attempt to climb out of the water chasm but you inhale some water." local="你试图爬出水坑，但你呛了一口水。"/>
+    <str id="You fail to climb out of the chasm." value="You fail to climb out of the chasm." local="你没能爬出深坑。"/>
+    <str id="You succesfully climb out out of the chasm." value="You succesfully climb out out of the chasm." local="你成功地爬出了深坑。"/>
+    <str id="You fall down in a lava chasm." value="You fall down in a lava chasm." local="你掉进了熔岩坑里。"/>
+    <str id="You step on a lava chasm and fall down." value="You step on a lava chasm and fall down." local="你踩到一个熔岩坑，然后掉下去。"/>
+    <str id="You fall down in a water chasm." value="You fall down in a water chasm." local="你掉进了一个水坑里。"/>
+    <str id="You step on a water chasm and fall down." value="You step on a water chasm and fall down." local="你踩在一个水坑上摔了下来。"/>
+    <str id="You move silently and hide in plain sight." value="You move silently and hide in plain sight." local="你默默潜行，在视野中藏了起来。"/>
+    <str id="You move silently and remain hidden." value="You move silently and remain hidden." local="你默默潜行，保持着隐身状态。"/>
+    <str id="You fail to move silently and become visible." value="You fail to move silently and become visible." local="你潜行失败，变得可见。"/>
+    <str id="%s becomes visible." value="%s becomes visible." local="%s变得可见。"/>
+    <str id="You fail to move silently." value="You fail to move silently." local="你潜行失败。"/>
+    <str id="You fail to hide due to being watched by someone." value="You fail to hide due to being watched by someone." local="你没能躲起来，被某人看见了。"/>
+    <str id="You are no longer hidden." value="You are no longer hidden." local="你不再隐身。"/>
+    <str id="%s is no longer hidden." value="%s is no longer hidden." local="%s不再隐身。"/>
+    <str id="You swap places with %s." value="You swap places with %s." local="你可%s交换了位置。"/>
+    <str id="You are too tired to swap places with %s." value="You are too tired to swap places with %s." local="你太累了，无法和%s交换位置。"/>
+    <str id="You pat %s and remind who the master is." value="You pat %s and remind who the master is." local="你轻轻的拍了拍%s，示意谁才是大师。"/>
+    <str id="You can't attack people you know before talking to them." value="You can't attack people you know before talking to them." local="在和你认识的人交谈之前，你不能攻击他们。"/>
+    <str id="You can't attack other people before talking to them." value="You can't attack other people before talking to them." local="在和别人说话之前，你不能攻击他们。"/>
+    <str id="You bump into something hidden." value="You bump into something hidden." local="你碰到了隐藏的东西。"/>
+    <str id="%s bumps into you." value="%s bumps into you." local="%s撞到你。"/>
+    <str id="You choose not to step on a lava chasm." value="You choose not to step on a lava chasm." local="你选择不踩到熔岩裂口。"/>
+    <str id="You choose not to step on a water chasm." value="You choose not to step on a water chasm." local="你选择不踩到一个水坑。"/>
+    <str id="You choose not to step on %s." value="You choose not to step on %s." local="你选择不踩上%s。"/>
+    <str id="You feel a bit more energetic." value="You feel a bit more energetic." local="你觉得精力更充沛了。"/>
+    <str id="You are too tired to break things right now." value="You are too tired to break things right now." local="你太累了，现在不能把东西弄坏。"/>
+    <str id="%s rolls on %s and tears it apart before sinking in a chasm." value="%s rolls on %s and tears it apart before sinking in a chasm." local="%s滚到%s上面，在落下深坑之前把它碾成了几片。"/>
+    <str id="%s rolls down and sinks in a lava chasm." value="%s rolls down and sinks in a lava chasm." local="%s滚下，沉入熔浆。"/>
+    <str id="%s rolls down and sinks in a water chasm." value="%s rolls down and sinks in a water chasm." local="%s滚下，沉入水中。"/>
+    <str id="You push %s but something seems to be blocking the way." value="You push %s but something seems to be blocking the way." local="你推了推%s，但好像有什么挡住了去路。"/>
+    <str id="%s rolls on %s and seals it shut." value="%s rolls on %s and seals it shut." local="%s滚到了%s上面，将它封闭。"/>
+    <str id="%s rolls on %s and breaks it." value="%s rolls on %s and breaks it." local="%s滚到了%s上面，破坏了它。"/>
+    <str id="%s rolls on an entrance and seals it shut." value="%s rolls on an entrance and seals it shut." local="%s滚到了入口上，封住了它。"/>
+    <str id="%s rolls on a pit and seals it shut." value="%s rolls on a pit and seals it shut." local="%s滚到了坑里，封住了它。"/>
+    <str id="You are too tired to push %s right now." value="You are too tired to push %s right now." local="你现在太累了，无法推动%s。"/>
+    <str id="You bump into something solid." value="You bump into something solid." local="你撞到了一个结实的东西。"/>
+    <str id="You kick %s and remember that right-click uses things." value="You kick %s and remember that right-click uses things." local="你踢到%s，记起了用鼠标右键使用东西。"/>
+    <str id="You kick the wall and remember that right-click uses things." value="You kick the wall and remember that right-click uses things." local="你踢到墙，记起了用鼠标右键使用东西。"/>
+    <str id="You kick the obstacle and remember that right-click uses things." value="You kick the obstacle and remember that right-click uses things." local="你踢到障碍物，记起了用鼠标右键使用东西。"/>
+    <str id="You feel that you have been dislocated." value="You feel that you have been dislocated." local="你觉得自己被弄糊涂了。"/>
+    <str id="You feel that the universe just farted." value="You feel that the universe just farted." local="你觉得整个宇宙都在放屁。"/>
+    <str id="The bridge breaks under your weight but you step aside before falling in a chasm." value="The bridge breaks under your weight but you step aside before falling in a chasm." local="桥在你的重压下断裂了，但你在掉入深渊之前闪到了一边。"/>
+    <str id="%s breaks under your weight and you fall down in a lava chasm." value="%s breaks under your weight and you fall down in a lava chasm." local="%s在你的重压下断裂了，但你在掉入岩浆中之前闪到了一边。 "/>
+    <str id="%s breaks under your weight and you fall down in a water chasm." value="%s breaks under your weight and you fall down in a water chasm." local="%s在你的重压下断裂了，但你在落水之前闪到了一边。 "/>
   </MoveLogs>
   <RestLogs>
     <str id="You roll your eyes." value="You roll your eyes." local="你眨了下眼。"/>
