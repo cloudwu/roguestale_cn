@@ -207,7 +207,7 @@ GUIPops."%s is now properly buried at the shrine of the forgotten heroes and %s 
 GUIPops."You have reached" 你已达到
 GUIPops."Level %d" 等级 %d
 GUIPops."You have entered" 你已进入
-Quests."I got plenty of money!" 我获得了大量金钱！
+Quests."I got plenty of money!" 我有的是钱！
 Quests."Pay the price (%dg)" 支付（%d 金）
 Quests."Consider him shaved!" 准备给他修面！
 Quests."Yeah, yeah, I'm going!" 好的好的，我会去的！
@@ -224,7 +224,7 @@ Quests."Nabon's Castle" 腊崩的城堡
 Quests."Frostmourn Keep" 霜之哀伤城楼
 Quests."TRAVELER_DESC" @(32)待在旅店中的旅客声称在附近的地牢中见过 %s 。
 Quests."TRAVELER_DESC".1 @(32)这些旅客看起来不太像地牢中的怪兽，但肯定比你们这些游侠更贪婪。
-Quests."TRAVELER_DESC".2 If @(32)如果你想打听地牢的位置以及 %s ，你需要必须付点钱。
+Quests."TRAVELER_DESC".2 @(32)如果你想打听地牢的位置以及 %s ，你需要必须付点钱。
 Quests."SPAWN_TRAVELER" 你付了钱给旅客，出发去找 %s 。
 Quests."ARTIFICER_DESC" @(32)工匠大师鲁班被捉为人质，工匠行会正在招募人选去解救他。
 Quests."ARTIFICER_DESC".1 @(32)不知道为什么，这个任务看起来没有报酬，但是你无法预知救了他会发生什么。
@@ -2238,7 +2238,7 @@ WandNames."Wand of Torture" 折磨魔杖
 WandDescs."WandDesc" @(30)魔杖上看起来被刻下了某种未知的语言。
 WandDescs."WandDescLiterate" @(30)魔杖上的刻痕说「指向和点击」。想象一下如果你不得不学习如何阅读这段的话?!?
 WandDescs."Wand of Blizzard" @(30)向目标地点发射一颗不断扩张和放大的冰球。
-WandDescs."Wand of Burning"  @(30)向目标地点发射一条燃烧的热浪，对路径上的所有单位造成伤害。
+WandDescs."Wand of Burning" @(30)向目标地点发射一条燃烧的热浪，对路径上的所有单位造成伤害。
 WandDescs."Wand of Channeling" @(30)允许施法者通过魔杖通导一个已知的法术。
 WandDescs."Wand of Chilling" @(30)向目标地点发射一条冰冻的寒流，对路径上的所有单位造成伤害。
 WandDescs."Wand of Corruption" 在目标地点制造一团腐败之云，对覆盖范围内的所有单位造成伤害。
@@ -3954,39 +3954,39 @@ EffectAnim."Itching Groin" @(44)&#10;有机会造成一点敏捷伤害，并且�
 EffectAnim."Putrid Breath" @(44)&#10;有机会造成一点魅力伤害，并且有机会给你附加一个 D6 回合的沉默效果。
 EffectAnim."Swollen Joint" @(44)&#10;有机会造成一点敏捷伤害，并且有机会给你附加一个 D6 回合的混乱效果。
 EffectAnim."Rotting Flesh" @(44)&#10;有机会造成一点魅力伤害，并且有机会给你附加一个 D6 回合的沉睡效果。
-EffectAnim."Afraid" @(44)&#10;你害怕了，你被迫逃离引起这个效果的源头。
-EffectAnim."Asleep" @(44)&#10;你睡着了，这会导致你失去你的回合。
-EffectAnim."Blinded" @(44)&#10;你被弄瞎了，这允许你不用踢墙就撞进墙里面，这太神奇了。
-EffectAnim."Charmed" @(44)&#10;你被魅惑了，你被迫攻击附近的施魅者的敌人。如果没有这样的生物，你会失去你的回合。
+EffectAnim."Afraid" @(44)你害怕了，你被迫逃离引起这个效果的源头。
+EffectAnim."Asleep" @(44)你睡着了，这会导致你失去你的回合。
+EffectAnim."Blinded" @(44)你被弄瞎了，这允许你不用踢墙就撞进墙里面，这太神奇了。
+EffectAnim."Charmed" @(44)你被魅惑了，你被迫攻击附近的施魅者的敌人。如果没有这样的生物，你会失去你的回合。
 EffectAnim."Charmed".1 
-EffectAnim."Chilled" @(44)&#10;你被冰冻了，这会导致你失去回合。
-EffectAnim."Confused" @(44)&#10;你被混乱了，这让你在清醒时也像醉酒了一样玩这个游戏。
-EffectAnim."Deafened" @(44)&#10;你被致聋了，这会阻止你欣赏游戏中超赞的音效。
-EffectAnim."Energised" @(44)&#10;你精力充沛，这让你可以重掷失败的精力回复检定。
-EffectAnim."Envious" @(44)&#10;你充满嫉妒，你被迫向附近相同性别的生物移动并攻击对方。如果没有这种生物则失去回合。
+EffectAnim."Chilled" @(44)你被冰冻了，这会导致你失去回合。
+EffectAnim."Confused" @(44)你被混乱了，这让你在清醒时也像醉酒了一样玩这个游戏。
+EffectAnim."Deafened" @(44)你被致聋了，这会阻止你欣赏游戏中超赞的音效。
+EffectAnim."Energised" @(44)你精力充沛，这让你可以重掷失败的精力回复检定。
+EffectAnim."Envious" @(44)你充满嫉妒，你被迫向附近相同性别的生物移动并攻击对方。如果没有这种生物则失去回合。
 EffectAnim."Envious".1 
-EffectAnim."Frenzied" @(44)&#10;你狂乱了，你被迫向附近的生物移动并攻击对方。如果没有生物则失去回合。
+EffectAnim."Frenzied" @(44)你狂乱了，你被迫向附近的生物移动并攻击对方。如果没有生物则失去回合。
 EffectAnim."Frenzied".1 
-EffectAnim."Greedy" @(44)&#10;你很贪婪，你被迫向附近的物品移动并拾取它。如果附近没有物品，则失去回合。
+EffectAnim."Greedy" @(44)你很贪婪，你被迫向附近的物品移动并拾取它。如果附近没有物品，则失去回合。
 EffectAnim."Greedy".1 
-EffectAnim."Hastened" @(44)&#10;你被加速了，这让你可以从现在开始将一个回合视为两个。
-EffectAnim."Insightful" @(44)&#10;你顿悟了，这让你在拾取物品时同时鉴定它们。
-EffectAnim."Invisible" @(44)&#10;你隐身了，这对那些想杀死你的可爱生物来说极不公平。
-EffectAnim."Levitated" @(44)&#10;你漂浮起来，这让你可以飘过陷阱而不会陷入。
-EffectAnim."Lustful" @(44)&#10;你变得好色，你被迫向附近不同性别的生物移动并把对方打服。如果没有这种生物则失去回合。
+EffectAnim."Hastened" @(44)你被加速了，这让你可以从现在开始将一个回合视为两个。
+EffectAnim."Insightful" @(44)你顿悟了，这让你在拾取物品时同时鉴定它们。
+EffectAnim."Invisible" @(44)你隐身了，这对那些想杀死你的可爱生物来说极不公平。
+EffectAnim."Levitated" @(44)你漂浮起来，这让你可以飘过陷阱而不会陷入。
+EffectAnim."Lustful" @(44)你变得好色，你被迫向附近不同性别的生物移动并把对方打服。如果没有这种生物则失去回合。
 EffectAnim."Lustful".1 
-EffectAnim."On fire" @(44)&#10;你着火了。这种时候你可以试着用水袋打湿自己。
-EffectAnim."Paralysed" @(44)&#10;你被麻痹了，这让你失去了回合。
-EffectAnim."Polymorphed" @(44)&#10;你被变形了，这能让你找到肯'尼斯。
-EffectAnim."Reckless" @(44)&#10;你变得鲁莽，你被迫向附近的敌人移动并攻击对方。如果没有敌人则失去回合。
+EffectAnim."On fire" @(44)你着火了。这种时候你可以试着用水袋打湿自己。
+EffectAnim."Paralysed" @(44)你被麻痹了，这让你失去了回合。
+EffectAnim."Polymorphed" @(44)你被变形了，这能让你找到肯'尼斯。
+EffectAnim."Reckless" @(44)你变得鲁莽，你被迫向附近的敌人移动并攻击对方。如果没有敌人则失去回合。
 EffectAnim."Reckless".1 
-EffectAnim."Shocked" @(44)&#10;你被震击了，这导致你失去了回合。
-EffectAnim."Silenced" @(44)&#10;你被沉默了，这使你无法施法或阅读卷轴。
-EffectAnim."Slowed" @(44)&#10;你被迟缓了，这可能让你失去回合。
-EffectAnim."Stunned" @(44)&#10;你被眩晕了，这导致你失去了回合。
-EffectAnim."Vitalised" @(44)&#10;你活力四射，这允许你重掷失败的生命回复检定。
-EffectAnim."Revitalised" @(44)&#10;你获得了持续回复的能力，但同时也变得更加怕火。
-EffectAnim."You have temporarily gained knowledge of the %s talent." @(44)&#10;你临时获得了有关%s天赋的知识。
+EffectAnim."Shocked" @(44)你被震击了，这导致你失去了回合。
+EffectAnim."Silenced" @(44)你被沉默了，这使你无法施法或阅读卷轴。
+EffectAnim."Slowed" @(44)你被迟缓了，这可能让你失去回合。
+EffectAnim."Stunned" @(44)你被眩晕了，这导致你失去了回合。
+EffectAnim."Vitalised" @(44)你活力四射，这允许你重掷失败的生命回复检定。
+EffectAnim."Revitalised" @(44)你获得了持续回复的能力，但同时也变得更加怕火。
+EffectAnim."You have temporarily gained knowledge of the %s talent." @(44)你临时获得了有关%s天赋的知识。
 EffectAnim."-1 Strength" 力量减 1 。
 EffectAnim."-1 Agility" 敏捷减 1 。
 EffectAnim."-1 Stamina" 耐力减 1 。

@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="180f18681b6d096b9734a259f8381482ea3e74f6">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="a0f1ef9339f700178d0e47372334cb9f1976fe6a">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -239,7 +239,7 @@
     <str id="You have entered" value="You have entered" local="你已进入"/>
   </GUIPops>
   <Quests>
-    <str id="I got plenty of money!" value="I got plenty of money!" local="我获得了大量金钱！"/>
+    <str id="I got plenty of money!" value="I got plenty of money!" local="我有的是钱！"/>
     <str id="Pay the price (%dg)" value="Pay the price (%dg)" local="支付（%d 金）"/>
     <str id="Consider him shaved!" value="Consider him shaved!" local="准备给他修面！"/>
     <str id="Yeah, yeah, I'm going!" value="Yeah, yeah, I'm going!" local="好的好的，我会去的！"/>
@@ -256,7 +256,7 @@
     <str id="Frostmourn Keep" value="Frostmourn Keep" local="霜之哀伤城楼"/>
     <str id="TRAVELER_DESC" value="Some travelers are staying in the inn and they claim to have seen %s in a dungeon nearby." local="待在旅店中的旅客声称在附近的地牢&#10;中见过 %s 。">
       <str id="paragraph 1" value="The travelers don't seem like much of a dungeon dwellers but they are certainly greedier than your average rogue." local="这些旅客看起来不太像地牢中的怪兽&#10;，但肯定比你们这些游侠更贪婪。"/>
-      <str id="paragraph 2" value="If you want to learn the location of the dungeon and %s, you will have to pay dearly for it." local="If @(32)如果你想打听地牢的位置以及 %s ，你需要必须付点钱。"/>
+      <str id="paragraph 2" value="If you want to learn the location of the dungeon and %s, you will have to pay dearly for it." local="如果你想打听地牢的位置以及 %s ，&#10;你需要必须付点钱。"/>
     </str>
     <str id="SPAWN_TRAVELER" value="You pay the travelers and head out to face %s." local="你付了钱给旅客，出发去找 %s 。"/>
     <str id="ARTIFICER_DESC" value="The master artificer Leo Noerde has been taken hostage and the Artisan's Guild is looking for someone to rescue him." local="工匠大师鲁班被捉为人质，工匠行会&#10;正在招募人选去解救他。">
@@ -2435,7 +2435,7 @@
     <str id="WandDesc" value="There appears to be inscription on the wand that is written in some unknown language." local="魔杖上看起来被刻下了某种未知的&#10;语言。"/>
     <str id="WandDescLiterate" value="The inscription on the wand says &quot;Point and click&quot;. Imagine if you would have to learn how to read for this?!?" local="魔杖上的刻痕说「指向和点击」。&#10;想象一下如果你不得不学习如何阅&#10;读这段的话?!?"/>
     <str id="Wand of Blizzard" value="Shoots an amplified and enlarged frozen orb at the target location." local="向目标地点发射一颗不断扩张和放&#10;大的冰球。"/>
-    <str id="Wand of Burning" value="Shoots a flaming stream at the target location hitting everyone on the path." local=" @(30)向目标地点发射一条燃烧的热浪，对路径上的所有单位造成伤害。"/>
+    <str id="Wand of Burning" value="Shoots a flaming stream at the target location hitting everyone on the path." local="向目标地点发射一条燃烧的热浪，&#10;对路径上的所有单位造成伤害。"/>
     <str id="Wand of Channeling" value="Allows the caster to channel a known spell through the wand." local="允许施法者通过魔杖通导一个已知&#10;的法术。"/>
     <str id="Wand of Chilling" value="Shoots a frozen stream at the target location hitting everyone on the path." local="向目标地点发射一条冰冻的寒流，&#10;对路径上的所有单位造成伤害。"/>
     <str id="Wand of Corruption" value="Creates a cloud of corruption at the target location hitting everyone inside." local="在目标地点制造一团腐败之云，对覆盖范围内的所有单位造成伤害。"/>
@@ -4373,45 +4373,45 @@
     <str id="Putrid Breath" value="It has a chance of causing one point of charisma damage and a chance to place a silence effect on you for D6 turns." local="&#10;有机会造成一点魅力伤害，并且有机会给你附加一&#10;个 D6 回合的沉默效果。"/>
     <str id="Swollen Joint" value="It has a chance of causing one point of agility damage and a chance to place a confusion effect on you for D6 turns." local="&#10;有机会造成一点敏捷伤害，并且有机会给你附加一&#10;个 D6 回合的混乱效果。"/>
     <str id="Rotting Flesh" value="It has a chance of causing one point of charisma damage and a chance to place a sleep effect on you for D6 turns." local="&#10;有机会造成一点魅力伤害，并且有机会给你附加一&#10;个 D6 回合的沉睡效果。"/>
-    <str id="Afraid" value="You are afraid and you are forced to run away from the source of this effect." local="&#10;你害怕了，你被迫逃离引起这个效果的源头。"/>
-    <str id="Asleep" value="You are asleep and that causes you to miss your turn." local="&#10;你睡着了，这会导致你失去你的回合。"/>
-    <str id="Blinded" value="You are blinded and that allows you to bump into walls without kicking them, which is just amazing." local="&#10;你被弄瞎了，这允许你不用踢墙就撞进墙里面，这&#10;太神奇了。"/>
-    <str id="Charmed" value="You are charmed and you are forced to attack the nearest creature that is also an enemy of the charmer or miss" local="&#10;你被魅惑了，你被迫攻击附近的施魅者的敌人。如&#10;果没有这样的生物，你会失去你的回合。" space="True">
+    <str id="Afraid" value="You are afraid and you are forced to run away from the source of this effect." local="你害怕了，你被迫逃离引起这个效果的源头。"/>
+    <str id="Asleep" value="You are asleep and that causes you to miss your turn." local="你睡着了，这会导致你失去你的回合。"/>
+    <str id="Blinded" value="You are blinded and that allows you to bump into walls without kicking them, which is just amazing." local="你被弄瞎了，这允许你不用踢墙就撞进墙里面，这&#10;太神奇了。"/>
+    <str id="Charmed" value="You are charmed and you are forced to attack the nearest creature that is also an enemy of the charmer or miss" local="你被魅惑了，你被迫攻击附近的施魅者的敌人。如&#10;果没有这样的生物，你会失去你的回合。" space="True">
       <str id="paragraph 1" value="your turn if no such creature exists." local=""/>
     </str>
-    <str id="Chilled" value="You are chilled and that may cause you to miss your turn." local="&#10;你被冰冻了，这会导致你失去回合。"/>
-    <str id="Confused" value="You are confused and that allows you to play this game as if you were drunk while sober." local="&#10;你被混乱了，这让你在清醒时也像醉酒了一样玩这&#10;个游戏。"/>
-    <str id="Deafened" value="You are deafened and that prevents you from enjoying the awesome sounds of this game." local="&#10;你被致聋了，这会阻止你欣赏游戏中超赞的音效。"/>
-    <str id="Energised" value="You are energised and that allows you to re-roll failed energy regeneration checks." local="&#10;你精力充沛，这让你可以重掷失败的精力回复检定&#10;。"/>
-    <str id="Envious" value="You are envious and you are forced to move towards and attack the nearest creature of the same gender or miss" local="&#10;你充满嫉妒，你被迫向附近相同性别的生物移动并&#10;攻击对方。如果没有这种生物则失去回合。" space="True">
+    <str id="Chilled" value="You are chilled and that may cause you to miss your turn." local="你被冰冻了，这会导致你失去回合。"/>
+    <str id="Confused" value="You are confused and that allows you to play this game as if you were drunk while sober." local="你被混乱了，这让你在清醒时也像醉酒了一样玩这&#10;个游戏。"/>
+    <str id="Deafened" value="You are deafened and that prevents you from enjoying the awesome sounds of this game." local="你被致聋了，这会阻止你欣赏游戏中超赞的音效。"/>
+    <str id="Energised" value="You are energised and that allows you to re-roll failed energy regeneration checks." local="你精力充沛，这让你可以重掷失败的精力回复检定&#10;。"/>
+    <str id="Envious" value="You are envious and you are forced to move towards and attack the nearest creature of the same gender or miss" local="你充满嫉妒，你被迫向附近相同性别的生物移动并&#10;攻击对方。如果没有这种生物则失去回合。" space="True">
       <str id="paragraph 1" value="your turn if no such creature exists." local=""/>
     </str>
-    <str id="Frenzied" value="You are frenzied and you are forced to move towards and attack the nearest creature or miss your turn if no such" local="&#10;你狂乱了，你被迫向附近的生物移动并攻击对方。&#10;如果没有生物则失去回合。" space="True">
+    <str id="Frenzied" value="You are frenzied and you are forced to move towards and attack the nearest creature or miss your turn if no such" local="你狂乱了，你被迫向附近的生物移动并攻击对方。&#10;如果没有生物则失去回合。" space="True">
       <str id="paragraph 1" value="creature exists." local=""/>
     </str>
-    <str id="Greedy" value="You are greedy and you are forced to move towards the nearest item and attempt to pick it up or miss your turn if" local="&#10;你很贪婪，你被迫向附近的物品移动并拾取它。如&#10;果附近没有物品，则失去回合。" space="True">
+    <str id="Greedy" value="You are greedy and you are forced to move towards the nearest item and attempt to pick it up or miss your turn if" local="你很贪婪，你被迫向附近的物品移动并拾取它。如&#10;果附近没有物品，则失去回合。" space="True">
       <str id="paragraph 1" value="no such item exists." local=""/>
     </str>
-    <str id="Hastened" value="You are hastened and that allows you to act twice in one turn every now and then." local="&#10;你被加速了，这让你可以从现在开始将一个回合视&#10;为两个。"/>
-    <str id="Insightful" value="You are insightful and that allows you to identify items just by picking them up." local="&#10;你顿悟了，这让你在拾取物品时同时鉴定它们。"/>
-    <str id="Invisible" value="You are invisible and that is just unfair towards the lovely creatures that want to kill you." local="&#10;你隐身了，这对那些想杀死你的可爱生物来说极不&#10;公平。"/>
-    <str id="Levitated" value="You are levitated and that allows you to float over traps without getting stuck." local="&#10;你漂浮起来，这让你可以飘过陷阱而不会陷入。"/>
-    <str id="Lustful" value="You are lustful and you are forced to move towards the nearest creature of the opposite gender and beat that" local="&#10;你变得好色，你被迫向附近不同性别的生物移动并&#10;把对方打服。如果没有这种生物则失去回合。" space="True">
+    <str id="Hastened" value="You are hastened and that allows you to act twice in one turn every now and then." local="你被加速了，这让你可以从现在开始将一个回合视&#10;为两个。"/>
+    <str id="Insightful" value="You are insightful and that allows you to identify items just by picking them up." local="你顿悟了，这让你在拾取物品时同时鉴定它们。"/>
+    <str id="Invisible" value="You are invisible and that is just unfair towards the lovely creatures that want to kill you." local="你隐身了，这对那些想杀死你的可爱生物来说极不&#10;公平。"/>
+    <str id="Levitated" value="You are levitated and that allows you to float over traps without getting stuck." local="你漂浮起来，这让你可以飘过陷阱而不会陷入。"/>
+    <str id="Lustful" value="You are lustful and you are forced to move towards the nearest creature of the opposite gender and beat that" local="你变得好色，你被迫向附近不同性别的生物移动并&#10;把对方打服。如果没有这种生物则失去回合。" space="True">
       <str id="paragraph 1" value="creature into submission or miss your turn if no such creature exists." local=""/>
     </str>
-    <str id="On fire" value="You are on fire. You can always try to douse yourself with a water flask." local="&#10;你着火了。这种时候你可以试着用水袋打湿自己。"/>
-    <str id="Paralysed" value="You are paralysed and that causes you to miss your turn." local="&#10;你被麻痹了，这让你失去了回合。"/>
-    <str id="Polymorphed" value="You are polymorphed and that allows you to find Ken'nih." local="&#10;你被变形了，这能让你找到肯'尼斯。"/>
-    <str id="Reckless" value="You are reckless and you are forced to move towards and attack the nearest enemy creature or miss your turn if no" local="&#10;你变得鲁莽，你被迫向附近的敌人移动并攻击对方&#10;。如果没有敌人则失去回合。" space="True">
+    <str id="On fire" value="You are on fire. You can always try to douse yourself with a water flask." local="你着火了。这种时候你可以试着用水袋打湿自己。"/>
+    <str id="Paralysed" value="You are paralysed and that causes you to miss your turn." local="你被麻痹了，这让你失去了回合。"/>
+    <str id="Polymorphed" value="You are polymorphed and that allows you to find Ken'nih." local="你被变形了，这能让你找到肯'尼斯。"/>
+    <str id="Reckless" value="You are reckless and you are forced to move towards and attack the nearest enemy creature or miss your turn if no" local="你变得鲁莽，你被迫向附近的敌人移动并攻击对方&#10;。如果没有敌人则失去回合。" space="True">
       <str id="paragraph 1" value="such creature exists." local=""/>
     </str>
-    <str id="Shocked" value="You are shocked and that causes you to miss your turn." local="&#10;你被震击了，这导致你失去了回合。"/>
-    <str id="Silenced" value="You are silenced and that prevents you from casting spells and reading scrolls." local="&#10;你被沉默了，这使你无法施法或阅读卷轴。"/>
-    <str id="Slowed" value="You are slowed and that may cause you to miss your turn." local="&#10;你被迟缓了，这可能让你失去回合。"/>
-    <str id="Stunned" value="You are stunned and that causes you to miss your turn." local="&#10;你被眩晕了，这导致你失去了回合。"/>
-    <str id="Vitalised" value="You are vitalised and that allows you to re-roll failed health regeneration checks." local="&#10;你活力四射，这允许你重掷失败的生命回复检定。"/>
-    <str id="Revitalised" value="You have gained the ability to regenerate but you are also vulnerable to fire." local="&#10;你获得了持续回复的能力，但同时也变得更加怕火&#10;。"/>
-    <str id="You have temporarily gained knowledge of the %s talent." value="You have temporarily gained knowledge of the %s talent." local="&#10;你临时获得了有关%s天赋的知识。"/>
+    <str id="Shocked" value="You are shocked and that causes you to miss your turn." local="你被震击了，这导致你失去了回合。"/>
+    <str id="Silenced" value="You are silenced and that prevents you from casting spells and reading scrolls." local="你被沉默了，这使你无法施法或阅读卷轴。"/>
+    <str id="Slowed" value="You are slowed and that may cause you to miss your turn." local="你被迟缓了，这可能让你失去回合。"/>
+    <str id="Stunned" value="You are stunned and that causes you to miss your turn." local="你被眩晕了，这导致你失去了回合。"/>
+    <str id="Vitalised" value="You are vitalised and that allows you to re-roll failed health regeneration checks." local="你活力四射，这允许你重掷失败的生命回复检定。"/>
+    <str id="Revitalised" value="You have gained the ability to regenerate but you are also vulnerable to fire." local="你获得了持续回复的能力，但同时也变得更加怕火&#10;。"/>
+    <str id="You have temporarily gained knowledge of the %s talent." value="You have temporarily gained knowledge of the %s talent." local="你临时获得了有关%s天赋的知识。"/>
     <str id="-1 Strength" value="Your strength is decreased by 1." local="力量减 1 。"/>
     <str id="-1 Agility" value="Your agility is decreased by 1." local="敏捷减 1 。"/>
     <str id="-1 Stamina" value="Your stamina is decreased by 1." local="耐力减 1 。"/>
