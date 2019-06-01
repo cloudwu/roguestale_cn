@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="a0f1ef9339f700178d0e47372334cb9f1976fe6a">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="300b77f29eb6361e7cc9b6ee68ae6312318f7435">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -10,10 +10,10 @@
     <str id="The" value="The" local="这个"/>
     <str id="You" value="You" local="你"/>
     <str id="Your" value="Your" local="你的"/>
-    <str id="a pair of" value="a pair of" local="一对"/>
+    <str id="a pair of" value="a pair of" local="一双"/>
     <str id="the pair of" value="the pair of" local="这对"/>
-    <str id="A pair of" value="A pair of" local="一对"/>
-    <str id="The pair of" value="The pair of" local="这对"/>
+    <str id="A pair of" value="A pair of" local="一双"/>
+    <str id="The pair of" value="The pair of" local="这双"/>
     <str id="PRONOUN_he" value="he" local="他"/>
     <str id="PRONOUN_his" value="his" local="他的"/>
     <str id="PRONOUN_a_man" value="a man" local="一个男人"/>
@@ -58,15 +58,15 @@
     <str id="Screen resolution" value="Screen resolution" local="屏幕分辨率"/>
     <str id="Type new password" value="Type new password" local="输入新密码"/>
     <str id="Retype new password" value="Retype new password" local="重新输入新密码"/>
-    <str id="RETIRE_ROGUE_DESC" value="You can retire your rogue by typing &quot;%s&quot; in the text field and pressing" local="若你想将你的游侠退役，可以在文本输入框内输入 &quot;%s&quot; 然后按下" break="True">
-      <str id="paragraph 1" value="the &quot;%s&quot; button. Note, however, that doing so will kill your current" local="&quot;%s&quot; 按钮。注意：这样做将杀死你当前的"/>
-      <str id="paragraph 2" value="rogue and there is no undo button available." local="游侠，没有后悔药。"/>
+    <str id="RETIRE_ROGUE_DESC" value="You can retire your rogue by typing &quot;%s&quot; in the text field and pressing" local="若你想将你的游侠退役，可以在文本输入框内输入&quot;&#10;%s&quot; 然后按下&quot;%s&quot; 按钮。注意：这样做&#10;将杀死你当前的游侠，没有后悔药。" break="True">
+      <str id="paragraph 1" value="the &quot;%s&quot; button. Note, however, that doing so will kill your current" local=""/>
+      <str id="paragraph 2" value="rogue and there is no undo button available." local=""/>
     </str>
     <str id="Type &quot;%s&quot;" value="Type &quot;%s&quot;" local="输入 &quot;%s&quot;"/>
     <str id="RETIRE" value="RETIRE" local="退役"/>
-    <str id="DELETE_ACCOUNT_DESC" value="You can delete your account by typing &quot;%s&quot; in the text field and" local="若你想删除你的账号，可以在文本输入框内输入 &quot;%s&quot; 然后" break="True">
-      <str id="paragraph 1" value="pressing the &quot;%s&quot; button. Note, however, that doing so will delete" local="按下 &quot;%s&quot; 按钮。注意：这样做将删除"/>
-      <str id="paragraph 2" value="all data and it can only be recovered by the admin while the logs exist." local="所有的数据，管理员只有在记录还在的情况下才可能恢复。"/>
+    <str id="DELETE_ACCOUNT_DESC" value="You can delete your account by typing &quot;%s&quot; in the text field and" local="若你想删除你的账号，可以在文本输入框内输入 &quot;%&#10;s&quot; 然后按下 &quot;%s&quot; 按钮。注意：这样做&#10;将删除所有的数据，管理员只有在记录还在的情况下才可&#10;能恢复。" break="True">
+      <str id="paragraph 1" value="pressing the &quot;%s&quot; button. Note, however, that doing so will delete" local=""/>
+      <str id="paragraph 2" value="all data and it can only be recovered by the admin while the logs exist." local=""/>
     </str>
     <str id="DELETE" value="DELETE" local="删除"/>
     <str id="CONFIG_SCREEN_DESC" value="You can add an optional key bind on each action by" local="你可以为每个动作绑定一个额外的按键，" break="True">
@@ -516,9 +516,9 @@
     <str id="%s's killing blow mortally hits you" value="%s's killing blow mortally hits you" local="%s 的致命一击正中了你"/>
     <str id="%s critically hits %s with %s" value="%s critically hits %s with %s" local="%s 发起了攻击，%s 被他的 %s 暴击了"/>
     <str id="%s hits %s with %s" value="%s hits %s with %s" local="%s 发起了攻击，%s 被他的 %s 击中"/>
-    <str id=", but all damage is resisted." value=", but all damage is resisted." local="，可是所有的伤害都被抵抗。"/>
-    <str id=", but all damage is reflected back!" value=", but all damage is reflected back!" local="，可是所有的伤害都被反弹！"/>
-    <str id=", but half of the damage is reflected back!" value=", but half of the damage is reflected back!" local="，可是有一般的伤害被反弹！"/>
+    <str id=", but all damage is resisted." value=", but all damage is resisted." local="，不过所有的伤害都被抵抗。"/>
+    <str id=", but all damage is reflected back!" value=", but all damage is reflected back!" local="，不过所有的伤害都被反弹！"/>
+    <str id=", but half of the damage is reflected back!" value=", but half of the damage is reflected back!" local="，不过有一半的伤害被反弹！"/>
     <str id="You miss %s with %s." value="You miss %s with %s." local="你没能击中 %s ，你的 %s 落空了。"/>
     <str id="%s misses you with %s." value="%s misses you with %s." local="%s 没能击中你，他的 %s 落空了。"/>
     <str id="Your attack is blocked by %s." value="Your attack is blocked by %s." local="你的攻击被 %s 格挡了。"/>
@@ -560,7 +560,7 @@
     <str id="%s land on %s." value="%s land on %s." local="%s 落在了 %s 上面。"/>
     <str id="%s breaks when it hits %s." value="%s breaks when it hits %s." local="%s 击中 %s 后损毁了。"/>
     <str id="%s break when they hit %s." value="%s break when they hit %s." local="%s 击中 %s 后损毁了。"/>
-    <str id="You throw %s in the fire and cook it." value="You throw %s in the fire and cook it." local="你把 %s 扔进火种，烹饪它。"/>
+    <str id="You throw %s in the fire and cook it." value="You throw %s in the fire and cook it." local="你把 %s 扔进火堆，把它烤熟了。"/>
     <str id="You shoot a multi shot at %s." value="You shoot a multi shot at %s." local="你连发射向 %s 。"/>
     <str id="%s shoots a multi shot at %s." value="%s shoots a multi shot at %s." local="%s 连发射向 %s 。"/>
     <str id="You can't shoot multi shot there." value="You can't shoot multi shot there." local="你不能连发向那里射击。"/>
@@ -1052,20 +1052,20 @@
     <str id="Bestial Wrath" value="Bestial Wrath" local="狂野怒火"/>
   </TalentNames>
   <TalentDescs>
-    <str id="Aimed Shot" value="Ranged attack that causes D3 extra damage instead of 1 for each point of agility bonus modifier." local="远程攻击每点敏捷增益修正获得 D&#10;3 的额外伤害，取代普通的 1 点额&#10;外伤害。"/>
+    <str id="Aimed Shot" value="Ranged attack that causes D3 extra damage instead of 1 for each point of agility bonus modifier." local="远程攻击每点敏捷增益修正获得 D&#10;3 的额外伤害，而非正常的 1 点额&#10;外伤害。"/>
     <str id="Multi Shot" value="Ranged attack that hits up to agility bonus modifier number of extra targets." local="远程攻击将命中目标生物邻接的多&#10;个额外生物目标，数量等于敏捷增&#10;益修正值。"/>
     <str id="Quick Shot" value="Ranged attack that allows the creature to move before taking the shot." local="远程攻击的射击前生物可以先移动&#10;。"/>
     <str id="Steady Shot" value="Ranged attack that allows the creature to re-roll a failed to-hit check and doubles damage if used while hidden." local="远程攻击时，可以重投失败的命中&#10;检定，在隐秘状态下能造成双倍伤&#10;害。"/>
     <str id="Blade Flurry" value="Melee attack that gains up to one extra attack per weapon (at +1 and +3 AGI). Blade Flurry requires either two small" local="近战攻击的每把武器（当敏捷 +1 &#10;及 +3 时）获得最一次额外攻击机&#10;会。剑刃乱舞需要两把小型武器或&#10;双手使用一把中型武器。" space="True">
       <str id="paragraph 1" value="weapons or a medium weapon that is used two-handedly." local=""/>
     </str>
-    <str id="Deadly Throw" value="Thrown weapon attack that causes D3 extra damage instead of 1 for each point of strength or agility bonus modifier," local="投掷武器攻击的每点属性增益修正&#10;获得 D3 额外伤害，取代普通的 1&#10; 点额外伤害，依据的属性取力量和&#10;敏捷中的较高值。（修正同时针对&#10;命中检定）。" space="True">
+    <str id="Deadly Throw" value="Thrown weapon attack that causes D3 extra damage instead of 1 for each point of strength or agility bonus modifier," local="投掷武器攻击的每点属性增益修正&#10;获得 D3 额外伤害，而非正常的 1&#10; 点额外伤害，依据的属性取力量和&#10;敏捷中的较高值。（修正同时针对&#10;命中检定）。" space="True">
       <str id="paragraph 1" value="whichever is higher (modifier also applies to to-hit checks)." local=""/>
     </str>
     <str id="Heroic Charge" value="Allows the creature to move up to two spaces and attack a target at the end of the move." local="允许生物最多移动两格，然后在移&#10;动停止后攻击目标。" space="True">
       <str id="paragraph 1" value="Also adds +1 damage modifier for the attack." local="英勇冲锋还会增加 1 点伤害修正。"/>
     </str>
-    <str id="Crushing Blow" value="Melee attack that causes D3 extra damage instead of 1 for each point of strength bonus modifier." local="近战攻击的每点力量增益修正都获&#10;得 D3 额外伤害，取代普通的 1 点&#10;额外伤害。" space="True">
+    <str id="Crushing Blow" value="Melee attack that causes D3 extra damage instead of 1 for each point of strength bonus modifier." local="近战攻击的每点力量增益修正都获&#10;得 D3 额外伤害，而非正常的 1 点&#10;额外伤害。" space="True">
       <str id="paragraph 1" value="Requires a medium or large weapon." local="粉碎打击需要一把中型或大型武器&#10;。"/>
     </str>
     <str id="Killing Blow" value="Melee attack that can instantly kill the target creature on hit (if the attack hits and the to-hit roll is a pair)." local="近战攻击在攻击命中且命中骰投出&#10;一对时，立即杀死对方。" space="True">
@@ -1869,7 +1869,7 @@
     <str id="Gold Coin" value="Gold Coin" local="金币"/>
   </CoinNames>
   <CoinStacks>
-    <str id="Gold Coin" value="Gold Coins" local="金币堆"/>
+    <str id="Gold Coin" value="Gold Coins" local="金币"/>
   </CoinStacks>
   <CoinDescs>
     <str id="StoredCoins" value="There is a total of %d gold coins in your backpack and %d gold coins in the Artisans' Guild vault." local="你的背包中共有 %d 枚金币，还有 %d 枚金币存放在工匠工坊中。"/>
@@ -2482,7 +2482,7 @@
     <str id="You don't have room for the duplicated %s." value="You don't have room for the duplicated %s." local="你没有空间复制%s。"/>
   </WandLogs>
   <WeaponNames>
-    <str id="Fist" value="Fist" local="拳套"/>
+    <str id="Fist" value="Fist" local="拳头"/>
     <str id="Stone" value="Stone" local="石块"/>
     <str id="Barbed Whip" value="Barbed Whip" local="荆棘之鞭"/>
     <str id="Massive Claw" value="Massive Claw" local="巨爪"/>
@@ -2498,10 +2498,10 @@
     <str id="Ghostly Touch" value="Ghostly Touch" local="幽灵之触"/>
     <str id="Giant Tentacle" value="Giant Tentacle" local="巨人触角"/>
     <str id="Venomous Branch" value="Venomous Branch" local="毒枝"/>
-    <str id="Virulent Fist" value="Virulent Fist" local="剧毒拳套"/>
-    <str id="Electric Fist" value="Electric Fist" local="电力拳套"/>
-    <str id="Flaming Fist" value="Flaming Fist" local="火焰拳套"/>
-    <str id="Frozen Fist" value="Frozen Fist" local="冰霜拳套"/>
+    <str id="Virulent Fist" value="Virulent Fist" local="剧毒之拳"/>
+    <str id="Electric Fist" value="Electric Fist" local="雷电之拳"/>
+    <str id="Flaming Fist" value="Flaming Fist" local="火焰之拳"/>
+    <str id="Frozen Fist" value="Frozen Fist" local="冰霜之拳"/>
     <str id="Dagger" value="Dagger" local="匕首"/>
     <str id="Talon" value="Talon" local="利爪"/>
     <str id="Hatchet" value="Hatchet" local="小斧"/>
@@ -2509,7 +2509,7 @@
     <str id="Claw" value="Claw" local="长爪"/>
     <str id="Axe" value="Axe" local="斧"/>
     <str id="Club" value="Club" local="棒"/>
-    <str id="Mace" value="Mace" local="锤矛"/>
+    <str id="Mace" value="Mace" local="钉锤"/>
     <str id="Hammer" value="Hammer" local="锤"/>
     <str id="Flail" value="Flail" local="连枷"/>
     <str id="Branch" value="Branch" local="树枝"/>
@@ -2533,7 +2533,7 @@
     <str id="Fine Claw" value="Fine Claw" local="精美长爪"/>
     <str id="Fine Axe" value="Fine Axe" local="精美之斧"/>
     <str id="Fine Club" value="Fine Club" local="精美之棒"/>
-    <str id="Fine Mace" value="Fine Mace" local="精美锤矛"/>
+    <str id="Fine Mace" value="Fine Mace" local="精美钉锤"/>
     <str id="Fine Hammer" value="Fine Hammer" local="精美之锤"/>
     <str id="Fine Flail" value="Fine Flail" local="精美连枷"/>
     <str id="Fine Branch" value="Fine Branch" local="精美树枝"/>
@@ -2565,7 +2565,7 @@
     <str id="Gifin's Claw" value="Gifin's Claw" local="Gifin 之爪"/>
     <str id="Gareth's Axe" value="Gareth's Axe" local="Gareth 之斧"/>
     <str id="Dawid's Hammer" value="Dawid's Hammer" local="达维德之锤"/>
-    <str id="Royal Mace" value="Royal Mace" local="皇家锤矛"/>
+    <str id="Royal Mace" value="Royal Mace" local="皇家钉锤"/>
     <str id="Satyr's Sting" value="Satyr's Sting" local="赛特之刺"/>
     <str id="Logar's Blade" value="Logar's Blade" local="洛迦之刃"/>
     <str id="Altren's Kiss" value="Altren's Kiss" local="艾特仁之吻"/>
@@ -2575,7 +2575,7 @@
     <str id="Death Star" value="Death Star" local="死星"/>
   </WeaponNames>
   <WeaponDescs>
-    <str id="Dagger" value="This is a piercing weapon and as such has a chance of ignoring the target's physical resistance." local="这是一种穿刺武器，因此有可&#10;能忽略目标的物理抵抗。"/>
+    <str id="Dagger" value="This is a piercing weapon and as such has a chance of ignoring the target's physical resistance." local="这是一种穿刺武器，因此有可&#10;能忽略目标的物理抗性。"/>
     <str id="Talon" value="This weapon is perfect against those nasty kidneys that keep coming in its way." local="这把武器用来对付那些坏蛋简&#10;直太棒了。"/>
     <str id="Hatchet" value="This is a thrown melee weapon and as such can be both equipped and thrown for full damage." local="这是一种投掷近战武器，因此&#10;既可以装备使用也可以仍出去&#10;造成全部伤害。"/>
     <str id="Sword" value="This is a slashing weapon and as such has a good chance of doubling the base damage against weaker targets." local="这是一种砍杀武器，因此对较&#10;弱的目标有加倍基础伤害的好&#10;机会。"/>
@@ -2599,7 +2599,7 @@
     <str id="Rock" value="This rock looks fancier and rests more fittingly in your palm than many other rocks." local="这块岩石看起来比其他石头更&#10;漂亮，放在你的手掌上也更合&#10;适。"/>
     <str id="Throwing Knife" value="This knife is perfectly balanced to stop those weaklings who try to run away." local="这把飞刀锻造的非常之好，正&#10;好用来阻止那些弱夫逃跑。"/>
     <str id="Throwing Star" value="This weapon is great for those villains who don't mind robbing their victims." local="这把武器对那些肆意抢劫的恶&#10;棍来说太棒了。"/>
-    <str id="Fine Dagger" value="This is a piercing weapon and as such has a chance of ignoring the target's physical resistance." local="这是一种穿刺武器，因此有可&#10;能忽略目标的物理抵抗。"/>
+    <str id="Fine Dagger" value="This is a piercing weapon and as such has a chance of ignoring the target's physical resistance." local="这是一种穿刺武器，因此有可&#10;能忽略目标的物理抗性。"/>
     <str id="Fine Talon" value="This weapon is perfect against those nasty kidneys that keep coming in its way." local="这把武器用来对付那些坏蛋简&#10;直太棒了。"/>
     <str id="Fine Hatchet" value="This is a thrown melee weapon and as such can be both equipped and thrown for full damage." local="这是一种投掷近战武器，因此&#10;既可以装备使用也可以仍出去&#10;造成全部伤害。"/>
     <str id="Fine Sword" value="This is a slashing weapon and as such has a good chance of doubling the base damage against weaker targets." local="这是一种砍杀武器，因此对较&#10;弱的目标有加倍基础伤害的好&#10;机会。"/>
@@ -2886,12 +2886,12 @@
     <str id="You see a defiled %s here." value="You see a defiled %s here." local="你在这里看见一个弄脏的%s。"/>
     <str id="You see a doused %s here." value="You see a doused %s here." local="你在这里看见一个浸湿的%s。"/>
     <str id="You see %s that says: %s" value="You see %s that says: %s" local="你见 %s 说道：%s"/>
-    <str id="You see %s leading up." value="You see %s leading up." local="你看见 %s 上去了。"/>
-    <str id="You see %s leading down." value="You see %s leading down." local="你看见 %s 下来了。"/>
-    <str id="You see %s leading up here." value="You see %s leading up here." local="你看见 %s 上到这里。"/>
-    <str id="You see %s leading down here." value="You see %s leading down here." local="你看见 %s 下来这里。"/>
-    <str id="You see %s and %d other items." value="You see %s and %d other items." local="你看到了 %s 以及 %d 件其它物品。"/>
-    <str id="You see %s and %d other items here." value="You see %s and %d other items here." local="你在这里看到了 %s 以及 %d 件其它物品。"/>
+    <str id="You see %s leading up." value="You see %s leading up." local="你看见%s通向上面。"/>
+    <str id="You see %s leading down." value="You see %s leading down." local="你看见%s通向下面。"/>
+    <str id="You see %s leading up here." value="You see %s leading up here." local="你看见这里有%s通向上面。"/>
+    <str id="You see %s leading down here." value="You see %s leading down here." local="你看见这里有%s通向下面。"/>
+    <str id="You see %s and %d other items." value="You see %s and %d other items." local="你看到了%s以及 %d 件其它物品。"/>
+    <str id="You see %s and %d other items here." value="You see %s and %d other items here." local="你看到这里有%s以及 %d 件其它物品。"/>
     <str id="You open %s." value="You open %s." local="你打开了%s。"/>
     <str id="You close %s." value="You close %s." local="你关闭了%s。"/>
     <str id="You light %s." value="You light %s." local="你点亮了%s。"/>
@@ -2976,7 +2976,7 @@
     <str id="HARVEST_SUCCESS" value="You harvest a bloodcap from %s." local="你从%s采到了一个血蘑菇。"/>
     <str id="HARVEST_FAILURE" value="You fail to harvest %s." local="你未能采到血蘑菇。"/>
     <str id="HARVEST_CRIT_FAILURE" value="You attempt to harvest %s but it spews spores on your face." local="你试图去采%s，但它的孢子喷了你一脸。"/>
-    <str id="BROWSE_THROUGH_CONTENTS" value="You browse through the contents of %s." local="您浏览%s的内容。"/>
+    <str id="BROWSE_THROUGH_CONTENTS" value="You browse through the contents of %s." local="你查看%s里面有些什么。"/>
     <str id="BEGIN_TO_PRACTICE" value="You begin to practice with %s." local="你开始用%s进行练习。"/>
     <str id="LOOK_INTO_THE_DEPTHS" value="You look into the depths of %s." local="你向%s的深处望去。"/>
     <str id="CONTEMPLATE_THOUGHTS" value="You contemplate your thoughts at %s." local="你在%s边沉思。"/>
@@ -3042,16 +3042,16 @@
     <str id="Wizard" value="Wizard" local="法师"/>
     <str id="----------" value="----------" local="——————————"/>
     <str id="Broad" value="Broad" local="辽阔的"/>
-    <str id="Cold" value="Cold" local="冷酷的"/>
+    <str id="Cold" value="Cold" local="寒冷的"/>
     <str id="Dark" value="Dark" local="幽暗的"/>
     <str id="Flat" value="Flat" local="平坦的"/>
     <str id="Great" value="Great" local="伟大的"/>
     <str id="Grey" value="Grey" local="黑色的"/>
-    <str id="High" value="High" local="至高的"/>
-    <str id="Misty" value="Misty" local="模糊的"/>
+    <str id="High" value="High" local="高耸的"/>
+    <str id="Misty" value="Misty" local="雾蒙蒙的"/>
     <str id="Narrow" value="Narrow" local="狭窄的"/>
-    <str id="New" value="New" local="新的"/>
-    <str id="Old" value="Old" local="旧的"/>
+    <str id="New" value="New" local="崭新的"/>
+    <str id="Old" value="Old" local="古老的"/>
     <str id="Rocky" value="Rocky" local="岩石的"/>
     <str id="Steep" value="Steep" local="陡峭的"/>
     <str id="Stony" value="Stony" local="多石的"/>
@@ -4131,7 +4131,7 @@
     <str id="STR_FIGHTER" value="I'm a fighter." local="我是一个战士。"/>
     <str id="STR_HENCHMAN" value="I'm here to protect my master, STR_MASTER." local="我在保护我的师傅，STR_MASTER 。"/>
     <str id="STR_MERCHANT_1" value="Straight to business eh? Well, I'm a merchant." local="开门见山吧？嗯，我是一个商人。"/>
-    <str id="STR_MERCHANT_2" value="I'm a merchant and I trade and identify items here." local="我是一个商人，我在这里做生意，还能鉴定物&#10;品。"/>
+    <str id="STR_MERCHANT_2" value="I'm a merchant and I trade and identify items here." local="我是一个商人，做点生意还能鉴定物品。"/>
     <str id="STR_PALADIN" value="I'm a paladin." local="我是一个圣骑士。"/>
     <str id="STR_PRIEST" value="I'm a priest." local="我是一个祭祀。"/>
     <str id="STR_RANGER" value="I'm a ranger." local="我是一个独行侠。"/>
