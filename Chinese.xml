@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="6ae7843e6bddcb339a288c119b1897045d253965">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="180f18681b6d096b9734a259f8381482ea3e74f6">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -623,7 +623,7 @@
     <str id="You fail to climb out of the chasm." value="You fail to climb out of the chasm." local="你没能爬出深坑。"/>
     <str id="You succesfully climb out out of the chasm." value="You succesfully climb out out of the chasm." local="你成功地爬出了深坑。"/>
     <str id="You fall down in a lava chasm." value="You fall down in a lava chasm." local="你掉进了熔岩坑里。"/>
-    <str id="You step on a lava chasm and fall down." value="You step on a lava chasm and fall down." local="你踩到一个熔岩坑，然后掉下去。"/>
+    <str id="You step on a lava chasm and fall down." value="You step on a lava chasm and fall down." local="你踩到一个熔岩坑，然后掉了下去。"/>
     <str id="You fall down in a water chasm." value="You fall down in a water chasm." local="你掉进了一个水坑里。"/>
     <str id="You step on a water chasm and fall down." value="You step on a water chasm and fall down." local="你踩在一个水坑上摔了下来。"/>
     <str id="You move silently and hide in plain sight." value="You move silently and hide in plain sight." local="你默默潜行，在视野中藏了起来。"/>

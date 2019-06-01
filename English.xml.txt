@@ -566,7 +566,7 @@ MoveLogs."You attempt to climb out of the water chasm but you inhale some water.
 MoveLogs."You fail to climb out of the chasm." 你没能爬出深坑。
 MoveLogs."You succesfully climb out out of the chasm." 你成功地爬出了深坑。
 MoveLogs."You fall down in a lava chasm." 你掉进了熔岩坑里。
-MoveLogs."You step on a lava chasm and fall down." 你踩到一个熔岩坑，然后掉下去。
+MoveLogs."You step on a lava chasm and fall down." 你踩到一个熔岩坑，然后掉了下去。
 MoveLogs."You fall down in a water chasm." 你掉进了一个水坑里。
 MoveLogs."You step on a water chasm and fall down." 你踩在一个水坑上摔了下来。
 MoveLogs."You move silently and hide in plain sight." 你默默潜行，在视野中藏了起来。
@@ -1323,7 +1323,7 @@ ItemLogs."%s glows blue for a moment before shattering to pieces." %s散发出�
 ItemLogs."You gain knowledge about %s." 你获得了关于%s的知识。
 ItemLogs."You feel that you have forgotten something." 你觉得你忘了些东西。
 ItemLogs."You feel dumber than a rock." 你觉得自己比石头还笨。
-# 这里需要用 %1 %2 倒序
+# TODO: 这里需要用 %1 %2 倒序
 ItemLogs."You use the %s on %s." 你取出%s，将其对%s使用。
 ItemLogs."%s shines brightly for a moment." 刹那间，%s闪耀出光芒。
 ItemLogs."%s emits darkness for a moment." 刹那间，%s透着黑暗。
