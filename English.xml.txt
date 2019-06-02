@@ -1638,7 +1638,7 @@ CharmNames."Pulsating Daemon's Heart" 恶魔之心
 CharmNames."Book of Fading Memories" 遗忘之书
 CharmNames."Manuscript of Knowledge" 知识原稿
 CharmNames."High Capacity Quiver" 高容箭囊
-CharmNames."Third Leg of the Imp" 小恶魔的第三条脚
+CharmNames."Third Leg of the Imp" 小恶魔的第三条腿
 CharmNames."Stone of Arcane Power" 奥术之石
 CharmNames."Star Spangled Cap" 闪耀之帽
 CharmNames."Glove of Liberalism" 自由手套
@@ -2226,7 +2226,7 @@ WandNames."Wand of Shocking" 震击魔杖
 WandNames."Wand of Tempest" 风暴魔杖
 WandNames."Wand of Wishing" 许愿魔杖
 WandNames."Wand of Wonders" 奇迹魔杖
-WandNames."Wand of Zapping" 闪光魔杖
+WandNames."Wand of Zapping" 电击魔杖
 WandNames."Wand of Baffling" 唠叨魔杖
 WandNames."Wand of Bloodletting" 噬血魔杖
 WandNames."Wand of Disarming" 缴械魔杖
@@ -2866,11 +2866,11 @@ CauseOfDeath."COD_SHIELD_BASH" %s死于 %s的猛烈一击。
 CauseOfDeath."COD_LAVA_CHASM" %s掉落到岩浆之中，死于皮肤烧焦后的并发症。
 CauseOfDeath."COD_WATER_CHASM" %s掉入水坑，溺水而亡。
 CauseOfDeath."COD_SOUL_GEM" %s被一个愤怒的灵魂发出的魔法伤害致死。
-CauseOfDeath."COD_FIRE_AURA" %s由于站在%s的火场中过久而被碳化。
-CauseOfDeath."COD_FROST_AURA" %s由于站在%s的冰场中过久而被冻死。
-CauseOfDeath."COD_SHOCK_AURA" %s由于站在%s的电场中过久而被电死。
-CauseOfDeath."COD_POISON_AURA" %s由于站在%s的毒场中过久而毒发身亡。
-CauseOfDeath."COD_DISEASE_AURA" %s由于站在%s的病场中过久而死于心脏病。
+CauseOfDeath."COD_FIRE_AURA" %s由于站在%s的火焰光环中过久而被碳化。
+CauseOfDeath."COD_FROST_AURA" %s由于站在%s的冰霜光环中过久而被冻死。
+CauseOfDeath."COD_SHOCK_AURA" %s由于站在%s的雷电光环中过久而被电死。
+CauseOfDeath."COD_POISON_AURA" %s由于站在%s的剧毒光环中过久而毒发身亡。
+CauseOfDeath."COD_DISEASE_AURA" %s由于站在%s的瘟疫光环中过久而死于心脏病。
 CauseOfDeath."COD_HATEFUL_AURA" %s被一个可恶的力场致死。
 CauseOfDeath."COD_ASPHYXIATION" %s死于窒息项链引起的窒息。
 CauseOfDeath."COD_PETRIFICATION" %s死于石化项链引起的石化。
@@ -3551,7 +3551,7 @@ GameScreen."You can't jump while confused." 你不能在混乱状态跳跃。
 GameScreen."You can't jump while levitated." 你不能在浮空状态跳跃。
 GameScreen."You can't jump while swimming." 你不能在游泳时跳跃。
 GameScreen."You are too tired to jump at the moment." 此刻你太累了，不能跳跃。
-GameScreen."Press %s, %s, %s, or %s, to jump at the selected direction." 按下 %s, %s, %s, 或 %s, 跳去选择的方向。
+GameScreen."Press %s, %s, %s, or %s, to jump at the selected direction." 按下 %s, %s, %s, 或 %s, 选择一个方向跳跃。
 GameScreen."You can't swap items while blinded." 你不能在盲眼状态下交换物品。
 GameScreen."You can't swap items while confused." 你不能在混乱状态下交换物品。
 GameScreen."You can't swap items while polymorphed." 被变形时你无法交换物品。

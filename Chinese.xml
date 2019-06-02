@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="300b77f29eb6361e7cc9b6ee68ae6312318f7435">
+<strings version="Version 2.00 Beta 1 (190521)" checksum="9ecd86dd2eca135e1bf1d39fd6602991ec80e91a">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -1781,7 +1781,7 @@
     <str id="Book of Fading Memories" value="Book of Fading Memories" local="遗忘之书"/>
     <str id="Manuscript of Knowledge" value="Manuscript of Knowledge" local="知识原稿"/>
     <str id="High Capacity Quiver" value="High Capacity Quiver" local="高容箭囊"/>
-    <str id="Third Leg of the Imp" value="Third Leg of the Imp" local="小恶魔的第三条脚"/>
+    <str id="Third Leg of the Imp" value="Third Leg of the Imp" local="小恶魔的第三条腿"/>
     <str id="Stone of Arcane Power" value="Stone of Arcane Power" local="奥术之石"/>
     <str id="Star Spangled Cap" value="Star Spangled Cap" local="闪耀之帽"/>
     <str id="Glove of Liberalism" value="Glove of Liberalism" local="自由手套"/>
@@ -2421,7 +2421,7 @@
     <str id="Wand of Tempest" value="Wand of Tempest" local="风暴魔杖"/>
     <str id="Wand of Wishing" value="Wand of Wishing" local="许愿魔杖"/>
     <str id="Wand of Wonders" value="Wand of Wonders" local="奇迹魔杖"/>
-    <str id="Wand of Zapping" value="Wand of Zapping" local="闪光魔杖"/>
+    <str id="Wand of Zapping" value="Wand of Zapping" local="电击魔杖"/>
     <str id="Wand of Baffling" value="Wand of Baffling" local="唠叨魔杖"/>
     <str id="Wand of Bloodletting" value="Wand of Bloodletting" local="噬血魔杖"/>
     <str id="Wand of Disarming" value="Wand of Disarming" local="缴械魔杖"/>
@@ -3084,11 +3084,11 @@
     <str id="COD_LAVA_CHASM" value="%s died of a charred skin syndrome after falling down to a lava chasm." local="%s掉落到岩浆之中，死于皮肤烧焦后的并发症。"/>
     <str id="COD_WATER_CHASM" value="%s died of drowning after falling down to a water chasm." local="%s掉入水坑，溺水而亡。"/>
     <str id="COD_SOUL_GEM" value="%s died of magical damage caused by an angered soul." local="%s被一个愤怒的灵魂发出的魔法伤害致死。"/>
-    <str id="COD_FIRE_AURA" value="%s died of a severe charring after standing too long in the flaming aura of %s." local="%s由于站在%s的火场中过久而被碳化。"/>
-    <str id="COD_FROST_AURA" value="%s died of a severe frostbite after standing too long in the frozen aura of %s." local="%s由于站在%s的冰场中过久而被冻死。"/>
-    <str id="COD_SHOCK_AURA" value="%s died of a heart attack after standing too long in the electric aura of %s." local="%s由于站在%s的电场中过久而被电死。"/>
-    <str id="COD_POISON_AURA" value="%s died of poison vapours after standing too long in the venomous aura of %s." local="%s由于站在%s的毒场中过久而毒发身亡。"/>
-    <str id="COD_DISEASE_AURA" value="%s died of cardiac arrest after standing too long in the virulent aura of %s." local="%s由于站在%s的病场中过久而死于心脏病。"/>
+    <str id="COD_FIRE_AURA" value="%s died of a severe charring after standing too long in the flaming aura of %s." local="%s由于站在%s的火焰光环中过久而被碳化。"/>
+    <str id="COD_FROST_AURA" value="%s died of a severe frostbite after standing too long in the frozen aura of %s." local="%s由于站在%s的冰霜光环中过久而被冻死。"/>
+    <str id="COD_SHOCK_AURA" value="%s died of a heart attack after standing too long in the electric aura of %s." local="%s由于站在%s的雷电光环中过久而被电死。"/>
+    <str id="COD_POISON_AURA" value="%s died of poison vapours after standing too long in the venomous aura of %s." local="%s由于站在%s的剧毒光环中过久而毒发身亡。"/>
+    <str id="COD_DISEASE_AURA" value="%s died of cardiac arrest after standing too long in the virulent aura of %s." local="%s由于站在%s的瘟疫光环中过久而死于心脏病。"/>
     <str id="COD_HATEFUL_AURA" value="%s died of damage caused by a hateful aura." local="%s被一个可恶的力场致死。"/>
     <str id="COD_ASPHYXIATION" value="%s died of asphyxiation caused by amulet of asphyxia" local="%s死于窒息项链引起的窒息。"/>
     <str id="COD_PETRIFICATION" value="%s died of petrification caused by amulet of stone form." local="%s死于石化项链引起的石化。"/>
@@ -3919,7 +3919,7 @@
     <str id="You can't jump while levitated." value="You can't jump while levitated." local="你不能在浮空状态跳跃。"/>
     <str id="You can't jump while swimming." value="You can't jump while swimming." local="你不能在游泳时跳跃。"/>
     <str id="You are too tired to jump at the moment." value="You are too tired to jump at the moment." local="此刻你太累了，不能跳跃。"/>
-    <str id="Press %s, %s, %s, or %s, to jump at the selected direction." value="Press %s, %s, %s, or %s, to jump at the selected direction." local="按下 %s, %s, %s, 或 %s, 跳去选择的方向。"/>
+    <str id="Press %s, %s, %s, or %s, to jump at the selected direction." value="Press %s, %s, %s, or %s, to jump at the selected direction." local="按下 %s, %s, %s, 或 %s, 选择一个方向跳跃。"/>
     <str id="You can't swap items while blinded." value="You can't swap items while blinded." local="你不能在盲眼状态下交换物品。"/>
     <str id="You can't swap items while confused." value="You can't swap items while confused." local="你不能在混乱状态下交换物品。"/>
     <str id="You can't swap items while polymorphed." value="You can't swap items while polymorphed." local="被变形时你无法交换物品。"/>
