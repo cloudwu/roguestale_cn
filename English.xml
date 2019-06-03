@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190521)" checksum="eba07dbb4dec7e5095e53259e62233ca4e1619d2">
+<strings version="Version 2.00 Beta 1 (190603)" checksum="872d19d207c4a62d488aeee628ae0c7055bcb290">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -76,6 +76,9 @@
       <str id="paragraph 3" value="A key bind can be removed by clicking the button."/>
     </str>
     <str id="LOADING_SCREEN_DESC" value="Injecting blood into daemons, please wait..."/>
+    <str id="Sort items vertically" value="Sort items vertically"/>
+    <str id="Skip null log strings" value="Skip null log strings"/>
+    <str id="Use 3 button mouse" value="Use 3 button mouse"/>
   </Labels>
   <Buttons>
     <str id="Accept" value="Accept"/>
@@ -107,7 +110,42 @@
     <str id="Okay" value="Okay"/>
     <str id="Close" value="Close"/>
   </Buttons>
-  <Keybinds>
+  <KeyNames>
+    <str id="Loot" value="Loot"/>
+    <str id="Pri. Use" value="Pri. Use"/>
+    <str id="Sec. Use" value="Sec. Use"/>
+    <str id="Enter" value="Enter"/>
+    <str id="Hotkey 1" value="Hotkey 1"/>
+    <str id="Hotkey 2" value="Hotkey 2"/>
+    <str id="Hotkey 3" value="Hotkey 3"/>
+    <str id="Hotkey 4" value="Hotkey 4"/>
+    <str id="Hotkey 5" value="Hotkey 5"/>
+    <str id="Hotkey 6" value="Hotkey 6"/>
+    <str id="Hotkey 7" value="Hotkey 7"/>
+    <str id="Chat" value="Chat"/>
+    <str id="Jump" value="Jump"/>
+    <str id="Swap" value="Swap"/>
+    <str id="Equip" value="Equip"/>
+    <str id="Sort" value="Sort"/>
+    <str id="Travel" value="Travel"/>
+    <str id="Attack" value="Attack"/>
+    <str id="Search" value="Search"/>
+    <str id="Drop" value="Drop"/>
+    <str id="Throw" value="Throw"/>
+    <str id="Focus" value="Focus"/>
+    <str id="Cast" value="Cast"/>
+    <str id="Look" value="Look"/>
+    <str id="Move N" value="Move N"/>
+    <str id="Move S" value="Move S"/>
+    <str id="Move E" value="Move E"/>
+    <str id="Move W" value="Move W"/>
+    <str id="Move NE" value="Move NE"/>
+    <str id="Move SE" value="Move SE"/>
+    <str id="Move NW" value="Move NW"/>
+    <str id="Move SW" value="Move SW"/>
+    <str id="Rest" value="Rest"/>
+  </KeyNames>
+  <KeyDescs>
     <str id="Loot" value="This key shows the items on the ground while it is pressed."/>
     <str id="Pri. Use" value="This key is used with the movement keys to carry out actions such as pick lock, disarm trap and open door."/>
     <str id="Sec. Use" value="This key is used with a hotkey to self cast spells, equip weapons in the offhand and to equip a ring on the offhand finger."/>
@@ -139,7 +177,7 @@
     <str id="Rest" value="This key is used to rest for one turn.">
       <str id="paragraph 1" value="Note that Keypad 5 requires that Num Lock is on and the 5 is a dead key otherwise (game engine feature)."/>
     </str>
-  </Keybinds>
+  </KeyDescs>
   <Tooltips>
     <str id="Hover mouse over the checkboxes to find out how to unlock them." value="Hover mouse over the checkboxes to find out how to unlock them."/>
     <str id="Sets the account name when the program is launched." value="Sets the account name when the program is launched."/>
@@ -243,6 +281,8 @@
     <str id="Pay the price (%dg)" value="Pay the price (%dg)"/>
     <str id="Consider him shaved!" value="Consider him shaved!"/>
     <str id="Yeah, yeah, I'm going!" value="Yeah, yeah, I'm going!"/>
+    <str id="Itchy-bitchy die die!" value="Itchy-bitchy die die!"/>
+    <str id="I hope they have gold!" value="I hope they have gold!"/>
     <str id="How hard can it be?!?" value="How hard can it be?!?"/>
     <str id="Heh, sure, I got this!" value="Heh, sure, I got this!"/>
     <str id="Accept the quest" value="Accept the quest"/>
@@ -251,6 +291,7 @@
     <str id="Monster Hunt" value="Monster Hunt"/>
     <str id="Bandits' Hideout" value="Bandits' Hideout"/>
     <str id="Ancient Sewer" value="Ancient Sewer"/>
+    <str id="Spider Cave" value="Spider Cave"/>
     <str id="Cultists' Lair" value="Cultists' Lair"/>
     <str id="Nabon's Castle" value="Nabon's Castle"/>
     <str id="Frostmourn Keep" value="Frostmourn Keep"/>
@@ -269,6 +310,16 @@
       <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail."/>
     </str>
     <str id="SPAWN_EQUALIZER" value="You accept the quest and head out to find any unique items."/>
+    <str id="SPIDER_CAVE_DESC" value="It seems that some eight-legged rabbits have made their nest too close to a wealthy merchant's trade route.">
+      <str id="paragraph 1" value="Your job is to kill them all and in return you will have 1000 gold coins deposited into your bank account."/>
+      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail."/>
+    </str>
+    <str id="SPAWN_SPIDER_CAVE" value="You accept the quest and head out to slay some spiders."/>
+    <str id="WORSHIPPERS_DESC" value="Every time you go to sleep another death cult appears. These guys have even come up with their own spells.">
+      <str id="paragraph 1" value="The Wizard's Guild doesn't seem to like competition and they would like you to go and take care of the problem."/>
+      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail."/>
+    </str>
+    <str id="SPAWN_WORSHIPPERS" value="You accept the quest and head out to do some justified murdering."/>
     <str id="GURMUR_DESC" value="Some cultists have come up with a plan to take over the world by waking up an old monster that should've stayed dead.">
       <str id="paragraph 1" value="Obviously that is bad but what is even worse is that those cultists are carrying a lot of gold that should be yours."/>
       <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail."/>
@@ -594,6 +645,7 @@
     <str id="You can't cast %s on yourself." value="You can't cast %s on yourself."/>
     <str id="You can't cast where you can't see." value="You can't cast where you can't see."/>
     <str id="You choose not to cast %s at yourself." value="You choose not to cast %s at yourself."/>
+    <str id="You start to cast %s." value="You start to cast %s."/>
     <str id="You start to cast a spell from %s." value="You start to cast a spell from %s."/>
     <str id="%s decides to zap you instead." value="%s decides to zap you instead."/>
     <str id="%s is cursed and it decides to zap you instead." value="%s is cursed and it decides to zap you instead."/>
@@ -1157,8 +1209,28 @@
     <str id="Clone Creature" value="Clone Creature"/>
     <str id="Animate Dead" value="Animate Dead"/>
     <str id="Transmute Item" value="Transmute Item"/>
-    <str id="Arcane Missile" value="Arcane Missile"/>
     <str id="Alter Terrain" value="Alter Terrain"/>
+    <str id="Arcane Missile" value="Arcane Missile"/>
+    <str id="Big Bear Slap" value="Big Bear Slap"/>
+    <str id="Command Beast" value="Command Beast"/>
+    <str id="Cure Bleeding" value="Cure Bleeding"/>
+    <str id="Expose Roots" value="Expose Roots"/>
+    <str id="Fairy Flight" value="Fairy Flight"/>
+    <str id="Insect Swarm" value="Insect Swarm"/>
+    <str id="Raptor Strike" value="Raptor Strike"/>
+    <str id="Shroom Grenade" value="Shroom Grenade"/>
+    <str id="Soothe Beast" value="Soothe Beast"/>
+    <str id="Spirit Wolves" value="Spirit Wolves"/>
+    <str id="Abyssal Grasp" value="Abyssal Grasp"/>
+    <str id="Army of the Dead" value="Army of the Dead"/>
+    <str id="Corrupting Cloud" value="Corrupting Cloud"/>
+    <str id="Dancing Weapons" value="Dancing Weapons"/>
+    <str id="Grounding Orb" value="Grounding Orb"/>
+    <str id="Mass Dismissal" value="Mass Dismissal"/>
+    <str id="Repelling Smite" value="Repelling Smite"/>
+    <str id="Ritual Sacrifice" value="Ritual Sacrifice"/>
+    <str id="Sacrificial Circle" value="Sacrificial Circle"/>
+    <str id="Spectral Gateway" value="Spectral Gateway"/>
   </SpellNames>
   <SpellDescs>
     <str id="Cure Disease" value="Attempts to remove one disease effect from the target creature."/>
@@ -1199,8 +1271,28 @@
     <str id="Clone Creature" value="Creates a clone of the target creature that aids the caster for awhile."/>
     <str id="Animate Dead" value="Permanently turns a dead human into an undead familiar."/>
     <str id="Transmute Item" value="Transmutes the targeted item in the caster's inventory into gold coins."/>
-    <str id="Arcane Missile" value="Causes magic damage or instantly kills the target creature."/>
     <str id="Alter Terrain" value="Increases or decreases the height of terrain on even or odd turns respectively."/>
+    <str id="Arcane Missile" value="Causes magic damage or instantly kills the target creature."/>
+    <str id="Big Bear Slap" value="Attempts to disarm, knock back and stun the target creature."/>
+    <str id="Command Beast" value="Attempts to control the target beast and make it your friend."/>
+    <str id="Cure Bleeding" value="Attempts to remove a bleeding wound from the target creature."/>
+    <str id="Expose Roots" value="Spawns a treeman from the target mushroom patch."/>
+    <str id="Fairy Flight" value="Places a magical effect on you that makes you levitate."/>
+    <str id="Insect Swarm" value="Attempts to overcome the target creature with various effects."/>
+    <str id="Raptor Strike" value="Tears open a wound and causes the target to bleed."/>
+    <str id="Shroom Grenade" value="Throws a random blood cap from the caster's inventory and explodes it on impact."/>
+    <str id="Soothe Beast" value="Attempts to soothe the target beast and make it neutral towards you."/>
+    <str id="Spirit Wolves" value="Summons a pack of ethereal spirit wolves at the target location."/>
+    <str id="Abyssal Grasp" value="Summons an abyssal claw at the target location."/>
+    <str id="Army of the Dead" value="Consumes all soul gems in your inventory to spawn an army of the dead."/>
+    <str id="Corrupting Cloud" value="Creates a corrupting cloud at the target location hitting everyone inside."/>
+    <str id="Dancing Weapons" value="Summons dancing weapons at the target location."/>
+    <str id="Grounding Orb" value="Causes magic damage based on the remaining energy and maximum mana shield of the target creature."/>
+    <str id="Mass Dismissal" value="Attempts to unsummon all summoned creatures within line of sight."/>
+    <str id="Repelling Smite" value="Attempts to knock back and stun all adjacent creatures."/>
+    <str id="Ritual Sacrifice" value="Attempts to sacrifice a creature at the center of the nearest sacrificial circle."/>
+    <str id="Sacrificial Circle" value="Conjures a 3x3 sacrificial circle at the target location."/>
+    <str id="Spectral Gateway" value="Teleports you to the nearest sacrificial circle or a random location if none exists."/>
     <str id="Hit Modifier: Charisma" value="Hit Modifier: Charisma"/>
     <str id="Hit Modifier: Stamina" value="Hit Modifier: Stamina"/>
   </SpellDescs>
@@ -1239,6 +1331,7 @@
     <str id="The floor rises up and becomes a wall." value="The floor rises up and becomes a wall."/>
     <str id="The wall crumbles and reveals a floor." value="The wall crumbles and reveals a floor."/>
     <str id="The floor crumbles and reveals a chasm." value="The floor crumbles and reveals a chasm."/>
+    <str id="%s seems to calm down and is no longer hostile." value="%s seems to calm down and is no longer hostile."/>
   </SpellLogs>
   <EnchantNames>
     <str id="Mark of Agility" value="Mark of Agility"/>
@@ -1474,7 +1567,6 @@
     <str id="%s didn't seem to have any effect." value="%s didn't seem to have any effect."/>
     <str id="%s shines and repairs itself." value="%s shines and repairs itself."/>
     <str id="%s radiates a divine light for a moment." value="%s radiates a divine light for a moment."/>
-    <str id="%s didn't seem to have any effect." value="%s didn't seem to have any effect."/>
     <str id="You buy %s for a gold coin." value="You buy %s for a gold coin."/>
     <str id="You buy %s for %d gold coins." value="You buy %s for %d gold coins."/>
     <str id="You can't afford to buy those %s." value="You can't afford to buy those %s."/>
@@ -1495,8 +1587,8 @@
     <str id="Re-roll clearcast (Draconic)." value="Re-roll clearcast (Draconic)."/>
     <str id="Re-roll clearcast (Infernal)." value="Re-roll clearcast (Infernal)."/>
     <str id="Reduce Arcane cooldown by 50%." value="Reduce Arcane cooldown by 50%."/>
-    <str id="Reduce Bestial cooldown by 50%." value="Reduce Bestial cooldown by 50%."/>
-    <str id="Reduce Abyssal cooldown by 50%." value="Reduce Abyssal cooldown by 50%."/>
+    <str id="Re-roll clearcast (Bestial)." value="Re-roll clearcast (Bestial)."/>
+    <str id="Re-roll clearcast (Abyssal)." value="Re-roll clearcast (Abyssal)."/>
     <str id="Heals D6 points per turn." value="Heals D6 points per turn."/>
     <str id="Befriend daemons." value="Befriend daemons."/>
   </ItemSets>
@@ -1860,8 +1952,8 @@
     <str id="Loose Weapon Chain" value="Grants immunity against disarm effects."/>
     <str id="Time Dilation Device" value="You can use this earring to make the game consider all turns as either even or odd."/>
     <str id="Fishing Hook and Line" value="Water chasms can now be used to catch fish."/>
-    <str id="Fairy Jizzed Bull Horn" value="Allows apprentice wizards to learn and cast Bestial spells while levitating (it's those fairies, duh)."/>
-    <str id="Engraved Pyramidion" value="Allows apprentice wizards to learn and cast Abyssal spells while standing in a sacrificial circle."/>
+    <str id="Fairy Jizzed Bull Horn" value="Allows apprentice wizards to learn and cast Bestial spells (learning also requires that you levitate)."/>
+    <str id="Engraved Pyramidion" value="Allows apprentice wizards to learn and cast Abyssal spells (learning also requires black soul gems)."/>
     <str id="BlessedFamiliar" value="Any drake attempting to attack you becomes your friend permanently."/>
     <str id="BlessedOutcasts" value="Summons a loot hoarder at the first level of every random dungeon."/>
   </CharmEffects>
@@ -2329,6 +2421,26 @@
     <str id="Tome of Transmute Item" value="Tome of Transmute Item"/>
     <str id="Tome of Alter Terrain" value="Tome of Alter Terrain"/>
     <str id="Tome of Arcane Missile" value="Tome of Arcane Missile"/>
+    <str id="Tome of Big Bear Slap" value="Tome of Big Bear Slap"/>
+    <str id="Tome of Command Beast" value="Tome of Command Beast"/>
+    <str id="Tome of Cure Bleeding" value="Tome of Cure Bleeding"/>
+    <str id="Tome of Expose Roots" value="Tome of Expose Roots"/>
+    <str id="Tome of Fairy Flight" value="Tome of Fairy Flight"/>
+    <str id="Tome of Insect Swarm" value="Tome of Insect Swarm"/>
+    <str id="Tome of Raptor Strike" value="Tome of Raptor Strike"/>
+    <str id="Tome of Shroom Grenade" value="Tome of Shroom Grenade"/>
+    <str id="Tome of Soothe Beast" value="Tome of Soothe Beast"/>
+    <str id="Tome of Spirit Wolves" value="Tome of Spirit Wolves"/>
+    <str id="Tome of Abyssal Grasp" value="Tome of Abyssal Grasp"/>
+    <str id="Tome of Army of the Dead" value="Tome of Army of the Dead"/>
+    <str id="Tome of Corrupting Cloud" value="Tome of Corrupting Cloud"/>
+    <str id="Tome of Dancing Weapons" value="Tome of Dancing Weapons"/>
+    <str id="Tome of Grounding Orb" value="Tome of Grounding Orb"/>
+    <str id="Tome of Mass Dismissal" value="Tome of Mass Dismissal"/>
+    <str id="Tome of Repelling Smite" value="Tome of Repelling Smite"/>
+    <str id="Tome of Ritual Sacrifice" value="Tome of Ritual Sacrifice"/>
+    <str id="Tome of Sacrificial Circle" value="Tome of Sacrificial Circle"/>
+    <str id="Tome of Spectral Gateway" value="Tome of Spectral Gateway"/>
   </TomeNames>
   <TomeDescs>
     <str id="BlessedTomeDesc" value="You have identified that this tome is blessed and it contains the %s spell."/>
@@ -2346,6 +2458,7 @@
   <TomeLogs>
     <str id="You begin to read %s." value="You begin to read %s."/>
     <str id="You begin to read an unknown tome." value="You begin to read an unknown tome."/>
+    <str id="One of your black soul gems is consumed by the tome." value="One of your black soul gems is consumed by the tome."/>
     <str id="You open the tome at the bookmark and check out the nine inch males." value="You open the tome at the bookmark and check out the nine inch males."/>
     <str id="You open the tome at the bookmark and check out the ladies. Ooh la la!" value="You open the tome at the bookmark and check out the ladies. Ooh la la!"/>
     <str id="You finish reading the tome and learn how to cast %s." value="You finish reading the tome and learn how to cast %s."/>
@@ -2485,9 +2598,11 @@
     <str id="Fist" value="Fist"/>
     <str id="Stone" value="Stone"/>
     <str id="Barbed Whip" value="Barbed Whip"/>
+    <str id="Serrated Arm" value="Serrated Arm"/>
     <str id="Massive Claw" value="Massive Claw"/>
     <str id="Corrosive Bite" value="Corrosive Bite"/>
     <str id="Ferocius Bite" value="Ferocius Bite"/>
+    <str id="Spectral Bite" value="Spectral Bite"/>
     <str id="Infectious Bite" value="Infectious Bite"/>
     <str id="Vampiric Bite" value="Vampiric Bite"/>
     <str id="Venomous Bite" value="Venomous Bite"/>
@@ -2679,24 +2794,23 @@
     <str id="pile of bones" value="pile of bones"/>
     <str id="Beast" value="Beast"/>
     <str id="Woof" value="Woof"/>
-    <str id="Dire wolf" value="Dire wolf"/>
     <str id="Dog" value="Dog"/>
+    <str id="Dire wolf" value="Dire wolf"/>
     <str id="Dread bat" value="Dread bat"/>
+    <str id="Dread wolf" value="Dread wolf"/>
     <str id="Giant rat" value="Giant rat"/>
     <str id="Giant snail" value="Giant snail"/>
     <str id="Snake" value="Snake"/>
     <str id="Spider" value="Spider"/>
     <str id="Whelp" value="Whelp"/>
-    <str id="Dread wolf" value="Dread wolf"/>
     <str id="Bat swarm" value="Bat swarm"/>
     <str id="Rat swarm" value="Rat swarm"/>
     <str id="Snake swarm" value="Snake swarm"/>
     <str id="Spider swarm" value="Spider swarm"/>
     <str id="Snail swarm" value="Snail swarm"/>
+    <str id="Spirit wolf" value="Spirit wolf"/>
     <str id="Boss" value="Boss"/>
     <str id="Gurmur" value="Gurmur"/>
-    <str id="Dreadlord Nabon" value="Dreadlord Nabon"/>
-    <str id="Triggered Demonrat" value="Triggered Demonrat"/>
     <str id="Daemon" value="Daemon"/>
     <str id="Impaler" value="Impaler"/>
     <str id="Devourer" value="Devourer"/>
@@ -2771,6 +2885,10 @@
     <str id="Troll" value="Troll"/>
     <str id="Treeman" value="Treeman"/>
     <str id="Demonrat" value="Demonrat"/>
+    <str id="Dreadlord Nabon" value="Dreadlord Nabon"/>
+    <str id="Triggered Demonrat" value="Triggered Demonrat"/>
+    <str id="Abyssal claw" value="Abyssal claw"/>
+    <str id="Dancing weapon" value="Dancing weapon"/>
     <str id="Orc" value="Orc"/>
     <str id="Orc grunt" value="Orc grunt"/>
     <str id="Orc archer" value="Orc archer"/>
@@ -3020,6 +3138,7 @@
     <str id="YOU_SEE_GATE_TRIGGER" value="You see %s that seems to be connected to a gate nearby."/>
   </TileLogs>
   <RIPTitles>
+    <str id="R.I.P." value="R.I.P."/>
     <str id="Here lies %s." value="Here lies %s."/>
     <str id="Here lies %s the %s." value="Here lies %s the %s."/>
     <str id="Here lies %s from %s %s." value="Here lies %s from %s %s."/>
@@ -3075,6 +3194,190 @@
     <str id="Valley" value="Valley"/>
     <str id="Well" value="Well"/>
   </RIPTitles>
+  <MaleNames>
+    <str id="Abner" value="Abner"/>
+    <str id="Aiden" value="Aiden"/>
+    <str id="Amos" value="Amos"/>
+    <str id="Arthur" value="Arthur"/>
+    <str id="Baldwin" value="Baldwin"/>
+    <str id="Bernard" value="Bernard"/>
+    <str id="Brian" value="Brian"/>
+    <str id="Byron" value="Byron"/>
+    <str id="Caleb" value="Caleb"/>
+    <str id="Cedric" value="Cedric"/>
+    <str id="Corwin" value="Corwin"/>
+    <str id="Cyril" value="Cyril"/>
+    <str id="Damon" value="Damon"/>
+    <str id="Declan" value="Declan"/>
+    <str id="Dorian" value="Dorian"/>
+    <str id="Duncan" value="Duncan"/>
+    <str id="Edmund" value="Edmund"/>
+    <str id="Egbert" value="Egbert"/>
+    <str id="Elijah" value="Elijah"/>
+    <str id="Ethan" value="Ethan"/>
+    <str id="Falkner" value="Falkner"/>
+    <str id="Fergus" value="Fergus"/>
+    <str id="Ferris" value="Ferris"/>
+    <str id="Francis" value="Francis"/>
+    <str id="Gabriel" value="Gabriel"/>
+    <str id="Gideon" value="Gideon"/>
+    <str id="Gilbert" value="Gilbert"/>
+    <str id="Giles" value="Giles"/>
+    <str id="Harold" value="Harold"/>
+    <str id="Herbert" value="Herbert"/>
+    <str id="Horatio" value="Horatio"/>
+    <str id="Hubert" value="Hubert"/>
+    <str id="Igor" value="Igor"/>
+    <str id="Irvin" value="Irvin"/>
+    <str id="Isaac" value="Isaac"/>
+    <str id="Ivar" value="Ivar"/>
+    <str id="Jacob" value="Jacob"/>
+    <str id="Jerome" value="Jerome"/>
+    <str id="Joseph" value="Joseph"/>
+    <str id="Joshua" value="Joshua"/>
+    <str id="Kendall" value="Kendall"/>
+    <str id="Kenneth" value="Kenneth"/>
+    <str id="Kiefer" value="Kiefer"/>
+    <str id="Konrad" value="Konrad"/>
+    <str id="Lambert" value="Lambert"/>
+    <str id="Leonard" value="Leonard"/>
+    <str id="Lucas" value="Lucas"/>
+    <str id="Lyndon" value="Lyndon"/>
+    <str id="Magnus" value="Magnus"/>
+    <str id="Marcus" value="Marcus"/>
+    <str id="Milburn" value="Milburn"/>
+    <str id="Morgan" value="Morgan"/>
+    <str id="Nathan" value="Nathan"/>
+    <str id="Nigel" value="Nigel"/>
+    <str id="Norman" value="Norman"/>
+    <str id="Norris" value="Norris"/>
+    <str id="Oliver" value="Oliver"/>
+    <str id="Orson" value="Orson"/>
+    <str id="Otis" value="Otis"/>
+    <str id="Owen" value="Owen"/>
+    <str id="Percival" value="Percival"/>
+    <str id="Patrick" value="Patrick"/>
+    <str id="Philbert" value="Philbert"/>
+    <str id="Philip" value="Philip"/>
+    <str id="Quimby" value="Quimby"/>
+    <str id="Quentin" value="Quentin"/>
+    <str id="Quinn" value="Quinn"/>
+    <str id="Randolph" value="Randolph"/>
+    <str id="Reginald" value="Reginald"/>
+    <str id="Richard" value="Richard"/>
+    <str id="Rupert" value="Rupert"/>
+    <str id="Samuel" value="Samuel"/>
+    <str id="Shamus" value="Shamus"/>
+    <str id="Sigmund" value="Sigmund"/>
+    <str id="Stewart" value="Stewart"/>
+    <str id="Thomas" value="Thomas"/>
+    <str id="Titus" value="Titus"/>
+    <str id="Tobias" value="Tobias"/>
+    <str id="Tristan" value="Tristan"/>
+    <str id="Udolf" value="Udolf"/>
+    <str id="Uriah" value="Uriah"/>
+    <str id="Vaughan" value="Vaughan"/>
+    <str id="Vernon" value="Vernon"/>
+    <str id="Victor" value="Victor"/>
+    <str id="Vincent" value="Vincent"/>
+    <str id="Walter" value="Walter"/>
+    <str id="Warren" value="Warren"/>
+    <str id="Wesley" value="Wesley"/>
+    <str id="Wilbur" value="Wilbur"/>
+    <str id="Zachary" value="Zachary"/>
+  </MaleNames>
+  <FemaleNames>
+    <str id="Agnes" value="Agnes"/>
+    <str id="Anita" value="Anita"/>
+    <str id="Astrid" value="Astrid"/>
+    <str id="Audrey" value="Audrey"/>
+    <str id="Bella" value="Bella"/>
+    <str id="Bianca" value="Bianca"/>
+    <str id="Brenda" value="Brenda"/>
+    <str id="Brooke" value="Brooke"/>
+    <str id="Caitlin" value="Caitlin"/>
+    <str id="Caroline" value="Caroline"/>
+    <str id="Catherine" value="Catherine"/>
+    <str id="Cynthia" value="Cynthia"/>
+    <str id="Daphne" value="Daphne"/>
+    <str id="Deborah" value="Deborah"/>
+    <str id="Deirdre" value="Deirdre"/>
+    <str id="Drucilla" value="Drucilla"/>
+    <str id="Edith" value="Edith"/>
+    <str id="Eileen" value="Eileen"/>
+    <str id="Eleanor" value="Eleanor"/>
+    <str id="Evelyn" value="Evelyn"/>
+    <str id="Fawn" value="Fawn"/>
+    <str id="Faye" value="Faye"/>
+    <str id="Fiona" value="Fiona"/>
+    <str id="Frida" value="Frida"/>
+    <str id="Gabrielle" value="Gabrielle"/>
+    <str id="Genevieve" value="Genevieve"/>
+    <str id="Guinevere" value="Guinevere"/>
+    <str id="Gwendolyn" value="Gwendolyn"/>
+    <str id="Hayley" value="Hayley"/>
+    <str id="Hannah" value="Hannah"/>
+    <str id="Harriet" value="Harriet"/>
+    <str id="Heather" value="Heather"/>
+    <str id="Imogen" value="Imogen"/>
+    <str id="Ingrid" value="Ingrid"/>
+    <str id="Irene" value="Irene"/>
+    <str id="Iris" value="Iris"/>
+    <str id="Joanna" value="Joanna"/>
+    <str id="Judith" value="Judith"/>
+    <str id="Juliet" value="Juliet"/>
+    <str id="Justine" value="Justine"/>
+    <str id="Kathleen" value="Kathleen"/>
+    <str id="Katrina" value="Katrina"/>
+    <str id="Kayleigh" value="Kayleigh"/>
+    <str id="Kirsten" value="Kirsten"/>
+    <str id="Leah" value="Leah"/>
+    <str id="Lilith" value="Lilith"/>
+    <str id="Lindsay" value="Lindsay"/>
+    <str id="Lucia" value="Lucia"/>
+    <str id="Magda" value="Magda"/>
+    <str id="Marian" value="Marian"/>
+    <str id="Miriam" value="Miriam"/>
+    <str id="Moira" value="Moira"/>
+    <str id="Nadia" value="Nadia"/>
+    <str id="Natalie" value="Natalie"/>
+    <str id="Nicole" value="Nicole"/>
+    <str id="Nora" value="Nora"/>
+    <str id="Octavia" value="Octavia"/>
+    <str id="Odette" value="Odette"/>
+    <str id="Olivia" value="Olivia"/>
+    <str id="Ophelia" value="Ophelia"/>
+    <str id="Phoebe" value="Phoebe"/>
+    <str id="Phyllis" value="Phyllis"/>
+    <str id="Primrose" value="Primrose"/>
+    <str id="Prudence" value="Prudence"/>
+    <str id="Rachel" value="Rachel"/>
+    <str id="Renee" value="Renee"/>
+    <str id="Rose" value="Rose"/>
+    <str id="Ruth" value="Ruth"/>
+    <str id="Sabrina" value="Sabrina"/>
+    <str id="Sharon" value="Sharon"/>
+    <str id="Sheila" value="Sheila"/>
+    <str id="Sybil" value="Sybil"/>
+    <str id="Tanya" value="Tanya"/>
+    <str id="Tara" value="Tara"/>
+    <str id="Teresa" value="Teresa"/>
+    <str id="Trixie" value="Trixie"/>
+    <str id="Ulrica" value="Ulrica"/>
+    <str id="Ursula" value="Ursula"/>
+    <str id="Valerie" value="Valerie"/>
+    <str id="Veronica" value="Veronica"/>
+    <str id="Victoria" value="Victoria"/>
+    <str id="Vivian" value="Vivian"/>
+    <str id="Willow" value="Willow"/>
+    <str id="Winifred" value="Winifred"/>
+    <str id="Winona" value="Winona"/>
+    <str id="Wynne" value="Wynne"/>
+    <str id="Xenia" value="Xenia"/>
+    <str id="Yvette" value="Yvette"/>
+    <str id="Yvonne" value="Yvonne"/>
+    <str id="Zelene" value="Zelene"/>
+  </FemaleNames>
   <CauseOfDeath>
     <str id="COD_RETIRE" value="%s died of old age several years after retiring from adventuring."/>
     <str id="COD_CHEATER" value="%s died of severe anxiety caused by trying to cheat the game."/>
@@ -3455,7 +3758,7 @@
     <str id="Bestial Mastery" value="Allows you to learn Bestial spells with Literacy: Common and without levitation.">
       <str id="paragraph 1" value="This heritage can be unlocked by learning all Bestial spells in a single game."/>
     </str>
-    <str id="Abyssal Mastery" value="Allows you to learn Abyssal spells with Literacy: Common and without sacrifice.">
+    <str id="Abyssal Mastery" value="Allows you to learn Abyssal spells with Literacy: Common and without black soul gems.">
       <str id="paragraph 1" value="This heritage can be unlocked by learning all Abyssal spells in a single game."/>
     </str>
     <str id="Amulet Knowledge" value="Grants knowledge of all amulet effects at the start of the game.">
@@ -3579,17 +3882,17 @@
       <str id="paragraph 2" value="Note that shapeshifting resets the counter and this must be completed in one shift."/>
       <str id="paragraph 3" value="Monsters eaten:"/>
     </str>
-    <str id="Second Amendment" value="Allows you to learn spells from Arcane tomes while having a matching amulet equipped (*).">
+    <str id="Second Amendment" value="Allows you to read Arcane tomes while having a matching amulet equipped (*).">
       <str id="paragraph 1" value="Once you have learned an Arcane spell you can cast it while having any amulet equipped."/>
       <str id="paragraph 2" value="This heritage can be unlocked by donating an item from the future to the Artisan's Guild."/>
       <str id="paragraph 3" value="(*) Note that you will also need to know Literacy: Common and one of the other literacies."/>
     </str>
-    <str id="Rise of Fairies" value="Allows you to learn spells from Bestial tomes with a Fairy Jizzed Bull Horn while levitating (*).">
+    <str id="Rise of Fairies" value="Allows you to read Bestial tomes with a Fairy Jizzed Bull Horn while levitating (*).">
       <str id="paragraph 1" value="Once you have learned a Bestial spell you can cast it while having a horn in your backpack."/>
       <str id="paragraph 2" value="This heritage can be unlocked by attempting to donate an unidentified horn to the Artisan's Guild."/>
       <str id="paragraph 3" value="(*) Note that you will also need to know Literacy: Common and one of the other literacies."/>
     </str>
-    <str id="Wester Worshipper" value="Allows you to learn spells from Abyssal tomes with an Engraved Pyramidion and a sacrifice (*).">
+    <str id="Wester Worshipper" value="Allows you to read Abyssal tomes with an Engraved Pyramidion and a black soul gem (*).">
       <str id="paragraph 1" value="Once you have learned an Abyssal spell you can cast it while having a pyramidion in your backpack."/>
       <str id="paragraph 2" value="This heritage can be unlocked by attempting to donate an unidentified pyramidion to the Artisan's Guild."/>
       <str id="paragraph 3" value="(*) Note that you will also need to know Literacy: Common and one of the other literacies."/>
@@ -3663,6 +3966,7 @@
     <str id="Path of Cruelty" value="Path of Cruelty"/>
     <str id="Path of Fairness" value="Path of Fairness"/>
     <str id="Path of Compassion" value="Path of Compassion"/>
+    <str id="Indivisible Greed" value="Indivisible Greed"/>
   </ChallengeNames>
   <ChallengeDescs>
     <str id="Unlocks &quot;%s&quot; title." value="Unlocks &quot;%s&quot; title."/>
@@ -3821,6 +4125,7 @@
     <str id="Path of Compassion" value="%s">
       <str id="paragraph 1" value="If you answer the test with gentle answers only, you will be known as '%s'."/>
     </str>
+    <str id="Indivisible Greed" value="This challenge can be completed by reseting a dungeon after meeting three angry pops."/>
   </ChallengeDescs>
   <ChallengeTitles>
     <str id="Select Title" value="Select Title"/>
@@ -3883,6 +4188,7 @@
     <str id="the Cruel" value="the Cruel"/>
     <str id="the Fair" value="the Fair"/>
     <str id="the Gentle" value="the Gentle"/>
+    <str id="the Greedy" value="the Greedy"/>
   </ChallengeTitles>
   <GameLogic>
     <str id="You die. Press %s to continue." value="You die. Press %s to continue."/>
@@ -3963,7 +4269,8 @@
     <str id="You can't cast spells or use talents while confused." value="You can't cast spells or use talents while confused."/>
     <str id="You can't cast spells or use talents while polymorphed." value="You can't cast spells or use talents while polymorphed."/>
     <str id="You can't cast spells or use talents while shapeshifted." value="You can't cast spells or use talents while shapeshifted."/>
-    <str id="You can't cast spells or use talents while silenced." value="You can't cast spells or use talents while silenced."/>
+    <str id="You can't cast spells or change hotkeys while silenced." value="You can't cast spells or change hotkeys while silenced."/>
+    <str id="You can't cast spells while silenced." value="You can't cast spells while silenced."/>
     <str id="You can't look around while blinded." value="You can't look around while blinded."/>
     <str id="You can't look around while confused." value="You can't look around while confused."/>
     <str id="Select a target to look at and press %s:" value="Select a target to look at and press %s:"/>
@@ -4090,6 +4397,9 @@
     <str id="You can't cast bestial spells without a bull horn." value="You can't cast bestial spells without a bull horn."/>
     <str id="You can't cast abyssal spells without a pyramidion." value="You can't cast abyssal spells without a pyramidion."/>
     <str id="You can't cast release soul without a soul gem." value="You can't cast release soul without a soul gem."/>
+    <str id="You can't cast shroom grenade without a blood cap." value="You can't cast shroom grenade without a blood cap."/>
+    <str id="You can't cast army of the dead without a soul gem." value="You can't cast army of the dead without a soul gem."/>
+    <str id="You can't cast ritual sacrifice without an amulet of sacrifice." value="You can't cast ritual sacrifice without an amulet of sacrifice."/>
     <str id="The spell is on a cooldown with %d turns remaining." value="The spell is on a cooldown with %d turns remaining."/>
     <str id="You can't cast spells while blinded." value="You can't cast spells while blinded."/>
     <str id="You can't cast spells while confused." value="You can't cast spells while confused."/>
