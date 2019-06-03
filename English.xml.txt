@@ -68,9 +68,9 @@ Labels."CONFIG_SCREEN_DESC".1 只需聚焦到特定按钮，然后按下
 Labels."CONFIG_SCREEN_DESC".2 除了 %s，%s，%s 以及 %s 之外的键。&#10;
 Labels."CONFIG_SCREEN_DESC".3 点一下按钮可以清除与之绑定的按键。
 Labels."LOADING_SCREEN_DESC" 正在给恶魔注入鲜血，请稍候……
-Labels."Sort items vertically" Sort items vertically
-Labels."Skip null log strings" Skip null log strings
-Labels."Use 3 button mouse" Use 3 button mouse
+Labels."Sort items vertically" 纵向排序物品
+Labels."Skip null log strings" 忽略空的日志字符串
+Labels."Use 3 button mouse" 使用三键鼠标
 Buttons."Accept" 接受
 Buttons."Cancel" 取消
 Buttons."Return" 返回
@@ -99,39 +99,39 @@ Buttons."Journey onward" 继续征程
 Buttons."Start a new game" 开启新游戏
 Buttons."Okay" 确定
 Buttons."Close" 关闭
-KeyNames."Loot" Loot
-KeyNames."Pri. Use" Pri. Use
-KeyNames."Sec. Use" Sec. Use
-KeyNames."Enter" Enter
-KeyNames."Hotkey 1" Hotkey 1
-KeyNames."Hotkey 2" Hotkey 2
-KeyNames."Hotkey 3" Hotkey 3
-KeyNames."Hotkey 4" Hotkey 4
-KeyNames."Hotkey 5" Hotkey 5
-KeyNames."Hotkey 6" Hotkey 6
-KeyNames."Hotkey 7" Hotkey 7
-KeyNames."Chat" Chat
-KeyNames."Jump" Jump
-KeyNames."Swap" Swap
-KeyNames."Equip" Equip
-KeyNames."Sort" Sort
-KeyNames."Travel" Travel
-KeyNames."Attack" Attack
-KeyNames."Search" Search
-KeyNames."Drop" Drop
-KeyNames."Throw" Throw
-KeyNames."Focus" Focus
-KeyNames."Cast" Cast
-KeyNames."Look" Look
-KeyNames."Move N" Move N
-KeyNames."Move S" Move S
-KeyNames."Move E" Move E
-KeyNames."Move W" Move W
-KeyNames."Move NE" Move NE
-KeyNames."Move SE" Move SE
-KeyNames."Move NW" Move NW
-KeyNames."Move SW" Move SW
-KeyNames."Rest" Rest
+KeyNames."Loot" 拾取
+KeyNames."Pri. Use" 主要使用
+KeyNames."Sec. Use" 次要使用
+KeyNames."Enter" 进入
+KeyNames."Hotkey 1" 热键 1
+KeyNames."Hotkey 2" 热键 2
+KeyNames."Hotkey 3" 热键 3
+KeyNames."Hotkey 4" 热键 4
+KeyNames."Hotkey 5" 热键 5
+KeyNames."Hotkey 6" 热键 6
+KeyNames."Hotkey 7" 热键 7
+KeyNames."Chat" 聊天
+KeyNames."Jump" 跳跃
+KeyNames."Swap" 交换
+KeyNames."Equip" 装备
+KeyNames."Sort" 排序
+KeyNames."Travel" 旅行
+KeyNames."Attack" 攻击
+KeyNames."Search" 搜索
+KeyNames."Drop" 丢弃
+KeyNames."Throw" 投掷
+KeyNames."Focus" 聚焦
+KeyNames."Cast" 施法
+KeyNames."Look" 观察
+KeyNames."Move N" 向北移动
+KeyNames."Move S" 向南移动
+KeyNames."Move E" 向东移动
+KeyNames."Move W" 向西移动
+KeyNames."Move NE" 向东北移动
+KeyNames."Move SE" 向东南移动
+KeyNames."Move NW" 向西北移动
+KeyNames."Move SW" 向西南移动
+KeyNames."Rest" 休息
 KeyDescs."Loot" @(44)这个按键按下时显示地上的物品。
 KeyDescs."Pri. Use" @(44)这个键和移动键一起按可进行开锁、解除陷阱、开门等动作。
 KeyDescs."Sec. Use" @(44)这个键和热键一起按可对自己施法，在副手上装备武器，以及在副手手指上装备戒指。
@@ -247,8 +247,8 @@ Quests."I got plenty of money!" 我有的是钱！
 Quests."Pay the price (%dg)" 支付（%d 金）
 Quests."Consider him shaved!" 准备给他修面！
 Quests."Yeah, yeah, I'm going!" 好的好的，我会去的！
-Quests."Itchy-bitchy die die!" Itchy-bitchy die die!
-Quests."I hope they have gold!" I hope they have gold!
+Quests."Itchy-bitchy die die!" 骚婊子，去死吧！
+Quests."I hope they have gold!" 希望他们有钱！
 Quests."How hard can it be?!?" 能有多难?!?
 Quests."Heh, sure, I got this!" 嘿，当然，我了解了！
 Quests."Accept the quest" 接受任务
@@ -257,7 +257,7 @@ Quests."Challenge %s" 挑战 %s
 Quests."Monster Hunt" 狩猎巨怪
 Quests."Bandits' Hideout" 土匪的巢穴
 Quests."Ancient Sewer" 古代下水道
-Quests."Spider Cave" Spider Cave
+Quests."Spider Cave" 蜘蛛洞
 Quests."Cultists' Lair" 邪教徒的巢穴
 Quests."Nabon's Castle" 腊崩的城堡
 Quests."Frostmourn Keep" 霜之哀伤城楼
@@ -273,14 +273,14 @@ Quests."EQUALIZER_DESC" @(32)很明显，有个时空术士，别管他是谁，
 Quests."EQUALIZER_DESC".1 @(32)鲁班想让你去看看他怎样了，把他找到的独特物品带回来。
 Quests."EQUALIZER_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
 Quests."SPAWN_EQUALIZER" 你接受了任务，出发寻找独特物品。
-Quests."SPIDER_CAVE_DESC" It seems that some eight-legged rabbits have made their nest too close to a wealthy merchant's trade route.
-Quests."SPIDER_CAVE_DESC".1 Your job is to kill them all and in return you will have 1000 gold coins deposited into your bank account.
-Quests."SPIDER_CAVE_DESC".2 Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail.
-Quests."SPAWN_SPIDER_CAVE" You accept the quest and head out to slay some spiders.
-Quests."WORSHIPPERS_DESC" Every time you go to sleep another death cult appears. These guys have even come up with their own spells.
-Quests."WORSHIPPERS_DESC".1 The Wizard's Guild doesn't seem to like competition and they would like you to go and take care of the problem.
-Quests."WORSHIPPERS_DESC".2 Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail.
-Quests."SPAWN_WORSHIPPERS" You accept the quest and head out to do some justified murdering.
+Quests."SPIDER_CAVE_DESC" @(32)似乎有一些八条腿的兔子把它们的窝筑得离富商的贸易路线太近了。
+Quests."SPIDER_CAVE_DESC".1 @(32)你的工作是消灭它们。作为回报，将有 1000 金币存入你的银行账户。
+Quests."SPIDER_CAVE_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
+Quests."SPAWN_SPIDER_CAVE" 你接受了任务，出发去杀蜘蛛。
+Quests."WORSHIPPERS_DESC" @(32)每次你睡觉时，另一些死亡信徒就会出现。这些家伙甚至想出了自己的法术。
+Quests."WORSHIPPERS_DESC".1 @(32)法师行会似乎不喜欢竞争，他们希望你去解决这个问题。
+Quests."WORSHIPPERS_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
+Quests."SPAWN_WORSHIPPERS" 你接受了任务，出发去执行正当的刺杀。
 Quests."GURMUR_DESC" @(32)一些邪教徒开启了一个计划，想唤醒一个本已死去的老怪物来征服世界。
 Quests."GURMUR_DESC".1 @(32)这当然很糟糕，但还有更糟的事情是哪些邪教徒带走了本该属于你的大量金币。
 Quests."GURMUR_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
@@ -506,80 +506,79 @@ JumpLogs."%s jumps over %s but lands face first on the floor." %s 跃过%s，但
 JumpLogs."You try to jump over %s but you land right on top of it." 你试着跃过%s，但却落在了上面。
 JumpLogs."%s tries to jump over %s but lands right on top of it." %s 试着跃过%s，但却落在了上面。
 AttackLogs."Your killing blow mortally hits %s" 你的致命一击准确命中 %s
-AttackLogs."You critically hit %s with %s" %s 被你用 %s 暴击了
-AttackLogs."You hit %s with %s" %s 被你用 %s 击中
-AttackLogs."%s's killing blow mortally hits you" %s 的致命一击正中了你
-AttackLogs."%s critically hits %s with %s" %s 发起了攻击，%s 被他的 %s 暴击了
-AttackLogs."%s hits %s with %s" %s 发起了攻击，%s 被他的 %s 击中
+AttackLogs."You critically hit %s with %s" 你用%2暴击了%1
+AttackLogs."You hit %s with %s" 你用%2击中了%1
+AttackLogs."%s's killing blow mortally hits you" %s的致命一击正中了你
+AttackLogs."%s critically hits %s with %s" %1用%3暴击了%2
+AttackLogs."%s hits %s with %s" %1用%3击中了%2
 AttackLogs.", but all damage is resisted." ，不过所有的伤害都被抵抗。
 AttackLogs.", but all damage is reflected back!" ，不过所有的伤害都被反弹！
 AttackLogs.", but half of the damage is reflected back!" ，不过有一半的伤害被反弹！
-AttackLogs."You miss %s with %s." 你没能击中 %s ，你的 %s 落空了。
-AttackLogs."%s misses you with %s." %s 没能击中你，他的 %s 落空了。
-AttackLogs."Your attack is blocked by %s." 你的攻击被 %s 格挡了。
-AttackLogs."Your %s is blocked by %s." 你的 %s 被 %s 格挡了。
-AttackLogs."You block %s's attack." 你格挡了 %s 的攻击。
-AttackLogs."You block %s's %s." 你格挡了 %s 的 %s。
-AttackLogs."Your attack is dodged by %s." 你的攻击被 %s 闪避了。
-AttackLogs."Your %s is dodged by %s." 你的 %s 被 %s 闪避了。
-AttackLogs."You dodge %s's attack." 你闪避了 %s 的攻击。
-AttackLogs."You dodge %s's %s." 你闪避了 %s 的 %s 。
-AttackLogs."Your attack is parried by %s." 你的攻击被 %s 招架了。
-AttackLogs."Your %s is parried by %s." 你的 %s 被 %s 招架了。
-AttackLogs."You parry %s's attack." 你招架了 %s 的攻击。
-AttackLogs."You parry %s's %s." 你招架了 %s 的 %s。
-AttackLogs."You perform a counter attack and shoot a bolt at %s with your wristbow." 你做出了反击，向 %s 射出一发袖箭。
-AttackLogs."%s performs a counter attack and shoots a bolt at you with a wristbow." %s 做出了反击，向你射出一发袖箭。
-AttackLogs."Your shield bash critically hits %s" 你的盾击对 %s 造成了暴击。
-AttackLogs."Your shield bash hits %s" 你用盾击中了 %s
-AttackLogs."%s's shield bash critically hits you" %s 的盾击对你造成了暴击
-AttackLogs."%s's shield bash hits you" %s 用盾击中了你
-AttackLogs."Your shield bash misses %s." 你的盾击没有打中 %s。
-AttackLogs."%s's shield bash misses you." %s 的盾击没有打中你。
-AttackLogs."You charge at %s." 你向 %s 发起了冲锋。
-AttackLogs."%s charges at %s." %s 向 %s 发起了冲锋。
+AttackLogs."You miss %s with %s." 你的%2没能击中%1。
+AttackLogs."%s misses you with %s." %s的%s没能击中你。
+AttackLogs."Your attack is blocked by %s." 你的攻击被%s格挡了。
+AttackLogs."Your %s is blocked by %s." 你的%s被%s格挡了。
+AttackLogs."You block %s's attack." 你格挡了%s的攻击。
+AttackLogs."You block %s's %s." 你格挡了%s的%s。
+AttackLogs."Your attack is dodged by %s." 你的攻击被%s闪避了。
+AttackLogs."Your %s is dodged by %s." 你的%s被%s闪避了。
+AttackLogs."You dodge %s's attack." 你闪避了%s的攻击。
+AttackLogs."You dodge %s's %s." 你闪避了%s的%s。
+AttackLogs."Your attack is parried by %s." 你的攻击被%s招架了。
+AttackLogs."Your %s is parried by %s." 你的%s被%s招架了。
+AttackLogs."You parry %s's attack." 你招架了%s的攻击。
+AttackLogs."You parry %s's %s." 你招架了%s的%s。
+AttackLogs."You perform a counter attack and shoot a bolt at %s with your wristbow." 你做出了反击，向%s射出一发袖箭。
+AttackLogs."%s performs a counter attack and shoots a bolt at you with a wristbow." %s做出了反击，向你射出一发袖箭。
+AttackLogs."Your shield bash critically hits %s" 你的盾击对%s造成了暴击。
+AttackLogs."Your shield bash hits %s" 你用盾击中了%s
+AttackLogs."%s's shield bash critically hits you" %s的盾击对你造成了暴击
+AttackLogs."%s's shield bash hits you" %s用盾击中了你
+AttackLogs."Your shield bash misses %s." 你的盾击没有打中%s。
+AttackLogs."%s's shield bash misses you." %s的盾击没有打中你。
+AttackLogs."You charge at %s." 你向%s发起了冲锋。
+AttackLogs."%s charges at %s." %s向%s发起了冲锋。
 AttackLogs."You can't charge there." 你不能向那里冲锋。
 AttackLogs."You can't charge adjacent targets." 你不能向邻接的目标冲锋。
-AttackLogs."%s misses its target and critically hits %s instead" %s 没有命中目标，但暴击了 %s
-AttackLogs."%s miss their target and critically hit %s instead" %s 没有命中他的目标，但暴击了 %s
-AttackLogs."%s misses its target and hits %s instead" %s 没有命中它的目标，但击中了 %s
-AttackLogs."%s miss their target and hit %s instead" %s 没有命中它们的目标，但击中了 %s
-AttackLogs."%s misses its target and lands on %s." %s 没有命中它的目标，落在了 %s 上面。
-AttackLogs."%s miss their target and land on %s." %s 没有命中它们的目标，落在了 %s 上面。
-AttackLogs."%s misses its target and breaks when it hits %s." %s 没有命中它的目标，击中 %s 后损毁了。
-AttackLogs."%s miss their target and break when they hit %s." %s 没有命中它的目标，击中 %s 后损毁了。
-AttackLogs."%s critically hits %s" %s 对 %s 造成了暴击。
-AttackLogs."%s hits %s" %s 击中了 %s
-AttackLogs."%s hit %s" %s 击中了 %s
-AttackLogs."%s lands on %s." %s 落在了 %s 上面。
-AttackLogs."%s land on %s." %s 落在了 %s 上面。
-AttackLogs."%s breaks when it hits %s." %s 击中 %s 后损毁了。
-AttackLogs."%s break when they hit %s." %s 击中 %s 后损毁了。
-AttackLogs."You throw %s in the fire and cook it." 你把 %s 扔进火堆，把它烤熟了。
-AttackLogs."You shoot a multi shot at %s." 你连发射向 %s 。
-AttackLogs."%s shoots a multi shot at %s." %s 连发射向 %s 。
+AttackLogs."%s misses its target and critically hits %s instead" %s没有命中目标，但暴击了%s
+AttackLogs."%s miss their target and critically hit %s instead" %s没有命中他的目标，但暴击了%s
+AttackLogs."%s misses its target and hits %s instead" %s没有命中它的目标，但击中了%s
+AttackLogs."%s miss their target and hit %s instead" %s没有命中它们的目标，但击中了%s
+AttackLogs."%s misses its target and lands on %s." %s没有命中它的目标，落在了%s上面。
+AttackLogs."%s miss their target and land on %s." %s没有命中它们的目标，落在了%s上面。
+AttackLogs."%s misses its target and breaks when it hits %s." %s没有命中它的目标，击中%s后损毁了。
+AttackLogs."%s miss their target and break when they hit %s." %s没有命中它的目标，击中%s后损毁了。
+AttackLogs."%s critically hits %s" %s对%s造成了暴击。
+AttackLogs."%s hits %s" %s击中了%s
+AttackLogs."%s hit %s" %s击中了%s
+AttackLogs."%s lands on %s." %s落在了%s上面。
+AttackLogs."%s land on %s." %s落在了%s上面。
+AttackLogs."%s breaks when it hits %s." %s击中%s后损毁了。
+AttackLogs."%s break when they hit %s." %s击中%s后损毁了。
+AttackLogs."You throw %s in the fire and cook it." 你把%s扔进火堆，把它烤熟了。
+AttackLogs."You shoot a multi shot at %s." 你连发射向%s。
+AttackLogs."%s shoots a multi shot at %s." %s连发射向%s。
 AttackLogs."You can't shoot multi shot there." 你不能连发向那里射击。
-AttackLogs."You shoot %s at %s." 你将 %s 射向 %s 。
-AttackLogs."%s shoots %s at %s." %s 将 %s 射向 %s 。
+AttackLogs."You shoot %s at %s." 你将%s射向%s 。
+AttackLogs."%s shoots %s at %s." %s将%s射向%s 。
 AttackLogs."You can't shoot there." 你不能射向那里。
 AttackLogs."You can't shoot where you can't see." 你不能向你看不见的地方射击。
-AttackLogs."You throw %s at %s." 你把 %s 向 %s 扔过去。
-AttackLogs."%s throws %s at %s." %s 把 %s 向 %s 扔过去。
-AttackLogs."You can't throw %s there." 你不能把 %s 扔去那里。
+AttackLogs."You throw %s at %s." 你把%s向%s扔过去。
+AttackLogs."%s throws %s at %s." %s把%s向%s扔过去。
+AttackLogs."You can't throw %s there." 你不能把%s扔去那里。
 AttackLogs."You can't throw where you can't see." 你不能向你看不见的地方投掷。
-AttackLogs."%s snaps %s and swallows it whole." %s 咬住 %s 整个吞了下去。
-AttackLogs."%s snaps %s and drains its power." %s 咬住 %s 吸取了它的能量。
-AttackLogs."%s folds around %s's neck and it is equipped." %s 环绕着 %s 的脖子，装备上了。
-AttackLogs."Polymorphed cave bear snaps %s and swallows it whole." 被变形的洞熊咬住 %s 整个吞了下去。
+AttackLogs."%s snaps %s and swallows it whole." %s咬住%s整个吞了下去。
+AttackLogs."%s snaps %s and drains its power." %s咬住%s吸取了它的能量。
+AttackLogs."%s folds around %s's neck and it is equipped." %s环绕着%s的脖子，装备上了。
+AttackLogs."Polymorphed cave bear snaps %s and swallows it whole." 被变形的洞熊咬住%s整个吞了下去。
 AttackLogs."Oh my G'awd, rocks can no longer be turned into scrap!" 哦，我的天呐，岩石不再变成碎片！
 AttackLogs."You salvage a piece of reusable scrap from the debris." 你从残骸中抢救出一块可以再利用的碎片。
-AttackLogs."You pull the trigger and shoot %s at %s." 你触动了扳机，把 %s 射向 %s 。
+AttackLogs."You pull the trigger and shoot %s at %s." 你触动了扳机，把%s射向%s 。
 AttackLogs."You pull the trigger but nothing happens." 你触动了扳机，但什么也没有发生。
-# TODO: 用 %1 %2 重排
-CastLogs."You cast %s at %s." 你将%s施放到%s。
-CastLogs."You cast %s on %s." 你将%s施放在%s上面。
-CastLogs."%s casts %s at %s." %s将%s施放到%s。
-CastLogs."%s casts %s on %s." %s将%s施放在%s上面。
+CastLogs."You cast %s at %s." 你向%2释放了%1。
+CastLogs."You cast %s on %s." 你在%2之上释放了%1。
+CastLogs."%s casts %s at %s." %1向%3释放了%2。
+CastLogs."%s casts %s on %s." %1在%3之上释放了%2。
 CastLogs."%s casts a spell at %s." %s对%s施放了一个法术。
 CastLogs."%s casts a spell on %s." %s在%s上面施放了一个法术。
 CastLogs."You cast %s on yourself." 你对自己施放了%s。
@@ -588,7 +587,7 @@ CastLogs."You can't cast %s on %s." 你无法将%s释放在%s上面。
 CastLogs."You can't cast %s on yourself." 你无法对自己施放%s。
 CastLogs."You can't cast where you can't see." 你无法向你看不见的地方施法。
 CastLogs."You choose not to cast %s at yourself." 你选择不对自己施放%s。
-CastLogs."You start to cast %s." You start to cast %s.
+CastLogs."You start to cast %s." 你开始施展%s。
 CastLogs."You start to cast a spell from %s." 你开始从%s施放一个法术。
 CastLogs."%s decides to zap you instead." %s决定换成对你施术。
 CastLogs."%s is cursed and it decides to zap you instead." %s被诅咒了，它决定换成对你施术。
@@ -1412,8 +1411,7 @@ ItemLogs."%s glows blue for a moment before shattering to pieces." %s散发出�
 ItemLogs."You gain knowledge about %s." 你获得了关于%s的知识。
 ItemLogs."You feel that you have forgotten something." 你觉得你忘了些东西。
 ItemLogs."You feel dumber than a rock." 你觉得自己比石头还笨。
-# TODO: 这里需要用 %1 %2 倒序
-ItemLogs."You use the %s on %s." 你取出%s，将其对%s使用。
+ItemLogs."You use the %s on %s." 你在%2之上使用了%1。
 ItemLogs."%s shines brightly for a moment." 刹那间，%s闪耀出光芒。
 ItemLogs."%s emits darkness for a moment." 刹那间，%s透着黑暗。
 ItemLogs."You name your %s as %s." 你将你的%s命名为%s。
@@ -1460,8 +1458,8 @@ ItemSets."Re-roll clearcast (Celestial)." 重掷沉静施法（天使系）。
 ItemSets."Re-roll clearcast (Draconic)." 重掷沉静施法（龙系）。
 ItemSets."Re-roll clearcast (Infernal)." 重掷沉静施法（地狱系）。
 ItemSets."Reduce Arcane cooldown by 50%." 减少奥术冷却时间 50% 。
-ItemSets."Re-roll clearcast (Bestial)." Re-roll clearcast (Bestial).
-ItemSets."Re-roll clearcast (Abyssal)." Re-roll clearcast (Abyssal).
+ItemSets."Re-roll clearcast (Bestial)." 重掷沉静施法（兽性）。
+ItemSets."Re-roll clearcast (Abyssal)." 重掷沉静施法（深渊）
 ItemSets."Heals D6 points per turn." 每回合治疗 D6 点。
 ItemSets."Befriend daemons." 成为恶魔的朋友。
 AddonNames."Padded Spaulders" 棉护肩
@@ -2264,9 +2262,9 @@ TomeDescs."BestialTomeDesc" @(30)你在典籍上认出了一个兽性符记。�
 TomeDescs."AbyssalTomeDesc" @(30)你在典籍上认出了一个深渊符记。不过你想可能还是应该先鉴定一下再读。
 TomeDescs."UnknownTomeDesc" @(30)这本典籍看起来是用一些未知语言撰写的。
 TomeLogs."You begin to read %s." 你开始阅读 %s。
-TomeLogs."One of your black soul gems is consumed by the tome." One of your black soul gems is consumed by the tome.
+TomeLogs."One of your black soul gems is consumed by the tome." 你的一颗黑魂晶被典籍消耗掉了。
 TomeLogs."You begin to read an unknown tome." 你开始阅读一本未知的典籍。
-TomeLogs."You open the tome at the bookmark and check out the nine inch males." 你翻到这本典籍的书签处，查阅那个 23 厘米的男性。
+TomeLogs."You open the tome at the bookmark and check out the nine inch males." 你翻到这本典籍的书签处，查阅那个二十三厘米的男性。
 TomeLogs."You open the tome at the bookmark and check out the ladies. Ooh la la!" 你翻到这本典籍的书签处，查阅那个女士。哇哦！
 TomeLogs."You finish reading the tome and learn how to cast %s." 你读完了这本典籍，学会了施放%s.
 TomeLogs."You browse through the appendix and also learn how to cast %s." 你从附录开始阅览，也学会了施放%s。
@@ -2393,11 +2391,11 @@ WandLogs."You don't have room for the duplicated %s." 你没有空间复制%s。
 WeaponNames."Fist" 拳头
 WeaponNames."Stone" 石块
 WeaponNames."Barbed Whip" 荆棘之鞭
-WeaponNames."Serrated Arm" Serrated Arm
+WeaponNames."Serrated Arm" 锯齿臂
 WeaponNames."Massive Claw" 巨爪
 WeaponNames."Corrosive Bite" 侵蚀之咬
 WeaponNames."Ferocius Bite" 暴虐之咬
-WeaponNames."Spectral Bite" Spectral Bite
+WeaponNames."Spectral Bite" 幽灵之咬
 WeaponNames."Infectious Bite" 瘟疫之咬
 WeaponNames."Vampiric Bite" 吸血之咬
 WeaponNames."Venomous Bite" 毒液之咬
@@ -2595,7 +2593,7 @@ CreatureNames."Rat swarm" 鼠群
 CreatureNames."Snake swarm" 蛇群
 CreatureNames."Spider swarm" 蜘蛛群
 CreatureNames."Snail swarm" 蜗牛群
-CreatureNames."Spirit wolf" Spirit wolf
+CreatureNames."Spirit wolf" 狼精
 CreatureNames."Boss" 首领
 CreatureNames."Gurmur" 咕呣
 CreatureNames."Daemon" 恶魔
@@ -2674,8 +2672,8 @@ CreatureNames."Treeman" 树人
 CreatureNames."Demonrat" 魔鼠
 CreatureNames."Dreadlord Nabon" 黑暗之主腊崩
 CreatureNames."Triggered Demonrat" 触发的魔鼠
-CreatureNames."Abyssal claw" Abyssal claw
-CreatureNames."Dancing weapon" Dancing weapon
+CreatureNames."Abyssal claw" 深渊之爪
+CreatureNames."Dancing weapon" 跳舞的武器
 CreatureNames."Orc" 兽人
 CreatureNames."Orc grunt" 兽人步兵
 CreatureNames."Orc archer" 兽人弓箭手
@@ -2917,11 +2915,10 @@ TileLogs."STEP_ON_GATE_TRIGGER" 你踩到%s，听到一些机械的声音。
 TileLogs."YOU_SEE_ALARM_TRIGGER" 你看见%s，上面有一组铃铛。
 TileLogs."YOU_SEE_CRUSH_TRIGGER" 你看见%s，连着天花板上的一块巨石。
 TileLogs."YOU_SEE_GATE_TRIGGER" 你看见%s，似乎连接着附近的一道闸门。
-RIPTitles."R.I.P." R.I.P.
+RIPTitles."R.I.P." 墓碑
 RIPTitles."Here lies %s." %s 在此长眠。
-# TODO 需要交换，第一个是名字 第二个是称谓
-RIPTitles."Here lies %s the %s." %s %s 在此长眠。
-RIPTitles."Here lies %s from %s %s." %s 在此长眠，来自 %s %s 。
+RIPTitles."Here lies %s the %s." %2%1在此长眠。
+RIPTitles."Here lies %s from %s %s." 来自%2%3的%1在此长眠。
 RIPTitles."----------" ——————————
 RIPTitles."Archer" 射手
 RIPTitles."Bowman" 弓箭手
@@ -3637,7 +3634,7 @@ ChallengeNames."Path of Kindness" 友善之路
 ChallengeNames."Path of Cruelty" 残忍之路
 ChallengeNames."Path of Fairness" 公平之路
 ChallengeNames."Path of Compassion" 怜悯之路
-ChallengeNames."Indivisible Greed" Indivisible Greed
+ChallengeNames."Indivisible Greed" 无尽贪婪
 ChallengeDescs."Unlocks &quot;%s&quot; title." 解锁 &quot;%s&quot; 头衔。
 ChallengeDescs."This challenge can't be unlocked on casual difficulty level." @(26)这项挑战无法在休闲难度级别下完成。
 ChallengeDescs."The description of this challenge is hidden until it is completed." @(26)这项挑战的说明只有在完成后才可见。
@@ -3755,7 +3752,7 @@ ChallengeDescs."Path of Fairness" %s
 ChallengeDescs."Path of Fairness".1 If @(26)如果你测试的答案中只有公正的，你会被视为'%s'。
 ChallengeDescs."Path of Compassion" %s 
 ChallengeDescs."Path of Compassion".1 @(26)如果你测试的答案中只有温和的，你会被视为'%s'。
-ChallengeDescs."Indivisible Greed" This challenge can be completed by reseting a dungeon after meeting three angry pops.
+ChallengeDescs."Indivisible Greed" @(26)这项挑战可以在遭遇三个愤怒的人后重置地牢来完成。
 ChallengeTitles."Select Title" 选择头衔
 ChallengeTitles."the Alchemist" 炼金师
 ChallengeTitles."the Archer" 射手
@@ -3816,7 +3813,7 @@ ChallengeTitles."the Kind" 友好的
 ChallengeTitles."the Cruel" 残忍的
 ChallengeTitles."the Fair" 公平的
 ChallengeTitles."the Gentle" 温和的
-ChallengeTitles."the Greedy" the Greedy
+ChallengeTitles."the Greedy" 贪婪的
 GameLogic."You die. Press %s to continue." 你死了。按下 %s 继续。
 GameLogic."You are asleep and miss your turn." 你睡着了，失去了一个回合。
 GameLogic."You are paralysed and miss your turn." 你被麻痹了，失去了一个回合。
@@ -3893,8 +3890,8 @@ GameScreen."You can't cast spells or use talents while blinded." 你在盲眼状
 GameScreen."You can't cast spells or use talents while confused." 你在混乱状态下无法施放法术或使用天赋。
 GameScreen."You can't cast spells or use talents while polymorphed." 被变形时，你无法施放法术或使用天赋。
 GameScreen."You can't cast spells or use talents while shapeshifted." 你在变身状态下无法施放法术或使用天赋。
-GameScreen."You can't cast spells or change hotkeys while silenced." You can't cast spells or change hotkeys while silenced.
-GameScreen."You can't cast spells while silenced." You can't cast spells while silenced.
+GameScreen."You can't cast spells or change hotkeys while silenced." 你在沉默状态下无法施法或改变热键。
+GameScreen."You can't cast spells while silenced." 你在沉默状态下无法施法。
 GameScreen."You can't look around while blinded." 你在盲眼状态下无法观察四周。
 GameScreen."You can't look around while confused." 你在混乱状态下无法观察四周。
 GameScreen."Select a target to look at and press %s:" 选择一个观察的目标，然后按下 %s：
@@ -4013,9 +4010,9 @@ SpellbookWindow."You can't cast arcane spells without an amulet." 没有项链�
 SpellbookWindow."You can't cast bestial spells without a bull horn." 没有牛角不能施放兽性法术。
 SpellbookWindow."You can't cast abyssal spells without a pyramidion." 没有金字塔无法施放深渊法术。
 SpellbookWindow."You can't cast release soul without a soul gem." 没有灵魂石无法释放灵魂。
-SpellbookWindow."You can't cast shroom grenade without a blood cap." You can't cast shroom grenade without a blood cap.
-SpellbookWindow."You can't cast army of the dead without a soul gem." You can't cast army of the dead without a soul gem.
-SpellbookWindow."You can't cast ritual sacrifice without an amulet of sacrifice." You can't cast ritual sacrifice without an amulet of sacrifice.
+SpellbookWindow."You can't cast shroom grenade without a blood cap." 你无法没有血蘑菇来施放蘑菇手榴弹。
+SpellbookWindow."You can't cast army of the dead without a soul gem." 你没有魂晶来释放死亡军团。
+SpellbookWindow."You can't cast ritual sacrifice without an amulet of sacrifice." 你没有献祭项链来释放祭祀仪式。
 SpellbookWindow."The spell is on a cooldown with %d turns remaining." 这个法术还在冷却中，还剩 %d 回合。
 SpellbookWindow."You can't cast spells while blinded." 你不能在盲眼时施放法术。
 SpellbookWindow."You can't cast spells while confused." 你不能在混乱时施放法术。

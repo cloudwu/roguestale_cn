@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190603)" checksum="f36e01fe6229cea2063f2ac9dd05055ff5558cd9">
+<strings version="Version 2.00 Beta 1 (190603)" checksum="309ebb2fc2bc1e7023d9b1fbba19941b27f2ff4e">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -76,9 +76,9 @@
       <str id="paragraph 3" value="A key bind can be removed by clicking the button." local="点一下按钮可以清除与之绑定的按键。"/>
     </str>
     <str id="LOADING_SCREEN_DESC" value="Injecting blood into daemons, please wait..." local="正在给恶魔注入鲜血，请稍候……"/>
-    <str id="Sort items vertically" value="Sort items vertically"/>
-    <str id="Skip null log strings" value="Skip null log strings"/>
-    <str id="Use 3 button mouse" value="Use 3 button mouse"/>
+    <str id="Sort items vertically" value="Sort items vertically" local="纵向排序物品"/>
+    <str id="Skip null log strings" value="Skip null log strings" local="忽略空的日志字符串"/>
+    <str id="Use 3 button mouse" value="Use 3 button mouse" local="使用三键鼠标"/>
   </Labels>
   <Buttons>
     <str id="Accept" value="Accept" local="接受"/>
@@ -111,39 +111,39 @@
     <str id="Close" value="Close" local="关闭"/>
   </Buttons>
   <KeyNames>
-    <str id="Loot" value="Loot"/>
-    <str id="Pri. Use" value="Pri. Use"/>
-    <str id="Sec. Use" value="Sec. Use"/>
-    <str id="Enter" value="Enter"/>
-    <str id="Hotkey 1" value="Hotkey 1"/>
-    <str id="Hotkey 2" value="Hotkey 2"/>
-    <str id="Hotkey 3" value="Hotkey 3"/>
-    <str id="Hotkey 4" value="Hotkey 4"/>
-    <str id="Hotkey 5" value="Hotkey 5"/>
-    <str id="Hotkey 6" value="Hotkey 6"/>
-    <str id="Hotkey 7" value="Hotkey 7"/>
-    <str id="Chat" value="Chat"/>
-    <str id="Jump" value="Jump"/>
-    <str id="Swap" value="Swap"/>
-    <str id="Equip" value="Equip"/>
-    <str id="Sort" value="Sort"/>
-    <str id="Travel" value="Travel"/>
-    <str id="Attack" value="Attack"/>
-    <str id="Search" value="Search"/>
-    <str id="Drop" value="Drop"/>
-    <str id="Throw" value="Throw"/>
-    <str id="Focus" value="Focus"/>
-    <str id="Cast" value="Cast"/>
-    <str id="Look" value="Look"/>
-    <str id="Move N" value="Move N"/>
-    <str id="Move S" value="Move S"/>
-    <str id="Move E" value="Move E"/>
-    <str id="Move W" value="Move W"/>
-    <str id="Move NE" value="Move NE"/>
-    <str id="Move SE" value="Move SE"/>
-    <str id="Move NW" value="Move NW"/>
-    <str id="Move SW" value="Move SW"/>
-    <str id="Rest" value="Rest"/>
+    <str id="Loot" value="Loot" local="拾取"/>
+    <str id="Pri. Use" value="Pri. Use" local="主要使用"/>
+    <str id="Sec. Use" value="Sec. Use" local="次要使用"/>
+    <str id="Enter" value="Enter" local="进入"/>
+    <str id="Hotkey 1" value="Hotkey 1" local="热键 1"/>
+    <str id="Hotkey 2" value="Hotkey 2" local="热键 2"/>
+    <str id="Hotkey 3" value="Hotkey 3" local="热键 3"/>
+    <str id="Hotkey 4" value="Hotkey 4" local="热键 4"/>
+    <str id="Hotkey 5" value="Hotkey 5" local="热键 5"/>
+    <str id="Hotkey 6" value="Hotkey 6" local="热键 6"/>
+    <str id="Hotkey 7" value="Hotkey 7" local="热键 7"/>
+    <str id="Chat" value="Chat" local="聊天"/>
+    <str id="Jump" value="Jump" local="跳跃"/>
+    <str id="Swap" value="Swap" local="交换"/>
+    <str id="Equip" value="Equip" local="装备"/>
+    <str id="Sort" value="Sort" local="排序"/>
+    <str id="Travel" value="Travel" local="旅行"/>
+    <str id="Attack" value="Attack" local="攻击"/>
+    <str id="Search" value="Search" local="搜索"/>
+    <str id="Drop" value="Drop" local="丢弃"/>
+    <str id="Throw" value="Throw" local="投掷"/>
+    <str id="Focus" value="Focus" local="聚焦"/>
+    <str id="Cast" value="Cast" local="施法"/>
+    <str id="Look" value="Look" local="观察"/>
+    <str id="Move N" value="Move N" local="向北移动"/>
+    <str id="Move S" value="Move S" local="向南移动"/>
+    <str id="Move E" value="Move E" local="向东移动"/>
+    <str id="Move W" value="Move W" local="向西移动"/>
+    <str id="Move NE" value="Move NE" local="向东北移动"/>
+    <str id="Move SE" value="Move SE" local="向东南移动"/>
+    <str id="Move NW" value="Move NW" local="向西北移动"/>
+    <str id="Move SW" value="Move SW" local="向西南移动"/>
+    <str id="Rest" value="Rest" local="休息"/>
   </KeyNames>
   <KeyDescs>
     <str id="Loot" value="This key shows the items on the ground while it is pressed." local="这个按键按下时显示地上的物品。"/>
@@ -281,8 +281,8 @@
     <str id="Pay the price (%dg)" value="Pay the price (%dg)" local="支付（%d 金）"/>
     <str id="Consider him shaved!" value="Consider him shaved!" local="准备给他修面！"/>
     <str id="Yeah, yeah, I'm going!" value="Yeah, yeah, I'm going!" local="好的好的，我会去的！"/>
-    <str id="Itchy-bitchy die die!" value="Itchy-bitchy die die!"/>
-    <str id="I hope they have gold!" value="I hope they have gold!"/>
+    <str id="Itchy-bitchy die die!" value="Itchy-bitchy die die!" local="骚婊子，去死吧！"/>
+    <str id="I hope they have gold!" value="I hope they have gold!" local="希望他们有钱！"/>
     <str id="How hard can it be?!?" value="How hard can it be?!?" local="能有多难?!?"/>
     <str id="Heh, sure, I got this!" value="Heh, sure, I got this!" local="嘿，当然，我了解了！"/>
     <str id="Accept the quest" value="Accept the quest" local="接受任务"/>
@@ -291,7 +291,7 @@
     <str id="Monster Hunt" value="Monster Hunt" local="狩猎巨怪"/>
     <str id="Bandits' Hideout" value="Bandits' Hideout" local="土匪的巢穴"/>
     <str id="Ancient Sewer" value="Ancient Sewer" local="古代下水道"/>
-    <str id="Spider Cave" value="Spider Cave"/>
+    <str id="Spider Cave" value="Spider Cave" local="蜘蛛洞"/>
     <str id="Cultists' Lair" value="Cultists' Lair" local="邪教徒的巢穴"/>
     <str id="Nabon's Castle" value="Nabon's Castle" local="腊崩的城堡"/>
     <str id="Frostmourn Keep" value="Frostmourn Keep" local="霜之哀伤城楼"/>
@@ -310,16 +310,16 @@
       <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail." local="注意，一旦你接受了任务，你就必须&#10;在离开地牢前完成这个任务，否则就&#10;算任务失败。"/>
     </str>
     <str id="SPAWN_EQUALIZER" value="You accept the quest and head out to find any unique items." local="你接受了任务，出发寻找独特物品。"/>
-    <str id="SPIDER_CAVE_DESC" value="It seems that some eight-legged rabbits have made their nest too close to a wealthy merchant's trade route.">
-      <str id="paragraph 1" value="Your job is to kill them all and in return you will have 1000 gold coins deposited into your bank account."/>
-      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail."/>
+    <str id="SPIDER_CAVE_DESC" value="It seems that some eight-legged rabbits have made their nest too close to a wealthy merchant's trade route." local="似乎有一些八条腿的兔子把它们的窝&#10;筑得离富商的贸易路线太近了。">
+      <str id="paragraph 1" value="Your job is to kill them all and in return you will have 1000 gold coins deposited into your bank account." local="你的工作是消灭它们。作为回报，将&#10;有 1000 金币存入你的银行账户。"/>
+      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail." local="注意，一旦你接受了任务，你就必须&#10;在离开地牢前完成这个任务，否则就&#10;算任务失败。"/>
     </str>
-    <str id="SPAWN_SPIDER_CAVE" value="You accept the quest and head out to slay some spiders."/>
-    <str id="WORSHIPPERS_DESC" value="Every time you go to sleep another death cult appears. These guys have even come up with their own spells.">
-      <str id="paragraph 1" value="The Wizard's Guild doesn't seem to like competition and they would like you to go and take care of the problem."/>
-      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail."/>
+    <str id="SPAWN_SPIDER_CAVE" value="You accept the quest and head out to slay some spiders." local="你接受了任务，出发去杀蜘蛛。"/>
+    <str id="WORSHIPPERS_DESC" value="Every time you go to sleep another death cult appears. These guys have even come up with their own spells." local="每次你睡觉时，另一些死亡信徒就会&#10;出现。这些家伙甚至想出了自己的法&#10;术。">
+      <str id="paragraph 1" value="The Wizard's Guild doesn't seem to like competition and they would like you to go and take care of the problem." local="法师行会似乎不喜欢竞争，他们希望&#10;你去解决这个问题。"/>
+      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail." local="注意，一旦你接受了任务，你就必须&#10;在离开地牢前完成这个任务，否则就&#10;算任务失败。"/>
     </str>
-    <str id="SPAWN_WORSHIPPERS" value="You accept the quest and head out to do some justified murdering."/>
+    <str id="SPAWN_WORSHIPPERS" value="You accept the quest and head out to do some justified murdering." local="你接受了任务，出发去执行正当的刺杀。"/>
     <str id="GURMUR_DESC" value="Some cultists have come up with a plan to take over the world by waking up an old monster that should've stayed dead." local="一些邪教徒开启了一个计划，想唤醒&#10;一个本已死去的老怪物来征服世界。">
       <str id="paragraph 1" value="Obviously that is bad but what is even worse is that those cultists are carrying a lot of gold that should be yours." local="这当然很糟糕，但还有更糟的事情是&#10;哪些邪教徒带走了本该属于你的大量&#10;金币。"/>
       <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail." local="注意，一旦你接受了任务，你就必须&#10;在离开地牢前完成这个任务，否则就&#10;算任务失败。"/>
@@ -562,81 +562,81 @@
   </JumpLogs>
   <AttackLogs>
     <str id="Your killing blow mortally hits %s" value="Your killing blow mortally hits %s" local="你的致命一击准确命中 %s"/>
-    <str id="You critically hit %s with %s" value="You critically hit %s with %s" local="%s 被你用 %s 暴击了"/>
-    <str id="You hit %s with %s" value="You hit %s with %s" local="%s 被你用 %s 击中"/>
-    <str id="%s's killing blow mortally hits you" value="%s's killing blow mortally hits you" local="%s 的致命一击正中了你"/>
-    <str id="%s critically hits %s with %s" value="%s critically hits %s with %s" local="%s 发起了攻击，%s 被他的 %s 暴击了"/>
-    <str id="%s hits %s with %s" value="%s hits %s with %s" local="%s 发起了攻击，%s 被他的 %s 击中"/>
+    <str id="You critically hit %s with %s" value="You critically hit %s with %s" local="你用%2暴击了%1"/>
+    <str id="You hit %s with %s" value="You hit %s with %s" local="你用%2击中了%1"/>
+    <str id="%s's killing blow mortally hits you" value="%s's killing blow mortally hits you" local="%s的致命一击正中了你"/>
+    <str id="%s critically hits %s with %s" value="%s critically hits %s with %s" local="%1用%3暴击了%2"/>
+    <str id="%s hits %s with %s" value="%s hits %s with %s" local="%1用%3击中了%2"/>
     <str id=", but all damage is resisted." value=", but all damage is resisted." local="，不过所有的伤害都被抵抗。"/>
     <str id=", but all damage is reflected back!" value=", but all damage is reflected back!" local="，不过所有的伤害都被反弹！"/>
     <str id=", but half of the damage is reflected back!" value=", but half of the damage is reflected back!" local="，不过有一半的伤害被反弹！"/>
-    <str id="You miss %s with %s." value="You miss %s with %s." local="你没能击中 %s ，你的 %s 落空了。"/>
-    <str id="%s misses you with %s." value="%s misses you with %s." local="%s 没能击中你，他的 %s 落空了。"/>
-    <str id="Your attack is blocked by %s." value="Your attack is blocked by %s." local="你的攻击被 %s 格挡了。"/>
-    <str id="Your %s is blocked by %s." value="Your %s is blocked by %s." local="你的 %s 被 %s 格挡了。"/>
-    <str id="You block %s's attack." value="You block %s's attack." local="你格挡了 %s 的攻击。"/>
-    <str id="You block %s's %s." value="You block %s's %s." local="你格挡了 %s 的 %s。"/>
-    <str id="Your attack is dodged by %s." value="Your attack is dodged by %s." local="你的攻击被 %s 闪避了。"/>
-    <str id="Your %s is dodged by %s." value="Your %s is dodged by %s." local="你的 %s 被 %s 闪避了。"/>
-    <str id="You dodge %s's attack." value="You dodge %s's attack." local="你闪避了 %s 的攻击。"/>
-    <str id="You dodge %s's %s." value="You dodge %s's %s." local="你闪避了 %s 的 %s 。"/>
-    <str id="Your attack is parried by %s." value="Your attack is parried by %s." local="你的攻击被 %s 招架了。"/>
-    <str id="Your %s is parried by %s." value="Your %s is parried by %s." local="你的 %s 被 %s 招架了。"/>
-    <str id="You parry %s's attack." value="You parry %s's attack." local="你招架了 %s 的攻击。"/>
-    <str id="You parry %s's %s." value="You parry %s's %s." local="你招架了 %s 的 %s。"/>
-    <str id="You perform a counter attack and shoot a bolt at %s with your wristbow." value="You perform a counter attack and shoot a bolt at %s with your wristbow." local="你做出了反击，向 %s 射出一发袖箭。"/>
-    <str id="%s performs a counter attack and shoots a bolt at you with a wristbow." value="%s performs a counter attack and shoots a bolt at you with a wristbow." local="%s 做出了反击，向你射出一发袖箭。"/>
-    <str id="Your shield bash critically hits %s" value="Your shield bash critically hits %s" local="你的盾击对 %s 造成了暴击。"/>
-    <str id="Your shield bash hits %s" value="Your shield bash hits %s" local="你用盾击中了 %s"/>
-    <str id="%s's shield bash critically hits you" value="%s's shield bash critically hits you" local="%s 的盾击对你造成了暴击"/>
-    <str id="%s's shield bash hits you" value="%s's shield bash hits you" local="%s 用盾击中了你"/>
-    <str id="Your shield bash misses %s." value="Your shield bash misses %s." local="你的盾击没有打中 %s。"/>
-    <str id="%s's shield bash misses you." value="%s's shield bash misses you." local="%s 的盾击没有打中你。"/>
-    <str id="You charge at %s." value="You charge at %s." local="你向 %s 发起了冲锋。"/>
-    <str id="%s charges at %s." value="%s charges at %s." local="%s 向 %s 发起了冲锋。"/>
+    <str id="You miss %s with %s." value="You miss %s with %s." local="你的%2没能击中%1。"/>
+    <str id="%s misses you with %s." value="%s misses you with %s." local="%s的%s没能击中你。"/>
+    <str id="Your attack is blocked by %s." value="Your attack is blocked by %s." local="你的攻击被%s格挡了。"/>
+    <str id="Your %s is blocked by %s." value="Your %s is blocked by %s." local="你的%s被%s格挡了。"/>
+    <str id="You block %s's attack." value="You block %s's attack." local="你格挡了%s的攻击。"/>
+    <str id="You block %s's %s." value="You block %s's %s." local="你格挡了%s的%s。"/>
+    <str id="Your attack is dodged by %s." value="Your attack is dodged by %s." local="你的攻击被%s闪避了。"/>
+    <str id="Your %s is dodged by %s." value="Your %s is dodged by %s." local="你的%s被%s闪避了。"/>
+    <str id="You dodge %s's attack." value="You dodge %s's attack." local="你闪避了%s的攻击。"/>
+    <str id="You dodge %s's %s." value="You dodge %s's %s." local="你闪避了%s的%s。"/>
+    <str id="Your attack is parried by %s." value="Your attack is parried by %s." local="你的攻击被%s招架了。"/>
+    <str id="Your %s is parried by %s." value="Your %s is parried by %s." local="你的%s被%s招架了。"/>
+    <str id="You parry %s's attack." value="You parry %s's attack." local="你招架了%s的攻击。"/>
+    <str id="You parry %s's %s." value="You parry %s's %s." local="你招架了%s的%s。"/>
+    <str id="You perform a counter attack and shoot a bolt at %s with your wristbow." value="You perform a counter attack and shoot a bolt at %s with your wristbow." local="你做出了反击，向%s射出一发袖箭。"/>
+    <str id="%s performs a counter attack and shoots a bolt at you with a wristbow." value="%s performs a counter attack and shoots a bolt at you with a wristbow." local="%s做出了反击，向你射出一发袖箭。"/>
+    <str id="Your shield bash critically hits %s" value="Your shield bash critically hits %s" local="你的盾击对%s造成了暴击。"/>
+    <str id="Your shield bash hits %s" value="Your shield bash hits %s" local="你用盾击中了%s"/>
+    <str id="%s's shield bash critically hits you" value="%s's shield bash critically hits you" local="%s的盾击对你造成了暴击"/>
+    <str id="%s's shield bash hits you" value="%s's shield bash hits you" local="%s用盾击中了你"/>
+    <str id="Your shield bash misses %s." value="Your shield bash misses %s." local="你的盾击没有打中%s。"/>
+    <str id="%s's shield bash misses you." value="%s's shield bash misses you." local="%s的盾击没有打中你。"/>
+    <str id="You charge at %s." value="You charge at %s." local="你向%s发起了冲锋。"/>
+    <str id="%s charges at %s." value="%s charges at %s." local="%s向%s发起了冲锋。"/>
     <str id="You can't charge there." value="You can't charge there." local="你不能向那里冲锋。"/>
     <str id="You can't charge adjacent targets." value="You can't charge adjacent targets." local="你不能向邻接的目标冲锋。"/>
-    <str id="%s misses its target and critically hits %s instead" value="%s misses its target and critically hits %s instead" local="%s 没有命中目标，但暴击了 %s"/>
-    <str id="%s miss their target and critically hit %s instead" value="%s miss their target and critically hit %s instead" local="%s 没有命中他的目标，但暴击了 %s"/>
-    <str id="%s misses its target and hits %s instead" value="%s misses its target and hits %s instead" local="%s 没有命中它的目标，但击中了 %s"/>
-    <str id="%s miss their target and hit %s instead" value="%s miss their target and hit %s instead" local="%s 没有命中它们的目标，但击中了 %s"/>
-    <str id="%s misses its target and lands on %s." value="%s misses its target and lands on %s." local="%s 没有命中它的目标，落在了 %s 上面。"/>
-    <str id="%s miss their target and land on %s." value="%s miss their target and land on %s." local="%s 没有命中它们的目标，落在了 %s 上面。"/>
-    <str id="%s misses its target and breaks when it hits %s." value="%s misses its target and breaks when it hits %s." local="%s 没有命中它的目标，击中 %s 后损毁了。"/>
-    <str id="%s miss their target and break when they hit %s." value="%s miss their target and break when they hit %s." local="%s 没有命中它的目标，击中 %s 后损毁了。"/>
-    <str id="%s critically hits %s" value="%s critically hits %s" local="%s 对 %s 造成了暴击。"/>
-    <str id="%s hits %s" value="%s hits %s" local="%s 击中了 %s"/>
-    <str id="%s hit %s" value="%s hit %s" local="%s 击中了 %s"/>
-    <str id="%s lands on %s." value="%s lands on %s." local="%s 落在了 %s 上面。"/>
-    <str id="%s land on %s." value="%s land on %s." local="%s 落在了 %s 上面。"/>
-    <str id="%s breaks when it hits %s." value="%s breaks when it hits %s." local="%s 击中 %s 后损毁了。"/>
-    <str id="%s break when they hit %s." value="%s break when they hit %s." local="%s 击中 %s 后损毁了。"/>
-    <str id="You throw %s in the fire and cook it." value="You throw %s in the fire and cook it." local="你把 %s 扔进火堆，把它烤熟了。"/>
-    <str id="You shoot a multi shot at %s." value="You shoot a multi shot at %s." local="你连发射向 %s 。"/>
-    <str id="%s shoots a multi shot at %s." value="%s shoots a multi shot at %s." local="%s 连发射向 %s 。"/>
+    <str id="%s misses its target and critically hits %s instead" value="%s misses its target and critically hits %s instead" local="%s没有命中目标，但暴击了%s"/>
+    <str id="%s miss their target and critically hit %s instead" value="%s miss their target and critically hit %s instead" local="%s没有命中他的目标，但暴击了%s"/>
+    <str id="%s misses its target and hits %s instead" value="%s misses its target and hits %s instead" local="%s没有命中它的目标，但击中了%s"/>
+    <str id="%s miss their target and hit %s instead" value="%s miss their target and hit %s instead" local="%s没有命中它们的目标，但击中了%s"/>
+    <str id="%s misses its target and lands on %s." value="%s misses its target and lands on %s." local="%s没有命中它的目标，落在了%s上面。"/>
+    <str id="%s miss their target and land on %s." value="%s miss their target and land on %s." local="%s没有命中它们的目标，落在了%s上面。"/>
+    <str id="%s misses its target and breaks when it hits %s." value="%s misses its target and breaks when it hits %s." local="%s没有命中它的目标，击中%s后损毁了。"/>
+    <str id="%s miss their target and break when they hit %s." value="%s miss their target and break when they hit %s." local="%s没有命中它的目标，击中%s后损毁了。"/>
+    <str id="%s critically hits %s" value="%s critically hits %s" local="%s对%s造成了暴击。"/>
+    <str id="%s hits %s" value="%s hits %s" local="%s击中了%s"/>
+    <str id="%s hit %s" value="%s hit %s" local="%s击中了%s"/>
+    <str id="%s lands on %s." value="%s lands on %s." local="%s落在了%s上面。"/>
+    <str id="%s land on %s." value="%s land on %s." local="%s落在了%s上面。"/>
+    <str id="%s breaks when it hits %s." value="%s breaks when it hits %s." local="%s击中%s后损毁了。"/>
+    <str id="%s break when they hit %s." value="%s break when they hit %s." local="%s击中%s后损毁了。"/>
+    <str id="You throw %s in the fire and cook it." value="You throw %s in the fire and cook it." local="你把%s扔进火堆，把它烤熟了。"/>
+    <str id="You shoot a multi shot at %s." value="You shoot a multi shot at %s." local="你连发射向%s。"/>
+    <str id="%s shoots a multi shot at %s." value="%s shoots a multi shot at %s." local="%s连发射向%s。"/>
     <str id="You can't shoot multi shot there." value="You can't shoot multi shot there." local="你不能连发向那里射击。"/>
-    <str id="You shoot %s at %s." value="You shoot %s at %s." local="你将 %s 射向 %s 。"/>
-    <str id="%s shoots %s at %s." value="%s shoots %s at %s." local="%s 将 %s 射向 %s 。"/>
+    <str id="You shoot %s at %s." value="You shoot %s at %s." local="你将%s射向%s 。"/>
+    <str id="%s shoots %s at %s." value="%s shoots %s at %s." local="%s将%s射向%s 。"/>
     <str id="You can't shoot there." value="You can't shoot there." local="你不能射向那里。"/>
     <str id="You can't shoot where you can't see." value="You can't shoot where you can't see." local="你不能向你看不见的地方射击。"/>
-    <str id="You throw %s at %s." value="You throw %s at %s." local="你把 %s 向 %s 扔过去。"/>
-    <str id="%s throws %s at %s." value="%s throws %s at %s." local="%s 把 %s 向 %s 扔过去。"/>
-    <str id="You can't throw %s there." value="You can't throw %s there." local="你不能把 %s 扔去那里。"/>
+    <str id="You throw %s at %s." value="You throw %s at %s." local="你把%s向%s扔过去。"/>
+    <str id="%s throws %s at %s." value="%s throws %s at %s." local="%s把%s向%s扔过去。"/>
+    <str id="You can't throw %s there." value="You can't throw %s there." local="你不能把%s扔去那里。"/>
     <str id="You can't throw where you can't see." value="You can't throw where you can't see." local="你不能向你看不见的地方投掷。"/>
-    <str id="%s snaps %s and swallows it whole." value="%s snaps %s and swallows it whole." local="%s 咬住 %s 整个吞了下去。"/>
-    <str id="%s snaps %s and drains its power." value="%s snaps %s and drains its power." local="%s 咬住 %s 吸取了它的能量。"/>
-    <str id="%s folds around %s's neck and it is equipped." value="%s folds around %s's neck and it is equipped." local="%s 环绕着 %s 的脖子，装备上了。"/>
-    <str id="Polymorphed cave bear snaps %s and swallows it whole." value="Polymorphed cave bear snaps %s and swallows it whole." local="被变形的洞熊咬住 %s 整个吞了下去。"/>
+    <str id="%s snaps %s and swallows it whole." value="%s snaps %s and swallows it whole." local="%s咬住%s整个吞了下去。"/>
+    <str id="%s snaps %s and drains its power." value="%s snaps %s and drains its power." local="%s咬住%s吸取了它的能量。"/>
+    <str id="%s folds around %s's neck and it is equipped." value="%s folds around %s's neck and it is equipped." local="%s环绕着%s的脖子，装备上了。"/>
+    <str id="Polymorphed cave bear snaps %s and swallows it whole." value="Polymorphed cave bear snaps %s and swallows it whole." local="被变形的洞熊咬住%s整个吞了下去。"/>
     <str id="Oh my G'awd, rocks can no longer be turned into scrap!" value="Oh my G'awd, rocks can no longer be turned into scrap!" local="哦，我的天呐，岩石不再变成碎片！"/>
     <str id="You salvage a piece of reusable scrap from the debris." value="You salvage a piece of reusable scrap from the debris." local="你从残骸中抢救出一块可以再利用的碎片。"/>
-    <str id="You pull the trigger and shoot %s at %s." value="You pull the trigger and shoot %s at %s." local="你触动了扳机，把 %s 射向 %s 。"/>
+    <str id="You pull the trigger and shoot %s at %s." value="You pull the trigger and shoot %s at %s." local="你触动了扳机，把%s射向%s 。"/>
     <str id="You pull the trigger but nothing happens." value="You pull the trigger but nothing happens." local="你触动了扳机，但什么也没有发生。"/>
   </AttackLogs>
   <CastLogs>
-    <str id="You cast %s at %s." value="You cast %s at %s." local="你将%s施放到%s。"/>
-    <str id="You cast %s on %s." value="You cast %s on %s." local="你将%s施放在%s上面。"/>
-    <str id="%s casts %s at %s." value="%s casts %s at %s." local="%s将%s施放到%s。"/>
-    <str id="%s casts %s on %s." value="%s casts %s on %s." local="%s将%s施放在%s上面。"/>
+    <str id="You cast %s at %s." value="You cast %s at %s." local="你向%2释放了%1。"/>
+    <str id="You cast %s on %s." value="You cast %s on %s." local="你在%2之上释放了%1。"/>
+    <str id="%s casts %s at %s." value="%s casts %s at %s." local="%1向%3释放了%2。"/>
+    <str id="%s casts %s on %s." value="%s casts %s on %s." local="%1在%3之上释放了%2。"/>
     <str id="%s casts a spell at %s." value="%s casts a spell at %s." local="%s对%s施放了一个法术。"/>
     <str id="%s casts a spell on %s." value="%s casts a spell on %s." local="%s在%s上面施放了一个法术。"/>
     <str id="You cast %s on yourself." value="You cast %s on yourself." local="你对自己施放了%s。"/>
@@ -645,7 +645,7 @@
     <str id="You can't cast %s on yourself." value="You can't cast %s on yourself." local="你无法对自己施放%s。"/>
     <str id="You can't cast where you can't see." value="You can't cast where you can't see." local="你无法向你看不见的地方施法。"/>
     <str id="You choose not to cast %s at yourself." value="You choose not to cast %s at yourself." local="你选择不对自己施放%s。"/>
-    <str id="You start to cast %s." value="You start to cast %s."/>
+    <str id="You start to cast %s." value="You start to cast %s." local="你开始施展%s。"/>
     <str id="You start to cast a spell from %s." value="You start to cast a spell from %s." local="你开始从%s施放一个法术。"/>
     <str id="%s decides to zap you instead." value="%s decides to zap you instead." local="%s决定换成对你施术。"/>
     <str id="%s is cursed and it decides to zap you instead." value="%s is cursed and it decides to zap you instead." local="%s被诅咒了，它决定换成对你施术。"/>
@@ -1538,7 +1538,7 @@
     <str id="You gain knowledge about %s." value="You gain knowledge about %s." local="你获得了关于%s的知识。"/>
     <str id="You feel that you have forgotten something." value="You feel that you have forgotten something." local="你觉得你忘了些东西。"/>
     <str id="You feel dumber than a rock." value="You feel dumber than a rock." local="你觉得自己比石头还笨。"/>
-    <str id="You use the %s on %s." value="You use the %s on %s." local="你取出%s，将其对%s使用。"/>
+    <str id="You use the %s on %s." value="You use the %s on %s." local="你在%2之上使用了%1。"/>
     <str id="%s shines brightly for a moment." value="%s shines brightly for a moment." local="刹那间，%s闪耀出光芒。"/>
     <str id="%s emits darkness for a moment." value="%s emits darkness for a moment." local="刹那间，%s透着黑暗。"/>
     <str id="You name your %s as %s." value="You name your %s as %s." local="你将你的%s命名为%s。"/>
@@ -1587,8 +1587,8 @@
     <str id="Re-roll clearcast (Draconic)." value="Re-roll clearcast (Draconic)." local="重掷沉静施法（龙系）。"/>
     <str id="Re-roll clearcast (Infernal)." value="Re-roll clearcast (Infernal)." local="重掷沉静施法（地狱系）。"/>
     <str id="Reduce Arcane cooldown by 50%." value="Reduce Arcane cooldown by 50%." local="减少奥术冷却时间 50% 。"/>
-    <str id="Re-roll clearcast (Bestial)." value="Re-roll clearcast (Bestial)."/>
-    <str id="Re-roll clearcast (Abyssal)." value="Re-roll clearcast (Abyssal)."/>
+    <str id="Re-roll clearcast (Bestial)." value="Re-roll clearcast (Bestial)." local="重掷沉静施法（兽性）。"/>
+    <str id="Re-roll clearcast (Abyssal)." value="Re-roll clearcast (Abyssal)." local="重掷沉静施法（深渊）"/>
     <str id="Heals D6 points per turn." value="Heals D6 points per turn." local="每回合治疗 D6 点。"/>
     <str id="Befriend daemons." value="Befriend daemons." local="成为恶魔的朋友。"/>
   </ItemSets>
@@ -2458,8 +2458,8 @@
   <TomeLogs>
     <str id="You begin to read %s." value="You begin to read %s." local="你开始阅读 %s。"/>
     <str id="You begin to read an unknown tome." value="You begin to read an unknown tome." local="你开始阅读一本未知的典籍。"/>
-    <str id="One of your black soul gems is consumed by the tome." value="One of your black soul gems is consumed by the tome."/>
-    <str id="You open the tome at the bookmark and check out the nine inch males." value="You open the tome at the bookmark and check out the nine inch males." local="你翻到这本典籍的书签处，查阅那个 23 厘米的男性。"/>
+    <str id="One of your black soul gems is consumed by the tome." value="One of your black soul gems is consumed by the tome." local="你的一颗黑魂晶被典籍消耗掉了。"/>
+    <str id="You open the tome at the bookmark and check out the nine inch males." value="You open the tome at the bookmark and check out the nine inch males." local="你翻到这本典籍的书签处，查阅那个二十三厘米的男性。"/>
     <str id="You open the tome at the bookmark and check out the ladies. Ooh la la!" value="You open the tome at the bookmark and check out the ladies. Ooh la la!" local="你翻到这本典籍的书签处，查阅那个女士。哇哦！"/>
     <str id="You finish reading the tome and learn how to cast %s." value="You finish reading the tome and learn how to cast %s." local="你读完了这本典籍，学会了施放%s."/>
     <str id="You browse through the appendix and also learn how to cast %s." value="You browse through the appendix and also learn how to cast %s." local="你从附录开始阅览，也学会了施放%s。"/>
@@ -2598,11 +2598,11 @@
     <str id="Fist" value="Fist" local="拳头"/>
     <str id="Stone" value="Stone" local="石块"/>
     <str id="Barbed Whip" value="Barbed Whip" local="荆棘之鞭"/>
-    <str id="Serrated Arm" value="Serrated Arm"/>
+    <str id="Serrated Arm" value="Serrated Arm" local="锯齿臂"/>
     <str id="Massive Claw" value="Massive Claw" local="巨爪"/>
     <str id="Corrosive Bite" value="Corrosive Bite" local="侵蚀之咬"/>
     <str id="Ferocius Bite" value="Ferocius Bite" local="暴虐之咬"/>
-    <str id="Spectral Bite" value="Spectral Bite"/>
+    <str id="Spectral Bite" value="Spectral Bite" local="幽灵之咬"/>
     <str id="Infectious Bite" value="Infectious Bite" local="瘟疫之咬"/>
     <str id="Vampiric Bite" value="Vampiric Bite" local="吸血之咬"/>
     <str id="Venomous Bite" value="Venomous Bite" local="毒液之咬"/>
@@ -2808,7 +2808,7 @@
     <str id="Snake swarm" value="Snake swarm" local="蛇群"/>
     <str id="Spider swarm" value="Spider swarm" local="蜘蛛群"/>
     <str id="Snail swarm" value="Snail swarm" local="蜗牛群"/>
-    <str id="Spirit wolf" value="Spirit wolf"/>
+    <str id="Spirit wolf" value="Spirit wolf" local="狼精"/>
     <str id="Boss" value="Boss" local="首领"/>
     <str id="Gurmur" value="Gurmur" local="咕呣"/>
     <str id="Daemon" value="Daemon" local="恶魔"/>
@@ -2887,8 +2887,8 @@
     <str id="Demonrat" value="Demonrat" local="魔鼠"/>
     <str id="Dreadlord Nabon" value="Dreadlord Nabon" local="黑暗之主腊崩"/>
     <str id="Triggered Demonrat" value="Triggered Demonrat" local="触发的魔鼠"/>
-    <str id="Abyssal claw" value="Abyssal claw"/>
-    <str id="Dancing weapon" value="Dancing weapon"/>
+    <str id="Abyssal claw" value="Abyssal claw" local="深渊之爪"/>
+    <str id="Dancing weapon" value="Dancing weapon" local="跳舞的武器"/>
     <str id="Orc" value="Orc" local="兽人"/>
     <str id="Orc grunt" value="Orc grunt" local="兽人步兵"/>
     <str id="Orc archer" value="Orc archer" local="兽人弓箭手"/>
@@ -3138,10 +3138,10 @@
     <str id="YOU_SEE_GATE_TRIGGER" value="You see %s that seems to be connected to a gate nearby." local="你看见%s，似乎连接着附近的一道闸门。"/>
   </TileLogs>
   <RIPTitles>
-    <str id="R.I.P." value="R.I.P."/>
+    <str id="R.I.P." value="R.I.P." local="墓碑"/>
     <str id="Here lies %s." value="Here lies %s." local="%s 在此长眠。"/>
-    <str id="Here lies %s the %s." value="Here lies %s the %s." local="%s %s 在此长眠。"/>
-    <str id="Here lies %s from %s %s." value="Here lies %s from %s %s." local="%s 在此长眠，来自 %s %s 。"/>
+    <str id="Here lies %s the %s." value="Here lies %s the %s." local="%2%1在此长眠。"/>
+    <str id="Here lies %s from %s %s." value="Here lies %s from %s %s." local="来自%2%3的%1在此长眠。"/>
     <str id="----------" value="----------" local="——————————"/>
     <str id="Archer" value="Archer" local="射手"/>
     <str id="Bowman" value="Bowman" local="弓箭手"/>
@@ -3966,7 +3966,7 @@
     <str id="Path of Cruelty" value="Path of Cruelty" local="残忍之路"/>
     <str id="Path of Fairness" value="Path of Fairness" local="公平之路"/>
     <str id="Path of Compassion" value="Path of Compassion" local="怜悯之路"/>
-    <str id="Indivisible Greed" value="Indivisible Greed"/>
+    <str id="Indivisible Greed" value="Indivisible Greed" local="无尽贪婪"/>
   </ChallengeNames>
   <ChallengeDescs>
     <str id="Unlocks &quot;%s&quot; title." value="Unlocks &quot;%s&quot; title." local="解锁 &quot;%s&quot; 头衔。"/>
@@ -4125,7 +4125,7 @@
     <str id="Path of Compassion" value="%s" local="%s ">
       <str id="paragraph 1" value="If you answer the test with gentle answers only, you will be known as '%s'." local="如果你测试的答案中只有温和&#10;的，你会被视为'%s'。"/>
     </str>
-    <str id="Indivisible Greed" value="This challenge can be completed by reseting a dungeon after meeting three angry pops."/>
+    <str id="Indivisible Greed" value="This challenge can be completed by reseting a dungeon after meeting three angry pops." local="这项挑战可以在遭遇三个愤怒&#10;的人后重置地牢来完成。"/>
   </ChallengeDescs>
   <ChallengeTitles>
     <str id="Select Title" value="Select Title" local="选择头衔"/>
@@ -4188,7 +4188,7 @@
     <str id="the Cruel" value="the Cruel" local="残忍的"/>
     <str id="the Fair" value="the Fair" local="公平的"/>
     <str id="the Gentle" value="the Gentle" local="温和的"/>
-    <str id="the Greedy" value="the Greedy"/>
+    <str id="the Greedy" value="the Greedy" local="贪婪的"/>
   </ChallengeTitles>
   <GameLogic>
     <str id="You die. Press %s to continue." value="You die. Press %s to continue." local="你死了。按下 %s 继续。"/>
@@ -4269,8 +4269,8 @@
     <str id="You can't cast spells or use talents while confused." value="You can't cast spells or use talents while confused." local="你在混乱状态下无法施放法术或使用天赋。"/>
     <str id="You can't cast spells or use talents while polymorphed." value="You can't cast spells or use talents while polymorphed." local="被变形时，你无法施放法术或使用天赋。"/>
     <str id="You can't cast spells or use talents while shapeshifted." value="You can't cast spells or use talents while shapeshifted." local="你在变身状态下无法施放法术或使用天赋。"/>
-    <str id="You can't cast spells or change hotkeys while silenced." value="You can't cast spells or change hotkeys while silenced."/>
-    <str id="You can't cast spells while silenced." value="You can't cast spells while silenced."/>
+    <str id="You can't cast spells or change hotkeys while silenced." value="You can't cast spells or change hotkeys while silenced." local="你在沉默状态下无法施法或改变热键。"/>
+    <str id="You can't cast spells while silenced." value="You can't cast spells while silenced." local="你在沉默状态下无法施法。"/>
     <str id="You can't look around while blinded." value="You can't look around while blinded." local="你在盲眼状态下无法观察四周。"/>
     <str id="You can't look around while confused." value="You can't look around while confused." local="你在混乱状态下无法观察四周。"/>
     <str id="Select a target to look at and press %s:" value="Select a target to look at and press %s:" local="选择一个观察的目标，然后按下 %s："/>
@@ -4397,9 +4397,9 @@
     <str id="You can't cast bestial spells without a bull horn." value="You can't cast bestial spells without a bull horn." local="没有牛角不能施放兽性法术。"/>
     <str id="You can't cast abyssal spells without a pyramidion." value="You can't cast abyssal spells without a pyramidion." local="没有金字塔无法施放深渊法术。"/>
     <str id="You can't cast release soul without a soul gem." value="You can't cast release soul without a soul gem." local="没有灵魂石无法释放灵魂。"/>
-    <str id="You can't cast shroom grenade without a blood cap." value="You can't cast shroom grenade without a blood cap."/>
-    <str id="You can't cast army of the dead without a soul gem." value="You can't cast army of the dead without a soul gem."/>
-    <str id="You can't cast ritual sacrifice without an amulet of sacrifice." value="You can't cast ritual sacrifice without an amulet of sacrifice."/>
+    <str id="You can't cast shroom grenade without a blood cap." value="You can't cast shroom grenade without a blood cap." local="你无法没有血蘑菇来施放蘑菇手榴弹。"/>
+    <str id="You can't cast army of the dead without a soul gem." value="You can't cast army of the dead without a soul gem." local="你没有魂晶来释放死亡军团。"/>
+    <str id="You can't cast ritual sacrifice without an amulet of sacrifice." value="You can't cast ritual sacrifice without an amulet of sacrifice." local="你没有献祭项链来释放祭祀仪式。"/>
     <str id="The spell is on a cooldown with %d turns remaining." value="The spell is on a cooldown with %d turns remaining." local="这个法术还在冷却中，还剩 %d 回合。"/>
     <str id="You can't cast spells while blinded." value="You can't cast spells while blinded." local="你不能在盲眼时施放法术。"/>
     <str id="You can't cast spells while confused." value="You can't cast spells while confused." local="你不能在混乱时施放法术。"/>
