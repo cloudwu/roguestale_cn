@@ -68,6 +68,9 @@ Labels."CONFIG_SCREEN_DESC".1 只需聚焦到特定按钮，然后按下
 Labels."CONFIG_SCREEN_DESC".2 除了 %s，%s，%s 以及 %s 之外的键。&#10;
 Labels."CONFIG_SCREEN_DESC".3 点一下按钮可以清除与之绑定的按键。
 Labels."LOADING_SCREEN_DESC" 正在给恶魔注入鲜血，请稍候……
+Labels."Sort items vertically" Sort items vertically
+Labels."Skip null log strings" Skip null log strings
+Labels."Use 3 button mouse" Use 3 button mouse
 Buttons."Accept" 接受
 Buttons."Cancel" 取消
 Buttons."Return" 返回
@@ -96,35 +99,68 @@ Buttons."Journey onward" 继续征程
 Buttons."Start a new game" 开启新游戏
 Buttons."Okay" 确定
 Buttons."Close" 关闭
-Keybinds."Loot" @(44)这个按键按下时显示地上的物品。
-Keybinds."Pri. Use" @(44)这个键和移动键一起按可进行开锁、解除陷阱、开门等动作。
-Keybinds."Sec. Use" @(44)这个键和热键一起按可对自己施法，在副手上装备武器，以及在副手手指上装备戒指。
-Keybinds."Enter" @(44)这个键用来在界面上确认，上下楼梯。
-Keybinds."Hotkey" @(44)热键用来快速施法、使用天赋。
-Keybinds."Hotkey".1 @(44)你可以在法术书窗口里选中喜欢的法术或天赋，同时按下热键进行绑定。
-Keybinds."Chat" @(44)这个键用来弹出一个文本输入框，用来向其他玩家发送即时消息（仅用于在线模式）。
-Keybinds."Jump" @(44)这个键用来向四个主方向（东南西北）跳跃。
-Keybinds."Swap" @(44)这个键用来在主武器组和备选武器组之间快速切换。
-Keybinds."Equip" @(44)这个键用来弹出物品界面，并进行装备和接触装备。
-Keybinds."Sort" @(44)这个键会整理背包内的物品。
-Keybinds."Travel" @(44)这个键用来在当前楼层探查完毕后快速返城。
-Keybinds."Attack" @(44)这个键带出攻击光标，用远程武器攻击敌人。
-Keybinds."Search" @(44)这个键用来搜索周围的陷阱及隐藏物。
-Keybinds."Drop" @(44)这个键弹出物品界面，并开始丢弃物品。
-Keybinds."Throw" @(44)这个键弹出物品界面，并开始投掷物品。
-Keybinds."Focus" @(44)这个键带出聚焦光标，用来指挥盟友聚焦到选择的目标上。
-Keybinds."Cast" @(44)这个键弹出法术书界面，使用其中的天赋或法术。
-Keybinds."Look" @(44)这个键弹出观察光标，用来观察范围内的物体。
-Keybinds."Move N" @(44)这个键将玩家或光标向上移动。
-Keybinds."Move S" @(44)这个键将玩家或光标向下移动。
-Keybinds."Move E" @(44)这个键将玩家或光标向右移动。
-Keybinds."Move W" @(44)这个键将玩家或光标向左移动。
-Keybinds."Move NE" @(44)这个键将玩家或光标向右上移动。
-Keybinds."Move SE" @(44)这个键将玩家或光标向右下移动。
-Keybinds."Move NW" @(44)这个键将玩家或光标向左上移动。
-Keybinds."Move SW" @(44)这个键将玩家或光标向左下移动。
-Keybinds."Rest" @(44)这个键用来休息一个回合。
-Keybinds."Rest".1 @(44)注意：小键盘 5 必须在小键盘灯亮起时才有效，否则无效（游戏引擎限制）。
+KeyNames."Loot" Loot
+KeyNames."Pri. Use" Pri. Use
+KeyNames."Sec. Use" Sec. Use
+KeyNames."Enter" Enter
+KeyNames."Hotkey 1" Hotkey 1
+KeyNames."Hotkey 2" Hotkey 2
+KeyNames."Hotkey 3" Hotkey 3
+KeyNames."Hotkey 4" Hotkey 4
+KeyNames."Hotkey 5" Hotkey 5
+KeyNames."Hotkey 6" Hotkey 6
+KeyNames."Hotkey 7" Hotkey 7
+KeyNames."Chat" Chat
+KeyNames."Jump" Jump
+KeyNames."Swap" Swap
+KeyNames."Equip" Equip
+KeyNames."Sort" Sort
+KeyNames."Travel" Travel
+KeyNames."Attack" Attack
+KeyNames."Search" Search
+KeyNames."Drop" Drop
+KeyNames."Throw" Throw
+KeyNames."Focus" Focus
+KeyNames."Cast" Cast
+KeyNames."Look" Look
+KeyNames."Move N" Move N
+KeyNames."Move S" Move S
+KeyNames."Move E" Move E
+KeyNames."Move W" Move W
+KeyNames."Move NE" Move NE
+KeyNames."Move SE" Move SE
+KeyNames."Move NW" Move NW
+KeyNames."Move SW" Move SW
+KeyNames."Rest" Rest
+KeyDescs."Loot" @(44)这个按键按下时显示地上的物品。
+KeyDescs."Pri. Use" @(44)这个键和移动键一起按可进行开锁、解除陷阱、开门等动作。
+KeyDescs."Sec. Use" @(44)这个键和热键一起按可对自己施法，在副手上装备武器，以及在副手手指上装备戒指。
+KeyDescs."Enter" @(44)这个键用来在界面上确认，上下楼梯。
+KeyDescs."Hotkey" @(44)热键用来快速施法、使用天赋。
+KeyDescs."Hotkey".1 @(44)你可以在法术书窗口里选中喜欢的法术或天赋，同时按下热键进行绑定。
+KeyDescs."Chat" @(44)这个键用来弹出一个文本输入框，用来向其他玩家发送即时消息（仅用于在线模式）。
+KeyDescs."Jump" @(44)这个键用来向四个主方向（东南西北）跳跃。
+KeyDescs."Swap" @(44)这个键用来在主武器组和备选武器组之间快速切换。
+KeyDescs."Equip" @(44)这个键用来弹出物品界面，并进行装备和接触装备。
+KeyDescs."Sort" @(44)这个键会整理背包内的物品。
+KeyDescs."Travel" @(44)这个键用来在当前楼层探查完毕后快速返城。
+KeyDescs."Attack" @(44)这个键带出攻击光标，用远程武器攻击敌人。
+KeyDescs."Search" @(44)这个键用来搜索周围的陷阱及隐藏物。
+KeyDescs."Drop" @(44)这个键弹出物品界面，并开始丢弃物品。
+KeyDescs."Throw" @(44)这个键弹出物品界面，并开始投掷物品。
+KeyDescs."Focus" @(44)这个键带出聚焦光标，用来指挥盟友聚焦到选择的目标上。
+KeyDescs."Cast" @(44)这个键弹出法术书界面，使用其中的天赋或法术。
+KeyDescs."Look" @(44)这个键弹出观察光标，用来观察范围内的物体。
+KeyDescs."Move N" @(44)这个键将玩家或光标向上移动。
+KeyDescs."Move S" @(44)这个键将玩家或光标向下移动。
+KeyDescs."Move E" @(44)这个键将玩家或光标向右移动。
+KeyDescs."Move W" @(44)这个键将玩家或光标向左移动。
+KeyDescs."Move NE" @(44)这个键将玩家或光标向右上移动。
+KeyDescs."Move SE" @(44)这个键将玩家或光标向右下移动。
+KeyDescs."Move NW" @(44)这个键将玩家或光标向左上移动。
+KeyDescs."Move SW" @(44)这个键将玩家或光标向左下移动。
+KeyDescs."Rest" @(44)这个键用来休息一个回合。
+KeyDescs."Rest".1 @(44)注意：小键盘 5 必须在小键盘灯亮起时才有效，否则无效（游戏引擎限制）。
 Tooltips."Hover mouse over the checkboxes to find out how to unlock them." 把鼠标停留在勾选框上看看如何解锁它们。
 Tooltips."Sets the account name when the program is launched." 在程序启动后设置一个账号名称。
 Tooltips."Enables the use of a Playstation 4 gamepad." 开启 Playstation 4 手柄支持。
@@ -211,6 +247,8 @@ Quests."I got plenty of money!" 我有的是钱！
 Quests."Pay the price (%dg)" 支付（%d 金）
 Quests."Consider him shaved!" 准备给他修面！
 Quests."Yeah, yeah, I'm going!" 好的好的，我会去的！
+Quests."Itchy-bitchy die die!" Itchy-bitchy die die!
+Quests."I hope they have gold!" I hope they have gold!
 Quests."How hard can it be?!?" 能有多难?!?
 Quests."Heh, sure, I got this!" 嘿，当然，我了解了！
 Quests."Accept the quest" 接受任务
@@ -219,6 +257,7 @@ Quests."Challenge %s" 挑战 %s
 Quests."Monster Hunt" 狩猎巨怪
 Quests."Bandits' Hideout" 土匪的巢穴
 Quests."Ancient Sewer" 古代下水道
+Quests."Spider Cave" Spider Cave
 Quests."Cultists' Lair" 邪教徒的巢穴
 Quests."Nabon's Castle" 腊崩的城堡
 Quests."Frostmourn Keep" 霜之哀伤城楼
@@ -234,6 +273,14 @@ Quests."EQUALIZER_DESC" @(32)很明显，有个时空术士，别管他是谁，
 Quests."EQUALIZER_DESC".1 @(32)鲁班想让你去看看他怎样了，把他找到的独特物品带回来。
 Quests."EQUALIZER_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
 Quests."SPAWN_EQUALIZER" 你接受了任务，出发寻找独特物品。
+Quests."SPIDER_CAVE_DESC" It seems that some eight-legged rabbits have made their nest too close to a wealthy merchant's trade route.
+Quests."SPIDER_CAVE_DESC".1 Your job is to kill them all and in return you will have 1000 gold coins deposited into your bank account.
+Quests."SPIDER_CAVE_DESC".2 Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail.
+Quests."SPAWN_SPIDER_CAVE" You accept the quest and head out to slay some spiders.
+Quests."WORSHIPPERS_DESC" Every time you go to sleep another death cult appears. These guys have even come up with their own spells.
+Quests."WORSHIPPERS_DESC".1 The Wizard's Guild doesn't seem to like competition and they would like you to go and take care of the problem.
+Quests."WORSHIPPERS_DESC".2 Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail.
+Quests."SPAWN_WORSHIPPERS" You accept the quest and head out to do some justified murdering.
 Quests."GURMUR_DESC" @(32)一些邪教徒开启了一个计划，想唤醒一个本已死去的老怪物来征服世界。
 Quests."GURMUR_DESC".1 @(32)这当然很糟糕，但还有更糟的事情是哪些邪教徒带走了本该属于你的大量金币。
 Quests."GURMUR_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
@@ -541,6 +588,7 @@ CastLogs."You can't cast %s on %s." 你无法将%s释放在%s上面。
 CastLogs."You can't cast %s on yourself." 你无法对自己施放%s。
 CastLogs."You can't cast where you can't see." 你无法向你看不见的地方施法。
 CastLogs."You choose not to cast %s at yourself." 你选择不对自己施放%s。
+CastLogs."You start to cast %s." You start to cast %s.
 CastLogs."You start to cast a spell from %s." 你开始从%s施放一个法术。
 CastLogs."%s decides to zap you instead." %s决定换成对你施术。
 CastLogs."%s is cursed and it decides to zap you instead." %s被诅咒了，它决定换成对你施术。
@@ -1049,8 +1097,28 @@ SpellNames."Elemental Orb" 元素球
 SpellNames."Clone Creature" 克隆生物
 SpellNames."Animate Dead" 亡灵复生
 SpellNames."Transmute Item" 物品炼金
-SpellNames."Arcane Missile" 奥术飞弹
 SpellNames."Alter Terrain" 地表变形
+SpellNames."Arcane Missile" 奥术飞弹
+SpellNames."Big Bear Slap" Big Bear Slap
+SpellNames."Command Beast" Command Beast
+SpellNames."Cure Bleeding" Cure Bleeding
+SpellNames."Expose Roots" Expose Roots
+SpellNames."Fairy Flight" Fairy Flight
+SpellNames."Insect Swarm" Insect Swarm
+SpellNames."Raptor Strike" Raptor Strike
+SpellNames."Shroom Grenade" Shroom Grenade
+SpellNames."Soothe Beast" Soothe Beast
+SpellNames."Spirit Wolves" Spirit Wolves
+SpellNames."Abyssal Grasp" Abyssal Grasp
+SpellNames."Army of the Dead" Army of the Dead
+SpellNames."Corrupting Cloud" Corrupting Cloud
+SpellNames."Dancing Weapons" Dancing Weapons
+SpellNames."Grounding Orb" Grounding Orb
+SpellNames."Mass Dismissal" Mass Dismissal
+SpellNames."Repelling Smite" Repelling Smite
+SpellNames."Ritual Sacrifice" Ritual Sacrifice
+SpellNames."Sacrificial Circle" Sacrificial Circle
+SpellNames."Spectral Gateway" Spectral Gateway
 SpellDescs."Cure Disease" @(30)尝试移除目标生物身上的一个疫病效果。
 SpellDescs."Cure Poison" @(30)尝试移除目标生物身上的一个中毒效果。
 SpellDescs."Dispel Magic" @(30)尝试移除目标生物身上，或特定地点，施法者物品栏中的物品上的一个魔法效果。
@@ -1089,8 +1157,28 @@ SpellDescs."Elemental Orb" @(30)对目标生物及它的邻接生物造成火焰
 SpellDescs."Clone Creature" @(30)给目标生物制造一个克隆体，它能协助施法者一小段时间。
 SpellDescs."Animate Dead" @(30)永久的将一个死去的人类转变为一个亡灵朋友。
 SpellDescs."Transmute Item" @(30)将施法者物品栏中的目标物品炼成金币。
-SpellDescs."Arcane Missile" @(30)立刻杀死目标生物，或对其造成魔法伤害。
 SpellDescs."Alter Terrain" @(30)在偶数回合抬高，在奇数回合降低地块高度。
+SpellDescs."Arcane Missile" @(30)立刻杀死目标生物，或对其造成魔法伤害。
+SpellDescs."Big Bear Slap" Attempts to disarm, knock back and stun the target creature.
+SpellDescs."Command Beast" Attempts to control the target beast and make it your friend.
+SpellDescs."Cure Bleeding" Attempts to remove a bleeding wound from the target creature.
+SpellDescs."Expose Roots" Spawns a treeman from the target mushroom patch.
+SpellDescs."Fairy Flight" Places a magical effect on you that makes you levitate.
+SpellDescs."Insect Swarm" Attempts to overcome the target creature with various effects.
+SpellDescs."Raptor Strike" Tears open a wound and causes the target to bleed.
+SpellDescs."Shroom Grenade" Throws a random blood cap from the caster's inventory and explodes it on impact.
+SpellDescs."Soothe Beast" Attempts to soothe the target beast and make it neutral towards you.
+SpellDescs."Spirit Wolves" Summons a pack of ethereal spirit wolves at the target location.
+SpellDescs."Abyssal Grasp" Summons an abyssal claw at the target location.
+SpellDescs."Army of the Dead" Consumes all soul gems in your inventory to spawn an army of the dead.
+SpellDescs."Corrupting Cloud" Creates a corrupting cloud at the target location hitting everyone inside.
+SpellDescs."Dancing Weapons" Summons dancing weapons at the target location.
+SpellDescs."Grounding Orb" Causes magic damage based on the remaining energy and maximum mana shield of the target creature.
+SpellDescs."Mass Dismissal" Attempts to unsummon all summoned creatures within line of sight.
+SpellDescs."Repelling Smite" Attempts to knock back and stun all adjacent creatures.
+SpellDescs."Ritual Sacrifice" Attempts to sacrifice a creature at the center of the nearest sacrificial circle.
+SpellDescs."Sacrificial Circle" Conjures a 3x3 sacrificial circle at the target location.
+SpellDescs."Spectral Gateway" Teleports you to the nearest sacrificial circle or a random location if none exists.
 SpellDescs."Hit Modifier: Charisma" 命中修正：魅力
 SpellDescs."Hit Modifier: Stamina" 命中修正：耐力
 SpellLogs."You gain clearcasting and cast the spell for free." 你获得沉静施法，本次施法免费。
@@ -1127,6 +1215,7 @@ SpellLogs."The chasm fills up and becomes a floor." 深坑上升变成了地板�
 SpellLogs."The floor rises up and becomes a wall." 地板上升变成了墙体。
 SpellLogs."The wall crumbles and reveals a floor." 墙体破碎变成了地板。
 SpellLogs."The floor crumbles and reveals a chasm." 地板破碎变成了深坑。
+SpellLogs."%s seems to calm down and is no longer hostile." %s seems to calm down and is no longer hostile.
 EnchantNames."Mark of Agility" 敏捷印记
 EnchantNames."Mark of Charisma" 魅力印记
 EnchantNames."Mark of Stamina" 耐力印记
@@ -1353,7 +1442,6 @@ ItemLogs."Your %s is refreshed by the potion." 你的%s被这药剂恢复。
 ItemLogs."%s didn't seem to have any effect." %s看起来不带任何效果。
 ItemLogs."%s shines and repairs itself." %s闪了一下，自我修理好了。
 ItemLogs."%s radiates a divine light for a moment." %s一刹那放射出神圣的光芒。
-ItemLogs."%s didn't seem to have any effect." %s看起来不带任何效果。
 ItemLogs."You buy %s for a gold coin." 你用一枚金币买了%s。
 ItemLogs."You buy %s for %d gold coins." 你买了%s，花掉你 %d 枚金币。
 ItemLogs."You can't afford to buy those %s." 你买不起那些%s。
@@ -1372,8 +1460,8 @@ ItemSets."Re-roll clearcast (Celestial)." 重掷沉静施法（天使系）。
 ItemSets."Re-roll clearcast (Draconic)." 重掷沉静施法（龙系）。
 ItemSets."Re-roll clearcast (Infernal)." 重掷沉静施法（地狱系）。
 ItemSets."Reduce Arcane cooldown by 50%." 减少奥术冷却时间 50% 。
-ItemSets."Reduce Bestial cooldown by 50%." 减少兽性法术冷却时间 50% 。
-ItemSets."Reduce Abyssal cooldown by 50%." 减少深渊法术冷却时间 50% 。
+ItemSets."Re-roll clearcast (Bestial)." Re-roll clearcast (Bestial).
+ItemSets."Re-roll clearcast (Abyssal)." Re-roll clearcast (Abyssal).
 ItemSets."Heals D6 points per turn." 每回合治疗 D6 点。
 ItemSets."Befriend daemons." 成为恶魔的朋友。
 AddonNames."Padded Spaulders" 棉护肩
@@ -1713,8 +1801,8 @@ CharmEffects."Golden Chastity Key" @(30)当你去开一个锁上的箱子时，�
 CharmEffects."Loose Weapon Chain" @(30)获得针对缴械效果的免疫力。
 CharmEffects."Time Dilation Device" @(30)你可以用这个耳环把游戏的所有回合都视为奇数或偶数。
 CharmEffects."Fishing Hook and Line" @(30)水峡谷现在可以用来钓鱼。
-CharmEffects."Fairy Jizzed Bull Horn" @(30)允许巫师学徒在浮空（是那些小仙女们，嘟）时学习和释放兽性法术。
-CharmEffects."Engraved Pyramidion" @(30)允许巫师学徒站在献祭圈内时学习和施放深渊法术。
+CharmEffects."Fairy Jizzed Bull Horn" @(30)允许巫师学徒学习和释放兽性法术（学习时需要浮空）。
+CharmEffects."Engraved Pyramidion" @(30)允许巫师学徒学习和施放深渊法术（学习时需要有黑色魂晶）。
 CharmEffects."BlessedFamiliar" @(30)任何企图攻击力的龙都会永久变成你的伙伴。
 CharmEffects."BlessedOutcasts" @(30)在每个随机地牢的第一层召唤一个收藏家。
 CoinNames."Gold Coin" 金币
@@ -2144,6 +2232,26 @@ TomeNames."Tome of Animate Dead" 典籍：亡灵复生
 TomeNames."Tome of Transmute Item" 典籍：物品炼金
 TomeNames."Tome of Alter Terrain" 典籍：地表变形
 TomeNames."Tome of Arcane Missile" 典籍：奥术飞弹
+TomeNames."Tome of Big Bear Slap" Tome of Big Bear Slap
+TomeNames."Tome of Command Beast" Tome of Command Beast
+TomeNames."Tome of Cure Bleeding" Tome of Cure Bleeding
+TomeNames."Tome of Expose Roots" Tome of Expose Roots
+TomeNames."Tome of Fairy Flight" Tome of Fairy Flight
+TomeNames."Tome of Insect Swarm" Tome of Insect Swarm
+TomeNames."Tome of Raptor Strike" Tome of Raptor Strike
+TomeNames."Tome of Shroom Grenade" Tome of Shroom Grenade
+TomeNames."Tome of Soothe Beast" Tome of Soothe Beast
+TomeNames."Tome of Spirit Wolves" Tome of Spirit Wolves
+TomeNames."Tome of Abyssal Grasp" Tome of Abyssal Grasp
+TomeNames."Tome of Army of the Dead" Tome of Army of the Dead
+TomeNames."Tome of Corrupting Cloud" Tome of Corrupting Cloud
+TomeNames."Tome of Dancing Weapons" Tome of Dancing Weapons
+TomeNames."Tome of Grounding Orb" Tome of Grounding Orb
+TomeNames."Tome of Mass Dismissal" Tome of Mass Dismissal
+TomeNames."Tome of Repelling Smite" Tome of Repelling Smite
+TomeNames."Tome of Ritual Sacrifice" Tome of Ritual Sacrifice
+TomeNames."Tome of Sacrificial Circle" Tome of Sacrificial Circle
+TomeNames."Tome of Spectral Gateway" Tome of Spectral Gateway
 TomeDescs."BlessedTomeDesc" @(30)你鉴定过这本典籍，这是一本记载着 %s 法术的神圣典籍。
 TomeDescs."CursedTomeDesc" @(30)你鉴定过这本典籍，它被诅咒了，其中记载着 %s 法术。
 TomeDescs."IdentifiedTomeDesc" 你鉴定过这本典籍，它记载着 %s 法术。
@@ -2156,6 +2264,7 @@ TomeDescs."BestialTomeDesc" @(30)你在典籍上认出了一个兽性符记。�
 TomeDescs."AbyssalTomeDesc" @(30)你在典籍上认出了一个深渊符记。不过你想可能还是应该先鉴定一下再读。
 TomeDescs."UnknownTomeDesc" @(30)这本典籍看起来是用一些未知语言撰写的。
 TomeLogs."You begin to read %s." 你开始阅读 %s。
+TomeLogs."One of your black soul gems is consumed by the tome." One of your black soul gems is consumed by the tome.
 TomeLogs."You begin to read an unknown tome." 你开始阅读一本未知的典籍。
 TomeLogs."You open the tome at the bookmark and check out the nine inch males." 你翻到这本典籍的书签处，查阅那个 23 厘米的男性。
 TomeLogs."You open the tome at the bookmark and check out the ladies. Ooh la la!" 你翻到这本典籍的书签处，查阅那个女士。哇哦！
@@ -2284,9 +2393,11 @@ WandLogs."You don't have room for the duplicated %s." 你没有空间复制%s。
 WeaponNames."Fist" 拳头
 WeaponNames."Stone" 石块
 WeaponNames."Barbed Whip" 荆棘之鞭
+WeaponNames."Serrated Arm" Serrated Arm
 WeaponNames."Massive Claw" 巨爪
 WeaponNames."Corrosive Bite" 侵蚀之咬
 WeaponNames."Ferocius Bite" 暴虐之咬
+WeaponNames."Spectral Bite" Spectral Bite
 WeaponNames."Infectious Bite" 瘟疫之咬
 WeaponNames."Vampiric Bite" 吸血之咬
 WeaponNames."Venomous Bite" 毒液之咬
@@ -2470,24 +2581,23 @@ CreatureNames."ghastly skull" 可怕的骷髅
 CreatureNames."pile of bones" 骨堆
 CreatureNames."Beast" 野兽
 CreatureNames."Woof" 汪汪
-CreatureNames."Dire wolf" 凶狼
 CreatureNames."Dog" 狗
+CreatureNames."Dire wolf" 凶狼
 CreatureNames."Dread bat" 蝙蝠
+CreatureNames."Dread wolf" 骇狼
 CreatureNames."Giant rat" 巨鼠
 CreatureNames."Giant snail" 蜗牛
 CreatureNames."Snake" 蛇
 CreatureNames."Spider" 蜘蛛
 CreatureNames."Whelp" 幼龙
-CreatureNames."Dread wolf" 骇狼
 CreatureNames."Bat swarm" 蝙蝠群
 CreatureNames."Rat swarm" 鼠群
 CreatureNames."Snake swarm" 蛇群
 CreatureNames."Spider swarm" 蜘蛛群
 CreatureNames."Snail swarm" 蜗牛群
+CreatureNames."Spirit wolf" Spirit wolf
 CreatureNames."Boss" 首领
 CreatureNames."Gurmur" 咕呣
-CreatureNames."Dreadlord Nabon" 黑暗之主腊崩
-CreatureNames."Triggered Demonrat" 触发的魔鼠
 CreatureNames."Daemon" 恶魔
 CreatureNames."Impaler" 吸血鬼
 CreatureNames."Devourer" 吞噬者
@@ -2562,6 +2672,10 @@ CreatureNames."Floaty" 浮浮
 CreatureNames."Troll" 巨魔
 CreatureNames."Treeman" 树人
 CreatureNames."Demonrat" 魔鼠
+CreatureNames."Dreadlord Nabon" 黑暗之主腊崩
+CreatureNames."Triggered Demonrat" 触发的魔鼠
+CreatureNames."Abyssal claw" Abyssal claw
+CreatureNames."Dancing weapon" Dancing weapon
 CreatureNames."Orc" 兽人
 CreatureNames."Orc grunt" 兽人步兵
 CreatureNames."Orc archer" 兽人弓箭手
@@ -2803,6 +2917,7 @@ TileLogs."STEP_ON_GATE_TRIGGER" 你踩到%s，听到一些机械的声音。
 TileLogs."YOU_SEE_ALARM_TRIGGER" 你看见%s，上面有一组铃铛。
 TileLogs."YOU_SEE_CRUSH_TRIGGER" 你看见%s，连着天花板上的一块巨石。
 TileLogs."YOU_SEE_GATE_TRIGGER" 你看见%s，似乎连接着附近的一道闸门。
+RIPTitles."R.I.P." R.I.P.
 RIPTitles."Here lies %s." %s 在此长眠。
 # TODO 需要交换，第一个是名字 第二个是称谓
 RIPTitles."Here lies %s the %s." %s %s 在此长眠。
@@ -2858,6 +2973,186 @@ RIPTitles."Stream" 小溪
 RIPTitles."Town" 城镇
 RIPTitles."Valley" 山谷
 RIPTitles."Well" 水井
+MaleNames."Abner" Abner
+MaleNames."Aiden" Aiden
+MaleNames."Amos" Amos
+MaleNames."Arthur" Arthur
+MaleNames."Baldwin" Baldwin
+MaleNames."Bernard" Bernard
+MaleNames."Brian" Brian
+MaleNames."Byron" Byron
+MaleNames."Caleb" Caleb
+MaleNames."Cedric" Cedric
+MaleNames."Corwin" Corwin
+MaleNames."Cyril" Cyril
+MaleNames."Damon" Damon
+MaleNames."Declan" Declan
+MaleNames."Dorian" Dorian
+MaleNames."Duncan" Duncan
+MaleNames."Edmund" Edmund
+MaleNames."Egbert" Egbert
+MaleNames."Elijah" Elijah
+MaleNames."Ethan" Ethan
+MaleNames."Falkner" Falkner
+MaleNames."Fergus" Fergus
+MaleNames."Ferris" Ferris
+MaleNames."Francis" Francis
+MaleNames."Gabriel" Gabriel
+MaleNames."Gideon" Gideon
+MaleNames."Gilbert" Gilbert
+MaleNames."Giles" Giles
+MaleNames."Harold" Harold
+MaleNames."Herbert" Herbert
+MaleNames."Horatio" Horatio
+MaleNames."Hubert" Hubert
+MaleNames."Igor" Igor
+MaleNames."Irvin" Irvin
+MaleNames."Isaac" Isaac
+MaleNames."Ivar" Ivar
+MaleNames."Jacob" Jacob
+MaleNames."Jerome" Jerome
+MaleNames."Joseph" Joseph
+MaleNames."Joshua" Joshua
+MaleNames."Kendall" Kendall
+MaleNames."Kenneth" Kenneth
+MaleNames."Kiefer" Kiefer
+MaleNames."Konrad" Konrad
+MaleNames."Lambert" Lambert
+MaleNames."Leonard" Leonard
+MaleNames."Lucas" Lucas
+MaleNames."Lyndon" Lyndon
+MaleNames."Magnus" Magnus
+MaleNames."Marcus" Marcus
+MaleNames."Milburn" Milburn
+MaleNames."Morgan" Morgan
+MaleNames."Nathan" Nathan
+MaleNames."Nigel" Nigel
+MaleNames."Norman" Norman
+MaleNames."Norris" Norris
+MaleNames."Oliver" Oliver
+MaleNames."Orson" Orson
+MaleNames."Otis" Otis
+MaleNames."Owen" Owen
+MaleNames."Percival" Percival
+MaleNames."Patrick" Patrick
+MaleNames."Philbert" Philbert
+MaleNames."Philip" Philip
+MaleNames."Quimby" Quimby
+MaleNames."Quentin" Quentin
+MaleNames."Quinn" Quinn
+MaleNames."Randolph" Randolph
+MaleNames."Reginald" Reginald
+MaleNames."Richard" Richard
+MaleNames."Rupert" Rupert
+MaleNames."Samuel" Samuel
+MaleNames."Shamus" Shamus
+MaleNames."Sigmund" Sigmund
+MaleNames."Stewart" Stewart
+MaleNames."Thomas" Thomas
+MaleNames."Titus" Titus
+MaleNames."Tobias" Tobias
+MaleNames."Tristan" Tristan
+MaleNames."Udolf" Udolf
+MaleNames."Uriah" Uriah
+MaleNames."Vaughan" Vaughan
+MaleNames."Vernon" Vernon
+MaleNames."Victor" Victor
+MaleNames."Vincent" Vincent
+MaleNames."Walter" Walter
+MaleNames."Warren" Warren
+MaleNames."Wesley" Wesley
+MaleNames."Wilbur" Wilbur
+MaleNames."Zachary" Zachary
+FemaleNames."Agnes" Agnes
+FemaleNames."Anita" Anita
+FemaleNames."Astrid" Astrid
+FemaleNames."Audrey" Audrey
+FemaleNames."Bella" Bella
+FemaleNames."Bianca" Bianca
+FemaleNames."Brenda" Brenda
+FemaleNames."Brooke" Brooke
+FemaleNames."Caitlin" Caitlin
+FemaleNames."Caroline" Caroline
+FemaleNames."Catherine" Catherine
+FemaleNames."Cynthia" Cynthia
+FemaleNames."Daphne" Daphne
+FemaleNames."Deborah" Deborah
+FemaleNames."Deirdre" Deirdre
+FemaleNames."Drucilla" Drucilla
+FemaleNames."Edith" Edith
+FemaleNames."Eileen" Eileen
+FemaleNames."Eleanor" Eleanor
+FemaleNames."Evelyn" Evelyn
+FemaleNames."Fawn" Fawn
+FemaleNames."Faye" Faye
+FemaleNames."Fiona" Fiona
+FemaleNames."Frida" Frida
+FemaleNames."Gabrielle" Gabrielle
+FemaleNames."Genevieve" Genevieve
+FemaleNames."Guinevere" Guinevere
+FemaleNames."Gwendolyn" Gwendolyn
+FemaleNames."Hayley" Hayley
+FemaleNames."Hannah" Hannah
+FemaleNames."Harriet" Harriet
+FemaleNames."Heather" Heather
+FemaleNames."Imogen" Imogen
+FemaleNames."Ingrid" Ingrid
+FemaleNames."Irene" Irene
+FemaleNames."Iris" Iris
+FemaleNames."Joanna" Joanna
+FemaleNames."Judith" Judith
+FemaleNames."Juliet" Juliet
+FemaleNames."Justine" Justine
+FemaleNames."Kathleen" Kathleen
+FemaleNames."Katrina" Katrina
+FemaleNames."Kayleigh" Kayleigh
+FemaleNames."Kirsten" Kirsten
+FemaleNames."Leah" Leah
+FemaleNames."Lilith" Lilith
+FemaleNames."Lindsay" Lindsay
+FemaleNames."Lucia" Lucia
+FemaleNames."Magda" Magda
+FemaleNames."Marian" Marian
+FemaleNames."Miriam" Miriam
+FemaleNames."Moira" Moira
+FemaleNames."Nadia" Nadia
+FemaleNames."Natalie" Natalie
+FemaleNames."Nicole" Nicole
+FemaleNames."Nora" Nora
+FemaleNames."Octavia" Octavia
+FemaleNames."Odette" Odette
+FemaleNames."Olivia" Olivia
+FemaleNames."Ophelia" Ophelia
+FemaleNames."Phoebe" Phoebe
+FemaleNames."Phyllis" Phyllis
+FemaleNames."Primrose" Primrose
+FemaleNames."Prudence" Prudence
+FemaleNames."Rachel" Rachel
+FemaleNames."Renee" Renee
+FemaleNames."Rose" Rose
+FemaleNames."Ruth" Ruth
+FemaleNames."Sabrina" Sabrina
+FemaleNames."Sharon" Sharon
+FemaleNames."Sheila" Sheila
+FemaleNames."Sybil" Sybil
+FemaleNames."Tanya" Tanya
+FemaleNames."Tara" Tara
+FemaleNames."Teresa" Teresa
+FemaleNames."Trixie" Trixie
+FemaleNames."Ulrica" Ulrica
+FemaleNames."Ursula" Ursula
+FemaleNames."Valerie" Valerie
+FemaleNames."Veronica" Veronica
+FemaleNames."Victoria" Victoria
+FemaleNames."Vivian" Vivian
+FemaleNames."Willow" Willow
+FemaleNames."Winifred" Winifred
+FemaleNames."Winona" Winona
+FemaleNames."Wynne" Wynne
+FemaleNames."Xenia" Xenia
+FemaleNames."Yvette" Yvette
+FemaleNames."Yvonne" Yvonne
+FemaleNames."Zelene" Zelene
 CauseOfDeath."COD_RETIRE" 隐退多年之后，%s死于衰老。
 CauseOfDeath."COD_CHEATER" %s死于极其渴望在游戏中作弊。
 CauseOfDeath."COD_UNKNOWN" %s死于…… 没有真的知道死因。
@@ -3179,7 +3474,7 @@ HeritageDescs."Arcane Mastery" @(26)允许你在使用任何项链时，依靠�
 HeritageDescs."Arcane Mastery".1 @(26)在单局游戏中学会所有的奥术可以解锁这项遗产。
 HeritageDescs."Bestial Mastery" @(26)允许你依靠读写：常识就能学习兽性法术，而不必漂浮。
 HeritageDescs."Bestial Mastery".1 @(26)在单局游戏中学会所有的兽性法术可以解锁这项遗产。
-HeritageDescs."Abyssal Mastery" @(26)允许你依靠读写：常识就能学习深渊系法术，而不必献祭。
+HeritageDescs."Abyssal Mastery" @(26)允许你依靠读写：常识就能学习深渊系法术，而不需要黑色魂晶。
 HeritageDescs."Abyssal Mastery".1 @(26)在单局游戏中学会所有的深渊法术可以解锁这项遗产。
 HeritageDescs."Amulet Knowledge" @(26)在游戏开始获得所有项链效果的知识。
 HeritageDescs."Amulet Knowledge".1 @(26)在单局游戏中学会所有的项链效果可以解锁这项遗产。
@@ -3263,15 +3558,15 @@ HeritageDescs."Monster Chow" @(26)在变身时增加生命值和精力。
 HeritageDescs."Monster Chow".1 @(26)在变身后杀死 %d 个巨怪并吃掉它们的尸体。
 HeritageDescs."Monster Chow".2 @(26)注意：施展变身术将充值计数器，因此必须在一次变身中完成。
 HeritageDescs."Monster Chow".3 @(26)吃掉的巨怪：
-HeritageDescs."Second Amendment" @(26)允许你在装备有对应的项链时，从奥术典籍中学习法术 (*)。
+HeritageDescs."Second Amendment" @(26)允许你在装备有对应的项链时，阅读奥术典籍 (*)。
 HeritageDescs."Second Amendment".1 @(26)一旦你学会了一门奥术，你可以在装备有任意项链时施放它。
 HeritageDescs."Second Amendment".2 @(26)你从未来捐赠任意一个物品给工匠行会可以解锁这项遗产。
 HeritageDescs."Second Amendment".3 @(26)(*) 注意：你需要读写：常识以及另一项读写天赋。
-HeritageDescs."Rise of Fairies" @(26)允许你通过仙女摧残过的牛角并在浮空时从兽性典籍中学习法术 (*)。
+HeritageDescs."Rise of Fairies" @(26)允许你通过仙女摧残过的牛角并在浮空时阅读兽性典籍 (*)。
 HeritageDescs."Rise of Fairies".1 @(26)一旦你学会了一门兽性法术，你就可以在背包中有牛角时施放它。
 HeritageDescs."Rise of Fairies".2 @(26)向工匠行会捐赠一个未鉴定的牛角可以解锁这项遗产。
 HeritageDescs."Rise of Fairies".3 @(26)(*) 注意：你需要读写：常识以及另一项读写天赋。
-HeritageDescs."Wester Worshipper" @(26)允许你通过一个雕花金字塔和一次献祭从深渊典籍中学习法术 (*)。
+HeritageDescs."Wester Worshipper" @(26)允许你通过一个雕花金字塔和一颗黑色魂晶阅读深渊典籍 (*)。
 HeritageDescs."Wester Worshipper".1 @(26)一旦你学会了一门深渊法术，你就可以在背包中有金字塔时施放它。
 HeritageDescs."Wester Worshipper".2 @(26)向工匠行会捐赠一个未鉴定的金字塔可以解锁这项遗产。
 HeritageDescs."Wester Worshipper".3 @(26)(*) 注意：你需要读写：常识以及另一项读写天赋。
@@ -3342,6 +3637,7 @@ ChallengeNames."Path of Kindness" 友善之路
 ChallengeNames."Path of Cruelty" 残忍之路
 ChallengeNames."Path of Fairness" 公平之路
 ChallengeNames."Path of Compassion" 怜悯之路
+ChallengeNames."Indivisible Greed" Indivisible Greed
 ChallengeDescs."Unlocks &quot;%s&quot; title." 解锁 &quot;%s&quot; 头衔。
 ChallengeDescs."This challenge can't be unlocked on casual difficulty level." @(26)这项挑战无法在休闲难度级别下完成。
 ChallengeDescs."The description of this challenge is hidden until it is completed." @(26)这项挑战的说明只有在完成后才可见。
@@ -3459,6 +3755,7 @@ ChallengeDescs."Path of Fairness" %s
 ChallengeDescs."Path of Fairness".1 If @(26)如果你测试的答案中只有公正的，你会被视为'%s'。
 ChallengeDescs."Path of Compassion" %s 
 ChallengeDescs."Path of Compassion".1 @(26)如果你测试的答案中只有温和的，你会被视为'%s'。
+ChallengeDescs."Indivisible Greed" This challenge can be completed by reseting a dungeon after meeting three angry pops.
 ChallengeTitles."Select Title" 选择头衔
 ChallengeTitles."the Alchemist" 炼金师
 ChallengeTitles."the Archer" 射手
@@ -3519,6 +3816,7 @@ ChallengeTitles."the Kind" 友好的
 ChallengeTitles."the Cruel" 残忍的
 ChallengeTitles."the Fair" 公平的
 ChallengeTitles."the Gentle" 温和的
+ChallengeTitles."the Greedy" the Greedy
 GameLogic."You die. Press %s to continue." 你死了。按下 %s 继续。
 GameLogic."You are asleep and miss your turn." 你睡着了，失去了一个回合。
 GameLogic."You are paralysed and miss your turn." 你被麻痹了，失去了一个回合。
@@ -3595,7 +3893,8 @@ GameScreen."You can't cast spells or use talents while blinded." 你在盲眼状
 GameScreen."You can't cast spells or use talents while confused." 你在混乱状态下无法施放法术或使用天赋。
 GameScreen."You can't cast spells or use talents while polymorphed." 被变形时，你无法施放法术或使用天赋。
 GameScreen."You can't cast spells or use talents while shapeshifted." 你在变身状态下无法施放法术或使用天赋。
-GameScreen."You can't cast spells or use talents while silenced." 你在沉默状态下无法施放法术或使用天赋。
+GameScreen."You can't cast spells or change hotkeys while silenced." You can't cast spells or change hotkeys while silenced.
+GameScreen."You can't cast spells while silenced." You can't cast spells while silenced.
 GameScreen."You can't look around while blinded." 你在盲眼状态下无法观察四周。
 GameScreen."You can't look around while confused." 你在混乱状态下无法观察四周。
 GameScreen."Select a target to look at and press %s:" 选择一个观察的目标，然后按下 %s：
@@ -3714,6 +4013,9 @@ SpellbookWindow."You can't cast arcane spells without an amulet." 没有项链�
 SpellbookWindow."You can't cast bestial spells without a bull horn." 没有牛角不能施放兽性法术。
 SpellbookWindow."You can't cast abyssal spells without a pyramidion." 没有金字塔无法施放深渊法术。
 SpellbookWindow."You can't cast release soul without a soul gem." 没有灵魂石无法释放灵魂。
+SpellbookWindow."You can't cast shroom grenade without a blood cap." You can't cast shroom grenade without a blood cap.
+SpellbookWindow."You can't cast army of the dead without a soul gem." You can't cast army of the dead without a soul gem.
+SpellbookWindow."You can't cast ritual sacrifice without an amulet of sacrifice." You can't cast ritual sacrifice without an amulet of sacrifice.
 SpellbookWindow."The spell is on a cooldown with %d turns remaining." 这个法术还在冷却中，还剩 %d 回合。
 SpellbookWindow."You can't cast spells while blinded." 你不能在盲眼时施放法术。
 SpellbookWindow."You can't cast spells while confused." 你不能在混乱时施放法术。
