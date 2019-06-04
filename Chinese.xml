@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190603)" checksum="71281b096b76c91e8e83c77c1f99f7e6d4af0a76">
+<strings version="Version 2.00 Beta 1 (190603)" checksum="28ad564ee5e51f91e0e0e7bafc3287264b5e2457">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -2421,26 +2421,26 @@
     <str id="Tome of Transmute Item" value="Tome of Transmute Item" local="典籍：物品炼金"/>
     <str id="Tome of Alter Terrain" value="Tome of Alter Terrain" local="典籍：地表变形"/>
     <str id="Tome of Arcane Missile" value="Tome of Arcane Missile" local="典籍：奥术飞弹"/>
-    <str id="Tome of Big Bear Slap" value="Tome of Big Bear Slap" local="Tome of 熊之巨掌"/>
-    <str id="Tome of Command Beast" value="Tome of Command Beast" local="Tome of 命令野兽"/>
-    <str id="Tome of Cure Bleeding" value="Tome of Cure Bleeding" local="Tome of 流血治疗"/>
-    <str id="Tome of Expose Roots" value="Tome of Expose Roots" local="Tome of 树根暴露"/>
-    <str id="Tome of Fairy Flight" value="Tome of Fairy Flight" local="Tome of 仙女飞行"/>
-    <str id="Tome of Insect Swarm" value="Tome of Insect Swarm" local="Tome of 虫群召唤"/>
-    <str id="Tome of Raptor Strike" value="Tome of Raptor Strike" local="Tome of 猛禽一击"/>
-    <str id="Tome of Shroom Grenade" value="Tome of Shroom Grenade" local="Tome of 蘑菇手雷"/>
-    <str id="Tome of Soothe Beast" value="Tome of Soothe Beast" local="Tome of 安抚野兽"/>
-    <str id="Tome of Spirit Wolves" value="Tome of Spirit Wolves" local="Tome of 狼之精灵"/>
-    <str id="Tome of Abyssal Grasp" value="Tome of Abyssal Grasp" local="Tome of 深渊之握"/>
-    <str id="Tome of Army of the Dead" value="Tome of Army of the Dead" local="Tome of 亡灵军团"/>
-    <str id="Tome of Corrupting Cloud" value="Tome of Corrupting Cloud" local="Tome of 腐蚀之云"/>
-    <str id="Tome of Dancing Weapons" value="Tome of Dancing Weapons" local="Tome of 武器之舞"/>
-    <str id="Tome of Grounding Orb" value="Tome of Grounding Orb" local="Tome of 接地法球"/>
-    <str id="Tome of Mass Dismissal" value="Tome of Mass Dismissal" local="Tome of 群体解散"/>
-    <str id="Tome of Repelling Smite" value="Tome of Repelling Smite" local="Tome of 拒斥重击"/>
-    <str id="Tome of Ritual Sacrifice" value="Tome of Ritual Sacrifice" local="Tome of 祭祀仪式"/>
-    <str id="Tome of Sacrificial Circle" value="Tome of Sacrificial Circle" local="Tome of 献祭之环"/>
-    <str id="Tome of Spectral Gateway" value="Tome of Spectral Gateway" local="Tome of 鬼怪之门"/>
+    <str id="Tome of Big Bear Slap" value="Tome of Big Bear Slap" local="典籍：熊之巨掌"/>
+    <str id="Tome of Command Beast" value="Tome of Command Beast" local="典籍：命令野兽"/>
+    <str id="Tome of Cure Bleeding" value="Tome of Cure Bleeding" local="典籍：流血治疗"/>
+    <str id="Tome of Expose Roots" value="Tome of Expose Roots" local="典籍：树根暴露"/>
+    <str id="Tome of Fairy Flight" value="Tome of Fairy Flight" local="典籍：仙女飞行"/>
+    <str id="Tome of Insect Swarm" value="Tome of Insect Swarm" local="典籍：虫群召唤"/>
+    <str id="Tome of Raptor Strike" value="Tome of Raptor Strike" local="典籍：猛禽一击"/>
+    <str id="Tome of Shroom Grenade" value="Tome of Shroom Grenade" local="典籍：蘑菇手雷"/>
+    <str id="Tome of Soothe Beast" value="Tome of Soothe Beast" local="典籍：安抚野兽"/>
+    <str id="Tome of Spirit Wolves" value="Tome of Spirit Wolves" local="典籍：狼之精灵"/>
+    <str id="Tome of Abyssal Grasp" value="Tome of Abyssal Grasp" local="典籍：深渊之握"/>
+    <str id="Tome of Army of the Dead" value="Tome of Army of the Dead" local="典籍：亡灵军团"/>
+    <str id="Tome of Corrupting Cloud" value="Tome of Corrupting Cloud" local="典籍：腐蚀之云"/>
+    <str id="Tome of Dancing Weapons" value="Tome of Dancing Weapons" local="典籍：武器之舞"/>
+    <str id="Tome of Grounding Orb" value="Tome of Grounding Orb" local="典籍：接地法球"/>
+    <str id="Tome of Mass Dismissal" value="Tome of Mass Dismissal" local="典籍：群体解散"/>
+    <str id="Tome of Repelling Smite" value="Tome of Repelling Smite" local="典籍：拒斥重击"/>
+    <str id="Tome of Ritual Sacrifice" value="Tome of Ritual Sacrifice" local="典籍：祭祀仪式"/>
+    <str id="Tome of Sacrificial Circle" value="Tome of Sacrificial Circle" local="典籍：献祭之环"/>
+    <str id="Tome of Spectral Gateway" value="Tome of Spectral Gateway" local="典籍：鬼怪之门"/>
   </TomeNames>
   <TomeDescs>
     <str id="BlessedTomeDesc" value="You have identified that this tome is blessed and it contains the %s spell." local="你鉴定过这本典籍，这是一本记载&#10;着 %s 法术的神圣典籍。"/>

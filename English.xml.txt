@@ -2230,26 +2230,26 @@ TomeNames."Tome of Animate Dead" 典籍：亡灵复生
 TomeNames."Tome of Transmute Item" 典籍：物品炼金
 TomeNames."Tome of Alter Terrain" 典籍：地表变形
 TomeNames."Tome of Arcane Missile" 典籍：奥术飞弹
-TomeNames."Tome of Big Bear Slap" Tome of 熊之巨掌
-TomeNames."Tome of Command Beast" Tome of 命令野兽
-TomeNames."Tome of Cure Bleeding" Tome of 流血治疗
-TomeNames."Tome of Expose Roots" Tome of 树根暴露
-TomeNames."Tome of Fairy Flight" Tome of 仙女飞行
-TomeNames."Tome of Insect Swarm" Tome of 虫群召唤
-TomeNames."Tome of Raptor Strike" Tome of 猛禽一击
-TomeNames."Tome of Shroom Grenade" Tome of 蘑菇手雷
-TomeNames."Tome of Soothe Beast" Tome of 安抚野兽
-TomeNames."Tome of Spirit Wolves" Tome of 狼之精灵
-TomeNames."Tome of Abyssal Grasp" Tome of 深渊之握
-TomeNames."Tome of Army of the Dead" Tome of 亡灵军团
-TomeNames."Tome of Corrupting Cloud" Tome of 腐蚀之云
-TomeNames."Tome of Dancing Weapons" Tome of 武器之舞
-TomeNames."Tome of Grounding Orb" Tome of 接地法球
-TomeNames."Tome of Mass Dismissal" Tome of 群体解散
-TomeNames."Tome of Repelling Smite" Tome of 拒斥重击
-TomeNames."Tome of Ritual Sacrifice" Tome of 祭祀仪式
-TomeNames."Tome of Sacrificial Circle" Tome of 献祭之环
-TomeNames."Tome of Spectral Gateway" Tome of 鬼怪之门
+TomeNames."Tome of Big Bear Slap" 典籍：熊之巨掌
+TomeNames."Tome of Command Beast" 典籍：命令野兽
+TomeNames."Tome of Cure Bleeding" 典籍：流血治疗
+TomeNames."Tome of Expose Roots" 典籍：树根暴露
+TomeNames."Tome of Fairy Flight" 典籍：仙女飞行
+TomeNames."Tome of Insect Swarm" 典籍：虫群召唤
+TomeNames."Tome of Raptor Strike" 典籍：猛禽一击
+TomeNames."Tome of Shroom Grenade" 典籍：蘑菇手雷
+TomeNames."Tome of Soothe Beast" 典籍：安抚野兽
+TomeNames."Tome of Spirit Wolves" 典籍：狼之精灵
+TomeNames."Tome of Abyssal Grasp" 典籍：深渊之握
+TomeNames."Tome of Army of the Dead" 典籍：亡灵军团
+TomeNames."Tome of Corrupting Cloud" 典籍：腐蚀之云
+TomeNames."Tome of Dancing Weapons" 典籍：武器之舞
+TomeNames."Tome of Grounding Orb" 典籍：接地法球
+TomeNames."Tome of Mass Dismissal" 典籍：群体解散
+TomeNames."Tome of Repelling Smite" 典籍：拒斥重击
+TomeNames."Tome of Ritual Sacrifice" 典籍：祭祀仪式
+TomeNames."Tome of Sacrificial Circle" 典籍：献祭之环
+TomeNames."Tome of Spectral Gateway" 典籍：鬼怪之门
 TomeDescs."BlessedTomeDesc" @(30)你鉴定过这本典籍，这是一本记载着 %s 法术的神圣典籍。
 TomeDescs."CursedTomeDesc" @(30)你鉴定过这本典籍，它被诅咒了，其中记载着 %s 法术。
 TomeDescs."IdentifiedTomeDesc" 你鉴定过这本典籍，它记载着 %s 法术。
