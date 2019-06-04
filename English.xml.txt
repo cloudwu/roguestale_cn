@@ -1089,7 +1089,7 @@ SpellNames."Summon Daemon" 召唤恶魔
 SpellNames."Venomous Orb" 毒球术
 SpellNames."Virulent Orb" 疫球术
 SpellNames."Divine Shield" 神圣之盾
-SpellNames."Conjure Daemon" 驱逐恶魔
+SpellNames."Conjure Daemon" 召唤恶魔
 SpellNames."Identify Item" 物品鉴定
 SpellNames."Enchant Item" 物品附魔
 SpellNames."Elemental Orb" 元素球
@@ -1098,26 +1098,26 @@ SpellNames."Animate Dead" 亡灵复生
 SpellNames."Transmute Item" 物品炼金
 SpellNames."Alter Terrain" 地表变形
 SpellNames."Arcane Missile" 奥术飞弹
-SpellNames."Big Bear Slap" Big Bear Slap
-SpellNames."Command Beast" Command Beast
-SpellNames."Cure Bleeding" Cure Bleeding
-SpellNames."Expose Roots" Expose Roots
-SpellNames."Fairy Flight" Fairy Flight
-SpellNames."Insect Swarm" Insect Swarm
-SpellNames."Raptor Strike" Raptor Strike
-SpellNames."Shroom Grenade" Shroom Grenade
-SpellNames."Soothe Beast" Soothe Beast
-SpellNames."Spirit Wolves" Spirit Wolves
-SpellNames."Abyssal Grasp" Abyssal Grasp
-SpellNames."Army of the Dead" Army of the Dead
-SpellNames."Corrupting Cloud" Corrupting Cloud
-SpellNames."Dancing Weapons" Dancing Weapons
-SpellNames."Grounding Orb" Grounding Orb
-SpellNames."Mass Dismissal" Mass Dismissal
-SpellNames."Repelling Smite" Repelling Smite
-SpellNames."Ritual Sacrifice" Ritual Sacrifice
-SpellNames."Sacrificial Circle" Sacrificial Circle
-SpellNames."Spectral Gateway" Spectral Gateway
+SpellNames."Big Bear Slap" 熊之巨掌
+SpellNames."Command Beast" 命令野兽
+SpellNames."Cure Bleeding" 流血治疗
+SpellNames."Expose Roots" 树根暴露
+SpellNames."Fairy Flight" 仙女飞行
+SpellNames."Insect Swarm" 虫群召唤
+SpellNames."Raptor Strike" 猛禽一击
+SpellNames."Shroom Grenade" 蘑菇手雷
+SpellNames."Soothe Beast" 安抚野兽
+SpellNames."Spirit Wolves" 狼之精灵
+SpellNames."Abyssal Grasp" 深渊之握
+SpellNames."Army of the Dead" 亡灵军团
+SpellNames."Corrupting Cloud" 腐蚀之云
+SpellNames."Dancing Weapons" 武器之舞
+SpellNames."Grounding Orb" 接地法球
+SpellNames."Mass Dismissal" 群体解散
+SpellNames."Repelling Smite" 拒斥重击
+SpellNames."Ritual Sacrifice" 祭祀仪式
+SpellNames."Sacrificial Circle" 献祭之环
+SpellNames."Spectral Gateway" 鬼怪之门
 SpellDescs."Cure Disease" @(30)尝试移除目标生物身上的一个疫病效果。
 SpellDescs."Cure Poison" @(30)尝试移除目标生物身上的一个中毒效果。
 SpellDescs."Dispel Magic" @(30)尝试移除目标生物身上，或特定地点，施法者物品栏中的物品上的一个魔法效果。
@@ -1158,26 +1158,26 @@ SpellDescs."Animate Dead" @(30)永久的将一个死去的人类转变为一个�
 SpellDescs."Transmute Item" @(30)将施法者物品栏中的目标物品炼成金币。
 SpellDescs."Alter Terrain" @(30)在偶数回合抬高，在奇数回合降低地块高度。
 SpellDescs."Arcane Missile" @(30)立刻杀死目标生物，或对其造成魔法伤害。
-SpellDescs."Big Bear Slap" Attempts to disarm, knock back and stun the target creature.
-SpellDescs."Command Beast" Attempts to control the target beast and make it your friend.
-SpellDescs."Cure Bleeding" Attempts to remove a bleeding wound from the target creature.
-SpellDescs."Expose Roots" Spawns a treeman from the target mushroom patch.
-SpellDescs."Fairy Flight" Places a magical effect on you that makes you levitate.
-SpellDescs."Insect Swarm" Attempts to overcome the target creature with various effects.
-SpellDescs."Raptor Strike" Tears open a wound and causes the target to bleed.
-SpellDescs."Shroom Grenade" Throws a random blood cap from the caster's inventory and explodes it on impact.
-SpellDescs."Soothe Beast" Attempts to soothe the target beast and make it neutral towards you.
-SpellDescs."Spirit Wolves" Summons a pack of ethereal spirit wolves at the target location.
-SpellDescs."Abyssal Grasp" Summons an abyssal claw at the target location.
-SpellDescs."Army of the Dead" Consumes all soul gems in your inventory to spawn an army of the dead.
-SpellDescs."Corrupting Cloud" Creates a corrupting cloud at the target location hitting everyone inside.
-SpellDescs."Dancing Weapons" Summons dancing weapons at the target location.
-SpellDescs."Grounding Orb" Causes magic damage based on the remaining energy and maximum mana shield of the target creature.
-SpellDescs."Mass Dismissal" Attempts to unsummon all summoned creatures within line of sight.
-SpellDescs."Repelling Smite" Attempts to knock back and stun all adjacent creatures.
-SpellDescs."Ritual Sacrifice" Attempts to sacrifice a creature at the center of the nearest sacrificial circle.
-SpellDescs."Sacrificial Circle" Conjures a 3x3 sacrificial circle at the target location.
-SpellDescs."Spectral Gateway" Teleports you to the nearest sacrificial circle or a random location if none exists.
+SpellDescs."Big Bear Slap" @(30)尝试缴械，击退并眩晕目标生物。
+SpellDescs."Command Beast" @(30)尝试控制目标野兽，使它成为你的伙伴。
+SpellDescs."Cure Bleeding" @(30)尝试给目标生物止血。
+SpellDescs."Expose Roots" @(30)从目标蘑菇碎片中孵化一个树人。
+SpellDescs."Fairy Flight" @(30)在你身上放置一个魔法效果，使你浮空。
+SpellDescs."Insect Swarm" @(30)尝试用各种效果战胜目标生物。
+SpellDescs."Raptor Strike" @(30)将目标撕开一个伤害，让其流血。
+SpellDescs."Shroom Grenade" @(30)从施法者物品栏中随机扔出一个血蘑菇，制造一个爆炸。
+SpellDescs."Soothe Beast" @(30)尝试安抚目标野兽，使它对你保持中立。
+SpellDescs."Spirit Wolves" @(30)在目标位置召唤出一组超凡的狼精。
+SpellDescs."Abyssal Grasp" @(30)在目标位置召唤一个深渊之爪。
+SpellDescs."Army of the Dead" @(30)消耗掉你的物品栏中所有的魂晶，孵化出一个亡灵军团。
+SpellDescs."Corrupting Cloud" @(30)在目标位置制造一片腐蚀之云，攻击其中的所有人。
+SpellDescs."Dancing Weapons" @(30)在目标位置召唤出跳舞的武器。
+SpellDescs."Grounding Orb" @(30)根据目标生物残存的精力数和魔法盾最大值造成魔法伤害。
+SpellDescs."Mass Dismissal" @(30)尝试对视线中所有召唤出来的生物解除召唤。
+SpellDescs."Repelling Smite" @(30)尝试击退所有邻接的生物，并眩晕他们。
+SpellDescs."Ritual Sacrifice" @(30)尝试在最近的献祭环中央献祭一个生物。
+SpellDescs."Sacrificial Circle" @(30)在目标位置施法变出一个 3x3 的献祭环。
+SpellDescs."Spectral Gateway" @(30)将你传送到最近的一个献祭环中，如果没有则传送到随机位置。
 SpellDescs."Hit Modifier: Charisma" 命中修正：魅力
 SpellDescs."Hit Modifier: Stamina" 命中修正：耐力
 SpellLogs."You gain clearcasting and cast the spell for free." 你获得沉静施法，本次施法免费。
@@ -1214,7 +1214,7 @@ SpellLogs."The chasm fills up and becomes a floor." 深坑上升变成了地板�
 SpellLogs."The floor rises up and becomes a wall." 地板上升变成了墙体。
 SpellLogs."The wall crumbles and reveals a floor." 墙体破碎变成了地板。
 SpellLogs."The floor crumbles and reveals a chasm." 地板破碎变成了深坑。
-SpellLogs."%s seems to calm down and is no longer hostile." %s seems to calm down and is no longer hostile.
+SpellLogs."%s seems to calm down and is no longer hostile." %s似乎冷静下来，不再敌对。
 EnchantNames."Mark of Agility" 敏捷印记
 EnchantNames."Mark of Charisma" 魅力印记
 EnchantNames."Mark of Stamina" 耐力印记
@@ -2221,7 +2221,7 @@ TomeNames."Tome of Summon Daemon" 典籍：召唤恶魔
 TomeNames."Tome of Venomous Orb" 典籍：毒球术
 TomeNames."Tome of Virulent Orb" 典籍：疫球术
 TomeNames."Tome of Divine Shield" 典籍：神圣之盾
-TomeNames."Tome of Conjure Daemon" 典籍：驱逐恶魔
+TomeNames."Tome of Conjure Daemon" 典籍：召唤恶魔
 TomeNames."Tome of Identify Item" 典籍：物品鉴定
 TomeNames."Tome of Enchant Item" 典籍：物品附魔
 TomeNames."Tome of Elemental Orb" 典籍：元素球
@@ -2230,26 +2230,26 @@ TomeNames."Tome of Animate Dead" 典籍：亡灵复生
 TomeNames."Tome of Transmute Item" 典籍：物品炼金
 TomeNames."Tome of Alter Terrain" 典籍：地表变形
 TomeNames."Tome of Arcane Missile" 典籍：奥术飞弹
-TomeNames."Tome of Big Bear Slap" Tome of Big Bear Slap
-TomeNames."Tome of Command Beast" Tome of Command Beast
-TomeNames."Tome of Cure Bleeding" Tome of Cure Bleeding
-TomeNames."Tome of Expose Roots" Tome of Expose Roots
-TomeNames."Tome of Fairy Flight" Tome of Fairy Flight
-TomeNames."Tome of Insect Swarm" Tome of Insect Swarm
-TomeNames."Tome of Raptor Strike" Tome of Raptor Strike
-TomeNames."Tome of Shroom Grenade" Tome of Shroom Grenade
-TomeNames."Tome of Soothe Beast" Tome of Soothe Beast
-TomeNames."Tome of Spirit Wolves" Tome of Spirit Wolves
-TomeNames."Tome of Abyssal Grasp" Tome of Abyssal Grasp
-TomeNames."Tome of Army of the Dead" Tome of Army of the Dead
-TomeNames."Tome of Corrupting Cloud" Tome of Corrupting Cloud
-TomeNames."Tome of Dancing Weapons" Tome of Dancing Weapons
-TomeNames."Tome of Grounding Orb" Tome of Grounding Orb
-TomeNames."Tome of Mass Dismissal" Tome of Mass Dismissal
-TomeNames."Tome of Repelling Smite" Tome of Repelling Smite
-TomeNames."Tome of Ritual Sacrifice" Tome of Ritual Sacrifice
-TomeNames."Tome of Sacrificial Circle" Tome of Sacrificial Circle
-TomeNames."Tome of Spectral Gateway" Tome of Spectral Gateway
+TomeNames."Tome of Big Bear Slap" Tome of 熊之巨掌
+TomeNames."Tome of Command Beast" Tome of 命令野兽
+TomeNames."Tome of Cure Bleeding" Tome of 流血治疗
+TomeNames."Tome of Expose Roots" Tome of 树根暴露
+TomeNames."Tome of Fairy Flight" Tome of 仙女飞行
+TomeNames."Tome of Insect Swarm" Tome of 虫群召唤
+TomeNames."Tome of Raptor Strike" Tome of 猛禽一击
+TomeNames."Tome of Shroom Grenade" Tome of 蘑菇手雷
+TomeNames."Tome of Soothe Beast" Tome of 安抚野兽
+TomeNames."Tome of Spirit Wolves" Tome of 狼之精灵
+TomeNames."Tome of Abyssal Grasp" Tome of 深渊之握
+TomeNames."Tome of Army of the Dead" Tome of 亡灵军团
+TomeNames."Tome of Corrupting Cloud" Tome of 腐蚀之云
+TomeNames."Tome of Dancing Weapons" Tome of 武器之舞
+TomeNames."Tome of Grounding Orb" Tome of 接地法球
+TomeNames."Tome of Mass Dismissal" Tome of 群体解散
+TomeNames."Tome of Repelling Smite" Tome of 拒斥重击
+TomeNames."Tome of Ritual Sacrifice" Tome of 祭祀仪式
+TomeNames."Tome of Sacrificial Circle" Tome of 献祭之环
+TomeNames."Tome of Spectral Gateway" Tome of 鬼怪之门
 TomeDescs."BlessedTomeDesc" @(30)你鉴定过这本典籍，这是一本记载着 %s 法术的神圣典籍。
 TomeDescs."CursedTomeDesc" @(30)你鉴定过这本典籍，它被诅咒了，其中记载着 %s 法术。
 TomeDescs."IdentifiedTomeDesc" 你鉴定过这本典籍，它记载着 %s 法术。
@@ -2395,7 +2395,7 @@ WeaponNames."Serrated Arm" 锯齿臂
 WeaponNames."Massive Claw" 巨爪
 WeaponNames."Corrosive Bite" 侵蚀之咬
 WeaponNames."Ferocius Bite" 暴虐之咬
-WeaponNames."Spectral Bite" 幽灵之咬
+WeaponNames."Spectral Bite" 鬼怪之咬
 WeaponNames."Infectious Bite" 瘟疫之咬
 WeaponNames."Vampiric Bite" 吸血之咬
 WeaponNames."Venomous Bite" 毒液之咬
@@ -2970,120 +2970,120 @@ RIPTitles."Stream" 小溪
 RIPTitles."Town" 城镇
 RIPTitles."Valley" 山谷
 RIPTitles."Well" 水井
-MaleNames."Abner" Abner
-MaleNames."Aiden" Aiden
-MaleNames."Amos" Amos
-MaleNames."Arthur" Arthur
-MaleNames."Baldwin" Baldwin
-MaleNames."Bernard" Bernard
-MaleNames."Brian" Brian
-MaleNames."Byron" Byron
-MaleNames."Caleb" Caleb
-MaleNames."Cedric" Cedric
-MaleNames."Corwin" Corwin
-MaleNames."Cyril" Cyril
-MaleNames."Damon" Damon
-MaleNames."Declan" Declan
-MaleNames."Dorian" Dorian
-MaleNames."Duncan" Duncan
-MaleNames."Edmund" Edmund
-MaleNames."Egbert" Egbert
-MaleNames."Elijah" Elijah
-MaleNames."Ethan" Ethan
-MaleNames."Falkner" Falkner
-MaleNames."Fergus" Fergus
-MaleNames."Ferris" Ferris
-MaleNames."Francis" Francis
-MaleNames."Gabriel" Gabriel
-MaleNames."Gideon" Gideon
-MaleNames."Gilbert" Gilbert
-MaleNames."Giles" Giles
-MaleNames."Harold" Harold
-MaleNames."Herbert" Herbert
-MaleNames."Horatio" Horatio
-MaleNames."Hubert" Hubert
-MaleNames."Igor" Igor
-MaleNames."Irvin" Irvin
-MaleNames."Isaac" Isaac
-MaleNames."Ivar" Ivar
-MaleNames."Jacob" Jacob
-MaleNames."Jerome" Jerome
-MaleNames."Joseph" Joseph
-MaleNames."Joshua" Joshua
-MaleNames."Kendall" Kendall
-MaleNames."Kenneth" Kenneth
-MaleNames."Kiefer" Kiefer
-MaleNames."Konrad" Konrad
-MaleNames."Lambert" Lambert
-MaleNames."Leonard" Leonard
-MaleNames."Lucas" Lucas
-MaleNames."Lyndon" Lyndon
-MaleNames."Magnus" Magnus
-MaleNames."Marcus" Marcus
-MaleNames."Milburn" Milburn
-MaleNames."Morgan" Morgan
-MaleNames."Nathan" Nathan
-MaleNames."Nigel" Nigel
-MaleNames."Norman" Norman
-MaleNames."Norris" Norris
-MaleNames."Oliver" Oliver
-MaleNames."Orson" Orson
-MaleNames."Otis" Otis
-MaleNames."Owen" Owen
-MaleNames."Percival" Percival
-MaleNames."Patrick" Patrick
-MaleNames."Philbert" Philbert
-MaleNames."Philip" Philip
-MaleNames."Quimby" Quimby
-MaleNames."Quentin" Quentin
-MaleNames."Quinn" Quinn
-MaleNames."Randolph" Randolph
-MaleNames."Reginald" Reginald
-MaleNames."Richard" Richard
-MaleNames."Rupert" Rupert
-MaleNames."Samuel" Samuel
-MaleNames."Shamus" Shamus
-MaleNames."Sigmund" Sigmund
-MaleNames."Stewart" Stewart
-MaleNames."Thomas" Thomas
-MaleNames."Titus" Titus
-MaleNames."Tobias" Tobias
-MaleNames."Tristan" Tristan
-MaleNames."Udolf" Udolf
-MaleNames."Uriah" Uriah
-MaleNames."Vaughan" Vaughan
-MaleNames."Vernon" Vernon
-MaleNames."Victor" Victor
-MaleNames."Vincent" Vincent
-MaleNames."Walter" Walter
-MaleNames."Warren" Warren
-MaleNames."Wesley" Wesley
-MaleNames."Wilbur" Wilbur
-MaleNames."Zachary" Zachary
-FemaleNames."Agnes" Agnes
-FemaleNames."Anita" Anita
-FemaleNames."Astrid" Astrid
-FemaleNames."Audrey" Audrey
-FemaleNames."Bella" Bella
-FemaleNames."Bianca" Bianca
-FemaleNames."Brenda" Brenda
-FemaleNames."Brooke" Brooke
-FemaleNames."Caitlin" Caitlin
-FemaleNames."Caroline" Caroline
-FemaleNames."Catherine" Catherine
-FemaleNames."Cynthia" Cynthia
-FemaleNames."Daphne" Daphne
-FemaleNames."Deborah" Deborah
-FemaleNames."Deirdre" Deirdre
-FemaleNames."Drucilla" Drucilla
-FemaleNames."Edith" Edith
-FemaleNames."Eileen" Eileen
-FemaleNames."Eleanor" Eleanor
-FemaleNames."Evelyn" Evelyn
-FemaleNames."Fawn" Fawn
-FemaleNames."Faye" Faye
-FemaleNames."Fiona" Fiona
-FemaleNames."Frida" Frida
+MaleNames."Abner" 墨翟
+MaleNames."Aiden" 侯赢
+MaleNames."Amos" 朱亥
+MaleNames."Arthur" 亚瑟
+MaleNames."Baldwin" 白起
+MaleNames."Bernard" 鲁仲连
+MaleNames."Brian" 曹沫
+MaleNames."Byron" 朱家
+MaleNames."Caleb" 专诸
+MaleNames."Cedric" 聂政
+MaleNames."Corwin" 要离
+MaleNames."Cyril" 荆轲
+MaleNames."Damon" 豫让
+MaleNames."Declan" 霍去病
+MaleNames."Dorian" 徐达
+MaleNames."Duncan" 郭子仪
+MaleNames."Edmund" 吕尚
+MaleNames."Egbert" 孙武
+MaleNames."Elijah" 伍员
+MaleNames."Ethan" 吴起
+MaleNames."Falkner" 孙膑
+MaleNames."Fergus" 田单
+MaleNames."Ferris" 乐毅
+MaleNames."Francis" 李牧
+MaleNames."Gabriel" 廉颇
+MaleNames."Gideon" 韩信
+MaleNames."Gilbert" 周亚夫
+MaleNames."Giles" 樊哙
+MaleNames."Harold" 李广
+MaleNames."Herbert" 卫青
+MaleNames."Horatio" 寇恂
+MaleNames."Hubert" 冯异
+MaleNames."Igor" 贾复
+MaleNames."Irvin" 吴汉
+MaleNames."Isaac" 王霸
+MaleNames."Ivar" 班超
+MaleNames."Jacob" 吕布
+MaleNames."Jerome" 赵云
+MaleNames."Joseph" 张飞
+MaleNames."Joshua" 关羽
+MaleNames."Kendall" 典韦
+MaleNames."Kenneth" 许褚
+MaleNames."Kiefer" 马超
+MaleNames."Konrad" 黄忠
+MaleNames."Lambert" 文丑
+MaleNames."Leonard" 颜良
+MaleNames."Lucas" 庞德
+MaleNames."Lyndon" 张辽
+MaleNames."Magnus" 高顺
+MaleNames."Marcus" 孙策
+MaleNames."Milburn" 太史慈
+MaleNames."Morgan" 夏侯惇
+MaleNames."Nathan" 甘宁
+MaleNames."Nigel" 徐晃
+MaleNames."Norman" 魏延
+MaleNames."Norris" 张郃
+MaleNames."Oliver" 姜维
+MaleNames."Orson" 文鸯
+MaleNames."Otis" 夏侯渊
+MaleNames."Owen" 关兴
+MaleNames."Percival" 张苞
+MaleNames."Patrick" 马腾
+MaleNames."Philbert" 马岱
+MaleNames."Philip" 华雄
+MaleNames."Quimby" 周泰
+MaleNames."Quentin" 卢俊义
+MaleNames."Quinn" 公孙胜
+MaleNames."Randolph" 关胜
+MaleNames."Reginald" 林冲
+MaleNames."Richard" 花荣
+MaleNames."Rupert" 鲁智深
+MaleNames."Samuel" 武松
+MaleNames."Shamus" 秦明
+MaleNames."Sigmund" 呼延灼
+MaleNames."Stewart" 张清
+MaleNames."Thomas" 李逵
+MaleNames."Titus" 岳飞
+MaleNames."Tobias" 金兀术
+MaleNames."Tristan" 杨再兴
+MaleNames."Udolf" 张宪
+MaleNames."Uriah" 宇文成都
+MaleNames."Vaughan" 李元霸
+MaleNames."Vernon" 裴元庆
+MaleNames."Victor" 罗成
+MaleNames."Vincent" 杨林
+MaleNames."Walter" 秦琼
+MaleNames."Warren" 尉迟恭
+MaleNames."Wesley" 魏文通
+MaleNames."Wilbur" 程咬金
+MaleNames."Zachary" 单雄信
+FemaleNames."Agnes" 貂蝉
+FemaleNames."Anita" 孙尚香
+FemaleNames."Astrid" 甄宓
+FemaleNames."Audrey" 小乔
+FemaleNames."Bella" 大乔
+FemaleNames."Bianca" 蔡文姬
+FemaleNames."Brenda" 马云禄
+FemaleNames."Brooke" 黄月英
+FemaleNames."Caitlin" 关凤
+FemaleNames."Caroline" 红拂女
+FemaleNames."Catherine" 卓文君
+FemaleNames."Cynthia" 卫子夫
+FemaleNames."Daphne" 赵飞燕
+FemaleNames."Deborah" 王政君
+FemaleNames."Deirdre" 杨玉环
+FemaleNames."Drucilla" 班昭
+FemaleNames."Edith" 武则天
+FemaleNames."Eileen" 上官婉儿
+FemaleNames."Eleanor" 唐琬
+FemaleNames."Evelyn" 樊梨花
+FemaleNames."Fawn" 王宝钏
+FemaleNames."Faye" 孙二娘
+FemaleNames."Fiona" 潘金莲
+FemaleNames."Frida" 李师师
 FemaleNames."Gabrielle" Gabrielle
 FemaleNames."Genevieve" Genevieve
 FemaleNames."Guinevere" Guinevere
@@ -4010,7 +4010,7 @@ SpellbookWindow."You can't cast arcane spells without an amulet." 没有项链�
 SpellbookWindow."You can't cast bestial spells without a bull horn." 没有牛角不能施放兽性法术。
 SpellbookWindow."You can't cast abyssal spells without a pyramidion." 没有金字塔无法施放深渊法术。
 SpellbookWindow."You can't cast release soul without a soul gem." 没有灵魂石无法释放灵魂。
-SpellbookWindow."You can't cast shroom grenade without a blood cap." 你无法没有血蘑菇来施放蘑菇手榴弹。
+SpellbookWindow."You can't cast shroom grenade without a blood cap." 你无法没有血蘑菇来施放蘑菇手雷。
 SpellbookWindow."You can't cast army of the dead without a soul gem." 你没有魂晶来施放死亡军团。
 SpellbookWindow."You can't cast ritual sacrifice without an amulet of sacrifice." 你没有献祭项链来施放祭祀仪式。
 SpellbookWindow."The spell is on a cooldown with %d turns remaining." 这个法术还在冷却中，还剩 %d 回合。

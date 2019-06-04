@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190603)" checksum="c7b230c9373dfda50a831ba38ed6f6a2bdf81ce9">
+<strings version="Version 2.00 Beta 1 (190603)" checksum="dfb87c27167091149bbd3d91eb9ac28db930f478">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -1202,7 +1202,7 @@
     <str id="Venomous Orb" value="Venomous Orb" local="毒球术"/>
     <str id="Virulent Orb" value="Virulent Orb" local="疫球术"/>
     <str id="Divine Shield" value="Divine Shield" local="神圣之盾"/>
-    <str id="Conjure Daemon" value="Conjure Daemon" local="驱逐恶魔"/>
+    <str id="Conjure Daemon" value="Conjure Daemon" local="召唤恶魔"/>
     <str id="Identify Item" value="Identify Item" local="物品鉴定"/>
     <str id="Enchant Item" value="Enchant Item" local="物品附魔"/>
     <str id="Elemental Orb" value="Elemental Orb" local="元素球"/>
@@ -1211,26 +1211,26 @@
     <str id="Transmute Item" value="Transmute Item" local="物品炼金"/>
     <str id="Alter Terrain" value="Alter Terrain" local="地表变形"/>
     <str id="Arcane Missile" value="Arcane Missile" local="奥术飞弹"/>
-    <str id="Big Bear Slap" value="Big Bear Slap"/>
-    <str id="Command Beast" value="Command Beast"/>
-    <str id="Cure Bleeding" value="Cure Bleeding"/>
-    <str id="Expose Roots" value="Expose Roots"/>
-    <str id="Fairy Flight" value="Fairy Flight"/>
-    <str id="Insect Swarm" value="Insect Swarm"/>
-    <str id="Raptor Strike" value="Raptor Strike"/>
-    <str id="Shroom Grenade" value="Shroom Grenade"/>
-    <str id="Soothe Beast" value="Soothe Beast"/>
-    <str id="Spirit Wolves" value="Spirit Wolves"/>
-    <str id="Abyssal Grasp" value="Abyssal Grasp"/>
-    <str id="Army of the Dead" value="Army of the Dead"/>
-    <str id="Corrupting Cloud" value="Corrupting Cloud"/>
-    <str id="Dancing Weapons" value="Dancing Weapons"/>
-    <str id="Grounding Orb" value="Grounding Orb"/>
-    <str id="Mass Dismissal" value="Mass Dismissal"/>
-    <str id="Repelling Smite" value="Repelling Smite"/>
-    <str id="Ritual Sacrifice" value="Ritual Sacrifice"/>
-    <str id="Sacrificial Circle" value="Sacrificial Circle"/>
-    <str id="Spectral Gateway" value="Spectral Gateway"/>
+    <str id="Big Bear Slap" value="Big Bear Slap" local="熊之巨掌"/>
+    <str id="Command Beast" value="Command Beast" local="命令野兽"/>
+    <str id="Cure Bleeding" value="Cure Bleeding" local="流血治疗"/>
+    <str id="Expose Roots" value="Expose Roots" local="树根暴露"/>
+    <str id="Fairy Flight" value="Fairy Flight" local="仙女飞行"/>
+    <str id="Insect Swarm" value="Insect Swarm" local="虫群召唤"/>
+    <str id="Raptor Strike" value="Raptor Strike" local="猛禽一击"/>
+    <str id="Shroom Grenade" value="Shroom Grenade" local="蘑菇手雷"/>
+    <str id="Soothe Beast" value="Soothe Beast" local="安抚野兽"/>
+    <str id="Spirit Wolves" value="Spirit Wolves" local="狼之精灵"/>
+    <str id="Abyssal Grasp" value="Abyssal Grasp" local="深渊之握"/>
+    <str id="Army of the Dead" value="Army of the Dead" local="亡灵军团"/>
+    <str id="Corrupting Cloud" value="Corrupting Cloud" local="腐蚀之云"/>
+    <str id="Dancing Weapons" value="Dancing Weapons" local="武器之舞"/>
+    <str id="Grounding Orb" value="Grounding Orb" local="接地法球"/>
+    <str id="Mass Dismissal" value="Mass Dismissal" local="群体解散"/>
+    <str id="Repelling Smite" value="Repelling Smite" local="拒斥重击"/>
+    <str id="Ritual Sacrifice" value="Ritual Sacrifice" local="祭祀仪式"/>
+    <str id="Sacrificial Circle" value="Sacrificial Circle" local="献祭之环"/>
+    <str id="Spectral Gateway" value="Spectral Gateway" local="鬼怪之门"/>
   </SpellNames>
   <SpellDescs>
     <str id="Cure Disease" value="Attempts to remove one disease effect from the target creature." local="尝试移除目标生物身上的一个疫病&#10;效果。"/>
@@ -1273,26 +1273,26 @@
     <str id="Transmute Item" value="Transmutes the targeted item in the caster's inventory into gold coins." local="将施法者物品栏中的目标物品炼成&#10;金币。"/>
     <str id="Alter Terrain" value="Increases or decreases the height of terrain on even or odd turns respectively." local="在偶数回合抬高，在奇数回合降低&#10;地块高度。"/>
     <str id="Arcane Missile" value="Causes magic damage or instantly kills the target creature." local="立刻杀死目标生物，或对其造成魔&#10;法伤害。"/>
-    <str id="Big Bear Slap" value="Attempts to disarm, knock back and stun the target creature."/>
-    <str id="Command Beast" value="Attempts to control the target beast and make it your friend."/>
-    <str id="Cure Bleeding" value="Attempts to remove a bleeding wound from the target creature."/>
-    <str id="Expose Roots" value="Spawns a treeman from the target mushroom patch."/>
-    <str id="Fairy Flight" value="Places a magical effect on you that makes you levitate."/>
-    <str id="Insect Swarm" value="Attempts to overcome the target creature with various effects."/>
-    <str id="Raptor Strike" value="Tears open a wound and causes the target to bleed."/>
-    <str id="Shroom Grenade" value="Throws a random blood cap from the caster's inventory and explodes it on impact."/>
-    <str id="Soothe Beast" value="Attempts to soothe the target beast and make it neutral towards you."/>
-    <str id="Spirit Wolves" value="Summons a pack of ethereal spirit wolves at the target location."/>
-    <str id="Abyssal Grasp" value="Summons an abyssal claw at the target location."/>
-    <str id="Army of the Dead" value="Consumes all soul gems in your inventory to spawn an army of the dead."/>
-    <str id="Corrupting Cloud" value="Creates a corrupting cloud at the target location hitting everyone inside."/>
-    <str id="Dancing Weapons" value="Summons dancing weapons at the target location."/>
-    <str id="Grounding Orb" value="Causes magic damage based on the remaining energy and maximum mana shield of the target creature."/>
-    <str id="Mass Dismissal" value="Attempts to unsummon all summoned creatures within line of sight."/>
-    <str id="Repelling Smite" value="Attempts to knock back and stun all adjacent creatures."/>
-    <str id="Ritual Sacrifice" value="Attempts to sacrifice a creature at the center of the nearest sacrificial circle."/>
-    <str id="Sacrificial Circle" value="Conjures a 3x3 sacrificial circle at the target location."/>
-    <str id="Spectral Gateway" value="Teleports you to the nearest sacrificial circle or a random location if none exists."/>
+    <str id="Big Bear Slap" value="Attempts to disarm, knock back and stun the target creature." local="尝试缴械，击退并眩晕目标生物。"/>
+    <str id="Command Beast" value="Attempts to control the target beast and make it your friend." local="尝试控制目标野兽，使它成为你的&#10;伙伴。"/>
+    <str id="Cure Bleeding" value="Attempts to remove a bleeding wound from the target creature." local="尝试给目标生物止血。"/>
+    <str id="Expose Roots" value="Spawns a treeman from the target mushroom patch." local="从目标蘑菇碎片中孵化一个树人。"/>
+    <str id="Fairy Flight" value="Places a magical effect on you that makes you levitate." local="在你身上放置一个魔法效果，使你&#10;浮空。"/>
+    <str id="Insect Swarm" value="Attempts to overcome the target creature with various effects." local="尝试用各种效果战胜目标生物。"/>
+    <str id="Raptor Strike" value="Tears open a wound and causes the target to bleed." local="将目标撕开一个伤害，让其流血。"/>
+    <str id="Shroom Grenade" value="Throws a random blood cap from the caster's inventory and explodes it on impact." local="从施法者物品栏中随机扔出一个血&#10;蘑菇，制造一个爆炸。"/>
+    <str id="Soothe Beast" value="Attempts to soothe the target beast and make it neutral towards you." local="尝试安抚目标野兽，使它对你保持&#10;中立。"/>
+    <str id="Spirit Wolves" value="Summons a pack of ethereal spirit wolves at the target location." local="在目标位置召唤出一组超凡的狼精&#10;。"/>
+    <str id="Abyssal Grasp" value="Summons an abyssal claw at the target location." local="在目标位置召唤一个深渊之爪。"/>
+    <str id="Army of the Dead" value="Consumes all soul gems in your inventory to spawn an army of the dead." local="消耗掉你的物品栏中所有的魂晶，&#10;孵化出一个亡灵军团。"/>
+    <str id="Corrupting Cloud" value="Creates a corrupting cloud at the target location hitting everyone inside." local="在目标位置制造一片腐蚀之云，攻&#10;击其中的所有人。"/>
+    <str id="Dancing Weapons" value="Summons dancing weapons at the target location." local="在目标位置召唤出跳舞的武器。"/>
+    <str id="Grounding Orb" value="Causes magic damage based on the remaining energy and maximum mana shield of the target creature." local="根据目标生物残存的精力数和魔法&#10;盾最大值造成魔法伤害。"/>
+    <str id="Mass Dismissal" value="Attempts to unsummon all summoned creatures within line of sight." local="尝试对视线中所有召唤出来的生物&#10;解除召唤。"/>
+    <str id="Repelling Smite" value="Attempts to knock back and stun all adjacent creatures." local="尝试击退所有邻接的生物，并眩晕&#10;他们。"/>
+    <str id="Ritual Sacrifice" value="Attempts to sacrifice a creature at the center of the nearest sacrificial circle." local="尝试在最近的献祭环中央献祭一个&#10;生物。"/>
+    <str id="Sacrificial Circle" value="Conjures a 3x3 sacrificial circle at the target location." local="在目标位置施法变出一个 3x3 的献&#10;祭环。"/>
+    <str id="Spectral Gateway" value="Teleports you to the nearest sacrificial circle or a random location if none exists." local="将你传送到最近的一个献祭环中，&#10;如果没有则传送到随机位置。"/>
     <str id="Hit Modifier: Charisma" value="Hit Modifier: Charisma" local="命中修正：魅力"/>
     <str id="Hit Modifier: Stamina" value="Hit Modifier: Stamina" local="命中修正：耐力"/>
   </SpellDescs>
@@ -1331,7 +1331,7 @@
     <str id="The floor rises up and becomes a wall." value="The floor rises up and becomes a wall." local="地板上升变成了墙体。"/>
     <str id="The wall crumbles and reveals a floor." value="The wall crumbles and reveals a floor." local="墙体破碎变成了地板。"/>
     <str id="The floor crumbles and reveals a chasm." value="The floor crumbles and reveals a chasm." local="地板破碎变成了深坑。"/>
-    <str id="%s seems to calm down and is no longer hostile." value="%s seems to calm down and is no longer hostile."/>
+    <str id="%s seems to calm down and is no longer hostile." value="%s seems to calm down and is no longer hostile." local="%s似乎冷静下来，不再敌对。"/>
   </SpellLogs>
   <EnchantNames>
     <str id="Mark of Agility" value="Mark of Agility" local="敏捷印记"/>
@@ -2412,7 +2412,7 @@
     <str id="Tome of Venomous Orb" value="Tome of Venomous Orb" local="典籍：毒球术"/>
     <str id="Tome of Virulent Orb" value="Tome of Virulent Orb" local="典籍：疫球术"/>
     <str id="Tome of Divine Shield" value="Tome of Divine Shield" local="典籍：神圣之盾"/>
-    <str id="Tome of Conjure Daemon" value="Tome of Conjure Daemon" local="典籍：驱逐恶魔"/>
+    <str id="Tome of Conjure Daemon" value="Tome of Conjure Daemon" local="典籍：召唤恶魔"/>
     <str id="Tome of Identify Item" value="Tome of Identify Item" local="典籍：物品鉴定"/>
     <str id="Tome of Enchant Item" value="Tome of Enchant Item" local="典籍：物品附魔"/>
     <str id="Tome of Elemental Orb" value="Tome of Elemental Orb" local="典籍：元素球"/>
@@ -2421,26 +2421,26 @@
     <str id="Tome of Transmute Item" value="Tome of Transmute Item" local="典籍：物品炼金"/>
     <str id="Tome of Alter Terrain" value="Tome of Alter Terrain" local="典籍：地表变形"/>
     <str id="Tome of Arcane Missile" value="Tome of Arcane Missile" local="典籍：奥术飞弹"/>
-    <str id="Tome of Big Bear Slap" value="Tome of Big Bear Slap"/>
-    <str id="Tome of Command Beast" value="Tome of Command Beast"/>
-    <str id="Tome of Cure Bleeding" value="Tome of Cure Bleeding"/>
-    <str id="Tome of Expose Roots" value="Tome of Expose Roots"/>
-    <str id="Tome of Fairy Flight" value="Tome of Fairy Flight"/>
-    <str id="Tome of Insect Swarm" value="Tome of Insect Swarm"/>
-    <str id="Tome of Raptor Strike" value="Tome of Raptor Strike"/>
-    <str id="Tome of Shroom Grenade" value="Tome of Shroom Grenade"/>
-    <str id="Tome of Soothe Beast" value="Tome of Soothe Beast"/>
-    <str id="Tome of Spirit Wolves" value="Tome of Spirit Wolves"/>
-    <str id="Tome of Abyssal Grasp" value="Tome of Abyssal Grasp"/>
-    <str id="Tome of Army of the Dead" value="Tome of Army of the Dead"/>
-    <str id="Tome of Corrupting Cloud" value="Tome of Corrupting Cloud"/>
-    <str id="Tome of Dancing Weapons" value="Tome of Dancing Weapons"/>
-    <str id="Tome of Grounding Orb" value="Tome of Grounding Orb"/>
-    <str id="Tome of Mass Dismissal" value="Tome of Mass Dismissal"/>
-    <str id="Tome of Repelling Smite" value="Tome of Repelling Smite"/>
-    <str id="Tome of Ritual Sacrifice" value="Tome of Ritual Sacrifice"/>
-    <str id="Tome of Sacrificial Circle" value="Tome of Sacrificial Circle"/>
-    <str id="Tome of Spectral Gateway" value="Tome of Spectral Gateway"/>
+    <str id="Tome of Big Bear Slap" value="Tome of Big Bear Slap" local="Tome of 熊之巨掌"/>
+    <str id="Tome of Command Beast" value="Tome of Command Beast" local="Tome of 命令野兽"/>
+    <str id="Tome of Cure Bleeding" value="Tome of Cure Bleeding" local="Tome of 流血治疗"/>
+    <str id="Tome of Expose Roots" value="Tome of Expose Roots" local="Tome of 树根暴露"/>
+    <str id="Tome of Fairy Flight" value="Tome of Fairy Flight" local="Tome of 仙女飞行"/>
+    <str id="Tome of Insect Swarm" value="Tome of Insect Swarm" local="Tome of 虫群召唤"/>
+    <str id="Tome of Raptor Strike" value="Tome of Raptor Strike" local="Tome of 猛禽一击"/>
+    <str id="Tome of Shroom Grenade" value="Tome of Shroom Grenade" local="Tome of 蘑菇手雷"/>
+    <str id="Tome of Soothe Beast" value="Tome of Soothe Beast" local="Tome of 安抚野兽"/>
+    <str id="Tome of Spirit Wolves" value="Tome of Spirit Wolves" local="Tome of 狼之精灵"/>
+    <str id="Tome of Abyssal Grasp" value="Tome of Abyssal Grasp" local="Tome of 深渊之握"/>
+    <str id="Tome of Army of the Dead" value="Tome of Army of the Dead" local="Tome of 亡灵军团"/>
+    <str id="Tome of Corrupting Cloud" value="Tome of Corrupting Cloud" local="Tome of 腐蚀之云"/>
+    <str id="Tome of Dancing Weapons" value="Tome of Dancing Weapons" local="Tome of 武器之舞"/>
+    <str id="Tome of Grounding Orb" value="Tome of Grounding Orb" local="Tome of 接地法球"/>
+    <str id="Tome of Mass Dismissal" value="Tome of Mass Dismissal" local="Tome of 群体解散"/>
+    <str id="Tome of Repelling Smite" value="Tome of Repelling Smite" local="Tome of 拒斥重击"/>
+    <str id="Tome of Ritual Sacrifice" value="Tome of Ritual Sacrifice" local="Tome of 祭祀仪式"/>
+    <str id="Tome of Sacrificial Circle" value="Tome of Sacrificial Circle" local="Tome of 献祭之环"/>
+    <str id="Tome of Spectral Gateway" value="Tome of Spectral Gateway" local="Tome of 鬼怪之门"/>
   </TomeNames>
   <TomeDescs>
     <str id="BlessedTomeDesc" value="You have identified that this tome is blessed and it contains the %s spell." local="你鉴定过这本典籍，这是一本记载&#10;着 %s 法术的神圣典籍。"/>
@@ -2602,7 +2602,7 @@
     <str id="Massive Claw" value="Massive Claw" local="巨爪"/>
     <str id="Corrosive Bite" value="Corrosive Bite" local="侵蚀之咬"/>
     <str id="Ferocius Bite" value="Ferocius Bite" local="暴虐之咬"/>
-    <str id="Spectral Bite" value="Spectral Bite" local="幽灵之咬"/>
+    <str id="Spectral Bite" value="Spectral Bite" local="鬼怪之咬"/>
     <str id="Infectious Bite" value="Infectious Bite" local="瘟疫之咬"/>
     <str id="Vampiric Bite" value="Vampiric Bite" local="吸血之咬"/>
     <str id="Venomous Bite" value="Venomous Bite" local="毒液之咬"/>
@@ -3195,122 +3195,122 @@
     <str id="Well" value="Well" local="水井"/>
   </RIPTitles>
   <MaleNames>
-    <str id="Abner" value="Abner"/>
-    <str id="Aiden" value="Aiden"/>
-    <str id="Amos" value="Amos"/>
-    <str id="Arthur" value="Arthur"/>
-    <str id="Baldwin" value="Baldwin"/>
-    <str id="Bernard" value="Bernard"/>
-    <str id="Brian" value="Brian"/>
-    <str id="Byron" value="Byron"/>
-    <str id="Caleb" value="Caleb"/>
-    <str id="Cedric" value="Cedric"/>
-    <str id="Corwin" value="Corwin"/>
-    <str id="Cyril" value="Cyril"/>
-    <str id="Damon" value="Damon"/>
-    <str id="Declan" value="Declan"/>
-    <str id="Dorian" value="Dorian"/>
-    <str id="Duncan" value="Duncan"/>
-    <str id="Edmund" value="Edmund"/>
-    <str id="Egbert" value="Egbert"/>
-    <str id="Elijah" value="Elijah"/>
-    <str id="Ethan" value="Ethan"/>
-    <str id="Falkner" value="Falkner"/>
-    <str id="Fergus" value="Fergus"/>
-    <str id="Ferris" value="Ferris"/>
-    <str id="Francis" value="Francis"/>
-    <str id="Gabriel" value="Gabriel"/>
-    <str id="Gideon" value="Gideon"/>
-    <str id="Gilbert" value="Gilbert"/>
-    <str id="Giles" value="Giles"/>
-    <str id="Harold" value="Harold"/>
-    <str id="Herbert" value="Herbert"/>
-    <str id="Horatio" value="Horatio"/>
-    <str id="Hubert" value="Hubert"/>
-    <str id="Igor" value="Igor"/>
-    <str id="Irvin" value="Irvin"/>
-    <str id="Isaac" value="Isaac"/>
-    <str id="Ivar" value="Ivar"/>
-    <str id="Jacob" value="Jacob"/>
-    <str id="Jerome" value="Jerome"/>
-    <str id="Joseph" value="Joseph"/>
-    <str id="Joshua" value="Joshua"/>
-    <str id="Kendall" value="Kendall"/>
-    <str id="Kenneth" value="Kenneth"/>
-    <str id="Kiefer" value="Kiefer"/>
-    <str id="Konrad" value="Konrad"/>
-    <str id="Lambert" value="Lambert"/>
-    <str id="Leonard" value="Leonard"/>
-    <str id="Lucas" value="Lucas"/>
-    <str id="Lyndon" value="Lyndon"/>
-    <str id="Magnus" value="Magnus"/>
-    <str id="Marcus" value="Marcus"/>
-    <str id="Milburn" value="Milburn"/>
-    <str id="Morgan" value="Morgan"/>
-    <str id="Nathan" value="Nathan"/>
-    <str id="Nigel" value="Nigel"/>
-    <str id="Norman" value="Norman"/>
-    <str id="Norris" value="Norris"/>
-    <str id="Oliver" value="Oliver"/>
-    <str id="Orson" value="Orson"/>
-    <str id="Otis" value="Otis"/>
-    <str id="Owen" value="Owen"/>
-    <str id="Percival" value="Percival"/>
-    <str id="Patrick" value="Patrick"/>
-    <str id="Philbert" value="Philbert"/>
-    <str id="Philip" value="Philip"/>
-    <str id="Quimby" value="Quimby"/>
-    <str id="Quentin" value="Quentin"/>
-    <str id="Quinn" value="Quinn"/>
-    <str id="Randolph" value="Randolph"/>
-    <str id="Reginald" value="Reginald"/>
-    <str id="Richard" value="Richard"/>
-    <str id="Rupert" value="Rupert"/>
-    <str id="Samuel" value="Samuel"/>
-    <str id="Shamus" value="Shamus"/>
-    <str id="Sigmund" value="Sigmund"/>
-    <str id="Stewart" value="Stewart"/>
-    <str id="Thomas" value="Thomas"/>
-    <str id="Titus" value="Titus"/>
-    <str id="Tobias" value="Tobias"/>
-    <str id="Tristan" value="Tristan"/>
-    <str id="Udolf" value="Udolf"/>
-    <str id="Uriah" value="Uriah"/>
-    <str id="Vaughan" value="Vaughan"/>
-    <str id="Vernon" value="Vernon"/>
-    <str id="Victor" value="Victor"/>
-    <str id="Vincent" value="Vincent"/>
-    <str id="Walter" value="Walter"/>
-    <str id="Warren" value="Warren"/>
-    <str id="Wesley" value="Wesley"/>
-    <str id="Wilbur" value="Wilbur"/>
-    <str id="Zachary" value="Zachary"/>
+    <str id="Abner" value="Abner" local="墨翟"/>
+    <str id="Aiden" value="Aiden" local="侯赢"/>
+    <str id="Amos" value="Amos" local="朱亥"/>
+    <str id="Arthur" value="Arthur" local="亚瑟"/>
+    <str id="Baldwin" value="Baldwin" local="白起"/>
+    <str id="Bernard" value="Bernard" local="鲁仲连"/>
+    <str id="Brian" value="Brian" local="曹沫"/>
+    <str id="Byron" value="Byron" local="朱家"/>
+    <str id="Caleb" value="Caleb" local="专诸"/>
+    <str id="Cedric" value="Cedric" local="聂政"/>
+    <str id="Corwin" value="Corwin" local="要离"/>
+    <str id="Cyril" value="Cyril" local="荆轲"/>
+    <str id="Damon" value="Damon" local="豫让"/>
+    <str id="Declan" value="Declan" local="霍去病"/>
+    <str id="Dorian" value="Dorian" local="徐达"/>
+    <str id="Duncan" value="Duncan" local="郭子仪"/>
+    <str id="Edmund" value="Edmund" local="吕尚"/>
+    <str id="Egbert" value="Egbert" local="孙武"/>
+    <str id="Elijah" value="Elijah" local="伍员"/>
+    <str id="Ethan" value="Ethan" local="吴起"/>
+    <str id="Falkner" value="Falkner" local="孙膑"/>
+    <str id="Fergus" value="Fergus" local="田单"/>
+    <str id="Ferris" value="Ferris" local="乐毅"/>
+    <str id="Francis" value="Francis" local="李牧"/>
+    <str id="Gabriel" value="Gabriel" local="廉颇"/>
+    <str id="Gideon" value="Gideon" local="韩信"/>
+    <str id="Gilbert" value="Gilbert" local="周亚夫"/>
+    <str id="Giles" value="Giles" local="樊哙"/>
+    <str id="Harold" value="Harold" local="李广"/>
+    <str id="Herbert" value="Herbert" local="卫青"/>
+    <str id="Horatio" value="Horatio" local="寇恂"/>
+    <str id="Hubert" value="Hubert" local="冯异"/>
+    <str id="Igor" value="Igor" local="贾复"/>
+    <str id="Irvin" value="Irvin" local="吴汉"/>
+    <str id="Isaac" value="Isaac" local="王霸"/>
+    <str id="Ivar" value="Ivar" local="班超"/>
+    <str id="Jacob" value="Jacob" local="吕布"/>
+    <str id="Jerome" value="Jerome" local="赵云"/>
+    <str id="Joseph" value="Joseph" local="张飞"/>
+    <str id="Joshua" value="Joshua" local="关羽"/>
+    <str id="Kendall" value="Kendall" local="典韦"/>
+    <str id="Kenneth" value="Kenneth" local="许褚"/>
+    <str id="Kiefer" value="Kiefer" local="马超"/>
+    <str id="Konrad" value="Konrad" local="黄忠"/>
+    <str id="Lambert" value="Lambert" local="文丑"/>
+    <str id="Leonard" value="Leonard" local="颜良"/>
+    <str id="Lucas" value="Lucas" local="庞德"/>
+    <str id="Lyndon" value="Lyndon" local="张辽"/>
+    <str id="Magnus" value="Magnus" local="高顺"/>
+    <str id="Marcus" value="Marcus" local="孙策"/>
+    <str id="Milburn" value="Milburn" local="太史慈"/>
+    <str id="Morgan" value="Morgan" local="夏侯惇"/>
+    <str id="Nathan" value="Nathan" local="甘宁"/>
+    <str id="Nigel" value="Nigel" local="徐晃"/>
+    <str id="Norman" value="Norman" local="魏延"/>
+    <str id="Norris" value="Norris" local="张郃"/>
+    <str id="Oliver" value="Oliver" local="姜维"/>
+    <str id="Orson" value="Orson" local="文鸯"/>
+    <str id="Otis" value="Otis" local="夏侯渊"/>
+    <str id="Owen" value="Owen" local="关兴"/>
+    <str id="Percival" value="Percival" local="张苞"/>
+    <str id="Patrick" value="Patrick" local="马腾"/>
+    <str id="Philbert" value="Philbert" local="马岱"/>
+    <str id="Philip" value="Philip" local="华雄"/>
+    <str id="Quimby" value="Quimby" local="周泰"/>
+    <str id="Quentin" value="Quentin" local="卢俊义"/>
+    <str id="Quinn" value="Quinn" local="公孙胜"/>
+    <str id="Randolph" value="Randolph" local="关胜"/>
+    <str id="Reginald" value="Reginald" local="林冲"/>
+    <str id="Richard" value="Richard" local="花荣"/>
+    <str id="Rupert" value="Rupert" local="鲁智深"/>
+    <str id="Samuel" value="Samuel" local="武松"/>
+    <str id="Shamus" value="Shamus" local="秦明"/>
+    <str id="Sigmund" value="Sigmund" local="呼延灼"/>
+    <str id="Stewart" value="Stewart" local="张清"/>
+    <str id="Thomas" value="Thomas" local="李逵"/>
+    <str id="Titus" value="Titus" local="岳飞"/>
+    <str id="Tobias" value="Tobias" local="金兀术"/>
+    <str id="Tristan" value="Tristan" local="杨再兴"/>
+    <str id="Udolf" value="Udolf" local="张宪"/>
+    <str id="Uriah" value="Uriah" local="宇文成都"/>
+    <str id="Vaughan" value="Vaughan" local="李元霸"/>
+    <str id="Vernon" value="Vernon" local="裴元庆"/>
+    <str id="Victor" value="Victor" local="罗成"/>
+    <str id="Vincent" value="Vincent" local="杨林"/>
+    <str id="Walter" value="Walter" local="秦琼"/>
+    <str id="Warren" value="Warren" local="尉迟恭"/>
+    <str id="Wesley" value="Wesley" local="魏文通"/>
+    <str id="Wilbur" value="Wilbur" local="程咬金"/>
+    <str id="Zachary" value="Zachary" local="单雄信"/>
   </MaleNames>
   <FemaleNames>
-    <str id="Agnes" value="Agnes"/>
-    <str id="Anita" value="Anita"/>
-    <str id="Astrid" value="Astrid"/>
-    <str id="Audrey" value="Audrey"/>
-    <str id="Bella" value="Bella"/>
-    <str id="Bianca" value="Bianca"/>
-    <str id="Brenda" value="Brenda"/>
-    <str id="Brooke" value="Brooke"/>
-    <str id="Caitlin" value="Caitlin"/>
-    <str id="Caroline" value="Caroline"/>
-    <str id="Catherine" value="Catherine"/>
-    <str id="Cynthia" value="Cynthia"/>
-    <str id="Daphne" value="Daphne"/>
-    <str id="Deborah" value="Deborah"/>
-    <str id="Deirdre" value="Deirdre"/>
-    <str id="Drucilla" value="Drucilla"/>
-    <str id="Edith" value="Edith"/>
-    <str id="Eileen" value="Eileen"/>
-    <str id="Eleanor" value="Eleanor"/>
-    <str id="Evelyn" value="Evelyn"/>
-    <str id="Fawn" value="Fawn"/>
-    <str id="Faye" value="Faye"/>
-    <str id="Fiona" value="Fiona"/>
-    <str id="Frida" value="Frida"/>
+    <str id="Agnes" value="Agnes" local="貂蝉"/>
+    <str id="Anita" value="Anita" local="孙尚香"/>
+    <str id="Astrid" value="Astrid" local="甄宓"/>
+    <str id="Audrey" value="Audrey" local="小乔"/>
+    <str id="Bella" value="Bella" local="大乔"/>
+    <str id="Bianca" value="Bianca" local="蔡文姬"/>
+    <str id="Brenda" value="Brenda" local="马云禄"/>
+    <str id="Brooke" value="Brooke" local="黄月英"/>
+    <str id="Caitlin" value="Caitlin" local="关凤"/>
+    <str id="Caroline" value="Caroline" local="红拂女"/>
+    <str id="Catherine" value="Catherine" local="卓文君"/>
+    <str id="Cynthia" value="Cynthia" local="卫子夫"/>
+    <str id="Daphne" value="Daphne" local="赵飞燕"/>
+    <str id="Deborah" value="Deborah" local="王政君"/>
+    <str id="Deirdre" value="Deirdre" local="杨玉环"/>
+    <str id="Drucilla" value="Drucilla" local="班昭"/>
+    <str id="Edith" value="Edith" local="武则天"/>
+    <str id="Eileen" value="Eileen" local="上官婉儿"/>
+    <str id="Eleanor" value="Eleanor" local="唐琬"/>
+    <str id="Evelyn" value="Evelyn" local="樊梨花"/>
+    <str id="Fawn" value="Fawn" local="王宝钏"/>
+    <str id="Faye" value="Faye" local="孙二娘"/>
+    <str id="Fiona" value="Fiona" local="潘金莲"/>
+    <str id="Frida" value="Frida" local="李师师"/>
     <str id="Gabrielle" value="Gabrielle"/>
     <str id="Genevieve" value="Genevieve"/>
     <str id="Guinevere" value="Guinevere"/>
@@ -4397,7 +4397,7 @@
     <str id="You can't cast bestial spells without a bull horn." value="You can't cast bestial spells without a bull horn." local="没有牛角不能施放兽性法术。"/>
     <str id="You can't cast abyssal spells without a pyramidion." value="You can't cast abyssal spells without a pyramidion." local="没有金字塔无法施放深渊法术。"/>
     <str id="You can't cast release soul without a soul gem." value="You can't cast release soul without a soul gem." local="没有灵魂石无法释放灵魂。"/>
-    <str id="You can't cast shroom grenade without a blood cap." value="You can't cast shroom grenade without a blood cap." local="你无法没有血蘑菇来施放蘑菇手榴弹。"/>
+    <str id="You can't cast shroom grenade without a blood cap." value="You can't cast shroom grenade without a blood cap." local="你无法没有血蘑菇来施放蘑菇手雷。"/>
     <str id="You can't cast army of the dead without a soul gem." value="You can't cast army of the dead without a soul gem." local="你没有魂晶来施放死亡军团。"/>
     <str id="You can't cast ritual sacrifice without an amulet of sacrifice." value="You can't cast ritual sacrifice without an amulet of sacrifice." local="你没有献祭项链来施放祭祀仪式。"/>
     <str id="The spell is on a cooldown with %d turns remaining." value="The spell is on a cooldown with %d turns remaining." local="这个法术还在冷却中，还剩 %d 回合。"/>
