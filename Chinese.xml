@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190603)" checksum="309ebb2fc2bc1e7023d9b1fbba19941b27f2ff4e">
+<strings version="Version 2.00 Beta 1 (190603)" checksum="c7b230c9373dfda50a831ba38ed6f6a2bdf81ce9">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -372,7 +372,7 @@
     <str id="Bandit leader yells: Here kitty, kitty!" value="Bandit leader yells: Here kitty, kitty!" local="匪首喊道：过来啊，小猫咪！"/>
     <str id="Orc boss yells: Wraaagh kek rega!" value="Orc boss yells: Wraaagh kek rega!" local="兽人首领喊道：Wraaagh kek rega!"/>
     <str id="Undead captain rattles its bones!" value="Undead captain rattles its bones!" local="亡灵队长的骨头咯咯作响！"/>
-    <str id="Papalob shrieks: Tsihihi-tsi-hih!" value="Papalob shrieks: Tsihihi-tsi-hih!" local="趴趴洛尖叫着：Tsihihi-tsi-hih!"/>
+    <str id="Papalob shrieks: Tsihihi-tsi-hih!" value="Papalob shrieks: Tsihihi-tsi-hih!" local="蛛爸爸尖叫着：Tsihihi-tsi-hih!"/>
     <str id="Infernal shouts: Kar eth ihm'nen!" value="Infernal shouts: Kar eth ihm'nen!" local="地狱恶魔喊着：Kar eth ihm'nen!"/>
     <str id="That feeling quickly dissipates in the wind." value="That feeling quickly dissipates in the wind." local="那种感觉很快地消散在风中。"/>
     <str id="Prince Altren yells: Don't worry mother, I will take care of this." value="Prince Altren yells: Don't worry mother, I will take care of this." local="艾特仁王子喊道：不要担心，母后。我会搞定的。"/>
@@ -391,7 +391,7 @@
     <str id="a floater" value="a floater" local="一只浮游类"/>
     <str id="a glutopod" value="a glutopod" local="一只格鲁特"/>
     <str id="an infernal" value="an infernal" local="一个地狱恶魔"/>
-    <str id="a mamalob" value="a mamalob" local="一只麻麻洛"/>
+    <str id="a mamalob" value="a mamalob" local="一只蛛妈妈"/>
     <str id="a wraith" value="a wraith" local="一个幽灵"/>
     <str id="a banshee" value="a banshee" local="一只女妖"/>
     <str id="an elemental" value="an elemental" local="一个元素怪"/>
@@ -402,7 +402,7 @@
     <str id="the floater" value="the floater" local="这只浮游类"/>
     <str id="the glutopod" value="the glutopod" local="这只格鲁特"/>
     <str id="the infernal" value="the infernal" local="这个地狱恶魔"/>
-    <str id="the mamalob" value="the mamalob" local="这只麻麻洛"/>
+    <str id="the mamalob" value="the mamalob" local="这只蛛妈妈"/>
     <str id="the wraith" value="the wraith" local="这个幽灵"/>
     <str id="the banshee" value="the banshee" local="这个女妖"/>
     <str id="the elemental" value="the elemental" local="这个元素怪"/>
@@ -633,15 +633,15 @@
     <str id="You pull the trigger but nothing happens." value="You pull the trigger but nothing happens." local="你触动了扳机，但什么也没有发生。"/>
   </AttackLogs>
   <CastLogs>
-    <str id="You cast %s at %s." value="You cast %s at %s." local="你向%2释放了%1。"/>
-    <str id="You cast %s on %s." value="You cast %s on %s." local="你在%2之上释放了%1。"/>
-    <str id="%s casts %s at %s." value="%s casts %s at %s." local="%1向%3释放了%2。"/>
-    <str id="%s casts %s on %s." value="%s casts %s on %s." local="%1在%3之上释放了%2。"/>
+    <str id="You cast %s at %s." value="You cast %s at %s." local="你向%2施放了%1。"/>
+    <str id="You cast %s on %s." value="You cast %s on %s." local="你在%2之上施放了%1。"/>
+    <str id="%s casts %s at %s." value="%s casts %s at %s." local="%1向%3施放了%2。"/>
+    <str id="%s casts %s on %s." value="%s casts %s on %s." local="%1在%3之上施放了%2。"/>
     <str id="%s casts a spell at %s." value="%s casts a spell at %s." local="%s对%s施放了一个法术。"/>
     <str id="%s casts a spell on %s." value="%s casts a spell on %s." local="%s在%s上面施放了一个法术。"/>
     <str id="You cast %s on yourself." value="You cast %s on yourself." local="你对自己施放了%s。"/>
     <str id="You can't cast %s there." value="You can't cast %s there." local="你无法向那里施放%s。"/>
-    <str id="You can't cast %s on %s." value="You can't cast %s on %s." local="你无法将%s释放在%s上面。"/>
+    <str id="You can't cast %s on %s." value="You can't cast %s on %s." local="你无法将%s施放在%s上面。"/>
     <str id="You can't cast %s on yourself." value="You can't cast %s on yourself." local="你无法对自己施放%s。"/>
     <str id="You can't cast where you can't see." value="You can't cast where you can't see." local="你无法向你看不见的地方施法。"/>
     <str id="You choose not to cast %s at yourself." value="You choose not to cast %s at yourself." local="你选择不对自己施放%s。"/>
@@ -1132,16 +1132,16 @@
     <str id="Silent Move" value="Move action that hides the creature in plain sight. Melee attacks made while hidden cause double damage and" local="移动行动让生物在视野中隐秘。在&#10;隐秘状态下发动近战攻击将造成双&#10;倍伤害，且无法格档、闪避和招架&#10;。" space="True">
       <str id="paragraph 1" value="cannot be blocked, dodged or parried." local=""/>
     </str>
-    <str id="Literacy: Common" value="Allows the creature to read and write Common, cast spells scribed on scrolls and zap with wands." local="允许生物常规读写，释放记录在魔&#10;法卷轴上的法术，释放魔杖的能力&#10;。"/>
+    <str id="Literacy: Common" value="Allows the creature to read and write Common, cast spells scribed on scrolls and zap with wands." local="允许生物常规读写，施放记录在魔&#10;法卷轴上的法术，施放魔杖的能力&#10;。"/>
     <str id="Literacy: Celestial" value="Allows the creature to learn Celestial spells from magical tomes. Celestial spells always use Max Cast Modifier of 2" local="允许生物从魔法典籍中学习天使系&#10;法术。天使系法术的最大施法修正&#10;无视所穿盔甲，永远为 2 或更高。" space="True">
       <str id="paragraph 1" value="or more regardless of armour." local=""/>
     </str>
     <str id="Literacy: Draconic" value="Allows the creature to learn Draconic spells from magical tomes." local="允许生物从魔法典籍中学习龙系法&#10;术。"/>
     <str id="Literacy: Infernal" value="Allows the creature to learn Infernal spells from magical tomes." local="允许生物从魔法典籍中学习地狱系&#10;法术。"/>
-    <str id="Focused Cast" value="Allows the creature to cast spells at any space within line of sight. Direct damage and healing spells receive extra" local="允许生物定位任何在视野直线可达&#10;区的目标并释放法术。另外，直接&#10;伤害或治疗法术都会因对应的属性&#10;增益修正获得额外的效果。" space="True">
+    <str id="Focused Cast" value="Allows the creature to cast spells at any space within line of sight. Direct damage and healing spells receive extra" local="允许生物定位任何在视野直线可达&#10;区的目标并施放法术。另外，直接&#10;伤害或治疗法术都会因对应的属性&#10;增益修正获得额外的效果。" space="True">
       <str id="paragraph 1" value="damage or healing depending on the relevant bonus modifier." local=""/>
     </str>
-    <str id="Silent Cast" value="Allows the creature to cast spells while silenced and halves spell to-hit range modifier rounding down." local="允许生物在沉默状态释放法术，且&#10;将施法的距离修正减半向下取整。" space="True">
+    <str id="Silent Cast" value="Allows the creature to cast spells while silenced and halves spell to-hit range modifier rounding down." local="允许生物在沉默状态施放法术，且&#10;将施法的距离修正减半向下取整。" space="True">
       <str id="paragraph 1" value="Silent Cast also teaches Clearcasting." local="沉默施法还会教会沉静施法。"/>
     </str>
     <str id="Dark Vision" value="Increases light radius by 1 and halves ranged attack to-hit range modifier rounding down." local="增加一格视野，并将距离修正减半&#10;向下取整。"/>
@@ -1298,7 +1298,7 @@
   </SpellDescs>
   <SpellLogs>
     <str id="You gain clearcasting and cast the spell for free." value="You gain clearcasting and cast the spell for free." local="你获得沉静施法，本次施法免费。"/>
-    <str id="You have a feeling that the spell didn't come out right." value="You have a feeling that the spell didn't come out right." local="你感觉法术不能正确的释放出来。"/>
+    <str id="You have a feeling that the spell didn't come out right." value="You have a feeling that the spell didn't come out right." local="你感觉法术不能正确的施放出来。"/>
     <str id="But apparently the spell just fizzles." value="But apparently the spell just fizzles." local="但很明显法术失效了。"/>
     <str id="The spell's energy discharges from every orifice." value="The spell's energy discharges from every orifice." local="该法术的能量从每一个出口释放。"/>
     <str id="A sudden sensation of horror overcomes you." value="A sudden sensation of horror overcomes you." local="一个恐怖的感觉笼罩着你。"/>
@@ -1322,8 +1322,8 @@
     <str id="%s is affected by %s." value="%s is affected by %s." local="%s受到%s的影响。"/>
     <str id="%s appears out of thin air." value="%s appears out of thin air." local="%s凭空出现。"/>
     <str id="%s vanishes into thin air." value="%s vanishes into thin air." local="%s凭空消失。"/>
-    <str id="You forget how to cast %s." value="You forget how to cast %s." local="你忘了怎样释放%s。"/>
-    <str id="You learn how to cast %s." value="You learn how to cast %s." local="你学会了释放%s。"/>
+    <str id="You forget how to cast %s." value="You forget how to cast %s." local="你忘了怎样施放%s。"/>
+    <str id="You learn how to cast %s." value="You learn how to cast %s." local="你学会了施放%s。"/>
     <str id="You have learned a new talent." value="You have learned a new talent." local="你学会了一项新天赋。"/>
     <str id="%s is reanimated as %s." value="%s is reanimated as %s." local="%s复活成为了%s。"/>
     <str id="%s is resurrected." value="%s is resurrected." local="%s复活了。"/>
@@ -1952,7 +1952,7 @@
     <str id="Loose Weapon Chain" value="Grants immunity against disarm effects." local="获得针对缴械效果的免疫力。"/>
     <str id="Time Dilation Device" value="You can use this earring to make the game consider all turns as either even or odd." local="你可以用这个耳环把游戏的所有回&#10;合都视为奇数或偶数。"/>
     <str id="Fishing Hook and Line" value="Water chasms can now be used to catch fish." local="水峡谷现在可以用来钓鱼。"/>
-    <str id="Fairy Jizzed Bull Horn" value="Allows apprentice wizards to learn and cast Bestial spells (learning also requires that you levitate)." local="允许巫师学徒学习和释放兽性法术&#10;（学习时需要浮空）。"/>
+    <str id="Fairy Jizzed Bull Horn" value="Allows apprentice wizards to learn and cast Bestial spells (learning also requires that you levitate)." local="允许巫师学徒学习和施放兽性法术&#10;（学习时需要浮空）。"/>
     <str id="Engraved Pyramidion" value="Allows apprentice wizards to learn and cast Abyssal spells (learning also requires black soul gems)." local="允许巫师学徒学习和施放深渊法术&#10;（学习时需要有黑色魂晶）。"/>
     <str id="BlessedFamiliar" value="Any drake attempting to attack you becomes your friend permanently." local="任何企图攻击力的龙都会永久变成&#10;你的伙伴。"/>
     <str id="BlessedOutcasts" value="Summons a loot hoarder at the first level of every random dungeon." local="在每个随机地牢的第一层召唤一个&#10;收藏家。"/>
@@ -2735,13 +2735,13 @@
     <str id="Fine Staff" value="This weapon is a conduit and as such it allows the wielder to re-roll failed spell to-hit rolls." local="这把武器是一种导器，这意味&#10;着它允许持有者重掷失败的施&#10;法骰和法术命中骰。"/>
     <str id="Fine Crossbow" value="This is a slow weapon and as such must be rearmed after every time it is used." local="这是一种慢速武器，因此每次&#10;使用后都必须重新整备。"/>
     <str id="Fine Repeater" value="Unlike regular crossbows, the ones on the receiving end of a repeater won't get to tell their story." local="与普通的弩不同，被连弩总结&#10;的家伙都来不及叫出来。"/>
-    <str id="Wizard Staff" value="This weapon teaches its wielder how to cast one of the five orb spells." local="这把武器能教会使用者如何释&#10;放五种法术球中的一种。"/>
-    <str id="Wizard Staff 0" value="This weapon teaches its wielder how to cast the Flaming Orb spell." local="这把武器能教会使用者如何释&#10;放火球术。"/>
-    <str id="Wizard Staff 1" value="This weapon teaches its wielder how to cast the Frozen Orb spell." local="这把武器能教会使用者如何释&#10;放冰球术。"/>
-    <str id="Wizard Staff 2" value="This weapon teaches its wielder how to cast the Electric Orb spell." local="这把武器能教会使用者如何释&#10;放电球术。"/>
-    <str id="Wizard Staff 3" value="This weapon teaches its wielder how to cast the Venomous Orb spell." local="这把武器能教会使用者如何释&#10;放毒球术。"/>
-    <str id="Wizard Staff 4" value="This weapon teaches its wielder how to cast the Virulent Orb spell." local="这把武器能教会使用者如何释&#10;放疫球术。"/>
-    <str id="Wizard Staff 5" value="This weapon teaches its wielder how to cast the Release Soul spell." local="这把武器能教会使用者如何释&#10;放释放灵魂。"/>
+    <str id="Wizard Staff" value="This weapon teaches its wielder how to cast one of the five orb spells." local="这把武器能教会使用者如何施&#10;放五种法术球中的一种。"/>
+    <str id="Wizard Staff 0" value="This weapon teaches its wielder how to cast the Flaming Orb spell." local="这把武器能教会使用者如何施&#10;放火球术。"/>
+    <str id="Wizard Staff 1" value="This weapon teaches its wielder how to cast the Frozen Orb spell." local="这把武器能教会使用者如何施&#10;放冰球术。"/>
+    <str id="Wizard Staff 2" value="This weapon teaches its wielder how to cast the Electric Orb spell." local="这把武器能教会使用者如何施&#10;放电球术。"/>
+    <str id="Wizard Staff 3" value="This weapon teaches its wielder how to cast the Venomous Orb spell." local="这把武器能教会使用者如何施&#10;放毒球术。"/>
+    <str id="Wizard Staff 4" value="This weapon teaches its wielder how to cast the Virulent Orb spell." local="这把武器能教会使用者如何施&#10;放疫球术。"/>
+    <str id="Wizard Staff 5" value="This weapon teaches its wielder how to cast the Release Soul spell." local="这把武器能教会使用者如何施&#10;放释放灵魂。"/>
     <str id="Celestial Staff" value="Description..." local="说明……"/>
     <str id="Draconic Staff" value="Description..." local="说明……"/>
     <str id="Infernal Staff" value="Description..." local="说明……"/>
@@ -2757,9 +2757,9 @@
     <str id="Satyr's Sting" value="This used to belong to Ranger Satyr'Dae before you picked it up from his remains." local="这曾经属于独行侠赛特，你从&#10;他的遗物中获得。"/>
     <str id="Logar's Blade" value="This used to belong to Swordmaster Logar before you took it from his cold dead hands." local="这曾经属于剑圣洛迦，他的手&#10;已不再有体温。"/>
     <str id="Altren's Kiss" value="This used to belong to Prince Altren and there's a carving on the stock that says XLVII, whatever that means." local="这曾经属于艾特仁王子，上面&#10;刻有 XLVII ，已经不知道其含&#10;义。"/>
-    <str id="Staff of the Trickster" value="This used to belong to Ryan the Trickster and it teaches its wielder how to cast the Virulent Orb spell." local="这曾经属于魔术师赖安，持有&#10;它的人可以释放瘟疫球。"/>
-    <str id="Staff of the Archmage" value="This used to belong to Archmage Gyffendal and it teaches its wielder how to cast the Flaming Orb spell." local="这曾经属于大法师高焚岱，持&#10;有它的人可以释放火球术。"/>
-    <str id="Staff of the Ice Queen" value="This used to belong to Ice Queen Altara and it teaches its wielder how to cast the Frozen Orb spell." local="这曾经属于冰霜女王艾特娜，&#10;持有它的人可以释放冰球术。"/>
+    <str id="Staff of the Trickster" value="This used to belong to Ryan the Trickster and it teaches its wielder how to cast the Virulent Orb spell." local="这曾经属于魔术师赖安，持有&#10;它的人可以施放瘟疫球。"/>
+    <str id="Staff of the Archmage" value="This used to belong to Archmage Gyffendal and it teaches its wielder how to cast the Flaming Orb spell." local="这曾经属于大法师高焚岱，持&#10;有它的人可以施放火球术。"/>
+    <str id="Staff of the Ice Queen" value="This used to belong to Ice Queen Altara and it teaches its wielder how to cast the Frozen Orb spell." local="这曾经属于冰霜女王艾特娜，&#10;持有它的人可以施放冰球术。"/>
     <str id="Death Star" value="These throwing stars are one of the deadliest tools used by the Blackhand assassins." local="这些手里剑是黑手刺客用过的&#10;最致命的武器。"/>
   </WeaponDescs>
   <LegendaryNames>
@@ -2783,7 +2783,7 @@
     <str id="Leap of Faith" value="Jumping no longer requires energy and it always succeeds." local="跳跃不再需要精力点，而且永&#10;远成功。"/>
     <str id="Misinvisicast" value="Miscasting always turns you invisible in addition to other effects." local="施法失误在造成其它影响之外&#10;一定会将你隐身。"/>
     <str id="Nightshade" value="Poisons applied to weapons last forever and count as potent when they are applied." local="在武器上的淬毒永远生效，且&#10;视作强效。"/>
-    <str id="Orbus Bomba" value="Automatically casts Enlarge Orb at the end of your turn if you are not already affected by it." local="如果你没有释放 法术球增大 &#10;，那么在你的回合结束的时候&#10;就自动释放它。"/>
+    <str id="Orbus Bomba" value="Automatically casts Enlarge Orb at the end of your turn if you are not already affected by it." local="如果你没有施放 法术球增大 &#10;，那么在你的回合结束的时候&#10;就自动施放它。"/>
     <str id="Zombie Dog" value="Woof comes back to life at the start of a new dungeon if he happens to be dead (reset dungeon in town)." local="如果汪汪死了，那么在每个新&#10;的地牢开始时会复活（在城镇&#10;中重置）。"/>
   </LegendaryDescs>
   <CreatureNames>
@@ -2866,12 +2866,12 @@
     <str id="Cave bear" value="Cave bear" local="洞熊"/>
     <str id="Drake" value="Drake" local="龙"/>
     <str id="Infernal" value="Infernal" local="恶魔"/>
-    <str id="Mamalob" value="Mamalob" local="麻麻洛"/>
+    <str id="Mamalob" value="Mamalob" local="蛛妈妈"/>
     <str id="Wraith" value="Wraith" local="幽灵"/>
     <str id="Banshee" value="Banshee" local="女妖"/>
     <str id="Glutopod" value="Glutopod" local="格鲁特"/>
     <str id="Dark Prince" value="Dark Prince" local="黑暗王子"/>
-    <str id="Papalob" value="Papalob" local="趴趴洛"/>
+    <str id="Papalob" value="Papalob" local="蛛爸爸"/>
     <str id="Lasher" value="Lasher" local="逃兵"/>
     <str id="Slicer" value="Slicer" local="胖妞"/>
     <str id="Earth elemental" value="Earth elemental" local="土元素"/>
@@ -3432,8 +3432,8 @@
     <str id="COD_CURSED_HEALING" value="%s died of damage caused by a cursed potion of healing." local="%s死于一瓶被诅咒的治疗药剂。"/>
     <str id="COD_HOLY_WATER_1" value="%s died of magic damage caused by a potion of holy water." local="%s死于一瓶圣水造成的魔法伤害。"/>
     <str id="COD_HOLY_WATER_2" value="%s died of an instant death effect caused by a potion of holy water." local="%s死于一瓶圣水造成的即死效果。"/>
-    <str id="COD_ENERGY_STRAIN" value="%s died of strain caused by casting a spell without energy." local="%s在没有精力时释放法术，力竭而亡。"/>
-    <str id="COD_MISCAST" value="%s died of damage caused by a miscast spell." local="%s 死于释放法术的误伤。"/>
+    <str id="COD_ENERGY_STRAIN" value="%s died of strain caused by casting a spell without energy." local="%s在没有精力时施放法术，力竭而亡。"/>
+    <str id="COD_MISCAST" value="%s died of damage caused by a miscast spell." local="%s 死于施放法术的误伤。"/>
     <str id="COD_SPELL_DAMAGE_1" value="%s died of %s damage caused by %s own %s." local="%s死于 %s 伤害，它是 %s 自己的 %s 造成的。"/>
     <str id="COD_SPELL_DAMAGE_2" value="%s died of %s damage caused by %s's %s." local="%s死于 %s 伤害，它是 %s 的 %s 造成的。"/>
     <str id="COD_INSTANT_DEATH_1" value="%s died of an instant death effect caused by %s own %s." local="%s死于即死效果，它是 %s 自己的 %s 造成的。"/>
@@ -4125,7 +4125,7 @@
     <str id="Path of Compassion" value="%s" local="%s ">
       <str id="paragraph 1" value="If you answer the test with gentle answers only, you will be known as '%s'." local="如果你测试的答案中只有温和&#10;的，你会被视为'%s'。"/>
     </str>
-    <str id="Indivisible Greed" value="This challenge can be completed by reseting a dungeon after meeting three angry pops." local="这项挑战可以在遭遇三个愤怒&#10;的人后重置地牢来完成。"/>
+    <str id="Indivisible Greed" value="This challenge can be completed by reseting a dungeon after meeting three angry pops." local="这项挑战可以在遭遇三个愤怒&#10;的父亲后重置地牢来完成。"/>
   </ChallengeDescs>
   <ChallengeTitles>
     <str id="Select Title" value="Select Title" local="选择头衔"/>
@@ -4312,9 +4312,9 @@
     <str id="You can't use deadly throw with that." value="You can't use deadly throw with that." local="你不能用那个进行死亡投掷。"/>
     <str id="You can't throw that, it's magically bound to you!" value="You can't throw that, it's magically bound to you!" local="你不能投掷它，它和你魔法绑定了！"/>
     <str id="Select a target to throw %s at and press %s:" value="Select a target to throw %s at and press %s:" local="选择一个投掷 %s 的目标，按下 %s 确认："/>
-    <str id="Select a target or item to cast a %s at and press %s:" value="Select a target or item to cast a %s at and press %s:" local="选择释放 %s 的目标或针对的物品，按下 %s 确认："/>
-    <str id="Select a target to cast a %s at and press %s:" value="Select a target to cast a %s at and press %s:" local="选择释放 %s 的目标，然后按下 %s ："/>
-    <str id="Select an item to cast a %s on and press %s:" value="Select an item to cast a %s on and press %s:" local="选择释放 %s 针对的物品，然后按下 %s ："/>
+    <str id="Select a target or item to cast a %s at and press %s:" value="Select a target or item to cast a %s at and press %s:" local="选择施放 %s 的目标或针对的物品，按下 %s 确认："/>
+    <str id="Select a target to cast a %s at and press %s:" value="Select a target to cast a %s at and press %s:" local="选择施放 %s 的目标，然后按下 %s ："/>
+    <str id="Select an item to cast a %s on and press %s:" value="Select an item to cast a %s on and press %s:" local="选择施放 %s 针对的物品，然后按下 %s ："/>
     <str id="You can't seem to figure out what to do with the scroll." value="You can't seem to figure out what to do with the scroll." local="你似乎不知道怎么卷轴该怎么用。"/>
     <str id="Select a target or item to zap a %s at and press %s:" value="Select a target or item to zap a %s at and press %s:" local="选择一个目标或物品，对其放出 %s ，按下 %s 确认："/>
     <str id="Select a target to zap a %s at and press %s:" value="Select a target to zap a %s at and press %s:" local="选择一个目标，对其放出 %s ，然后按下 %s ："/>
@@ -4398,8 +4398,8 @@
     <str id="You can't cast abyssal spells without a pyramidion." value="You can't cast abyssal spells without a pyramidion." local="没有金字塔无法施放深渊法术。"/>
     <str id="You can't cast release soul without a soul gem." value="You can't cast release soul without a soul gem." local="没有灵魂石无法释放灵魂。"/>
     <str id="You can't cast shroom grenade without a blood cap." value="You can't cast shroom grenade without a blood cap." local="你无法没有血蘑菇来施放蘑菇手榴弹。"/>
-    <str id="You can't cast army of the dead without a soul gem." value="You can't cast army of the dead without a soul gem." local="你没有魂晶来释放死亡军团。"/>
-    <str id="You can't cast ritual sacrifice without an amulet of sacrifice." value="You can't cast ritual sacrifice without an amulet of sacrifice." local="你没有献祭项链来释放祭祀仪式。"/>
+    <str id="You can't cast army of the dead without a soul gem." value="You can't cast army of the dead without a soul gem." local="你没有魂晶来施放死亡军团。"/>
+    <str id="You can't cast ritual sacrifice without an amulet of sacrifice." value="You can't cast ritual sacrifice without an amulet of sacrifice." local="你没有献祭项链来施放祭祀仪式。"/>
     <str id="The spell is on a cooldown with %d turns remaining." value="The spell is on a cooldown with %d turns remaining." local="这个法术还在冷却中，还剩 %d 回合。"/>
     <str id="You can't cast spells while blinded." value="You can't cast spells while blinded." local="你不能在盲眼时施放法术。"/>
     <str id="You can't cast spells while confused." value="You can't cast spells while confused." local="你不能在混乱时施放法术。"/>
