@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190603)" checksum="a7157e8c3d31389703105250443769810ce58997">
+<strings version="Version 2.00 Beta 1 (190603)" checksum="71281b096b76c91e8e83c77c1f99f7e6d4af0a76">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -3300,7 +3300,7 @@
     <str id="Catherine" value="Catherine" local="凯瑟琳"/>
     <str id="Cynthia" value="Cynthia" local="嫦娥"/>
     <str id="Daphne" value="Daphne" local="赵飞燕"/>
-    <str id="Deborah" value="Deborah" local="王政君"/>
+    <str id="Deborah" value="Deborah" local="王昭君"/>
     <str id="Deirdre" value="Deirdre" local="杨玉环"/>
     <str id="Drucilla" value="Drucilla" local="班昭"/>
     <str id="Edith" value="Edith" local="伊迪丝"/>
