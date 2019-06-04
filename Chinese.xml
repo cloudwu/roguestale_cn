@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190603)" checksum="dfb87c27167091149bbd3d91eb9ac28db930f478">
+<strings version="Version 2.00 Beta 1 (190603)" checksum="a7157e8c3d31389703105250443769810ce58997">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -3282,101 +3282,101 @@
     <str id="Vincent" value="Vincent" local="杨林"/>
     <str id="Walter" value="Walter" local="秦琼"/>
     <str id="Warren" value="Warren" local="尉迟恭"/>
-    <str id="Wesley" value="Wesley" local="魏文通"/>
+    <str id="Wesley" value="Wesley" local="云风"/>
     <str id="Wilbur" value="Wilbur" local="程咬金"/>
     <str id="Zachary" value="Zachary" local="单雄信"/>
   </MaleNames>
   <FemaleNames>
     <str id="Agnes" value="Agnes" local="貂蝉"/>
-    <str id="Anita" value="Anita" local="孙尚香"/>
-    <str id="Astrid" value="Astrid" local="甄宓"/>
+    <str id="Anita" value="Anita" local="安尼塔"/>
+    <str id="Astrid" value="Astrid" local="大乔"/>
     <str id="Audrey" value="Audrey" local="小乔"/>
-    <str id="Bella" value="Bella" local="大乔"/>
-    <str id="Bianca" value="Bianca" local="蔡文姬"/>
+    <str id="Bella" value="Bella" local="贝拉"/>
+    <str id="Bianca" value="Bianca" local="比安卡"/>
     <str id="Brenda" value="Brenda" local="马云禄"/>
     <str id="Brooke" value="Brooke" local="黄月英"/>
-    <str id="Caitlin" value="Caitlin" local="关凤"/>
-    <str id="Caroline" value="Caroline" local="红拂女"/>
-    <str id="Catherine" value="Catherine" local="卓文君"/>
-    <str id="Cynthia" value="Cynthia" local="卫子夫"/>
+    <str id="Caitlin" value="Caitlin" local="凯特琳"/>
+    <str id="Caroline" value="Caroline" local="凯若琳"/>
+    <str id="Catherine" value="Catherine" local="凯瑟琳"/>
+    <str id="Cynthia" value="Cynthia" local="嫦娥"/>
     <str id="Daphne" value="Daphne" local="赵飞燕"/>
     <str id="Deborah" value="Deborah" local="王政君"/>
     <str id="Deirdre" value="Deirdre" local="杨玉环"/>
     <str id="Drucilla" value="Drucilla" local="班昭"/>
-    <str id="Edith" value="Edith" local="武则天"/>
-    <str id="Eileen" value="Eileen" local="上官婉儿"/>
+    <str id="Edith" value="Edith" local="伊迪丝"/>
+    <str id="Eileen" value="Eileen" local="海伦"/>
     <str id="Eleanor" value="Eleanor" local="唐琬"/>
     <str id="Evelyn" value="Evelyn" local="樊梨花"/>
     <str id="Fawn" value="Fawn" local="王宝钏"/>
     <str id="Faye" value="Faye" local="孙二娘"/>
     <str id="Fiona" value="Fiona" local="潘金莲"/>
     <str id="Frida" value="Frida" local="李师师"/>
-    <str id="Gabrielle" value="Gabrielle"/>
-    <str id="Genevieve" value="Genevieve"/>
-    <str id="Guinevere" value="Guinevere"/>
-    <str id="Gwendolyn" value="Gwendolyn"/>
-    <str id="Hayley" value="Hayley"/>
-    <str id="Hannah" value="Hannah"/>
-    <str id="Harriet" value="Harriet"/>
-    <str id="Heather" value="Heather"/>
-    <str id="Imogen" value="Imogen"/>
-    <str id="Ingrid" value="Ingrid"/>
-    <str id="Irene" value="Irene"/>
-    <str id="Iris" value="Iris"/>
-    <str id="Joanna" value="Joanna"/>
-    <str id="Judith" value="Judith"/>
-    <str id="Juliet" value="Juliet"/>
-    <str id="Justine" value="Justine"/>
-    <str id="Kathleen" value="Kathleen"/>
-    <str id="Katrina" value="Katrina"/>
-    <str id="Kayleigh" value="Kayleigh"/>
-    <str id="Kirsten" value="Kirsten"/>
-    <str id="Leah" value="Leah"/>
-    <str id="Lilith" value="Lilith"/>
-    <str id="Lindsay" value="Lindsay"/>
-    <str id="Lucia" value="Lucia"/>
-    <str id="Magda" value="Magda"/>
-    <str id="Marian" value="Marian"/>
-    <str id="Miriam" value="Miriam"/>
-    <str id="Moira" value="Moira"/>
-    <str id="Nadia" value="Nadia"/>
-    <str id="Natalie" value="Natalie"/>
-    <str id="Nicole" value="Nicole"/>
-    <str id="Nora" value="Nora"/>
-    <str id="Octavia" value="Octavia"/>
-    <str id="Odette" value="Odette"/>
-    <str id="Olivia" value="Olivia"/>
-    <str id="Ophelia" value="Ophelia"/>
-    <str id="Phoebe" value="Phoebe"/>
-    <str id="Phyllis" value="Phyllis"/>
-    <str id="Primrose" value="Primrose"/>
-    <str id="Prudence" value="Prudence"/>
-    <str id="Rachel" value="Rachel"/>
-    <str id="Renee" value="Renee"/>
-    <str id="Rose" value="Rose"/>
-    <str id="Ruth" value="Ruth"/>
-    <str id="Sabrina" value="Sabrina"/>
-    <str id="Sharon" value="Sharon"/>
-    <str id="Sheila" value="Sheila"/>
-    <str id="Sybil" value="Sybil"/>
-    <str id="Tanya" value="Tanya"/>
-    <str id="Tara" value="Tara"/>
-    <str id="Teresa" value="Teresa"/>
-    <str id="Trixie" value="Trixie"/>
-    <str id="Ulrica" value="Ulrica"/>
-    <str id="Ursula" value="Ursula"/>
-    <str id="Valerie" value="Valerie"/>
-    <str id="Veronica" value="Veronica"/>
-    <str id="Victoria" value="Victoria"/>
-    <str id="Vivian" value="Vivian"/>
-    <str id="Willow" value="Willow"/>
-    <str id="Winifred" value="Winifred"/>
-    <str id="Winona" value="Winona"/>
-    <str id="Wynne" value="Wynne"/>
-    <str id="Xenia" value="Xenia"/>
-    <str id="Yvette" value="Yvette"/>
-    <str id="Yvonne" value="Yvonne"/>
-    <str id="Zelene" value="Zelene"/>
+    <str id="Gabrielle" value="Gabrielle" local="陈圆圆"/>
+    <str id="Genevieve" value="Genevieve" local="苏小小"/>
+    <str id="Guinevere" value="Guinevere" local="吉娜薇"/>
+    <str id="Gwendolyn" value="Gwendolyn" local="关凤"/>
+    <str id="Hayley" value="Hayley" local="海莉"/>
+    <str id="Hannah" value="Hannah" local="汉娜"/>
+    <str id="Harriet" value="Harriet" local="薛宝钗"/>
+    <str id="Heather" value="Heather" local="花木兰"/>
+    <str id="Imogen" value="Imogen" local="王熙凤"/>
+    <str id="Ingrid" value="Ingrid" local="晴雯"/>
+    <str id="Irene" value="Irene" local="艾琳"/>
+    <str id="Iris" value="Iris" local="秦可卿"/>
+    <str id="Joanna" value="Joanna" local="乔安娜"/>
+    <str id="Judith" value="Judith" local="庞春梅"/>
+    <str id="Juliet" value="Juliet" local="朱丽叶"/>
+    <str id="Justine" value="Justine" local="褒姒"/>
+    <str id="Kathleen" value="Kathleen" local="崔莺莺"/>
+    <str id="Katrina" value="Katrina" local="杜丽娘"/>
+    <str id="Kayleigh" value="Kayleigh" local="史湘云"/>
+    <str id="Kirsten" value="Kirsten" local="杜十娘"/>
+    <str id="Leah" value="Leah" local="孟姜女"/>
+    <str id="Lilith" value="Lilith" local="莉莉丝"/>
+    <str id="Lindsay" value="Lindsay" local="顾横波"/>
+    <str id="Lucia" value="Lucia" local="李香君"/>
+    <str id="Magda" value="Magda" local="玛格达"/>
+    <str id="Marian" value="Marian" local="玛丽"/>
+    <str id="Miriam" value="Miriam" local="叶小鸾"/>
+    <str id="Moira" value="Moira" local="祝英台"/>
+    <str id="Nadia" value="Nadia" local="白素贞"/>
+    <str id="Natalie" value="Natalie" local="小青"/>
+    <str id="Nicole" value="Nicole" local="上官婉儿"/>
+    <str id="Nora" value="Nora" local="诺拉"/>
+    <str id="Octavia" value="Octavia" local="燕妮"/>
+    <str id="Odette" value="Odette" local="茜茜"/>
+    <str id="Olivia" value="Olivia" local="赛珍珠"/>
+    <str id="Ophelia" value="Ophelia" local="奥菲莉娅"/>
+    <str id="Phoebe" value="Phoebe" local="潘金莲"/>
+    <str id="Phyllis" value="Phyllis" local="菲利斯"/>
+    <str id="Primrose" value="Primrose" local="樊素"/>
+    <str id="Prudence" value="Prudence" local="妲己"/>
+    <str id="Rachel" value="Rachel" local="瑞秋"/>
+    <str id="Renee" value="Renee" local="蕾妮"/>
+    <str id="Rose" value="Rose" local="卓文君"/>
+    <str id="Ruth" value="Ruth" local="露丝"/>
+    <str id="Sabrina" value="Sabrina" local="塞布丽娜"/>
+    <str id="Sharon" value="Sharon" local="雪伦"/>
+    <str id="Sheila" value="Sheila" local="希拉"/>
+    <str id="Sybil" value="Sybil" local="林黛玉"/>
+    <str id="Tanya" value="Tanya" local="塔尼娅"/>
+    <str id="Tara" value="Tara" local="甄宓"/>
+    <str id="Teresa" value="Teresa" local="李瓶儿"/>
+    <str id="Trixie" value="Trixie" local="李清照"/>
+    <str id="Ulrica" value="Ulrica" local="红拂女"/>
+    <str id="Ursula" value="Ursula" local="袭人"/>
+    <str id="Valerie" value="Valerie" local="蔡文姬"/>
+    <str id="Veronica" value="Veronica" local="孙尚香"/>
+    <str id="Victoria" value="Victoria" local="维多利亚"/>
+    <str id="Vivian" value="Vivian" local="薇薇安"/>
+    <str id="Willow" value="Willow" local="柳如是"/>
+    <str id="Winifred" value="Winifred" local="贞德"/>
+    <str id="Winona" value="Winona" local="董小宛"/>
+    <str id="Wynne" value="Wynne" local="武则天"/>
+    <str id="Xenia" value="Xenia" local="齐妮亚"/>
+    <str id="Yvette" value="Yvette" local="嘉宝"/>
+    <str id="Yvonne" value="Yvonne" local="卫子夫"/>
+    <str id="Zelene" value="Zelene" local="蔡玉卿"/>
   </FemaleNames>
   <CauseOfDeath>
     <str id="COD_RETIRE" value="%s died of old age several years after retiring from adventuring." local="隐退多年之后，%s死于衰老。"/>
@@ -3461,7 +3461,7 @@
     <str id="You have cleared the dungeon but you are not alone!" value="You have cleared the dungeon but you are not alone!" local="你清空了地牢，但你并不孤单！"/>
     <str id="Arnold from Black Field" value="Arnold from Black Field" local="黑色领域的阿诺德"/>
     <str id="Bruce from Helm's Keep" value="Bruce from Helm's Keep" local="海尔姆堡的布鲁斯"/>
-    <str id="Dolph the Grove Dweller" value="Dolph the Grove Dweller" local="多尔夫的怪兽格鲁夫"/>
+    <str id="Dolph the Grove Dweller" value="Dolph the Grove Dweller" local="林中怪兽多尔夫"/>
     <str id="Jason from Wharf Manor" value="Jason from Wharf Manor" local="码头庄园的杰森"/>
     <str id="Jeanne from Cloudy Dam" value="Jeanne from Cloudy Dam" local="云坝的珍妮"/>
     <str id="Lyman the Pandamonium" value="Lyman the Pandamonium" local="功夫大师莱曼"/>
