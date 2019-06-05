@@ -1,0 +1,76 @@
+<dialogue name="sideQuestArtificer" entry="intro" checksum="0663fc7f30946fe4b2ed9399eb4b92f534ee88b4">
+  <choices id="intro" title="嗨，你能把我弄出去吗？">
+    <choice title="你是谁？" response="我是 STR_NAME 。" result="SET_KNOWN" next="intro_name"/>
+  </choices>
+  <choices id="intro_name" title="STR_NAME 看起来很想出去。">
+    <choice title="你在这里做什么？" response="那些土匪受雇杀我……" result="" next="intro_desc_1"/>
+  </choices>
+  <choices id="intro_desc_1" title="STR_NAME 讲了一些关于土匪的事情。">
+    <choice title="但是？" response="但是他们显然做了另外的决定……" result="" next="intro_desc_2"/>
+  </choices>
+  <choices id="intro_desc_2" title="STR_NAME 讲了一些关于决定的事情。">
+    <choice title="然后？" response="现在他们在这里告诉要赎金……" result="" next="intro_desc_3"/>
+  </choices>
+  <choices id="intro_desc_3" title="STR_NAME 讲了一些关于赎金的事情。">
+    <choice title="继续。" response="他们似乎永远拿不到赎金了……" result="" next="intro_desc_4"/>
+  </choices>
+  <choices id="intro_desc_4" title="STR_NAME 讲了一些关于收赎金的事情。">
+    <choice title="噢？" response="因为那个能付钱给他们的人……" result="" next="intro_desc_5"/>
+  </choices>
+  <choices id="intro_desc_5" title="STR_NAME 讲了一些关于付钱的事情。">
+    <choice title="嗯？" response="就是付钱杀我的人。" result="" next="intro_desc_6"/>
+  </choices>
+  <choices id="intro_desc_6" title="STR_NAME 讲了一些关于他敌人的事情。">
+    <choice title="我可以做些什么吗？" response="嗯，你可以拉一下控制杆放我离开。" result="" next="intro_desc_7"/>
+    <choice title="那么，你是干什么的？" response="我是一个工匠，在工匠行会里做师傅。" result="" next="intro_job_1"/>
+  </choices>
+  <choices id="intro_job_1" title="STR_NAME 告诉你他是行会的大师。">
+    <choice title="行会大师吗？" response="工作收入不错，但总有些死亡威胁。" result="" next="intro_job_2"/>
+  </choices>
+  <choices id="intro_job_2" title="STR_NAME 告诉你他的工作福利。">
+    <choice title="那么，我可以做些什么吗？" response="嗯，你可以拉一下控制杆放我离开。" result="" next="intro_desc_7"/>
+  </choices>
+  <choices id="intro_desc_7" title="STR_NAME 说那边有一个控制杆。">
+    <choice title="你是说这个控制杆吗？" response="就是那个。" result="" next="intro_desc_8"/>
+  </choices>
+  <choices id="intro_desc_8" title="STR_NAME 希望你拉一下控制杆。">
+    <choice title="好的，我会放你出来。" response="非常感谢！" result="" next="intro_desc_19"/>
+    <choice title="告诉我，我做这些对我有什么好处？" response="你需要奖赏才放我出去吗？" result="" next="intro_desc_9"/>
+  </choices>
+  <choices id="intro_desc_9" title="STR_NAME 似乎被你的问题惹怒了。">
+    <choice title="对，我做这些事情有什么回报？" response="我可以让你成为行会的荣誉会员。" result="" next="intro_desc_10"/>
+  </choices>
+  <choices id="intro_desc_10" title="STR_NAME 和你谈了回报。">
+    <choice title="成为荣誉会员有什么好处？" response="你可以让工匠帮你打造物品。" result="" next="intro_desc_11"/>
+  </choices>
+  <choices id="intro_desc_11" title="STR_NAME 告诉你关于制造物品的事。">
+    <choice title="等等，等等。你不打算付金币？" response="好吧，没必要在这里说这个吧？" result="" next="intro_desc_12"/>
+  </choices>
+  <choices id="intro_desc_12" title="STR_NAME 告诉你不会有金币的。">
+    <choice title="你什么意思？" response="如果你杀了我或留下我，你什么也得不到……" result="" next="intro_desc_13"/>
+  </choices>
+  <choices id="intro_desc_13" title="STR_NAME 告诉你，不会得到任何金币的。">
+    <choice title="而且？" response="而且你必须重新开一条路回去……" result="" next="intro_desc_14"/>
+  </choices>
+  <choices id="intro_desc_14" title="STR_NAME 告诉你，不会得到任何金币的。">
+    <choice title="所以？" response="所以下个来到这里的人将拿到回报……" result="" next="intro_desc_15"/>
+  </choices>
+  <choices id="intro_desc_15" title="STR_NAME 告诉你，不会得到任何金币的。">
+    <choice title="嗯？" response="贪婪总是伴随着嫉妒……" result="" next="intro_desc_16"/>
+  </choices>
+  <choices id="intro_desc_16" title="STR_NAME 告诉你，不会得到任何金币的。">
+    <choice title="哦？" response="无论你想不想，你总会放了我的……" result="" next="intro_desc_17"/>
+  </choices>
+  <choices id="intro_desc_17" title="STR_NAME 告诉你，不会得到任何金币的。">
+    <choice title="为什么？" response="因为你不想让别人得到好处。" result="" next="intro_desc_18"/>
+  </choices>
+  <choices id="intro_desc_18" title="STR_NAME 告诉你，不会得到任何金币的。">
+    <choice title="嗯，好吧。我会把你放出去的。" response="好啊，谢谢。" result="" next="intro_desc_19"/>
+    <choice title="啊哦，我要亲自杀了你！" response="那就来吧。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_desc_19" title="STR_NAME 等着你拉动控制杆。"/>
+  <choices id="finish_quest" title="STR_NAME 看起来很高兴你放他出来。">
+    <choice title="我想这里已经没什么事了。（回城）" response="太棒了！" result="FINISH_QUEST" next=""/>
+  </choices>
+  <choices id="outro" title="finish_quest"/>
+</dialogue>

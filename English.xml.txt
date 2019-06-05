@@ -2352,7 +2352,7 @@ WandDescs."Wand of Blizzard" @(30)向目标地点发射一颗不断扩张和放�
 WandDescs."Wand of Burning" @(30)向目标地点发射一条燃烧的热浪，对路径上的所有单位造成伤害。
 WandDescs."Wand of Channeling" @(30)允许施法者通过魔杖通导一个已知的法术。
 WandDescs."Wand of Chilling" @(30)向目标地点发射一条冰冻的寒流，对路径上的所有单位造成伤害。
-WandDescs."Wand of Corruption" 在目标地点制造一团腐败之云，对覆盖范围内的所有单位造成伤害。
+WandDescs."Wand of Corruption" @(30)在目标地点制造一团腐败之云，对覆盖范围内的所有单位造成伤害。
 WandDescs."Wand of Crippling" @(30)向目标地点发射一条毁灭的路径，对路径上的所有单位造成伤害。
 WandDescs."Wand of Crushing" @(30)向目标地点的落下巨石。
 WandDescs."Wand of Entrapment" @(30)在目标地点张开大网，困住覆盖范围内的所有单位。
@@ -3291,7 +3291,7 @@ TutorialNames."Jump Button" 跳跃 按钮
 TutorialNames."Look Button" 观察 按钮
 TutorialNames."Sort Button" 排序 按钮
 TutorialNames."Gain Heritage" 获得遗产
-TutorialDescs."Introduction 1" @(40)不用打招呼了。我是只讨人嫌的界面狗，我敏锐的直觉告诉我这是你第一次玩这个游戏……
+TutorialDescs."Introduction 1" @(40)嘿，你好啊。我是只讨人嫌的界面狗，我敏锐的直觉告诉我这是你第一次玩这个游戏……
 TutorialDescs."Introduction 1".1 
 TutorialDescs."Introduction 2" @(40)请注意听讲。我只说一次，如果你不仔细听以后肯定会跑到网上问各种傻问题……
 TutorialDescs."Introduction 2".1 
@@ -3612,7 +3612,7 @@ ChallengeNames."Howdy Ho!" 你吼啊！
 ChallengeNames."Dog Whisperer" 驯犬大师
 ChallengeNames."I Got This!" 拿到了！
 ChallengeNames."Nabon's Demise" 腊崩之死
-ChallengeNames."Dwarfageddon" 未见矮人
+ChallengeNames."Dwarfageddon" 矮人地狱
 ChallengeNames."Mental Disorder" 精神错乱
 ChallengeNames."Mother of Drakes" 群龙之母
 ChallengeNames."It's Elementary" 致命元素
@@ -4120,8 +4120,8 @@ DialogueWindow."STR_FEMALE_ALIAS" 吴敏
 DialogueWindow."STR_MASTER" 现在他死了
 DialogueWindow."DLG_FINAL_VERDICT" @(40)在仔细检查了你的回答后，当权者有了个结论。
 DialogueWindow."DLG_FINAL_VERDICT".1 根据与此，你被称为 %s %s %s。
-DialogueWindow."DLG_DEATH_GREETING" 不用打招呼了。我是死神，我一直在等着你。
-DialogueWindow."DLG_ROUNDS_PLAYED_0" @(40)随便说一句，你将直接下地狱，因为你活得太久了。
+DialogueWindow."DLG_DEATH_GREETING" 嘿，你好。我是死神，我一直在等着你。
+DialogueWindow."DLG_ROUNDS_PLAYED_0" @(40)顺便说一句，你将直接下地狱，因为你活得太久了。
 DialogueWindow."DLG_ROUNDS_PLAYED_1" @(40)是什么耽误了你这么久？我都担心你不会来了。
 DialogueWindow."DLG_ROUNDS_PLAYED_2" @(40)你老是不来，我差点去喊人了。不过我很高兴你最终自己来了。
 DialogueWindow."DLG_ROUNDS_PLAYED_3" @(40)你应该早点来的，不过没关系，这里有足够的热量烧热你的汤。

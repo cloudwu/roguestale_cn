@@ -1,0 +1,100 @@
+<dialogue name="sideQuestEvilGenie" entry="intro" checksum="9ec5d9c3086db5e13941a8169c14cbaab2519b1e">
+  <choices id="intro" title="魔杖看起来在和你说话。">
+    <choice title="嗯，什么？" response="嘿，你好啊。" result="" next="intro_reply"/>
+    <choice title="这是什么？" response="这是魔法。" result="" next="intro_reply"/>
+    <choice title="一根会说话的魔杖，太棒了。" response="正是如此。" result="" next="intro_reply"/>
+  </choices>
+  <choices id="intro_reply" title="魔杖看起来在和你说话。">
+    <choice title="所以，嗯，你是谁？" response="我是困在魔杖中的精灵。" result="" next="intro_name"/>
+  </choices>
+  <choices id="intro_name" title="这个精灵似乎被困住了。">
+    <choice title="你说你被困住了？" response="是的，已经几百年了。" result="" next="intro_name_reply"/>
+  </choices>
+  <choices id="intro_name_reply" title="这个精灵似乎被困住了。">
+    <choice title="你为什么被困住了？" response="因为要履行某人的愿望。" result="" next="intro_name_job"/>
+  </choices>
+  <choices id="intro_name_job" title="这个精灵似乎被困住了。">
+    <choice title="你能让愿望成真？" response="没错。只要你想要的都能成真。" result="" next="wait_for_wish"/>
+  </choices>
+  <choices id="wait_for_wish" title="精灵等着你说出愿望。">
+    <choice title="我希望暴富！" response="不要一下就花光了。" result="SET_FIRST_WISH" next=""/>
+    <choice title="我想要此生所爱。" response="一个灵魂伴侣出现了。" result="SET_SECOND_WISH" next=""/>
+    <choice title="我想要更多的愿望。" response="搞定。当你再次找到魔杖时，我们就能再见。" result="SET_THIRD_WISH" next=""/>
+  </choices>
+  <choices id="three_wishes" title="你已经许了三个愿望。">
+    <choice title="什么 ?!? 只有三个愿望？" response="还有一个你不会想要的。" result="" next="fourth_wish_0"/>
+    <choice title="我希望你露一下脸！" response="如果你真的坚持。" result="SET_THREE_WISHES" next=""/>
+  </choices>
+  <choices id="fourth_wish_0" title="精灵等着你说出愿望。">
+    <choice title="为什么？" response="对力量的渴望需要付出代价。" result="" next="fourth_wish_1"/>
+  </choices>
+  <choices id="fourth_wish_1" title="精灵等着你的回应。">
+    <choice title="代价？那是什么，金币？" response="哦不是，不是那种东西。" result="" next="fourth_wish_2"/>
+  </choices>
+  <choices id="fourth_wish_2" title="精灵等着你的回应。">
+    <choice title="那么是什么？我的灵魂？" response="不不不，不要求你什么。" result="" next="fourth_wish_3"/>
+  </choices>
+  <choices id="fourth_wish_3" title="精灵等着你的回应。">
+    <choice title="好吧，然后是什么问题？" response="没问题了。" result="" next="fourth_wish_4"/>
+  </choices>
+  <choices id="fourth_wish_4" title="精灵等着你的回应。">
+    <choice title="然后接着说愿望吧。" response="你需要具体一点。" result="" next="fourth_wish_5"/>
+  </choices>
+  <choices id="fourth_wish_5" title="精灵等着你的回应。">
+    <choice title="好吧。我需要更多的力量。" response="很好。" result="" next="fourth_wish_6"/>
+  </choices>
+  <choices id="fourth_wish_6" title="精灵等着你的回应。">
+    <choice title="这就好了？我什么感觉都没有。" response="为什么你，你不是个矮人。" result="" next="fourth_wish_7"/>
+  </choices>
+  <choices id="fourth_wish_7" title="精灵等着你的回应。">
+    <choice title="你是什么意思？" response="好吧，为了给你更多的力量……" result="" next="fourth_wish_8"/>
+  </choices>
+  <choices id="fourth_wish_8" title="精灵等着你的回应。">
+    <choice title="嗯？" response="我必须从一个有那种力量的人那里去拿……" result="" next="fourth_wish_9"/>
+  </choices>
+  <choices id="fourth_wish_9" title="精灵等着你的回应。">
+    <choice title="然后？" response="然后这次是从矮人那里拿。" result="" next="fourth_wish_10"/>
+  </choices>
+  <choices id="fourth_wish_10" title="精灵等着你的回应。">
+    <choice title="矮人？他们是什么东西？" response="好了，已经什么都不是了。" result="" next="fourth_wish_11"/>
+  </choices>
+  <choices id="fourth_wish_11" title="精灵等着你的回应。">
+    <choice title="什么？" response="就在刚才，还 287684 个矮人活着……" result="" next="fourth_wish_12"/>
+  </choices>
+  <choices id="fourth_wish_12" title="精灵等着你的回应。">
+    <choice title="什么 ?!?" response="但是现在，他们都变成了符石。" result="" next="fourth_wish_13"/>
+  </choices>
+  <choices id="fourth_wish_13" title="精灵等着你的回应。">
+    <choice title="你在开玩笑吧？" response="我骗不了你。" result="" next="fourth_wish_14"/>
+  </choices>
+  <choices id="fourth_wish_14" title="精灵等着你的回应。">
+    <choice title="哈哈，你真搞笑。" response="是啊，我还留了一个矮人活着……" result="" next="fourth_wish_15"/>
+  </choices>
+  <choices id="fourth_wish_15" title="精灵等着你的回应。">
+    <choice title="不要开玩笑了。" response="因为他看起来像一个三脚架。" result="" next="fourth_wish_16"/>
+  </choices>
+  <choices id="fourth_wish_16" title="精灵等着你的回应。">
+    <choice title="什么？" response="他的名字叫兰利昂&#183;提尼斯特。" result="" next="fourth_wish_17"/>
+  </choices>
+  <choices id="fourth_wish_17" title="精灵等着你的回应。">
+    <choice title="你是认真的？" response="是的。百分之百。" result="" next="fourth_wish_18"/>
+  </choices>
+  <choices id="fourth_wish_18" title="精灵等着你的回应。">
+    <choice title="你个疯子！" response="可能是有一点，但这改变不了什么……" result="" next="fourth_wish_19"/>
+  </choices>
+  <choices id="fourth_wish_19" title="精灵等着你的回应。">
+    <choice title="改变什么？" response="你需要负责的那个事实……" result="" next="fourth_wish_20"/>
+  </choices>
+  <choices id="fourth_wish_20" title="精灵等着你的回应。">
+    <choice title="对什么负责？" response="整个种族的命运。" result="" next="fourth_wish_21"/>
+  </choices>
+  <choices id="fourth_wish_21" title="精灵等着你的回应。">
+    <choice title="你不是在开玩笑吧？" response="我没有在开玩笑。" result="" next="fourth_wish_22"/>
+  </choices>
+  <choices id="fourth_wish_22" title="精灵等着你的回应。">
+    <choice title="那么现在怎样？" response="现在，我将完成你的愿望……" result="" next="fourth_wish_23"/>
+  </choices>
+  <choices id="fourth_wish_23" title="精灵等着你的回应。">
+    <choice title="然后？" response="你需要自己搜寻你要的力量。" result="SET_DWARFAGEDDON" next=""/>
+  </choices>
+</dialogue>

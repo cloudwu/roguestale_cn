@@ -1,0 +1,29 @@
+<dialogue name="mainQuestVerdict" entry="intro" checksum="d79cd54da97d88f8f68170dd21cba5a6962d4822">
+  <choices id="intro" title="在开始新游戏前，回答这些问题……">
+    <choice title="没问题。" response="一个侍女溅了你一身酒。你会：" result="" next="question_1"/>
+  </choices>
+  <choices id="question_1" title="一个侍女溅了你一身酒。你会：">
+    <choice title="惩罚她，把她喂狮子。" response="总之她只配做狮子的口粮！" result="SET_CRUEL" next="response_1"/>
+    <choice title="这是不敬之罪，把她吊起来。" response="对，这能教会她什么叫尊敬！" result="SET_FAIR" next="response_1"/>
+    <choice title="适当的抽打一下。" response="对这种行为这样就算了？没意思。" result="SET_GENTLE" next="response_1"/>
+  </choices>
+  <choices id="response_1" title="开始新游戏前，还需要回答两个问题……">
+    <choice title="接着提问题。" response="一个饥饿的农夫拒绝交出他的庄稼。你会：" result="" next="question_2"/>
+  </choices>
+  <choices id="question_2" title="一个饥饿的农夫拒绝交出他的庄稼。你会：">
+    <choice title="对农夫一家无需怜悯，全部杀掉。" response="这能让农夫明白谁在当权。" result="SET_CRUEL" next="response_2"/>
+    <choice title="把农夫一家都送到矿上去。" response="什么？他们都开始造反了你还让他们活着？" result="SET_GENTLE" next="response_2"/>
+    <choice title="抄了农夫的家，把庄稼都拿走。" response="公正、实际。正确的选择！" result="SET_FAIR" next="response_2"/>
+  </choices>
+  <choices id="response_2" title="开始新游戏前还需要再回答一个问题……">
+    <choice title="我没有时间耗下去了。" response="两个女人都说自己是一个孩子的母亲。你会：" result="" next="question_3"/>
+  </choices>
+  <choices id="question_3" title="两个女人都说自己是一个孩子的母亲。你会：">
+    <choice title="扎那个孩子，杀死那个不那么受打击的女人。" response="跳出了常规思维。我喜欢。" result="SET_FAIR" next="response_3"/>
+    <choice title="给她们一人一把剑，然后看她们表演。" response="啊哈，决斗。不错。" result="SET_GENTLE" next="response_3"/>
+    <choice title="真是浪费时间，全杀了了事。" response="不是好的方法，但是能解决问题。" result="SET_CRUEL" next="response_3"/>
+  </choices>
+  <choices id="response_3" title="准备好听结论了？">
+    <choice title="那么结论是什么？" response="" result="SET_VERDICT" next=""/>
+  </choices>
+</dialogue>

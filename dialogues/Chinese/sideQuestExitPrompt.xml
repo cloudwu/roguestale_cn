@@ -1,0 +1,11 @@
+<dialogue name="sideQuestExitPrompt" entry="intro" checksum="c9ed39a86111dbbc17aa5db7ac4f2e64a899ef64">
+  <choices id="intro" title="你确定你想离开这层吗？">
+    <choice title="是的" response="往里走……" result="ABORT_QUEST" next=""/>
+    <choice title="不" response="过的愉快……" result="CLOSE_DIALOGUE" next=""/>
+    <choice title="这是什么？" response="好吧，你离开后就无法回来……" result="" next="intro_why"/>
+  </choices>
+  <choices id="intro_why" title="你确定你想离开这层吗？">
+    <choice title="行，让我离开就好。" response="往里走……" result="ABORT_QUEST" next=""/>
+    <choice title="好的，我要再想想。" response="过的愉快……" result="CLOSE_DIALOGUE" next=""/>
+  </choices>
+</dialogue>

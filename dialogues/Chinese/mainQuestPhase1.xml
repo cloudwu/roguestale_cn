@@ -1,0 +1,7 @@
+<dialogue name="mainQuestPhase1" entry="intro" checksum="a1988977e63c24ced290f6e198d5729cbf11021c">
+  <choices id="intro" title="所以，你已经杀死了我所有的护卫……">
+    <choice title="这很明显啊。" response="好吧，我想必须做这些了。" result="SET_FINAL_PHASE_2" next=""/>
+    <choice title="他们没一个够我练手的。" response="我希望接下来的能让你满意。" result="SET_FINAL_PHASE_2" next=""/>
+    <choice title="过来，我让你也去陪陪他们！" response="为什么你不先和这些玩玩。" result="SET_FINAL_PHASE_2" next=""/>
+  </choices>
+</dialogue>

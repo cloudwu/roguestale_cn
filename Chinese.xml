@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190605)" checksum="4eb365a66eb55383f36e3058d6ffbfb129c7004a">
+<strings version="Version 2.00 Beta 1 (190605)" checksum="188967c481a7ff6a0f72c91440c6217eeda3155c">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -2557,7 +2557,7 @@
     <str id="Wand of Burning" value="Shoots a flaming stream at the target location hitting everyone on the path." local="向目标地点发射一条燃烧的热浪，&#10;对路径上的所有单位造成伤害。"/>
     <str id="Wand of Channeling" value="Allows the caster to channel a known spell through the wand." local="允许施法者通过魔杖通导一个已知&#10;的法术。"/>
     <str id="Wand of Chilling" value="Shoots a frozen stream at the target location hitting everyone on the path." local="向目标地点发射一条冰冻的寒流，&#10;对路径上的所有单位造成伤害。"/>
-    <str id="Wand of Corruption" value="Creates a cloud of corruption at the target location hitting everyone inside." local="在目标地点制造一团腐败之云，对覆盖范围内的所有单位造成伤害。"/>
+    <str id="Wand of Corruption" value="Creates a cloud of corruption at the target location hitting everyone inside." local="在目标地点制造一团腐败之云，对&#10;覆盖范围内的所有单位造成伤害。"/>
     <str id="Wand of Crippling" value="Shoots a crippling stream at the target location hitting everyone on the path." local="向目标地点发射一条毁灭的路径，&#10;对路径上的所有单位造成伤害。"/>
     <str id="Wand of Crushing" value="Causes a boulder to fall from the ceiling at the target location." local="向目标地点的落下巨石。"/>
     <str id="Wand of Entrapment" value="Creates a web explosion at the target location trapping everyone inside." local="在目标地点张开大网，困住覆盖范&#10;围内的所有单位。"/>
@@ -3530,7 +3530,7 @@
     <str id="Gain Heritage" value="Gain Heritage" local="获得遗产"/>
   </TutorialNames>
   <TutorialDescs>
-    <str id="Introduction 1" value="Why hello there. I'm the annoying user interface dog and my super accurate canine senses tell me that this is the" local="不用打招呼了。我是只讨人嫌的界面狗，我敏&#10;锐的直觉告诉我这是你第一次玩这个游戏……" space="True">
+    <str id="Introduction 1" value="Why hello there. I'm the annoying user interface dog and my super accurate canine senses tell me that this is the" local="嘿，你好啊。我是只讨人嫌的界面狗，我敏锐&#10;的直觉告诉我这是你第一次玩这个游戏……" space="True">
       <str id="paragraph 1" value="first time you're playing this game..." local=""/>
     </str>
     <str id="Introduction 2" value="Please pay attention now. I'll be telling this only once and failure to comprehend will lead you to ask silly questions" local="请注意听讲。我只说一次，如果你不仔细听以&#10;后肯定会跑到网上问各种傻问题……" space="True">
@@ -3946,7 +3946,7 @@
     <str id="Dog Whisperer" value="Dog Whisperer" local="驯犬大师"/>
     <str id="I Got This!" value="I Got This!" local="拿到了！"/>
     <str id="Nabon's Demise" value="Nabon's Demise" local="腊崩之死"/>
-    <str id="Dwarfageddon" value="Dwarfageddon" local="未见矮人"/>
+    <str id="Dwarfageddon" value="Dwarfageddon" local="矮人地狱"/>
     <str id="Mental Disorder" value="Mental Disorder" local="精神错乱"/>
     <str id="Mother of Drakes" value="Mother of Drakes" local="群龙之母"/>
     <str id="It's Elementary" value="It's Elementary" local="致命元素"/>
@@ -4516,8 +4516,8 @@
     <str id="DLG_FINAL_VERDICT" value="After carefully examining your answers, the powers that be have come to a conclusion." local="在仔细检查了你的回答后，当权者有了个结论&#10;。" space="True">
       <str id="paragraph 1" value="You are hereby known as %s %s the %s." local="根据与此，你被称为 %s %s %s。"/>
     </str>
-    <str id="DLG_DEATH_GREETING" value="Why hello there. I'm Death and I've been expecting you." local="不用打招呼了。我是死神，我一直在等着你。"/>
-    <str id="DLG_ROUNDS_PLAYED_0" value="By the way, you're going straight to hell because you overstayed your visit in life." local="随便说一句，你将直接下地狱，因为你活得太&#10;久了。"/>
+    <str id="DLG_DEATH_GREETING" value="Why hello there. I'm Death and I've been expecting you." local="嘿，你好。我是死神，我一直在等着你。"/>
+    <str id="DLG_ROUNDS_PLAYED_0" value="By the way, you're going straight to hell because you overstayed your visit in life." local="顺便说一句，你将直接下地狱，因为你活得太&#10;久了。"/>
     <str id="DLG_ROUNDS_PLAYED_1" value="What took you so long? I almost got worried that maybe you weren't coming after all." local="是什么耽误了你这么久？我都担心你不会来了&#10;。"/>
     <str id="DLG_ROUNDS_PLAYED_2" value="I almost had to call in favors to get you here but I'm glad you managed to come on your own." local="你老是不来，我差点去喊人了。不过我很高兴&#10;你最终自己来了。"/>
     <str id="DLG_ROUNDS_PLAYED_3" value="You could've come earlier but don't worry, there's plenty of heat here to keep your soup hot." local="你应该早点来的，不过没关系，这里有足够的&#10;热量烧热你的汤。"/>

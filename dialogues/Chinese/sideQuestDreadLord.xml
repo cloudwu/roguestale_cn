@@ -1,0 +1,83 @@
+<dialogue name="sideQuestDreadLord" entry="intro" checksum="a5bf6365fb9c4ce38fe05024e65a4b983c7383aa">
+  <choices id="intro" title="你是谁？">
+    <choice title="我是 STR_PLAYER 。" response="好的，STR_PLAYER ，你想要什么？" result="" next="intro_reply_1"/>
+    <choice title="（谎言）我是 STR_ALIAS 。" response="好的，STR_ALIAS ，你想要什么？" result="" next="intro_reply_1"/>
+  </choices>
+  <choices id="intro_reply_1" title="">
+    <choice title="我来要你的脑袋。" response="哈哈，你真幽默。" result="" next="intro_reply_2"/>
+    <choice title="我需要解锁挑战。" response="嗯，行吧，但是我不太懂。" result="" next="intro_reply_2"/>
+  </choices>
+  <choices id="intro_reply_2" title="">
+    <choice title="所以，你准备好去死了吗？" response="再说一次？" result="" next="intro_reply_3"/>
+  </choices>
+  <choices id="intro_reply_3" title="">
+    <choice title="再问一次，你什么意思？" response="好啊，时不时的……" result="" next="intro_reply_4"/>
+    <choice title="那我们不要聊天了。" response="就按你说的做。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_4" title="">
+    <choice title="继续。" response="像你这样的人出现了……" result="" next="intro_reply_5"/>
+    <choice title="那我们不要聊天了。" response="就按你说的做。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_5" title="">
+    <choice title="然后？" response="然后试试杀了我……" result="" next="intro_reply_6"/>
+    <choice title="那我们不要聊天了。" response="就按你说的做。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_6" title="">
+    <choice title="但是？" response="但是只要我的不死军团还活着……" result="" next="intro_reply_7"/>
+    <choice title="那我们不要聊天了。" response="就按你说的做。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_7" title="">
+    <choice title="继续。" response="我不会被杀的。" result="" next="intro_reply_8"/>
+    <choice title="那我们不要聊天了。" response="就按你说的做。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_8" title="">
+    <choice title="你为什么要告诉我这个？" response="好吧，你有什么想法……" result="" next="intro_reply_9"/>
+    <choice title="那我们不要聊天了。" response="就按你说的做。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_9" title="">
+    <choice title="关于什么？" response="当它变得多么无聊……" result="" next="intro_reply_10"/>
+    <choice title="那我们不要聊天了。" response="就按你说的做。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_10" title="">
+    <choice title="继续。" response="当没有挑战的时候。" result="" next="intro_reply_11"/>
+    <choice title="那我们不要聊天了。" response="就按你说的做。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_11" title="">
+    <choice title="我会给你一个挑战。" response="在你之前的那个人也是……" result="" next="intro_reply_12"/>
+    <choice title="那我们不要聊天了。" response="就按你说的做。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_12" title="">
+    <choice title="关于这些不死军团……" response="没错？" result="" next="intro_reply_13"/>
+    <choice title="那我们不要聊天了。" response="就按你说的做。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_13" title="">
+    <choice title="我没看见他们，他们在哪？" response="你马上就会加入他们了。" result="" next="intro_reply_14"/>
+    <choice title="那我们不要聊天了。" response="就按你说的做。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_14" title="">
+    <choice title="我还有一个问题。" response="为什么你不等下再问呢？" result="" next="intro_reply_15"/>
+    <choice title="那我们不要聊天了。" response="就按你说的做。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_15" title="">
+    <choice title="是关于你的盔甲的。" response="它怎么了？" result="" next="intro_reply_16"/>
+    <choice title="那我们不要聊天了。" response="就按你说的做。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_16" title="">
+    <choice title="名字是什么……" response="谁的名字？" result="" next="intro_reply_17"/>
+    <choice title="那我们不要聊天了。" response="就按你说的做。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_17" title="">
+    <choice title="你抢的那个变装者？" response="哦，我想到此为止吧。" result="" next="intro_reply_18"/>
+    <choice title="那我们不要聊天了。" response="就按你说的做。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_18" title="">
+    <choice title="好吧，你是个爱哭的小孩吗？" response="这是我听过的最大的侮辱。" result="" next="intro_reply_19"/>
+    <choice title="那我们不要聊天了。" response="就按你说的做。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_19" title="">
+    <choice title="好吧，让我们做个了断。" response="嗯，无论如何。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="set_enemy" title="哼，死亡就像……提神！">
+    <choice title="我会再杀你一次！" response="太棒了！" result="SET_ENEMY" next=""/>
+  </choices>
+</dialogue>

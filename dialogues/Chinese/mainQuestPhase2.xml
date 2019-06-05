@@ -1,0 +1,7 @@
+<dialogue name="mainQuestPhase2" entry="intro" checksum="19cd824a4f7cc64a3ac32c4ebdace82faff6292d">
+  <choices id="intro" title="我真的开始让我头痛了……">
+    <choice title="很高兴你注意到了。" response="我们在大殿了结吧。" result="SET_FINAL_PHASE_3" next=""/>
+    <choice title="我只是做了我应该做的。" response="这些蠢货真让我失望。" result="SET_FINAL_PHASE_3" next=""/>
+    <choice title="你自己上吧！" response="我在大殿等你。" result="SET_FINAL_PHASE_3" next=""/>
+  </choices>
+</dialogue>

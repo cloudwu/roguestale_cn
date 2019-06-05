@@ -1,0 +1,7 @@
+<dialogue name="mainQuestPhase3" entry="intro" checksum="65a4d4d1430d6480bb557dcf218abedf9417af9f">
+  <choices id="intro" title="怎么这样，你要杀了我 ?!?">
+    <choice title="你以剑为生，因剑而死。" response="呃啊啊……" result="SET_FINAL_PHASE_4" next=""/>
+    <choice title="你应该知道王座上只能坐一个人？" response="看在福霸的…… 呃啊啊……" result="SET_FINAL_PHASE_4" next=""/>
+    <choice title="我见过的小女孩都比你厉害！" response="你个小…… 呃啊啊……" result="SET_FINAL_PHASE_4" next=""/>
+  </choices>
+</dialogue>
