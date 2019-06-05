@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190603)" checksum="28ad564ee5e51f91e0e0e7bafc3287264b5e2457">
+<strings version="Version 2.00 Beta 1 (190605)" checksum="4eb365a66eb55383f36e3058d6ffbfb129c7004a">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -236,7 +236,7 @@
     </str>
     <str id="DIVINER_GUILD" value="You have entered the Diviners' Guild and here you can have your items identified." local="你进入了占卜师行会，在这里你可以&#10;鉴定你的物品。"/>
     <str id="WIZARD_GUILD" value="You have entered the Wizards' Guild and here you can have your items enchanted." local="你进入了法师行会，在这里你可以对&#10;你的物品附魔。">
-      <str id="paragraph 1" value="Items can usually have one enchant on them and blessed items can have two enchants." local="物品通常可以附魔一次，但神圣的物&#10;品可以附魔两次。"/>
+      <str id="paragraph 1" value="Items can usually have one enchant on them and blessed items can have two enchants." local="物品通常可以附魔一次，但被祝福的&#10;物品可以附魔两次。"/>
       <str id="paragraph 2" value="When you enchant an item you are given an option to choose from three possible outcomes." local="每当你对物品附魔时，你可以在三个&#10;效果中选择一个。"/>
       <str id="paragraph 3" value="You can also cancel the selection in which case nothing changes, but you will not get your gold back." local="你可以取消选择而中止附魔，但是没&#10;有退款。"/>
       <str id="paragraph 4" value="Note that some items, such as thrown weapons, do not give you a choice because they have their own rules for enchanting." local="注意：一些物品，比如投掷类武器，&#10;没有选择因为它们有自己的附魔规则&#10;。"/>
@@ -410,15 +410,15 @@
     <str id="the demonrat" value="the demonrat" local="这只魔鼠"/>
   </Travelers>
   <LootTips>
-    <str id="Blessed" value="Blessed" local="神圣的"/>
-    <str id="Cursed" value="Cursed" local="被诅咒的"/>
-    <str id="Worn" value="Worn" local="磨损的"/>
-    <str id="Damaged" value="Damaged" local="损坏的"/>
+    <str id="Blessed" value="Blessed" local="祝福"/>
+    <str id="Cursed" value="Cursed" local="诅咒"/>
+    <str id="Worn" value="Worn" local="磨损"/>
+    <str id="Damaged" value="Damaged" local="损坏"/>
     <str id="Potent" value="Potent" local="强效"/>
     <str id="Diluted" value="Diluted" local="稀释"/>
     <str id="Adept's" value="Adept's" local="专家级"/>
     <str id="Master's" value="Master's" local="大师级"/>
-    <str id="Depleted" value="Depleted" local="耗尽的"/>
+    <str id="Depleted" value="Depleted" local="耗尽"/>
     <str id="Fresh" value="Fresh" local="新鲜的"/>
     <str id="Rotten" value="Rotten" local="腐烂的"/>
     <str id="Cooldown: %d turns" value="Cooldown: %d turns" local="冷却：%d 回合"/>
@@ -790,7 +790,7 @@
     <str id="You closely examine %s and conclude that it is of more use to a skilled craftsman." value="You closely examine %s and conclude that it is of more use to a skilled craftsman." local="你仔细检查了%s，结论是它对一个熟练的工匠更有用。"/>
     <str id="You flip a coin and it lands on its head." value="You flip a coin and it lands on its head." local="你抛起一枚硬币，它正面朝上。"/>
     <str id="You flip a coin and it lands on its tail." value="You flip a coin and it lands on its tail." local="你抛起一枚硬币，它背面朝上。"/>
-    <str id="Select a blessed ring to bind on %s." value="Select a blessed ring to bind on %s." local="选择一个神圣的戒指绑定在%s之上。"/>
+    <str id="Select a blessed ring to bind on %s." value="Select a blessed ring to bind on %s." local="选择一个被祝福的戒指绑定在%s之上。"/>
     <str id="You set the time dilation to match 'Even' turns." value="You set the time dilation to match 'Even' turns." local="你设置时间膨胀装置为“偶数”回合。"/>
     <str id="You set the time dilation to match 'Odd' turns." value="You set the time dilation to match 'Odd' turns." local="你设置时间膨胀装置为“奇数”回合。"/>
   </UseLogs>
@@ -1428,96 +1428,102 @@
     <str id="+2D6 Shock Damage" value="+2D6 Shock Damage" local="+2D6 震击伤害"/>
   </EnchantEffects>
   <EnchantPrefixes>
-    <str id="Archer's " value="Archer's " local="射手之"/>
-    <str id="Priest's " value="Priest's " local="祭祀之"/>
-    <str id="Wizard's " value="Wizard's " local="法师之"/>
-    <str id="Warrior's " value="Warrior's " local="武士之"/>
-    <str id="Thief's " value="Thief's " local="盗贼之"/>
-    <str id="Seducer's " value="Seducer's " local="骗子之"/>
-    <str id="Clown's " value="Clown's " local="小丑之"/>
-    <str id="Bard's " value="Bard's " local="诗人之"/>
-    <str id="Slaver's " value="Slaver's " local="奴隶贩子之"/>
-    <str id="Duelist's " value="Duelist's " local="斗士之"/>
-    <str id="Vampire's " value="Vampire's " local="吸血鬼之"/>
-    <str id="Trickster's " value="Trickster's " local="魔术师之"/>
+    <str id="Archer's " value="Archer's " local="射手的"/>
+    <str id="Priest's " value="Priest's " local="祭祀的"/>
+    <str id="Wizard's " value="Wizard's " local="法师的"/>
+    <str id="Warrior's " value="Warrior's " local="武士的"/>
+    <str id="Thief's " value="Thief's " local="盗贼的"/>
+    <str id="Seducer's " value="Seducer's " local="骗子的"/>
+    <str id="Clown's " value="Clown's " local="小丑的"/>
+    <str id="Bard's " value="Bard's " local="诗人的"/>
+    <str id="Slaver's " value="Slaver's " local="奴隶贩子的"/>
+    <str id="Duelist's " value="Duelist's " local="斗士的"/>
+    <str id="Vampire's " value="Vampire's " local="吸血鬼的"/>
+    <str id="Trickster's " value="Trickster's " local="魔术师的"/>
     <str id="Paralytic " value="Paralytic " local="麻痹之 "/>
-    <str id="Assassin's " value="Assassin's " local="刺客之"/>
-    <str id="Sandman's " value="Sandman's " local="睡魔之"/>
-    <str id="Trapper's " value="Trapper's " local="捕兽者之"/>
-    <str id="Warlock's " value="Warlock's " local="术士之"/>
-    <str id="Vermin's " value="Vermin's " local="寄生虫之"/>
-    <str id="Serpent's " value="Serpent's " local="毒蛇之"/>
+    <str id="Assassin's " value="Assassin's " local="刺客的"/>
+    <str id="Sandman's " value="Sandman's " local="睡魔的"/>
+    <str id="Trapper's " value="Trapper's " local="捕兽者的"/>
+    <str id="Warlock's " value="Warlock's " local="术士的"/>
+    <str id="Vermin's " value="Vermin's " local="寄生虫的"/>
+    <str id="Serpent's " value="Serpent's " local="毒蛇的"/>
     <str id="Flaming " value="Flaming " local="燃烧之"/>
     <str id="Frozen " value="Frozen " local="冰霜之"/>
     <str id="Electric " value="Electric " local="雷电之"/>
     <str id="Deadly " value="Deadly " local="死亡之"/>
     <str id="Demonic " value="Demonic " local="恶魔之"/>
-    <str id="Cleric's " value="Cleric's " local="牧师之"/>
-    <str id="Dweller's " value="Dweller's " local="水怪之 "/>
-    <str id="Prophet's " value="Prophet's " local="先知之"/>
-    <str id="Knight's " value="Knight's " local="骑士之"/>
-    <str id="Arcanist's " value="Arcanist's " local="巧匠之"/>
-    <str id="Jester's " value="Jester's " local="弄丞之 "/>
+    <str id="Cleric's " value="Cleric's " local="牧师的"/>
+    <str id="Dweller's " value="Dweller's " local="水怪的"/>
+    <str id="Prophet's " value="Prophet's " local="先知的"/>
+    <str id="Knight's " value="Knight's " local="骑士的"/>
+    <str id="Arcanist's " value="Arcanist's " local="巧匠的"/>
+    <str id="Jester's " value="Jester's " local="弄丞的"/>
   </EnchantPrefixes>
   <EnchantSuffixes>
-    <str id=" of Agility" value=" of Agility" local="（敏捷）"/>
-    <str id=" of Charisma" value=" of Charisma" local="（魅力）"/>
-    <str id=" of Stamina" value=" of Stamina" local="（耐力）"/>
-    <str id=" of Strength" value=" of Strength" local="（力量）"/>
-    <str id=" of Shade" value=" of Shade" local="（阴影）"/>
-    <str id=" of Command" value=" of Command" local="（命令）"/>
-    <str id=" of Order" value=" of Order" local="（秩序）"/>
-    <str id=" of Muffler" value=" of Muffler" local="（消音）"/>
-    <str id=" of Rebound" value=" of Rebound" local="（反弹）"/>
-    <str id=" of Stability" value=" of Stability" local="（稳定）"/>
-    <str id=" of Buffer" value=" of Buffer" local="（缓冲）"/>
-    <str id=" of the Form" value=" of the Form" local="（形式）"/>
-    <str id=" of Activity" value=" of Activity" local="（活跃）"/>
-    <str id=" of Speech" value=" of Speech" local="（演说）"/>
-    <str id=" of Arousal" value=" of Arousal" local="（觉醒）"/>
-    <str id=" of Advance" value=" of Advance" local="（发展）"/>
-    <str id=" of Mercy" value=" of Mercy" local="（仁慈）"/>
-    <str id=" of Remedy" value=" of Remedy" local="（治疗）"/>
-    <str id=" of Foliage" value=" of Foliage" local="（植物）"/>
-    <str id=" of Dousing" value=" of Dousing" local="（熄灭）"/>
-    <str id=" of Thawing" value=" of Thawing" local="（融化）"/>
-    <str id=" of Grounding" value=" of Grounding" local="（接地）"/>
-    <str id=" of Spirit" value=" of Spirit" local="（精神）"/>
-    <str id=" of Willpower" value=" of Willpower" local="（意志）"/>
-    <str id=" of Vigour" value=" of Vigour" local="（活力）"/>
-    <str id=" of the Moon" value=" of the Moon" local="（月亮）"/>
-    <str id=" of Faith" value=" of Faith" local="（信仰）"/>
-    <str id=" of Hallwood" value=" of Hallwood" local="（圣林）"/>
-    <str id=" of Healing" value=" of Healing" local="（治愈）"/>
-    <str id=" of Potency" value=" of Potency" local="（潜力）"/>
-    <str id=" of Flash" value=" of Flash" local="（闪光）"/>
-    <str id=" of Pleasing" value=" of Pleasing" local="（愉悦）"/>
-    <str id=" of Chaos" value=" of Chaos" local="（混乱）"/>
-    <str id=" of Noise" value=" of Noise" local="（噪声）"/>
-    <str id=" of Draining" value=" of Draining" local="（噬精）"/>
-    <str id=" of Striking" value=" of Striking" local="（冲击）"/>
-    <str id=" of Leeching" value=" of Leeching" local="（吸血）"/>
-    <str id=" of Squealing" value=" of Squealing" local="（啸声）"/>
-    <str id=" of Paralysis" value=" of Paralysis" local="（麻痹）"/>
-    <str id=" of Muting" value=" of Muting" local="（静音）"/>
-    <str id=" of Calming" value=" of Calming" local="（镇定）"/>
-    <str id=" of Impeding" value=" of Impeding" local="（妨碍）"/>
-    <str id=" of Malice" value=" of Malice" local="（怨恨）"/>
-    <str id=" of Malady" value=" of Malady" local="（腐败）"/>
-    <str id=" of Venom" value=" of Venom" local="（毒液）"/>
-    <str id=" of Burning" value=" of Burning" local="（燃烧）"/>
-    <str id=" of Freezing" value=" of Freezing" local="（冰冻）"/>
-    <str id=" of Shocking" value=" of Shocking" local="（震击）"/>
-    <str id=" of Death" value=" of Death" local="（死亡）"/>
-    <str id=" of Panic" value=" of Panic" local="（恐慌）"/>
-    <str id=" of Vitality" value=" of Vitality" local="（活力）"/>
-    <str id=" of the Sun" value=" of the Sun" local="（太阳）"/>
-    <str id=" of Truth" value=" of Truth" local="（真理）"/>
-    <str id=" of Battle" value=" of Battle" local="（战斗）"/>
-    <str id=" of Sorcery" value=" of Sorcery" local="（巫术）"/>
-    <str id=" of Zeal" value=" of Zeal" local="（热忱）"/>
-    <str id=" of Legends" value=" of Legends" local="（传奇）"/>
+    <str id=" of Agility" value=" of Agility" local="敏捷"/>
+    <str id=" of Charisma" value=" of Charisma" local="魅力"/>
+    <str id=" of Stamina" value=" of Stamina" local="耐力"/>
+    <str id=" of Strength" value=" of Strength" local="力量"/>
+    <str id=" of Shade" value=" of Shade" local="阴影"/>
+    <str id=" of Command" value=" of Command" local="命令"/>
+    <str id=" of Order" value=" of Order" local="秩序"/>
+    <str id=" of Muffler" value=" of Muffler" local="消音"/>
+    <str id=" of Rebound" value=" of Rebound" local="反弹"/>
+    <str id=" of Stability" value=" of Stability" local="稳定"/>
+    <str id=" of Buffer" value=" of Buffer" local="缓冲"/>
+    <str id=" of the Form" value=" of the Form" local="形式"/>
+    <str id=" of Activity" value=" of Activity" local="活跃"/>
+    <str id=" of Speech" value=" of Speech" local="演说"/>
+    <str id=" of Arousal" value=" of Arousal" local="觉醒"/>
+    <str id=" of Advance" value=" of Advance" local="发展"/>
+    <str id=" of Mercy" value=" of Mercy" local="仁慈"/>
+    <str id=" of Remedy" value=" of Remedy" local="治疗"/>
+    <str id=" of Foliage" value=" of Foliage" local="植物"/>
+    <str id=" of Dousing" value=" of Dousing" local="熄灭"/>
+    <str id=" of Thawing" value=" of Thawing" local="融化"/>
+    <str id=" of Grounding" value=" of Grounding" local="接地"/>
+    <str id=" of Spirit" value=" of Spirit" local="精神"/>
+    <str id=" of Willpower" value=" of Willpower" local="意志"/>
+    <str id=" of Vigour" value=" of Vigour" local="活力"/>
+    <str id=" of the Moon" value=" of the Moon" local="月亮"/>
+    <str id=" of Faith" value=" of Faith" local="信仰"/>
+    <str id=" of Hallwood" value=" of Hallwood" local="圣林"/>
+    <str id=" of Healing" value=" of Healing" local="治愈"/>
+    <str id=" of Potency" value=" of Potency" local="潜力"/>
+    <str id=" of Flash" value=" of Flash" local="闪光"/>
+    <str id=" of Pleasing" value=" of Pleasing" local="愉悦"/>
+    <str id=" of Chaos" value=" of Chaos" local="混乱"/>
+    <str id=" of Noise" value=" of Noise" local="噪声"/>
+    <str id=" of Draining" value=" of Draining" local="噬精"/>
+    <str id=" of Striking" value=" of Striking" local="冲击"/>
+    <str id=" of Leeching" value=" of Leeching" local="吸血"/>
+    <str id=" of Squealing" value=" of Squealing" local="啸声"/>
+    <str id=" of Paralysis" value=" of Paralysis" local="麻痹"/>
+    <str id=" of Muting" value=" of Muting" local="静音"/>
+    <str id=" of Calming" value=" of Calming" local="镇定"/>
+    <str id=" of Impeding" value=" of Impeding" local="妨碍"/>
+    <str id=" of Malice" value=" of Malice" local="怨恨"/>
+    <str id=" of Malady" value=" of Malady" local="腐败"/>
+    <str id=" of Venom" value=" of Venom" local="毒液"/>
+    <str id=" of Burning" value=" of Burning" local="燃烧"/>
+    <str id=" of Freezing" value=" of Freezing" local="冰冻"/>
+    <str id=" of Shocking" value=" of Shocking" local="震击"/>
+    <str id=" of Death" value=" of Death" local="死亡"/>
+    <str id=" of Panic" value=" of Panic" local="恐慌"/>
+    <str id=" of Vitality" value=" of Vitality" local="活力"/>
+    <str id=" of the Sun" value=" of the Sun" local="太阳"/>
+    <str id=" of Truth" value=" of Truth" local="真理"/>
+    <str id=" of Battle" value=" of Battle" local="战斗"/>
+    <str id=" of Sorcery" value=" of Sorcery" local="巫术"/>
+    <str id=" of Zeal" value=" of Zeal" local="热忱"/>
+    <str id=" of Legends" value=" of Legends" local="传奇"/>
   </EnchantSuffixes>
+  <ItemNames>
+    <str id="Unidentified" value=" (?)" local="（?）"/>
+    <str id="PrefixedItem" value="%1 %2" local="%2【%1】"/>
+    <str id="SingleEnchant" value="%1%2" local="%2%1"/>
+    <str id="DoubleEnchant" value="%1%2%3" local="%1%3%2"/>
+  </ItemNames>
   <ItemLogs>
     <str id="You see %s here." value="You see %s here." local="你在这里看见了%s。"/>
     <str id="You see %s." value="You see %s." local="你看见%s。"/>
@@ -1937,7 +1943,7 @@
     <str id="Book of Fading Memories" value="Every turn spent resting with this book makes you forget a random knowledge." local="带着这本书每休息一个回合就会随&#10;机忘记一个知识。"/>
     <str id="Manuscript of Knowledge" value="All items are automatically identified when they are picked up." local="所有的物品在拾起时就会被自动鉴&#10;定。"/>
     <str id="High Capacity Quiver" value="Doubles the maximum stack size of bolts and arrows." local="把箭囊的最大容量翻倍。"/>
-    <str id="Third Leg of the Imp" value="Use this demonic appendage with a blessed ring to permanently bind the ring's power on it." local="把一个神圣的戒指和它恶魔附体，&#10;可以永远的把该戒指的力量绑定在&#10;其上。"/>
+    <str id="Third Leg of the Imp" value="Use this demonic appendage with a blessed ring to permanently bind the ring's power on it." local="把一个被祝福的戒指和它恶魔附体&#10;，可以永远的把该戒指的力量绑定&#10;在其上。"/>
     <str id="Stone of Arcane Power" value="Reduces the cooldown of Arcane spells by 50%." local="将奥术的冷却时间减少一半。"/>
     <str id="Star Spangled Cap" value="Sadly, all this cap does is that it enrages demonrats when they see a person carrying one." local="可悲的是，这顶帽子唯一能做的就&#10;是让戴着它的人激怒魔鼠。"/>
     <str id="Glove of Liberalism" value="Increases physical damage by 50% against daemons." local="针对恶魔增加 50% 物理伤害。"/>
@@ -1948,7 +1954,7 @@
     <str id="Duelist's Wristbow" value="Shoots a bolt back at the attacker when you parry an attack." local="每次你招架一次攻击时，就向攻击&#10;者射出一支小箭。"/>
     <str id="Uberlyft's Lost Shoe" value="Travel button works in town now and it takes you back to where you left." local="旅行按钮现在在城里也可以用了，&#10;它能把你带回你离开的地方。"/>
     <str id="Creepy Stone Face" value="Allows you to see health bars on all visible creatures." local="允许你看到所有可见生物的生命条&#10;。"/>
-    <str id="Golden Chastity Key" value="When you pick a locked chest, a critical success adds blessed loot in the chest." local="当你去开一个锁上的箱子时，一次&#10;成功暴击会增加神圣的拾取品。"/>
+    <str id="Golden Chastity Key" value="When you pick a locked chest, a critical success adds blessed loot in the chest." local="当你去开一个锁上的箱子时，一次&#10;成功暴击会增加被祝福的拾取品。"/>
     <str id="Loose Weapon Chain" value="Grants immunity against disarm effects." local="获得针对缴械效果的免疫力。"/>
     <str id="Time Dilation Device" value="You can use this earring to make the game consider all turns as either even or odd." local="你可以用这个耳环把游戏的所有回&#10;合都视为奇数或偶数。"/>
     <str id="Fishing Hook and Line" value="Water chasms can now be used to catch fish." local="水峡谷现在可以用来钓鱼。"/>
@@ -3704,7 +3710,7 @@
     <str id="The Seventh Talent" value="Teaches Literacy: Common as the seventh talent at the start of the game." local="读写：常识 作为第七项天赋，&#10;在游戏一开始就已经学会。">
       <str id="paragraph 1" value="This heritage can be unlocked by learning the secret seventh talent." local="学会隐藏的第七天赋可以解锁&#10;这项遗产。"/>
     </str>
-    <str id="The Interface Dog" value="Places a blessing on the main hand weapon at the start of the game." local="在游戏一开始，给主手武器附&#10;上神圣祝福。">
+    <str id="The Interface Dog" value="Places a blessing on the main hand weapon at the start of the game." local="在游戏一开始，祝福主手武器&#10;。">
       <str id="paragraph 1" value="This heritage can be unlocked by viewing all tutorial entries." local="浏览完所有的教程项目可以解&#10;锁这项遗产。"/>
     </str>
     <str id="The Silver Spoon" value="Places a random enchant on the main hand weapon at the start of the game." local="在游戏一开始，给主手武器进&#10;行一次随机附魔。">
@@ -3803,7 +3809,7 @@
     <str id="Big Bada Boom" value="Allows you to enchant your white shirt or robe." local="允许你对你的白色衬衫和头巾&#10;进行附魔。">
       <str id="paragraph 1" value="This heritage can be unlocked by wearing a white shirt or robe and using a soul gem until you receive your multipass." local="解锁这项遗产需要你在穿着白&#10;色衬衫或头巾时使用魂晶，知&#10;道你获得你的多通道。"/>
     </str>
-    <str id="Over 9000" value="Your shirt or robe is now blessed and it may contain two enchants." local="你的衬衫和头巾现在被神圣祝&#10;福过了，可以进行两次附魔。">
+    <str id="Over 9000" value="Your shirt or robe is now blessed and it may contain two enchants." local="你的衬衫和头巾现在被祝福过&#10;了，可以进行两次附魔。">
       <str id="paragraph 1" value="This heritage can be unlocked by obtaining a score of over 9000 after unlocking all 8 shirt heritages above." local="解锁这项遗产需要在你解锁以&#10;上八项遗产后，获得 9000 分&#10;以上。"/>
     </str>
     <str id="Gurmur's End" value="Gives you absolutely nothing since you obviously don't need any help." local="既然你明显不需要任何帮助，&#10;那么当然什么也给不了你。">
@@ -4391,7 +4397,7 @@
     <str id="You can't cast a scroll on itself, nice try though!" value="You can't cast a scroll on itself, nice try though!" local="你不能对卷轴本身使用卷轴，不过脑洞挺大！"/>
     <str id="Type the legendary name of your weapon or press %s to cancel." value="Type the legendary name of your weapon or press %s to cancel." local="为你的传奇武器命名，或是按下 %s 取消。"/>
     <str id="You can't use %s on items that are not wieldable weapons." value="You can't use %s on items that are not wieldable weapons." local="你不能针对不是可装备武器的物品使用 %s。"/>
-    <str id="You can't use runes on items that are not blessed and double enchanted." value="You can't use runes on items that are not blessed and double enchanted." local="符石只能用于神圣的物品，且已经附魔过两次。"/>
+    <str id="You can't use runes on items that are not blessed and double enchanted." value="You can't use runes on items that are not blessed and double enchanted." local="符石只能用于被祝福的物品，且已经附魔过两次。"/>
     <str id="You can't channel arcane spells through the wand." value="You can't channel arcane spells through the wand." local="你不能用通导魔杖使用奥术。"/>
     <str id="You can't cast arcane spells without an amulet." value="You can't cast arcane spells without an amulet." local="没有项链不能施放奥术。"/>
     <str id="You can't cast bestial spells without a bull horn." value="You can't cast bestial spells without a bull horn." local="没有牛角不能施放兽性法术。"/>

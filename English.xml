@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190603)" checksum="872d19d207c4a62d488aeee628ae0c7055bcb290">
+<strings version="Version 2.00 Beta 1 (190605)" checksum="ea1da1dd14c6a4eebd51b5ca0ebd45d34a3e563a">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -1518,6 +1518,12 @@
     <str id=" of Zeal" value=" of Zeal"/>
     <str id=" of Legends" value=" of Legends"/>
   </EnchantSuffixes>
+  <ItemNames>
+    <str id="Unidentified" value=" (?)"/>
+    <str id="PrefixedItem" value="%1 %2"/>
+    <str id="SingleEnchant" value="%1%2"/>
+    <str id="DoubleEnchant" value="%1%2%3"/>
+  </ItemNames>
   <ItemLogs>
     <str id="You see %s here." value="You see %s here."/>
     <str id="You see %s." value="You see %s."/>

@@ -211,7 +211,7 @@ GUIDesc."ARTISAN_GUILD".2 @(32)如果你有未鉴定的项链，你可以尝试�
 GUIDesc."ARTISAN_GUILD".3 @(32)注意：如果你需要返还一些任务物品，这里就是做这事的地方。
 GUIDesc."DIVINER_GUILD" @(32)你进入了占卜师行会，在这里你可以鉴定你的物品。
 GUIDesc."WIZARD_GUILD" @(32)你进入了法师行会，在这里你可以对你的物品附魔。
-GUIDesc."WIZARD_GUILD".1 @(32)物品通常可以附魔一次，但神圣的物品可以附魔两次。
+GUIDesc."WIZARD_GUILD".1 @(32)物品通常可以附魔一次，但被祝福的物品可以附魔两次。
 GUIDesc."WIZARD_GUILD".2 @(32)每当你对物品附魔时，你可以在三个效果中选择一个。
 GUIDesc."WIZARD_GUILD".3 @(32)你可以取消选择而中止附魔，但是没有退款。
 GUIDesc."WIZARD_GUILD".4 @(32)注意：一些物品，比如投掷类武器，没有选择因为它们有自己的附魔规则。
@@ -362,15 +362,15 @@ Travelers."the banshee" 这个女妖
 Travelers."the elemental" 这个元素怪
 Travelers."the troll" 这个巨魔
 Travelers."the demonrat" 这只魔鼠
-LootTips."Blessed" 神圣的
-LootTips."Cursed" 被诅咒的
-LootTips."Worn" 磨损的
-LootTips."Damaged" 损坏的
+LootTips."Blessed" 祝福
+LootTips."Cursed" 诅咒
+LootTips."Worn" 磨损
+LootTips."Damaged" 损坏
 LootTips."Potent" 强效
 LootTips."Diluted" 稀释
 LootTips."Adept's" 专家级
 LootTips."Master's" 大师级
-LootTips."Depleted" 耗尽的
+LootTips."Depleted" 耗尽
 LootTips."Fresh" 新鲜的
 LootTips."Rotten" 腐烂的
 LootTips."Cooldown: %d turns" 冷却：%d 回合
@@ -724,7 +724,7 @@ UseLogs."The dog collar is on cooldown with %d turns remaining." 狗项圈还有
 UseLogs."You closely examine %s and conclude that it is of more use to a skilled craftsman." 你仔细检查了%s，结论是它对一个熟练的工匠更有用。
 UseLogs."You flip a coin and it lands on its head." 你抛起一枚硬币，它正面朝上。
 UseLogs."You flip a coin and it lands on its tail." 你抛起一枚硬币，它背面朝上。
-UseLogs."Select a blessed ring to bind on %s." 选择一个神圣的戒指绑定在%s之上。
+UseLogs."Select a blessed ring to bind on %s." 选择一个被祝福的戒指绑定在%s之上。
 UseLogs."You set the time dilation to match 'Even' turns." 你设置时间膨胀装置为“偶数”回合。
 UseLogs."You set the time dilation to match 'Odd' turns." 你设置时间膨胀装置为“奇数”回合。
 ActionLogs."You disarm %s." 你缴械了%s。
@@ -1305,93 +1305,97 @@ EnchantEffects."+1 Energy" +1 精力
 EnchantEffects."+2D6 Fire Damage" +2D6 火焰伤害
 EnchantEffects."+2D6 Frost Damage" +2D6 冰霜伤害
 EnchantEffects."+2D6 Shock Damage" +2D6 震击伤害
-EnchantPrefixes."Archer's " 射手之
-EnchantPrefixes."Priest's " 祭祀之
-EnchantPrefixes."Wizard's " 法师之
-EnchantPrefixes."Warrior's " 武士之
-EnchantPrefixes."Thief's " 盗贼之
-EnchantPrefixes."Seducer's " 骗子之
-EnchantPrefixes."Clown's " 小丑之
-EnchantPrefixes."Bard's " 诗人之
-EnchantPrefixes."Slaver's " 奴隶贩子之
-EnchantPrefixes."Duelist's " 斗士之
-EnchantPrefixes."Vampire's " 吸血鬼之
-EnchantPrefixes."Trickster's " 魔术师之
+EnchantPrefixes."Archer's " 射手的
+EnchantPrefixes."Priest's " 祭祀的
+EnchantPrefixes."Wizard's " 法师的
+EnchantPrefixes."Warrior's " 武士的
+EnchantPrefixes."Thief's " 盗贼的
+EnchantPrefixes."Seducer's " 骗子的
+EnchantPrefixes."Clown's " 小丑的
+EnchantPrefixes."Bard's " 诗人的
+EnchantPrefixes."Slaver's " 奴隶贩子的
+EnchantPrefixes."Duelist's " 斗士的
+EnchantPrefixes."Vampire's " 吸血鬼的
+EnchantPrefixes."Trickster's " 魔术师的
 EnchantPrefixes."Paralytic " 麻痹之 
-EnchantPrefixes."Assassin's " 刺客之
-EnchantPrefixes."Sandman's " 睡魔之
-EnchantPrefixes."Trapper's " 捕兽者之
-EnchantPrefixes."Warlock's " 术士之
-EnchantPrefixes."Vermin's " 寄生虫之
-EnchantPrefixes."Serpent's " 毒蛇之
+EnchantPrefixes."Assassin's " 刺客的
+EnchantPrefixes."Sandman's " 睡魔的
+EnchantPrefixes."Trapper's " 捕兽者的
+EnchantPrefixes."Warlock's " 术士的
+EnchantPrefixes."Vermin's " 寄生虫的
+EnchantPrefixes."Serpent's " 毒蛇的
 EnchantPrefixes."Flaming " 燃烧之
 EnchantPrefixes."Frozen " 冰霜之
 EnchantPrefixes."Electric " 雷电之
 EnchantPrefixes."Deadly " 死亡之
 EnchantPrefixes."Demonic " 恶魔之
-EnchantPrefixes."Cleric's " 牧师之
-EnchantPrefixes."Dweller's " 水怪之 
-EnchantPrefixes."Prophet's " 先知之
-EnchantPrefixes."Knight's " 骑士之
-EnchantPrefixes."Arcanist's " 巧匠之
-EnchantPrefixes."Jester's " 弄丞之 
-EnchantSuffixes." of Agility" （敏捷）
-EnchantSuffixes." of Charisma" （魅力）
-EnchantSuffixes." of Stamina" （耐力）
-EnchantSuffixes." of Strength" （力量）
-EnchantSuffixes." of Shade" （阴影）
-EnchantSuffixes." of Command" （命令）
-EnchantSuffixes." of Order" （秩序）
-EnchantSuffixes." of Muffler" （消音）
-EnchantSuffixes." of Rebound" （反弹）
-EnchantSuffixes." of Stability" （稳定）
-EnchantSuffixes." of Buffer" （缓冲）
-EnchantSuffixes." of the Form" （形式）
-EnchantSuffixes." of Activity" （活跃）
-EnchantSuffixes." of Speech" （演说）
-EnchantSuffixes." of Arousal" （觉醒）
-EnchantSuffixes." of Advance" （发展）
-EnchantSuffixes." of Mercy" （仁慈）
-EnchantSuffixes." of Remedy" （治疗）
-EnchantSuffixes." of Foliage" （植物）
-EnchantSuffixes." of Dousing" （熄灭）
-EnchantSuffixes." of Thawing" （融化）
-EnchantSuffixes." of Grounding" （接地）
-EnchantSuffixes." of Spirit" （精神）
-EnchantSuffixes." of Willpower" （意志）
-EnchantSuffixes." of Vigour" （活力）
-EnchantSuffixes." of the Moon" （月亮）
-EnchantSuffixes." of Faith" （信仰）
-EnchantSuffixes." of Hallwood" （圣林）
-EnchantSuffixes." of Healing" （治愈）
-EnchantSuffixes." of Potency" （潜力）
-EnchantSuffixes." of Flash" （闪光）
-EnchantSuffixes." of Pleasing" （愉悦）
-EnchantSuffixes." of Chaos" （混乱）
-EnchantSuffixes." of Noise" （噪声）
-EnchantSuffixes." of Draining" （噬精）
-EnchantSuffixes." of Striking" （冲击）
-EnchantSuffixes." of Leeching" （吸血）
-EnchantSuffixes." of Squealing" （啸声）
-EnchantSuffixes." of Paralysis" （麻痹）
-EnchantSuffixes." of Muting" （静音）
-EnchantSuffixes." of Calming" （镇定）
-EnchantSuffixes." of Impeding" （妨碍）
-EnchantSuffixes." of Malice" （怨恨）
-EnchantSuffixes." of Malady" （腐败）
-EnchantSuffixes." of Venom" （毒液）
-EnchantSuffixes." of Burning" （燃烧）
-EnchantSuffixes." of Freezing" （冰冻）
-EnchantSuffixes." of Shocking" （震击）
-EnchantSuffixes." of Death" （死亡）
-EnchantSuffixes." of Panic" （恐慌）
-EnchantSuffixes." of Vitality" （活力）
-EnchantSuffixes." of the Sun" （太阳）
-EnchantSuffixes." of Truth" （真理）
-EnchantSuffixes." of Battle" （战斗）
-EnchantSuffixes." of Sorcery" （巫术）
-EnchantSuffixes." of Zeal" （热忱）
-EnchantSuffixes." of Legends" （传奇）
+EnchantPrefixes."Cleric's " 牧师的
+EnchantPrefixes."Dweller's " 水怪的
+EnchantPrefixes."Prophet's " 先知的
+EnchantPrefixes."Knight's " 骑士的
+EnchantPrefixes."Arcanist's " 巧匠的
+EnchantPrefixes."Jester's " 弄丞的
+EnchantSuffixes." of Agility" 敏捷
+EnchantSuffixes." of Charisma" 魅力
+EnchantSuffixes." of Stamina" 耐力
+EnchantSuffixes." of Strength" 力量
+EnchantSuffixes." of Shade" 阴影
+EnchantSuffixes." of Command" 命令
+EnchantSuffixes." of Order" 秩序
+EnchantSuffixes." of Muffler" 消音
+EnchantSuffixes." of Rebound" 反弹
+EnchantSuffixes." of Stability" 稳定
+EnchantSuffixes." of Buffer" 缓冲
+EnchantSuffixes." of the Form" 形式
+EnchantSuffixes." of Activity" 活跃
+EnchantSuffixes." of Speech" 演说
+EnchantSuffixes." of Arousal" 觉醒
+EnchantSuffixes." of Advance" 发展
+EnchantSuffixes." of Mercy" 仁慈
+EnchantSuffixes." of Remedy" 治疗
+EnchantSuffixes." of Foliage" 植物
+EnchantSuffixes." of Dousing" 熄灭
+EnchantSuffixes." of Thawing" 融化
+EnchantSuffixes." of Grounding" 接地
+EnchantSuffixes." of Spirit" 精神
+EnchantSuffixes." of Willpower" 意志
+EnchantSuffixes." of Vigour" 活力
+EnchantSuffixes." of the Moon" 月亮
+EnchantSuffixes." of Faith" 信仰
+EnchantSuffixes." of Hallwood" 圣林
+EnchantSuffixes." of Healing" 治愈
+EnchantSuffixes." of Potency" 潜力
+EnchantSuffixes." of Flash" 闪光
+EnchantSuffixes." of Pleasing" 愉悦
+EnchantSuffixes." of Chaos" 混乱
+EnchantSuffixes." of Noise" 噪声
+EnchantSuffixes." of Draining" 噬精
+EnchantSuffixes." of Striking" 冲击
+EnchantSuffixes." of Leeching" 吸血
+EnchantSuffixes." of Squealing" 啸声
+EnchantSuffixes." of Paralysis" 麻痹
+EnchantSuffixes." of Muting" 静音
+EnchantSuffixes." of Calming" 镇定
+EnchantSuffixes." of Impeding" 妨碍
+EnchantSuffixes." of Malice" 怨恨
+EnchantSuffixes." of Malady" 腐败
+EnchantSuffixes." of Venom" 毒液
+EnchantSuffixes." of Burning" 燃烧
+EnchantSuffixes." of Freezing" 冰冻
+EnchantSuffixes." of Shocking" 震击
+EnchantSuffixes." of Death" 死亡
+EnchantSuffixes." of Panic" 恐慌
+EnchantSuffixes." of Vitality" 活力
+EnchantSuffixes." of the Sun" 太阳
+EnchantSuffixes." of Truth" 真理
+EnchantSuffixes." of Battle" 战斗
+EnchantSuffixes." of Sorcery" 巫术
+EnchantSuffixes." of Zeal" 热忱
+EnchantSuffixes." of Legends" 传奇
+ItemNames."Unidentified" （?）
+ItemNames."PrefixedItem" %2【%1】
+ItemNames."SingleEnchant" %2%1
+ItemNames."DoubleEnchant" %1%3%2
 ItemLogs."You see %s here." 你在这里看见了%s。
 ItemLogs."You see %s." 你看见%s。
 ItemLogs."%s is no longer blessed." %s不再神圣。
@@ -1784,7 +1788,7 @@ CharmEffects."Pulsating Daemon's Heart" @(30)将地狱系法术的施法修正�
 CharmEffects."Book of Fading Memories" @(30)带着这本书每休息一个回合就会随机忘记一个知识。
 CharmEffects."Manuscript of Knowledge" @(30)所有的物品在拾起时就会被自动鉴定。
 CharmEffects."High Capacity Quiver" @(30)把箭囊的最大容量翻倍。
-CharmEffects."Third Leg of the Imp" @(30)把一个神圣的戒指和它恶魔附体，可以永远的把该戒指的力量绑定在其上。
+CharmEffects."Third Leg of the Imp" @(30)把一个被祝福的戒指和它恶魔附体，可以永远的把该戒指的力量绑定在其上。
 CharmEffects."Stone of Arcane Power" @(30)将奥术的冷却时间减少一半。
 CharmEffects."Star Spangled Cap" @(30)可悲的是，这顶帽子唯一能做的就是让戴着它的人激怒魔鼠。
 CharmEffects."Glove of Liberalism" @(30)针对恶魔增加 50% 物理伤害。
@@ -1795,7 +1799,7 @@ CharmEffects."Mad Torque Slingshot" @(30)将投掷岩石的最大范围提升 60
 CharmEffects."Duelist's Wristbow" @(30)每次你招架一次攻击时，就向攻击者射出一支小箭。
 CharmEffects."Uberlyft's Lost Shoe" @(30)旅行按钮现在在城里也可以用了，它能把你带回你离开的地方。
 CharmEffects."Creepy Stone Face" @(30)允许你看到所有可见生物的生命条。
-CharmEffects."Golden Chastity Key" @(30)当你去开一个锁上的箱子时，一次成功暴击会增加神圣的拾取品。
+CharmEffects."Golden Chastity Key" @(30)当你去开一个锁上的箱子时，一次成功暴击会增加被祝福的拾取品。
 CharmEffects."Loose Weapon Chain" @(30)获得针对缴械效果的免疫力。
 CharmEffects."Time Dilation Device" @(30)你可以用这个耳环把游戏的所有回合都视为奇数或偶数。
 CharmEffects."Fishing Hook and Line" @(30)水峡谷现在可以用来钓鱼。
@@ -3435,7 +3439,7 @@ HeritageDescs."Potion of Healing" @(26)在游戏开始时给游侠装备一瓶�
 HeritageDescs."Potion of Healing".1 @(26)升级到等级 %d 可以解锁这项遗产。
 HeritageDescs."The Seventh Talent" @(26)读写：常识 作为第七项天赋，在游戏一开始就已经学会。
 HeritageDescs."The Seventh Talent".1 @(26)学会隐藏的第七天赋可以解锁这项遗产。
-HeritageDescs."The Interface Dog" @(26)在游戏一开始，给主手武器附上神圣祝福。
+HeritageDescs."The Interface Dog" @(26)在游戏一开始，祝福主手武器。
 HeritageDescs."The Interface Dog".1 @(26)浏览完所有的教程项目可以解锁这项遗产。
 HeritageDescs."The Silver Spoon" @(26)在游戏一开始，给主手武器进行一次随机附魔。
 HeritageDescs."The Silver Spoon".1 @(26)同时穿戴上 11 个附魔过的装备可以解锁这项遗产（衬衫和头巾不计入内）。
@@ -3501,7 +3505,7 @@ HeritageDescs."The Pink Order" @(26)允许你对你的粉色衬衫和头巾进�
 HeritageDescs."The Pink Order".1 @(26)解锁这项遗产需要你在穿着粉色衬衫或头巾时，在聊天频道说出 '%s' （不带引号）。
 HeritageDescs."Big Bada Boom" @(26)允许你对你的白色衬衫和头巾进行附魔。
 HeritageDescs."Big Bada Boom".1 @(26)解锁这项遗产需要你在穿着白色衬衫或头巾时使用魂晶，知道你获得你的多通道。
-HeritageDescs."Over 9000" @(26)你的衬衫和头巾现在被神圣祝福过了，可以进行两次附魔。
+HeritageDescs."Over 9000" @(26)你的衬衫和头巾现在被祝福过了，可以进行两次附魔。
 HeritageDescs."Over 9000".1 @(26)解锁这项遗产需要在你解锁以上八项遗产后，获得 9000 分以上。
 HeritageDescs."Gurmur's End" @(26)既然你明显不需要任何帮助，那么当然什么也给不了你。
 HeritageDescs."Gurmur's End".1 @(26)杀死咕呣终止邪教徒征服世界的计划可以解锁这项遗产。
@@ -4004,7 +4008,7 @@ SpellbookWindow."Select an item to cast %s on and press %s:" 选择一个物品�
 SpellbookWindow."You can't cast a scroll on itself, nice try though!" 你不能对卷轴本身使用卷轴，不过脑洞挺大！
 SpellbookWindow."Type the legendary name of your weapon or press %s to cancel." 为你的传奇武器命名，或是按下 %s 取消。
 SpellbookWindow."You can't use %s on items that are not wieldable weapons." 你不能针对不是可装备武器的物品使用 %s。
-SpellbookWindow."You can't use runes on items that are not blessed and double enchanted." 符石只能用于神圣的物品，且已经附魔过两次。
+SpellbookWindow."You can't use runes on items that are not blessed and double enchanted." 符石只能用于被祝福的物品，且已经附魔过两次。
 SpellbookWindow."You can't channel arcane spells through the wand." 你不能用通导魔杖使用奥术。
 SpellbookWindow."You can't cast arcane spells without an amulet." 没有项链不能施放奥术。
 SpellbookWindow."You can't cast bestial spells without a bull horn." 没有牛角不能施放兽性法术。
