@@ -278,7 +278,7 @@
     <str id="Level %d" value="Level %d"/>
     <str id="You have entered" value="You have entered"/>
     <str id="Press the left trigger (L2)..." value="Press the left trigger (L2)..."/>
-    <str id="Press the right trigger (L2)..." value="Press the right trigger (L2)..."/>
+    <str id="Press the right trigger (R2)..." value="Press the right trigger (R2)..."/>
     <str id="Press the left bumper (L1)..." value="Press the left bumper (L1)..."/>
     <str id="Press the right bumper (R1)..." value="Press the right bumper (R1)..."/>
     <str id="Press the arrow pad up button..." value="Press the arrow pad up button..."/>
