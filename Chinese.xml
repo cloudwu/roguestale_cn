@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190606)" checksum="358e362c9f160df7dd6d98e584ac8475045e1e1f">
+<strings version="Version 2.00 Beta 1 (190606)" checksum="3d34e8cc29bc6cb481adc9ac2579e3ad0de1f2c2">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -686,7 +686,7 @@
     <str id="You fail to hide due to being watched by someone." value="You fail to hide due to being watched by someone." local="你没能躲起来，被某人看见了。"/>
     <str id="You are no longer hidden." value="You are no longer hidden." local="你不再隐身。"/>
     <str id="%s is no longer hidden." value="%s is no longer hidden." local="%s不再隐身。"/>
-    <str id="You swap places with %s." value="You swap places with %s." local="你可%s交换了位置。"/>
+    <str id="You swap places with %s." value="You swap places with %s." local="你和%s交换了位置。"/>
     <str id="You are too tired to swap places with %s." value="You are too tired to swap places with %s." local="你太累了，无法和%s交换位置。"/>
     <str id="You pat %s and remind who the master is." value="You pat %s and remind who the master is." local="你轻轻的拍了拍%s，示意谁才是大师。"/>
     <str id="You can't attack people you know before talking to them." value="You can't attack people you know before talking to them." local="在和你认识的人交谈之前，你不能攻击他们。"/>
@@ -1563,11 +1563,11 @@
     <str id="%s's %s slips and is unequipped." value="%s's %s slips and is unequipped." local="%s的%s滑落，卸了下来。"/>
     <str id="Your %s slips from your hand and falls to the ground." value="Your %s slips from your hand and falls to the ground." local="你的%s从主手滑落，掉在地上。"/>
     <str id="%s's %s slips and falls to the ground." value="%s's %s slips and falls to the ground." local="%s的%s滑落，掉在地上。"/>
-    <str id="Your %s slips from your hand and is stolen by %s." value="Your %s slips from your hand and is stolen by %s." local="你的%s从主手换罗，被%s偷走。"/>
+    <str id="Your %s slips from your hand and is stolen by %s." value="Your %s slips from your hand and is stolen by %s." local="你的%s从主手滑落，被%s偷走。"/>
     <str id="%s's %s slips and is stolen by you" value="%s's %s slips and is stolen by you" local="%s的%s滑落，被你偷走"/>
     <str id="The %s has no effect on you." value="The %s has no effect on you." local="这个%s对你不起效果。"/>
     <str id="The potion has no effect on you." value="The potion has no effect on you." local="这瓶药剂对你不起效果。"/>
-    <str id="You are affected by %s." value="You are affected by %s." local="你收到了%s的影响。"/>
+    <str id="You are affected by %s." value="You are affected by %s." local="你受到了%s的影响。"/>
     <str id="Your %s is refreshed by %s." value="Your %s is refreshed by %s." local="你的%s被%s恢复。"/>
     <str id="Your %s is refreshed by the potion." value="Your %s is refreshed by the potion." local="你的%s被这药剂恢复。"/>
     <str id="%s didn't seem to have any effect." value="%s didn't seem to have any effect." local="%s看起来不带任何效果。"/>
@@ -1960,7 +1960,7 @@
     <str id="Fishing Hook and Line" value="Water chasms can now be used to catch fish." local="水峡谷现在可以用来钓鱼。"/>
     <str id="Fairy Jizzed Bull Horn" value="Allows apprentice wizards to learn and cast Bestial spells (learning also requires that you levitate)." local="允许巫师学徒学习和施放兽性法术&#10;（学习时需要浮空）。"/>
     <str id="Engraved Pyramidion" value="Allows apprentice wizards to learn and cast Abyssal spells (learning also requires black soul gems)." local="允许巫师学徒学习和施放深渊法术&#10;（学习时需要有黑色魂晶）。"/>
-    <str id="BlessedFamiliar" value="Any drake attempting to attack you becomes your friend permanently." local="任何企图攻击力的龙都会永久变成&#10;你的伙伴。"/>
+    <str id="BlessedFamiliar" value="Any drake attempting to attack you becomes your friend permanently." local="任何企图攻击你的龙都会永久变成&#10;你的伙伴。"/>
     <str id="BlessedOutcasts" value="Summons a loot hoarder at the first level of every random dungeon." local="在每个随机地牢的第一层召唤一个&#10;收藏家。"/>
   </CharmEffects>
   <CoinNames>
@@ -2364,7 +2364,7 @@
     <str id="%s shimmers brightly before shattering to pieces." value="%s shimmers brightly before shattering to pieces." local="%s 在破碎成碎片之前光芒四射。"/>
     <str id="%s vanishes before you teleport on it." value="%s vanishes before you teleport on it." local="%s 在你传送到它之前消失了。"/>
     <str id="%s appears before you teleport on it." value="%s appears before you teleport on it." local="%s 在你传送到它之前出现了。"/>
-    <str id="You teleport to a new location." value="You teleport to a new location." local="你传送到一个新的位置。"/>
+    <str id="You teleport to a new location." value="You teleport to a new location." local="你瞬移到一个新的位置。"/>
     <str id="You feel death chill in your bones." value="You feel death chill in your bones." local="你感到死一般的彻骨之寒。"/>
     <str id="You suddenly feel as if you've traveled 88 mph." value="You suddenly feel as if you've traveled 88 mph." local="你瞬间感觉时速到了 88 英里。"/>
     <str id="You suddenly get a strange deja vu feeling." value="You suddenly get a strange deja vu feeling." local="一种奇怪的既视感瞬间袭来。"/>
@@ -2740,7 +2740,7 @@
     <str id="Fine Spear" value="This weapon is a polearm and as such has a range of up to two tiles with the attack button." local="这种武器是一种长柄武器，因&#10;此你可以通过按攻击按钮打出&#10;两格的攻击范围。"/>
     <str id="Fine Staff" value="This weapon is a conduit and as such it allows the wielder to re-roll failed spell to-hit rolls." local="这把武器是一种导器，这意味&#10;着它允许持有者重掷失败的施&#10;法骰和法术命中骰。"/>
     <str id="Fine Crossbow" value="This is a slow weapon and as such must be rearmed after every time it is used." local="这是一种慢速武器，因此每次&#10;使用后都必须重新整备。"/>
-    <str id="Fine Repeater" value="Unlike regular crossbows, the ones on the receiving end of a repeater won't get to tell their story." local="与普通的弩不同，被连弩总结&#10;的家伙都来不及叫出来。"/>
+    <str id="Fine Repeater" value="Unlike regular crossbows, the ones on the receiving end of a repeater won't get to tell their story." local="与普通的弩不同，被连弩终结&#10;的家伙都来不及叫出来。"/>
     <str id="Wizard Staff" value="This weapon teaches its wielder how to cast one of the five orb spells." local="这把武器能教会使用者如何施&#10;放五种法术球中的一种。"/>
     <str id="Wizard Staff 0" value="This weapon teaches its wielder how to cast the Flaming Orb spell." local="这把武器能教会使用者如何施&#10;放火球术。"/>
     <str id="Wizard Staff 1" value="This weapon teaches its wielder how to cast the Frozen Orb spell." local="这把武器能教会使用者如何施&#10;放冰球术。"/>
@@ -3460,9 +3460,9 @@
     <str id="bleed" value="bleed" local="流血"/>
   </DamageTypes>
   <Achievements>
-    <str id="You have returned a schematic titled '%s'!" value="You have returned a schematic titled '%s'!" local="你归还了一张题为 '%s' 的图纸！"/>
-    <str id="You have unlocked '%s' heritage!" value="You have unlocked '%s' heritage!" local="你解锁了 '%s' 遗产！"/>
-    <str id="You have completed '%s' challenge!" value="You have completed '%s' challenge!" local="你完成了 '%s' 挑战！"/>
+    <str id="You have returned a schematic titled '%s'!" value="You have returned a schematic titled '%s'!" local="你归还了一张题为 ‘%s’ 的图纸！"/>
+    <str id="You have unlocked '%s' heritage!" value="You have unlocked '%s' heritage!" local="你解锁了 ‘%s’ 遗产！"/>
+    <str id="You have completed '%s' challenge!" value="You have completed '%s' challenge!" local="你完成了 ‘%s’ 挑战！"/>
     <str id="You have cleared the dungeon!" value="You have cleared the dungeon!" local="你清空了地牢！"/>
     <str id="You have cleared the dungeon but you are not alone!" value="You have cleared the dungeon but you are not alone!" local="你清空了地牢，但你并不孤单！"/>
     <str id="Arnold from Black Field" value="Arnold from Black Field" local="黑色领域的阿诺德"/>
@@ -3804,7 +3804,7 @@
       <str id="paragraph 1" value="This heritage can be unlocked by wearing a yellow shirt or robe and flipping a coin until you get three tails in a row." local="解锁这项遗产需要你在穿着黄&#10;色衬衫或头巾时抛投硬币，直&#10;到连续掷出三个背面。"/>
     </str>
     <str id="The Pink Order" value="Allows you to enchant your pink shirt or robe." local="允许你对你的粉色衬衫和头巾&#10;进行附魔。">
-      <str id="paragraph 1" value="This heritage can be unlocked by wearing a pink shirt or robe and saying '%s' without the quotes on the chat." local="解锁这项遗产需要你在穿着粉&#10;色衬衫或头巾时，在聊天频道&#10;说出 '%s' （不带引号）。"/>
+      <str id="paragraph 1" value="This heritage can be unlocked by wearing a pink shirt or robe and saying '%s' without the quotes on the chat." local="解锁这项遗产需要你在穿着粉&#10;色衬衫或头巾时，在聊天频道&#10;说出 ‘%s’ （不带引号）。"/>
     </str>
     <str id="Big Bada Boom" value="Allows you to enchant your white shirt or robe." local="允许你对你的白色衬衫和头巾&#10;进行附魔。">
       <str id="paragraph 1" value="This heritage can be unlocked by wearing a white shirt or robe and using a soul gem until you receive your multipass." local="解锁这项遗产需要你在穿着白&#10;色衬衫或头巾时使用魂晶，知&#10;道你获得你的多通道。"/>
@@ -3885,7 +3885,7 @@
     </str>
     <str id="Monster Chow" value="Increases health and energy while shapeshifted." local="在变身时增加生命值和精力。">
       <str id="paragraph 1" value="This heritage can be unlocked by killing %d monsters and eating their corpses while shapeshifted." local="在变身后杀死 %d 个巨怪并吃&#10;掉它们的尸体。"/>
-      <str id="paragraph 2" value="Note that shapeshifting resets the counter and this must be completed in one shift." local="注意：施展变身术将充值计数&#10;器，因此必须在一次变身中完&#10;成。"/>
+      <str id="paragraph 2" value="Note that shapeshifting resets the counter and this must be completed in one shift." local="注意：施展变身术将重置计数&#10;器，因此必须在一次变身中完&#10;成。"/>
       <str id="paragraph 3" value="Monsters eaten:" local="吃掉的巨怪："/>
     </str>
     <str id="Second Amendment" value="Allows you to read Arcane tomes while having a matching amulet equipped (*)." local="允许你在装备有对应的项链时&#10;，阅读奥术典籍 (*)。">
@@ -3990,7 +3990,7 @@
     <str id="Itch Be Slapped" value="This challenge can be completed by killing an uninjured monster while causing damage only with your bare hands." local="完成这项挑战需要你赤手空拳&#10;杀死一个无伤的巨怪。"/>
     <str id="The Ghostbuster" value="This challenge can be completed by killing all Heroes of Hallwood in the final battle." local="完成这项挑战需要你在终局之&#10;战中杀死所有的圣林英雄。"/>
     <str id="Against the Odds" value="This challenge can be completed by clearing a dungeon consisting of three or more levels with cursed jewelry." local="完成这项挑战需要你带着被诅&#10;咒的珠宝清空至少有三层的地&#10;牢。">
-      <str id="paragraph 1" value="You must have a cursed amulet and two cursed rings equipped at the time the dungeon is reset." local="你必须在重置地牢时就带上一&#10;个被诅咒的项链和两枚被诅咒&#10;的戒指。"/>
+      <str id="paragraph 1" value="You must have a cursed amulet and two cursed rings equipped at the time the dungeon is reset." local="你必须在重置地牢时就带上一&#10;条被诅咒的项链和两枚被诅咒&#10;的戒指。"/>
       <str id="paragraph 2" value="Closing an entrance does not count." local="封堵上入口不算。"/>
     </str>
     <str id="Dark Passenger" value="This challenge can be completed by reaching level 20 without lighting any torches." local="完成这项挑战需要你在升到 2&#10;0 级之前不点燃任何一处壁火&#10;。"/>
@@ -4107,29 +4107,29 @@
     <str id="Nightshade" value="This legendary effect can be imbued by applying a potent deadly poison on the weapon." local="灌注此传奇效果需要将一瓶强&#10;效死亡药剂淬在武器上。"/>
     <str id="Orbus Bomba" value="This legendary effect can be imbued by killing an enemy with splash damage of an enlarged orb." local="灌注此传奇效果需要你用增大&#10;的法术球的溅射杀死一个敌人&#10;。"/>
     <str id="Zombie Dog" value="This legendary effect can be imbued by killing Woof." local="灌注此传奇效果需要你杀死汪&#10;汪。"/>
-    <str id="TestOfLeadership" value="This challenge can be completed by being known as '%s' after finishing the test of leadership." local="完成这项挑战需要你在完成领&#10;导力测试后被视为 '%s' 。">
+    <str id="TestOfLeadership" value="This challenge can be completed by being known as '%s' after finishing the test of leadership." local="完成这项挑战需要你在完成领&#10;导力测试后被视为 ‘%s’ 。">
       <str id="paragraph 1" value="The test of leadership has three questions and three possible types of answers (cruel, fair and gentle)." local="领导力测试有三个问题及三种&#10;类型的答案（无情、公正和温&#10;和）。"/>
     </str>
     <str id="Path of Wisdom" value="%s" local="%s ">
-      <str id="paragraph 1" value="If you answer the test with one of each types of answers, you will be known as '%s'." local="如果你测试的答案每种类型都&#10;有，你会被视为'%s'。"/>
+      <str id="paragraph 1" value="If you answer the test with one of each types of answers, you will be known as '%s'." local="如果你测试的答案每种类型都&#10;有，你会被视为‘%s’。"/>
     </str>
     <str id="Path of Justice" value="%s" local="%s ">
-      <str id="paragraph 1" value="If you answer the test with cruel and fair answers only, you will be known as '%s'." local="如果你测试的答案中有无情的&#10;和公正的，你会被视为'%s'。"/>
+      <str id="paragraph 1" value="If you answer the test with cruel and fair answers only, you will be known as '%s'." local="如果你测试的答案中有无情的&#10;和公正的，你会被视为‘%s’。"/>
     </str>
     <str id="Path of Decency" value="%s" local="%s ">
-      <str id="paragraph 1" value="If you answer the test with cruel and gentle answers only, you will be known as '%s'." local="如果你测试的答案中有无情的&#10;和温和的，你会被视为'%s'。"/>
+      <str id="paragraph 1" value="If you answer the test with cruel and gentle answers only, you will be known as '%s'." local="如果你测试的答案中有无情的&#10;和温和的，你会被视为‘%s’。"/>
     </str>
     <str id="Path of Kindness" value="%s" local="%s ">
-      <str id="paragraph 1" value="If you answer the test with fair and gentle answers only, you will be known as '%s'." local="如果你测试的答案中有公正的&#10;和温和的，你会被视为'%s'。"/>
+      <str id="paragraph 1" value="If you answer the test with fair and gentle answers only, you will be known as '%s'." local="如果你测试的答案中有公正的&#10;和温和的，你会被视为‘%s’。"/>
     </str>
     <str id="Path of Cruelty" value="%s" local="%s ">
-      <str id="paragraph 1" value="If you answer the test with cruel answers only, you will be known as '%s'." local="如果你测试的答案中只有无情&#10;的，你会被视为'%s'。"/>
+      <str id="paragraph 1" value="If you answer the test with cruel answers only, you will be known as '%s'." local="如果你测试的答案中只有无情&#10;的，你会被视为‘%s’。"/>
     </str>
     <str id="Path of Fairness" value="%s" local="%s ">
-      <str id="paragraph 1" value="If you answer the test with fair answers only, you will be known as '%s'." local="If @(26)如果你测试的答案中只有公正的，你会被视为'%s'。"/>
+      <str id="paragraph 1" value="If you answer the test with fair answers only, you will be known as '%s'." local="If @(26)如果你测试的答案中只有公正的，你会被视为‘%s’。"/>
     </str>
     <str id="Path of Compassion" value="%s" local="%s ">
-      <str id="paragraph 1" value="If you answer the test with gentle answers only, you will be known as '%s'." local="如果你测试的答案中只有温和&#10;的，你会被视为'%s'。"/>
+      <str id="paragraph 1" value="If you answer the test with gentle answers only, you will be known as '%s'." local="如果你测试的答案中只有温和&#10;的，你会被视为‘%s’。"/>
     </str>
     <str id="Indivisible Greed" value="This challenge can be completed by reseting a dungeon after meeting three angry pops." local="这项挑战可以在遭遇三个愤怒&#10;的父亲后重置地牢来完成。"/>
   </ChallengeDescs>
@@ -4338,7 +4338,7 @@
     <str id="The merchant is not interested to buy those." value="The merchant is not interested to buy those." local="商人对购买那些东西没有兴趣。"/>
     <str id="The merchant is not interested to buy that." value="The merchant is not interested to buy that." local="商人对购买那个东西没有兴趣。"/>
     <str id="The merchant doesn't have free space for that at the moment." value="The merchant doesn't have free space for that at the moment." local="商人目前没有空间。"/>
-    <str id="%s can't be sold while it is equipped." value="%s can't be sold while it is equipped." local="%s 在装备中，所有无法售卖。"/>
+    <str id="%s can't be sold while it is equipped." value="%s can't be sold while it is equipped." local="%s 在装备中，所以无法售卖。"/>
     <str id="The merchant is not interested in unidentified items." value="The merchant is not interested in unidentified items." local="商人对未鉴定的物品没有兴趣。"/>
     <str id="%s is repaired for %d gold coins." value="%s is repaired for %d gold coins." local="%s 修好了，你支付了 %d 个金币。"/>
     <str id="You can't afford to repair %s." value="You can't afford to repair %s." local="你修不起 %s 。"/>
@@ -4358,7 +4358,7 @@
     <str id="Those %s cannot be enchanted." value="Those %s cannot be enchanted." local="那些 %s 无法被附魔。"/>
     <str id="%s cannot be enchanted." value="%s cannot be enchanted." local="%s 无法被附魔。"/>
     <str id="You give %s to a clerk and %d gold coins are added to your ledger (%d)." value="You give %s to a clerk and %d gold coins are added to your ledger (%d)." local="你把 %s 交给店员，你的账户上多了 %d 个金币（%d）。"/>
-    <str id="You give %s to a clerk to be stored for later use (%d)." value="You give %s to a clerk to be stored for later use (%d)." local="你把 %s 交给店员存放起来共日后使用（%d）。"/>
+    <str id="You give %s to a clerk to be stored for later use (%d)." value="You give %s to a clerk to be stored for later use (%d)." local="你把 %s 交给店员存放起来供日后使用（%d）。"/>
     <str id="You can't store those %s here." value="You can't store those %s here." local="你无法把那些 %s 存放在这里。"/>
     <str id="You can't store %s here." value="You can't store %s here." local="你无法把 %s 存放在这里。"/>
     <str id="You attempt to donate a charm to the Artisans' Guild and they identify it for you." value="You attempt to donate a charm to the Artisans' Guild and they identify it for you." local="你试着向工匠行会捐赠一件饰品，他们帮你做了鉴定。"/>
@@ -4403,7 +4403,7 @@
     <str id="You can't cast bestial spells without a bull horn." value="You can't cast bestial spells without a bull horn." local="没有牛角不能施放兽性法术。"/>
     <str id="You can't cast abyssal spells without a pyramidion." value="You can't cast abyssal spells without a pyramidion." local="没有金字塔无法施放深渊法术。"/>
     <str id="You can't cast release soul without a soul gem." value="You can't cast release soul without a soul gem." local="没有灵魂石无法释放灵魂。"/>
-    <str id="You can't cast shroom grenade without a blood cap." value="You can't cast shroom grenade without a blood cap." local="你无法没有血蘑菇来施放蘑菇手雷。"/>
+    <str id="You can't cast shroom grenade without a blood cap." value="You can't cast shroom grenade without a blood cap." local="你没有血蘑菇来施放蘑菇手雷。"/>
     <str id="You can't cast army of the dead without a soul gem." value="You can't cast army of the dead without a soul gem." local="你没有魂晶来施放死亡军团。"/>
     <str id="You can't cast ritual sacrifice without an amulet of sacrifice." value="You can't cast ritual sacrifice without an amulet of sacrifice." local="你没有献祭项链来施放祭祀仪式。"/>
     <str id="The spell is on a cooldown with %d turns remaining." value="The spell is on a cooldown with %d turns remaining." local="这个法术还在冷却中，还剩 %d 回合。"/>
@@ -4476,7 +4476,7 @@
     <str id="STR_INTIMIDATE" value="If you want to live, you better help me now..." local="如果你想活下去，最好现在帮助我……"/>
     <str id="STR_PERSUADE" value="I can see the way you look at me. What if..." local="我能看到你看着我的样子。如果……"/>
     <str id="STR_INTRO_SCARED" value="STR_NAME seems happy to be alive." local="STR_NAME 看起来很高兴能活着。"/>
-    <str id="STR_INTRO_SMITTEN" value="STR_NAME seems badly smitten." local="STR_NAME 看起来收到严重打击。"/>
+    <str id="STR_INTRO_SMITTEN" value="STR_NAME seems badly smitten." local="STR_NAME 看起来受到严重打击。"/>
     <str id="STR_BREAK_UP_1" value="What, why, please don't?!?" local="什么，为什么，不要啊 ?!?"/>
     <str id="STR_BREAK_UP_2" value="What, why, you little bitch?!?" local="什么，为什么，你个小婊子 ?!?"/>
     <str id="STR_INTRO_SOUL_MATE" value="Your soul mate looks at you with puppy eyes." local="你的灵魂伴侣用一双可爱的大眼睛盯着你。"/>
@@ -4529,7 +4529,7 @@
     <str id="I would like to learn this '%s'." value="I would like to learn this '%s'." local="我想要学习 '%s'."/>
     <str id="Can you teach me this '%s' spell?" value="Can you teach me this '%s' spell?" local="你能教教我这个 '%s' 法术吗?"/>
     <str id="You already know %s." value="You already know %s." local="你已经知道 %s 了."/>
-    <str id="You can't learn more talents at the moment." value="You can't learn more talents at the moment." local="当前你不能再学习更多的天赋."/>
+    <str id="You can't learn more talents at the moment." value="You can't learn more talents at the moment." local="当前你不能再学习更多的天赋。"/>
   </DialogueWindow>
   <StatusBarAnim>
     <str id="Satiated" value="Satiated" local="满足"/>
@@ -4749,7 +4749,7 @@
     <str id="KING_SCREEN_STORY" value="As you place the crown on your head, whispers start hearing in the hallways growing stronger with every breath you take:" local="随着你把王冠戴在头上，走廊里的窃窃私语伴随着你每一次呼吸越发清晰入耳：">
       <str id="paragraph 1" value="&quot;The %s is dead. Long live the %s!&quot;" local="&quot;%s已死。%s万岁！&quot;"/>
       <str id="paragraph 2" value="You have defeated %s in a fair challenge and you are now the rightful ruler of Frostmourn." local="你在一次公平挑战中击败了%s，现在你成为了霜之哀伤的合法统治者。"/>
-      <str id="paragraph 3" value="According to the ancient laws, it is now your right to have your way with the servants in any way that pleases you." local="估计古代的律法，现在你有权力对你的侍从做任何事，让他们用你喜欢的方式侍奉你。"/>
+      <str id="paragraph 3" value="According to the ancient laws, it is now your right to have your way with the servants in any way that pleases you." local="根据古代的律法，现在你有权力对你的侍从做任何事，让他们用你喜欢的方式侍奉你。"/>
       <str id="paragraph 4" value="Should you become bored or there's animosity amongst your people, you can always throw a few peasants down from the walls." local="如果你感到无聊或者你发觉你的人民对你有敌意，你可以把一些农民从墙上扔下去。"/>
       <str id="paragraph 5" value="Be as it may, you are now ready for the test of leadership..." local="既然如此，现在可以开始对你的领导力做点测试了……"/>
     </str>
@@ -4888,7 +4888,7 @@
     <str id="Key config data save failed due to a file system error." value="Key config data save failed due to a file system error." local="因为文件系统错误，键盘配置数据保存失败。"/>
     <str id="Statistic data save failed due to a file system error." value="Statistic data save failed due to a file system error." local="因为文件系统错误，状态数据保存失败。"/>
     <str id="Hero creation failed due to a file system error." value="Hero creation failed due to a file system error." local="因为文件系统错误，英雄无法创建。"/>
-    <str id="Hero deletion failed due to a file system error." value="Hero deletion failed due to a file system error." local="因为文件系统错误，影响无法删除。"/>
+    <str id="Hero deletion failed due to a file system error." value="Hero deletion failed due to a file system error." local="因为文件系统错误，英雄无法删除。"/>
     <str id="Hero saving failed due to a file system error." value="Hero saving failed due to a file system error." local="因为文件系统错误，英雄保存失败。"/>
     <str id="Hero loading failed due to a file system error." value="Hero loading failed due to a file system error." local="因为文件系统错误，英雄加载失败。"/>
     <str id="Unknown server error!" value="Unknown server error!" local="未知的服务器错误！"/>
@@ -4908,7 +4908,7 @@
     <str id="/resetdog" value="/resetdog" local="/resetdog（重置狗）"/>
     <str id="/skipnull" value="/skipnull" local="/skipnull（跳过）"/>
     <str id="/mrgsteam" value="/mrgsteam" local="/mrgsteam（导入Steam）"/>
-    <str id="Type %s to set the number of search attempts (using values 1 through 6)." value="Type %s to set the number of search attempts (using values 1 through 6)." local="输入 %s 已设置搜索尝试次数（从 1 到 6）。"/>
+    <str id="Type %s to set the number of search attempts (using values 1 through 6)." value="Type %s to set the number of search attempts (using values 1 through 6)." local="输入 %s 来设置搜索尝试次数（从 1 到 6）。"/>
     <str id="Search attempts has been set to %d." value="Search attempts has been set to %d." local="搜索尝试次数被设置为 %d 。"/>
     <str id="Your current score is %d." value="Your current score is %d." local="你当前的分数为 %d 。"/>
     <str id="Items are now sorted vertically." value="Items are now sorted vertically." local="物品现在以垂直方式排序。"/>
