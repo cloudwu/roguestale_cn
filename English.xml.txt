@@ -141,7 +141,7 @@ KeyDescs."Hotkey".1 @(44)你可以在法术书窗口里选中喜欢的法术或�
 KeyDescs."Chat" @(44)这个键用来弹出一个文本输入框，用来向其他玩家发送即时消息（仅用于在线模式）。
 KeyDescs."Jump" @(44)这个键用来向四个主方向（东南西北）跳跃。
 KeyDescs."Swap" @(44)这个键用来在主武器组和备选武器组之间快速切换。
-KeyDescs."Equip" @(44)这个键用来弹出物品界面，并进行装备和接触装备。
+KeyDescs."Equip" @(44)这个键用来弹出物品界面，并进行装备和解除装备。
 KeyDescs."Sort" @(44)这个键会整理背包内的物品。
 KeyDescs."Travel" @(44)这个键用来在当前楼层探查完毕后快速返城。
 KeyDescs."Attack" @(44)这个键带出攻击光标，用远程武器攻击敌人。
@@ -225,7 +225,7 @@ GUIDesc."FROSTMOURN_INN".4 @(38)注意：这还会提升下一次你清空地牢
 GUIDesc."RESET_DUNGEON" @(32)你是否探索完当前的地牢，或是在旅店休整了一段时间，这并不重要。
 GUIDesc."RESET_DUNGEON".1 @(32)如你所愿，现在你准备接受新的挑战。
 GUIDesc."RESET_DUNGEON".2 @(32)然而要提醒的是，你要确定是否做好了面对一切的完全准备……
-GUILogs."You donate %d gold coins and %s is removed." 你捐了 %d 金币移除了 %s 。
+GUILogs."You donate %d gold coins and %s is removed." 你捐了 %d 金币移除了 %s。
 GUILogs."You can't afford to donate %d gold coins." 你付不起 %d 金币的捐赠。
 GUILogs."Shrine of Nibar thanks you and all curse and magic effects are removed." 力霸神殿神殿答谢你，所有的诅咒和魔法效果都移除了。
 GUILogs."Shrine of Fubar thanks you and all poison and disease effects are removed." 福霸神殿答谢你，所有的毒害和疾病都移除了。
@@ -261,10 +261,10 @@ Quests."Spider Cave" 蜘蛛洞
 Quests."Cultists' Lair" 邪教徒的巢穴
 Quests."Nabon's Castle" 腊崩的城堡
 Quests."Frostmourn Keep" 霜之哀伤城楼
-Quests."TRAVELER_DESC" @(32)待在旅店中的旅客声称在附近的地牢中见过 %s 。
+Quests."TRAVELER_DESC" @(32)待在旅店中的旅客声称在附近的地牢中见过 %s。
 Quests."TRAVELER_DESC".1 @(32)这些旅客看起来不太像地牢中的怪兽，但肯定比你们这些游侠更贪婪。
 Quests."TRAVELER_DESC".2 @(32)如果你想打听地牢的位置以及 %s ，你需要必须付点钱。
-Quests."SPAWN_TRAVELER" 你付了钱给旅客，出发去找 %s 。
+Quests."SPAWN_TRAVELER" 你付了钱给旅客，出发去找 %s。
 Quests."ARTIFICER_DESC" @(32)工匠大师鲁班被捉为人质，工匠行会正在招募人选去解救他。
 Quests."ARTIFICER_DESC".1 @(32)不知道为什么，这个任务看起来没有报酬，但是你无法预知救了他会发生什么。
 Quests."ARTIFICER_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
@@ -282,7 +282,7 @@ Quests."WORSHIPPERS_DESC".1 @(32)法师行会似乎不喜欢竞争，他们希�
 Quests."WORSHIPPERS_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
 Quests."SPAWN_WORSHIPPERS" 你接受了任务，出发去执行正当的刺杀。
 Quests."GURMUR_DESC" @(32)一些邪教徒开启了一个计划，想唤醒一个本已死去的老怪物来征服世界。
-Quests."GURMUR_DESC".1 @(32)这当然很糟糕，但还有更糟的事情是哪些邪教徒带走了本该属于你的大量金币。
+Quests."GURMUR_DESC".1 @(32)这当然很糟糕，但还有更糟的事情是那些邪教徒带走了本该属于你的大量金币。
 Quests."GURMUR_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
 Quests."SPAWN_GURMUR" 你接受了任务，出发前往邪教徒的巢穴。
 Quests."NABON_DESC" @(32)坏人就像飞蛾扑火般涌现在这里，最后一个出现的是黑暗之主。
@@ -481,7 +481,7 @@ LootTips."You are not immune to anything" 尚无免疫效果
 LookLogs."You see a man who desperately needs a selfie stick." 你看见了一个急需自拍杆的男人。
 LookLogs."You see a woman who desperately needs a selfie stick." 你看见了一个急需自拍杆的女人。
 LookLogs."You see yourself." 你看见了自己。
-LookLogs."You see %s." 你看见了 %s 。
+LookLogs."You see %s." 你看见了 %s。
 LookLogs."%s looks almost dead." %s 看起来快死了。
 LookLogs."%s looks badly hurt." %s 看起来受了重伤。
 LookLogs."%s looks injured." %s 看起来受伤了。
@@ -494,111 +494,111 @@ LookLogs."You see darkness." 所望之处一片黑暗。
 LookLogs."STR: %s - AGI: %s - STA: %s - CHA: %s - PhR: %s - Level: %s" 力量：%s - 敏捷：%s - 耐力：%s - 魅力：%s - 物防：%s - 等级：%s
 FocusLogs."You order your friends to spread out." 你命令你的伙伴出击。
 FocusLogs."You order your friends to follow you." 你命令你的伙伴跟着你。
-FocusLogs."You order your friends to attack %s." 你命令你的伙伴攻击 %s 。
+FocusLogs."You order your friends to attack %s." 你命令你的伙伴攻击 %s。
 FocusLogs."You order your friends to move to a new location." 你命令你的伙伴移动到一个新的位置。
 FocusLogs."You order your friends to stay put." 你命令你的伙伴原地待机。
 FocusLogs."You can't order friends there." 你无法命令伙伴去那里。
 FocusLogs."You can't order friends where you can't see." 你无法命令伙伴去你看不见的地方。
-JumpLogs."You jump over %s and land on %s." 你跃越过了%s落在%s上。
-JumpLogs."%s jumps over %s and lands on %s." %s跃越过了%s落在%s上。
-JumpLogs."You jump over %s but you land face first on the floor." 你跃过%s，但在落地时脸先着地。
-JumpLogs."%s jumps over %s but lands face first on the floor." %s 跃过%s，但在落地时脸先着地。
-JumpLogs."You try to jump over %s but you land right on top of it." 你试着跃过%s，但却落在了上面。
-JumpLogs."%s tries to jump over %s but lands right on top of it." %s 试着跃过%s，但却落在了上面。
+JumpLogs."You jump over %s and land on %s." 你跃越过了 %s 落在 %s 上。
+JumpLogs."%s jumps over %s and lands on %s." %s 跃越过了 %s 落在 %s 上。
+JumpLogs."You jump over %s but you land face first on the floor." 你跃过 %s，但在落地时脸先着地。
+JumpLogs."%s jumps over %s but lands face first on the floor." %s 跃过 %s，但在落地时脸先着地。
+JumpLogs."You try to jump over %s but you land right on top of it." 你试着跃过 %s，但却落在了上面。
+JumpLogs."%s tries to jump over %s but lands right on top of it." %s 试着跃过 %s，但却落在了上面。
 AttackLogs."Your killing blow mortally hits %s" 你的致命一击准确命中 %s
-AttackLogs."You critically hit %s with %s" 你用%2暴击了%1
-AttackLogs."You hit %s with %s" 你用%2击中了%1
-AttackLogs."%s's killing blow mortally hits you" %s的致命一击正中了你
-AttackLogs."%s critically hits %s with %s" %1用%3暴击了%2
-AttackLogs."%s hits %s with %s" %1用%3击中了%2
+AttackLogs."You critically hit %s with %s" 你用 %s 暴击了 %s
+AttackLogs."You hit %s with %s" 你用 %s 击中了 %s
+AttackLogs."%s's killing blow mortally hits you" %s 的致命一击正中了你
+AttackLogs."%s critically hits %s with %s" %s 用 %s 暴击了 %s
+AttackLogs."%s hits %s with %s" %s 用 %s 击中了 %s
 AttackLogs.", but all damage is resisted." ，不过所有的伤害都被抵抗。
 AttackLogs.", but all damage is reflected back!" ，不过所有的伤害都被反弹！
 AttackLogs.", but half of the damage is reflected back!" ，不过有一半的伤害被反弹！
-AttackLogs."You miss %s with %s." 你的%2没能击中%1。
-AttackLogs."%s misses you with %s." %s的%s没能击中你。
-AttackLogs."Your attack is blocked by %s." 你的攻击被%s格挡了。
-AttackLogs."Your %s is blocked by %s." 你的%s被%s格挡了。
-AttackLogs."You block %s's attack." 你格挡了%s的攻击。
-AttackLogs."You block %s's %s." 你格挡了%s的%s。
-AttackLogs."Your attack is dodged by %s." 你的攻击被%s闪避了。
-AttackLogs."Your %s is dodged by %s." 你的%s被%s闪避了。
-AttackLogs."You dodge %s's attack." 你闪避了%s的攻击。
-AttackLogs."You dodge %s's %s." 你闪避了%s的%s。
-AttackLogs."Your attack is parried by %s." 你的攻击被%s招架了。
-AttackLogs."Your %s is parried by %s." 你的%s被%s招架了。
+AttackLogs."You miss %s with %s." 你的 %s 没能击中 %s。
+AttackLogs."%s misses you with %s." %s 的%s 没能击中你。
+AttackLogs."Your attack is blocked by %s." 你的攻击被 %s 格挡了。
+AttackLogs."Your %s is blocked by %s." 你的 %s 被 %s 格挡了。
+AttackLogs."You block %s's attack." 你格挡了 %s 的攻击。
+AttackLogs."You block %s's %s." 你格挡了 %s 的 %s。
+AttackLogs."Your attack is dodged by %s." 你的攻击被 %s 闪避了。
+AttackLogs."Your %s is dodged by %s." 你的 %s 被 %s 闪避了。
+AttackLogs."You dodge %s's attack." 你闪避了 %s 的攻击。
+AttackLogs."You dodge %s's %s." 你闪避了 %s 的 %s。
+AttackLogs."Your attack is parried by %s." 你的攻击被 %s 招架了。
+AttackLogs."Your %s is parried by %s." 你的 %s 被 %s 招架了。
 AttackLogs."You parry %s's attack." 你招架了%s的攻击。
-AttackLogs."You parry %s's %s." 你招架了%s的%s。
-AttackLogs."You perform a counter attack and shoot a bolt at %s with your wristbow." 你做出了反击，向%s射出一发袖箭。
-AttackLogs."%s performs a counter attack and shoots a bolt at you with a wristbow." %s做出了反击，向你射出一发袖箭。
-AttackLogs."Your shield bash critically hits %s" 你的盾击对%s造成了暴击。
-AttackLogs."Your shield bash hits %s" 你用盾击中了%s
-AttackLogs."%s's shield bash critically hits you" %s的盾击对你造成了暴击
-AttackLogs."%s's shield bash hits you" %s用盾击中了你
-AttackLogs."Your shield bash misses %s." 你的盾击没有打中%s。
-AttackLogs."%s's shield bash misses you." %s的盾击没有打中你。
-AttackLogs."You charge at %s." 你向%s发起了冲锋。
-AttackLogs."%s charges at %s." %s向%s发起了冲锋。
+AttackLogs."You parry %s's %s." 你招架了 %s 的 %s。
+AttackLogs."You perform a counter attack and shoot a bolt at %s with your wristbow." 你做出了反击，向 %s 射出一发袖箭。
+AttackLogs."%s performs a counter attack and shoots a bolt at you with a wristbow." %s 做出了反击，向你射出一发袖箭。
+AttackLogs."Your shield bash critically hits %s" 你的盾击对 %s 造成了暴击。
+AttackLogs."Your shield bash hits %s" 你用盾击中了 %s
+AttackLogs."%s's shield bash critically hits you" %s 的盾击对你造成了暴击
+AttackLogs."%s's shield bash hits you" %s 用盾击中了你
+AttackLogs."Your shield bash misses %s." 你的盾击没有打中 %s。
+AttackLogs."%s's shield bash misses you." %s 的盾击没有打中你。
+AttackLogs."You charge at %s." 你向 %s 发起了冲锋。
+AttackLogs."%s charges at %s." %s 向 %s 发起了冲锋。
 AttackLogs."You can't charge there." 你不能向那里冲锋。
 AttackLogs."You can't charge adjacent targets." 你不能向邻接的目标冲锋。
-AttackLogs."%s misses its target and critically hits %s instead" %s没有命中目标，但暴击了%s
-AttackLogs."%s miss their target and critically hit %s instead" %s没有命中他的目标，但暴击了%s
-AttackLogs."%s misses its target and hits %s instead" %s没有命中它的目标，但击中了%s
-AttackLogs."%s miss their target and hit %s instead" %s没有命中它们的目标，但击中了%s
-AttackLogs."%s misses its target and lands on %s." %s没有命中它的目标，落在了%s上面。
-AttackLogs."%s miss their target and land on %s." %s没有命中它们的目标，落在了%s上面。
-AttackLogs."%s misses its target and breaks when it hits %s." %s没有命中它的目标，击中%s后损毁了。
-AttackLogs."%s miss their target and break when they hit %s." %s没有命中它的目标，击中%s后损毁了。
-AttackLogs."%s critically hits %s" %s对%s造成了暴击。
-AttackLogs."%s hits %s" %s击中了%s
-AttackLogs."%s hit %s" %s击中了%s
-AttackLogs."%s lands on %s." %s落在了%s上面。
-AttackLogs."%s land on %s." %s落在了%s上面。
-AttackLogs."%s breaks when it hits %s." %s击中%s后损毁了。
-AttackLogs."%s break when they hit %s." %s击中%s后损毁了。
-AttackLogs."You throw %s in the fire and cook it." 你把%s扔进火堆，把它烤熟了。
-AttackLogs."You shoot a multi shot at %s." 你连发射向%s。
-AttackLogs."%s shoots a multi shot at %s." %s连发射向%s。
+AttackLogs."%s misses its target and critically hits %s instead" %s 没有命中目标，但暴击了 %s
+AttackLogs."%s miss their target and critically hit %s instead" %s 没有命中他的目标，但暴击了 %s
+AttackLogs."%s misses its target and hits %s instead" %s 没有命中它的目标，但击中了 %s
+AttackLogs."%s miss their target and hit %s instead" %s 没有命中它们的目标，但击中了 %s
+AttackLogs."%s misses its target and lands on %s." %s 没有命中它的目标，落在了 %s 上面。
+AttackLogs."%s miss their target and land on %s." %s 没有命中它们的目标，落在了 %s 上面。
+AttackLogs."%s misses its target and breaks when it hits %s." %s 没有命中它的目标，击中 %s 后损毁了。
+AttackLogs."%s miss their target and break when they hit %s." %s 没有命中它的目标，击中 %s 后损毁了。
+AttackLogs."%s critically hits %s" %s 对 %s 造成了暴击。
+AttackLogs."%s hits %s" %s 击中了 %s
+AttackLogs."%s hit %s" %s 击中了 %s
+AttackLogs."%s lands on %s." %s 落在了 %s 上面。
+AttackLogs."%s land on %s." %s 落在了 %s 上面。
+AttackLogs."%s breaks when it hits %s." %s 击中 %s 后损毁了。
+AttackLogs."%s break when they hit %s." %s 击中 %s 后损毁了。
+AttackLogs."You throw %s in the fire and cook it." 你把 %s 扔进火堆，把它烤熟了。
+AttackLogs."You shoot a multi shot at %s." 你连发射向 %s。
+AttackLogs."%s shoots a multi shot at %s." %s 连发射向 %s。
 AttackLogs."You can't shoot multi shot there." 你不能连发向那里射击。
-AttackLogs."You shoot %s at %s." 你将%s射向%s 。
-AttackLogs."%s shoots %s at %s." %s将%s射向%s 。
+AttackLogs."You shoot %s at %s." 你将 %s 射向 %s。
+AttackLogs."%s shoots %s at %s." %s 将 %s 射向 %s。
 AttackLogs."You can't shoot there." 你不能射向那里。
 AttackLogs."You can't shoot where you can't see." 你不能向你看不见的地方射击。
-AttackLogs."You throw %s at %s." 你把%s向%s扔过去。
-AttackLogs."%s throws %s at %s." %s把%s向%s扔过去。
-AttackLogs."You can't throw %s there." 你不能把%s扔去那里。
+AttackLogs."You throw %s at %s." 你把 %s 向 %s 扔过去。
+AttackLogs."%s throws %s at %s." %s 把 %s 向 %s 扔过去。
+AttackLogs."You can't throw %s there." 你不能把 %s 扔去那里。
 AttackLogs."You can't throw where you can't see." 你不能向你看不见的地方投掷。
-AttackLogs."%s snaps %s and swallows it whole." %s咬住%s整个吞了下去。
-AttackLogs."%s snaps %s and drains its power." %s咬住%s吸取了它的能量。
-AttackLogs."%s folds around %s's neck and it is equipped." %s环绕着%s的脖子，装备上了。
-AttackLogs."Polymorphed cave bear snaps %s and swallows it whole." 被变形的洞熊咬住%s整个吞了下去。
+AttackLogs."%s snaps %s and swallows it whole." %s 咬住 %s 整个吞了下去。
+AttackLogs."%s snaps %s and drains its power." %s 咬住 %s 吸取了它的能量。
+AttackLogs."%s folds around %s's neck and it is equipped." %s 环绕着 %s 的脖子，装备上了。
+AttackLogs."Polymorphed cave bear snaps %s and swallows it whole." 被变形的洞熊咬住 %s 整个吞了下去。
 AttackLogs."Oh my G'awd, rocks can no longer be turned into scrap!" 哦，我的天呐，岩石不再变成碎片！
 AttackLogs."You salvage a piece of reusable scrap from the debris." 你从残骸中抢救出一块可以再利用的碎片。
-AttackLogs."You pull the trigger and shoot %s at %s." 你触动了扳机，把%s射向%s 。
+AttackLogs."You pull the trigger and shoot %s at %s." 你触动了扳机，把 %s 射向 %s。
 AttackLogs."You pull the trigger but nothing happens." 你触动了扳机，但什么也没有发生。
-CastLogs."You cast %s at %s." 你向%2施放了%1。
-CastLogs."You cast %s on %s." 你在%2之上施放了%1。
-CastLogs."%s casts %s at %s." %1向%3施放了%2。
-CastLogs."%s casts %s on %s." %1在%3之上施放了%2。
-CastLogs."%s casts a spell at %s." %s对%s施放了一个法术。
-CastLogs."%s casts a spell on %s." %s在%s上面施放了一个法术。
-CastLogs."You cast %s on yourself." 你对自己施放了%s。
-CastLogs."You can't cast %s there." 你无法向那里施放%s。
-CastLogs."You can't cast %s on %s." 你无法将%s施放在%s上面。
-CastLogs."You can't cast %s on yourself." 你无法对自己施放%s。
+CastLogs."You cast %s at %s." 你向 %s 施放了 %s。
+CastLogs."You cast %s on %s." 你在 %s 之上施放了 %s。
+CastLogs."%s casts %s at %s." %s 向 %s 施放了 %s。
+CastLogs."%s casts %s on %s." %s 在 %s 之上施放了 %s。
+CastLogs."%s casts a spell at %s." %s 对 %s 施放了一个法术。
+CastLogs."%s casts a spell on %s." %s 在 %s 上面施放了一个法术。
+CastLogs."You cast %s on yourself." 你对自己施放了 %s。
+CastLogs."You can't cast %s there." 你无法向那里施放 %s。
+CastLogs."You can't cast %s on %s." 你无法将 %s 施放在 %s 上面。
+CastLogs."You can't cast %s on yourself." 你无法对自己施放 %s。
 CastLogs."You can't cast where you can't see." 你无法向你看不见的地方施法。
-CastLogs."You choose not to cast %s at yourself." 你选择不对自己施放%s。
-CastLogs."You start to cast %s." 你开始施展%s。
-CastLogs."You start to cast a spell from %s." 你开始从%s施放一个法术。
-CastLogs."%s decides to zap you instead." %s决定换成对你施术。
-CastLogs."%s is cursed and it decides to zap you instead." %s被诅咒了，它决定换成对你施术。
-CastLogs."You zap %s at %s." 你施展%s，攻击%s。
-CastLogs."%s zaps %s at %s." %s施展%s，攻击%s。
-CastLogs."You can't zap %s there." 你无法对那里施展%s。
+CastLogs."You choose not to cast %s at yourself." 你选择不对自己施放 %s。
+CastLogs."You start to cast %s." 你开始施展 %s。
+CastLogs."You start to cast a spell from %s." 你开始从 %s 施放一个法术。
+CastLogs."%s decides to zap you instead." %s 决定换成对你施术。
+CastLogs."%s is cursed and it decides to zap you instead." %s 被诅咒了，它决定换成对你施术。
+CastLogs."You zap %s at %s." 你施展 %s，攻击 %s。
+CastLogs."%s zaps %s at %s." %s 施展 %s，攻击 %s。
+CastLogs."You can't zap %s there." 你无法对那里施展 %s。
 CastLogs."You can't zap where you can't see." 你无法向你看不到的地方施术。
 SearchLogs."You notice something skulking in the shadows." 你注意到有什么东西藏在阴影里。
-SearchLogs."%s notices you skulking in the shadows." %s注意到你躲在阴影里。
-SearchLogs."You notice something and find %s nearby." 您注意到一些东西，并在附近找到%s。
-SearchLogs."You search your surroundings and find %s." 你搜索四周，发现了%s。
+SearchLogs."%s notices you skulking in the shadows." %s 注意到你躲在阴影里。
+SearchLogs."You notice something and find %s nearby." 您注意到一些东西，并在附近找到 %s。
+SearchLogs."You search your surroundings and find %s." 你搜索四周，发现了 %s。
 SearchLogs."You notice something and find a hidden door nearby." 你注意到点什么，附近似乎有一扇暗门。
 SearchLogs."You notice something and find a hidden passage nearby." 你注意到点什么，附近似乎有一个隐藏的通道。
 SearchLogs."You search your surroundings and find a hidden door nearby." 你搜索四周，发现了附近的一扇暗门。
@@ -619,41 +619,41 @@ MoveLogs."You step on a water chasm and fall down." 你踩在一个水坑上摔�
 MoveLogs."You move silently and hide in plain sight." 你默默潜行，在视野中藏了起来。
 MoveLogs."You move silently and remain hidden." 你默默潜行，保持着隐身状态。
 MoveLogs."You fail to move silently and become visible." 你潜行失败，变得可见。
-MoveLogs."%s becomes visible." %s变得可见。
+MoveLogs."%s becomes visible." %s 变得可见。
 MoveLogs."You fail to move silently." 你潜行失败。
 MoveLogs."You fail to hide due to being watched by someone." 你没能躲起来，被某人看见了。
 MoveLogs."You are no longer hidden." 你不再隐身。
-MoveLogs."%s is no longer hidden." %s不再隐身。
-MoveLogs."You swap places with %s." 你可%s交换了位置。
-MoveLogs."You are too tired to swap places with %s." 你太累了，无法和%s交换位置。
-MoveLogs."You pat %s and remind who the master is." 你轻轻的拍了拍%s，示意谁才是大师。
+MoveLogs."%s is no longer hidden." %s 不再隐身。
+MoveLogs."You swap places with %s." 你可 %s 交换了位置。
+MoveLogs."You are too tired to swap places with %s." 你太累了，无法和 %s 交换位置。
+MoveLogs."You pat %s and remind who the master is." 你轻轻的拍了拍 %s，示意谁才是大师。
 MoveLogs."You can't attack people you know before talking to them." 在和你认识的人交谈之前，你不能攻击他们。
 MoveLogs."You can't attack other people before talking to them." 在和别人说话之前，你不能攻击他们。
 MoveLogs."You bump into something hidden." 你碰到了隐藏的东西。
-MoveLogs."%s bumps into you." %s撞到你。
+MoveLogs."%s bumps into you." %s 撞到你。
 MoveLogs."You choose not to step on a lava chasm." 你选择不踩到熔岩裂口。
 MoveLogs."You choose not to step on a water chasm." 你选择不踩到一个水坑。
-MoveLogs."You choose not to step on %s." 你选择不踩上%s。
+MoveLogs."You choose not to step on %s." 你选择不踩上 %s。
 MoveLogs."You feel a bit more energetic." 你觉得精力更充沛了。
 MoveLogs."You are too tired to break things right now." 你太累了，现在不能把东西弄坏。
-MoveLogs."%s rolls on %s and tears it apart before sinking in a chasm." %s滚到%s上面，在落下深坑之前把它碾成了几片。
-MoveLogs."%s rolls down and sinks in a lava chasm." %s滚下，沉入熔浆。
-MoveLogs."%s rolls down and sinks in a water chasm." %s滚下，沉入水中。
-MoveLogs."You push %s but something seems to be blocking the way." 你推了推%s，但好像有什么挡住了去路。
-MoveLogs."%s rolls on %s and seals it shut." %s滚到了%s上面，将它封闭。
-MoveLogs."%s rolls on %s and breaks it." %s滚到了%s上面，破坏了它。
-MoveLogs."%s rolls on an entrance and seals it shut." %s滚到了入口上，封住了它。
-MoveLogs."%s rolls on a pit and seals it shut." %s滚到了坑里，封住了它。
-MoveLogs."You are too tired to push %s right now." 你现在太累了，无法推动%s。
+MoveLogs."%s rolls on %s and tears it apart before sinking in a chasm." %s 滚到 %s 上面，在落下深坑之前把它碾成了几片。
+MoveLogs."%s rolls down and sinks in a lava chasm." %s 滚下，沉入熔浆。
+MoveLogs."%s rolls down and sinks in a water chasm." %s 滚下，沉入水中。
+MoveLogs."You push %s but something seems to be blocking the way." 你推了推 %s，但好像有什么挡住了去路。
+MoveLogs."%s rolls on %s and seals it shut." %s 滚到了 %s 上面，将它封闭。
+MoveLogs."%s rolls on %s and breaks it." %s 滚到了 %s 上面，破坏了它。
+MoveLogs."%s rolls on an entrance and seals it shut." %s 滚到了入口上，封住了它。
+MoveLogs."%s rolls on a pit and seals it shut." %s 滚到了坑里，封住了它。
+MoveLogs."You are too tired to push %s right now." 你现在太累了，无法推动 %s。
 MoveLogs."You bump into something solid." 你撞到了一个结实的东西。
-MoveLogs."You kick %s and remember that right-click uses things." 你踢到%s，记起了用鼠标右键使用东西。
+MoveLogs."You kick %s and remember that right-click uses things." 你踢到 %s，记起了用鼠标右键使用东西。
 MoveLogs."You kick the wall and remember that right-click uses things." 你踢到墙，记起了用鼠标右键使用东西。
 MoveLogs."You kick the obstacle and remember that right-click uses things." 你踢到障碍物，记起了用鼠标右键使用东西。
 MoveLogs."You feel that you have been dislocated." 你觉得自己被弄糊涂了。
 MoveLogs."You feel that the universe just farted." 你觉得整个宇宙都在放屁。
 MoveLogs."The bridge breaks under your weight but you step aside before falling in a chasm." 桥在你的重压下断裂了，但你在掉入深渊之前闪到了一边。
-MoveLogs."%s breaks under your weight and you fall down in a lava chasm." %s在你的重压下断裂了，但你在掉入岩浆中之前闪到了一边。 
-MoveLogs."%s breaks under your weight and you fall down in a water chasm." %s在你的重压下断裂了，但你在落水之前闪到了一边。 
+MoveLogs."%s breaks under your weight and you fall down in a lava chasm." %s 在你的重压下断裂了，但你在掉入岩浆中之前闪到了一边。 
+MoveLogs."%s breaks under your weight and you fall down in a water chasm." %s 在你的重压下断裂了，但你在落水之前闪到了一边。 
 RestLogs."You roll your eyes." 你眨了下眼。
 RestLogs."You pick your nose." 你擤了下鼻子。
 RestLogs."You feel your butt." 你拍了拍屁股。
@@ -664,28 +664,28 @@ RestLogs."You fart silently); whew." 你默默地放了个屁 ;) 噗。
 RestLogs."You rest but don't feel any better." 你休息了一下，但并没有好多少。
 RestLogs."You rest and feel a bit more energetic." 你休息了一下，感觉精力更充沛了。
 RestLogs."You rest and feel a bit more healthy." 你休息了一下，感觉更健康了。
-RestLogs."You rearm %s." 你为%s装弹。
-RestLogs."%s rearms %s." %s为%s装弹。
+RestLogs."You rearm %s." 你为 %s 装弹。
+RestLogs."%s rearms %s." %s 为 %s 装弹。
 UseLogs."You eat a patch of mushrooms." 你吃了一块蘑菇。
-UseLogs."You eat %s." 你吃了%s。
+UseLogs."You eat %s." 你吃了 %s。
 UseLogs."You can't eat undead corpses." 你不能食用亡灵的尸体。
 UseLogs."You can't eat elemental corpses." 你不能食用元素的尸体。
 UseLogs."You can't use your surroundings while polymorphed." 你不能在被变形时使用你附近的物品。
 UseLogs."You can't use your surroundings while shapeshifted." 你不能在变身时使用你附近的物品。
 UseLogs."%s is not interested in what you have to say." %s 没什么要对你说的了。
 UseLogs."You seem to have awoken a slumbering treeman." 看起来你正在尝试唤醒一个沉睡的树人。
-UseLogs."You don't have room for %s." 你没有空间放%s了。
-UseLogs."You dig %s until it breaks apart." 你挖掘的%s破裂了。
-UseLogs."You dig %s for a while but it stays intact." 你尝试挖了半天%s，但是它看起来依旧很坚固。
-UseLogs."You are not strong enough to break %s." 你当前的力量不足以破坏%s。
-UseLogs."You are too tired to dig %s right now." 你太累了不能再挖%s了。
-UseLogs."You can't seem to figure out a way to use %s." 你找不到方法使用%s。
+UseLogs."You don't have room for %s." 你没有空间放 %s 了。
+UseLogs."You dig %s until it breaks apart." 你挖掘的 %s 破裂了。
+UseLogs."You dig %s for a while but it stays intact." 你尝试挖了半天 %s，但是它看起来依旧很坚固。
+UseLogs."You are not strong enough to break %s." 你当前的力量不足以破坏 %s。
+UseLogs."You are too tired to dig %s right now." 你太累了不能再挖 %s 了。
+UseLogs."You can't seem to figure out a way to use %s." 你找不到方法使用 %s。
 UseLogs."You dig a wall until it breaks into a boulder." 你把一面墙挖碎了，留下了一个巨石。
 UseLogs."You dig a wall for a while but it stays intact." 你对着一面墙一顿深挖，但是它看起来还是很坚固。
 UseLogs."You are not strong enough to break the wall." 你还没有能力破坏这面墙。
 UseLogs."You are too tired to dig the wall right now." 你太累了不能再挖这面墙了。
-UseLogs."You admire %s." 你赞叹着%s。
-UseLogs."You admire the broken %s." 你赞叹着破碎的%s。
+UseLogs."You admire %s." 你赞叹着 %s。
+UseLogs."You admire the broken %s." 你赞叹着破碎的 %s。
 UseLogs."You admire the almost unbreakable wall." 你感叹着这面无法破坏的墙。
 UseLogs."You dig a wall until it crumbles and reveals a hidden door." 你挖的一面墙粉碎了，同时在墙后出现了一个暗门。
 UseLogs."You dig a wall until it crumbles and reveals a hidden passage." 你挖的一面墙粉碎了，同时在墙后出现了一个隐藏的通道。
@@ -693,25 +693,25 @@ UseLogs."You admire the almost perfectly hidden wall." 你感叹这堵暗墙藏�
 UseLogs."You admire the unbreakable granite wall." 你感叹这面墙坚若磐石。
 UseLogs."You attempt to catch some fish." 你尝试捕一些鱼。
 UseLogs."You catch a fish and put it in your backpack." 你抓到了一条鱼，同时将它放入背包。
-UseLogs."You pick up and equip %s." 你拾取并装备了%s。
-UseLogs."%s picks up and equips %s." %s拾取并装备了%s。
-UseLogs."You pick up %s." 你拾取了%s。
+UseLogs."You pick up and equip %s." 你拾取并装备了 %s。
+UseLogs."%s picks up and equips %s." %s 拾取并装备了 %s。
+UseLogs."You pick up %s." 你拾取了 %s。
 UseLogs."%s picks up %s." %s 拾取了 %s。
 UseLogs."Sorry, not enough space to loot that item." 抱歉，没有足够的空间拾取该物品。
-UseLogs."You equip %s." 你装备了%s。
-UseLogs."You unequip %s." 你卸下了%s。
-UseLogs."%s equips %s." %s 装备了%s。
-UseLogs."%s unequips %s." %s卸下了%s。
-UseLogs."%s is magically bound to you!" 你和%s灵魂绑定。
+UseLogs."You equip %s." 你装备了 %s。
+UseLogs."You unequip %s." 你卸下了 %s。
+UseLogs."%s equips %s." %s 装备了 %s。
+UseLogs."%s unequips %s." %s 卸下了 %s。
+UseLogs."%s is magically bound to you!" 你和 %s 灵魂绑定。
 UseLogs."You can't equip any more of those." 你不能再装备它们了。
 UseLogs."You can't seem to equip that at the moment." 看起来你不能在此时装备它。
 UseLogs."Not enough free space to unequip your equipped item." 没有足够的空间卸下你已经装备的物品。
 UseLogs."You can't unequip that, it's magically bound to you!" 你不能卸下灵魂绑定的物品。
 UseLogs."Not enough free space to unequip the item." 没有足够的空间卸下该物品。
-UseLogs."You drop %s." 你扔掉了%s。
+UseLogs."You drop %s." 你扔掉了 %s。
 UseLogs."%s drops %s." %s 扔掉了 %s。
 UseLogs."You can't drop that, it's magically bound to you!" 你不能扔掉灵魂绑定的物品。
-UseLogs."You discard %s." 你抛弃了%s。
+UseLogs."You discard %s." 你抛弃了 %s。
 UseLogs."You hold the soul gem in your hand and let out a maniacal laughter..." 你抓住了一个魂晶，并发出了疯狂的笑声……
 UseLogs."The soul gem starts to vibrate and suddenly explodes in your hand." 魂晶在你手中突然开始震颤，紧接着爆炸了。
 UseLogs."You throw a smoke bomb on the ground." 你向地上抛出了一个烟雾弹。
@@ -720,47 +720,47 @@ UseLogs."You set a bear trap at your feet." 你在脚下安装了一个捕熊陷
 UseLogs."You can't set a bear trap here." 你不能在此安装捕熊陷阱。
 UseLogs."You set a magic trap at your feet." 你在脚下设置了一个魔法陷阱。
 UseLogs."You can't set a magic trap here." 你不能在此安装魔法陷阱。
-UseLogs."The dog collar is on cooldown with %d turns remaining." 狗项圈还有%d回合冷却。
-UseLogs."You closely examine %s and conclude that it is of more use to a skilled craftsman." 你仔细检查了%s，结论是它对一个熟练的工匠更有用。
+UseLogs."The dog collar is on cooldown with %d turns remaining." 狗项圈还有 %d 回合冷却。
+UseLogs."You closely examine %s and conclude that it is of more use to a skilled craftsman." 你仔细检查了 %s，结论是它对一个熟练的工匠更有用。
 UseLogs."You flip a coin and it lands on its head." 你抛起一枚硬币，它正面朝上。
 UseLogs."You flip a coin and it lands on its tail." 你抛起一枚硬币，它背面朝上。
-UseLogs."Select a blessed ring to bind on %s." 选择一个被祝福的戒指绑定在%s之上。
+UseLogs."Select a blessed ring to bind on %s." 选择一个被祝福的戒指绑定在 %s 之上。
 UseLogs."You set the time dilation to match 'Even' turns." 你设置时间膨胀装置为“偶数”回合。
 UseLogs."You set the time dilation to match 'Odd' turns." 你设置时间膨胀装置为“奇数”回合。
-ActionLogs."You disarm %s." 你缴械了%s。
+ActionLogs."You disarm %s." 你缴械了 %s。
 ActionLogs."You sidestep to avoid being knocked back." 你闪到一边，避免被击退。
 ActionLogs."You are knocked back." 你被击退了。
-ActionLogs."%s is knocked back." %s被击退了。
+ActionLogs."%s is knocked back." %s 被击退了。
 ActionLogs."You need to equip arrows to shoot with that weapon." 你需要装备羽箭才能用那种武器射击。
 ActionLogs."You need to equip bolts to shoot with that weapon." 你需要装备箭头才能用那种武器射击。
 ActionLogs."You can't attack at range without a ranged weapon." 你缺少一把远程武器无法远程攻击。
 ActionLogs."Woof can only be stored when he is adjacent to you." 汪汪和你邻接的时候无法被存起来。
 ActionLogs."Can't store Woof because he doesn't exist." 汪汪不存在的时候无法被存起来。
 ActionLogs."Can't spawn Woof because there isn't enough free space." 因为没有足够的空间，所以不能放出汪汪。
-ActionLogs."You blow kisses at %s." 你给了%s一个飞吻。
-ActionLogs."You lovingly hug %s." 你给了%s一个爱的拥抱。
-ActionLogs."%s notices its master and stops attacking." %s注意到它的主人并停止攻击。
+ActionLogs."You blow kisses at %s." 你给了 %s 一个飞吻。
+ActionLogs."You lovingly hug %s." 你给了 %s 一个爱的拥抱。
+ActionLogs."%s notices its master and stops attacking." %s 注意到它的主人并停止攻击。
 ActionLogs."You shapeshift back into a human." 你变身回人类。
 ActionLogs."You shapeshift into a wolf." 你变身成一只狼。
 ActionLogs."You shapeshift into a bear." 你变身成一头熊。
-ActionLogs."%s vanishes." %s消失了。
-ActionLogs."%s dies and sinks in the water." %s死了，沉入水中。
-ActionLogs."%s dies and sinks in the lava." %s死了，沉入岩浆。
-ActionLogs."%s dies." %s死了。
-ActionLogs."%s's flaming aura hits you." %s的火焰光环击中了你。
-ActionLogs."%s's flaming aura hits you but all damage is resisted." %s的火焰光环击中了你，但所有的伤害都被抵抗了。
-ActionLogs."%s's frozen aura hits you." %s的冰霜光环击中了你。
-ActionLogs."%s's frozen aura hits you but all damage is resisted." %s的冰霜光环击中了你，但所有的伤害都被抵抗了。
-ActionLogs."%s's electric aura hits you." %s的雷电光环击中了你。
-ActionLogs."%s's electric aura hits you but all damage is resisted." %s的雷电光环击中了你，但所有的伤害都被抵抗了。
-ActionLogs."%s's venomous aura hits you." %s的毒害光环击中了你。
-ActionLogs."%s's venomous aura hits you but all damage is resisted." %s的毒害光环击中了你，但所有的伤害都被抵抗了。
-ActionLogs."%s's virulent aura hits you." %s的瘟疫光环击中了你。
-ActionLogs."%s's virulent aura hits you but all damage is resisted." %s的瘟疫光环击中了你，但所有的伤害都被抵抗了。
-ActionLogs."%s sink in the water." %s沉入水中。
-ActionLogs."%s sinks in the water." %s沉入水中。
-ActionLogs."%s sink in the lava." %s沉入岩浆。
-ActionLogs."%s sinks in the lava." %s沉入岩浆。
+ActionLogs."%s vanishes." %s 消失了。
+ActionLogs."%s dies and sinks in the water." %s 死了，沉入水中。
+ActionLogs."%s dies and sinks in the lava." %s 死了，沉入岩浆。
+ActionLogs."%s dies." %s 死了。
+ActionLogs."%s's flaming aura hits you." %s 的火焰光环击中了你。
+ActionLogs."%s's flaming aura hits you but all damage is resisted." %s 的火焰光环击中了你，但所有的伤害都被抵抗了。
+ActionLogs."%s's frozen aura hits you." %s 的冰霜光环击中了你。
+ActionLogs."%s's frozen aura hits you but all damage is resisted." %s 的冰霜光环击中了你，但所有的伤害都被抵抗了。
+ActionLogs."%s's electric aura hits you." %s 的雷电光环击中了你。
+ActionLogs."%s's electric aura hits you but all damage is resisted." %s 的雷电光环击中了你，但所有的伤害都被抵抗了。
+ActionLogs."%s's venomous aura hits you." %s 的毒害光环击中了你。
+ActionLogs."%s's venomous aura hits you but all damage is resisted." %s 的毒害光环击中了你，但所有的伤害都被抵抗了。
+ActionLogs."%s's virulent aura hits you." %s 的瘟疫光环击中了你。
+ActionLogs."%s's virulent aura hits you but all damage is resisted." %s 的瘟疫光环击中了你，但所有的伤害都被抵抗了。
+ActionLogs."%s sink in the water." %s 沉入水中。
+ActionLogs."%s sinks in the water." %s 沉入水中。
+ActionLogs."%s sink in the lava." %s 沉入岩浆。
+ActionLogs."%s sinks in the lava." %s 沉入岩浆。
 CombatTexts."Friend Gained" 获得伙伴
 CombatTexts."Friend Lost" 失去伙伴
 CombatTexts."Reflex Save" 反射脱险
@@ -936,8 +936,8 @@ EffectSeems."+1 Agility" %s 看起来变得敏捷。
 EffectSeems."+1 Stamina" %s 看起来变得坚韧。
 EffectSeems."+1 Charisma" %s 看起来变得好看。
 EffectSeems."Wounded" %s 看起来受伤了。
-EffectLogs."You are no longer %s." 你不再 %s 。
-EffectLogs."%s is no longer %s." %s 不再 %s 。
+EffectLogs."You are no longer %s." 你不再 %s。
+EffectLogs."%s is no longer %s." %s 不再 %s。
 EffectLogs."You are no longer affected by %s." 你不再受到 %s 影响。
 EffectLogs."%s is no longer affected by %s." %s 不再受到 %s 影响。
 EffectLogs."You feel hastened." 你感到加速。
@@ -952,7 +952,7 @@ EffectLogs."Your divine shield absorbs all of the damage." 你的神圣之盾吸
 EffectLogs."Your attack is partially absorbed by some magical effect." 一些魔法效果部分吸收了你的攻击。
 EffectLogs."Your attack is fully absorbed by some magical effect." 一些魔法效果完全吸收了你的攻击。
 EffectLogs."You die... but you are saved by %s." 你死了... 但你被 %s 救活了。
-EffectLogs."%s dies... but is saved by some magical effect." %s 死了... 但被一些魔法效果救活了.
+EffectLogs."%s dies... but is saved by some magical effect." %s 死了... 但被一些魔法效果救活了。
 EffectLogs."You are cursed." 你被诅咒了。
 EffectLogs."%s is cursed." %s 被诅咒了。
 EffectLogs."You are poisoned." 你中毒了。
@@ -1189,32 +1189,32 @@ SpellLogs."Your lips can't seem to keep up with your brain." 你的嘴唇似乎�
 SpellLogs."The spell drains you dry before fizzling out." 这个法术在失败前抽干了你。
 SpellLogs."You suddenly see things from a new perspective." 你突然从一个新的视角看问题。
 SpellLogs."You suddenly see through yourself." 你突然看穿了自己。
-SpellLogs."You seem to have angered %s." 你似乎惹恼了%s。
+SpellLogs."You seem to have angered %s." 你似乎惹恼了 %s。
 SpellLogs."You shift to a new location." 你传送到了一个新的位置。
 SpellLogs."The soul's magical energy hits you." 晶石的魔力击中了你。
-SpellLogs."%s misses its target and hits %s instead." %s偏离了目标，而是击中了%s。
-SpellLogs."%s critically hits %s." %s暴击了%s。
-SpellLogs."%s hits %s." %s击中了%s。
-SpellLogs."%s has no effect on %s." %s对%s无效。
-SpellLogs."%s is destroyed by %s." %s被%s摧毁了。
-SpellLogs."You have gained %s." 你获得了%s。
-SpellLogs."%s has gained %s." %s获得了%s。
-SpellLogs."Your %s is refreshed." 你的%s被刷新了。
-SpellLogs."%s's %s has been refreshed." %s的%s被刷新了。
-SpellLogs."You are affected by %s." 你受到%s的影响。
-SpellLogs."%s is affected by %s." %s受到%s的影响。
-SpellLogs."%s appears out of thin air." %s凭空出现。
-SpellLogs."%s vanishes into thin air." %s凭空消失。
-SpellLogs."You forget how to cast %s." 你忘了怎样施放%s。
-SpellLogs."You learn how to cast %s." 你学会了施放%s。
+SpellLogs."%s misses its target and hits %s instead." %s 偏离了目标，而是击中了 %s。
+SpellLogs."%s critically hits %s." %s 暴击了 %s。
+SpellLogs."%s hits %s." %s 击中了 %s。
+SpellLogs."%s has no effect on %s." %s 对 %s 无效。
+SpellLogs."%s is destroyed by %s." %s 被 %s 摧毁了。
+SpellLogs."You have gained %s." 你获得了 %s。
+SpellLogs."%s has gained %s." %s 获得了 %s。
+SpellLogs."Your %s is refreshed." 你的 %s 被刷新了。
+SpellLogs."%s's %s has been refreshed." %s 的 %s 被刷新了。
+SpellLogs."You are affected by %s." 你受到 %s 的影响。
+SpellLogs."%s is affected by %s." %s 受到 %s 的影响。
+SpellLogs."%s appears out of thin air." %s 凭空出现。
+SpellLogs."%s vanishes into thin air." %s 凭空消失。
+SpellLogs."You forget how to cast %s." 你忘了怎样施放 %s。
+SpellLogs."You learn how to cast %s." 你学会了施放 %s。
 SpellLogs."You have learned a new talent." 你学会了一项新天赋。
-SpellLogs."%s is reanimated as %s." %s复活成为了%s。
-SpellLogs."%s is resurrected." %s复活了。
+SpellLogs."%s is reanimated as %s." %s 复活成为了 %s。
+SpellLogs."%s is resurrected." %s 复活了。
 SpellLogs."The chasm fills up and becomes a floor." 深坑上升变成了地板。
 SpellLogs."The floor rises up and becomes a wall." 地板上升变成了墙体。
 SpellLogs."The wall crumbles and reveals a floor." 墙体破碎变成了地板。
 SpellLogs."The floor crumbles and reveals a chasm." 地板破碎变成了深坑。
-SpellLogs."%s seems to calm down and is no longer hostile." %s似乎冷静下来，不再敌对。
+SpellLogs."%s seems to calm down and is no longer hostile." %s 似乎冷静下来，不再敌对。
 EnchantNames."Mark of Agility" 敏捷印记
 EnchantNames."Mark of Charisma" 魅力印记
 EnchantNames."Mark of Stamina" 耐力印记
@@ -1392,67 +1392,67 @@ EnchantSuffixes." of Battle" 战斗
 EnchantSuffixes." of Sorcery" 巫术
 EnchantSuffixes." of Zeal" 热忱
 EnchantSuffixes." of Legends" 传奇
-ItemNames."Unidentified" （?）
-ItemNames."PrefixedItem" %2【%1】
-ItemNames."SingleEnchant" %2%1
-ItemNames."DoubleEnchant" %1%3%2
-ItemLogs."You see %s here." 你在这里看见了%s。
-ItemLogs."You see %s." 你看见%s。
-ItemLogs."%s is no longer blessed." %s不再神圣。
-ItemLogs."%s is no longer cursed." %s不再被诅咒。
-ItemLogs."%s has lost its shine." %s失去了光泽。
-ItemLogs."%s is stained by the spell." %s被法术玷污了。
-ItemLogs."%s shatters to pieces." %s碎成了几片。
-ItemLogs."You have identified %s as %s." 你将%s鉴定为%s。
-ItemLogs."%s radiates divine light for a moment." %s散发出一束神圣的光芒。
-ItemLogs."You transmute %s into %d gold coins." 你将%s点化为 %d 枚金币。
-ItemLogs."You transmute %s into a gold coin." 你将%s点化为一枚金币。
+ItemNames."Unidentified" 未鉴定的
+ItemNames."PrefixedItem" 前缀物品
+ItemNames."SingleEnchant" 单倍附魔
+ItemNames."DoubleEnchant" 双倍附魔
+ItemLogs."You see %s here." 你在这里看见了 %s。
+ItemLogs."You see %s." 你看见 %s。
+ItemLogs."%s is no longer blessed." %s 不再神圣。
+ItemLogs."%s is no longer cursed." %s 不再被诅咒。
+ItemLogs."%s has lost its shine." %s 失去了光泽。
+ItemLogs."%s is stained by the spell." %s 被法术玷污了。
+ItemLogs."%s shatters to pieces." %s 碎成了几片。
+ItemLogs."You have identified %s as %s." 你将 %s 鉴定为 %s。
+ItemLogs."%s radiates divine light for a moment." %s 散发出一束神圣的光芒。
+ItemLogs."You transmute %s into %d gold coins." 你将 %s 点化为 %d 枚金币。
+ItemLogs."You transmute %s into a gold coin." 你将 %s 点化为一枚金币。
 ItemLogs."You transmute some of your chest hairs into gold particles." 你将你的胸毛点化成黄金微粒。
-ItemLogs."%s is destroyed by magical imbalance." %s由于魔力失衡而毁灭。
-ItemLogs."%s glows black for a moment." %s散发出一束黑色的光芒。
-ItemLogs."%s glows blue for a moment." %s散发出一束蓝色的光芒。
-ItemLogs."%s glows blue for a moment before shattering to pieces." %s散发出一束蓝色的光芒随之粉碎。
-ItemLogs."You gain knowledge about %s." 你获得了关于%s的知识。
+ItemLogs."%s is destroyed by magical imbalance." %s 由于魔力失衡而毁灭。
+ItemLogs."%s glows black for a moment." %s 散发出一束黑色的光芒。
+ItemLogs."%s glows blue for a moment." %s 散发出一束蓝色的光芒。
+ItemLogs."%s glows blue for a moment before shattering to pieces." %s 散发出一束蓝色的光芒随之粉碎。
+ItemLogs."You gain knowledge about %s." 你获得了关于 %s 的知识。
 ItemLogs."You feel that you have forgotten something." 你觉得你忘了些东西。
 ItemLogs."You feel dumber than a rock." 你觉得自己比石头还笨。
-ItemLogs."You use the %s on %s." 你在%2之上使用了%1。
-ItemLogs."%s shines brightly for a moment." 刹那间，%s闪耀出光芒。
-ItemLogs."%s emits darkness for a moment." 刹那间，%s透着黑暗。
-ItemLogs."You name your %s as %s." 你将你的%s命名为%s。
-ItemLogs."%s becomes a legendary item." %s变成了一件传奇物品。
-ItemLogs."You reset the legendary effect on your %s." 你在你的%s上重置了传奇效果。
-ItemLogs."%s legendary effect is imbued in your %s." %s 传奇效果被灌注到你的%s内。
-ItemLogs."Your %s has lost its shine." 你的%s失去了光泽。
-ItemLogs."%s's %s has lost its shine." %s的%s失去了光泽。
-ItemLogs."Your %s is damaged." 你的%s损坏了。
-ItemLogs."%s's %s is damaged." %s的%s损坏了。
-ItemLogs."Your %s is broken." 你的%s损毁了。
-ItemLogs."%s's %s is broken." %s的%s损毁了。
-ItemLogs."%s worn on your main hand is destroyed." 你主手装备的%s被摧毁了。
-ItemLogs."%s worn on your offhand is destroyed." 你副手装备的%s被摧毁了。
-ItemLogs."Your %s slips from your hand and is unequipped." 你的%s从主手滑落，卸了下来。
-ItemLogs."%s's %s slips and is unequipped." %s的%s滑落，卸了下来。
-ItemLogs."Your %s slips from your hand and falls to the ground." 你的%s从主手滑落，掉在地上。
-ItemLogs."%s's %s slips and falls to the ground." %s的%s滑落，掉在地上。
-ItemLogs."Your %s slips from your hand and is stolen by %s." 你的%s从主手换罗，被%s偷走。
-ItemLogs."%s's %s slips and is stolen by you" %s的%s滑落，被你偷走
-ItemLogs."The %s has no effect on you." 这个%s对你不起效果。
+ItemLogs."You use the %s on %s." 你在 %s 之上使用了 %s。
+ItemLogs."%s shines brightly for a moment." 刹那间，%s 闪耀出光芒。
+ItemLogs."%s emits darkness for a moment." 刹那间，%s 透着黑暗。
+ItemLogs."You name your %s as %s." 你将你的 %s 命名为 %s。
+ItemLogs."%s becomes a legendary item." %s 变成了一件传奇物品。
+ItemLogs."You reset the legendary effect on your %s." 你在你的 %s 上重置了传奇效果。
+ItemLogs."%s legendary effect is imbued in your %s." %s 传奇效果被灌注到你的 %s 内。
+ItemLogs."Your %s has lost its shine." 你的 %s 失去了光泽。
+ItemLogs."%s's %s has lost its shine." %s 的 %s 失去了光泽。
+ItemLogs."Your %s is damaged." 你的 %s 损坏了。
+ItemLogs."%s's %s is damaged." %s 的 %s 损坏了。
+ItemLogs."Your %s is broken." 你的 %s 损毁了。
+ItemLogs."%s's %s is broken." %s 的 %s 损毁了。
+ItemLogs."%s worn on your main hand is destroyed." 你主手装备的 %s 被摧毁了。
+ItemLogs."%s worn on your offhand is destroyed." 你副手装备的 %s 被摧毁了。
+ItemLogs."Your %s slips from your hand and is unequipped." 你的 %s 从主手滑落，卸了下来。
+ItemLogs."%s's %s slips and is unequipped." %s 的 %s 滑落，卸了下来。
+ItemLogs."Your %s slips from your hand and falls to the ground." 你的 %s 从主手滑落，掉在地上。
+ItemLogs."%s's %s slips and falls to the ground." %s 的 %s 滑落，掉在地上。
+ItemLogs."Your %s slips from your hand and is stolen by %s." 你的 %s 从主手换罗，被 %s 偷走。
+ItemLogs."%s's %s slips and is stolen by you" %s 的 %s 滑落，被你偷走
+ItemLogs."The %s has no effect on you." 这个 %s 对你不起效果。
 ItemLogs."The potion has no effect on you." 这瓶药剂对你不起效果。
-ItemLogs."You are affected by %s." 你收到了%s的影响。
-ItemLogs."Your %s is refreshed by %s." 你的%s被%s恢复。
-ItemLogs."Your %s is refreshed by the potion." 你的%s被这药剂恢复。
-ItemLogs."%s didn't seem to have any effect." %s看起来不带任何效果。
-ItemLogs."%s shines and repairs itself." %s闪了一下，自我修理好了。
-ItemLogs."%s radiates a divine light for a moment." %s一刹那放射出神圣的光芒。
-ItemLogs."You buy %s for a gold coin." 你用一枚金币买了%s。
-ItemLogs."You buy %s for %d gold coins." 你买了%s，花掉你 %d 枚金币。
-ItemLogs."You can't afford to buy those %s." 你买不起那些%s。
-ItemLogs."You can't afford to buy %s." 你买不起%s。
-ItemLogs."You don't have enough materials to craft %s." 你没有足够的材料制造%s。
-ItemLogs."You don't have enough free space for those %s." 你没有足够的空间存放那些%s。
-ItemLogs."You don't have enough free space for %s." 你没有足够的空间存放%s。
-ItemLogs."You can't place those those %s there." 你无法将那些%s放在那里。
-ItemLogs."You can't place %s there." 你无法将%s放在那里。
+ItemLogs."You are affected by %s." 你收到了 %s 的影响。
+ItemLogs."Your %s is refreshed by %s." 你的 %s 被 %s 恢复。
+ItemLogs."Your %s is refreshed by the potion." 你的 %s 被这药剂恢复。
+ItemLogs."%s didn't seem to have any effect." %s 看起来不带任何效果。
+ItemLogs."%s shines and repairs itself." %s 闪了一下，自我修理好了。
+ItemLogs."%s radiates a divine light for a moment." %s 一刹那放射出神圣的光芒。
+ItemLogs."You buy %s for a gold coin." 你用一枚金币买了 %s。
+ItemLogs."You buy %s for %d gold coins." 你买了 %s，花掉你 %d 枚金币。
+ItemLogs."You can't afford to buy those %s." 你买不起那些 %s。
+ItemLogs."You can't afford to buy %s." 你买不起 %s。
+ItemLogs."You don't have enough materials to craft %s." 你没有足够的材料制造 %s。
+ItemLogs."You don't have enough free space for those %s." 你没有足够的空间存放那些 %s。
+ItemLogs."You don't have enough free space for %s." 你没有足够的空间存放 %s。
+ItemLogs."You can't place those those %s there." 你无法将那些 %s 放在那里。
+ItemLogs."You can't place %s there." 你无法将 %s 放在那里。
 ItemSets."Re-roll failed snare checks." 重掷陷阱检定。
 ItemSets."Re-roll failed sneak checks." 重掷潜行检定。
 ItemSets."Re-roll failed persuasion checks." 重掷失败的说服检定。
@@ -1554,7 +1554,7 @@ AddonNames."Dark Iron Spaulders" 黑铁护肩
 AddonNames."Dark Iron Vambraces" 黑铁护腕
 AddonNames."Dark Iron Gauntlets" 黑铁护手
 AddonNames."Dark Iron Sabatons" 黑铁铠靴
-AddonDescs."SpauldersDesc" @(30)护肩能提高你对暴击造成缴械效果的免疫机会 40% 。
+AddonDescs."SpauldersDesc" @(30)护肩能提高你对暴击造成缴械效果的免疫机会 40%。
 AddonDescs."VambracesDesc" @(30)护腕能在你被暴击后将被缴械前重投一次缴械检定骰。
 AddonDescs."GlovesDesc" @(30)手套能在你被缴械后让武器进入你的物品栏而不是掉落在地上。
 AddonDescs."BootsDesc" @(30)靴子能在你被击退到峡谷或陷阱前改为一次侧移。
@@ -1805,7 +1805,7 @@ CharmEffects."Time Dilation Device" @(30)你可以用这个耳环把游戏的所
 CharmEffects."Fishing Hook and Line" @(30)水峡谷现在可以用来钓鱼。
 CharmEffects."Fairy Jizzed Bull Horn" @(30)允许巫师学徒学习和施放兽性法术（学习时需要浮空）。
 CharmEffects."Engraved Pyramidion" @(30)允许巫师学徒学习和施放深渊法术（学习时需要有黑色魂晶）。
-CharmEffects."BlessedFamiliar" @(30)任何企图攻击力的龙都会永久变成你的伙伴。
+CharmEffects."BlessedFamiliar" @(30)任何企图攻击你的龙都会永久变成你的伙伴。
 CharmEffects."BlessedOutcasts" @(30)在每个随机地牢的第一层召唤一个收藏家。
 CoinNames."Gold Coin" 金币
 CoinStacks."Gold Coin" 金币
@@ -1891,22 +1891,22 @@ FoodDescs."Cider Bottle" @(30)太多的发酵苹果汁可能会使你头痛。
 FoodDescs."Wine Bottle" @(30)红酒白酒无所谓，美女，给我上酒。
 FoodDescs."Booze Bottle" @(30)哇，炼金术士发明了一种不解渴的饮料。
 FoodDescs."Milk Jar" 尚未断奶的游侠们会喜欢这个。
-FoodLogs."You take a bite from %s and it tastes strange." 你咬了一口%s，尝起来怪怪的。
-FoodLogs."You take a bite from %s and it tastes fresh." 你咬了一口%s，很新鲜。
-FoodLogs."You take a bite from %s and it tastes rotten." 你咬了一口%s，馊掉了。
-FoodLogs."You take a bite from %s." 你咬了一口%s。
-FoodLogs."You eat %s and it tastes strange." 你吃着%s，尝起来怪怪的。
-FoodLogs."You eat %s and it tastes fresh." 你吃着%s，很新鲜。
-FoodLogs."You eat %s and it tastes rotten." 你吃着%s，馊掉了。
-FoodLogs."You eat %s." 你吃着%s。
-FoodLogs."You take a sip from %s and it tastes strange." 你抿了一小口%s，味道怪怪的。
-FoodLogs."You take a sip from %s and it tastes fresh." 你抿了一小口%s，很新鲜。
-FoodLogs."You take a sip from %s and it tastes rotten." 你抿了一口%s，坏掉了。
-FoodLogs."You take a sip from %s." 你抿了一口%s。
-FoodLogs."You drink %s and it tastes strange." 你喝着%s，味道怪怪的。
-FoodLogs."You drink %s and it tastes fresh." 你喝着%s，很新鲜。
-FoodLogs."You drink %s and it tastes rotten." 你喝着%s，坏掉了。
-FoodLogs."You drink %s." 你喝着%s。
+FoodLogs."You take a bite from %s and it tastes strange." 你咬了一口 %s，尝起来怪怪的。
+FoodLogs."You take a bite from %s and it tastes fresh." 你咬了一口 %s，很新鲜。
+FoodLogs."You take a bite from %s and it tastes rotten." 你咬了一口 %s，馊掉了。
+FoodLogs."You take a bite from %s." 你咬了一口 %s。
+FoodLogs."You eat %s and it tastes strange." 你吃着 %s，尝起来怪怪的。
+FoodLogs."You eat %s and it tastes fresh." 你吃着 %s，很新鲜。
+FoodLogs."You eat %s and it tastes rotten." 你吃着 %s，馊掉了。
+FoodLogs."You eat %s." 你吃着 %s。
+FoodLogs."You take a sip from %s and it tastes strange." 你抿了一小口 %s，味道怪怪的。
+FoodLogs."You take a sip from %s and it tastes fresh." 你抿了一小口 %s，很新鲜。
+FoodLogs."You take a sip from %s and it tastes rotten." 你抿了一口 %s，坏掉了。
+FoodLogs."You take a sip from %s." 你抿了一口 %s。
+FoodLogs."You drink %s and it tastes strange." 你喝着 %s，味道怪怪的。
+FoodLogs."You drink %s and it tastes fresh." 你喝着 %s，很新鲜。
+FoodLogs."You drink %s and it tastes rotten." 你喝着 %s，坏掉了。
+FoodLogs."You drink %s." 你喝着 %s。
 FoodLogs."You pour water on yourself and douse the fire." 你把水倒在自己身上，把火浇灭。
 FoodLogs."You pour water on yourself and weaken the fire." 你把水倒在自己身上，火势减弱。
 FoodLogs."You feel a burning stomach ache and your bowel hurts." 你感到肚子一阵绞痛，肠胃受伤。
@@ -1972,11 +1972,11 @@ PotionDescs."Potion of Stamina" @(30)里面是“尼亚加拉”，如果能用�
 PotionDescs."Potion of Charisma" @(30)里面是抗皱软膏，可能应该能用在你的皮肤上。
 PotionDescs."Potion of Clotting" @(30)里面是一种轻微的有毒混合物，可以防止出血。
 PotionDescs."Potion of Floating" @(30)里面是浮游类的血，可以让你浮空。
-PotionLogs."You apply %s on your %s." 你把%s敷在你的%s。
-PotionLogs."%s magically refills." %s神奇般的重新装满了。
-PotionLogs."You drink %s." 你喝掉了%s。
+PotionLogs."You apply %s on your %s." 你把 %s 敷在你的 %s。
+PotionLogs."%s magically refills." %s 神奇般的重新装满了。
+PotionLogs."You drink %s." 你喝掉了 %s。
 PotionLogs."You drink an unknown potion." 你喝了一瓶未知的药剂。
-PotionLogs."The potion breaks and its contents splash on %s." 药瓶破碎了，里面的液体溅到%s身上。
+PotionLogs."The potion breaks and its contents splash on %s." 药瓶破碎了，里面的液体溅到 %s 身上。
 PotionLogs."energised effect" 精力充沛的效果
 PotionLogs."vitalised effect" 活力激发的效果
 PotionLogs."insightful effect" 顿悟的效果
@@ -2025,7 +2025,7 @@ RingDescs."Ring of Clarity" @(30)获得对盲眼，耳聋，沉默效果的免�
 RingDescs."Ring of Control" @(30)获得对魅惑，混乱，麻痹效果的免疫力。
 RingDescs."Ring of Deflection" @(30)加倍佩戴者的招架修正。这个效果无法叠加。
 RingDescs."Ring of Elements" @(30)获得对火焰，冰霜，震击效果的免疫力。
-RingDescs."Ring of Evasion" @(30)将格挡，闪避或招架修正之一加 1 。这个效果无法叠加。
+RingDescs."Ring of Evasion" @(30)将格挡，闪避或招架修正之一加 1。这个效果无法叠加。
 RingDescs."Ring of Familiar" @(30)装备时召唤并控制一只幼龙。当幼龙死亡时，戒指也会同时摧毁。
 RingDescs."Ring of Fortitude" @(30)获得对沉睡和恐惧效果的免疫力。
 RingDescs."Ring of Freedom" @(30)获得对迟缓，击退，变形效果的免疫力。
@@ -2057,11 +2057,11 @@ RingDescs."BlessedScholars" @(30)当你拾起魔杖，药剂，卷轴，典籍�
 RingDescs."BlessedSustenance" @(30)完全忽略食物和水的消耗。
 RingDescs."BlessedBloodlust" @(30)治疗你相当于 30% 你造成的物理伤害。
 RingDescs."BlessedConversion" @(30)把所有你受到的伤害减少 20% 并转换为物理伤害。
-RingDescs."BlessedCracking" @(30)近战和远程武器的物理伤害增加 30% 。
+RingDescs."BlessedCracking" @(30)近战和远程武器的物理伤害增加 30%。
 RingDescs."BlessedNoobery" @(30)获得的经验减少到四分之一。这个效果无法叠加。
 RingDescs."BlessedShadows" @(30)在你受到伤害时将你凭空藏匿并致盲攻击者。
 RingDescs."BlessedShielding" @(30)每点精力计为五点生命。这个效果无法叠加。
-RingDescs."BlessedUnderdog" @(30)最多增加所有的抗性八点，生命越低增加越多
+RingDescs."BlessedUnderdog" @(30)最多增加所有的抗性八点，生命越低增加越多。
 RuneNames."Rune" 符石
 RuneNames."Rune of Agility" 敏捷符石
 RuneNames."Rune of Charisma" 魅力符石
@@ -2157,7 +2157,7 @@ ScrollDescs."Scroll of First Aid" @(30)给你止血并施加一个回复之触�
 ScrollDescs."Scroll of Forestation" @(30)让目标蘑菇长成一个树人。可能产生连锁反应。
 ScrollDescs."Scroll of Gimmiedat" @(30)将目标装备在主手的武器缴械到你的空手中。
 ScrollDescs."Scroll of Soothing" @(30)抚慰视野中的所有野兽。
-ScrollDescs."Scroll of Time Warp" @(30)取消你当前的任务并返回城镇，允许你以后再此尝试。
+ScrollDescs."Scroll of Time Warp" @(30)取消你当前的任务并返回城镇，允许你以后再次尝试。
 ScrollLogs."You feel less threatened for some reason." 因为某种原因，你感觉威胁减少了。
 ScrollLogs."You feel that you have upset your friends and made new enemies." 你感觉惹恼了你的伙伴，你又有了新的敌人。
 ScrollLogs."You feel that you have made new enemies." 你感觉有了新的敌人。
@@ -2177,7 +2177,7 @@ ScrollLogs."%s is polymorphed." %s 被变形了。
 ScrollLogs."%s shimmers brightly before shattering to pieces." %s 在破碎成碎片之前光芒四射。
 ScrollLogs."%s vanishes before you teleport on it." %s 在你传送到它之前消失了。
 ScrollLogs."%s appears before you teleport on it." %s 在你传送到它之前出现了。
-ScrollLogs."You teleport to a new location." 你传到到一个新的位置。
+ScrollLogs."You teleport to a new location." 你瞬移到一个新的位置。
 ScrollLogs."You feel death chill in your bones." 你感到死一般的彻骨之寒。
 ScrollLogs."You suddenly feel as if you've traveled 88 mph." 你瞬间感觉时速到了 88 英里。
 ScrollLogs."You suddenly get a strange deja vu feeling." 一种奇怪的既视感瞬间袭来。
@@ -2270,13 +2270,13 @@ TomeLogs."One of your black soul gems is consumed by the tome." 你的一颗黑�
 TomeLogs."You begin to read an unknown tome." 你开始阅读一本未知的典籍。
 TomeLogs."You open the tome at the bookmark and check out the nine inch males." 你翻到这本典籍的书签处，查阅那个二十三厘米的男性。
 TomeLogs."You open the tome at the bookmark and check out the ladies. Ooh la la!" 你翻到这本典籍的书签处，查阅那个女士。哇哦！
-TomeLogs."You finish reading the tome and learn how to cast %s." 你读完了这本典籍，学会了施放%s.
-TomeLogs."You browse through the appendix and also learn how to cast %s." 你从附录开始阅览，也学会了施放%s。
+TomeLogs."You finish reading the tome and learn how to cast %s." 你读完了这本典籍，学会了施放 %s.
+TomeLogs."You browse through the appendix and also learn how to cast %s." 你从附录开始阅览，也学会了施放 %s。
 TomeLogs."The tome glows brightly for a second and turns to dust." 这本典籍开始发光，眨眼间变为了灰烬。
 TomeLogs."You finish reading the tome and you forget something." 你读完了这本典籍，似乎忘了什么。
 TomeLogs."You finish reading the tome and you forget how to walk straight." 你读完了这本典籍，忘掉了怎么走直线。
 TomeLogs."You browse through the tome and look for pretty pictures." 你翻阅这本典籍，想找点漂亮的图片。
-TomeLogs."Your %s shimmers brightly before shattering to pieces." 你的%s在破碎前闪耀着微光。
+TomeLogs."Your %s shimmers brightly before shattering to pieces." 你的 %s 在破碎前闪耀着微光。
 ToolNames."Smoke Bomb" 烟雾弹
 ToolNames."Bear Trap" 捕熊夹
 ToolNames."Magic Trap" 魔法陷阱
@@ -2381,17 +2381,17 @@ WandDescs."Wand of Torture" @(30)造成巨大的魔法伤害，但不会杀死�
 WandLogs."The wall crumbles and reveals a hidden door." 墙倒塌了，露出一扇隐藏的门。
 WandLogs."The wall crumbles and reveals a hidden passage." 墙倒塌了，露出一条隐蔽的通道。
 WandLogs."The wall crumbles and breaks into a boulder." 墙碎裂成一块巨石。
-WandLogs."%s crumbles to dust." %s化为尘埃。
-WandLogs."%s collapses into a spiked pit." %s塌陷进一个有尖刺的坑里。
+WandLogs."%s crumbles to dust." %s 化为尘埃。
+WandLogs."%s collapses into a spiked pit." %s 塌陷进一个有尖刺的坑里。
 WandLogs."The floor collapses into a spiked pit." 地板塌陷成一个有尖刺的坑。
 WandLogs."You fall down into the spiked pit." 你掉进了有尖刺的坑里。
-WandLogs."%s falls down into the spiked pit." %s掉进了有尖刺的坑里。
-WandLogs."You switch places with %s." 你和%s交换了位置。
-WandLogs."%s shimmers brightly for a second." %s闪亮了一秒钟。
-WandLogs."%s has lost its blessing." %s失去了它的祝福。
-WandLogs."%s has reached its maximum charges." %s已达到最高次数。
-WandLogs."You create a duplicate of %s." 你创建了%s的复制品。
-WandLogs."You don't have room for the duplicated %s." 你没有空间复制%s。
+WandLogs."%s falls down into the spiked pit." %s 掉进了有尖刺的坑里。
+WandLogs."You switch places with %s." 你和 %s 交换了位置。
+WandLogs."%s shimmers brightly for a second." %s 闪亮了一秒钟。
+WandLogs."%s has lost its blessing." %s 失去了它的祝福。
+WandLogs."%s has reached its maximum charges." %s 已达到最高次数。
+WandLogs."You create a duplicate of %s." 你创建了 %s 的复制品。
+WandLogs."You don't have room for the duplicated %s." 你没有空间复制 %s。
 WeaponNames."Fist" 拳头
 WeaponNames."Stone" 石块
 WeaponNames."Barbed Whip" 荆棘之鞭
@@ -2529,7 +2529,7 @@ WeaponDescs."Fine Digger" @(26)这把武器是在击倒障碍方面特别出色�
 WeaponDescs."Fine Spear" @(26)这种武器是一种长柄武器，因此你可以通过按攻击按钮打出两格的攻击范围。
 WeaponDescs."Fine Staff" @(26)这把武器是一种导器，这意味着它允许持有者重掷失败的施法骰和法术命中骰。
 WeaponDescs."Fine Crossbow" @(26)这是一种慢速武器，因此每次使用后都必须重新整备。
-WeaponDescs."Fine Repeater" @(26)与普通的弩不同，被连弩总结的家伙都来不及叫出来。
+WeaponDescs."Fine Repeater" @(26)与普通的弩不同，被连弩终结的家伙都来不及叫出来。
 WeaponDescs."Wizard Staff" @(26)这把武器能教会使用者如何施放五种法术球中的一种。
 WeaponDescs."Wizard Staff 0" @(26)这把武器能教会使用者如何施放火球术。
 WeaponDescs."Wizard Staff 1" @(26)这把武器能教会使用者如何施放冰球术。
@@ -2551,7 +2551,7 @@ WeaponDescs."Dawid's Hammer" @(26)这曾经属于圣骑士达维德，他已经�
 WeaponDescs."Royal Mace" @(26)这是你成为一个国王的诸多玩具中的一个。好好把玩。
 WeaponDescs."Satyr's Sting" @(26)这曾经属于独行侠赛特，你从他的遗物中获得。
 WeaponDescs."Logar's Blade" @(26)这曾经属于剑圣洛迦，他的手已不再有体温。
-WeaponDescs."Altren's Kiss" @(26)这曾经属于艾特仁王子，上面刻有 XLVII ，已经不知道其含义。
+WeaponDescs."Altren's Kiss" @(26)这曾经属于艾特仁王子，上面刻有 XLVII，已经不知道其含义。
 WeaponDescs."Staff of the Trickster" @(26)这曾经属于魔术师赖安，持有它的人可以施放瘟疫球。
 WeaponDescs."Staff of the Archmage" @(26)这曾经属于大法师高焚岱，持有它的人可以施放火球术。
 WeaponDescs."Staff of the Ice Queen" @(26)这曾经属于冰霜女王艾特娜，持有它的人可以施放冰球术。
@@ -2574,11 +2574,11 @@ LegendaryDescs."Hateful Aura" @(26)受到的伤害的 33% 会复制给所有附�
 LegendaryDescs."Leap of Faith" @(26)跳跃不再需要精力点，而且永远成功。
 LegendaryDescs."Misinvisicast" @(26)施法失误在造成其它影响之外一定会将你隐身。
 LegendaryDescs."Nightshade" @(26)在武器上的淬毒永远生效，且视作强效。
-LegendaryDescs."Orbus Bomba" @(26)如果你没有施放 法术球增大 ，那么在你的回合结束的时候就自动施放它。
+LegendaryDescs."Orbus Bomba" @(26)如果你没有施放 法术球增大，那么在你的回合结束的时候就自动施放它。
 LegendaryDescs."Zombie Dog" @(26)如果汪汪死了，那么在每个新的地牢开始时会复活（在城镇中重置）。
 CreatureNames."Invisible creature" 隐形生物
-CreatureNames."the corpse of %s" %s的尸体
-CreatureNames."a dead %s" 死去的%s
+CreatureNames."the corpse of %s" %s 的尸体
+CreatureNames."a dead %s" 死去的 %s
 CreatureNames."ghastly skull" 可怕的骷髅
 CreatureNames."pile of bones" 骨堆
 CreatureNames."Beast" 野兽
@@ -2716,14 +2716,14 @@ CreatureLogs."%s summons %s." %s 召唤 %s。
 CreatureLogs."You feel as if there is no hope remaining." 你觉得似乎已经没有任何希望了。
 CreatureLogs."You feel as if there is still some hope remaining." 你觉得似乎还有一点希望。
 CreatureLogs."You feel as if a shadow has been lifted from your shoulders." 你觉得好像有一个阴影从你的肩膀升起。
-CreatureLogs."%s bursts out of the ground." %s从地上冒出来。
-CreatureLogs."%s bursts out of the ground and consumes %s." %s从地上冒出来，开始吞噬%s。
-CreatureLogs."%s pushes you aside as it comes forth." %s出现了，将你推向一边。
-CreatureLogs."%s plunges straight through your body as it comes forth." %s出现了，直接穿过了你的身体。
-CreatureLogs."%s pushes you aside as it comes out from the depths." %s从深处出现，将你推向一边。
-CreatureLogs."%s plunges straight through your body as it comes out from the depths." %s从深处出现，直接穿过了你的身体。
-CreatureLogs."%s seems somewhat triggered by your deplorable presence." %s似乎是你可悲的存在触发的。
-CreatureLogs."%s yells: %s, come forth and fulfill your oath!" %s喊道：%s，出来，履行你的誓言！
+CreatureLogs."%s bursts out of the ground." %s 从地上冒出来。
+CreatureLogs."%s bursts out of the ground and consumes %s." %s 从地上冒出来，开始吞噬 %s。
+CreatureLogs."%s pushes you aside as it comes forth." %s 出现了，将你推向一边。
+CreatureLogs."%s plunges straight through your body as it comes forth." %s 出现了，直接穿过了你的身体。
+CreatureLogs."%s pushes you aside as it comes out from the depths." %s 从深处出现，将你推向一边。
+CreatureLogs."%s plunges straight through your body as it comes out from the depths." %s 从深处出现，直接穿过了你的身体。
+CreatureLogs."%s seems somewhat triggered by your deplorable presence." %s 似乎是你可悲的存在触发的。
+CreatureLogs."%s yells: %s, come forth and fulfill your oath!" %s 喊道：%s，出来，履行你的誓言！
 TileNames."blood pool" 血池
 TileNames."boulder" 巨石
 TileNames."bridge" 桥
@@ -2760,8 +2760,8 @@ TileNames."spiked pit" 尖刺坑
 TileNames."water pit" 水坑
 TileNames."magic trap" 魔法陷阱
 TileNames."tripwire" 绊网
-TileNames."a broken %s" 破碎的%s
-TileNames."the broken %s" 这个破碎的%s
+TileNames."a broken %s" 破碎的 %s
+TileNames."the broken %s" 这个破碎的 %s
 TileNames."a wall" 一口井
 TileNames."the wall" 这口井
 TileNames."a floor" 一块地板
@@ -2772,74 +2772,74 @@ TileNames."a water chasm" 一个深水峡谷
 TileNames."the water chasm" 这个深水峡谷
 TileNames."something icky" 讨厌的东西
 TileNames."something squishy" 黏糊糊的东西
-TileLogs."You see %s." 你看见了%s。
-TileLogs."You see a blank %s." 你看见了一个空的%s。
-TileLogs."You see a broken %s." 你看见了一个破损的%s。
-TileLogs."You see a defiled %s." 你看见一个弄脏的%s。
-TileLogs."You see a closed %s." 你看见一个关闭的%s。
-TileLogs."You see an empty %s." 你看见一个空的%s。
-TileLogs."You see a lit %s." 你看见一个点亮的%s。
-TileLogs."You see an unlit %s." 你看见一个未点亮的%s。
-TileLogs."You see a doused %s." 你看见一个浸湿的%s。
-TileLogs."You see a hidden %s." 你看见一个隐藏的%s。
-TileLogs."You see %s here." 你在这里看见了%s。
-TileLogs."You see a broken %s here." 你在这里看见了一个破损的%s。
-TileLogs."You see a defiled %s here." 你在这里看见一个弄脏的%s。
-TileLogs."You see a doused %s here." 你在这里看见一个浸湿的%s。
+TileLogs."You see %s." 你看见了 %s。
+TileLogs."You see a blank %s." 你看见了一个空的 %s。
+TileLogs."You see a broken %s." 你看见了一个破损的 %s。
+TileLogs."You see a defiled %s." 你看见一个弄脏的 %s。
+TileLogs."You see a closed %s." 你看见一个关闭的 %s。
+TileLogs."You see an empty %s." 你看见一个空的 %s。
+TileLogs."You see a lit %s." 你看见一个点亮的 %s。
+TileLogs."You see an unlit %s." 你看见一个未点亮的 %s。
+TileLogs."You see a doused %s." 你看见一个浸湿的 %s。
+TileLogs."You see a hidden %s." 你看见一个隐藏的 %s。
+TileLogs."You see %s here." 你在这里看见了 %s。
+TileLogs."You see a broken %s here." 你在这里看见了一个破损的 %s。
+TileLogs."You see a defiled %s here." 你在这里看见一个弄脏的 %s。
+TileLogs."You see a doused %s here." 你在这里看见一个浸湿的 %s。
 TileLogs."You see %s that says: %s" 你见 %s 说道：%s
-TileLogs."You see %s leading up." 你看见%s通向上面。
-TileLogs."You see %s leading down." 你看见%s通向下面。
-TileLogs."You see %s leading up here." 你看见这里有%s通向上面。
-TileLogs."You see %s leading down here." 你看见这里有%s通向下面。
-TileLogs."You see %s and %d other items." 你看到了%s以及 %d 件其它物品。
-TileLogs."You see %s and %d other items here." 你看到这里有%s以及 %d 件其它物品。
-TileLogs."You open %s." 你打开了%s。
-TileLogs."You close %s." 你关闭了%s。
-TileLogs."You light %s." 你点亮了%s。
-TileLogs."You douse %s." 你熄灭了%s。
-TileLogs."You step on %s." 你踩上%s。
-TileLogs."You step into %s." 你步入%s。
-TileLogs."You step on a hidden %s." 你踩上一个隐藏的%s。
-TileLogs."You step into a hidden %s." 你步入一个隐藏的%s。
-TileLogs."You step on %s and fall down." 你踏上%s，摔了下去。
-TileLogs."You step on a hidden %s and fall down." 你踏上一个隐藏的%s，摔了下去。
-TileLogs."You step on %s and something hits you." 你踏上%s，有什么东西击中了你。
-TileLogs."You step on a hidden %s and something hits you." 你踩上一个隐藏的%s，有什么东西击中了你。
-TileLogs."You step on %s but nothing seems to happen." 你踏上%s，不过什么也没有发生。
-TileLogs."You step on something that feels like %s." 你踩上了什么东西，感觉像%s。
+TileLogs."You see %s leading up." 你看见 %s 通向上面。
+TileLogs."You see %s leading down." 你看见 %s 通向下面。
+TileLogs."You see %s leading up here." 你看见这里有 %s 通向上面。
+TileLogs."You see %s leading down here." 你看见这里有 %s 通向下面。
+TileLogs."You see %s and %d other items." 你看到了 %s 以及 %d 件其它物品。
+TileLogs."You see %s and %d other items here." 你看到这里有 %s 以及 %d 件其它物品。
+TileLogs."You open %s." 你打开了 %s。
+TileLogs."You close %s." 你关闭了 %s。
+TileLogs."You light %s." 你点亮了 %s。
+TileLogs."You douse %s." 你熄灭了 %s。
+TileLogs."You step on %s." 你踩上 %s。
+TileLogs."You step into %s." 你步入 %s。
+TileLogs."You step on a hidden %s." 你踩上一个隐藏的 %s。
+TileLogs."You step into a hidden %s." 你步入一个隐藏的 %s。
+TileLogs."You step on %s and fall down." 你踏上 %s，摔了下去。
+TileLogs."You step on a hidden %s and fall down." 你踏上一个隐藏的 %s，摔了下去。
+TileLogs."You step on %s and something hits you." 你踏上 %s，有什么东西击中了你。
+TileLogs."You step on a hidden %s and something hits you." 你踩上一个隐藏的 %s，有什么东西击中了你。
+TileLogs."You step on %s but nothing seems to happen." 你踏上 %s，不过什么也没有发生。
+TileLogs."You step on something that feels like %s." 你踩上了什么东西，感觉像 %s。
 TileLogs."You step on something that feels like a corpse." 你踩到一个像尸体的东西。
-TileLogs."You bump into something that feels like %s." 你不小心碰到了什么，感觉像%s。
-TileLogs."You float over %s." 你飘过%s。
-TileLogs."You float into %s." 你飘入%s。
-TileLogs."You float into a hidden %s." 你飘入一个隐藏的%s。
-TileLogs."You gently float over %s." 你轻轻的飘过%s。
-TileLogs."You carefully avoid %s." 你小心翼翼地避开%s。
-TileLogs."You carefully avoid a hidden %s." 你小心翼翼地避开一个隐藏的%s。
-TileLogs."You push %s." 你推动%s。
-TileLogs."You fail to push %s." 你没能推动%s。
-TileLogs."You crank %s." 你启动%s。
-TileLogs."%s says: %s" %s说到：%s
-TileLogs."%s is blank." %s是空的。
-TileLogs."You disarm %s." 你解除了%s。
-TileLogs."You disarm %s into a trap kit." 你将%s解除得到一个陷阱包。
-TileLogs."You fail to disarm %s." 你未能解除%s。
-TileLogs."You attempt to disarm %s but you stumble on it." 你试着解除%s，可是却绊到了。
-TileLogs."You move out of %s." 你从%s之中脱离。
-TileLogs."You break free from %s." 你从%s之中挣脱出来。
-TileLogs."You climb out of %s." 你爬出了%s。
-TileLogs."You fail to break free from %s." 你未能从%s之中挣脱出来。
-TileLogs."You fail to climb out of %s." 你未能爬出%s。
-TileLogs."You are too tired to break free from %s." 你太累了，无法挣脱%s。
-TileLogs."You are too tired to climb out of %s." 你太累了，无法爬出%s。
-TileLogs."You wonder who put this %s here." 你想知道是谁把%s放在这里的。
-TileLogs."You wonder how this %s ended here." 你想知道这里的%s最后会怎样。
-TileLogs."You wonder who dug this %s here." 你想知道是谁在这里把%s挖出来的。
+TileLogs."You bump into something that feels like %s." 你不小心碰到了什么，感觉像 %s。
+TileLogs."You float over %s." 你飘过 %s。
+TileLogs."You float into %s." 你飘入 %s。
+TileLogs."You float into a hidden %s." 你飘入一个隐藏的 %s。
+TileLogs."You gently float over %s." 你轻轻的飘过 %s。
+TileLogs."You carefully avoid %s." 你小心翼翼地避开 %s。
+TileLogs."You carefully avoid a hidden %s." 你小心翼翼地避开一个隐藏的 %s。
+TileLogs."You push %s." 你推动 %s。
+TileLogs."You fail to push %s." 你没能推动 %s。
+TileLogs."You crank %s." 你启动 %s。
+TileLogs."%s says: %s" %s 说到：%s
+TileLogs."%s is blank." %s 是空的。
+TileLogs."You disarm %s." 你解除了 %s。
+TileLogs."You disarm %s into a trap kit." 你将 %s 解除得到一个陷阱包。
+TileLogs."You fail to disarm %s." 你未能解除 %s。
+TileLogs."You attempt to disarm %s but you stumble on it." 你试着解除 %s，可是却绊到了。
+TileLogs."You move out of %s." 你从 %s 之中脱离。
+TileLogs."You break free from %s." 你从 %s 之中挣脱出来。
+TileLogs."You climb out of %s." 你爬出了 %s。
+TileLogs."You fail to break free from %s." 你未能从 %s 之中挣脱出来。
+TileLogs."You fail to climb out of %s." 你未能爬出 %s。
+TileLogs."You are too tired to break free from %s." 你太累了，无法挣脱 %s。
+TileLogs."You are too tired to climb out of %s." 你太累了，无法爬出 %s。
+TileLogs."You wonder who put this %s here." 你想知道是谁把 %s 放在这里的。
+TileLogs."You wonder how this %s ended here." 你想知道这里的 %s 最后会怎样。
+TileLogs."You wonder who dug this %s here." 你想知道是谁在这里把 %s 挖出来的。
 TileLogs."You hear alarm bells in the distance." 你听见了附近的警铃声。
-TileLogs."BOULDER_FALLS_BUT_IS_CAUGHT" 从天花板上落下了一块巨石，不过%s抓住了它，没有造成任何伤害。
-TileLogs."BOULDER_FALLS_PASS_THROUGH" %s头顶的天花板上落下了一块巨石，擦身而过。
+TileLogs."BOULDER_FALLS_BUT_IS_CAUGHT" 从天花板上落下了一块巨石，不过 %s 抓住了它，没有造成任何伤害。
+TileLogs."BOULDER_FALLS_PASS_THROUGH" %s 头顶的天花板上落下了一块巨石，擦身而过。
 TileLogs."BOULDER_FALLS_STEP_ASIDE" 一块巨石落下，你在被砸扁前闪到了一边。
-TileLogs."BOULDER_FALLS_STEPS_ASIDE" 一块巨石落下，%s在被砸扁前闪到了一边。
-TileLogs."BOULDER_FALLS_AND_FLATTENS" 从天花板上落下了一块巨石，砸扁了%s。
+TileLogs."BOULDER_FALLS_STEPS_ASIDE" 一块巨石落下，%s 在被砸扁前闪到了一边。
+TileLogs."BOULDER_FALLS_AND_FLATTENS" 从天花板上落下了一块巨石，砸扁了 %s。
 TileLogs."BOULDER_FALLS_AND_SINKS" 从天花板上落下了一块巨石，沉入了深坑。
 TileLogs."BOULDER_FALLS_DOWN" 从天花板上落下了一块巨石。
 TileLogs."THE_BOULDER_SINKS_TILE" 那块巨石落在了 %s 上面，将它砸成了几块，然后沉入了深坑。
@@ -2852,42 +2852,42 @@ TileLogs."THE_BOULDER_DESTROYS_ALL" 那块巨石落在了 %s 上面，摧毁了�
 TileLogs."A_BOULDER_DESTROYS_ALL" 一块巨石落在了 %s 上面，摧毁了里面的一切。
 TileLogs."GATE_FALLS_PASS_THROUGH" 一座闸门从 %s 头上落下，擦身而过。
 TileLogs."GATE_FALLS_STEP_ASIDE" 一座闸门落下，你在被砍断前躲开了。
-TileLogs."GATE_FALLS_STEPS_ASIDE" 一座闸门落下，%s在被砍断前躲开了。
-TileLogs."GATE_FALLS_AND_MANGLES" 一座闸门落下，斩断了%s。
+TileLogs."GATE_FALLS_STEPS_ASIDE" 一座闸门落下，%s 在被砍断前躲开了。
+TileLogs."GATE_FALLS_AND_MANGLES" 一座闸门落下，斩断了 %s。
 TileLogs."PICK_LOCK_SUCCESS" 你成功了开了锁。
-TileLogs."PICK_LOCK_FAILURE" 你未能打开%s上的锁。
-TileLogs."PICK_LOCK_TRAP_SPRUNG" 你未能打开%s上的锁，还触发了上面的机关。
-TileLogs."PICK_LOCK_CRIT_FAILURE" 你未能打开%s上的锁，它的齿轮重置了。
+TileLogs."PICK_LOCK_FAILURE" 你未能打开 %s 上的锁。
+TileLogs."PICK_LOCK_TRAP_SPRUNG" 你未能打开 %s 上的锁，还触发了上面的机关。
+TileLogs."PICK_LOCK_CRIT_FAILURE" 你未能打开 %s 上的锁，它的齿轮重置了。
 TileLogs."BROKEN_DOOR_WONT_CLOSE" 这扇门看起来坏掉了，无法再关闭。
-TileLogs."CANT_OPEN_LOCKED_TILE" 你试着打开%s，但它似乎锁上了。
-TileLogs."KICK_CRACKS_WIDE_OPEN" 你踹向%s，它裂开了个大口。
-TileLogs."KICK_CRACKS_TO_PIECES" 你踹向%s，它裂成了碎片。
-TileLogs."KICK_TUMBLES_TO_GROUND" 你踹向%s，它滚到了地上。
-TileLogs."KICK_DOESNT_BUDGE" 你踹向%s，它似乎纹丝不动。
-TileLogs."KICK_TRIP_OVER" 你原本想踢%s，可是绊倒了，你的头撞了它。
-TileLogs."KICK_PROPERLY_DEFILED" 你踹了%s一脚，它被弄脏了。
-TileLogs."KICK_SPAWN_OCCUPANT" 你踢了%s一脚，它的主人似乎不太高兴。
-TileLogs."KICK_STUCK_FOR_GOOD" 你踢了%s一脚，它永远卡住了。
-TileLogs."KICK_SPRINGS_BACK" 你踢了%s一脚，它弹了起来，把你摔在地板上。
-TileLogs."KICK_REVOLVES_BACK" 你踢了%s一脚，它弹了回来，击中了你的蛋蛋。
-TileLogs."KICK_TRAP_SPRUNG" 你踢了%s一脚，触发了陷阱，毒箭击中了你。
-TileLogs."CANT_USE_BROKEN_TILE" 你似乎找不到使用这个坏掉的%s的方法。
-TileLogs."CANT_USE_DEFILED_TILE" 你似乎找不到使用这个脏掉的%s的方法。
-TileLogs."CANT_DISARM_PIT_TRAP" 你似乎找不到解除%s的方法。
-TileLogs."HARVEST_SUCCESS" 你从%s采到了一个血蘑菇。
+TileLogs."CANT_OPEN_LOCKED_TILE" 你试着打开 %s，但它似乎锁上了。
+TileLogs."KICK_CRACKS_WIDE_OPEN" 你踹向 %s，它裂开了个大口。
+TileLogs."KICK_CRACKS_TO_PIECES" 你踹向 %s，它裂成了碎片。
+TileLogs."KICK_TUMBLES_TO_GROUND" 你踹向 %s，它滚到了地上。
+TileLogs."KICK_DOESNT_BUDGE" 你踹向 %s，它似乎纹丝不动。
+TileLogs."KICK_TRIP_OVER" 你原本想踢 %s，可是绊倒了，你的头撞了它。
+TileLogs."KICK_PROPERLY_DEFILED" 你踹了 %s 一脚，它被弄脏了。
+TileLogs."KICK_SPAWN_OCCUPANT" 你踢了 %s 一脚，它的主人似乎不太高兴。
+TileLogs."KICK_STUCK_FOR_GOOD" 你踢了 %s 一脚，它永远卡住了。
+TileLogs."KICK_SPRINGS_BACK" 你踢了 %s 一脚，它弹了起来，把你摔在地板上。
+TileLogs."KICK_REVOLVES_BACK" 你踢了 %s 一脚，它弹了回来，击中了你的蛋蛋。
+TileLogs."KICK_TRAP_SPRUNG" 你踢了 %s 一脚，触发了陷阱，毒箭击中了你。
+TileLogs."CANT_USE_BROKEN_TILE" 你似乎找不到使用这个坏掉的 %s 的方法。
+TileLogs."CANT_USE_DEFILED_TILE" 你似乎找不到使用这个脏掉的 %s 的方法。
+TileLogs."CANT_DISARM_PIT_TRAP" 你似乎找不到解除 %s 的方法。
+TileLogs."HARVEST_SUCCESS" 你从 %s 采到了一个血蘑菇。
 TileLogs."HARVEST_FAILURE" 你未能采到血蘑菇。
-TileLogs."HARVEST_CRIT_FAILURE" 你试图去采%s，但它的孢子喷了你一脸。
-TileLogs."BROWSE_THROUGH_CONTENTS" 你查看%s里面有些什么。
-TileLogs."BEGIN_TO_PRACTICE" 你开始用%s进行练习。
-TileLogs."LOOK_INTO_THE_DEPTHS" 你向%s的深处望去。
-TileLogs."CONTEMPLATE_THOUGHTS" 你在%s边沉思。
-TileLogs."DELVE_IN_YOUR_THOUGHTS" 你用%s探究自己的内心。
-TileLogs."TRY_TO_PRACTICE" 你想用%s进行练习，但是觉得天赋还不够。
-TileLogs."TRY_TO_LOOK_INTO" 你试着望进%s的深处，但是觉得天赋还不够。
-TileLogs."TRY_TO_CONTEMPLATE" 你试着在%s边沉思，但是觉得天赋还不够。
+TileLogs."HARVEST_CRIT_FAILURE" 你试图去采 %s，但它的孢子喷了你一脸。
+TileLogs."BROWSE_THROUGH_CONTENTS" 你查看 %s 里面有些什么。
+TileLogs."BEGIN_TO_PRACTICE" 你开始用 %s 进行练习。
+TileLogs."LOOK_INTO_THE_DEPTHS" 你向 %s 的深处望去。
+TileLogs."CONTEMPLATE_THOUGHTS" 你在 %s 边沉思。
+TileLogs."DELVE_IN_YOUR_THOUGHTS" 你用 %s 探究自己的内心。
+TileLogs."TRY_TO_PRACTICE" 你想用 %s 进行练习，但是觉得天赋还不够。
+TileLogs."TRY_TO_LOOK_INTO" 你试着望进 %s 的深处，但是觉得天赋还不够。
+TileLogs."TRY_TO_CONTEMPLATE" 你试着在 %s 边沉思，但是觉得天赋还不够。
 TileLogs."TRY_TO_DELVE_IN" 你想用%s探究自己的内心，但是觉得天赋还不够。
-TileLogs."BROKEN_CANT_TEACH_YOU" 这个坏掉的%s什么都教不了你。
-TileLogs."DOUSED_CANT_TEACH_YOU" 这个浸湿的%s什么都教不了你。
+TileLogs."BROKEN_CANT_TEACH_YOU" 这个坏掉的 %s 什么都教不了你。
+TileLogs."DOUSED_CANT_TEACH_YOU" 这个浸湿的 %s 什么都教不了你。
 TileLogs."NOT_SPIRITUALLY_ATTUNED" 你的精神未能协调到和这个图腾沟通。
 TileLogs."BLIND_STEP_BEAR_TRAP" 你踩到了什么东西，感到一阵剧痛。
 TileLogs."BLIND_STEP_SPIKE_TRAP" 你踩到了什么东西，感到一阵刺痛。
@@ -2896,13 +2896,13 @@ TileLogs."BLIND_FLOAT_SPIDER_WEB" 你撞到什么东西，被缠住了。
 TileLogs."BLIND_STEP_SPIKED_PIT" 你跌落了，感到一阵刺痛。
 TileLogs."BLIND_STEP_WATER_PIT" 你跌入一个水坑。
 TileLogs."BLIND_STEP_MAGIC_TRAP" 你走了一步，什么东西击中了你。
-TileLogs."TRAP_MASTER_CRIT_FAILURE" 您小心翼翼地避开%s，但却被意外地绊到了。
-TileLogs."BEAR_TRAP_CRIT_FAILURE" 你试图挣脱%s，但它的钩爪却深深地扎进你的腿中。
-TileLogs."SPIKE_TRAP_CRIT_FAILURE" 在你想离开%s时，你却被其中一个尖刺绊倒。
-TileLogs."SPIDER_WEB_CRIT_FAILURE" 你试图挣脱%s，却被一个奇怪的声音打断了。
-TileLogs."SPIKED_PIT_CRIT_FAILURE" 你试图爬出%s，但一个失误让你又摔了下去。
-TileLogs."WATER_PIT_CRIT_FAILURE" 你试图爬出%s，但却呛了一口水。
-TileLogs."MAGIC_TRAP_CRIT_FAILURE" 当你想走出%s时，有什么击中了你的后背。
+TileLogs."TRAP_MASTER_CRIT_FAILURE" 您小心翼翼地避开 %s，但却被意外地绊到了。
+TileLogs."BEAR_TRAP_CRIT_FAILURE" 你试图挣脱 %s，但它的钩爪却深深地扎进你的腿中。
+TileLogs."SPIKE_TRAP_CRIT_FAILURE" 在你想离开 %s 时，你却被其中一个尖刺绊倒。
+TileLogs."SPIDER_WEB_CRIT_FAILURE" 你试图挣脱 %s，却被一个奇怪的声音打断了。
+TileLogs."SPIKED_PIT_CRIT_FAILURE" 你试图爬出 %s，但一个失误让你又摔了下去。
+TileLogs."WATER_PIT_CRIT_FAILURE" 你试图爬出 %s，但却呛了一口水。
+TileLogs."MAGIC_TRAP_CRIT_FAILURE" 当你想走出 %s 时，有什么击中了你的后背。
 TileLogs."REST_IN_TRAP_SUCCESS" 你休息了一下，感觉精力更充沛了。
 TileLogs."BEAR_TRAP_REST_FAILURE" 你休息了一下，但却感觉到血从你被困的腿中喷涌而出。
 TileLogs."SPIKE_TRAP_REST_FAILURE" 你休息了一下，但又被其中一根刺绊倒。
@@ -2913,16 +2913,16 @@ TileLogs."MAGIC_TRAP_REST_FAILURE" 你休息了一下，感觉自己像只锅里
 TileLogs."BLIND_STEP_ALARM_TRIGGER" 你踩到什么东西，现在大家都知道你在这里！
 TileLogs."BLIND_STEP_CRUSH_TRIGGER" 你踩到什么东西，听到上面传来隆隆声。
 TileLogs."BLIND_STEP_GATE_TRIGGER" 你踩到什么东西，听到一些机械的声音。
-TileLogs."STEP_ON_ALARM_TRIGGER" 你踩到%s，现在大家都知道你在这里！
-TileLogs."STEP_ON_CRUSH_TRIGGER" 你踩到%s，上面传来隆隆声。
-TileLogs."STEP_ON_GATE_TRIGGER" 你踩到%s，听到一些机械的声音。
-TileLogs."YOU_SEE_ALARM_TRIGGER" 你看见%s，上面有一组铃铛。
-TileLogs."YOU_SEE_CRUSH_TRIGGER" 你看见%s，连着天花板上的一块巨石。
-TileLogs."YOU_SEE_GATE_TRIGGER" 你看见%s，似乎连接着附近的一道闸门。
+TileLogs."STEP_ON_ALARM_TRIGGER" 你踩到 %s，现在大家都知道你在这里！
+TileLogs."STEP_ON_CRUSH_TRIGGER" 你踩到 %s，上面传来隆隆声。
+TileLogs."STEP_ON_GATE_TRIGGER" 你踩到 %s，听到一些机械的声音。
+TileLogs."YOU_SEE_ALARM_TRIGGER" 你看见 %s，上面有一组铃铛。
+TileLogs."YOU_SEE_CRUSH_TRIGGER" 你看见 %s，连着天花板上的一块巨石。
+TileLogs."YOU_SEE_GATE_TRIGGER" 你看见 %s，似乎连接着附近的一道闸门。
 RIPTitles."R.I.P." 墓碑
 RIPTitles."Here lies %s." %s 在此长眠。
-RIPTitles."Here lies %s the %s." %2%1在此长眠。
-RIPTitles."Here lies %s from %s %s." 来自%2%3的%1在此长眠。
+RIPTitles."Here lies %s the %s." %s %s 在此长眠。
+RIPTitles."Here lies %s from %s %s." 来自 %s %s 的 %s 在此长眠。
 RIPTitles."----------" ——————————
 RIPTitles."Archer" 射手
 RIPTitles."Bowman" 弓箭手
@@ -3124,7 +3124,7 @@ FemaleNames."Octavia" 燕妮
 FemaleNames."Odette" 茜茜
 FemaleNames."Olivia" 赛珍珠
 FemaleNames."Ophelia" 奥菲莉娅
-FemaleNames."Phoebe" 潘金莲
+FemaleNames."Phoebe" 罗敷
 FemaleNames."Phyllis" 菲利斯
 FemaleNames."Primrose" 樊素
 FemaleNames."Prudence" 妲己
@@ -3154,66 +3154,66 @@ FemaleNames."Xenia" 齐妮亚
 FemaleNames."Yvette" 嘉宝
 FemaleNames."Yvonne" 卫子夫
 FemaleNames."Zelene" 蔡玉卿
-CauseOfDeath."COD_RETIRE" 隐退多年之后，%s死于衰老。
-CauseOfDeath."COD_CHEATER" %s死于极其渴望在游戏中作弊。
-CauseOfDeath."COD_UNKNOWN" %s死于…… 没有真的知道死因。
-CauseOfDeath."COD_FAILED_JUMP" %s在跳跃时脸先着地，死于头骨碎裂。
-CauseOfDeath."COD_SHIELD_BASH" %s死于 %s的猛烈一击。
-CauseOfDeath."COD_LAVA_CHASM" %s掉落到岩浆之中，死于皮肤烧焦后的并发症。
-CauseOfDeath."COD_WATER_CHASM" %s掉入水坑，溺水而亡。
-CauseOfDeath."COD_SOUL_GEM" %s被一个愤怒的灵魂发出的魔法伤害致死。
-CauseOfDeath."COD_FIRE_AURA" %s由于站在%s的火焰光环中过久而被碳化。
-CauseOfDeath."COD_FROST_AURA" %s由于站在%s的冰霜光环中过久而被冻死。
-CauseOfDeath."COD_SHOCK_AURA" %s由于站在%s的雷电光环中过久而被电死。
-CauseOfDeath."COD_POISON_AURA" %s由于站在%s的剧毒光环中过久而毒发身亡。
-CauseOfDeath."COD_DISEASE_AURA" %s由于站在%s的瘟疫光环中过久而死于心脏病。
-CauseOfDeath."COD_HATEFUL_AURA" %s被一个可恶的力场致死。
-CauseOfDeath."COD_ASPHYXIATION" %s死于窒息项链引起的窒息。
-CauseOfDeath."COD_PETRIFICATION" %s死于石化项链引起的石化。
-CauseOfDeath."COD_CURSE_OF_AGONY" %s死于痛苦诅咒造成的伤害。
-CauseOfDeath."COD_DEADLY_POISON" %s死于死亡药剂的剧毒。
-CauseOfDeath."COD_LEECHING_POISON" %s死于吸血药剂造成的伤害。
-CauseOfDeath."COD_BLOODY_FLUX" %s死于血瘟病。
-CauseOfDeath."COD_BEING_ON_FIRE" %s死于着火后的火焰伤害，咄！
-CauseOfDeath."COD_BLEEDING_WOUND" %s死于重伤后的失血。
-CauseOfDeath."COD_EAT_TOO_MUCH" %s吃的太多，胀死了。
-CauseOfDeath."COD_DRINK_TOO_MUCH" %s喝的太多，撑死了。
-CauseOfDeath."COD_HUNGER_DAMAGE" %s没什么吃的，饿死了。
-CauseOfDeath."COD_THIRST_DAMAGE" %s没什么喝的，渴死了。
-CauseOfDeath."COD_PENETRATION" %s全身被触须穿透而亡。
-CauseOfDeath."COD_REFLECTION" %s被%s自己的%s反弹而死。
-CauseOfDeath."COD_KILLED_BY" %s被%s杀死。
-CauseOfDeath."COD_BOULDER" %s被一块大石头落下砸为肉饼。
-CauseOfDeath."COD_BREAK_DOOR" %s用头撞门，结果脖子骨折。
-CauseOfDeath."COD_FALLING_GATE" 掉落的大门在%s的脸上多穿了几个呼吸孔。
-CauseOfDeath."COD_JERKED_BY_LEVER" %s猛拉杠杆，结果严重扭伤了背肌而死。
-CauseOfDeath."COD_LEVER_HIT_NUTS" 杠杆击中螺母发出的啸叫音杀死了%s。
-CauseOfDeath."COD_SHROOM_SPORES" %s因吸入蘑菇孢子而中毒死亡。
-CauseOfDeath."COD_BOOMSHROOM" %s死于不稳定蘑菇的爆炸所造成的中毒。
-CauseOfDeath."COD_BREAK_SIGN" %s的头撞到了指示牌，头骨骨折。
-CauseOfDeath."COD_BREAK_STORAGE" %s在试图破坏陷阱%s时，中毒身亡。
-CauseOfDeath."COD_PICK_STORAGE" %s在试图拆除陷阱%s时，中毒身亡。
-CauseOfDeath."COD_BEAR_TRAP_1" %s在踩到捕熊器后，因腿部重伤而死。
-CauseOfDeath."COD_SPIKE_TRAP_1" %s踩到尖刺陷阱，刺穿了动脉。
-CauseOfDeath."COD_SPIKED_PIT_1" %s掉进尖刺坑，肺部被刺穿。
-CauseOfDeath."COD_WATER_PIT_1" %s掉进一个水坑，溺水身亡。
-CauseOfDeath."COD_MAGIC_TRAP_1" %s被一个魔法陷阱造成的伤害致死。
-CauseOfDeath."COD_BEAR_TRAP_2" %s在一个捕熊器上休息，腿部不幸被夹住，重伤而亡。
-CauseOfDeath."COD_SPIKE_TRAP_2" %s在一个尖刺陷阱上休息，动脉被刺穿。
-CauseOfDeath."COD_SPIKED_PIT_2" %s在一个尖刺坑中休息，肺部被刺穿。
-CauseOfDeath."COD_WATER_PIT_2" %s在尝试爬出一个水坑时溺水身亡。
-CauseOfDeath."COD_MAGIC_TRAP_2" %s被一个魔法陷阱造成的伤害致死。
-CauseOfDeath."COD_BURNING" %s被燃烧药剂造成的火焰伤害致死。
-CauseOfDeath."COD_CURSED_HEALING" %s死于一瓶被诅咒的治疗药剂。
-CauseOfDeath."COD_HOLY_WATER_1" %s死于一瓶圣水造成的魔法伤害。
-CauseOfDeath."COD_HOLY_WATER_2" %s死于一瓶圣水造成的即死效果。
-CauseOfDeath."COD_ENERGY_STRAIN" %s在没有精力时施放法术，力竭而亡。
+CauseOfDeath."COD_RETIRE" 隐退多年之后，%s 死于衰老。
+CauseOfDeath."COD_CHEATER" %s 死于极其渴望在游戏中作弊。
+CauseOfDeath."COD_UNKNOWN" %s 死于…… 没有真的知道死因。
+CauseOfDeath."COD_FAILED_JUMP" %s 在跳跃时脸先着地，死于头骨碎裂。
+CauseOfDeath."COD_SHIELD_BASH" %s 死于 %s 的猛烈一击。
+CauseOfDeath."COD_LAVA_CHASM" %s 掉落到岩浆之中，死于皮肤烧焦后的并发症。
+CauseOfDeath."COD_WATER_CHASM" %s 掉入水坑，溺水而亡。
+CauseOfDeath."COD_SOUL_GEM" %s 被一个愤怒的灵魂发出的魔法伤害致死。
+CauseOfDeath."COD_FIRE_AURA" %s 由于站在 %s 的火焰光环中过久而被碳化。
+CauseOfDeath."COD_FROST_AURA" %s 由于站在 %s 的冰霜光环中过久而被冻死。
+CauseOfDeath."COD_SHOCK_AURA" %s 由于站在 %s 的雷电光环中过久而被电死。
+CauseOfDeath."COD_POISON_AURA" %s 由于站在 %s 的剧毒光环中过久而毒发身亡。
+CauseOfDeath."COD_DISEASE_AURA" %s 由于站在 %s 的瘟疫光环中过久而死于心脏病。
+CauseOfDeath."COD_HATEFUL_AURA" %s 被一个可恶的力场致死。
+CauseOfDeath."COD_ASPHYXIATION" %s 死于窒息项链引起的窒息。
+CauseOfDeath."COD_PETRIFICATION" %s 死于石化项链引起的石化。
+CauseOfDeath."COD_CURSE_OF_AGONY" %s 死于痛苦诅咒造成的伤害。
+CauseOfDeath."COD_DEADLY_POISON" %s 死于死亡药剂的剧毒。
+CauseOfDeath."COD_LEECHING_POISON" %s 死于吸血药剂造成的伤害。
+CauseOfDeath."COD_BLOODY_FLUX" %s 死于血瘟病。
+CauseOfDeath."COD_BEING_ON_FIRE" %s 死于着火后的火焰伤害，咄！
+CauseOfDeath."COD_BLEEDING_WOUND" %s 死于重伤后的失血。
+CauseOfDeath."COD_EAT_TOO_MUCH" %s 吃的太多，胀死了。
+CauseOfDeath."COD_DRINK_TOO_MUCH" %s 喝的太多，撑死了。
+CauseOfDeath."COD_HUNGER_DAMAGE" %s 没什么吃的，饿死了。
+CauseOfDeath."COD_THIRST_DAMAGE" %s 没什么喝的，渴死了。
+CauseOfDeath."COD_PENETRATION" %s 全身被触须穿透而亡。
+CauseOfDeath."COD_REFLECTION" %s 被  %s 自己的 %s 反弹而死。
+CauseOfDeath."COD_KILLED_BY" %s 被 %s 杀死。
+CauseOfDeath."COD_BOULDER" %s 被一块大石头落下砸为肉饼。
+CauseOfDeath."COD_BREAK_DOOR" %s 用头撞门，结果脖子骨折。
+CauseOfDeath."COD_FALLING_GATE" 掉落的大门在 %s 的脸上多穿了几个呼吸孔。
+CauseOfDeath."COD_JERKED_BY_LEVER" %s 猛拉杠杆，结果严重扭伤了背肌而死。
+CauseOfDeath."COD_LEVER_HIT_NUTS" 杠杆击中螺母发出的啸叫音杀死了 %s。
+CauseOfDeath."COD_SHROOM_SPORES" %s 因吸入蘑菇孢子而中毒死亡。
+CauseOfDeath."COD_BOOMSHROOM" %s 死于不稳定蘑菇的爆炸所造成的中毒。
+CauseOfDeath."COD_BREAK_SIGN" %s 的头撞到了指示牌，头骨骨折。
+CauseOfDeath."COD_BREAK_STORAGE" %s 在试图破坏陷阱 %s 时，中毒身亡。
+CauseOfDeath."COD_PICK_STORAGE" %s 在试图拆除陷阱 %s 时，中毒身亡。
+CauseOfDeath."COD_BEAR_TRAP_1" %s 在踩到捕熊器后，因腿部重伤而死。
+CauseOfDeath."COD_SPIKE_TRAP_1" %s 踩到尖刺陷阱，刺穿了动脉。
+CauseOfDeath."COD_SPIKED_PIT_1" %s 掉进尖刺坑，肺部被刺穿。
+CauseOfDeath."COD_WATER_PIT_1" %s 掉进一个水坑，溺水身亡。
+CauseOfDeath."COD_MAGIC_TRAP_1" %s 被一个魔法陷阱造成的伤害致死。
+CauseOfDeath."COD_BEAR_TRAP_2" %s 在一个捕熊器上休息，腿部不幸被夹住，重伤而亡。
+CauseOfDeath."COD_SPIKE_TRAP_2" %s 在一个尖刺陷阱上休息，动脉被刺穿。
+CauseOfDeath."COD_SPIKED_PIT_2" %s 在一个尖刺坑中休息，肺部被刺穿。
+CauseOfDeath."COD_WATER_PIT_2" %s 在尝试爬出一个水坑时溺水身亡。
+CauseOfDeath."COD_MAGIC_TRAP_2" %s 被一个魔法陷阱造成的伤害致死。
+CauseOfDeath."COD_BURNING" %s 被燃烧药剂造成的火焰伤害致死。
+CauseOfDeath."COD_CURSED_HEALING" %s 死于一瓶被诅咒的治疗药剂。
+CauseOfDeath."COD_HOLY_WATER_1" %s 死于一瓶圣水造成的魔法伤害。
+CauseOfDeath."COD_HOLY_WATER_2" %s 死于一瓶圣水造成的即死效果。
+CauseOfDeath."COD_ENERGY_STRAIN" %s 在没有精力时施放法术，力竭而亡。
 CauseOfDeath."COD_MISCAST" %s 死于施放法术的误伤。
-CauseOfDeath."COD_SPELL_DAMAGE_1" %s死于 %s 伤害，它是 %s 自己的 %s 造成的。
-CauseOfDeath."COD_SPELL_DAMAGE_2" %s死于 %s 伤害，它是 %s 的 %s 造成的。
-CauseOfDeath."COD_INSTANT_DEATH_1" %s死于即死效果，它是 %s 自己的 %s 造成的。
-CauseOfDeath."COD_INSTANT_DEATH_2" %s死于即死效果，它是 %s 的 %s 造成的。
-CauseOfDeath."COD_TRANSMUTE_FAIL" %s的点金术失败，胸毛掉落太多而死。
+CauseOfDeath."COD_SPELL_DAMAGE_1" %s 死于 %s 伤害，它是 %s 自己的 %s 造成的。
+CauseOfDeath."COD_SPELL_DAMAGE_2" %s 死于 %s 伤害，它是 %s 的 %s 造成的。
+CauseOfDeath."COD_INSTANT_DEATH_1" %s 死于即死效果，它是 %s 自己的 %s 造成的。
+CauseOfDeath."COD_INSTANT_DEATH_2" %s 死于即死效果，它是 %s 的 %s 造成的。
+CauseOfDeath."COD_TRANSMUTE_FAIL" %s 的点金术失败，胸毛掉落太多而死。
 DamageTypes."physical" 物理
 DamageTypes."fire" 火焰
 DamageTypes."frost" 冰霜
@@ -3225,9 +3225,9 @@ DamageTypes."elemental" 元素
 DamageTypes."crush" 粉碎
 DamageTypes."fall" 跌落
 DamageTypes."bleed" 流血
-Achievements."You have returned a schematic titled '%s'!" 你归还了一张题为 '%s' 的图纸！
-Achievements."You have unlocked '%s' heritage!" 你解锁了 '%s' 遗产！
-Achievements."You have completed '%s' challenge!" 你完成了 '%s' 挑战！
+Achievements."You have returned a schematic titled '%s'!" 你归还了一张题为 ‘%s’ 的图纸！
+Achievements."You have unlocked '%s' heritage!" 你解锁了 ‘%s’ 遗产！
+Achievements."You have completed '%s' challenge!" 你完成了 ‘%s’ 挑战！
 Achievements."You have cleared the dungeon!" 你清空了地牢！
 Achievements."You have cleared the dungeon but you are not alone!" 你清空了地牢，但你并不孤单！
 Achievements."Arnold from Black Field" 黑色领域的阿诺德
@@ -3451,17 +3451,17 @@ HeritageDescs."Arcane Gimmickry" @(26)增强陷阱大师天赋，让其可以作
 HeritageDescs."Arcane Gimmickry".1 @(26)在单局游戏中，用搜索按钮找到三个或更多魔法陷阱，可以解锁这项遗产。
 HeritageDescs."Lightning Reflexes" @(26)针对所有的反射检定，获得 +1 修正。
 HeritageDescs."Lightning Reflexes".1 @(26)在单局游戏中，通过三次或更多反射检定，可以解锁这项遗产。
-HeritageDescs."Heroes of Hallwood" @(26)物理抗性提升 1 。
+HeritageDescs."Heroes of Hallwood" @(26)物理抗性提升 1。
 HeritageDescs."Heroes of Hallwood".1 @(26)拜访所有的圣林英雄之墓，可以解锁这项遗产：
-HeritageDescs."Fire Resistant" @(26)火焰抗性提升 1 。
+HeritageDescs."Fire Resistant" @(26)火焰抗性提升 1。
 HeritageDescs."Fire Resistant".1 @(26)在任何时刻拥有 %d 或更高的火焰抗性可以解锁这项遗产。
-HeritageDescs."Frost Resistant" @(26)冰霜抗性提升 1 。
+HeritageDescs."Frost Resistant" @(26)冰霜抗性提升 1。
 HeritageDescs."Frost Resistant".1 @(26)在任何时刻拥有 %d 或更高的冰霜抗性可以解锁这项遗产。
-HeritageDescs."Shock Resistant" @(26)震击抗性提升 1 。
+HeritageDescs."Shock Resistant" @(26)震击抗性提升 1。
 HeritageDescs."Shock Resistant".1 @(26)在任何时刻拥有 %d 或更高的震击抗性可以解锁这项遗产。
-HeritageDescs."Poison Resistant" @(26)毒害抗性提升 1 。
+HeritageDescs."Poison Resistant" @(26)毒害抗性提升 1。
 HeritageDescs."Poison Resistant".1 @(26)在任何时刻拥有 %d 或更高的毒害抗性可以解锁这项遗产。
-HeritageDescs."Disease Resistant" @(26)疾病抗性提升 1 。
+HeritageDescs."Disease Resistant" @(26)疾病抗性提升 1。
 HeritageDescs."Disease Resistant".1 @(26)在任何时刻拥有 %d 或更高的疾病抗性可以解锁这项遗产。
 HeritageDescs."Blissful Ignorance" @(26)在没有学习读写前就获得使用魔杖的能力。
 HeritageDescs."Blissful Ignorance".1 @(26)在学习读写前学习六项天赋可以获得这项遗产。
@@ -3502,7 +3502,7 @@ HeritageDescs."The Wanderer".1 @(26)解锁这项遗产需要你在穿着橙色�
 HeritageDescs."Three Tails" @(26)允许你对你的黄色衬衫和头巾进行附魔。
 HeritageDescs."Three Tails".1 @(26)解锁这项遗产需要你在穿着黄色衬衫或头巾时抛投硬币，直到连续掷出三个背面。
 HeritageDescs."The Pink Order" @(26)允许你对你的粉色衬衫和头巾进行附魔。
-HeritageDescs."The Pink Order".1 @(26)解锁这项遗产需要你在穿着粉色衬衫或头巾时，在聊天频道说出 '%s' （不带引号）。
+HeritageDescs."The Pink Order".1 @(26)解锁这项遗产需要你在穿着粉色衬衫或头巾时，在聊天频道说出 ‘%s’ （不带引号）。
 HeritageDescs."Big Bada Boom" @(26)允许你对你的白色衬衫和头巾进行附魔。
 HeritageDescs."Big Bada Boom".1 @(26)解锁这项遗产需要你在穿着白色衬衫或头巾时使用魂晶，知道你获得你的多通道。
 HeritageDescs."Over 9000" @(26)你的衬衫和头巾现在被祝福过了，可以进行两次附魔。
@@ -3557,7 +3557,7 @@ HeritageDescs."Face Muncher" @(26)狼形态下发出暴击的同时为你施放�
 HeritageDescs."Face Muncher".1 @(26)在等级 20 时的狼形态下，一击杀死一个满血的人类，可以解锁这项遗产。
 HeritageDescs."Monster Chow" @(26)在变身时增加生命值和精力。
 HeritageDescs."Monster Chow".1 @(26)在变身后杀死 %d 个巨怪并吃掉它们的尸体。
-HeritageDescs."Monster Chow".2 @(26)注意：施展变身术将充值计数器，因此必须在一次变身中完成。
+HeritageDescs."Monster Chow".2 @(26)注意：施展变身术将重置计数器，因此必须在一次变身中完成。
 HeritageDescs."Monster Chow".3 @(26)吃掉的巨怪：
 HeritageDescs."Second Amendment" @(26)允许你在装备有对应的项链时，阅读奥术典籍 (*)。
 HeritageDescs."Second Amendment".1 @(26)一旦你学会了一门奥术，你可以在装备有任意项链时施放它。
@@ -3651,7 +3651,7 @@ ChallengeDescs."The Curve Ball".1 @(26)触发即死效果不算。
 ChallengeDescs."Itch Be Slapped" @(26)完成这项挑战需要你赤手空拳杀死一个无伤的巨怪。
 ChallengeDescs."The Ghostbuster" @(26)完成这项挑战需要你在终局之战中杀死所有的圣林英雄。
 ChallengeDescs."Against the Odds" @(26)完成这项挑战需要你带着被诅咒的珠宝清空至少有三层的地牢。
-ChallengeDescs."Against the Odds".1 @(26)你必须在重置地牢时就带上一个被诅咒的项链和两枚被诅咒的戒指。
+ChallengeDescs."Against the Odds".1 @(26)你必须在重置地牢时就带上一条被诅咒的项链和两枚被诅咒的戒指。
 ChallengeDescs."Against the Odds".2 @(26)封堵上入口不算。
 ChallengeDescs."Dark Passenger" @(26)完成这项挑战需要你在升到 20 级之前不点燃任何一处壁火。
 ChallengeDescs."The Loose Knot" @(26)完成这项挑战需要你用念动力杀死自己。
@@ -3671,7 +3671,7 @@ ChallengeDescs."Bigger They Are".1 @(26)触发即死效果不算。
 ChallengeDescs."That's Cheating" @(26)完成这项挑战需要你在拾取到王冠前至少差点死亡一次。
 ChallengeDescs."The Epic Splat" @(26)完成这项挑战需要你在同时有第六感天赋和闪电反应遗产时，还是未能通过反射检定。
 ChallengeDescs."The Epic Splat".1 
-ChallengeDescs."One Nasty Flu" @(26)完成这项挑战需要你身上有 20 个属性伤害效果，它们把你的属性点总和降到 5 。
+ChallengeDescs."One Nasty Flu" @(26)完成这项挑战需要你身上有 20 个属性伤害效果，它们把你的属性点总和降到 5。
 ChallengeDescs."Just a Scratch" @(26)完成这项挑战需要你杀死一个生物，该生物曾一击给你造成过 %d 或更多点的伤害。
 ChallengeDescs."Just a Scratch".1 
 ChallengeDescs."Idle Bookworm" @(26)完成这项挑战需要你在单次游戏中学会所有的天使系、龙系和地狱系法术。
@@ -3697,7 +3697,7 @@ ChallengeDescs."Acne Treatment".1 上次沐浴：
 ChallengeDescs."Feeling Slimy" @(26)完成这项挑战需要你在被 %d 只水怪或潜伏者包围后将生命回满。
 ChallengeDescs."Feeling Slimy".1 @(26)注意：在被包围后浮空会阻止触发这项挑战（所以不要浮空）。
 ChallengeDescs."Tax Evasion" @(26)完成这项挑战需要你连续杀死 %d 敌人，期间不被近战、远程、魔法攻击到。
-ChallengeDescs."Tax Evasion".1 @(26)注意：蜗牛和倍魅惑的生物不计入内。
+ChallengeDescs."Tax Evasion".1 @(26)注意：蜗牛和被魅惑的生物不计入内。
 ChallengeDescs."Tax Evasion".2 @(26)已杀死敌人：
 ChallengeDescs."Blood Sucker" @(26)完成这项挑战需要你从敌人那里吸取 %d 点生命。
 ChallengeDescs."Blood Sucker".1 @(26)注意：任何其它形式的生命回复都会重置计数器。
@@ -3712,7 +3712,7 @@ ChallengeDescs."Howdy Ho!".1 @(26)注意：每局游戏只能尝试一次，为�
 ChallengeDescs."Dog Whisperer" @(26)完成这项挑战需要你的汪汪对国王造成伤害。
 ChallengeDescs."I Got This!" @(26)完成这项挑战需要你在英雄难度级别下取得王冠。
 ChallengeDescs."Nabon's Demise" @(26)完成这项挑战需要你杀死黑暗之主腊崩，终结他的恐怖统治。
-ChallengeDescs."Dwarfageddon" 解锁 &quot;%s&quot; 头衔， 在拾取表中增加符石。
+ChallengeDescs."Dwarfageddon" 解锁 &quot;%s&quot; 头衔，在拾取表中增加符石。
 ChallengeDescs."Dwarfageddon".1 @(26)完成这项挑战需要你确认矮人不会很快加入游戏。
 ChallengeDescs."Mental Disorder" @(26)完成这项挑战需要你和地狱恶魔和平相处。
 ChallengeDescs."Mother of Drakes" @(26)完成这项挑战需要你永久的让三条龙作为伙伴。
@@ -3740,22 +3740,22 @@ ChallengeDescs."Misinvisicast" @(26)灌注此传奇效果需要在你施放位�
 ChallengeDescs."Nightshade" @(26)灌注此传奇效果需要将一瓶强效死亡药剂淬在武器上。
 ChallengeDescs."Orbus Bomba" @(26)灌注此传奇效果需要你用增大的法术球的溅射杀死一个敌人。
 ChallengeDescs."Zombie Dog" @(26)灌注此传奇效果需要你杀死汪汪。
-ChallengeDescs."TestOfLeadership" @(26)完成这项挑战需要你在完成领导力测试后被视为 '%s' 。
+ChallengeDescs."TestOfLeadership" @(26)完成这项挑战需要你在完成领导力测试后被视为 ‘%s’。
 ChallengeDescs."TestOfLeadership".1 @(26)领导力测试有三个问题及三种类型的答案（无情、公正和温和）。
 ChallengeDescs."Path of Wisdom" %s 
-ChallengeDescs."Path of Wisdom".1 @(26)如果你测试的答案每种类型都有，你会被视为'%s'。
+ChallengeDescs."Path of Wisdom".1 @(26)如果你测试的答案每种类型都有，你会被视为 ‘%s’。
 ChallengeDescs."Path of Justice" %s 
-ChallengeDescs."Path of Justice".1 @(26)如果你测试的答案中有无情的和公正的，你会被视为'%s'。
+ChallengeDescs."Path of Justice".1 @(26)如果你测试的答案中有无情的和公正的，你会被视为 ‘%s’。
 ChallengeDescs."Path of Decency" %s 
-ChallengeDescs."Path of Decency".1 @(26)如果你测试的答案中有无情的和温和的，你会被视为'%s'。
+ChallengeDescs."Path of Decency".1 @(26)如果你测试的答案中有无情的和温和的，你会被视为 ‘%s’。
 ChallengeDescs."Path of Kindness" %s 
-ChallengeDescs."Path of Kindness".1 @(26)如果你测试的答案中有公正的和温和的，你会被视为'%s'。
+ChallengeDescs."Path of Kindness".1 @(26)如果你测试的答案中有公正的和温和的，你会被视为 ‘%s’。
 ChallengeDescs."Path of Cruelty" %s 
-ChallengeDescs."Path of Cruelty".1 @(26)如果你测试的答案中只有无情的，你会被视为'%s'。
+ChallengeDescs."Path of Cruelty".1 @(26)如果你测试的答案中只有无情的，你会被视为 ‘%s’。
 ChallengeDescs."Path of Fairness" %s 
-ChallengeDescs."Path of Fairness".1 If @(26)如果你测试的答案中只有公正的，你会被视为'%s'。
+ChallengeDescs."Path of Fairness".1 If @(26)如果你测试的答案中只有公正的，你会被视为 ‘%s’。
 ChallengeDescs."Path of Compassion" %s 
-ChallengeDescs."Path of Compassion".1 @(26)如果你测试的答案中只有温和的，你会被视为'%s'。
+ChallengeDescs."Path of Compassion".1 @(26)如果你测试的答案中只有温和的，你会被视为 ‘%s’。
 ChallengeDescs."Indivisible Greed" @(26)这项挑战可以在遭遇三个愤怒的父亲后重置地牢来完成。
 ChallengeTitles."Select Title" 选择头衔
 ChallengeTitles."the Alchemist" 炼金师
@@ -3865,7 +3865,7 @@ GameScreen."You can't sort items while polymorphed." 被变形时你无法整理
 GameScreen."You can't sort items while shapeshifted." 你不能在变身状态下整理物品。
 GameScreen."Inventory sorted successfully." 成功整理了物品栏。
 GameScreen."Something went wrong while sorting the inventory." 在整理物品栏时出了一点问题。
-GameScreen."Your %s was dropped on the ground." 你的%s掉到了地上。
+GameScreen."Your %s was dropped on the ground." 你的 %s 掉到了地上。
 GameScreen."You probably lost some item but it could've been cursed!." 你可能丢了点什么，不过它已经被诅咒了！
 GameScreen."You can't travel while blinded." 你在盲眼状态下无法旅行。
 GameScreen."You can't travel while confused." 你在混乱状态下无法旅行。
@@ -3903,9 +3903,9 @@ GameScreen."You can't chat while silenced, duh!" 在沉默时你无法聊天，�
 LootWindow."Buy:" 购买：
 LootWindow."Craft:" 制造：
 LootWindow."Loot:" 拾取：
-LootWindow."You ask the artisans to craft you %s." 你请工匠帮你制造 %s 。
+LootWindow."You ask the artisans to craft you %s." 你请工匠帮你制造 %s。
 EnchantWindow."Choose enchant:" 选择附魔：
-EnchantWindow."You make your choice and the item is enchanted as %s." 你做出了选择，物品被附上 %s 。
+EnchantWindow."You make your choice and the item is enchanted as %s." 你做出了选择，物品被附上 %s。
 EnchantWindow."You make your choice and %s is enchanted." 你做出了选择，%s 被附魔了。
 InventoryWindow."Equip:" 装备：
 InventoryWindow."Unequip:" 卸下：
@@ -3932,12 +3932,12 @@ InventoryWindow."You can't use deadly throw with that." 你不能用那个进行
 InventoryWindow."You can't throw that, it's magically bound to you!" 你不能投掷它，它和你魔法绑定了！
 InventoryWindow."Select a target to throw %s at and press %s:" 选择一个投掷 %s 的目标，按下 %s 确认：
 InventoryWindow."Select a target or item to cast a %s at and press %s:" 选择施放 %s 的目标或针对的物品，按下 %s 确认：
-InventoryWindow."Select a target to cast a %s at and press %s:" 选择施放 %s 的目标，然后按下 %s ：
-InventoryWindow."Select an item to cast a %s on and press %s:" 选择施放 %s 针对的物品，然后按下 %s ：
+InventoryWindow."Select a target to cast a %s at and press %s:" 选择施放 %s 的目标，然后按下 %s：
+InventoryWindow."Select an item to cast a %s on and press %s:" 选择施放 %s 针对的物品，然后按下 %s：
 InventoryWindow."You can't seem to figure out what to do with the scroll." 你似乎不知道怎么卷轴该怎么用。
 InventoryWindow."Select a target or item to zap a %s at and press %s:" 选择一个目标或物品，对其放出 %s ，按下 %s 确认：
-InventoryWindow."Select a target to zap a %s at and press %s:" 选择一个目标，对其放出 %s ，然后按下 %s ：
-InventoryWindow."Select an item to zap a %s on and press %s:" 选择一件物品，对其放出 %s ，然后按下 %s ：
+InventoryWindow."Select a target to zap a %s at and press %s:" 选择一个目标，对其放出 %s ，然后按下 %s：
+InventoryWindow."Select an item to zap a %s on and press %s:" 选择一件物品，对其放出 %s ，然后按下 %s：
 InventoryWindow."You can't seem to figure out what to do with the wand." 你似乎不知道怎么魔杖该怎么用。
 InventoryWindow."You can't zap with a depleted wand." 你不能用耗尽的魔杖施法。
 InventoryWindow."You can't seem to be able to use that at the moment." 你现在似乎不知道这个该怎么用。
@@ -3951,37 +3951,37 @@ InventoryWindow."You don't have enough free space to carry all the gold." 你没
 InventoryWindow."The merchant is not interested to buy those." 商人对购买那些东西没有兴趣。
 InventoryWindow."The merchant is not interested to buy that." 商人对购买那个东西没有兴趣。
 InventoryWindow."The merchant doesn't have free space for that at the moment." 商人目前没有空间。
-InventoryWindow."%s can't be sold while it is equipped." %s 在装备中，所有无法售卖。
+InventoryWindow."%s can't be sold while it is equipped." %s 在装备中，所以无法售卖。
 InventoryWindow."The merchant is not interested in unidentified items." 商人对未鉴定的物品没有兴趣。
 InventoryWindow."%s is repaired for %d gold coins." %s 修好了，你支付了 %d 个金币。
-InventoryWindow."You can't afford to repair %s." 你修不起 %s 。
+InventoryWindow."You can't afford to repair %s." 你修不起 %s。
 InventoryWindow."Those %s are already in perfect condition." 那些 %s 已经是最佳状态。
 InventoryWindow."%s is already in perfect condition." %s 在最佳状态。
-InventoryWindow."You can't repair %s." 你无法修理 %s 。
-InventoryWindow."You pay %d gold coins and your %s is identified as %s." 你支付了 %d 个金币，你的 %s 被鉴定为 %s 。
-InventoryWindow."You can't afford to identify %s." 你鉴定不起 %s 。
+InventoryWindow."You can't repair %s." 你无法修理 %s。
+InventoryWindow."You pay %d gold coins and your %s is identified as %s." 你支付了 %d 个金币，你的 %s 被鉴定为 %s。
+InventoryWindow."You can't afford to identify %s." 你鉴定不起 %s。
 InventoryWindow."Those %s are already identified." 那些 %s 已经被鉴定过了。
 InventoryWindow."%s is already identified." %s 已经被鉴定过了。
 InventoryWindow."You swipe your Black Meistercard and get to choose an enchant for the item." 你刷了你的黑卡，开始为这个物品选择一项附魔。
-InventoryWindow."You swipe your Black Meistercard and the item is enchanted as %s." 你刷了你的黑卡，这个物品被附上 %s 。
+InventoryWindow."You swipe your Black Meistercard and the item is enchanted as %s." 你刷了你的黑卡，这个物品被附上 %s。
 InventoryWindow."You pay %d gold coins and you get to choose an enchant for the item." 你支付了 %d 个金币，开始为这个物品选择一项附魔。
-InventoryWindow."You pay %d gold coins and the item is enchanted as %s." 你支付了 %d 个金币，这个物品被附上 %s 。
+InventoryWindow."You pay %d gold coins and the item is enchanted as %s." 你支付了 %d 个金币，这个物品被附上 %s。
 InventoryWindow."%s is enchanted for %d gold coins." %s 被附魔了，支付 %d 个金币。
 InventoryWindow."You can't afford to enchant %s." 附魔 %s 的钱，你支付不起。
 InventoryWindow."Those %s cannot be enchanted." 那些 %s 无法被附魔。
 InventoryWindow."%s cannot be enchanted." %s 无法被附魔。
 InventoryWindow."You give %s to a clerk and %d gold coins are added to your ledger (%d)." 你把 %s 交给店员，你的账户上多了 %d 个金币（%d）。
-InventoryWindow."You give %s to a clerk to be stored for later use (%d)." 你把 %s 交给店员存放起来共日后使用（%d）。
+InventoryWindow."You give %s to a clerk to be stored for later use (%d)." 你把 %s 交给店员存放起来供日后使用（%d）。
 InventoryWindow."You can't store those %s here." 你无法把那些 %s 存放在这里。
 InventoryWindow."You can't store %s here." 你无法把 %s 存放在这里。
 InventoryWindow."You attempt to donate a charm to the Artisans' Guild and they identify it for you." 你试着向工匠行会捐赠一件饰品，他们帮你做了鉴定。
 InventoryWindow."You donate %s to the Artisans' Guild." 你把 %s 捐赠给工匠行会。
-InventoryWindow."You can't donate those %s here." 你无法捐赠那些 %s 。
-InventoryWindow."You can't donate %s here." 你无法捐赠 %s 。
+InventoryWindow."You can't donate those %s here." 你无法捐赠那些 %s。
+InventoryWindow."You can't donate %s here." 你无法捐赠 %s。
 InventoryWindow."You can't bind %s on %s." 你无法将 %s 绑定到 %s 上面。
 InventoryWindow."You bind %s on %s." 你将 %s 绑定到 %s 上面。
 InventoryWindow."You don't have enough free hands to equip that." 你没有空出来的手装备它。
-InventoryWindow."You don't have enough free space to unequip your %s." 你没有地方放置卸下的 %s 。
+InventoryWindow."You don't have enough free space to unequip your %s." 你没有地方放置卸下的 %s。
 SpellbookWindow."Spellbook" 法术书
 SpellbookWindow."You can't use talents while blinded." 你无法在盲眼时使用天赋。
 SpellbookWindow."You can't use talents while confused." 你无法在混乱时使用天赋。
@@ -3995,16 +3995,16 @@ SpellbookWindow."Select a thrown weapon for deadly throw:" 选择一把投掷武
 SpellbookWindow."Start quick shot by moving:" 移动后快速射击：
 SpellbookWindow."You can't charge while snared." 在陷阱中无法冲锋。
 SpellbookWindow."Select a target to charge at and press %s:" 选择一个冲锋目标，然后按下 %s：
-SpellbookWindow."Select a direction to use %s at:" 选择一个方向使用 %s ：
+SpellbookWindow."Select a direction to use %s at:" 选择一个方向使用 %s：
 SpellbookWindow."Select a direction to move silently at:" 选择一个方向进行潜行：
 SpellbookWindow."You can't use that talent at the moment." 你现在无法使用天赋。
 SpellbookWindow."Requires AGI 8+ and either two small weapons or a single medium weapon." 需要敏捷属性 8+ 且持有两把小型武器，或单手使用中型武器。
 SpellbookWindow."Requires STR 8+ and either a medium or large weapon." 需要力量属性 8+ 且使用一把中型或大型武器。
 SpellbookWindow."Requires a medium or large weapon." 需要一把中型或大型武器。
 SpellbookWindow."Requires a melee weapon and a shield." 需要一把近战武器和一面盾牌。
-SpellbookWindow."Select a target or item to cast %s at and press %s:" 选择一个目标或物品施展%s，然后按下 %s：
-SpellbookWindow."Select a target to cast %s at and press %s:" 选择一个目标施展%s，然后按下%s：
-SpellbookWindow."Select an item to cast %s on and press %s:" 选择一个物品施展%s，然后按下%s：
+SpellbookWindow."Select a target or item to cast %s at and press %s:" 选择一个目标或物品施展 %s，然后按下 %s：
+SpellbookWindow."Select a target to cast %s at and press %s:" 选择一个目标施展 %s，然后按下 %s：
+SpellbookWindow."Select an item to cast %s on and press %s:" 选择一个物品施展 %s，然后按下 %s：
 SpellbookWindow."You can't cast a scroll on itself, nice try though!" 你不能对卷轴本身使用卷轴，不过脑洞挺大！
 SpellbookWindow."Type the legendary name of your weapon or press %s to cancel." 为你的传奇武器命名，或是按下 %s 取消。
 SpellbookWindow."You can't use %s on items that are not wieldable weapons." 你不能针对不是可装备武器的物品使用 %s。
@@ -4014,7 +4014,7 @@ SpellbookWindow."You can't cast arcane spells without an amulet." 没有项链�
 SpellbookWindow."You can't cast bestial spells without a bull horn." 没有牛角不能施放兽性法术。
 SpellbookWindow."You can't cast abyssal spells without a pyramidion." 没有金字塔无法施放深渊法术。
 SpellbookWindow."You can't cast release soul without a soul gem." 没有灵魂石无法释放灵魂。
-SpellbookWindow."You can't cast shroom grenade without a blood cap." 你无法没有血蘑菇来施放蘑菇手雷。
+SpellbookWindow."You can't cast shroom grenade without a blood cap." 你没有血蘑菇来施放蘑菇手雷。
 SpellbookWindow."You can't cast army of the dead without a soul gem." 你没有魂晶来施放死亡军团。
 SpellbookWindow."You can't cast ritual sacrifice without an amulet of sacrifice." 你没有献祭项链来施放祭祀仪式。
 SpellbookWindow."The spell is on a cooldown with %d turns remaining." 这个法术还在冷却中，还剩 %d 回合。
@@ -4022,27 +4022,27 @@ SpellbookWindow."You can't cast spells while blinded." 你不能在盲眼时施�
 SpellbookWindow."You can't cast spells while confused." 你不能在混乱时施放法术。
 SpellbookWindow."You can't cast spells while polymorphed." 你不能在被变形时施放法术。
 SpellbookWindow."You can't cast spells while shapeshifted." 你不能在变身时施放法术。
-SpellbookWindow."You can't use %s at the moment." 你现在无法使用%s。
-SpellbookWindow."You can't cast %s at the moment." 你现在无法施放%s。
+SpellbookWindow."You can't use %s at the moment." 你现在无法使用 %s。
+SpellbookWindow."You can't cast %s at the moment." 你现在无法施放 %s。
 AbilityGainWindow."Select ability to increase:" 选择提升一项属性：
 TalentGainWindow."Select talent to learn:" 选择一项天赋学习：
 TalentGainWindow."Points remaining:" 剩余点数：
-DialogueWindow."STR_INTRO_BORED" 你看见了一个讨厌的 STR_MAN 。
-DialogueWindow."STR_INTRO_STERN" 你看见了一个严肃的 STR_MAN 。
-DialogueWindow."STR_INTRO_SHADY" 你看见了一个阴险的 STR_MAN 。
-DialogueWindow."STR_INTRO_TOUGH" 你看见了一个结实的 STR_MAN 。
-DialogueWindow."STR_INTRO_POMPOUS" 你看见了一个傲慢的 STR_MAN 。
-DialogueWindow."STR_INTRO_PIOUS" 你看见了一个 STR_MAN ，看起来很自以为是。
-DialogueWindow."STR_INTRO_HOLIER" 你看见了一个 STR_MAN ，看起来很自负。
-DialogueWindow."STR_INTRO_RUGGED" 你看见了一个 STR_MAN ，看起来很顽强。
+DialogueWindow."STR_INTRO_BORED" 你看见了一个讨厌的 STR_MAN。
+DialogueWindow."STR_INTRO_STERN" 你看见了一个严肃的 STR_MAN。
+DialogueWindow."STR_INTRO_SHADY" 你看见了一个阴险的 STR_MAN。
+DialogueWindow."STR_INTRO_TOUGH" 你看见了一个结实的 STR_MAN。
+DialogueWindow."STR_INTRO_POMPOUS" 你看见了一个傲慢的 STR_MAN。
+DialogueWindow."STR_INTRO_PIOUS" 你看见了一个 STR_MAN，看起来很自以为是。
+DialogueWindow."STR_INTRO_HOLIER" 你看见了一个 STR_MAN，看起来很自负。
+DialogueWindow."STR_INTRO_RUGGED" 你看见了一个 STR_MAN，看起来很顽强。
 DialogueWindow."STR_ASK_NAME_1" 你是谁？
 DialogueWindow."STR_ASK_NAME_2" 你说你是谁？
-DialogueWindow."STR_TELL_NAME_1" 我叫 STR_NAME ，你呢？
-DialogueWindow."STR_TELL_NAME_2" 我不是。我叫 STR_NAME ，你呢？
-DialogueWindow."STR_SAY_PLAYER" 我是 STR_PLAYER 。
-DialogueWindow."STR_SAY_ALIAS" (说谎) 我叫 STR_ALIAS 。
-DialogueWindow."STR_MEET_PLAYER" 你好， STR_PLAYER 。
-DialogueWindow."STR_MEET_ALIAS" 你好， STR_ALIAS 。
+DialogueWindow."STR_TELL_NAME_1" 我叫 STR_NAME，你呢？
+DialogueWindow."STR_TELL_NAME_2" 我不是。我叫 STR_NAME，你呢？
+DialogueWindow."STR_SAY_PLAYER" 我是 STR_PLAYER。
+DialogueWindow."STR_SAY_ALIAS" (说谎) 我叫 STR_ALIAS。
+DialogueWindow."STR_MEET_PLAYER" 你好， STR_PLAYER。
+DialogueWindow."STR_MEET_ALIAS" 你好， STR_ALIAS。
 DialogueWindow."STR_ASK_JOB_1" 你在做什么？
 DialogueWindow."STR_ASK_JOB_2" 那么，你是做什么的？
 DialogueWindow."STR_SECRET" 我不能告诉你……
@@ -4050,7 +4050,7 @@ DialogueWindow."STR_ARCHER" 我是一个射手。
 DialogueWindow."STR_BOWMAN" 我是一个弓箭手。
 DialogueWindow."STR_CLERIC" 我是一个牧师。
 DialogueWindow."STR_FIGHTER" 我是一个战士。
-DialogueWindow."STR_HENCHMAN" 我在保护我的师傅，STR_MASTER 。
+DialogueWindow."STR_HENCHMAN" 我在保护我的师傅，STR_MASTER。
 DialogueWindow."STR_MERCHANT_1" 开门见山吧？嗯，我是一个商人。
 DialogueWindow."STR_MERCHANT_2" @(40)我是一个商人，做点生意还能鉴定物品。
 DialogueWindow."STR_PALADIN" 我是一个圣骑士。
@@ -4081,7 +4081,7 @@ DialogueWindow."STR_TELL_YOU_CANT" 我做不了，现在走吧。
 DialogueWindow."STR_INTIMIDATE" 如果你想活下去，最好现在帮助我……
 DialogueWindow."STR_PERSUADE" 我能看到你看着我的样子。如果……
 DialogueWindow."STR_INTRO_SCARED" STR_NAME 看起来很高兴能活着。
-DialogueWindow."STR_INTRO_SMITTEN" STR_NAME 看起来收到严重打击。
+DialogueWindow."STR_INTRO_SMITTEN" STR_NAME 看起来受到严重打击。
 DialogueWindow."STR_BREAK_UP_1" 什么，为什么，不要啊 ?!?
 DialogueWindow."STR_BREAK_UP_2" 什么，为什么，你个小婊子 ?!?
 DialogueWindow."STR_INTRO_SOUL_MATE" @(40)你的灵魂伴侣用一双可爱的大眼睛盯着你。
@@ -4130,10 +4130,10 @@ DialogueWindow."DLG_ROUNDS_PLAYED_5" @(40)谢谢你这么快就来见我。现�
 DialogueWindow."DLG_FIRST_WISH" @(40)- 你说了很多脏话，对吗？
 DialogueWindow."DLG_SECOND_WISH" @(40)- 我看见你变成了双胞胎。那么就满足两……
 DialogueWindow."DLG_THIRD_WISH" @(40)- 你感觉你刚刚被愚弄了。
-DialogueWindow."I would like to learn this '%s'." 我想要学习 '%s'.
-DialogueWindow."Can you teach me this '%s' spell?" 你能教教我这个 '%s' 法术吗?
+DialogueWindow."I would like to learn this '%s'." 我想要学习 ‘%s’.
+DialogueWindow."Can you teach me this '%s' spell?" 你能教教我这个 ‘%s’ 法术吗?
 DialogueWindow."You already know %s." 你已经知道 %s 了.
-DialogueWindow."You can't learn more talents at the moment." 当前你不能再学习更多的天赋.
+DialogueWindow."You can't learn more talents at the moment." 当前你不能再学习更多的天赋。
 StatusBarAnim."Satiated" 满足
 StatusBarAnim."Dying" 濒死
 StatusBarAnim."Famished" 极饿
@@ -4181,7 +4181,7 @@ ConsoleAnim."You can't give a blank name to your weapon." 你不能给你的武�
 CursorAnim."Select a target to attack at and press %s:" 选择一个攻击目标，然后按下 %s：
 CursorAnim."You can't shoot with that before rearming." 你不能在重新装弹前射击。
 CursorAnim."shoot" 射击
-CursorAnim."Select a target to %s at and press %s:" 选择一个%s的目标然后按下 %s：
+CursorAnim."Select a target to %s at and press %s:" 选择一个 %s 的目标然后按下 %s：
 CursorAnim."You can't make ranged attacks without a ranged weapon." 你不能在未装备远程武器时进行远程攻击。
 CursorAnim."You can't attack yourself." 你不能攻击自己。
 CursorAnim."You can't attack empty spaces." 你不能攻击空位。
@@ -4193,7 +4193,7 @@ EffectAnim."Divine Might" &#10;力量+1 耐力+1 火焰抗性+1 冰霜抗性+1 �
 EffectAnim."Divine Reach" @(44)&#10;允许你向视野中任意目标施法。
 EffectAnim."Divine Shield" @(44)&#10;在消失前，它一般能吸收最高 30 点伤害。
 EffectAnim."Renewing Touch" @(44)&#10;每回合回复 D3 + 魅力 点生命。
-EffectAnim."Amplify Magic" @(44)&#10;增强法术球伤害 D6 。
+EffectAnim."Amplify Magic" @(44)&#10;增强法术球伤害 D6。
 EffectAnim."Enlarge Orb" @(44)&#10;让下一个法术球爆炸，其冲击力将增加直接命中的伤害 D6 + 耐力，且常规伤害会波及邻接生物。
 EffectAnim."Enlarge Orb".1 
 EffectAnim."Illumination" @(44)&#10;增加光照半径及搜索半径各一格。
@@ -4234,7 +4234,7 @@ EffectAnim."Confusing Poison".1
 EffectAnim."Deadly Poison" @(44)&#10;有机会导致 D3 点毒伤害。这还会迫使你重掷成功的生命回复骰。
 EffectAnim."Deadly Poison".1 
 EffectAnim."Deafening Poison" @(44)&#10;有机会让你聋耳 D6 回合。这还会给你的施法骰附加一个相当于毒害强度级别的负面修正。
-EffectAnim."Deafening Poison".1 @(44)&#10;拥有%s天赋的生物不会受影响。
+EffectAnim."Deafening Poison".1 @(44)&#10;拥有 %s 天赋的生物不会受影响。
 EffectAnim."Draining Poison" @(44)&#10;有机会使你失去一点精力。这还会给你的精力回复骰附加一个相当于毒害强度级别的负面修正。这个毒药引起的伤害在做免疫检查时视作噬精效果。
 EffectAnim."Draining Poison".1 
 EffectAnim."Draining Poison".2 
@@ -4243,7 +4243,7 @@ EffectAnim."Leeching Poison".1
 EffectAnim."Leeching Poison".2 
 EffectAnim."Paralytic Poison" @(44)&#10;有机会使你麻痹 D6 回合。这视作迟缓效果。
 EffectAnim."Silencing Poison" @(44)&#10;有机会使你沉默 D6 回合。在沉默状态时，你无法施法，阅读卷轴，以及和别的生物交谈。这还会给你的施法骰附加一个相当于毒害强度级别的负面修正。
-EffectAnim."Silencing Poison".1 @(44)&#10;拥有%s天赋的生物不会受影响。
+EffectAnim."Silencing Poison".1 @(44)&#10;拥有 %s 天赋的生物不会受影响。
 EffectAnim."Silencing Poison".2 
 EffectAnim."Sleeping Poison" @(44)&#10;有机会使你沉睡 D6 回合。任何伤害都将打断当前的沉睡效果，但毒害依然存在，你下个回合还是有可能陷入沉睡。
 EffectAnim."Sleeping Poison".1 
@@ -4290,15 +4290,15 @@ EffectAnim."Slowed" @(44)你被迟缓了，这可能让你失去回合。
 EffectAnim."Stunned" @(44)你被眩晕了，这导致你失去了回合。
 EffectAnim."Vitalised" @(44)你活力四射，这允许你重掷失败的生命回复检定。
 EffectAnim."Revitalised" @(44)你获得了持续回复的能力，但同时也变得更加怕火。
-EffectAnim."You have temporarily gained knowledge of the %s talent." @(44)你临时获得了有关%s天赋的知识。
-EffectAnim."-1 Strength" 力量减 1 。
-EffectAnim."-1 Agility" 敏捷减 1 。
-EffectAnim."-1 Stamina" 耐力减 1 。
-EffectAnim."-1 Charisma" 魅力减 1 。
-EffectAnim."+1 Strength" 力量加 1 。
-EffectAnim."+1 Agility" 敏捷加 1 。
-EffectAnim."+1 Stamina" 耐力加 1 。
-EffectAnim."+1 Charisma" 魅力加 1 。
+EffectAnim."You have temporarily gained knowledge of the %s talent." @(44)你临时获得了有关 %s 天赋的知识。
+EffectAnim."-1 Strength" 力量减 1。
+EffectAnim."-1 Agility" 敏捷减 1。
+EffectAnim."-1 Stamina" 耐力减 1。
+EffectAnim."-1 Charisma" 魅力减 1。
+EffectAnim."+1 Strength" 力量加 1。
+EffectAnim."+1 Agility" 敏捷加 1。
+EffectAnim."+1 Stamina" 耐力加 1。
+EffectAnim."+1 Charisma" 魅力加 1。
 EffectAnim."Wounded" 你在流血，每个回合承受 D3 点流血伤害。
 EffectAnim."You have 1 bolt or arrow equipped." 你装备有 1 只箭。
 EffectAnim."You have %d bolts or arrows equipped." 你装备有 %d 只箭。
@@ -4308,15 +4308,15 @@ EffectAnim."Your offhand weapon is poisoned." 你的副手武器已淬毒。
 EffectAnim."AMULET_COOLDOWN_DESC" @(44)你项链中的法术在冷却中。需要通过装备它并经过它所述的回合数才可以再次使用。
 EffectAnim."CAN_LEARN_TALENT_DESC" @(44)你现在可以学习一项新的天赋。找一个导师或使用一种训练地块（祭坛、假人、火堆、箭靶、水井或是图腾）。
 DeathScreen."KING_SCREEN_STORY" 随着你把王冠戴在头上，走廊里的窃窃私语伴随着你每一次呼吸越发清晰入耳：
-DeathScreen."KING_SCREEN_STORY".1 &quot;%s已死。%s万岁！&quot;
-DeathScreen."KING_SCREEN_STORY".2 你在一次公平挑战中击败了%s，现在你成为了霜之哀伤的合法统治者。
-DeathScreen."KING_SCREEN_STORY".3 估计古代的律法，现在你有权力对你的侍从做任何事，让他们用你喜欢的方式侍奉你。
+DeathScreen."KING_SCREEN_STORY".1 &quot;%s 已死。%s 万岁！&quot;
+DeathScreen."KING_SCREEN_STORY".2 你在一次公平挑战中击败了 %s，现在你成为了霜之哀伤的合法统治者。
+DeathScreen."KING_SCREEN_STORY".3 根据古代的律法，现在你有权力对你的侍从做任何事，让他们用你喜欢的方式侍奉你。
 DeathScreen."KING_SCREEN_STORY".4 如果你感到无聊或者你发觉你的人民对你有敌意，你可以把一些农民从墙上扔下去。
 DeathScreen."KING_SCREEN_STORY".5 既然如此，现在可以开始对你的领导力做点测试了……
-DeathScreen."KING_SCREEN_SUMMARY" 站在这里的是%s %s。
-DeathScreen."KING_SCREEN_SUMMARY".1 %s囤积了总共 %d 枚金币，经历了 %d 回合，完成了 %s 个任务。
-DeathScreen."DEATH_SCREEN_SUMMARY" 躺在这里的是%s，%s，%s。
-DeathScreen."DEATH_SCREEN_SUMMARY".1 %s %s囤积了总共 %d 枚金币，经历了 %d 回合直到%s旅程结束。
+DeathScreen."KING_SCREEN_SUMMARY" 站在这里的是 %s %s。
+DeathScreen."KING_SCREEN_SUMMARY".1 %s 囤积了总共 %d 枚金币，经历了 %d 回合，完成了 %s 个任务。
+DeathScreen."DEATH_SCREEN_SUMMARY" 躺在这里的是 %s，%s，%s。
+DeathScreen."DEATH_SCREEN_SUMMARY".1 %s %s 囤积了总共 %d 枚金币，经历了 %d 回合直到 %s 旅程结束。
 DeathScreen."zero talent" 毫无天赋
 DeathScreen."negligible talent" 几乎没有天赋
 DeathScreen."trivial talent" 天赋微薄
@@ -4413,7 +4413,7 @@ ErrorStrings."Highscore data save failed due to a file system error." 因为文�
 ErrorStrings."Key config data save failed due to a file system error." 因为文件系统错误，键盘配置数据保存失败。
 ErrorStrings."Statistic data save failed due to a file system error." 因为文件系统错误，状态数据保存失败。
 ErrorStrings."Hero creation failed due to a file system error." 因为文件系统错误，英雄无法创建。
-ErrorStrings."Hero deletion failed due to a file system error." 因为文件系统错误，影响无法删除。
+ErrorStrings."Hero deletion failed due to a file system error." 因为文件系统错误，英雄无法删除。
 ErrorStrings."Hero saving failed due to a file system error." 因为文件系统错误，英雄保存失败。
 ErrorStrings."Hero loading failed due to a file system error." 因为文件系统错误，英雄加载失败。
 ErrorStrings."Unknown server error!" 未知的服务器错误！
@@ -4431,9 +4431,9 @@ ChatStrings."/dog" /dog（狗）
 ChatStrings."/resetdog" /resetdog（重置狗）
 ChatStrings."/skipnull" /skipnull（跳过）
 ChatStrings."/mrgsteam" /mrgsteam（导入Steam）
-ChatStrings."Type %s to set the number of search attempts (using values 1 through 6)." 输入 %s 已设置搜索尝试次数（从 1 到 6）。
-ChatStrings."Search attempts has been set to %d." 搜索尝试次数被设置为 %d 。
-ChatStrings."Your current score is %d." 你当前的分数为 %d 。
+ChatStrings."Type %s to set the number of search attempts (using values 1 through 6)." 输入 %s 设置搜索尝试次数（从 1 到 6）。
+ChatStrings."Search attempts has been set to %d." 搜索尝试次数被设置为 %d。
+ChatStrings."Your current score is %d." 你当前的分数为 %d。
 ChatStrings."Items are now sorted vertically." 物品现在以垂直方式排序。
 ChatStrings."Items are now sorted horizontally." 物品现在以水平方式排序。
 ChatStrings."Tutorial dog is ready to guide you once more." 界面狗准备好再引导你一次。
