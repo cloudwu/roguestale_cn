@@ -1398,7 +1398,7 @@ ItemNames."SingleEnchant" %2%1
 ItemNames."DoubleEnchant" %1%3%2
 ItemLogs."You see %s here." 你在这里看见了%s。
 ItemLogs."You see %s." 你看见%s。
-ItemLogs."%s is no longer blessed." %s不再神圣。
+ItemLogs."%s is no longer blessed." %s不再被祝福。
 ItemLogs."%s is no longer cursed." %s不再被诅咒。
 ItemLogs."%s has lost its shine." %s失去了光泽。
 ItemLogs."%s is stained by the spell." %s被法术玷污了。
@@ -2505,7 +2505,7 @@ WeaponDescs."Digger" @(26)这把武器是在击倒障碍方面特别出色，比
 WeaponDescs."Spear" @(26)这种武器是一种长柄武器，因此你可以通过按攻击按钮打出两格的攻击范围。
 WeaponDescs."Staff" @(26)这把武器是一种导器，这意味着它允许持有者重掷失败的施法骰和法术命中骰。
 WeaponDescs."Crossbow" @(26)这是一种慢速武器，因此每次使用后都必须重新整备。
-WeaponDescs."Repeater" @(26)与普通的弩不同，被连弩总结的家伙都来不及叫出来。
+WeaponDescs."Repeater" @(26)与普通的弩不同，被连弩终结的家伙都来不及叫出来。
 WeaponDescs."Rock" @(26)这块岩石看起来比其他石头更漂亮，放在你的手掌上也更合适。
 WeaponDescs."Throwing Knife" @(26)这把飞刀锻造的非常之好，正好用来阻止那些弱夫逃跑。
 WeaponDescs."Throwing Star" @(26)这把武器对那些肆意抢劫的恶棍来说太棒了。
@@ -3124,7 +3124,7 @@ FemaleNames."Octavia" 燕妮
 FemaleNames."Odette" 茜茜
 FemaleNames."Olivia" 赛珍珠
 FemaleNames."Ophelia" 奥菲莉娅
-FemaleNames."Phoebe" 罗敷
+FemaleNames."Phoebe" 潘金莲
 FemaleNames."Phyllis" 菲利斯
 FemaleNames."Primrose" 樊素
 FemaleNames."Prudence" 妲己
