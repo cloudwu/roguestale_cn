@@ -624,7 +624,7 @@ MoveLogs."You fail to move silently." 你潜行失败。
 MoveLogs."You fail to hide due to being watched by someone." 你没能躲起来，被某人看见了。
 MoveLogs."You are no longer hidden." 你不再隐身。
 MoveLogs."%s is no longer hidden." %s不再隐身。
-MoveLogs."You swap places with %s." 你可%s交换了位置。
+MoveLogs."You swap places with %s." 你和%s交换了位置。
 MoveLogs."You are too tired to swap places with %s." 你太累了，无法和%s交换位置。
 MoveLogs."You pat %s and remind who the master is." 你轻轻的拍了拍%s，示意谁才是大师。
 MoveLogs."You can't attack people you know before talking to them." 在和你认识的人交谈之前，你不能攻击他们。
@@ -1434,11 +1434,11 @@ ItemLogs."Your %s slips from your hand and is unequipped." 你的%s从主手滑�
 ItemLogs."%s's %s slips and is unequipped." %s的%s滑落，卸了下来。
 ItemLogs."Your %s slips from your hand and falls to the ground." 你的%s从主手滑落，掉在地上。
 ItemLogs."%s's %s slips and falls to the ground." %s的%s滑落，掉在地上。
-ItemLogs."Your %s slips from your hand and is stolen by %s." 你的%s从主手换罗，被%s偷走。
+ItemLogs."Your %s slips from your hand and is stolen by %s." 你的%s从主手滑落，被%s偷走。
 ItemLogs."%s's %s slips and is stolen by you" %s的%s滑落，被你偷走
 ItemLogs."The %s has no effect on you." 这个%s对你不起效果。
 ItemLogs."The potion has no effect on you." 这瓶药剂对你不起效果。
-ItemLogs."You are affected by %s." 你收到了%s的影响。
+ItemLogs."You are affected by %s." 你受到了%s的影响。
 ItemLogs."Your %s is refreshed by %s." 你的%s被%s恢复。
 ItemLogs."Your %s is refreshed by the potion." 你的%s被这药剂恢复。
 ItemLogs."%s didn't seem to have any effect." %s看起来不带任何效果。
@@ -1805,7 +1805,7 @@ CharmEffects."Time Dilation Device" @(30)你可以用这个耳环把游戏的所
 CharmEffects."Fishing Hook and Line" @(30)水峡谷现在可以用来钓鱼。
 CharmEffects."Fairy Jizzed Bull Horn" @(30)允许巫师学徒学习和施放兽性法术（学习时需要浮空）。
 CharmEffects."Engraved Pyramidion" @(30)允许巫师学徒学习和施放深渊法术（学习时需要有黑色魂晶）。
-CharmEffects."BlessedFamiliar" @(30)任何企图攻击力的龙都会永久变成你的伙伴。
+CharmEffects."BlessedFamiliar" @(30)任何企图攻击你的龙都会永久变成你的伙伴。
 CharmEffects."BlessedOutcasts" @(30)在每个随机地牢的第一层召唤一个收藏家。
 CoinNames."Gold Coin" 金币
 CoinStacks."Gold Coin" 金币
@@ -2177,7 +2177,7 @@ ScrollLogs."%s is polymorphed." %s 被变形了。
 ScrollLogs."%s shimmers brightly before shattering to pieces." %s 在破碎成碎片之前光芒四射。
 ScrollLogs."%s vanishes before you teleport on it." %s 在你传送到它之前消失了。
 ScrollLogs."%s appears before you teleport on it." %s 在你传送到它之前出现了。
-ScrollLogs."You teleport to a new location." 你传送到一个新的位置。
+ScrollLogs."You teleport to a new location." 你瞬移到一个新的位置。
 ScrollLogs."You feel death chill in your bones." 你感到死一般的彻骨之寒。
 ScrollLogs."You suddenly feel as if you've traveled 88 mph." 你瞬间感觉时速到了 88 英里。
 ScrollLogs."You suddenly get a strange deja vu feeling." 一种奇怪的既视感瞬间袭来。
@@ -2529,7 +2529,7 @@ WeaponDescs."Fine Digger" @(26)这把武器是在击倒障碍方面特别出色�
 WeaponDescs."Fine Spear" @(26)这种武器是一种长柄武器，因此你可以通过按攻击按钮打出两格的攻击范围。
 WeaponDescs."Fine Staff" @(26)这把武器是一种导器，这意味着它允许持有者重掷失败的施法骰和法术命中骰。
 WeaponDescs."Fine Crossbow" @(26)这是一种慢速武器，因此每次使用后都必须重新整备。
-WeaponDescs."Fine Repeater" @(26)与普通的弩不同，被连弩总结的家伙都来不及叫出来。
+WeaponDescs."Fine Repeater" @(26)与普通的弩不同，被连弩终结的家伙都来不及叫出来。
 WeaponDescs."Wizard Staff" @(26)这把武器能教会使用者如何施放五种法术球中的一种。
 WeaponDescs."Wizard Staff 0" @(26)这把武器能教会使用者如何施放火球术。
 WeaponDescs."Wizard Staff 1" @(26)这把武器能教会使用者如何施放冰球术。
@@ -3225,9 +3225,9 @@ DamageTypes."elemental" 元素
 DamageTypes."crush" 粉碎
 DamageTypes."fall" 跌落
 DamageTypes."bleed" 流血
-Achievements."You have returned a schematic titled '%s'!" 你归还了一张题为 '%s' 的图纸！
-Achievements."You have unlocked '%s' heritage!" 你解锁了 '%s' 遗产！
-Achievements."You have completed '%s' challenge!" 你完成了 '%s' 挑战！
+Achievements."You have returned a schematic titled '%s'!" 你归还了一张题为 ‘%s’ 的图纸！
+Achievements."You have unlocked '%s' heritage!" 你解锁了 ‘%s’ 遗产！
+Achievements."You have completed '%s' challenge!" 你完成了 ‘%s’ 挑战！
 Achievements."You have cleared the dungeon!" 你清空了地牢！
 Achievements."You have cleared the dungeon but you are not alone!" 你清空了地牢，但你并不孤单！
 Achievements."Arnold from Black Field" 黑色领域的阿诺德
@@ -3502,7 +3502,7 @@ HeritageDescs."The Wanderer".1 @(26)解锁这项遗产需要你在穿着橙色�
 HeritageDescs."Three Tails" @(26)允许你对你的黄色衬衫和头巾进行附魔。
 HeritageDescs."Three Tails".1 @(26)解锁这项遗产需要你在穿着黄色衬衫或头巾时抛投硬币，直到连续掷出三个背面。
 HeritageDescs."The Pink Order" @(26)允许你对你的粉色衬衫和头巾进行附魔。
-HeritageDescs."The Pink Order".1 @(26)解锁这项遗产需要你在穿着粉色衬衫或头巾时，在聊天频道说出 '%s' （不带引号）。
+HeritageDescs."The Pink Order".1 @(26)解锁这项遗产需要你在穿着粉色衬衫或头巾时，在聊天频道说出 ‘%s’ （不带引号）。
 HeritageDescs."Big Bada Boom" @(26)允许你对你的白色衬衫和头巾进行附魔。
 HeritageDescs."Big Bada Boom".1 @(26)解锁这项遗产需要你在穿着白色衬衫或头巾时使用魂晶，知道你获得你的多通道。
 HeritageDescs."Over 9000" @(26)你的衬衫和头巾现在被祝福过了，可以进行两次附魔。
@@ -3557,7 +3557,7 @@ HeritageDescs."Face Muncher" @(26)狼形态下发出暴击的同时为你施放�
 HeritageDescs."Face Muncher".1 @(26)在等级 20 时的狼形态下，一击杀死一个满血的人类，可以解锁这项遗产。
 HeritageDescs."Monster Chow" @(26)在变身时增加生命值和精力。
 HeritageDescs."Monster Chow".1 @(26)在变身后杀死 %d 个巨怪并吃掉它们的尸体。
-HeritageDescs."Monster Chow".2 @(26)注意：施展变身术将充值计数器，因此必须在一次变身中完成。
+HeritageDescs."Monster Chow".2 @(26)注意：施展变身术将重置计数器，因此必须在一次变身中完成。
 HeritageDescs."Monster Chow".3 @(26)吃掉的巨怪：
 HeritageDescs."Second Amendment" @(26)允许你在装备有对应的项链时，阅读奥术典籍 (*)。
 HeritageDescs."Second Amendment".1 @(26)一旦你学会了一门奥术，你可以在装备有任意项链时施放它。
@@ -3651,7 +3651,7 @@ ChallengeDescs."The Curve Ball".1 @(26)触发即死效果不算。
 ChallengeDescs."Itch Be Slapped" @(26)完成这项挑战需要你赤手空拳杀死一个无伤的巨怪。
 ChallengeDescs."The Ghostbuster" @(26)完成这项挑战需要你在终局之战中杀死所有的圣林英雄。
 ChallengeDescs."Against the Odds" @(26)完成这项挑战需要你带着被诅咒的珠宝清空至少有三层的地牢。
-ChallengeDescs."Against the Odds".1 @(26)你必须在重置地牢时就带上一个被诅咒的项链和两枚被诅咒的戒指。
+ChallengeDescs."Against the Odds".1 @(26)你必须在重置地牢时就带上一条被诅咒的项链和两枚被诅咒的戒指。
 ChallengeDescs."Against the Odds".2 @(26)封堵上入口不算。
 ChallengeDescs."Dark Passenger" @(26)完成这项挑战需要你在升到 20 级之前不点燃任何一处壁火。
 ChallengeDescs."The Loose Knot" @(26)完成这项挑战需要你用念动力杀死自己。
@@ -3740,22 +3740,22 @@ ChallengeDescs."Misinvisicast" @(26)灌注此传奇效果需要在你施放位�
 ChallengeDescs."Nightshade" @(26)灌注此传奇效果需要将一瓶强效死亡药剂淬在武器上。
 ChallengeDescs."Orbus Bomba" @(26)灌注此传奇效果需要你用增大的法术球的溅射杀死一个敌人。
 ChallengeDescs."Zombie Dog" @(26)灌注此传奇效果需要你杀死汪汪。
-ChallengeDescs."TestOfLeadership" @(26)完成这项挑战需要你在完成领导力测试后被视为 '%s' 。
+ChallengeDescs."TestOfLeadership" @(26)完成这项挑战需要你在完成领导力测试后被视为 ‘%s’ 。
 ChallengeDescs."TestOfLeadership".1 @(26)领导力测试有三个问题及三种类型的答案（无情、公正和温和）。
 ChallengeDescs."Path of Wisdom" %s 
-ChallengeDescs."Path of Wisdom".1 @(26)如果你测试的答案每种类型都有，你会被视为'%s'。
+ChallengeDescs."Path of Wisdom".1 @(26)如果你测试的答案每种类型都有，你会被视为‘%s’。
 ChallengeDescs."Path of Justice" %s 
-ChallengeDescs."Path of Justice".1 @(26)如果你测试的答案中有无情的和公正的，你会被视为'%s'。
+ChallengeDescs."Path of Justice".1 @(26)如果你测试的答案中有无情的和公正的，你会被视为‘%s’。
 ChallengeDescs."Path of Decency" %s 
-ChallengeDescs."Path of Decency".1 @(26)如果你测试的答案中有无情的和温和的，你会被视为'%s'。
+ChallengeDescs."Path of Decency".1 @(26)如果你测试的答案中有无情的和温和的，你会被视为‘%s’。
 ChallengeDescs."Path of Kindness" %s 
-ChallengeDescs."Path of Kindness".1 @(26)如果你测试的答案中有公正的和温和的，你会被视为'%s'。
+ChallengeDescs."Path of Kindness".1 @(26)如果你测试的答案中有公正的和温和的，你会被视为‘%s’。
 ChallengeDescs."Path of Cruelty" %s 
-ChallengeDescs."Path of Cruelty".1 @(26)如果你测试的答案中只有无情的，你会被视为'%s'。
+ChallengeDescs."Path of Cruelty".1 @(26)如果你测试的答案中只有无情的，你会被视为‘%s’。
 ChallengeDescs."Path of Fairness" %s 
-ChallengeDescs."Path of Fairness".1 If @(26)如果你测试的答案中只有公正的，你会被视为'%s'。
+ChallengeDescs."Path of Fairness".1 If @(26)如果你测试的答案中只有公正的，你会被视为‘%s’。
 ChallengeDescs."Path of Compassion" %s 
-ChallengeDescs."Path of Compassion".1 @(26)如果你测试的答案中只有温和的，你会被视为'%s'。
+ChallengeDescs."Path of Compassion".1 @(26)如果你测试的答案中只有温和的，你会被视为‘%s’。
 ChallengeDescs."Indivisible Greed" @(26)这项挑战可以在遭遇三个愤怒的父亲后重置地牢来完成。
 ChallengeTitles."Select Title" 选择头衔
 ChallengeTitles."the Alchemist" 炼金师
@@ -3951,7 +3951,7 @@ InventoryWindow."You don't have enough free space to carry all the gold." 你没
 InventoryWindow."The merchant is not interested to buy those." 商人对购买那些东西没有兴趣。
 InventoryWindow."The merchant is not interested to buy that." 商人对购买那个东西没有兴趣。
 InventoryWindow."The merchant doesn't have free space for that at the moment." 商人目前没有空间。
-InventoryWindow."%s can't be sold while it is equipped." %s 在装备中，所有无法售卖。
+InventoryWindow."%s can't be sold while it is equipped." %s 在装备中，所以无法售卖。
 InventoryWindow."The merchant is not interested in unidentified items." 商人对未鉴定的物品没有兴趣。
 InventoryWindow."%s is repaired for %d gold coins." %s 修好了，你支付了 %d 个金币。
 InventoryWindow."You can't afford to repair %s." 你修不起 %s 。
@@ -3971,7 +3971,7 @@ InventoryWindow."You can't afford to enchant %s." 附魔 %s 的钱，你支付�
 InventoryWindow."Those %s cannot be enchanted." 那些 %s 无法被附魔。
 InventoryWindow."%s cannot be enchanted." %s 无法被附魔。
 InventoryWindow."You give %s to a clerk and %d gold coins are added to your ledger (%d)." 你把 %s 交给店员，你的账户上多了 %d 个金币（%d）。
-InventoryWindow."You give %s to a clerk to be stored for later use (%d)." 你把 %s 交给店员存放起来共日后使用（%d）。
+InventoryWindow."You give %s to a clerk to be stored for later use (%d)." 你把 %s 交给店员存放起来供日后使用（%d）。
 InventoryWindow."You can't store those %s here." 你无法把那些 %s 存放在这里。
 InventoryWindow."You can't store %s here." 你无法把 %s 存放在这里。
 InventoryWindow."You attempt to donate a charm to the Artisans' Guild and they identify it for you." 你试着向工匠行会捐赠一件饰品，他们帮你做了鉴定。
@@ -4014,7 +4014,7 @@ SpellbookWindow."You can't cast arcane spells without an amulet." 没有项链�
 SpellbookWindow."You can't cast bestial spells without a bull horn." 没有牛角不能施放兽性法术。
 SpellbookWindow."You can't cast abyssal spells without a pyramidion." 没有金字塔无法施放深渊法术。
 SpellbookWindow."You can't cast release soul without a soul gem." 没有灵魂石无法释放灵魂。
-SpellbookWindow."You can't cast shroom grenade without a blood cap." 你无法没有血蘑菇来施放蘑菇手雷。
+SpellbookWindow."You can't cast shroom grenade without a blood cap." 你没有血蘑菇来施放蘑菇手雷。
 SpellbookWindow."You can't cast army of the dead without a soul gem." 你没有魂晶来施放死亡军团。
 SpellbookWindow."You can't cast ritual sacrifice without an amulet of sacrifice." 你没有献祭项链来施放祭祀仪式。
 SpellbookWindow."The spell is on a cooldown with %d turns remaining." 这个法术还在冷却中，还剩 %d 回合。
@@ -4081,7 +4081,7 @@ DialogueWindow."STR_TELL_YOU_CANT" 我做不了，现在走吧。
 DialogueWindow."STR_INTIMIDATE" 如果你想活下去，最好现在帮助我……
 DialogueWindow."STR_PERSUADE" 我能看到你看着我的样子。如果……
 DialogueWindow."STR_INTRO_SCARED" STR_NAME 看起来很高兴能活着。
-DialogueWindow."STR_INTRO_SMITTEN" STR_NAME 看起来收到严重打击。
+DialogueWindow."STR_INTRO_SMITTEN" STR_NAME 看起来受到严重打击。
 DialogueWindow."STR_BREAK_UP_1" 什么，为什么，不要啊 ?!?
 DialogueWindow."STR_BREAK_UP_2" 什么，为什么，你个小婊子 ?!?
 DialogueWindow."STR_INTRO_SOUL_MATE" @(40)你的灵魂伴侣用一双可爱的大眼睛盯着你。
@@ -4133,7 +4133,7 @@ DialogueWindow."DLG_THIRD_WISH" @(40)- 你感觉你刚刚被愚弄了。
 DialogueWindow."I would like to learn this '%s'." 我想要学习 '%s'.
 DialogueWindow."Can you teach me this '%s' spell?" 你能教教我这个 '%s' 法术吗?
 DialogueWindow."You already know %s." 你已经知道 %s 了.
-DialogueWindow."You can't learn more talents at the moment." 当前你不能再学习更多的天赋.
+DialogueWindow."You can't learn more talents at the moment." 当前你不能再学习更多的天赋。
 StatusBarAnim."Satiated" 满足
 StatusBarAnim."Dying" 濒死
 StatusBarAnim."Famished" 极饿
@@ -4310,7 +4310,7 @@ EffectAnim."CAN_LEARN_TALENT_DESC" @(44)你现在可以学习一项新的天赋�
 DeathScreen."KING_SCREEN_STORY" 随着你把王冠戴在头上，走廊里的窃窃私语伴随着你每一次呼吸越发清晰入耳：
 DeathScreen."KING_SCREEN_STORY".1 &quot;%s已死。%s万岁！&quot;
 DeathScreen."KING_SCREEN_STORY".2 你在一次公平挑战中击败了%s，现在你成为了霜之哀伤的合法统治者。
-DeathScreen."KING_SCREEN_STORY".3 估计古代的律法，现在你有权力对你的侍从做任何事，让他们用你喜欢的方式侍奉你。
+DeathScreen."KING_SCREEN_STORY".3 根据古代的律法，现在你有权力对你的侍从做任何事，让他们用你喜欢的方式侍奉你。
 DeathScreen."KING_SCREEN_STORY".4 如果你感到无聊或者你发觉你的人民对你有敌意，你可以把一些农民从墙上扔下去。
 DeathScreen."KING_SCREEN_STORY".5 既然如此，现在可以开始对你的领导力做点测试了……
 DeathScreen."KING_SCREEN_SUMMARY" 站在这里的是%s %s。
@@ -4413,7 +4413,7 @@ ErrorStrings."Highscore data save failed due to a file system error." 因为文�
 ErrorStrings."Key config data save failed due to a file system error." 因为文件系统错误，键盘配置数据保存失败。
 ErrorStrings."Statistic data save failed due to a file system error." 因为文件系统错误，状态数据保存失败。
 ErrorStrings."Hero creation failed due to a file system error." 因为文件系统错误，英雄无法创建。
-ErrorStrings."Hero deletion failed due to a file system error." 因为文件系统错误，影响无法删除。
+ErrorStrings."Hero deletion failed due to a file system error." 因为文件系统错误，英雄无法删除。
 ErrorStrings."Hero saving failed due to a file system error." 因为文件系统错误，英雄保存失败。
 ErrorStrings."Hero loading failed due to a file system error." 因为文件系统错误，英雄加载失败。
 ErrorStrings."Unknown server error!" 未知的服务器错误！
@@ -4431,7 +4431,7 @@ ChatStrings."/dog" /dog（狗）
 ChatStrings."/resetdog" /resetdog（重置狗）
 ChatStrings."/skipnull" /skipnull（跳过）
 ChatStrings."/mrgsteam" /mrgsteam（导入Steam）
-ChatStrings."Type %s to set the number of search attempts (using values 1 through 6)." 输入 %s 已设置搜索尝试次数（从 1 到 6）。
+ChatStrings."Type %s to set the number of search attempts (using values 1 through 6)." 输入 %s 来设置搜索尝试次数（从 1 到 6）。
 ChatStrings."Search attempts has been set to %d." 搜索尝试次数被设置为 %d 。
 ChatStrings."Your current score is %d." 你当前的分数为 %d 。
 ChatStrings."Items are now sorted vertically." 物品现在以垂直方式排序。
