@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190606)" checksum="242cb8386571c6b2559450610f67dfe85d1b00c9">
+<strings version="Version 2.00 Beta 2 (190614)" checksum="e1b23135714036b31315e2784bb97931acd96e3d">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -181,7 +181,9 @@
   <Tooltips>
     <str id="Hover mouse over the checkboxes to find out how to unlock them." value="Hover mouse over the checkboxes to find out how to unlock them."/>
     <str id="Sets the account name when the program is launched." value="Sets the account name when the program is launched."/>
-    <str id="Enables the use of a Playstation 4 gamepad." value="Enables the use of a Playstation 4 gamepad."/>
+    <str id="Enables the use of a Playstation 4 gamepad." value="Enables the use of a Playstation 4 gamepad.">
+      <str id="paragraph 1" value="In order to use other gamepads, enable this and type /gamepad in the game to calibrate them."/>
+    </str>
   </Tooltips>
   <GUITown>
     <str id="Trade items" value="Trade items"/>
@@ -223,7 +225,7 @@
   </GUITown>
   <GUIDesc>
     <str id="MARKET_SQUARE" value="You have entered the Market Quarter and here you can trade items with various merchants.">
-      <str id="paragraph 1" value="Note that once the merchants' inventories  are filled with junk, you can reset them by resting in the inn."/>
+      <str id="paragraph 1" value="Note that once the merchants' inventories are filled with junk, you can reset them by resting in the inn."/>
     </str>
     <str id="LEOS_WORKSHOP" value="You have entered Leo's Workshop and here you can have items crafted in exchange for materials and a few gold coins.">
       <str id="paragraph 1" value="If you have crafting materials, schematics or gold, you can store them here to free up some inventory space."/>
@@ -275,6 +277,32 @@
     <str id="You have reached" value="You have reached"/>
     <str id="Level %d" value="Level %d"/>
     <str id="You have entered" value="You have entered"/>
+    <str id="Press the left trigger (L2)..." value="Press the left trigger (L2)..."/>
+    <str id="Press the right trigger (L2)..." value="Press the right trigger (L2)..."/>
+    <str id="Press the left bumper (L1)..." value="Press the left bumper (L1)..."/>
+    <str id="Press the right bumper (R1)..." value="Press the right bumper (R1)..."/>
+    <str id="Press the arrow pad up button..." value="Press the arrow pad up button..."/>
+    <str id="Press the arrow pad right button..." value="Press the arrow pad right button..."/>
+    <str id="Press the arrow pad down button..." value="Press the arrow pad down button..."/>
+    <str id="Press the arrow pad left button..." value="Press the arrow pad left button..."/>
+    <str id="Push the left stick up..." value="Push the left stick up..."/>
+    <str id="Push the left stick right..." value="Push the left stick right..."/>
+    <str id="Push the left stick down..." value="Push the left stick down..."/>
+    <str id="Push the left stick left..." value="Push the left stick left..."/>
+    <str id="Press the left stick button..." value="Press the left stick button..."/>
+    <str id="Push the right stick up..." value="Push the right stick up..."/>
+    <str id="Push the right stick right..." value="Push the right stick right..."/>
+    <str id="Push the right stick down..." value="Push the right stick down..."/>
+    <str id="Push the right stick left..." value="Push the right stick left..."/>
+    <str id="Press the right stick button..." value="Press the right stick button..."/>
+    <str id="Press the button pad top button..." value="Press the button pad top button..."/>
+    <str id="Press the button pad right button..." value="Press the button pad right button..."/>
+    <str id="Press the button pad bottom button..." value="Press the button pad bottom button..."/>
+    <str id="Press the button pad left button..." value="Press the button pad left button..."/>
+    <str id="Press the touchpad or system button..." value="Press the touchpad or system button..."/>
+    <str id="Press the options button..." value="Press the options button..."/>
+    <str id="Press okay to save or [Escape] to cancel..." value="Press okay to save or [Escape] to cancel..."/>
+    <str id="Press okay to calibrate or [Escape] to cancel." value="Press okay to calibrate or [Escape] to cancel."/>
   </GUIPops>
   <Quests>
     <str id="I got plenty of money!" value="I got plenty of money!"/>
@@ -2861,6 +2889,8 @@
     <str id="Leo Noerde" value="Leo Noerde"/>
     <str id="Ken'nih" value="Ken'nih"/>
     <str id="Chronomancer" value="Chronomancer"/>
+    <str id="Worshipper" value="Worshipper"/>
+    <str id="Acolyte" value="Acolyte"/>
     <str id="Verman" value="Verman"/>
     <str id="Butcher" value="Butcher"/>
     <str id="Darkseer" value="Darkseer"/>
@@ -4908,6 +4938,7 @@
     <str id="/resetdog" value="/resetdog"/>
     <str id="/skipnull" value="/skipnull"/>
     <str id="/mrgsteam" value="/mrgsteam"/>
+    <str id="/gamepad" value="/gamepad"/>
     <str id="Type %s to set the number of search attempts (using values 1 through 6)." value="Type %s to set the number of search attempts (using values 1 through 6)."/>
     <str id="Search attempts has been set to %d." value="Search attempts has been set to %d."/>
     <str id="Your current score is %d." value="Your current score is %d."/>
