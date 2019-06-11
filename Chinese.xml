@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190606)" checksum="2a053893a244c89a78565103d05bcac4a485300b">
+<strings version="Version 2.00 Beta 1 (190606)" checksum="358e362c9f160df7dd6d98e584ac8475045e1e1f">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -156,7 +156,7 @@
     <str id="Chat" value="This key shows the text field that can be used to send instant messages to other players (online only)." local="这个键用来弹出一个文本输入框，用来向其他玩家&#10;发送即时消息（仅用于在线模式）。"/>
     <str id="Jump" value="This key can be used to jump in one of the four main directions (north, south, east, west)." local="这个键用来向四个主方向（东南西北）跳跃。"/>
     <str id="Swap" value="This key quickly swaps between the primary weapon set and the secondary weapon set." local="这个键用来在主武器组和备选武器组之间快速切换&#10;。"/>
-    <str id="Equip" value="This key brings up the inventory window with an option to equip and unequip items." local="这个键用来弹出物品界面，并进行装备和接触装备&#10;。"/>
+    <str id="Equip" value="This key brings up the inventory window with an option to equip and unequip items." local="这个键用来弹出物品界面，并进行装备和解除装备&#10;。"/>
     <str id="Sort" value="This key sorts the inventory." local="这个键会整理背包内的物品。"/>
     <str id="Travel" value="This key is used to quickly travel back to town after the current level has been cleared." local="这个键用来在当前楼层探查完毕后快速返城。"/>
     <str id="Attack" value="This key brings up the attack cursor that can be used to attack enemies with ranged weapons." local="这个键带出攻击光标，用远程武器攻击敌人。"/>
@@ -321,7 +321,7 @@
     </str>
     <str id="SPAWN_WORSHIPPERS" value="You accept the quest and head out to do some justified murdering." local="你接受了任务，出发去执行正当的刺杀。"/>
     <str id="GURMUR_DESC" value="Some cultists have come up with a plan to take over the world by waking up an old monster that should've stayed dead." local="一些邪教徒开启了一个计划，想唤醒&#10;一个本已死去的老怪物来征服世界。">
-      <str id="paragraph 1" value="Obviously that is bad but what is even worse is that those cultists are carrying a lot of gold that should be yours." local="这当然很糟糕，但还有更糟的事情是&#10;哪些邪教徒带走了本该属于你的大量&#10;金币。"/>
+      <str id="paragraph 1" value="Obviously that is bad but what is even worse is that those cultists are carrying a lot of gold that should be yours." local="这当然很糟糕，但还有更糟的事情是&#10;那些邪教徒带走了本该属于你的大量&#10;金币。"/>
       <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail." local="注意，一旦你接受了任务，你就必须&#10;在离开地牢前完成这个任务，否则就&#10;算任务失败。"/>
     </str>
     <str id="SPAWN_GURMUR" value="You accept the quest and head out to face the cultists in their lair." local="你接受了任务，出发前往邪教徒的巢穴。"/>
@@ -1040,7 +1040,7 @@
     <str id="Your attack is partially absorbed by some magical effect." value="Your attack is partially absorbed by some magical effect." local="一些魔法效果部分吸收了你的攻击。"/>
     <str id="Your attack is fully absorbed by some magical effect." value="Your attack is fully absorbed by some magical effect." local="一些魔法效果完全吸收了你的攻击。"/>
     <str id="You die... but you are saved by %s." value="You die... but you are saved by %s." local="你死了... 但你被 %s 救活了。"/>
-    <str id="%s dies... but is saved by some magical effect." value="%s dies... but is saved by some magical effect." local="%s 死了... 但被一些魔法效果救活了."/>
+    <str id="%s dies... but is saved by some magical effect." value="%s dies... but is saved by some magical effect." local="%s 死了... 但被一些魔法效果救活了。"/>
     <str id="You are cursed." value="You are cursed." local="你被诅咒了。"/>
     <str id="%s is cursed." value="%s is cursed." local="%s 被诅咒了。"/>
     <str id="You are poisoned." value="You are poisoned." local="你中毒了。"/>
@@ -1527,7 +1527,7 @@
   <ItemLogs>
     <str id="You see %s here." value="You see %s here." local="你在这里看见了%s。"/>
     <str id="You see %s." value="You see %s." local="你看见%s。"/>
-    <str id="%s is no longer blessed." value="%s is no longer blessed." local="%s不再神圣。"/>
+    <str id="%s is no longer blessed." value="%s is no longer blessed." local="%s不再被祝福。"/>
     <str id="%s is no longer cursed." value="%s is no longer cursed." local="%s不再被诅咒。"/>
     <str id="%s has lost its shine." value="%s has lost its shine." local="%s失去了光泽。"/>
     <str id="%s is stained by the spell." value="%s is stained by the spell." local="%s被法术玷污了。"/>
@@ -2364,7 +2364,7 @@
     <str id="%s shimmers brightly before shattering to pieces." value="%s shimmers brightly before shattering to pieces." local="%s 在破碎成碎片之前光芒四射。"/>
     <str id="%s vanishes before you teleport on it." value="%s vanishes before you teleport on it." local="%s 在你传送到它之前消失了。"/>
     <str id="%s appears before you teleport on it." value="%s appears before you teleport on it." local="%s 在你传送到它之前出现了。"/>
-    <str id="You teleport to a new location." value="You teleport to a new location." local="你传到到一个新的位置。"/>
+    <str id="You teleport to a new location." value="You teleport to a new location." local="你传送到一个新的位置。"/>
     <str id="You feel death chill in your bones." value="You feel death chill in your bones." local="你感到死一般的彻骨之寒。"/>
     <str id="You suddenly feel as if you've traveled 88 mph." value="You suddenly feel as if you've traveled 88 mph." local="你瞬间感觉时速到了 88 英里。"/>
     <str id="You suddenly get a strange deja vu feeling." value="You suddenly get a strange deja vu feeling." local="一种奇怪的既视感瞬间袭来。"/>
@@ -2716,7 +2716,7 @@
     <str id="Spear" value="This weapon is a polearm and as such has a range of up to two tiles with the attack button." local="这种武器是一种长柄武器，因&#10;此你可以通过按攻击按钮打出&#10;两格的攻击范围。"/>
     <str id="Staff" value="This weapon is a conduit and as such it allows the wielder to re-roll failed spell to-hit rolls." local="这把武器是一种导器，这意味&#10;着它允许持有者重掷失败的施&#10;法骰和法术命中骰。"/>
     <str id="Crossbow" value="This is a slow weapon and as such must be rearmed after every time it is used." local="这是一种慢速武器，因此每次&#10;使用后都必须重新整备。"/>
-    <str id="Repeater" value="Unlike regular crossbows, the ones on the receiving end of a repeater won't get to tell their story." local="与普通的弩不同，被连弩总结&#10;的家伙都来不及叫出来。"/>
+    <str id="Repeater" value="Unlike regular crossbows, the ones on the receiving end of a repeater won't get to tell their story." local="与普通的弩不同，被连弩终结&#10;的家伙都来不及叫出来。"/>
     <str id="Rock" value="This rock looks fancier and rests more fittingly in your palm than many other rocks." local="这块岩石看起来比其他石头更&#10;漂亮，放在你的手掌上也更合&#10;适。"/>
     <str id="Throwing Knife" value="This knife is perfectly balanced to stop those weaklings who try to run away." local="这把飞刀锻造的非常之好，正&#10;好用来阻止那些弱夫逃跑。"/>
     <str id="Throwing Star" value="This weapon is great for those villains who don't mind robbing their victims." local="这把武器对那些肆意抢劫的恶&#10;棍来说太棒了。"/>

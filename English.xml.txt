@@ -141,7 +141,7 @@ KeyDescs."Hotkey".1 @(44)你可以在法术书窗口里选中喜欢的法术或�
 KeyDescs."Chat" @(44)这个键用来弹出一个文本输入框，用来向其他玩家发送即时消息（仅用于在线模式）。
 KeyDescs."Jump" @(44)这个键用来向四个主方向（东南西北）跳跃。
 KeyDescs."Swap" @(44)这个键用来在主武器组和备选武器组之间快速切换。
-KeyDescs."Equip" @(44)这个键用来弹出物品界面，并进行装备和接触装备。
+KeyDescs."Equip" @(44)这个键用来弹出物品界面，并进行装备和解除装备。
 KeyDescs."Sort" @(44)这个键会整理背包内的物品。
 KeyDescs."Travel" @(44)这个键用来在当前楼层探查完毕后快速返城。
 KeyDescs."Attack" @(44)这个键带出攻击光标，用远程武器攻击敌人。
@@ -282,7 +282,7 @@ Quests."WORSHIPPERS_DESC".1 @(32)法师行会似乎不喜欢竞争，他们希�
 Quests."WORSHIPPERS_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
 Quests."SPAWN_WORSHIPPERS" 你接受了任务，出发去执行正当的刺杀。
 Quests."GURMUR_DESC" @(32)一些邪教徒开启了一个计划，想唤醒一个本已死去的老怪物来征服世界。
-Quests."GURMUR_DESC".1 @(32)这当然很糟糕，但还有更糟的事情是哪些邪教徒带走了本该属于你的大量金币。
+Quests."GURMUR_DESC".1 @(32)这当然很糟糕，但还有更糟的事情是那些邪教徒带走了本该属于你的大量金币。
 Quests."GURMUR_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
 Quests."SPAWN_GURMUR" 你接受了任务，出发前往邪教徒的巢穴。
 Quests."NABON_DESC" @(32)坏人就像飞蛾扑火般涌现在这里，最后一个出现的是黑暗之主。
@@ -952,7 +952,7 @@ EffectLogs."Your divine shield absorbs all of the damage." 你的神圣之盾吸
 EffectLogs."Your attack is partially absorbed by some magical effect." 一些魔法效果部分吸收了你的攻击。
 EffectLogs."Your attack is fully absorbed by some magical effect." 一些魔法效果完全吸收了你的攻击。
 EffectLogs."You die... but you are saved by %s." 你死了... 但你被 %s 救活了。
-EffectLogs."%s dies... but is saved by some magical effect." %s 死了... 但被一些魔法效果救活了.
+EffectLogs."%s dies... but is saved by some magical effect." %s 死了... 但被一些魔法效果救活了。
 EffectLogs."You are cursed." 你被诅咒了。
 EffectLogs."%s is cursed." %s 被诅咒了。
 EffectLogs."You are poisoned." 你中毒了。
@@ -1398,7 +1398,7 @@ ItemNames."SingleEnchant" %2%1
 ItemNames."DoubleEnchant" %1%3%2
 ItemLogs."You see %s here." 你在这里看见了%s。
 ItemLogs."You see %s." 你看见%s。
-ItemLogs."%s is no longer blessed." %s不再神圣。
+ItemLogs."%s is no longer blessed." %s不再被祝福。
 ItemLogs."%s is no longer cursed." %s不再被诅咒。
 ItemLogs."%s has lost its shine." %s失去了光泽。
 ItemLogs."%s is stained by the spell." %s被法术玷污了。
@@ -2177,7 +2177,7 @@ ScrollLogs."%s is polymorphed." %s 被变形了。
 ScrollLogs."%s shimmers brightly before shattering to pieces." %s 在破碎成碎片之前光芒四射。
 ScrollLogs."%s vanishes before you teleport on it." %s 在你传送到它之前消失了。
 ScrollLogs."%s appears before you teleport on it." %s 在你传送到它之前出现了。
-ScrollLogs."You teleport to a new location." 你传到到一个新的位置。
+ScrollLogs."You teleport to a new location." 你传送到一个新的位置。
 ScrollLogs."You feel death chill in your bones." 你感到死一般的彻骨之寒。
 ScrollLogs."You suddenly feel as if you've traveled 88 mph." 你瞬间感觉时速到了 88 英里。
 ScrollLogs."You suddenly get a strange deja vu feeling." 一种奇怪的既视感瞬间袭来。
@@ -2505,7 +2505,7 @@ WeaponDescs."Digger" @(26)这把武器是在击倒障碍方面特别出色，比
 WeaponDescs."Spear" @(26)这种武器是一种长柄武器，因此你可以通过按攻击按钮打出两格的攻击范围。
 WeaponDescs."Staff" @(26)这把武器是一种导器，这意味着它允许持有者重掷失败的施法骰和法术命中骰。
 WeaponDescs."Crossbow" @(26)这是一种慢速武器，因此每次使用后都必须重新整备。
-WeaponDescs."Repeater" @(26)与普通的弩不同，被连弩总结的家伙都来不及叫出来。
+WeaponDescs."Repeater" @(26)与普通的弩不同，被连弩终结的家伙都来不及叫出来。
 WeaponDescs."Rock" @(26)这块岩石看起来比其他石头更漂亮，放在你的手掌上也更合适。
 WeaponDescs."Throwing Knife" @(26)这把飞刀锻造的非常之好，正好用来阻止那些弱夫逃跑。
 WeaponDescs."Throwing Star" @(26)这把武器对那些肆意抢劫的恶棍来说太棒了。
