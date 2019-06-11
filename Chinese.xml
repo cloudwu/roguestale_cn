@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190606)" checksum="3d34e8cc29bc6cb481adc9ac2579e3ad0de1f2c2">
+<strings version="Version 2.00 Beta 2 (190614)" checksum="3713b9b8f491b12c8e6271bff56e6ae8cbc030e9">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -181,7 +181,9 @@
   <Tooltips>
     <str id="Hover mouse over the checkboxes to find out how to unlock them." value="Hover mouse over the checkboxes to find out how to unlock them." local="把鼠标停留在勾选框上看看如何解锁它们。"/>
     <str id="Sets the account name when the program is launched." value="Sets the account name when the program is launched." local="在程序启动后设置一个账号名称。"/>
-    <str id="Enables the use of a Playstation 4 gamepad." value="Enables the use of a Playstation 4 gamepad." local="开启 Playstation 4 手柄支持。"/>
+    <str id="Enables the use of a Playstation 4 gamepad." value="Enables the use of a Playstation 4 gamepad." local="开启 Playstation 4 手柄支持。">
+      <str id="paragraph 1" value="In order to use other gamepads, enable this and type /gamepad in the game to calibrate them." local="若需使用其它手柄，开启它后在游戏中输入 /gamepad 来校正手柄。"/>
+    </str>
   </Tooltips>
   <GUITown>
     <str id="Trade items" value="Trade items" local="物品交易"/>
@@ -223,7 +225,7 @@
   </GUITown>
   <GUIDesc>
     <str id="MARKET_SQUARE" value="You have entered the Market Quarter and here you can trade items with various merchants." local="你进入了商业集市，这里可以和各式&#10;商人交易物品。">
-      <str id="paragraph 1" value="Note that once the merchants' inventories  are filled with junk, you can reset them by resting in the inn." local="注意：如果商人的货架被垃圾堆满的&#10;话，你可以通过在旅店休息重置它们&#10;。"/>
+      <str id="paragraph 1" value="Note that once the merchants' inventories are filled with junk, you can reset them by resting in the inn." local="注意：如果商人的货架被垃圾堆满的&#10;话，你可以通过在旅店休息重置它们&#10;。"/>
     </str>
     <str id="LEOS_WORKSHOP" value="You have entered Leo's Workshop and here you can have items crafted in exchange for materials and a few gold coins." local="你进入了鲁班的工坊，在这里你可以&#10;交纳一些材料和一点金币打造你要的&#10;物品。">
       <str id="paragraph 1" value="If you have crafting materials, schematics or gold, you can store them here to free up some inventory space." local="如果你有制造材料，图纸或金币，你&#10;可以免费存放在这里。"/>
@@ -275,6 +277,32 @@
     <str id="You have reached" value="You have reached" local="你已达到"/>
     <str id="Level %d" value="Level %d" local="等级 %d"/>
     <str id="You have entered" value="You have entered" local="你已进入"/>
+    <str id="Press the left trigger (L2)..." value="Press the left trigger (L2)..." local="按下左扳机（L2）……"/>
+    <str id="Press the right trigger (L2)..." value="Press the right trigger (L2)..." local="按下右扳机（R2）……"/>
+    <str id="Press the left bumper (L1)..." value="Press the left bumper (L1)..." local="按下左肩键（L1）……"/>
+    <str id="Press the right bumper (R1)..." value="Press the right bumper (R1)..." local="按下右肩键（R1）……"/>
+    <str id="Press the arrow pad up button..." value="Press the arrow pad up button..." local="按下十字键上……"/>
+    <str id="Press the arrow pad right button..." value="Press the arrow pad right button..." local="按下十字键右……"/>
+    <str id="Press the arrow pad down button..." value="Press the arrow pad down button..." local="按下十字键下……"/>
+    <str id="Press the arrow pad left button..." value="Press the arrow pad left button..." local="按下十字键左……"/>
+    <str id="Push the left stick up..." value="Push the left stick up..." local="将左摇杆向上推……"/>
+    <str id="Push the left stick right..." value="Push the left stick right..." local="将左摇杆向右推……"/>
+    <str id="Push the left stick down..." value="Push the left stick down..." local="将左摇杆向下推……"/>
+    <str id="Push the left stick left..." value="Push the left stick left..." local="将左摇杆向左推……"/>
+    <str id="Press the left stick button..." value="Press the left stick button..." local="按下左摇杆（L3）……"/>
+    <str id="Push the right stick up..." value="Push the right stick up..." local="将右摇杆向上推……"/>
+    <str id="Push the right stick right..." value="Push the right stick right..." local="将右摇杆向右推……"/>
+    <str id="Push the right stick down..." value="Push the right stick down..." local="将右摇杆向下推……"/>
+    <str id="Push the right stick left..." value="Push the right stick left..." local="将右摇杆向左推……"/>
+    <str id="Press the right stick button..." value="Press the right stick button..." local="按下右摇杆（R3）……"/>
+    <str id="Press the button pad top button..." value="Press the button pad top button..." local="按下右侧四按钮的上……"/>
+    <str id="Press the button pad right button..." value="Press the button pad right button..." local="按下右侧四按钮的右……"/>
+    <str id="Press the button pad bottom button..." value="Press the button pad bottom button..." local="按下右侧四按钮的下……"/>
+    <str id="Press the button pad left button..." value="Press the button pad left button..." local="按下右侧四按钮的左……"/>
+    <str id="Press the touchpad or system button..." value="Press the touchpad or system button..." local="按下触摸板或系统按钮……"/>
+    <str id="Press the options button..." value="Press the options button..." local="按下选项按钮……"/>
+    <str id="Press okay to save or [Escape] to cancel..." value="Press okay to save or [Escape] to cancel..." local="按下确认保存或 [Escape] 取消……"/>
+    <str id="Press okay to calibrate or [Escape] to cancel." value="Press okay to calibrate or [Escape] to cancel." local="按下确认校正或 [Escape] 取消……"/>
   </GUIPops>
   <Quests>
     <str id="I got plenty of money!" value="I got plenty of money!" local="我有的是钱！"/>
@@ -2861,6 +2889,8 @@
     <str id="Leo Noerde" value="Leo Noerde" local="鲁班"/>
     <str id="Ken'nih" value="Ken'nih" local="肯'尼斯"/>
     <str id="Chronomancer" value="Chronomancer" local="时空术士"/>
+    <str id="Worshipper" value="Worshipper" local="信徒"/>
+    <str id="Acolyte" value="Acolyte" local="侍僧"/>
     <str id="Verman" value="Verman" local="韦尔曼"/>
     <str id="Butcher" value="Butcher" local="屠夫"/>
     <str id="Darkseer" value="Darkseer" local="黑暗贤者"/>
@@ -4908,6 +4938,7 @@
     <str id="/resetdog" value="/resetdog" local="/resetdog（重置狗）"/>
     <str id="/skipnull" value="/skipnull" local="/skipnull（跳过）"/>
     <str id="/mrgsteam" value="/mrgsteam" local="/mrgsteam（导入Steam）"/>
+    <str id="/gamepad" value="/gamepad" local="/gamepad（手柄）"/>
     <str id="Type %s to set the number of search attempts (using values 1 through 6)." value="Type %s to set the number of search attempts (using values 1 through 6)." local="输入 %s 来设置搜索尝试次数（从 1 到 6）。"/>
     <str id="Search attempts has been set to %d." value="Search attempts has been set to %d." local="搜索尝试次数被设置为 %d 。"/>
     <str id="Your current score is %d." value="Your current score is %d." local="你当前的分数为 %d 。"/>
