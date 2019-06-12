@@ -4453,14 +4453,14 @@ ChatStrings."All hail %s!" %s 万岁！
 ChatStrings."%s You have to wait two seconds before sending another message." %s 你必须等两秒钟才能发下一条消息。
 ChatStrings."You can view and change key bindings in the main menu %s." 你可以在主菜单 %s 浏览和修改热键。
 ChatStrings."Commands:" 命令：
-ChatStrings."/search" /搜索
-ChatStrings."/score" /得分
-ChatStrings."/sort" /排序
-ChatStrings."/dog" /狗
-ChatStrings."/resetdog" /重置狗
-ChatStrings."/skipnull" /跳过
-ChatStrings."/mrgsteam" /合并成就
-ChatStrings."/gamepad" /手柄
+ChatStrings."/search" /search
+ChatStrings."/score" /score
+ChatStrings."/sort" /sort
+ChatStrings."/dog" /dog
+ChatStrings."/resetdog" /resetdog
+ChatStrings."/skipnull" /skipnull
+ChatStrings."/mrgsteam" /mrgsteam
+ChatStrings."/gamepad" /gamepad
 ChatStrings."Type %s to set the number of search attempts (using values 1 through 6)." 输入 %s 来设置搜索尝试次数（从 1 到 6）。
 ChatStrings."Search attempts has been set to %d." 搜索尝试次数被设置为 %d 。
 ChatStrings."Your current score is %d." 你当前的分数为 %d 。
