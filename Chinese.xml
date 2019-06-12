@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 1 (190606)" checksum="2fd044f91d55f22e0d86ffbbf34ae342c2e53339">
+<strings version="Version 2.00 Beta 1 (190606)" checksum="dc7655a904fbfc4523817350c2ab143ed2aa82ee">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -4901,13 +4901,13 @@
     <str id="%s You have to wait two seconds before sending another message." value="%s You have to wait two seconds before sending another message." local="%s 你必须等两秒钟才能发下一条消息。"/>
     <str id="You can view and change key bindings in the main menu %s." value="You can view and change key bindings in the main menu %s." local="你可以在主菜单 %s 浏览和修改热键。"/>
     <str id="Commands:" value="Commands:" local="命令："/>
-    <str id="/search" value="/search" local="/搜索"/>
-    <str id="/score" value="/score" local="/得分"/>
-    <str id="/sort" value="/sort" local="/排序"/>
-    <str id="/dog" value="/dog" local="/狗"/>
-    <str id="/resetdog" value="/resetdog" local="/重置狗"/>
-    <str id="/skipnull" value="/skipnull" local="/跳过"/>
-    <str id="/mrgsteam" value="/mrgsteam" local="/合并成就"/>
+    <str id="/search" value="/search"/>
+    <str id="/score" value="/score"/>
+    <str id="/sort" value="/sort"/>
+    <str id="/dog" value="/dog"/>
+    <str id="/resetdog" value="/resetdog"/>
+    <str id="/skipnull" value="/skipnull"/>
+    <str id="/mrgsteam" value="/mrgsteam"/>
     <str id="Type %s to set the number of search attempts (using values 1 through 6)." value="Type %s to set the number of search attempts (using values 1 through 6)." local="输入 %s 来设置搜索尝试次数（从 1 到 6）。"/>
     <str id="Search attempts has been set to %d." value="Search attempts has been set to %d." local="搜索尝试次数被设置为 %d 。"/>
     <str id="Your current score is %d." value="Your current score is %d." local="你当前的分数为 %d 。"/>
