@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 2 (190614)" checksum="e1b23135714036b31315e2784bb97931acd96e3d">
+<strings version="Version 2.00 Beta 2 (190614)" checksum="d38278a6d5f664861647936491aea80e22c5ba47">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -225,7 +225,7 @@
   </GUITown>
   <GUIDesc>
     <str id="MARKET_SQUARE" value="You have entered the Market Quarter and here you can trade items with various merchants.">
-      <str id="paragraph 1" value="Note that once the merchants' inventories are filled with junk, you can reset them by resting in the inn."/>
+      <str id="paragraph 1" value="Note that once the merchants' inventories  are filled with junk, you can reset them by resting in the inn."/>
     </str>
     <str id="LEOS_WORKSHOP" value="You have entered Leo's Workshop and here you can have items crafted in exchange for materials and a few gold coins.">
       <str id="paragraph 1" value="If you have crafting materials, schematics or gold, you can store them here to free up some inventory space."/>
