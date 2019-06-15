@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 2 (190614)" checksum="e86d017b8202bed1268442f90a389b7d52fa8d45">
+<strings version="Version 2.00 Beta 2 (190614)" checksum="607f95269d112292304551fbcec87f1904737781">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -225,7 +225,7 @@
   </GUITown>
   <GUIDesc>
     <str id="MARKET_SQUARE" value="You have entered the Market Quarter and here you can trade items with various merchants." local="你进入了商业集市，这里可以和各式&#10;商人交易物品。">
-      <str id="paragraph 1" value="Note that once the merchants' inventories are filled with junk, you can reset them by resting in the inn." local="注意：如果商人的货架被垃圾堆满的&#10;话，你可以通过在旅店休息重置它们&#10;。"/>
+      <str id="paragraph 1" value="Note that once the merchants' inventories  are filled with junk, you can reset them by resting in the inn." local="注意：如果商人的货架被垃圾堆满的&#10;话，你可以通过在旅店休息重置它们&#10;。"/>
     </str>
     <str id="LEOS_WORKSHOP" value="You have entered Leo's Workshop and here you can have items crafted in exchange for materials and a few gold coins." local="你进入了鲁班的工坊，在这里你可以&#10;交纳一些材料和一点金币打造你要的&#10;物品。">
       <str id="paragraph 1" value="If you have crafting materials, schematics or gold, you can store them here to free up some inventory space." local="如果你有制造材料，图纸或金币，你&#10;可以免费存放在这里。"/>
