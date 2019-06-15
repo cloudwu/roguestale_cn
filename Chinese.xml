@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 2 (190614)" checksum="611aff2c61eafb49277f6bdbfa8f2cd85b6e4375">
+<strings version="Version 2.00 Beta 2 (190614)" checksum="e86d017b8202bed1268442f90a389b7d52fa8d45">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -3196,24 +3196,24 @@
     <str id="Warrior" value="Warrior" local="武士"/>
     <str id="Wizard" value="Wizard" local="法师"/>
     <str id="----------" value="----------" local="——————————"/>
-    <str id="Broad" value="Broad" local="辽阔的"/>
-    <str id="Cold" value="Cold" local="寒冷的"/>
-    <str id="Dark" value="Dark" local="幽暗的"/>
-    <str id="Flat" value="Flat" local="平坦的"/>
-    <str id="Great" value="Great" local="伟大的"/>
-    <str id="Grey" value="Grey" local="黑色的"/>
-    <str id="High" value="High" local="高耸的"/>
-    <str id="Misty" value="Misty" local="雾蒙蒙的"/>
-    <str id="Narrow" value="Narrow" local="狭窄的"/>
-    <str id="New" value="New" local="崭新的"/>
-    <str id="Old" value="Old" local="古老的"/>
-    <str id="Rocky" value="Rocky" local="岩石的"/>
-    <str id="Steep" value="Steep" local="陡峭的"/>
-    <str id="Stony" value="Stony" local="多石的"/>
-    <str id="White" value="White" local="白色的"/>
-    <str id="Wide" value="Wide" local="宽广的"/>
+    <str id="Broad" value="Broad" local="辽阔"/>
+    <str id="Cold" value="Cold" local="寒冷"/>
+    <str id="Dark" value="Dark" local="幽暗"/>
+    <str id="Flat" value="Flat" local="平坦"/>
+    <str id="Great" value="Great" local="伟大"/>
+    <str id="Grey" value="Grey" local="黑色"/>
+    <str id="High" value="High" local="高耸"/>
+    <str id="Misty" value="Misty" local="薄雾"/>
+    <str id="Narrow" value="Narrow" local="狭窄"/>
+    <str id="New" value="New" local="崭新"/>
+    <str id="Old" value="Old" local="古老"/>
+    <str id="Rocky" value="Rocky" local="岩石"/>
+    <str id="Steep" value="Steep" local="陡峭"/>
+    <str id="Stony" value="Stony" local="多石"/>
+    <str id="White" value="White" local="白色"/>
+    <str id="Wide" value="Wide" local="宽广"/>
     <str id="----------" value="----------" local="——————————"/>
-    <str id="Bridge" value="Bridge" local="桥"/>
+    <str id="Bridge" value="Bridge" local="大桥"/>
     <str id="Cliff" value="Cliff" local="悬崖"/>
     <str id="Forest" value="Forest" local="森林"/>
     <str id="Grove" value="Grove" local="小树林"/>
