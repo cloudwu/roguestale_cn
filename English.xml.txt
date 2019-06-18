@@ -4464,6 +4464,7 @@ ChatStrings."/gamepad" /gamepad
 ChatStrings."Type %s to set the number of search attempts (using values 1 through 6)." 输入 %s 来设置搜索尝试次数（从 1 到 6）。
 ChatStrings."Search attempts has been set to %d." 搜索尝试次数被设置为 %d 。
 ChatStrings."Your current score is %d." 你当前的分数为 %d 。
+ChatStrings."Turns elapsed: %d." 已过去 %d 回合。
 ChatStrings."Items are now sorted vertically." 物品现在以垂直方式排序。
 ChatStrings."Items are now sorted horizontally." 物品现在以水平方式排序。
 ChatStrings."Tutorial dog is ready to guide you once more." 界面狗准备好再引导你一次。

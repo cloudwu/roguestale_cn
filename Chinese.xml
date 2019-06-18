@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 2 (190614)" checksum="607f95269d112292304551fbcec87f1904737781">
+<strings version="Version 2.00 Beta 2 (190618)" checksum="8461ad91122b73242944e74cd1ad3a3491a2af03">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -4942,6 +4942,7 @@
     <str id="Type %s to set the number of search attempts (using values 1 through 6)." value="Type %s to set the number of search attempts (using values 1 through 6)." local="输入 %s 来设置搜索尝试次数（从 1 到 6）。"/>
     <str id="Search attempts has been set to %d." value="Search attempts has been set to %d." local="搜索尝试次数被设置为 %d 。"/>
     <str id="Your current score is %d." value="Your current score is %d." local="你当前的分数为 %d 。"/>
+    <str id="Turns elapsed: %d." value="Turns elapsed: %d." local="已过去 %d 回合。"/>
     <str id="Items are now sorted vertically." value="Items are now sorted vertically." local="物品现在以垂直方式排序。"/>
     <str id="Items are now sorted horizontally." value="Items are now sorted horizontally." local="物品现在以水平方式排序。"/>
     <str id="Tutorial dog is ready to guide you once more." value="Tutorial dog is ready to guide you once more." local="界面狗准备好再引导你一次。"/>

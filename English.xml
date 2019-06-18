@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 2 (190614)" checksum="d38278a6d5f664861647936491aea80e22c5ba47">
+<strings version="Version 2.00 Beta 2 (190618)" checksum="729b2d70f5482d933ca8800a2cde16087417bfea">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -4942,6 +4942,7 @@
     <str id="Type %s to set the number of search attempts (using values 1 through 6)." value="Type %s to set the number of search attempts (using values 1 through 6)."/>
     <str id="Search attempts has been set to %d." value="Search attempts has been set to %d."/>
     <str id="Your current score is %d." value="Your current score is %d."/>
+    <str id="Turns elapsed: %d." value="Turns elapsed: %d."/>
     <str id="Items are now sorted vertically." value="Items are now sorted vertically."/>
     <str id="Items are now sorted horizontally." value="Items are now sorted horizontally."/>
     <str id="Tutorial dog is ready to guide you once more." value="Tutorial dog is ready to guide you once more."/>
