@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 2 (190618)" checksum="8461ad91122b73242944e74cd1ad3a3491a2af03">
+<strings version="Version 2.00 Beta 2 (190618)" checksum="c7a45b8ee9bfe98816885683776808d6fc5efe6f">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -3201,15 +3201,15 @@
     <str id="Dark" value="Dark" local="幽暗"/>
     <str id="Flat" value="Flat" local="平坦"/>
     <str id="Great" value="Great" local="伟大"/>
-    <str id="Grey" value="Grey" local="黑色"/>
-    <str id="High" value="High" local="高耸"/>
+    <str id="Grey" value="Grey" local="灰色"/>
+    <str id="High" value="High" local="高大"/>
     <str id="Misty" value="Misty" local="薄雾"/>
     <str id="Narrow" value="Narrow" local="狭窄"/>
-    <str id="New" value="New" local="崭新"/>
+    <str id="New" value="New" local="新兴"/>
     <str id="Old" value="Old" local="古老"/>
     <str id="Rocky" value="Rocky" local="岩石"/>
     <str id="Steep" value="Steep" local="陡峭"/>
-    <str id="Stony" value="Stony" local="多石"/>
+    <str id="Stony" value="Stony" local="乱石"/>
     <str id="White" value="White" local="白色"/>
     <str id="Wide" value="Wide" local="宽广"/>
     <str id="----------" value="----------" local="——————————"/>
