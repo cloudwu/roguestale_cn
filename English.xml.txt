@@ -1226,8 +1226,8 @@ SpellLogs."%s has no effect on %s." %s对%s无效。
 SpellLogs."%s is destroyed by %s." %s被%s摧毁了。
 SpellLogs."You have gained %s." 你获得了%s。
 SpellLogs."%s has gained %s." %s获得了%s。
-SpellLogs."Your %s is refreshed." 你的%s被刷新了。
-SpellLogs."%s's %s has been refreshed." %s的%s被刷新了。
+SpellLogs."Your %s is refreshed." 你的%s重新恢复。
+SpellLogs."%s's %s has been refreshed." %s的%s重新恢复。
 SpellLogs."You are affected by %s." 你受到%s的影响。
 SpellLogs."%s is affected by %s." %s受到%s的影响。
 SpellLogs."%s appears out of thin air." %s凭空出现。

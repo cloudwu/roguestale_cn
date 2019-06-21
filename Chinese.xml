@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 2 (190618)" checksum="856798e6de07735932848f4798be4e7c7d9f1bf7">
+<strings version="Version 2.00 Beta 2 (190618)" checksum="a095e5d9c650aa5acdfca3570c82a0191ea962b0">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -1344,8 +1344,8 @@
     <str id="%s is destroyed by %s." value="%s is destroyed by %s." local="%s被%s摧毁了。"/>
     <str id="You have gained %s." value="You have gained %s." local="你获得了%s。"/>
     <str id="%s has gained %s." value="%s has gained %s." local="%s获得了%s。"/>
-    <str id="Your %s is refreshed." value="Your %s is refreshed." local="你的%s被刷新了。"/>
-    <str id="%s's %s has been refreshed." value="%s's %s has been refreshed." local="%s的%s被刷新了。"/>
+    <str id="Your %s is refreshed." value="Your %s is refreshed." local="你的%s重新恢复。"/>
+    <str id="%s's %s has been refreshed." value="%s's %s has been refreshed." local="%s的%s重新恢复。"/>
     <str id="You are affected by %s." value="You are affected by %s." local="你受到%s的影响。"/>
     <str id="%s is affected by %s." value="%s is affected by %s." local="%s受到%s的影响。"/>
     <str id="%s appears out of thin air." value="%s appears out of thin air." local="%s凭空出现。"/>
