@@ -2281,8 +2281,8 @@ TomeNames."Tome of Repelling Smite" 典籍：拒斥重击
 TomeNames."Tome of Ritual Sacrifice" 典籍：祭祀仪式
 TomeNames."Tome of Sacrificial Circle" 典籍：献祭之环
 TomeNames."Tome of Spectral Gateway" 典籍：鬼怪之门
-TomeDescs."BlessedTomeDesc" @(30)你鉴定过这本典籍，这是一本记载着 %s 法术的神圣典籍。
-TomeDescs."CursedTomeDesc" @(30)你鉴定过这本典籍，它被诅咒了，其中记载着 %s 法术。
+TomeDescs."BlessedTomeDesc" @(30)你鉴定过这本典籍，它被祝福过，上面记载着 %s 法术。
+TomeDescs."CursedTomeDesc" @(30)你鉴定过这本典籍，它被诅咒了，上面记载着 %s 法术。
 TomeDescs."IdentifiedTomeDesc" 你鉴定过这本典籍，它记载着 %s 法术。
 TomeDescs."UnidentifiedTomeDesc" 你知道这本典籍中记载着 %s 法术 ，但它尚未被鉴定。
 TomeDescs."CelestialTomeDesc" @(30)你在典籍上认出了一个天使系符记。不过你想可能还是应该先鉴定一下再读。
@@ -3560,7 +3560,7 @@ HeritageDescs."Epic Breed" @(26)汪汪在游戏开始时获得 +1 敏捷 +1 耐�
 HeritageDescs."Epic Breed".1 @(26)让汪汪杀死一个巨怪可以解锁这项遗产。
 HeritageDescs."Craftalicious" @(26)允许玩家在工匠行会内制造物品（并在拾取表中开启制造物）。
 HeritageDescs."Craftalicious".1 @(26)这个遗产可以通过解救鲁班大师并带他回城来解锁。
-HeritageDescs."Artisans' Guild now crafts blessed versions of the following items:%s" @(26)工匠行会现在可以制造下列物品的神圣版本：%s
+HeritageDescs."Artisans' Guild now crafts blessed versions of the following items:%s" @(26)工匠行会现在制造的下列物品会被祝福：%s
 HeritageDescs."Artisans' Guild now crafts blessed versions of the following items:%s".1 @(26)在单局游戏中制造出所有标记有星号的物品可以解锁这项遗产。
 HeritageDescs."Patron of Arts" @(26)制造出的物品现在自动附魔，附魔效果保证是最适合该物品的。
 HeritageDescs."Patron of Arts".1 @(26)在单局游戏中向工匠行会捐赠四个或更多的独特物品可以解锁这项遗产。

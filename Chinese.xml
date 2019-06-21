@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 2 (190618)" checksum="c7a45b8ee9bfe98816885683776808d6fc5efe6f">
+<strings version="Version 2.00 Beta 2 (190618)" checksum="718bae7d80003de6f36b0517722540cf51a0433b">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -2477,8 +2477,8 @@
     <str id="Tome of Spectral Gateway" value="Tome of Spectral Gateway" local="典籍：鬼怪之门"/>
   </TomeNames>
   <TomeDescs>
-    <str id="BlessedTomeDesc" value="You have identified that this tome is blessed and it contains the %s spell." local="你鉴定过这本典籍，这是一本记载&#10;着 %s 法术的神圣典籍。"/>
-    <str id="CursedTomeDesc" value="You have identified that this tome is cursed and it contains the %s spell." local="你鉴定过这本典籍，它被诅咒了，&#10;其中记载着 %s 法术。"/>
+    <str id="BlessedTomeDesc" value="You have identified that this tome is blessed and it contains the %s spell." local="你鉴定过这本典籍，它被祝福过，&#10;上面记载着 %s 法术。"/>
+    <str id="CursedTomeDesc" value="You have identified that this tome is cursed and it contains the %s spell." local="你鉴定过这本典籍，它被诅咒了，&#10;上面记载着 %s 法术。"/>
     <str id="IdentifiedTomeDesc" value="You have identified that this tome contains the %s spell." local="你鉴定过这本典籍，它记载着 %s 法术。"/>
     <str id="UnidentifiedTomeDesc" value="You know that this tome contains the %s spell but it's not fully identified yet." local="你知道这本典籍中记载着 %s 法术 ，但它尚未被鉴定。"/>
     <str id="CelestialTomeDesc" value="You recognize the celestial symbol on the tome. You may want to identify it before reading though." local="你在典籍上认出了一个天使系符记&#10;。不过你想可能还是应该先鉴定一&#10;下再读。"/>
@@ -3878,7 +3878,7 @@
     <str id="Craftalicious" value="Allows the player to craft items in the Artisans' Guild (and enables crafting items in the loot tables)." local="允许玩家在工匠行会内制造物&#10;品（并在拾取表中开启制造物&#10;）。">
       <str id="paragraph 1" value="This heritage can be unlocked by rescuing Artificer Leo Noerde and bringing him back to town." local="这个遗产可以通过解救鲁班大&#10;师并带他回城来解锁。"/>
     </str>
-    <str id="Artisans' Guild now crafts blessed versions of the following items:%s" value="Artisans' Guild now crafts blessed versions of the following items:%s" local="工匠行会现在可以制造下列物&#10;品的神圣版本：%s">
+    <str id="Artisans' Guild now crafts blessed versions of the following items:%s" value="Artisans' Guild now crafts blessed versions of the following items:%s" local="工匠行会现在制造的下列物品&#10;会被祝福：%s">
       <str id="paragraph 1" value="This heritage can be unlocked by crafting all of the items marked with an asterisk in a single game." local="在单局游戏中制造出所有标记&#10;有星号的物品可以解锁这项遗&#10;产。"/>
     </str>
     <str id="Patron of Arts" value="Crafted items are now enchanted and the enchant is guaranteed to be appropriate for the item as well as the player." local="制造出的物品现在自动附魔，&#10;附魔效果保证是最适合该物品&#10;的。">
