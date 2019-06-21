@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 2 (190618)" checksum="718bae7d80003de6f36b0517722540cf51a0433b">
+<strings version="Version 2.00 Beta 2 (190618)" checksum="856798e6de07735932848f4798be4e7c7d9f1bf7">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -1075,10 +1075,10 @@
     <str id="%s is poisoned." value="%s is poisoned." local="%s 中毒了。"/>
     <str id="You are diseased." value="You are diseased." local="你生病了。"/>
     <str id="%s is diseased." value="%s is diseased." local="%s 生病了。"/>
-    <str id="%s is wearing off." value="%s is wearing off." local="%s 发生了磨损。"/>
-    <str id="%s has worn off." value="%s has worn off." local="%s 已经磨损。"/>
-    <str id="%s's %s is wearing off." value="%s's %s is wearing off." local="%s 的 %s 发生磨损。"/>
-    <str id="%s's %s has worn off." value="%s's %s has worn off." local="%s 的 %s 已经磨损。"/>
+    <str id="%s is wearing off." value="%s is wearing off." local="%s正在消逝中。"/>
+    <str id="%s has worn off." value="%s has worn off." local="%s已经消逝。"/>
+    <str id="%s's %s is wearing off." value="%s's %s is wearing off." local="%s的%s正在消逝中。"/>
+    <str id="%s's %s has worn off." value="%s's %s has worn off." local="%s的%s已经消逝。"/>
     <str id="%s heals you." value="%s heals you." local="%s 治愈了你."/>
     <str id="You feel agonized." value="You feel agonized." local="你感到很痛苦。"/>
     <str id="You feel unnaturally hungry." value="You feel unnaturally hungry." local="你感到异乎寻常的饥饿。"/>

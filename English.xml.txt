@@ -986,10 +986,10 @@ EffectLogs."You are poisoned." 你中毒了。
 EffectLogs."%s is poisoned." %s 中毒了。
 EffectLogs."You are diseased." 你生病了。
 EffectLogs."%s is diseased." %s 生病了。
-EffectLogs."%s is wearing off." %s 发生了磨损。
-EffectLogs."%s has worn off." %s 已经磨损。
-EffectLogs."%s's %s is wearing off." %s 的 %s 发生磨损。
-EffectLogs."%s's %s has worn off." %s 的 %s 已经磨损。
+EffectLogs."%s is wearing off." %s正在消逝中。
+EffectLogs."%s has worn off." %s已经消逝。
+EffectLogs."%s's %s is wearing off." %s的%s正在消逝中。
+EffectLogs."%s's %s has worn off." %s的%s已经消逝。
 EffectLogs."%s heals you." %s 治愈了你.
 EffectLogs."You feel agonized." 你感到很痛苦。
 EffectLogs."You feel unnaturally hungry." 你感到异乎寻常的饥饿。
