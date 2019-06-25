@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 2 (190618)" checksum="729b2d70f5482d933ca8800a2cde16087417bfea">
+<strings version="Version 2.00 Beta 2 (190624)" checksum="987f5f00a439d9d8ba60e83429bba008823e9498">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -79,6 +79,7 @@
     <str id="Sort items vertically" value="Sort items vertically"/>
     <str id="Skip null log strings" value="Skip null log strings"/>
     <str id="Use 3 button mouse" value="Use 3 button mouse"/>
+    <str id="Faster animations" value="Faster animations"/>
   </Labels>
   <Buttons>
     <str id="Accept" value="Accept"/>

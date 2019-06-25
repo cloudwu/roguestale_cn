@@ -71,6 +71,7 @@ Labels."LOADING_SCREEN_DESC" 正在给恶魔注入鲜血，请稍候……
 Labels."Sort items vertically" 纵向排序物品
 Labels."Skip null log strings" 忽略空的日志字符串
 Labels."Use 3 button mouse" 使用三键鼠标
+Labels."Faster animations" 加快动画
 Buttons."Accept" 接受
 Buttons."Cancel" 取消
 Buttons."Return" 返回
