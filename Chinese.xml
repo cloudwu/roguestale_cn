@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 2 (190624)" checksum="54cd64e9572ad1a671cff47f196074a11e3adb22">
+<strings version="Version 2.00 Beta 2 (190624)" checksum="4f8820ef35ae614600f8e6bdcd526517b08a63d4">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -983,7 +983,7 @@
     <str id="Greedy" value="You feel greedy." local="你很贪婪。"/>
     <str id="Hastened" value="You feel hastened." local="你觉得被加速了。"/>
     <str id="Insightful" value="You feel insightful." local="你顿悟了。"/>
-    <str id="Invisible" value="You turn invisible." local="你隐身呢。"/>
+    <str id="Invisible" value="You turn invisible." local="你隐身了。"/>
     <str id="Levitated" value="You start to levitate." local="你漂浮起来。"/>
     <str id="Lustful" value="You feel lustful." local="你很淫荡。"/>
     <str id="On fire" value="You are set on fire." local="你在燃烧。"/>
@@ -2989,7 +2989,7 @@
     <str id="lever" value="lever" local="控制杆"/>
     <str id="pillar" value="pillar" local="柱子"/>
     <str id="mushroom patch" value="mushroom patch" local="蘑菇碎片"/>
-    <str id="sign" value="sign" local="记号"/>
+    <str id="sign" value="sign" local="指示牌"/>
     <str id="dark pit" value="dark pit" local="暗坑"/>
     <str id="barrel" value="barrel" local="桶"/>
     <str id="cask" value="cask" local="木桶"/>
@@ -3072,7 +3072,7 @@
     <str id="You push %s." value="You push %s." local="你推动%s。"/>
     <str id="You fail to push %s." value="You fail to push %s." local="你没能推动%s。"/>
     <str id="You crank %s." value="You crank %s." local="你启动%s。"/>
-    <str id="%s says: %s" value="%s says: %s" local="%s说到：%s"/>
+    <str id="%s says: %s" value="%s says: %s" local="%s写着：%s"/>
     <str id="%s is blank." value="%s is blank." local="%s是空的。"/>
     <str id="You disarm %s." value="You disarm %s." local="你解除了%s。"/>
     <str id="You disarm %s into a trap kit." value="You disarm %s into a trap kit." local="你将%s解除得到一个陷阱包。"/>
