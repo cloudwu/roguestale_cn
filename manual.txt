@@ -347,21 +347,10 @@ Any item in the game may be blessed. Blessed items can have secret features, but
 Traps & Triggers
 陷阱和机关
 
-Trap damage scales with player level and the base damage is
-either D3 or D6. Traps that use D3 as base damage can cause up
-to 10 points of damage (3D3 + 1) at level 20 and traps that use D6
-as base damage can cause up to 21 points of damage (3D6 + 3)
-at level 20. Note that damage caused by traps cannot be resisted
-in most cases (magic trap is the only exception as long as its
-damage type isn't magic).
+Trap damage scales with player level and the base damage is either D3 or D6. Traps that use D3 as base damage can cause up to 10 points of damage (3D3 + 1) at level 20 and traps that use D6 as base damage can cause up to 21 points of damage (3D6 + 3) at level 20. Note that damage caused by traps cannot be resisted in most cases (magic trap is the only exception as long as its damage type isn't magic).
 陷阱伤害根据玩家等级弹性调整，基础伤害为 D3 或 D6 。使用 D3 作为基础伤害的陷阱在 20 级时会造成最高 10 点伤害（3D3 + 1）；使用 D6 作为基础伤害的陷阱在 20 级时会造成最高 21 点伤害（3D6 + 3）。注意，在大多数情况下陷阱造成的伤害无法抵抗（魔法陷阱在它的伤害类型不是魔法类时是唯一的例外）。
  
-There are four types of traps, direct damage, snares, spawners and
-triggers. Direct damage traps and snares cause damage when you
-step on them and if you critically fail to rest or move out, snares
-hold you in place unless you manage to free yourself from the trap,
-spawners may spawn creatures and triggers trigger something.
-Most traps can be avoided by levitating above them.
+There are four types of traps, direct damage, snares, spawners and triggers. Direct damage traps and snares cause damage when you step on them and if you critically fail to rest or move out, snares hold you in place unless you manage to free yourself from the trap, spawners may spawn creatures and triggers trigger something. Most traps can be avoided by levitating above them.
 有四种类型的陷阱：伤害，捕获，孵化，机关。伤害类和捕获类陷阱在你踏上它们时或是在上面休息严重失败或是移开时造成伤害。捕获类陷阱还会在你成功摆脱陷阱前将你留在原地。孵化类陷阱有可能孵化出生物，机关类陷阱会触发一些东西。所有的陷阱都可以通过漂浮来回避。
 
 Bear Trap
@@ -1602,6 +1591,188 @@ not already affected by it.
 Zombie Dog
 僵尸之狗
 
-Woof comes back to life at the start of a new dungeon if it happens
-to be dead (reset dungeon in town).
+Woof comes back to life at the start of a new dungeon if it happens to be dead (reset dungeon in town).
 如果汪汪死了，那么在每个新的地牢开始时会复活（在城镇中重置）。
+
+Charms
+饰品
+
+Charms are items that affect you in some way while they are in your inventory. Charms cannot be blessed or cursed. Multiple copies of the same charm provide no additional benefits (they don't stack).
+饰品是一种放在装备栏中就能对你造成某种影响的物品。饰品无法被祝福也不能被诅咒。多个相同的饰品不会提供额外的收益（它们无法叠加）。
+
+Lucky Number Seven
+在你对敌人造成物理伤害的同时撒出金币。注意，该饰品有可能在使用中损毁。
+
+Fluffy Rabbit's Foot
+毛毛兔的脚
+
+Grants immunity against stun effects.
+获得眩晕效果的免疫力。
+
+Fragment of Volcanus
+火山碎片
+
+Doubles the effect of fire damage enchants on weapons.
+加倍附魔在武器上的火焰伤害效果。
+
+Fragment of Aquarius
+宝瓶碎片
+
+Doubles the effect of frost damage enchants on weapons.
+加倍附魔在武器上的冰霜伤害效果。
+
+Fragment of Aetherus
+以太碎片
+
+Doubles the effect of shock damage enchants on weapons.
+加倍附魔在武器上的震击伤害效果。
+
+Fragment of Terranus
+地核碎片
+
+Increases minimum and maximum block modifier by 1.
+增加一点最小和最大格挡修正。
+
+Eye of the Beholder
+旁观之眼
+
+You appear to be twice as far than you actually are (at least when calculating range modifiers).
+你看起来在你实际所在之处的两倍远（至少在计算远程修正时）。
+
+Crystal Tear of a Maiden
+少女之泪
+
+Increases max cast modifier of Celestial spells by 1.
+将天使系法术的施法修正增加一点。
+
+Misplaced Dragon Egg
+错位龙蛋
+
+Increases max cast modifier of Draconic spells by 1.
+将龙系法术的施法修正增加一点。
+
+Pulsating Daemon's Heart
+恶魔之心
+
+Increases max cast modifier of Infernal spells by 1.
+将地狱系法术的施法修正增加一点。
+
+Book of Fading Memories
+遗忘之书
+
+Every turn spent resting with this book makes you forget a random knowledge.
+带着这本书每休息一个回合就会随机忘记一个知识。
+
+Manuscript of Knowledge
+知识原稿
+
+All items are automatically identified when they are picked up.
+所有的物品在拾起时就会被自动鉴定。
+
+High Capacity Quiver
+高容箭囊
+
+Doubles the maximum stack size of bolts and arrows.
+把箭囊的最大容量翻倍。
+
+Third Leg of the Imp
+小恶魔的第三条腿
+
+Use this demonic appendage with a blessed ring to permanently bind the ring's power on it.
+一个被祝福的戒指和它恶魔附体，可以永远的把该戒指的力量绑定在其上。
+
+Stone of Arcane Power
+奥术之石
+
+Reduces the cooldown of Arcane spells by 50%.
+将奥术的冷却时间减少一半。
+
+Star Spangled Cap
+闪耀之帽
+
+Sadly, all this cap does is that it enrages demonrats when they see a person carrying one.
+可悲的是，这顶帽子唯一能做的就是让戴着它的人激怒魔鼠。
+
+Glove of Liberalism
+自由手套
+
+Increases physical damage by 50% against daemons.
+针对恶魔增加 50% 物理伤害。
+
+Wristband of Liberalism
+自由护腕
+
+Daemons must pass a mental check in order to attack you.
+恶魔每次攻击你前必须通过一次精神检定。
+
+Black Meistercard
+黑色卡片
+
+You can enchant items for free, at least until credits run out.
+你可以免费附魔物品，直到你的信用耗尽。
+
+Deadly Ghoul Tooth
+食尸鬼之牙
+
+You can say 'Molar Varghulis' for dramatic effect when you throw this at your enemy.
+当你把这个扔向敌人的同时说出“凡人皆有一死”会有奇妙的效果。
+
+Mad Torque Slingshot
+狂力弹弓
+
+Increases the maximum range of thrown rocks by 60% and converts their damage type to magical.
+将投掷岩石的最大范围提升 60% ，并将伤害转换为魔法伤害。
+
+Duelist's Wristbow
+死士袖箭
+
+Shoots a bolt back at the attacker when you parry an attack.
+每次你招架一次攻击时，就向攻击者射出一支小箭。
+
+Uberlyft's Lost Shoe
+优步遗失的鞋
+
+Travel button works in town now and it takes you back to where you left.
+旅行按钮现在在城里也可以用了，它能把你带回你离开的地方。
+
+Creepy Stone Face
+恐怖石像
+
+Allows you to see health bars on all visible creatures.
+允许你看到所有可见生物的生命条。
+
+Golden Chastity Key
+金色贞洁钥匙
+
+When you pick a locked chest, a critical success adds blessed loot in the chest.
+当你去开一个锁上的箱子时，一次成功暴击会增加被祝福的拾取品。
+
+Loose Weapon Chain
+宽松的武器链
+
+Grants immunity against disarm effects.
+获得针对缴械效果的免疫力。
+
+Time Dilation Device
+时间膨胀装置
+
+You can use this earring to make the game consider all turns as either even or odd.
+你可以用这个耳环把游戏的所有回合都视为奇数或偶数。
+
+Fishing Hook and Line
+钓鱼套件
+
+Water chasms can now be used to catch fish.
+水峡谷现在可以用来钓鱼。
+
+Fairy Jizzed Bull Horn
+仙女摧残过的牛角
+
+Allows apprentice wizards to learn and cast Bestial spells (learning also requires that you levitate).
+允许巫师学徒学习和施放兽性法术（学习时需要浮空）。
+
+Engraved Pyramidion
+雕花金字塔
+
+Allows apprentice wizards to learn and cast Abyssal spells (learning also requires black soul gems).
+允许巫师学徒学习和施放深渊法术（学习时需要有黑色魂晶）。
