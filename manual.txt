@@ -1,0 +1,1607 @@
+Basics
+基础
+
+The 2D6 System
+2D6 系统
+
+The game uses a rule system where all actions and their results are solved by rolling two six-sided dice (2D6) and comparing the result against a target difficulty. The result of the roll is often modified bybonus or penalty modifiers which are simply added to the roll beforecomparing the final result against the target difficulty.
+这个游戏使用了一个叫做 2D6 的规则系统。游戏里所有的行动和造成的结果都通过投掷两个六面骰来决定。在和目标难度级别做比较前，扔出的数字通常还会做一次增益或惩罚修正，该修正就是简单的加在扔出的数字上。
+
+If the final modified result equals or exceeds the target difficulty, the action succeeds. If the result is lower than the target difficulty, the action fails. If the result of both dice are 1's, the action critically fails even if the modified result would otherwise succeed. If the result from both dice are 6's and the action is capable of succeeding critically, the action succeeds even if the modified result would otherwise fail.
+如果最终修正值大于等于目标难度级，行动成功。如果低于难度级，行动失败。如果骰子扔出两个 1 ，行动被直接视为致命失败而无视修正值。如果骰子扔出两个 6 ，行动则直接判定为暴击而不需要加上修正值和难度级做对比。
+
+Ability Modifiers
+属性修正
+
+Ability modifiers are applied to ability checks when a creature attempts to do something related to that ability. Ability modifiers are also used to modify damage rolls and various other instances andevents that may or may not be directly related to the creature. A positive modifier is called a bonus, and a negative modifier iscalled a penalty.
+属性修正在生物依靠属性去做点什么事情的时候起效果。属性修正还用于修正伤害骰以及一些直接或间接针对生物的事件。正的修正被称为增益，负的修正被称为惩罚。
+
+Human ability modifiers range from -5 to +5 on a linear scale where a score of 2 grants -5 modifier, score of 7 grants +0 modifier, and a score of 12 grants +5 modifier. Abilities may exceed 12 and modifiers can go beyond +5, but the combined results after other bonuses and penalties are capped to +5 before they are applied toactions (except when calculating melee or ranged damage where the modifier can exceed 5 in some cases such as aimed shot and crushing blow).
+人类的属性修正范围从 -5 到 +5 间线性变化，2 点时修正为 -5 ，7 点时修正为 0 ，12 点时修正为 +5 。属性点可以超过 12 点，此时修正值可以超过 +5 ，但和其它的增益或惩罚合并后，最终的结果会截取到 +5 再作用于行动（有一些例外：在计算近程和远程伤害时，有些情况例如瞄准射击和致命打击，可以超过 5 )。
+
+Other races have different base values and their ability modifiers may range beyond -5 and +5. Orcs, for example, have more strength on average than humans, and their strength modifier can range from -4 and +6. Needless to say, large monsters like ogres for example, will tear your average adventurer to pieces.
+其他种族有一些不同的属性基础值，他们的属性修正范围可能超过 -5 到 +5 。比如兽人比人类的平均水平要强壮一些，他们的力量修正范围就是 -4 到 +6 的。更不用说，兽人怪物可以把你一般的冒险角色轻松撕成碎片。
+
+Ability Checks
+属性检定
+
+Every action requires an ability check of some sort. Ability checks receive a modifier to the check from one of the abilities. The difficulty of an ability check varies depending on the situation. The default difficulty level for an ability check is 7, which means that the check is succesful if the sum of a 2D6 roll and any applicable modifiers equals or exceeds 7.
+每个行动都需要做一种属性检定。属性检定的难度视情况而变化。默认的属性检定难度级别是 7 ，这意味着当 2D6 投出的数字和加上所有修正后结果等于或超过 7 就视为成功。
+
+The Abilities
+属性点
+
+Each creature has four abilities that affects its actions. These abilities are Strength, Agility, Stamina and Charisma. 
+所有的生物都由四个属性来影响行动。这四个属性分别是力量、敏捷、耐力和魅力。
+
+Strength (STR)
+力量
+
+Strength measures a creature's physical power. Strength modifier applies to melee to-hit rolls, melee damage rolls, thrown weapon damage rolls, block modifier, break checks, snare checks, climb checks, and intimidation checks.
+力量影响着生物的物理能力。力量修正作用于近战命中骰、近战伤害骰，投掷武器的伤害骰、格档骰、打断检定、陷阱检定，攀爬检定、恐吓鉴定。
+
+Agility (AGI)
+敏捷
+
+Agility measures a creature's reflexes and balance. Agility modifier applies to ranged to-hit rolls, ranged damage rolls, thrown weapon to-hit rolls, melee to-hit and damage rolls with certain weapons, dodge modifier, parry modifier, disarm trap checks, pick lock checks, sneak checks, and jump checks.
+敏捷影响着生物的反应和平衡。敏捷修正作用于远程命中骰、远程伤害骰、投掷武器的命中骰、特定武器的近战命中及伤害骰、闪避修正、招架修正、解除陷阱检定、开锁检定、潜行检定以及跳跃检定。
+
+Stamina (STA)
+耐力
+
+Stamina measures a creature's physical endurance. Stamina modifier applies to spell to-hit rolls with destructive and or offensive spells, mental checks, search checks, health points, energy points, as well as health and energy regeneration checks.
+耐力影响着生物的物理耐久性。耐力修正作用于毁灭性或进攻性的法术命中骰、精神检定、搜索检定、HP、精力点、以及 HP 和精力的回复检定。
+
+Charisma (CHA)
+魅力
+
+Charisma measures a creature's force of personality. Charisma modifier applies to spell to-hit rolls with restorative and or defensive spells, persuasion checks, merchant prices, and may open special conversation options with NPC's.
+魅力影响着生物的人格力量。魅力修正作用于恢复或防御性的法术命中骰、说服检定、商品价格，还有机会开启和 NPC 的特殊交互菜单。
+
+The Rule of Three
+差异三规则
+
+Before reaching level 20 a human's lowest and highest ability may not differ by more than three. The last ability point gained at level 20 may be used without this limitation.
+在达到 20 级前，人类的最高和最低属性点差异不可以超过 3 。在 20 级时可获得最后一点属性点，该点属性不受此限制。
+
+As always, female characters cheat and their abilities can differ by 4 if the lowest ability is strength and the highest ability is charisma and the other abilities are higher than strength. They can't use the level 20 ability to make the difference to be 5 though.
+对于女性角色有所优待，她们的属性点在最低的属性是力量，其它属性点都比力量高，且最高属性点是魅力时，差异可以是 4 。不过最后一点属性点不能把差异扩大到 5 。
+
+Health
+血量
+
+Health measures how many points of damage a creature may take before it is killed. A creature's health value equals to its base stamina value plus its base stamina bonus modifier multiplied by a health multiplier plus the difference of stamina bonus modifier and base stamina bonus modifier. The health multiplier is based on the creature's level and it increases by one for every third level starting from the first (1st, 4th, 7th, etc, or, 1, 2, 3, etc, respectively). 
+血量决定了生物在被杀死前可以承受多少点伤害。生物的血量 等于它的基础耐力值加上它的基础耐力修正乘以血量 倍率再加上耐力最终修正较基础耐力修正超出的部分。血量倍率基于生物等级，从一级开始每三级加一（1 级、4 级、7级等对应着 1 倍、2 倍、3 倍，依此类推）。
+
+For example, a 4th level creature with a base stamina value of 8 and an enchant that increases stamina by 1, has 11 health (8 plus two times the base stamina bonus modifier of 1, plus 1 from the enchant that raises the stamina modifier to 2). 
+例如，一个 4 级生物，基础耐力为 8，有额外的一点耐力强化，就有 11 点的血量（8 加上 2 倍的基础耐力修正 1 ，再加上 1 点强化而来的耐力修正，这 1 点正是最终耐力修正 2 和基础耐力修正 1 的差值）。
+
+There are several ways to regain health, including but not limited to spells, talents, special abilites, and resting. The most affordable way to regain health is to eat and drink until satiated, and rest. In order to regain health by resting, a creature must have one or both of hunger and thirst states as satiated, while the other is either not hungry, or not thirsty, and then rest. The following formula is used to determine whether a creature gains health when resting and the criteria above is met:
+有很多方法来回血，方法不限于法术、天赋、特别技能，以及休息。最廉价的回血方法是先吃饱喝足，然后休息。为了在休息中回血，生物先要确保饥渴两状态中至少有一项是满足，而另一项不能是饥饿或干渴。然后每个休息回合用下面的公式来判定该回合是否可以回血：
+
+2D6 + Stamina Modifier >= 12 (or 10 if both satiated)
+2D6 + 耐力修正 >= 12 （如果吃饱喝足两项满足则为 10）
+
+Energy
+精力
+
+Energy measures how many special actions a creature may take before requiring rest. A creature's energy value equals to its base stamina bonus modifier plus 3. 
+精力决定了生物在休息前可以发动多少次特殊行动。生物的精力点为它的基础耐力修正加 3 。
+
+When a creature rests, or moves, there is a chance that it regains energy using the following formula: 
+当生物休息或移动时，都会用下列公式检定而获得一次精力回复的机会：
+
+2D6 + Stamina Modifier >= 7 (or 10 when moving)
+2D6 + 耐力修正 >=7 （移动时为 10 ）
+
+Resistances
+抗性
+
+Resistances offer direct damage reduction against direct damage, but they do not help against effects that have already taken place. For example, if a creature is diseased in some way, the only ways to prevent its effects is to cure the disease, or to become immune to disease effects. 
+抗性在承受直接伤害时可获得直接伤害减免，但不能帮助抵抗以受到的效果影响。例如，如果生物被疾病影响，那么只能通过治疗疾病来消除影响或是获得疾病免疫效果。
+
+Resistances only offer protection against the following damage types: Physical, Disease, Poison, Fire, Frost, and Shock. Some damage types, such as magical damage and damage caused by traps, cannot be resisted in any way.
+抗性仅针对下列伤害类型：物理、疾病、毒药、火焰、冰霜、震击。对于魔法伤害和陷阱造成的伤害无法以任何方式抵抗。
+
+Immunities
+免疫
+
+Immunities offer total protection against secondary effects, but they no not help against direct damage. For example, if a creature is immune to fire effects and is hit by a fire spell that would normally set it on fire, the creature suffers whatever damage the spell causes, but isn't set on fire.
+免疫可以避免次生伤害，但对直接伤害不起作用。例如，如果生物对火焰效果免疫，那么他在被火焰法术击中后不会燃烧，但依旧要承受火焰法术造成的伤害。
+
+Vulnerabilities
+弱点
+
+Being vulnerable to a certain damage type means that any damage caused by that damage type causes double damage. Vulnerable creatures are always affected by the secondary damage effects - fire damage sets you on fire, poison damage applies a poison effect etc. Vulnerabilities of the same type do not stack.
+针对特定伤害类型的弱点意思是该种伤害会导致双倍伤害值。生物有弱点的话就一定会中次生伤害效果 —— 火焰或导致燃烧，毒伤或导致中毒，等等。同种弱点并不叠加。
+
+Damage Auras
+光环伤害
+
+Creatures can have auras that cause damage to all adjacent creatures at the end of turn. Alternatively auras can heal adjacent creatures if both source and target creatures have the same aura. The base damage and healing caused by an aura is D3 + Stamina Modifier. 
+有光环的生物会在每回合结束时对所有邻近的生物都造成光环伤害。对于有相同光环的生物邻接在一起时，光环会给生物回血。光环造成的伤害值或回复量为 D3 + 耐力修正。
+
+If a creature with an aura is a monster, the radius of the aura is 2 instead of 1 and the base damage and healing is multiplied by 1.5 if the target creature is adjacent to the monster. 
+如果是巨怪带光环的话，气场半径从 1 增加到 2 ，伤害或回复值乘 1.5 倍。
+
+Creatures with an aura are completely immune to damage and secondary effects of the damage type of the aura (e.g. fire, frost, shock, etc), and auras do not trigger secondary effects unless the target is vulnerable to the damage type of the aura. 
+带光环的生物（例如，火焰、冰霜、震击，等等）将完全免疫和光环相同类型的伤害以及其次生效果。在目标没有对应类型的弱点时，光环不引发次生效果。
+
+Note that auras hit automatically and do not cause critical hits, and the resistance value used is the average of the body and head slots combined and rounded down.
+注意光环会自动攻击，并不会导致爆击。针对它的抗性取身体和头部装备上抗性和的平均值，并向下取整。
+
+Hunger & Thirst
+饥渴度
+
+Each creature is affected by hunger and thirst at some point. Food and water is vital for survival and lack thereof may affect the behaviour of certain creatures. 
+每个生物都会被饥饿和干渴影响。食物和水是生存的必需品，如果缺少它们将影响特定生物的行为。
+
+Hunger and thirst has seven different states that represent the creature's current hunger and thirst conditions. Hunger states are referred to as the hunger track, and thirst states are referred to as the thirst track. 
+饥饿和干渴有七种不同的程度表示生物的饥渴度。饥饿和干渴程度是分别计算的。
+
+Hunger track: Famished, Starving, Hungry, Not Hungry, Satiated, Bloated, Choking. 
+饥饿条：极饿，很饿，饿了，不饿，满足，过饱，吃撑。
+
+Thirst track: Parched, Dehydrated, Thirsty, Not Thirsty, Satiated, Hydrated, Drenched. 
+干渴条：极渴，很渴，渴了，不渴，满足，喝多，喝撑。
+
+Each hunger and thirst level counts as 360 turns. Spells and effects that directly set these levels, will set the internal counter at 180 turns remaining. Spells and effects that adjust the levels up or down, will set the internal counter at 90 or 270 turns remaining, depending on the direction of the adjustment. Eating and drinking adjusts the internal counters directly by adding to or deducting from them. 
+每级饥渴条都有内部 360 回合倒数。直接设置等级的法术和效果将会把内部回合数设为 180 。向上或向下调整级别的法术和效果将会把内部回合数分别设为 90 或 270 。吃喝食物则直接调整内部回合数。
+
+Any effect that would bring either of the states below or above their respective tracks (less than 1 turn remaining, or more than 2520 turns remaining), will cause 1 point of damage per turn. 
+任何一个将状态条向下或向上超出的效果（少于 1 会合或超过 2520 回合）都会造成每回合一点的伤害。
+
+Any creature that is either Famished or Parched, suffers a -2 penalty modifier to all ability based checks and rolls, and may not regenerate energy. Any creature that is either Starving, Dehydrated, Choking, or Drenched, suffers a -1 penalty modifier to all ability based checks and rolls. 
+对于处于极饿或极渴两状态其一的生物，在所有基于属性的检定或投骰中都要承受 -2 的惩罚，并且无法回复精力。对于处于很饿，很渴，吃撑，喝撑等任一状态的，所有检定和投骰中都承受 -1 的惩罚。
+
+Hunger can be managed by eating, and the number of turns replenished depends on the type and quality of the food eaten. Thirst can be managed by drinking, and the number of turns replenished depends on the type and quality of the beverage. Thirst can also be managed by eating certain food types that contain a lot of water. 
+吃东西可以维持饥饿条，回复的回合数取决于事物的类型和质量。干渴条可以用喝水来维持，回复的回合数取决于饮料的类型和质量。干渴条还可以由含水的食物来回复。
+
+Note that each track is normally capped at satiated and it is not possible to eat or drink too much without being affected by a curse that forces to do so.
+注意，如果不是被诅咒强迫进食，吃喝都会停在满足状态而不会过量。
+
+Turn Sequence
+回合次序
+
+All creatures in the current dungeon level act in a predefined order that is determined when the player enters the level. Each creature may usually perform one action in a turn, such as move, shoot, cast spell, use talent, and so on. 
+在同一层的所有生物在玩家进入该层时就在预定次序排好了。每个回合一个生物通常只能做一个行动，移动、射击、释放法术、使用天赋等等。
+
+Creatures that are summoned by other creatures will take their action right after the summoning creature. Creatures summoned by the environment will act after all existing creatures have acted. 
+由生物召唤出来的生物会在召唤者之后行动。由环境召唤出来的生物在所有已存在的生物之后行动。
+
+Speed Effects
+速度效应
+
+Some creatures may be naturally fast or slow, or some magic effect may be in place that makes them fast or slow. Regardless of the source, creatures with one or more haste effects have a chance to act twice per turn and creatures with slow effects have a chance to miss their turn entirely. 
+一些生物天生加速或迟缓，还有一些魔法效果可以加速或减慢速度。无论来源如何，带有一个或多个加速效果的生物在同一回合有机会行动两次，而迟缓效果则有可能导致它整个回合无法行动。
+
+After taking the normal action for the turn, creatures with one or more haste effects affecting them roll two dice for each effect and if the result of any of the checks is equal to or more than 8, they may act twice that turn, and respectively, creatures with one or more slow effects roll two dice for each effect and determine whether they may take any action at all using the following formula:
+和每回合的正常行动不同，带有一个或多个加速效果的生物，每个加速效果扔两个六面骰，只要有一次投出 8 或以上则在该回合可以行动两次。此外，带有一个或多个迟缓效果的生物，则需要为每个迟缓效果扔两个六面骰，并以下面的公式检定是否会失去整个回合：
+
+2D6 + Stamina Modifier >= 7 + Effect's Power Level Modifier 
+2D6 + 耐力修正 >= 7 + 效应能级修正
+
+Regardless of the result of the checks, fast creatures will count each action as one plus the number of haste effects for the purposes of hunger and thirst tracking (e.g a character equipped with Ring of Haste would use (1 + 1) x 2 = 4 food and water per each action, or 8 per turn if the haste effect takes place). 
+对于加速生物，无论是否通过鉴定，它的饥渴进度条在每个行动上都会消耗 1 加上加速效果的数量倍食物。（例如，带有加速戒指的角色每个行动讲消耗 (1+1) x 2 = 4 个食物和水，当加速效果起作用时一个回合消耗 8 个）。
+
+Creatures may be affected by multiple speed effects at the same time. The order in which the effects are handled makes it possible for a slow effect to cancel the normal action thus canceling all haste effects. For example, if a creature is affected by two haste effects and one slow effect, the creature may be able to act once, twice, or not at all.
+生物可以同时受多个速度效果影响。这些效果的处理会使得迟缓效果可能取消整个回合的行动而抵消掉所有的加速效果。例如，一个生物被两个加速效果和一个迟缓效果影响时，该生物有可能在同个回合行动行动一次或两次，也可能什么都做不了。
+
+Combat
+战斗
+
+To-Hit Check
+命中检定
+
+Whenever a creature attempts to hit another creature with a melee weapon, ranged weapon, or a spell, a successful to-hit check is required. To-hit check uses the following formulas to determine success: 
+当一个生物攻击另一个生物时，无论是近战还是远程还是法术，都需要做一次命中检定。命中检定用下列公式来判定是否成功：
+
+Melee to-hit check: 2D6 + Offensive Modifiers >= 7 + Defensive Modifiers 
+近战命中检定：2D6 + 攻击修正 >= 7 + 防御修正
+
+Ranged to-hit check: 2D6 + Offensive Modifiers >= 7 + Range Modifier 
+远程命中检定：2D6 + 攻击修正 >= 7 + 距离修正
+
+Spell to-hit check: 2D6 + Offensive Modifiers >= 7 + Range Modifier 
+法术命中检定：2D6 + 攻击修正 >= 7 + 距离修正
+
+Melee attacks made against incapacitated creatures hit automatically and have increased critical hit chance (D6 + Critical Hit Modifier >= 6). A creature is incapacitated if it is asleep, paralysed, shocked or stunned. 
+对无抵抗能力的生物发起近战攻击将自动命中，且爆击率上升（D6 + 暴击修正 >= 6 ）。生物在睡眠、麻痹、震击、眩晕时失去抵抗能力。
+
+Melee attacks made against invisible creatures use 12 as the base difficulty instead of 7. Melee attacks made by invisible creatures cannot be blocked, dodged or parried.
+针对隐形生物的近战攻击，基础难度从 7 上调到 12 。隐身状态的生物发起的近战攻击无法被格档、闪避、招架。
+
+To-Hit Modifiers
+命中修正
+
+Offensive modifiers usually equals to the attacker's ability modifier that matches the weapon used. The modifier can be any of the ability modifiers, but usually melee weapons use strength modifier, ranged weapons use agility modifier, and spells use either stamina or charisma modifier. 
+攻击修正通常等于武器匹配的属性修正。该修正可能对应任何一种属性修正。通常来说，近战武器使用力量修正，远程武器使用敏捷修正、法术使用耐力修正或魅力修正。
+
+Defensive modifiers usually include dodge modifier and depending on the equipped weapons, may also include either block or parry modifier. 
+防御修正包括闪避修正，以及在装备了对应武器后，可能触发格档或招架修正中的一种。
+
+Untalented attacks with off-hand melee weapons receive a -2 to-hit modifier (see Dual Wield). 
+在没有天赋的情况下，副手近战武器攻击会加上 -2 的命中修正（参见双持）。
+
+Dodge Modifier
+闪避修正
+
+Any creature that is in total control of his or her own actions can dodge an attack once per turn. Dodge modifier equals to the creature's agility bonus modifier, or zero, but it may be capped to the Max Dodge Modifier as listed on helmets and armour.
+任何可以完全控制自己行动的生物都可能在同一回合闪避一次攻击。闪避修正取生物的敏捷修正，最低为零，最高由护甲和头盔上列出的最大闪避修正值截断。
+
+Block Modifier
+格档修正
+
+Any creature that is in total control of his or her own actions can block an attack using a shield once per turn. Block modifier equals to the creature's strength bonus modifier, or zero, but it may be capped to the Max Block Modifier as listed on shields.
+任何可以完全控制自己行动的生物都可能在同一回合使用盾牌格档一次攻击。格档修正取生物的力量修正，最低为零，最高由盾牌上列出的最大格档修正值截断。
+
+Parry Modifier
+招架修正
+
+Any creature that is in total control of his or her own actions can parry an attack once per turn while using a small off-hand weapon or a medium weapon two-handedly. Parry modifier equals to one half of the the creature's agility bonus modifier rounded up, but it may be capped to the Max Parry Modifier as listed on weapons.
+任何可以完全控制自己行动的生物都可能在同一回合使用小型副手武器或双手拿一中型武器来招架一次攻击。招架修正取一半的敏捷修正并向上取整。最高被武器上列出的最大招架修正值截断。
+
+Range Modifier
+距离修正
+
+Range modifier equals to the number resulting from dividing the range by two and rounding down. For example, if the target is three squares to the right and four squares up, the range before the division is sqrt(3^2 + 4^2), or 5, and the resulting modifier is 2. 
+距离修正等于距离除二并向下取整。例如，如果目标在右侧三格、向上四格处，距离为 sqrt(3^2 + 4^2) ，也就是 5 ，最终的距离修正是 2 。
+
+Deflect Modifier
+偏斜修正
+
+Deflect modifier equals to the minimum block modifier of the shield worn by the target creature. This modifier is added to the range modifier before applying the effects of the attacker's talents and equipment.
+偏斜修正等于目标生物装备的盾牌上的最小格档修正。该值在计算攻击者的天赋和装备效果前加在距离修正上。
+
+Successful dodges, blocks and parries, are determined from the to-hit dice roll and as long as the roll does not match with the exact numbers the defensive modifiers are indexed to, the defensive modifiers apply to any subsequent rolls to hit. 
+是否发生闪避，格档或招架由命中骰来决定，只要没有正好投出该类防御修正指定的数值，那么防御修正就还可以用于后续的命中检定。
+
+For example, a creature with no bonus modifiers attempts to hit another creature that has a +1 agility and +1 strength modifier and carries a shield. The attacking creature needs to roll 9 in order to hit because the defending creature has not dodged or blocked this turn. If the attacking creature rolls 8 or 7, the defending creature blocks or dodges, and the defending creature loses that defense for the remainder of the turn. Let's assume the attacker rolled 8 and the defender loses the block bonus, the next attacker (with no bonus modifiers) would require 8 to hit because the defender can only dodge. 
+例如，一个生物在没有任何命中修正时想攻击另一个有 +1 敏捷 +1 力量修正且带盾的生物。攻击方需要扔出 9 来击中，因为防御方这个回合还没有闪避或格档。如果攻击方投出了 8 或 7 ，防御方会格档或闪避掉攻击，并且在该回合中余下的过程失去该形式的防御。假设这个攻击者投出了 8 ，这样防御者就失去了格档机会；下一个攻击者（不带增益修正）就需要投出 8 来命中，此刻防御者只能闪避。
+
+The defensive modifier indexes move up and down the roll depending on the attacker's bonus modifier, lowering the chance that dodge, parry or block occurs. 
+防御修正对应的骰值根据攻击者的增益修正来调整，同时会降低闪避、招架、格档发生的几率。
+
+For example, a creature with +4 bonus modifier attempts to hit the creature above requiring a roll of 5 or more in order to hit. In this case the block occurs on a roll of 4 and dodge occurs on a roll of 3. Block chance has dropped from 5/36 to 3/36 and dodge chance has dropped from 6/36 to 2/36.
+例如，当一个有 +4 增益修正的生物攻击上面例子中生物，只需要扔出 5 或更大来击中。在这个例子中，格档发生在扔出 4 的时候，闪避发生在扔出 3 的时候。格档概率从 5/36 下降到 3/36 而闪避概率从 6/36 下降到 2/36 。
+
+Hit Locations
+击中部位
+
+Every creature has two hit locations that an attack can hit, the body and the head. Regular hits always hit the body and critical hits always hit the head. A critical hit takes place when the result of the hit dice is equal to or higher than the critical hit threshold, or the dice turn up as two sixes. 
+每个生物有两个部位可能被击中，身体和头部。普通攻击击中身体，暴击击中头部。当命中骰等于或超过暴击阀值时，或是投出两个六，都被视为暴击。
+
+Critical hit threshold is 12 by default but it can be lowered with enchants and magical effects.
+默认的暴击阀值为 12 ，但可以被附魔按魔法效果降低。
+
+Whenever a creature is critically hit, it can be confused, disarmed or wounded badly enough to start bleeding.
+当生物被暴击时，可能发生混乱或缴械，亦或在受伤严重时开始流血。
+
+Damage
+伤害
+
+When an attack succesfully hits a target, it causes damage. The amount of damage depends on the weapon, or spell, and the relevant damage modifiers. 
+当攻击成功命中目标，就会造成伤害。伤害的总量取决于武器或是法术，以及对应的伤害修正。
+
+Damage modifiers usually equal to the attacker's ability modifier that matches the weapon used. The modifier can be any of the ability modifiers, but usually melee and thrown weapons use strength modifier, ranged weapons use agility bonus modifier, and offensive spells use either stamina or charisma bonus modifier. 
+伤害修正通常等于攻击者武器对应的属性修正。修正可以对应于任何一种属性，通常近战和投掷武器使用力量修正，远程武器使用敏捷增益修正，攻击法术使用耐力或魅力修正。
+
+Off-hand melee weapon damage modifier equals to two times the relevant ability penalty modifier, or -1, whichever is lower. 
+副手近战武器伤害等于两倍的敏捷惩罚修正，或是 -1 ，这取决于哪样更小一些。
+
+Two-handed melee weapon damage modifier, and damage modifier of a one-handed melee weapon that is used two-handedly, equals to one and a half times the relevant ability modifier rounded up, or zero, whichever is higher. 
+双手近战武器以及被双手使用的单手近战武器的修正等于一半的对应属性修正并向上取整，或是 0 ，这取决于哪个更高。
+
+Damage Effects
+伤害效应
+
+There are many effects that cause damage over time such as
+bleeding, curses, poisons, diseases and being set on fire. Damage
+effects ignore resistances and they often require some other way to
+survive them such as a cure spell, potion, scroll or a water flask.
+有许多效应会造成持续伤害，例如流血，诅咒，毒害，疾病，还有燃烧。伤害效应忽略抗性，它们通常需要一些特定方法来对抗，比如施放一个治疗法术，喝药，使用卷轴，或是用水袋浇水。
+ 
+Damage and other effects can also be removed in the town if you
+have some spare coins to donate.
+伤害及其它效应还可以在城镇解除，不过你需要捐赠一点钱。
+
+2D6 Hit Table
+2D6 命中表
+
+Below you can see the hit table for an average attacker trying to hit
+another average creature with no defensive modifiers (2D6 >= 7).
+The chance to hit in this case is 21/36 or ~58%. If the attacker
+would have +1 modifier to hit after reducing defensive modifiers
+then all those black 6's would also hit and the hit chance would
+be 26/36 or ~72%.
+你可以在下面看到一张命中表，算出通常情况下攻击者在尝试攻击另一个不带防御修正（2D6 >= 7）的生物时的概率。这种情况下，命中为 21/36 即 ~58% 。如果攻击者在减去防御修正后还有 +1 命中修正，所有黑色的 6 都算为命中，此时命中概率是 26/36 即 ~72% 。
+
+Cursed Items
+被诅咒的物品
+
+Any item in the game may be cursed. The effects of cursed items may vary from a minor nuisance to some rather nasty effect that may very well end the story.
+游戏中所有物品都可能被诅咒。被诅咒的物品效果可能只是一些小麻烦，也可能有一些可怕的效果，直接搞死你。
+
+All cursed items have one thing in common and that is that they
+increase critical failure modifier by 1 when equipped.
+任何被诅咒的物品上都会发生一件事。那就是在装备了该物品后，直接失败的修正增加 1 。
+
+In most cases, a creature may freely equip and unequip cursed items and the effects only take place while a cursed item is equipped, but there are also items that can be magically bound to the wearer, and those items cannot be unequipped unless they are destroyed by dispelling the magic that is binding them.
+在多数情况下，对于自由取下的被诅咒物品，只在该物品被装备时诅咒才生效。但有些物品会魔法绑定在装备者身上，这些物品只有通过解除绑定其中的魔法来摧毁掉它。
+
+Blessed Items
+被祝福的物品
+
+Any item in the game may be blessed. Blessed items can have secret features, but most blessed items follow these design principles: 
+游戏中所有物品都可能被祝福。被祝福的物品有一些隐秘特性，所有被祝福的物品遵循下列设计准则：
+
+1. Consumable items have more charges (potions, tomes, wands).
+1. 消费类的物品可以使用更多次 （药水，典籍、魔杖）。
+
+2. Breakable items are more durable (armour, helmets, shields, weapons).
+2. 会损坏的物品更坚固（护甲、头盔、盾牌、武器）。
+
+3. Wearable items have more powerful benefits (amulets, rings).
+3. 可装备的物品有更具威力的特性（项链、戒指）。
+
+Traps & Triggers
+陷阱和机关
+
+Trap damage scales with player level and the base damage is
+either D3 or D6. Traps that use D3 as base damage can cause up
+to 10 points of damage (3D3 + 1) at level 20 and traps that use D6
+as base damage can cause up to 21 points of damage (3D6 + 3)
+at level 20. Note that damage caused by traps cannot be resisted
+in most cases (magic trap is the only exception as long as its
+damage type isn't magic).
+陷阱伤害根据玩家等级弹性调整，基础伤害为 D3 或 D6 。使用 D3 作为基础伤害的陷阱在 20 级时会造成最高 10 点伤害（3D3 + 1）；使用 D6 作为基础伤害的陷阱在 20 级时会造成最高 21 点伤害（3D6 + 3）。注意，在大多数情况下陷阱造成的伤害无法抵抗（魔法陷阱在它的伤害类型不是魔法类时是唯一的例外）。
+ 
+There are four types of traps, direct damage, snares, spawners and
+triggers. Direct damage traps and snares cause damage when you
+step on them and if you critically fail to rest or move out, snares
+hold you in place unless you manage to free yourself from the trap,
+spawners may spawn creatures and triggers trigger something.
+Most traps can be avoided by levitating above them.
+有四种类型的陷阱：伤害，捕获，孵化，机关。伤害类和捕获类陷阱在你踏上它们时或是在上面休息严重失败或是移开时造成伤害。捕获类陷阱还会在你成功摆脱陷阱前将你留在原地。孵化类陷阱有可能孵化出生物，机关类陷阱会触发一些东西。所有的陷阱都可以通过漂浮来回避。
+
+Bear Trap
+捕熊夹
+
+Base Damage: D3
+基础伤害：D3
+
+Trap Type: Snare
+陷阱类型：捕获
+
+Spike Trap
+尖刺
+
+Base Damage: D6
+基础伤害：D6
+
+Trap Type: Damage
+陷阱类型：伤害
+
+Spider Web
+蛛网
+
+Base Damage: None
+基础伤害：无
+
+Trap Type: Snare, Spawner
+陷阱类型：捕获，孵化
+
+Ignnores levitation
+无视漂浮
+
+Spiked Pit
+尖刺坑
+
+Base Damage: D6
+基础伤害：D6
+
+Trap Type: Snare
+陷阱类型：捕获
+
+Water Pit
+水坑
+
+Base Damage: None or D3
+基础伤害：无或 D3
+
+Trap Type: Snare
+陷阱类型：捕获
+
+Magic Trap
+魔法陷阱
+
+Base Damage: D6 or Teleport
+基础伤害：D6 或传送
+
+Crush Trigger
+巨石机关
+
+Base Damage: None
+基础伤害：无
+
+Trap Type: Trigger (reflex check or die)
+陷阱类型: 机关（反射检定或死）
+
+Alarm Trigger
+警铃
+
+Base Damage: None
+基础伤害：无
+
+Trap Type: Trigger
+陷阱类型: 机关
+
+Gate Trigger
+闸门机关
+
+Base Damage: None
+基础伤害：无
+
+Trap Type: Trigger (may cause you to retire)
+陷阱类型: 机关（有可能导致你退役）
+
+Chasms & Bridges
+峡谷和桥梁
+
+Bridges can be used to cross chasms but if they're moldy, like they often are when there is water around, they can break under your weight. Bridges crossing a lava chasm are never moldy but if you happen to equipping some cursed items they may still break.
+桥梁用于通过峡谷，但它们在水边久了，都很陈腐，被你的体重一压就容易垮掉。通过岩浆的桥梁不会腐败，不过如果你装备着一些被诅咒的物品的话，一样可能垮掉。
+ 
+Note that if you want to go skinny dipping in a lava chasm, there
+will be double damage on the first turn (when you enter and at the
+end of the turn).
+注意，如果你想去去岩浆中游泳的话，第一回合会有双倍伤害（指你进入的那个回合，该回合结束的时候）。
+
+Water Chasm
+深水峡谷
+
+Base Damage: None or D3
+基础伤害：无或 D3
+
+Trap Type: Snare, Spawner
+陷阱类型：捕获，孵化
+
+Lava Chasm
+熔岩峡谷
+
+Base Damage: Enough
+基础伤害：足够
+
+Trap Type: Scorchio
+陷阱类型：灼烧
+
+Bridge
+桥梁
+
+Base Damage: None
+基础伤害：无
+
+Trap Type: None
+陷阱类型：无
+
+Talents
+天赋
+
+The first talent point is unlocked at level 3 and further points can be unlocked every three levels after that up to a maximum of 6 points at level 18. Talent points can be spent at trainer tiles (training dummy, archery target, dark well, magical altar, camp fire and spirit totem). Some NPC's can also teach talents if you have talent points to spend.
+第一点天赋在等级 3 时解锁，之后每三级解锁一点，直到等级 18 的时候解锁完所有 6 点天赋。天赋点可以在训练地块用掉（训练假人，射击靶，幽暗水井，魔法祭坛，营火，心灵图腾）。如果你有可用的天赋点，一些 NPC 也能教你天赋的使用。
+ 
+There are two types of talents, passive and active. Passive talents improve your character in some way but they can't be directly used. Active talents may improve you in some way but their main effect comes from using them and they require energy to use.
+天赋分两类，被动型和主动型。被动天赋可以在某方面提升你角色的能力但不能直接使用。主动天赋可以在某方面增强你，但它们的主要效果需要消耗精力点来使用出来。
+ 
+Some talents can't be normally learned unless you already know their prerequisite talents (those talents are indented).
+一些天赋无法直接学习，你必须先学会其先决条件（那些天赋被缩进了）。
+
+Aimed Shot
+百步穿杨
+
+Ranged attack that receives D3 extra damage instead of 1 for each point of agility bonus modifier . Aimed Shot is required in order to learn Multi Shot and Quick Shot.
+远程攻击每点敏捷增益修正获得 D3 的额外伤害，取代普通的 1 点额外伤害。学习连珠箭法和快速射击前都必须先学习瞄准射击。
+
+Multi Shot
+连珠箭法
+
+Ranged attack that hits the target creature and up to agility bonus modifier number of extra targets that are adjacent to the target creature. Multi Shot cannot be used with slow weapons.
+远程攻击将命中目标生物邻接的多个额外生物目标，数量等于敏捷增益修正值。多重射击不能用于慢速武器。
+
+Quick Shot
+快速射击
+
+Ranged attack that allows the creature to move before taking the shot. Quick Shot cannot be used with slow weapons.
+远程攻击的射击前生物可以先移动。快速射击不能用于慢武器。
+
+Steady Shot
+弹无虚发
+
+Ranged attack that allows the creature to re-roll a failed to-hit check and doubles damage if used while hidden.
+远程攻击时，可以重投失败的命中检定，在隐秘状态下能造成双倍伤害。
+
+Blade Flurry
+剑刃乱舞
+
+Melee attack that receives up to one extra attack per weapon (agility bonus modifier +1 or better for main hand and +3 or better for offhand). Blade Flurry requires either two small weapons or a medium weapon that is used two-handedly.
+近战攻击的每把武器（当敏捷增益修正 +1 或更高时，可针对主手武器；+3 或更高时针对副手武器）获得最一次额外攻击机会。剑刃乱舞需要两把小型武器或将一把中型武器双手使用。
+
+Deadly Throw
+致命投掷
+
+Thrown weapon attack that receives D3 extra damage instead of 1 for each point of strength or agility bonus modifier, whichever is higher. Deadly Throw also allows the creature to use strength or agility modifier for to-hit and damage with all thrown weapon attacks.
+投掷武器攻击的每点属性增益修正获得 D3 额外伤害，取代普通的 1 点额外伤害，依据的属性取力量和敏捷中的较高值。致命投掷使用所有投掷武器攻击时，允许生物使用力量和敏捷修正中较高的那个做命中和伤害修正。
+
+Heroic Charge
+冲锋陷阵
+
+Allows the creature to move up to two spaces and attack a target at the end of the move. Heroic Charge also increases the attacker's damage modifier by 1 for the attack.
+允许生物最多移动两格，然后在移动停止后攻击目标。冲锋陷阵还会增加 1 点伤害修正。
+
+Crushing Blow
+粉碎打击
+
+Main hand melee attack that receives D3 extra damage instead of 1 for each point of strength bonus modifier. Crushing Blow requires a medium or large weapon. Crushing Blow is required in order to learn Killing Blow and Sweeping Blow.
+主手近战武器攻击的每点力量增益修正都获得 D3 额外伤害，取代普通的 1 点额外伤害。粉碎打击需要一把中型或大型武器。学习致命一击或横扫千军前必须先学习粉碎打击。
+
+Killing Blow
+致命一击
+
+Main hand melee attack that instantly kills the target creature if the attack hits and the to-hit roll is a pair and the target creature is not immune to instant death effects. Killing Blow requires a medium or large weapon.
+主手近战攻击在攻击命中且命中骰投出一对，且目标生物不免疫即死时，直接杀死对方。致命一击需要一把中型或大型武器。
+
+Sweeping Blow
+横扫千军
+
+Main hand melee attack that hits the target creature and up to strength bonus modifier number of extra targets that are adjacent to the attacker. Sweeping Blow requires a medium or large weapon. Sweeping Blow also grants a +1 minimum block and maximum parry modifiers while equipped with a large weapon.
+主手近战武器将命中和攻击者邻接的多个额外生物目标，其数量取决于力量增益修正。横扫打击需要一把中型或大型武器。当装备大型武器时，还会获得 +1 最小格档修正以及 +1 最大招架修正。
+
+Shield Bash
+盾击
+
+Off-hand shield attack that knocks back and stuns the target for D3 turns if any damage is caused. Shield Bash cannot be blocked, dodged, or parried and it requires a melee weapon and a shield. Shield bash also causes the deflect modifier to equal block modifier instead of minimum block modifier.
+副手盾牌攻击，将目标击退并在实际造成伤害后眩晕目标 D3 回合。盾击不会被格档、闪避或招架，它需要装备一把近战武器和一面盾牌。盾击还会将偏斜修正从最小格档修正改为格档修正。
+
+Shapeshift: Wolf
+变身：狼
+
+Shapeshifts the creature into a wolf and replaces all weapons and alents with the following:
+将生物变为一只狼，把装备的武器和天赋替换成下列：
+
+- Ferocious Bite (D6, Melee/Medium/Crushing)
+- 凶残之咬（D6，近战/中型/粉碎）
+
+- Heroic Charge (Level 3)
+- 冲锋陷阵（等级 3）
+
+- Silent Move (Level 6)
+- 潜行（等级 6）
+
+- Sixth Sense (Level 9)
+- 第六感（等级 9）
+
+- Keen Eye (Level 12)
+- 锐利目光（等级 12）
+
+Shapeshift: Bear
+变身：熊
+
+Shapeshifts the creature into a bear and replaces all weapons and talents with the following:
+将生物变为一头熊，把装备的武器和天赋替换成下列：
+
+- Ferocious Bite (D6, Melee/Medium/Crushing)
+- 凶残之咬（D6，近战/中型/粉碎）
+
+- Heroic Charge (Level 3)
+- 冲锋陷阵（等级 3）
+
+- Crushing Blow (Level 6)
+- 粉碎打击（等级 6）
+
+- Strong Will (Level 9)
+- 坚强意志（等级 9）
+
+- Keen Eye (Level 12)
+- 锐利目光（等级 12）
+
+Bestial Wrath
+狂野怒火
+
+Increases physical damage by D3 while shapeshifted. This talent is also improved by the following heritages: Bestial Vigour, Leader of the Pack.
+
+在变形时增加 D3 物理伤害。这个天赋还会被下列遗产增强：兽性大发，团队领袖。
+
+Dual Wield
+双持
+
+Off-hand attacks no longer receive penalties to hit and damage and parry modifier equals to agility bonus modifier instead of one half of it.
+副手攻击不再承受的命中修正的惩罚，伤害和招架修正取敏捷修正而不是其一半。
+
+Dark Vision
+黑暗视觉
+
+Increases light radius by 1 and halves ranged attack to-hit range modifier rounding down.
+增加一格视野，并将距离修正减半向下取整。
+
+Literacy: Common
+读写：常识
+
+Allows the creature to read and write common, cast spells scribed on magical scrolls and zap with wands. Literacy: Common is required in order to learn Literacy: Celestial, Literacy: Draconic, and Literacy: Infernal talents.
+允许生物常规读写，释放记录在魔法卷轴上的法术，释放魔杖的能力。学习读写：天使，读写：龙系，读写：地狱 前必须先学习读写：常识。
+
+Literacy: Celestial
+读写：天使
+
+Allows the creature to learn Celestial Spells from magical tomes. Celestial spells always use Max Cast Modifier of 2 or more regardless of armour.
+允许生物从魔法典籍中学习天使系法术。天使系法术永远使用 2 点或更高的最高施法修正，无视所穿护甲。
+
+Literacy: Draconic
+读写：龙系
+
+Allows the creature to learn Draconic Spells from magical tomes.
+允许生物从魔法典籍中学习龙系法术。
+
+Literacy: Infernal
+读写：地狱
+
+Allows the creature to learn Infernal Spells from magical tomes.
+允许生物从魔法典籍中学习地狱系法术。
+
+Focused Cast
+专注施法
+
+Allows the creature to target and cast spells at any space within line of sight (normally spells can only be targeted at an adjacent tile). In addition, direct damage and healing spells receive D3 points of extra damage or healing instead of 1 for each point of the relevant bonus modifier.
+允许生物定位任何在视野直线可达区的目标并释放法术（通常法术只能定位邻接格的目标）。另外，直接伤害或治疗法术都会因每点对应的属性增益修正获得额外的 D3 点伤害或治疗效果，而不是常规的 1 点。
+
+Silent Cast
+沉默施法
+
+Allows the creature to cast spells while silenced and halves spell to-hit range modifier rounding down. Silent Cast also teaches Clearcasting.
+允许生物在沉默状态释放法术，且将失法的距离修正减半向下取整。沉默施法还会教会沉净施法。
+
+Keen Eye
+锐利目光
+
+Increases search radius by 1 and grants a free action that automatically searches the surroundings when taking a move or rest action. Keen Eye also allows the creature to re-roll failed search checks.
+增加一格搜索半径，并在移动或休息行动时获得一次搜索周围的免费行动。锐利目光还会在失败的搜索检定后重掷。
+
+Sixth Sense
+第六感
+
+Allows the creature to to re-roll failed reflex checks and shows a warning before picking up, equipping or using an unidentified cursed item.
+允许生物重掷反射检定，并在拾起装备或使用未鉴定的被诅咒物品前给出警告。
+
+Strong Will
+坚强意志
+
+Allows the creature to re-roll failed mental checks and halves the duration of charm, envy, fear, frenzy, greed, lust, and reckless effects, rounding down.
+允许生物重掷失败的精神检定，并将媚惑、忌妒、恐惧、狂暴、贪婪、欲望、鲁莽效果的持续时间减半，向下取整。
+
+Trap Master
+陷阱大师
+
+Allows the creature to see hidden bear traps and step on them without triggering the effects. Trap Master also allows the creature to disassemble visible bear into trap kits for later use.
+允许生物看见隐藏的捕熊夹，站在其上不会触发效果。陷阱大师还能拆解可见的捕熊夹留到以后使用。
+
+Spells
+法术
+
+Unlike most other actions, spells may be cast by spending energy and health. If a creature does not have energy left to cast a spell, it may sacrifice D3 points of health to cast the spell.
+和其它大多数行动不同，法术可以使用精力和血来施放 。如果生物没有精力施法的话，可以献祭 D3 点血来施放。
+
+Spellcasting usually requires two separate checks. The first check is called the spell to-hit check and it is used to determine if the spell hits the intended target (see Combat). The second check has many names depending on the spell, and it is used to determine if one or more of the random effects of the spell takes place.
+施法通常需要通过两个独立的检定。第一个检定称为施法命中检定，用来决定法术是否命中想作用的目标（见战斗系统）。第二个检定根据法术的不同有很多名字，它用来决定法术是否附加一或多个随机效果。
+
+Spell to-hit check uses the caster's stamina or charisma modifier as the casting modifier (offensive modifier), depending on the spell.
+施法命中检定使用施法者的耐力或魅力修正作为施法修正（攻击修正），用哪个取决于法术。
+
+Spells that attempt to remove existing effects will use the casting bonus modifier against the existing effect's power level modifier and the following formula is used to determine the outcome:
+用来移除已有效果的法术使用施法增益修正来对抗需移除效果的强度等级修正，以下列公式来决定是否成功：
+
+2D6 + Casting Modifier >= 7 + Power Level Modifier.
+2D6 + 施法修正 >= 7 + 强度等级修正
+
+Some of the following spell descriptions use X instead of (stamina bonus modifier), Y instead of (charisma bonus modifier), and Z instead of (creature's experience level / 4) . For example, if an effect's duration is XD6 x 10 turns and the caster's stamina bonus modifier is 3, the effect lasts for 3D6 x 10 turns.
+下列法术描述中用 X 指代耐力增益修正，Y 指代魅力增益修正，Z 指代 生物经验等级 / 4 。例如，如果一个效果的持续时间是 XD6 x 10 回合，而施法者的耐力增益修正是 3 ，则该效果可持续 3D6 x 10 回合。
+
+Clearcasting
+沉净施法
+
+Clearcasting is a passive skill that can be learned and it gives the caster a chance to cast spells without using energy. 
+沉净施法是一个可学习的被动技能，它赋予施法者一次不消耗精力的施法机会。
+
+D6 + Critical Hit Modifier >= 6 (roll of 1 always fails)
+D6 + 暴击修正 >= 6（投出 1 永远算失败）
+
+Celestial Spells
+天使法术
+
+Cure Disease
+治疗疾病
+
+Attempts to remove one disease from the target creature. Cure Disease uses charisma modifier for the spell to-hit check.
+尝试移除目标生物身上的一个疫病。治疗疾病使用魅力修正做法术命中检定。
+
+Cure Poison
+治疗中毒
+
+Attempts to remove one poison from the target creature. Cure Poison uses charisma modifier for the spell to-hit check.
+尝试移除目标生物身上的一个中毒效果。治疗中毒使用魅力修正做法术命中检定。
+
+Dispel Magic
+驱散魔法
+
+Attempts to remove one magical effect from the target creature, location, or an item in the caster's inventory. Dispel Magic uses charisma modifier for the spell to-hit check.
+尝试移除目标生物身上，或特定地点，施法者物品栏中的物品上的一个魔法效果。驱散魔法 使用魅力修正做法术命中检定。
+
+Divine Grace
+神之恩典
+
+Places a lingering effect on the caster and all friends within line of sight for (D6 + Y) x 10 turns that increases agility and charisma by 1 and physical, poison and disease resistances by 1. Divine Grace uses charisma modifier for the spell to-hit check.
+赋予施法者和他视线内所有友方单位一个 (D6+Y) x 10 回合的持续效果，该效果增强敏捷、魅力各 1 点，物理抗性、毒药抗性、疾病抗性各 1 点。神之恩典使用魅力修正做法术命中检定。
+
+Divine Might
+天赋神力
+
+Places a lingering effect on the caster and all friends within line of sight for (D6 + X) x 10 turns that increases strength and stamina by 1 and fire, frost and shock resistances by 1. Divine Might uses stamina modifier for the spell to-hit check.
+赋予施法者和他视线内所有友方单位一个 (D6+X) x 10 回合的持续效果，该效果增强力量、耐力各 1 点，火焰抗性、冰霜抗性、震击抗性各 1 点。神之恩典使用耐力修正做法术命中检定。
+
+Divine Reach
+神圣领域
+
+Places a lingering effect on the caster for (D6 + X) x 10 turns that allows to cast spells at any target within line of sight. If a creature is affected by both Divine Reach and the Focused Cast talent, the spell to-hit check range modifier is halved rounding down. Divine Reach uses stamina modifier for the spell to-hit check.
+赋予施法者一个 (D6+X) x 10 回合的持续效果，允许他对视线内的任何目标施放法术。如果生物同时受神圣领域和专注施法天赋的影响，施法命中距离修正减半并向下取整。神圣领域使用耐力修正做法术命中检定。
+
+Healing Touch
+治疗之触
+
+Heals the target creature for D6 + Y points of damage and attempts to restore 1 point of ability damage. Healing Touch uses charisma modifier for the spell to-hit check.
+治疗目标生物及 D6 + Y 点伤害，并尝试回复一点属性伤害。治疗之触使用魅力修正做法术命中检定。
+
+Healing Wave
+治疗光波
+
+Heals the target creature and all adjacent creatures to it for D3 + Y points of damage. Healing Wave uses charisma modifier for the spell to-hit check.
+治疗目标生物及所有和该目标邻接的生物 D3 + Y 点伤害。治疗光波使用魅力修正做法术命中检定。
+
+Renewing Touch
+回复之触
+
+Places a lingering effect on the target creature for D6 + Y turns and heals the target for D3 + Y points per turn. Renewing touch uses charisma modifier for the spell to-hit check. Note that the duration of this effect is reduced down to the caster's charisma modifier if any damage is taken (and it is higher than that).
+赋予目标生物一个 D6+Y 回合的持续效果，每个回合治疗 D3 + Y 点。回复之触使用魅力修正做法术命中检定。注意，该持续效果在受到伤害（且伤害高于施法者魅力修正）时，减少到施法者魅力修正值。
+
+Turn Undead
+超度亡魂
+
+Causes D6 + Y points of magic damage to the target undead creature. Turn undead has a chance to instantly kill undead creatures. The chance is 2D6 + Y >= 10 + Z. Turn Undead uses charisma modifier for the spell to-hit check and counts as an orb spell but cannot be enlarged.
+对目标不死生物造成 D6 + Y 点魔法伤害。超度亡魂有一定机会立刻杀死不死生物。这个机会是 2D6 + Y >= 10 + Z 。超度亡魂使用魅力修正做法术命中检定，视为一个法术球，但不能被增大。
+
+Draconic Spells
+龙系法术
+	
+Amplify Magic
+魔法增效
+
+Places a lingering effect on the caster for (D6 + X) x 10 turns that amplifies the damage of orb spells by D6. Amplify Magic uses stamina modifier for the spell to-hit check.
+赋予施法者一个 (D6+X) x 10 回合的持续效果，增强法术球的伤害 D6 。魔法增效使用耐力修正做法术命中检定。
+
+Electric Orb
+电球术
+
+Causes D6 + X points of shock damage to the target creature. Electric Orb has a chance of shocking the target for X / 2 turns. The chance is 2D6 + X >= 10 + shock resistance. Electric Orb uses stamina modifier for the spell to-hit check.
+对目标生物造成 D6 + X 点震击伤害。电球有一定机会使目标休克 X / 2 回合。这个机会有 2D6 + X >= 10 + 震击抗性。电球术使用耐力修正做法术命中检定。
+	
+Enlarge Orb
+法术球增大
+
+Places a lingering effect on the caster for 2D6 + X turns that causes the next orb spell to explode upon impact granting an additional D6 + X points of damage and the spell's normal damage on any adjacent creatures. Enlarge Orb uses stamina modifier for the spell to-hit check.
+赋予施法者一个 2D6+X 回合的持续效果，该效果可让下一发法术球爆炸造成额外 D6 + X 点伤害，并对目标邻接的生物造成法术原本的伤害。法术球增大使用耐力修正做法术命中检定。
+
+Flaming Orb
+火球术
+
+Causes D6 + X points of fire damage to the target creature. Flaming Orb has a chance of setting the target on fire causing D3 points of fire damage per turn for D6 + X turns. The chance is 2D6 + X >= 10 + fire resistance. Flaming Orb uses stamina modifier for the spell to-hit check.
+对目标生物造成 D6 + X 点火焰伤害。火球有一定机会给目标附加 D6 + X 回合的燃烧效果，每回合会造成 D3 点火焰伤害。这个机会有 2D6 + X >= 10 + 火焰抗性。火球术使用耐力修正做法术命中检定。
+
+Frozen Orb
+冰球术
+
+Causes D6 + X points of frost damage to the target creature. Frozen Orb has a chance of slowing the target for D6 + X turns. The chance is 2D6 + X >= 10 + frost resistance. Frozen Orb uses stamina modifier for the spell to-hit check.
+对目标生物造成 D6 + X 点冰霜伤害。冰球有一定机减慢目标 D6 + X 回合.这个机会有 2D6 + X >= 10 + 冰霜抗性。冰球术使用耐力修正做法术命中检定。
+
+Illumination
+照明术
+
+Places a lingering effect on the caster and all creatures within line of sight that increases light and search radius by 1 for (D6 + Y) x 10 turns. Illumination uses charisma modifier for the spell to-hit check.
+赋予施法者和他视线内所有友方单位一个 (D6+Y) x 10 回合的持续效果，增加他们的视野范围及搜索范围 1 格。照明术使用魅力修正做法术命中检定。
+
+Mage Armour
+魔法盔甲
+
+Places a lingering effect on the caster for (D6 + X) x 10 turns that increases all resistances by a number equal to X / 2, or 1, whichever is higher. This effect is automatically dispelled if the affected creature's equipped items change (note that broken items do not remove the effect). Mage Armour uses stamina modifier for the spell to-hit check.
+赋予施法者一个 (D6+X) x 10 回合的持续效果，增强所有的抗性。增强值为 X / 2 或 1 里较高的一个。当施法者装备的物品因任何理由发生变化时，该效果自动解除。魔法盔甲使用耐力修正做法术命中检定。
+
+Mirror Image
+镜像术
+
+Creates a duplicate of the caster for (D6 + Y) x 10 turns that appears to perform the same actions as the caster. Any damage taken reduces the duration of the image by (damage)D6 turns. Mirror Image uses charisma modifier for the spell to-hit check.
+复制一个施法者持续 (D6 + Y) x 10 回合，该复制体看起来会发动和施法者相同的行动。复制体收到的任何伤害都会减少持续时间的 (伤害)D6 个回合。镜像术使用魅力修正做法术命中检定。
+
+Remove Curse
+移除诅咒
+
+Attempts to remove one curse effect from the target creature, location, or an item in the caster's inventory. Remove Curse uses charisma modifier for the spell to-hit check.
+尝试移除目标生物身上，或特定地点，施法者物品栏中的物品上的一个诅咒效果。移除诅咒使用魅力修正做法术命中检定。
+
+Telekinesis
+念动力
+
+Allows the caster to magically use remote objects such as doors, chests, levers and so on. Telekinesis uses stamina modifier for the spell to-hit check.
+允许施法者使用魔法来操纵远程物体，像门、宝箱、开关等这类东西。念动力使用耐力修正做法术命中检定。
+
+Infernal Spells
+地狱法术
+
+Banish Daemon
+放逐恶魔
+
+Causes D6 + Y points of magic damage to the target daemon. Banish Daemon has a chance to instantly kill daemons. The chance is 2D6 + X >= 10 + Z. Banish Daemon uses charisma modifier for the spell to-hit check and counts as an orb spell but cannot be enlarged.
+对目标恶魔造成 D6 + Y 点魔法伤害。放逐恶魔有一定几率立刻杀死恶魔。这个几率是 2D6 + X >= 10 + Z 。放逐恶魔使用耐力修正做法术命中检定，视为一个法术球，但不能被增大。
+
+Bestow Curse
+降咒术
+
+Attempts to place a random lingering curse effect on the target creature for (D6 + X) x 10 turns. The chance is 2D6 + X >= 7 + Z. Bestow Curse uses stamina modifier for the spell to-hit check. If the check fails, Curse of Agony is placed instead.
+尝试给目标生物施加一个随机的持续 (D6 + X) x 10 回合的诅咒效果。几率为 2D6 + X >= 7 + Z 。降咒术使用耐力修正做法术命中检定。如果检定失败，则改为释放痛苦诅咒。
+
+Capture Soul
+灵魂捕捉
+
+Places a lingering effect on the target creature for D6 + X turns that captures its soul in a gem upon death. This spell has no effect unless the X is greater than 0. Capture Soul uses charisma modifier for the spell to-hit check.
+尝试给目标生物附加一个持续 D6 + X 回合的持续效果，若目标生物死亡，该生物的灵魂将被捕获进一颗晶石中。当 X 不大于 0 时，该法术无效。灵魂捕捉使用耐力修正做法术命中检定。
+
+Demonic Visage
+魔鬼面容
+
+Places a lingering fear effect on the caster for (D6 + Y) x 10 turns. Any creature attempting to attack the caster must pass a mental check or be afraid for D3 turns. Any damage taken reduces the duration of the Demonic Visage effect by (damage)D6 turns. Demonic Visage uses charisma modifier for the spell to-hit check.
+赋予施法者一个 (D6+Y) x 10 回合的持续效果，任何试图攻击他的生物都必须先通过一次精神检定，失败后会造成 D3 回合的恐惧。受到任何伤害都会使得魔怪面容的持续时间减少 (伤害)D6 回合。魔鬼面容使用魅力修正做法术命中检定。
+
+Enslave Daemon
+奴役恶魔
+
+Attempts to charm a daemon for (D6 + Y) x 10 turns. The chance is 2D6 + Y >= 8 + Z. Enslave Daemon uses charisma modifier for the spell to-hit check.
+尝试魅惑一个恶魔 (D6 + Y) x 10 回合。几率为 2D6 + Y >= 8 + Z 。奴役恶魔使用魅力修正做法术命中检定。
+
+Plane Shift
+位面传送
+
+Allows the caster to instantly teleport to another location within line of sight. Plane Shift uses stamina modifier for the spell to-hit check.
+将施法者立即传送到视野内的另一个位置。位面传送使用耐力修正做法术命中检定。
+
+Release Soul
+释放灵魂
+
+Releases a soul from a random soul gem in the caster's inventory. The soul can either cause 2D6 + X points of magic damage to the target creature or it can be used to enchant a targeted item in the caster's inventory with a random enchantment. If the soul fails to enchant an item, it will cause 2D6 + X points of magical damage to the caster instead. Release Soul uses stamina modifier for the spell to-hit check.
+从施法者的物品栏中随机选取一颗魂晶，释放其中的灵魂。释放的灵魂可以用于对目标生物造成 2D6 + X 点魔法伤害，也可以用于给物品栏中的一个装备做一次随机强化。如果强化失败，将对施法者造成 2D6 + X 点魔法伤害。释放灵魂使用耐力修正做法术命中检定。
+
+Summon Daemon
+召唤恶魔
+
+Attempts to summon a daemon and then attempts to enslave it (see Enslave Daemon). Summon Daemon uses charisma modifier for the spell to-hit check.
+尝试召唤一个恶魔并奴役它（见奴役恶魔）。召唤恶魔使用魅力修正做法术命中检定。
+
+Venomous Orb
+毒球术
+
+Causes D6 + X points of poison damage to the target creature. Venomous Orb also has a chance to apply a random poison effect for (D6 + X) x 10 turns. The chance is 2D6 + X >= 10 + poison resistance. Venomous Orb uses stamina modifier for the spell to-hit check.
+对目标生物造成 D6 + X 点毒药伤害。毒球术另外有一次机会附加一个持续 (D6 + X) x 10 回合的随机中毒效果。这个几率为 2D6 + X >= 10 + 毒药抗性。毒球术使用耐力修正做法术命中检定。
+
+Virulent Orb
+疫球术
+
+Causes D6 + X points of disease damage to the target creature. Virulent Orb also has a chance to apply a random disease effect for (D6 + X) x 10 turns. The chance is 2D6 + X >= 10 + disease resistance. Virulent Orb uses stamina modifier for the spell to-hit check
+对目标生物造成 D6 + X 点疾病伤害。病球术另外有一次机会附加一个持续 (D6 + X) x 10 回合的随机疾病效果。这个几率为 2D6 + X >= 10 + 疾病抗性。疫球术使用耐力修正做法术命中检定。
+
+Arcane Spells
+奥术
+
+Arcane spells are more powerful than regular spells and casting them requires that the caster is wearing an amulet containing the spell that is not on cooldown.
+奥术比常规法术威力更大，施放它们通常需要施法者佩戴一枚包含有该法术的项链，且项链不能处于冷却过程。
+ 
+Arcane spells can't miscast like regular spells and casting them always succeeds unless the equipped amulet is cursed but the amulet can be damaged or broken in the process.
+奥术不像常规法术那样有可能失误，施放奥术永远成功除非装备的项链被诅咒了。不过项链有可能在这个过程中损坏或损毁。
+ 
+Many arcane spells have bonus effects if a blessed amulet is used while casting them but only their basic effects are listed here.
+如果项链被祝福，很多奥术有额外的增强效果。不过下面只列出其基础效果。
+ 
+It is possible for a creature to learn how to cast arcane spells but then the rules change slightly. If an arcane spell is permanently learned then any amulet will work. The spell can also miscast even if the amulet isn't cursed.
+生物可能学会奥术，之后规则会有些许变更。如果一个奥术被永久学会，那么佩戴任何项链都能工作。即使项链没有被诅咒，法术依然可能失误。
+
+Divine Shield
+神圣之盾
+
+Creates a shield with a duration of 120 + 3D6 x 10 that absorbs up to duration / 10 points of damage rounding up. Divine Shield has a 120 turn cooldown.
+创造一个盾，持续 120 + 3D6 x 10 回合，最多吸收持续时间 / 10 点伤害，向上取整。神圣之盾有 120 回合的冷却时间。
+
+Conjure Daemon
+召唤恶魔
+
+Summons a lesser daemon at the target location and enslaves it. Conjure Daemon has a 120 turn cooldown.
+在目标位置召唤一只小恶魔并奴役它。召唤恶魔有 120 回合的冷却时间。
+
+Identify Item
+物品鉴定
+
+Identifies the targeted item in the caster's inventory. Identify Item has a 30 turn cooldown.
+鉴定生物装备栏中目标位置的物品。物品鉴定有 30 回合的冷却时间。
+
+Enchant Item
+物品附魔
+
+Enchants the targeted item in the caster's inventory with a random nchant. Enchant Item has a 120 turn cooldown.
+对生物装备栏中目标位置的物品做一次随机附魔。物品附魔有 120 回合的冷却时间。
+
+Elemental Orb
+元素球
+
+Casts an enlarged flaming, frozen and electric orb at the target with splash damage hitting all adjacent creatures. Elemental Orb has a 90 turn cooldown.
+对目标位置释放一个增大的火焰，冰霜，雷电法球，并对邻接生物造成溅射伤害。元素球有 90 回合的冷却时间。
+
+Clone Creature
+克隆生物
+
+Creates a mirror image of the target creature that aids the caster for 5D6 x 10 turns. Clone Creature has a 60 turn cooldown.
+创造出目标生物的一个镜像，它会协助施法者 5D6 x 10 回合。克隆生物有 60 回合的冷却时间。
+
+Animate Dead
+亡灵复生
+
+Permanently turns a dead human into an undead familiar with similar skills and equipment that the dead person had. Animate Dead has a 120 turn cooldown.
+将一个死去的人类永久的亡灵同伴，它有这个死人曾经拥有的技能和装备。亡灵复生有 120 回合的冷却时间。
+
+Transmute Item
+物品炼金
+
+Transmutes the targeted item in the caster's inventory into gold coins. Transmute Item has a 30 turn cooldown.
+将施法者装备栏中的目标物品转化为金币。物品炼金有 30 回合的冷却时间。
+
+Alter Terrain
+地表变形
+
+Increases or decreases the height of terrain on even or odd turns espectively. Alter Terrain has a 30 turn cooldown.
+在偶数和奇数回合中升高或降低地表的高度。地表变形有 30 回合的冷却时间。
+
+Arcane Missile
+奥术飞弹
+
+Causes D6 + X points of magic damage to the target creature. Arcane Missile has a chance of instantly killing the target. The chance is 2D6 + X >= 10 + Z. Arcane Missile has a 30 turn cooldown.
+对目标生物造成 D6 + X 点魔法伤害。奥术飞弹有机会立刻杀死目标。这个机会是 2D6 + X >= 10 + Z 。奥术飞弹有 30 回合的冷却时间。
+
+Bestial Spells
+兽性法术
+
+Bestial spells are slightly more powerful than regular spells and casting them requires that the caster has a Fairy Jizzed Bull Horn in the inventory.
+兽性法术的威力明显超过常规法术，施放需要施法者的物品栏中有一个仙女摧残过的牛角。
+
+Big Bear Slap
+熊之巨掌
+
+Attempts to disarm, knock back and stun the target creature. The chance is 2D6 + X >= 7 + Z. Big Bear Slap uses stamina modifier for the spell to-hit check.
+尝试缴械，击退，眩晕目标生物。成功机会为 2D6 + X >= 7 + Z 。熊之巨掌使用耐力修正作施法命中检定。
+
+Command Beast
+命令野兽
+
+Attempts to control the target beast and make it your friend. The target beast must pass a mental check in order to avoid the effect. Command Beast uses charisma modifier for the spell to-hit check.
+尝试控制目标野兽，使之成为你的伙伴。目标野兽必须通过一次精神检定才能回避这个效果。命令野兽使用魅力修正作施法命中检定。
+
+Cure Bleeding
+流血治疗
+
+Attempts to remove a bleeding wound from the target creature. Cure bleeding uses stamina modifier for the spell to-hit check.
+尝试移除目标生物的流血伤口。流血治疗使用耐力修正作施法命中检定。
+
+Expose Roots
+树根暴露
+
+Spawns a treeman from the target mushroom patch. Expose Roots uses charisma modifier for the spell to-hit check.
+从目标蘑菇块中孵化出一个树人。树根暴露使用魅力修正作施法命中检定。
+
+Fairy Flight
+仙女飞行
+
+Places a lingering effect on the caster for (D6 + X) x 10 turns that makes it levitate. Fairy Flight uses stamina modifier for the spell to-hit check.
+对施法者释放一个长达 (D6 + X) x 10 回合的徘徊效果，能使其漂浮。仙女飞行使用耐力修正作施法命中检定。
+
+Insect Swarm
+虫群召唤
+
+Attempts to blind, deafen, silence, confuse and fear the target creature. Insect Swarm uses charisma modifier for the spell to-hit check.
+尝试致盲，致聋，沉默，混乱，恐惧目标生物。虫群召唤使用魅力修正作施法命中检定。
+
+Raptor Strike
+猛禽一击
+
+Tears open a wound and causes the target to bleed for XD3 turns. Raptor Strike uses stamina modifier for the spell to-hit check.
+撕裂一个伤口，对目标造成 XD3 回合的流血。猛禽一击使用耐力修正作施法命中检定。
+
+Shroom Grenade
+蘑菇手雷
+
+Throws a blood cap from the caster's inventory that explodes on impact causing similar damage to an enlarged venomous orb. Shroom Grenade uses stamina modifier for the spell to-hit check.
+从施法者物品栏中扔出一个蘑菇块，爆炸会产生等同于一个增大的疫球术。蘑菇手雷使用耐力修正作施法命中检定。
+
+Soothe Beast
+安抚野兽
+
+Attempts to soothe the target beast and make it neutral towards the caster. The target beast must pass a mental check in order to avoid the effect. Soothe Beast uses charisma modifier for the spell to-hit check.
+尝试安抚目标野兽，让其对施法者中立。目标野兽必须通过一次精神检定才能回避这个效果。安抚野兽使用魅力修正作施法命中检定。
+
+Spirit Wolves
+狼之精灵
+
+Summons Y / 2 ethereal spirit wolves at and around the target location. Spirit Wolves uses charisma modifier for the spell to-hit check. Note that the spirit wolves are not friendly towards the player.
+在目标位置四周召唤出 Y / 2 只幻影狼精。狼之精灵使用魅力修正作施法命中检定。注意狼精不是玩家的伙伴。
+
+Abyssal Spells
+深渊法术
+
+Abyssal spells are slightly more powerful than regular spells and casting them requires that the caster has an Engraved Pyramidion in the inventory.
+深渊法术的威力明显超过常规法术，施放需要施法者的物品栏中有一个雕花金字塔。
+
+Abyssal Grasp
+深渊之握
+
+Summons an abyssal claw at the target location. Abyssal Grasp uses charisma modifier for the spell to-hit check. Note that the claw is not friendly towards the player.
+在目标位置召唤一个深渊之爪。深渊之握使用魅力修正作施法命中检定。注意那个爪子不是玩家的伙伴。
+
+Army of the Dead
+亡灵军团
+
+Consumes all soul gems in your inventory to spawn an army of the dead. Normal soul gems spawn an undead and black soul gems spawn a wraith. Each soul gem used will also roll a D6 adding up to a summon score and for each full 16 points an extra ghost is spawned. Army of the Dead uses charisma modifier for the spell to-hit check. Note that the spawns are not normally friendly towards the player.
+消耗你的装备栏中所有的魂晶孵化出一只亡灵大军。普通魂晶孵化出一个亡灵，黑色魂晶孵化出一个幽灵。每颗魂晶还会投出一个 D6 骰加入召唤点中，每 16 点都会多召唤出一个鬼魂。亡灵军团使用魅力修正作施法命中检定。注意，孵化出来的东西不是玩家的伙伴。
+
+Corrupting Cloud
+腐蚀之云
+
+Bestows curse of agony on all creatures within radius around the target location for (D6 + X) x 10 turns. The radius is X / 2 + 1 with a maximum of 3. Corrupting Cloud uses stamina modifier for the spell to-hit check.
+对目标位置半径内的所有生物降下痛苦诅咒，持续 (D6 + X) x 10 回合。半径为 X / 2 + 1 ，最大为 3 。腐蚀之云使用耐力修正作施法命中检定。
+
+Dancing Weapons
+武器之舞
+
+Summons dancing weapons at the target location. Dancing Weapons uses charisma modifier for the spell to-hit check. Note that dancing weapons are not friendly towards the player.
+在目标位置转换一组挥舞的武器。武器之舞使用魅力修正作施法命中检定。注意，挥舞的武器不是玩家的伙伴。
+
+Grounding Orb
+接地法球
+
+Causes ED3 + MS points of magic damage to the target creature where E is the target's energy and MS is the target's mana shield at full energy. Grounding Orb uses stamina modifier for the spell to-hit check.
+对目标生物造成 ED3 + MS 点魔法伤害，E 是目标的精力点数，MS 是目标的魔法盾满能量时的点数。接地法球使用耐力修正作施法命中检定。
+
+Mass Dismissal
+群体解散
+
+Attempts to unsummon all summoned creatures within line of sight. Target creatures must pass a mental check to avoid being instantly killed. Mass Dismissal uses charisma modifier for the spell to-hit check.
+尝试将视野中所有召唤出的生物送回。目标生物必须通过一次精神检定才能避免即死。群体解散使用魅力修正作施法命中检定。
+
+Repelling Smite
+拒斥重击
+
+Attempts to knock back and stun all adjacent creatures. The chance is 2D6 + X >= 7 + Z. Repelling Smite uses stamina modifier for the spell to-hit check.
+尝试击退并眩晕所有邻接的生物。成功机会为 2D6 + X >= 7 + Z 。拒斥重击使用耐力修正作施法命中检定。
+
+Ritual Sacrifice
+祭祀仪式
+
+Attempts to sacrifice a creature at the center of the nearest sacrificial circle. The chance is 2D6 + X >= 7 + Z + S where S is the size modifier of the target creature. Ritual Sacrifice uses stamina modifier for the spell to-hit check.
+尝试在最近的献祭环内献祭一个生物。成功机会为 2D6 + X >= 7 + Z + S ，S 是目标生物的大小修正。祭祀仪式使用耐力修正作施法命中检定。
+
+Sacrificial Circle
+献祭之环
+
+Conjures a 3x3 sacrificial circle at the target location. Sacrificial Circle uses charisma modifier for the spell to-hit check.
+在目标位置变出一个 3x3 的献祭环。献祭之环使用耐力修正作施法命中检定。
+
+Spectral Gateway
+鬼怪之门
+
+Teleports you to the nearest sacrificial circle or a random location if none exists. Spectral Gateway uses stamina modifier for the spell to-hit check.
+将你传送到最近的献祭环中，如果没有则传送到随机位置。鬼怪之门使用耐力修正作施法命中检定。
+
+Curse
+诅咒
+
+Curses with a chance component have a 1/36 base chance (2D6 roll of 2) of the effect taking place each turn. If a curse comes from a spell, the chance is increased by the caster's stamina bonus modifier. If the curse comes from some other source, the chance is increased by the power level of the source.
+被诅咒后，每个回合都有 1/36 (2D6 投出 2) 的机会效果生效。如果诅咒是由法术造成的，那么这个几率会随施法者的耐力修正而上升。如果诅咒来源于其它地方，则根据来源的强度等级调高几率。
+
+The effects can be resolved by adding 2 to the modifier and comparing the roll against that number. If the roll is equal to or less than the combined number, the effect takes place.
+效果是否生效是用修正值加 2 和投骰的值相比较来决定。如果投出值小于等于比较值，效果生效。
+
+Example: if a creature is afflicted by a curse with a power level of 2, it would then suffer the effects on a 2D6 roll of 2, 3, or 4, at the end of the turn when the lingering effects are resolved.
+例如：如果一个生物被下了强度等级 2 的诅咒，那么在诅咒持续时间内每个回合都会因为 2D6 投出 2,3,4 而效果生效。
+
+Some of the following descriptions use X instead of power level. For example, if a description says an effect lasts for XD6 x 10 turns and the effect's power level is 3, the effect last for 3D6 x 10 turns.
+在下列描述中，使用 X 代替强度等级。例如，如果描述中说一个效果持续 XD6 x 10 回合，而效果强度等级为 3 的话，该效果持续 3D6 x 10 回合。
+
+Curse of Agony
+痛苦诅咒
+
+Lingering effect that has a chance of causing D3 + X points of magic damage.
+有机会导致 D3 + X 魔法伤害的持续效果。
+
+Curse of Envy
+忌妒诅咒
+
+Lingering effect that has a chance of causing the creature to become envious for D6 turns. Envious creatures are forced to move towards and attack the nearest creature of the same gender or miss their turn if no such creature exists.
+有机会使生物陷入 D6 回合忌妒状态的持续效果。忌妒状态的生物将被强制向最近的同性别生物移动并攻击。如果没有这样的生物则失去回合。
+
+Curse of Gluttony
+贪食诅咒
+
+Lingering effect that has a chance of causing the creature to spend a turn eating or drinking. If the creature does not have anything suitable to consume, it will become frenzied for D6 turns.
+有机会使生物花一个回合吃喝的持续效果。如果生物没有可食用的东西，则狂暴 D6 回合。
+
+Curse of Greed
+贪婪诅咒
+
+Lingering effect that has a chance of causing the creature to become greedy for D6 turns. Greedy creatures are forced to move towards the nearest item and attempt to pick it up or miss their turn if no such item exists.
+有机会使生物陷入 D6 回合贪婪状态的持续效果。陷入贪婪状态的生物被强制向最近的物品移动并尝试捡起来。如果没有物品则失去回合。
+
+Curse of Hunger
+饥饿诅咒
+
+Lingering effect that has a chance of causing the creature to lose one level on the seven level hunger track (Famished, Starving, Hungry, Not Hungry, Satiated, Bloated, Choking). This effect takes place only on an unmodified roll of 2. Other successful rolls reduce hunger value by (4+X)D6.
+有机会使生物在七级饥饿条（极饿，很饿，饿了，不饿，满足，过饱，吃撑）上失去一个等级。这个效果仅在扔出骰未修正的情况下为 2 才发生。别的诅咒成功的情况会减少饥饿值 (4+X)D6 。
+
+Curse of Lust
+淫欲诅咒
+
+Lingering effect that has a chance of causing the creature to become lustful for D6 turns. Lustful creatures are forced to move towards the nearest creature of the opposite gender and beat that creature into submission or miss their turn if no such creature exists.
+有机会使生物陷入D6 回合淫欲状态的持续效果。淫欲状态的生物将被强制向最近的异性移动并打的对方屈服，如果没有合适的生物则失去回合。
+
+Curse of Pride
+傲慢诅咒
+
+Lingering effect that has a chance of causing the creature to become reckless for D6 turns. Reckless creatures are forced to move towards and attack the nearest enemy creature or miss their turn if no such creature exists.
+有机会使生物陷入 D6 回合傲慢状态的持续效果。傲慢状态的生物将强制向最近的敌人移动并攻击，如果没有敌人则失去回合。
+
+Curse of Sloth
+懒惰诅咒
+
+Lingering effect that has a chance of causing the creature to lose one point of energy and miss the next turn. This effect also forces the creature to re-roll successful energy regeneration rolls.
+有机会使生物失去一点精力，并失去下个回合。该效果还会重扔成功的精力回复骰。
+
+Curse of Thirst
+干渴诅咒
+
+Lingering effect that has a chance of causing the creature to lose one level on the seven level thirst track (Parched, Dehydrated, Thirsty, Not Thirsty, Satiated, Hydrated, Drenched). This effect takes place only on an unmodified roll of 2. Other successful rolls reduce thirst value by (4+X)D6.
+有机会使生物在七级干渴条（极渴，很渴，渴了，不渴，满足，喝多，喝撑）上失去一个等级。这个效果仅在扔出骰未修正的情况下为 2 才发生。别的诅咒成功的情况会减少干渴值 (4+X)D6 。
+
+Curse of Wrath
+愤怒诅咒
+
+Lingering effect that has a chance of causing the creature to become frenzied for D6 turns. Frenzied creatures are forced to move towards and attack the nearest creature or miss their turn if no such creature exists.
+有机会使生物陷入 D6 回合的狂暴状态。狂暴生物强制向最近的生物移动并攻击，如果不存在生物则失去回合。
+
+Poisons
+毒害
+
+Poisons with a chance component have a 1/36 base chance (2D6 roll of 2) of the effect taking place each turn. If a poison comes from a spell, the chance is increased by the caster's stamina bonus modifier. If the poison comes from some other source, the chance is increased by the power level of the source.
+中毒后，每个回合都有 1/36 (2D6 投出 2) 的机会效果生效。如果中毒是由法术造成的，那么这个几率会随施法者的耐力修正而上升。如果中毒来源于其它地方，则根据来源的强度等级调高几率。
+
+The effects can be resolved by adding 2 to the modifier or potency and comparing the roll against that number. If the roll is equal to or less than the combined number, the effect takes place.
+效果是否生效是用修正值或效力加 2 和投骰的值相比较来决定。如果投出值小于等于比较值，效果生效。
+
+Example: if a creature is afflicted by a poison with a power level of 2, it would then suffer the effects on a 2D6 roll of 2, 3 or 4 at the end of the turn when the lingering effects are resolved.
+例如：如果一个生物被下了强度等级 2 的毒药，那么在中毒持续时间内每个回合都会因为 2D6 投出 2,3,4 而效果生效。
+
+Blinding Poison
+致盲之毒
+
+Lingering effect that has a chance of blinding the creature for D6 turns. Blinded creatures may act normally with the exception that they can't see anything. Blinding Poison also applies a negative modifier to hit rolls that equals to the power level of the poison.
+有机会使生物持续 D6 回合盲眼的持续效果。盲眼的生物除了什么都看不见外，和平常一样。致盲之毒同时还会根据毒药强度给命中骰附加一个负修正。
+
+Charming Poison
+魅惑之毒
+
+Lingering effect that has a chance of charming the creature for D6 turns. Charmed creatures are forced to attack the nearest creature that is also an enemy of the charmer or miss their turn if no such creature exists. Charming poison also forces the affected creature to pass a mental check before attacking the charmer.
+有机会使生物持续 D6 回合陷入魅惑状态的持续效果。被魅惑的生物被强制攻击施展魅惑者的敌人中最近的那个。如果不存在敌人则失去回合。魅惑之毒同时还会让生物攻击施展魅惑者前先要通过一次精神检定。
+
+Confusing Poison
+混乱之毒
+
+Lingering effect that has a chance of confusing the creature for D6 turns. Confused creatures move and attack in a random direction. Confusing Poison also applies a negative modifier to hit rolls that equals to the power level of the poison.
+有机会使生物持续 D6 回合混乱的持续效果。混乱生物向随机方向移动攻击。换乱之毒同时还会根据毒药强度给命中骰附加一个负修正。
+
+Deadly Poison
+死亡之毒
+
+Lingering effect that has a chance of causing D3 + X points of poison damage. Deadly poison also forces the creature to re-roll successful health regeneration rolls.
+有机会对生物造成 D3 + X 点毒伤害的持续效果。死亡之毒同时还会重投成功的回血骰。
+
+Deafening Poison
+震聋之毒
+
+Lingering effect that has a chance of deafening the creature for D6 turns. Deafening Poison also applies a negative modifier on casting rolls that equals to the power level of the poison. Creatures with Silent Cast talent are not affected.
+有机会使生物持续 D6 回合耳聋的持续效果。震聋只毒同时还会根据毒药强度给施法骰附加一个负修正。对有沉默施法天赋的生物无效。
+
+Draining Poison
+枯竭之毒
+
+Lingering effect that has a chance of causing the creature to lose 1 point of energy. Draining Poison also applies a negative modifier on energy regeneration rolls that equals to the power level of the poison. The damage caused by this poison also counts as an energy drain effect for immunity purposes.
+有机会让生物失去一点精力的持续效果。枯竭之毒同时还会根据毒药强度给精力回复骰附加一个负修正。从免疫角度上看，这个毒药的伤害被视为精力吸收。
+
+Leeching Poison
+吸血之毒
+
+Lingering effect that has a chance of causing the creature to lose D3 + X points of health. Leeching Poison also applies a negative modifier on health regeneration rolls that equals to the power level of the poison. The damage caused by this poison also counts as a health drain effect for immunity purposes.
+有机会对生物失去 D3 + X 点血。吸血之毒同时还会根据毒药强度给回血骰附加一个负修正。从免疫角度上看，这个毒药的伤害被视为吸血。
+
+Paralytic Poison
+麻痹之毒
+
+Lingering effect that has a chance of paralysing the creature for D6 turns. Paralytic Poison also counts as a slow effect on the creature.
+有机会麻痹生物 D6 回合的持续效果。麻痹之毒被看作生物身上的一个迟缓效果。
+
+Silencing Poison
+沉默之毒
+
+Lingering effect that has a chance of silencing the creature for D6 turns. Silenced creatures may not cast spells, read scrolls or talk to other creatures. Silencing Poison also applies a negative modifier on casting rolls that equals to the power level of the poison. Creatures with Silent Cast talent are not affected.
+有机会沉默生物 D6 回合的持续效果。被沉默的生物不能释放法术，阅读卷轴以及和别的生物对话。沉默之毒同时还会根据毒药强度给施法骰附加一个负修正。对有沉默失法天赋的生物无效。
+
+Sleeping Poison
+沉睡之毒
+
+Lingering effect that has a chance of causing the creature to fall asleep for D6 turns. Any damage will interrupt the currently affecting sleep effect but the poison remains and the creature may fall asleep again on the next turn.
+有机会让生物沉睡 D6 回合的持续效果。任何伤害都会打断睡眠效果，但只要还在中毒，就有可能下个回合再次让生物睡去。
+
+Slowing Poison
+迟缓之毒
+
+Lingering effect that counts as a slow effect and as an effect that may cause the creature to miss its next turn. Slowing Poison also reduces dodge, parry and block modifiers with a number that equals to the power level of the poison. This effect cannot, however, reduce the respective modifiers below their normal minimum level (e.g. +1 block modifier when a buckler is equipped).
+视为一个持续的迟缓效果，并有持续可能让生物失去下个回合。迟缓之毒还会根据毒药强度来降低闪避、招架以及格档修正。但这个效果不能把各自修正降低到固有最小等级之下（例如装备了圆盾后至少有 +1 格档修正）。
+
+Diseases
+疾病
+
+Diseases with a chance component have a 1/36 base chance (2D6 roll of 2) of the effect taking place each turn. If a disease comes from a spell, the chance is increased by the caster's stamina bonus modifier. If the disease comes from some other source, the chance is increased by the power level of the source.
+疾病在每个回合都有 1/36 (2D6 投出 2) 的机会效果生效。如果疾病是由法术造成的，那么这个几率会随施法者的耐力修正而上升。如果疾病来源于其它地方，则根据来源的强度等级调高几率。
+
+The effects can be resolved by adding 2 to the modifier or potency and comparing the roll against that number. If the roll is equal to or less than the combined number, the effect takes place.
+效果是否生效是用修正值或效力加 2 和投骰的值相比较来决定。如果投出值小于等于比较值，效果生效。
+
+Example: if a creature is afflicted by a disease with a power level of 2, it would then suffer the effects on a 2D6 roll of 2, 3, or 4, at the end of the turn when the lingering effects are resolved.
+例如：如果一个生物被下了强度等级 2 的疾病，那么在中毒持续时间内每个回合都会因为 2D6 投出 2,3,4 而效果生效。
+
+Aching Muscle
+肌肉疼痛
+
+Lingering effect that has a chance of causing one point of strength damage and a chance to place a slow effect on the creature for D6 turns.
+可能造成 1 点力量损伤的持续效果，并有机会对生物造成 D6 回合的迟缓效果。
+
+Bloody Flux
+血瘟
+
+Lingering effect that has a chance of causing one point of stamina damage and a chance to cause D3 + X points of health damage.
+可能造成 1 点耐力损伤的持续效果，并有机会对生物造成 D3 + X 的伤害。
+
+Bone Plague
+骨病
+
+Lingering effect that has a chance of causing one point of strength damage and a chance to place a paralysis effect on the creature for D6 turns.
+可能造成 1 点力量损伤的持续效果，并有机会对生物造成 D6 回合的麻痹效果。
+
+Burning Lung
+肺病
+
+Lingering effect that has a chance of causing one point of stamina damage and a chance to cause D3 points of energy damage.
+可能造成 1 点耐力损伤的持续效果，并有机会对生物造成 D3 点的精力伤害。
+
+Dungeon Fever
+地城热
+
+Lingering effect that has a chance of triggering the effects of any other disease.
+可能触发其它疾病效果的持续效果。
+
+Itching Groin
+下体瘙痒
+
+Lingering effect that has a chance of causing one point of agility damage and a chance to place a blind effect on the creature for D6 turns.
+可能造成 1 点敏捷损伤的持续效果，并有机会对生物造成 D6 回合的盲眼。
+
+Putrid Breath
+腐烂气息
+
+Lingering effect that has a chance of causing one point of charisma damage and a chance to place a silence effect on the creature for D6 turns.
+可能造成 1 点魅力损伤的持续效果，并有机会对生物造成 D6 回合的沉默。
+
+Swollen Joint
+关节肿胀
+
+Lingering effect that has a chance of causing one point of agility damage and a chance to place a confusion effect on the creature for D6 turns.
+可能造成 1 点敏捷损伤的持续效果，并有机会对生物造成 D6 回合的混乱。
+
+Rotting Flesh
+肌肉腐烂
+
+Lingering effect that has a chance of causing one point of charisma damage and a chance to place a sleep effect on the creature for D6 turns.
+可能造成 1 点魅力损伤的持续效果，并有机会对生物造成 D6 回合的沉睡。
+
+Enchants
+附魔
+
+Enchants have two different effects, one for weapons and one for armour. Some enchants have only one listed effect and it applies to both weapons and armour. Most weapons and pieces of armour can have only one enchant. Enchants may be replaced by new enchants but every time an enchanted item is enchanted again (by the player), there is a small chance that the item will break.
+附魔有两种不同的效果，一种针对武器，另一种针对护甲。有些附魔只有一种效果，它同时针对武器和护甲。大多数武器和护甲只能有一个附魔。在通过重新对物品附魔（由玩家发起）覆盖新的效果时，有一个很小的机会导致物品损毁。
+
+Resistance enchants placed on armour increase resistance against regular hits. Resistance enchants placed on helmets increase resistance critical hits. Resistance enchants placed on shields, amulets, and rings, increase resistance against regular and critical hits.
+对盔甲进行抗性附魔会增加常规打击的抗性。对头盔进行抗性附魔会增加致命打击的抗性。对盾牌，项链，戒指的抗性附魔同时增加针对常规打击和致命打击的抗性。
+
+Weapon enchants with a chance component have a 1/3 chance (D6 roll of 5 or 6) of the effect taking place.
+武器上的概率效果有 1/3 的机会（D6 投出 5 或 6）让效果生效。
+
+Mark of Agility
+敏捷印记
+
+Increases agility by 1.
+增加一点敏捷。
+
+Mark of Charisma
+魅力印记
+
+Increases charisma by 1.
+增加一点魅力。
+
+Mark of Stamina
+耐力印记
+
+Increases stamina by 1.
+增加一点耐力。
+
+Mark of Strength
+力量印记
+
+Increases strength by 1.
+增加一点力量。
+
+Seal of Blinding
+盲眼密印
+
+Provides a chance of blinding the target for D6 turns on hit when placed on a weapon, and grants immunity against blinding effects when placed on a piece of armour.
+附加在武器上时，有机会致盲目标 D6 回合；附加在护甲上时获得免疫盲眼的效果。
+
+Seal of Charming
+魅惑密印
+
+Provides a chance of charming the target for D6 turns on hit when placed on a weapon, and grants immunity against charming effects when placed on a piece of armour.
+附加在武器上时，有机会魅惑目标 D6 回合；附加在护甲上时获得免疫魅惑的效果。
+
+Seal of Confusion
+混乱密印
+
+Provides a chance of confusing the target for D6 turns on hit when placed on a weapon, and grants immunity against confusing effects when placed on a piece of armour.
+附加在武器上时，有机会混乱目标 D6 回合；附加在护甲上时获得免疫混乱的效果。
+
+
+Seal of Deafening
+聋耳密印
+
+Provides a chance of deafening the target for D6 turns on hit when placed on a weapon, and grants immunity against deafening effects when placed on a piece of armour.
+附加在武器上时，有机会致聋目标 D6 回合；附加在护甲上时获得免疫聋耳的效果。
+
+
+Seal of Draining
+噬精密印
+
+Drains 1 point of energy on a damaging hit when placed on a weapon, and grants immunity against energy draining effects when placed on a piece of armour.
+附加在武器上时，有机会在造成伤害时吸取一点精力；附加在护甲上时获得免疫噬精的效果。
+
+Seal of Knocking
+击退密印
+
+Knocks the target back on a damaging hit when placed on a weapon, and grants immunity against knockback effects when placed on a piece of armour.
+附加在武器上时，有机会在造成伤害时击退；附加在护甲上时获得免疫击退的效果。
+
+Seal of Leeching
+吸血密印
+
+Drains D2 points of health on a damaging hit when placed on a weapon, and grants immunity against health drain effects when placed on a piece of armour.
+附加在武器上时，有机会在造成伤害时吸取 D2 点生命；附加在护甲上时获得免疫吸血的效果。
+
+Seal of Morphing
+变形密印
+
+Provides a chance of polymorphing the target for D6 turns on hit when placed on a weapon, and grants immunity against polymorphing effects when placed on a piece of armour.
+附加在武器上时，有机会变形目标 D6 回合；附加在护甲上时获得免疫变形的效果。
+
+Seal of Paralysis
+麻痹密印
+
+Provides a chance of paralysing the target for D6 turns on hit when placed on a weapon, and grants immunity against paralysing effects when placed on a piece of armour.
+附加在武器上时，有机会麻痹目标 D6 回合；附加在护甲上时获得免疫麻痹的效果。
+
+Seal of Silencing
+沉默密印
+
+Provides a chance of silencing the target for D6 turns on hit when placed on a weapon, and grants immunity against silencing effects when placed on a piece of armour.
+附加在武器上时，有机会沉默目标 D6 回合；附加在护甲上时获得免疫沉默的效果。
+
+Seal of Sleeping
+沉睡密印
+
+Provides a chance of causing the target to fall asleep for D6 turns on hit when placed on a weapon, and grants immunity against sleep effects when placed on a piece of armour.
+附加在武器上时，有机会让目标沉睡 D6 回合；附加在护甲上时获得免疫沉睡的效果。
+
+Seal of Slowing
+迟缓密印
+
+Provides a chance of slowing the target for D6 turns on hit when placed on a weapon, and grants immunity against slow effects when placed on a piece of armour.
+附加在武器上时，有机会让目标迟缓 D6 回合；附加在护甲上时获得免疫迟缓的效果。
+
+Sigil of Curse
+诅咒魔符
+
+Provides a chance of bestowing Curse of Agony for 2D6 x 10 turns on hit when placed on a weapon, and grants immunity against curses when placed on a piece of armour.
+附加在武器上时，有机会在击中目标时降下 2D6 x 10 回合的痛苦诅咒，附加在护甲上时获得免疫诅咒的效果。
+
+Sigil of Disease
+疾病魔符
+
+Causes D6 points of disease damage on hit when placed on a weapon, and grants 1 point of disease resistance when placed on a ring or amulet or 2 points when placed on a piece of armour. The unresisted damage caused by this enchant has a chance to contract Dungeon Fever for (unresisted damage)D6 x 10 turns.
+附加在武器上时，有机会造成 D6 点的疾病伤害，附加在戒指或项链上时获得一点疾病抗性，附加在护甲上时获得两点疾病抗性。这个附魔造成的未抵抗的伤害有机会造成地层热，持续 （未抵抗的伤害）D6 x 10 回合。
+
+Sigil of Poison
+毒害魔符
+
+Causes D6 points of poison damage on hit when placed on a weapon, and grants 1 point of poison resistance when placed on a ring or amulet or 2 points when placed on a piece of armour. The unresisted damage caused by this enchant has a chance to contract Deadly poison for (unresisted damage)D6 x 10 turns.
+附加在武器上时，有机会造成 D6 点的毒害伤害，附加在戒指或项链上时获得一点毒害抗性，附加在护甲上时获得两点毒害抗性。这个附魔造成的未抵抗的伤害有机会造成死亡之毒，持续 （未抵抗的伤害）D6 x 10 回合。
+
+Sign of Fire
+火焰之符
+
+Causes D6 points of fire damage on hit when placed on a weapon, and grants 1 point of fire resistance when placed on a ring or amulet or 2 points when placed on a piece of armour. The unresisted damage caused by this enchant has a chance to set the target on fire for D6 turns, causing D3 points of fire damage per turn.
+附加在武器上时，有机会造成 D6 点的火焰伤害，附加在戒指或项链上时获得一点火焰抗性，附加在护甲上时获得两点火焰抗性。这个附魔造成的未抵抗的伤害有机会燃烧 D6 回合，每个回合造成 D3 点火焰伤害。
+
+Sign of Frost
+冰霜之符
+
+Causes D6 points of frost damage on hit when placed on a weapon, and grants 1 point of frost resistance when placed on a ring or amulet or 2 points when placed on a piece of armour. The unresisted damage caused by this enchant has a chance to chill the target for D6 turns.
+附加在武器上时，有机会造成 D6 点的冰霜伤害，附加在戒指或项链上时获得一点冰霜抗性，附加在护甲上时获得两点冰霜抗性。这个附魔造成的未抵抗的伤害有机会冰冻目标 D6 回合。
+
+Sign of Shock
+震击之符
+
+Causes D6 points of shock damage on hit when placed on a weapon, and grants 1 point of shock resistance when placed on a ring or amulet or 2 points when placed on a piece of armour. The unresisted damage caused by this enchant has a chance to shock the target to miss its turn.
+附加在武器上时，有机会造成 D6 点的震击伤害，附加在戒指或项链上时获得一点震击抗性，附加在护甲上时获得两点震击抗性。这个附魔造成的未抵抗的伤害有机会震击目标使其失去回合。
+
+Symbol of Death
+死亡标记
+
+Provides a 1/6 chance of instantly killing the target on hit when placed on a weapon, and grants immunity against instant death effects when placed on a piece of armour.
+附加在武器上时，在击中时有 1/6 的机会立刻杀死目标。附加在护甲上时获得免疫即死的效果。
+
+Symbol of Fear
+恐惧标记
+
+Provides a chance of frightening the target for D6 turns on hit when placed on a weapon, and grants immunity against fear effects when placed on a piece of armour.
+附加在武器上时，有机会在击中目标时恐吓目标 D6 回合。附加在护甲上时获得免疫恐惧的效果。
+
+Symbol of Life
+生命标记
+
+Increases health by 1 point for every third level starting from the 1st (4th, 7th, and so on).
+从第一级开始每三级（第 4 ，第 7 ，以此类推）提升一点生命。
+
+Symbol of Light
+光明标记
+
+Increases light radius by 1.
+增加 1 光照半径。
+
+Symbol of Luck
+幸运标记
+
+Increases critical success chance by 1 to a maximum of 5 and reduces critical failure chance by 1 to a minimum of 0.
+将极端成功的机会增加 1 ，最高到 5 ；减少极端失败的机会 1 ，最小到 0 。
+
+Symbol of Might
+神力标记
+
+Causes D3 points of physical damage on hit when placed on a weapon, and grants 1 point of physical resistance when placed on a ring or amulet or 2 points when placed on a piece of armour.
+附加在武器上时，在击中目标时增加 D3 点物理伤害。附加在戒指或项链上时获得一点物理抗性，附加在护甲上时获得两点物理抗性。
+
+Symbol of Power
+威能标记
+
+Increases direct spell damage by D3 when placed on a weapon, and increases direct spell healing by D3 when placed on a piece of armour.
+附加在武器上时增加法术直接伤害 D3 ，附加在护甲上时，增加法术治疗效果 D3 。
+
+Symbol of Vigor
+活力标记
+
+Increases energy by 1.
+增加一点精力。
+
+Runes
+符石
+
+Runes become available after you wish for more power. Runes are rare single use random drops that allow you to add third enchant to a blessed item with two existing enchants. Once the third enchant is added, any further enchants applied at the Wizard's Guild are random (there is no multiple choice option available).
+当你许愿获得更多力量后，符石会出现在游戏中。符石非常稀有，它们随机掉落只能使用一次。它能对已经两次附魔的被祝福的物品进行第三次附魔。一旦第三次附魔被添加，在魔法师行会中再进行附魔都会变成随机的（不再有多个选择）。
+ 
+Runes have matching names to the enchants above and they add the respective enchant on an item, e.g. Rune of Power adds Symbol of Power on an item.
+符石有何上面附魔对应的名字，它们会给物品添加对应的附魔。例如，威能符石能给物品添加威能标记。
+
+Legendary Effects
+传奇效果
+
+Legendary effects become available after you have unlocked runes and taken care of some swamp creatures. One legendary effect can be imbued on a legendary weapon when the weapon is equipped in the main hand and the imbuement conditions are met.
+传奇效果会在你解锁了符石并对付了一些沼泽生物后出现在游戏中。传奇效果会在你装备一件传奇武器在主手中，并满足灌注条件时灌注到武器上。
+ 
+The process of creating a legendary weapon starts by finding a Rune of the Imp.
+打造一把传奇武器的过程始于找到一枚小恶魔符石。
+
+Rune of the Imp
+小恶魔符石
+
+Gives legendary status to a weapon making it unbreakable and allows you to name the weapon. This will also repair all damage and make the weapon blessed. Note that existing unique and legendary weapons cannot be renamed but this can be used to remove existing legendary effect.
+赋予一把武器传奇效果，使之坚不可摧，允许你对武器命名。这回修复所有的损坏，并祝福武器。注意，已经存在的独特和传奇武器不能重命名，但它可以用于移除已经存在的传奇效果。
+
+After using the Rune of the Imp on a weapon and naming it, the weapon is ready to be imbued with a legendary effect. The process of imbuing each specific effect is a secret until you have completed them at least once before. Possible effects are listed below:
+对武器使用小恶魔符石命名它之后，武器就可以接受传奇效果的灌注了。灌注每个特定效果的过程是保密的，完成一次后才会公开。可能的效果列在下面：
+
+Cheesy Musk
+奶酪面具
+
+Cave bears are now automatically tamed when they try to attack
+you.
+现在洞熊在攻击你的时候自动被驯化。
+
+Death Proof
+死亡防护
+
+Divine Shield is automatically cast if this effect is not on cooldown and damage taken would kill you.
+只要这个效果不在冷却状态，当你将承受足以致死的伤害时，自动施放神圣之盾。
+
+Flashlight
+闪闪发光
+
+Everyone who can see this weapon at the end of their own turn will be illuminated.
+任何人只要看到这把武器，在他的回合最后就会发亮。
+
+Hateful Aura
+憎恶光环
+
+33% of damage taken is copied to all nearby creatures and you are healed for half of the damage caused this way.
+受到的伤害的 33% 会复制给所有附近的生物，而你会被治愈这种方式造成的伤害的一半。
+
+Leap of Faith
+信仰之跃
+
+Jumping no longer requires energy and it always succeeds.
+跳跃不再需要精力点，而且永远成功。
+
+Misinvisicast
+幻影迷踪
+
+Miscasting always turns you invisible in addition to other effects.
+施法失误在造成其它影响之外一定会将你隐身。
+
+Nightshade
+黑暗幽影
+
+Poisons applied to weapons last forever and count as potent when
+they are applied.
+在武器上的淬毒永远生效，且视作强效。
+
+Orbus Bomba
+法球炸弹
+
+Automatically casts Enlarge Orb at the end of your turn if you are
+not already affected by it.
+如果你没有施放 法术球增大 ，那么在你的回合结束的时候就自动施放它。
+
+Zombie Dog
+僵尸之狗
+
+Woof comes back to life at the start of a new dungeon if it happens
+to be dead (reset dungeon in town).
+如果汪汪死了，那么在每个新的地牢开始时会复活（在城镇中重置）。
