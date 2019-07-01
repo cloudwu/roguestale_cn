@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 2 (190624)" checksum="4f8820ef35ae614600f8e6bdcd526517b08a63d4">
+<strings version="Version 2.00 Beta 2 (190624)" checksum="1e4604874aa5197acd7cccbcc357fad5eb032bea">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -1104,16 +1104,16 @@
     <str id="%s turns corporeal." value="%s turns corporeal." local="%s 化为了实体。"/>
   </EffectLogs>
   <TalentNames>
-    <str id="Aimed Shot" value="Aimed Shot" local="瞄准射击"/>
-    <str id="Multi Shot" value="Multi Shot" local="多重射击"/>
+    <str id="Aimed Shot" value="Aimed Shot" local="百步穿杨"/>
+    <str id="Multi Shot" value="Multi Shot" local="连珠箭法"/>
     <str id="Quick Shot" value="Quick Shot" local="快速射击"/>
-    <str id="Steady Shot" value="Steady Shot" local="稳定射击"/>
+    <str id="Steady Shot" value="Steady Shot" local="弹无虚发"/>
     <str id="Blade Flurry" value="Blade Flurry" local="剑刃乱舞"/>
     <str id="Deadly Throw" value="Deadly Throw" local="致命投掷"/>
-    <str id="Heroic Charge" value="Heroic Charge" local="英勇冲锋"/>
+    <str id="Heroic Charge" value="Heroic Charge" local="冲锋陷阵"/>
     <str id="Crushing Blow" value="Crushing Blow" local="粉碎打击"/>
     <str id="Killing Blow" value="Killing Blow" local="致命一击"/>
-    <str id="Sweeping Blow" value="Sweeping Blow" local="横扫打击"/>
+    <str id="Sweeping Blow" value="Sweeping Blow" local="横扫千军"/>
     <str id="Shield Bash" value="Shield Bash" local="盾击"/>
     <str id="Silent Move" value="Silent Move" local="潜行"/>
     <str id="Literacy: Common" value="Literacy: Common" local="读写：常识"/>
@@ -1144,7 +1144,7 @@
       <str id="paragraph 1" value="whichever is higher (modifier also applies to to-hit checks)." local=""/>
     </str>
     <str id="Heroic Charge" value="Allows the creature to move up to two spaces and attack a target at the end of the move." local="允许生物最多移动两格，然后在移&#10;动停止后攻击目标。" space="True">
-      <str id="paragraph 1" value="Also adds +1 damage modifier for the attack." local="英勇冲锋还会增加 1 点伤害修正。"/>
+      <str id="paragraph 1" value="Also adds +1 damage modifier for the attack." local="冲锋陷阵还会增加 1 点伤害修正。"/>
     </str>
     <str id="Crushing Blow" value="Melee attack that causes D3 extra damage instead of 1 for each point of strength bonus modifier." local="近战攻击的每点力量增益修正都获&#10;得 D3 额外伤害，而非正常的 1 点&#10;额外伤害。" space="True">
       <str id="paragraph 1" value="Requires a medium or large weapon." local="粉碎打击需要一把中型或大型武器&#10;。"/>
@@ -1152,7 +1152,7 @@
     <str id="Killing Blow" value="Melee attack that can instantly kill the target creature on hit (if the attack hits and the to-hit roll is a pair)." local="近战攻击在攻击命中且命中骰投出&#10;一对时，立即杀死对方。" space="True">
       <str id="paragraph 1" value="Requires a medium or large weapon." local="致命一击需要一把中型或大型武器&#10;。"/>
     </str>
-    <str id="Sweeping Blow" value="Melee attack that hits the target creature and up to +STR adjacent targets. Requires a medium or large weapon and" local="主手近战武器将命中和攻击者邻接&#10;的多个额外生物目标，其数量取决&#10;于力量增益修正。横扫打击需要一&#10;把中型或大型武器。当装备大型武&#10;器时，还会获得 +1 最小格档修正&#10;以及 +1 最大招架修正。" space="True">
+    <str id="Sweeping Blow" value="Melee attack that hits the target creature and up to +STR adjacent targets. Requires a medium or large weapon and" local="主手近战武器将命中和攻击者邻接&#10;的多个额外生物目标，其数量取决&#10;于力量增益修正。横扫千军需要一&#10;把中型或大型武器。当装备大型武&#10;器时，还会获得 +1 最小格档修正&#10;以及 +1 最大招架修正。" space="True">
       <str id="paragraph 1" value="grants +1 min block and +1 max parry modifier with large weapons." local=""/>
     </str>
     <str id="Shield Bash" value="Shield attack that can knock back and stun the target for D3 turns. This attack cannot be blocked, dodged, or" local="用盾牌攻击可将目标击退并眩晕目&#10;标 D3 回合。盾击不会被格档、闪&#10;避或招架。盾牌还会将偏斜修正设&#10;为和格档修正相同。" space="True">
@@ -1189,10 +1189,10 @@
     <str id="Trap Master" value="Allows the creature to see hidden bear traps and step on them without triggering the effects and allows the" local="允许生物看见隐藏的捕熊夹，站在&#10;其上不会触发效果。陷阱大师还能&#10;拆解可见的捕熊夹留到以后使用。" space="True">
       <str id="paragraph 1" value="creature to disassemble bear traps into trap kits for later use." local=""/>
     </str>
-    <str id="Shapeshift: Wolf" value="Shapeshifts the creature into a wolf and replaces all talents with Heroic Charge, Silent Move, Sixth Sense and" local="将生物变为一只狼，把天赋替换为&#10; 英勇冲锋，潜行，第六感，敏锐目&#10;光（根据等级开放）。" space="True">
+    <str id="Shapeshift: Wolf" value="Shapeshifts the creature into a wolf and replaces all talents with Heroic Charge, Silent Move, Sixth Sense and" local="将生物变为一只狼，把天赋替换为&#10; 冲锋陷阵，潜行，第六感，敏锐目&#10;光（根据等级开放）。" space="True">
       <str id="paragraph 1" value="Keen Eye (based on level)." local=""/>
     </str>
-    <str id="Shapeshift: Bear" value="Shapeshifts the creature into a bear and replaces all talents with Heroic Charge, Crushing Blow, Strong Will and" local="将生物变为一头熊，把天赋替换为&#10; 英勇冲锋，粉碎打击，坚强意志，&#10;敏锐目光（根据等级开放）。" space="True">
+    <str id="Shapeshift: Bear" value="Shapeshifts the creature into a bear and replaces all talents with Heroic Charge, Crushing Blow, Strong Will and" local="将生物变为一头熊，把天赋替换为&#10; 冲锋陷阵，粉碎打击，坚强意志，&#10;敏锐目光（根据等级开放）。" space="True">
       <str id="paragraph 1" value="Keen Eye (based on level)." local=""/>
     </str>
     <str id="Bestial Wrath" value="Increases physical damage by D3 while shapeshifted. This talent is also improved by the following heritages:" local="在变身时增加 D3 物理伤害。这个&#10;天赋还会被下列遗产增强：" space="True">
@@ -3870,7 +3870,7 @@
     <str id="Sharpened Fangs" value="Grants Woof +D3 physical damage at level 12." local="汪汪在等级 12 时获得 +D3 物&#10;理伤害。">
       <str id="paragraph 1" value="This heritage can be unlocked by having Woof reach level 15." local="把汪汪升到 15 级可以获得这&#10;项遗产。"/>
     </str>
-    <str id="Rare Breed" value="Grants Woof +1 agility and +1 stamina at the start of the game and Heroic Charge at level 3." local="汪汪在游戏开始时获得 +1 敏&#10;捷 +1 耐力，在等级 3 时获得&#10;英勇冲锋。">
+    <str id="Rare Breed" value="Grants Woof +1 agility and +1 stamina at the start of the game and Heroic Charge at level 3." local="汪汪在游戏开始时获得 +1 敏&#10;捷 +1 耐力，在等级 3 时获得&#10;冲锋陷阵。">
       <str id="paragraph 1" value="This heritage can be unlocked by having Woof kill a Dire Wolf." local="让汪汪杀死骇狼可以解锁这项&#10;遗产。"/>
     </str>
     <str id="Epic Breed" value="Grants Woof +1 agility and +1 stamina at the start of the game and Strong Will at level 6." local="汪汪在游戏开始时获得 +1 敏&#10;捷 +1 耐力，在等级 6 时获得&#10;坚强意志。">

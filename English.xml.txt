@@ -1013,16 +1013,16 @@ EffectLogs."You turn ethereal." 你成了幻影。
 EffectLogs."%s turns ethereal." %s 成了幻影。
 EffectLogs."You turn corporeal." 你化为了实体。
 EffectLogs."%s turns corporeal." %s 化为了实体。
-TalentNames."Aimed Shot" 瞄准射击
-TalentNames."Multi Shot" 多重射击
+TalentNames."Aimed Shot" 百步穿杨
+TalentNames."Multi Shot" 连珠箭法
 TalentNames."Quick Shot" 快速射击
-TalentNames."Steady Shot" 稳定射击
+TalentNames."Steady Shot" 弹无虚发
 TalentNames."Blade Flurry" 剑刃乱舞
 TalentNames."Deadly Throw" 致命投掷
-TalentNames."Heroic Charge" 英勇冲锋
+TalentNames."Heroic Charge" 冲锋陷阵
 TalentNames."Crushing Blow" 粉碎打击
 TalentNames."Killing Blow" 致命一击
-TalentNames."Sweeping Blow" 横扫打击
+TalentNames."Sweeping Blow" 横扫千军
 TalentNames."Shield Bash" 盾击
 TalentNames."Silent Move" 潜行
 TalentNames."Literacy: Common" 读写：常识
@@ -1049,12 +1049,12 @@ TalentDescs."Blade Flurry".1
 TalentDescs."Deadly Throw" @(30)投掷武器攻击的每点属性增益修正获得 D3 额外伤害，而非正常的 1 点额外伤害，依据的属性取力量和敏捷中的较高值。（修正同时针对命中检定）。
 TalentDescs."Deadly Throw".1 
 TalentDescs."Heroic Charge" @(30)允许生物最多移动两格，然后在移动停止后攻击目标。
-TalentDescs."Heroic Charge".1 @(30)英勇冲锋还会增加 1 点伤害修正。
+TalentDescs."Heroic Charge".1 @(30)冲锋陷阵还会增加 1 点伤害修正。
 TalentDescs."Crushing Blow" @(30)近战攻击的每点力量增益修正都获得 D3 额外伤害，而非正常的 1 点额外伤害。
 TalentDescs."Crushing Blow".1 @(30)粉碎打击需要一把中型或大型武器。
 TalentDescs."Killing Blow" @(30)近战攻击在攻击命中且命中骰投出一对时，立即杀死对方。
 TalentDescs."Killing Blow".1 @(30)致命一击需要一把中型或大型武器。
-TalentDescs."Sweeping Blow" @(30)主手近战武器将命中和攻击者邻接的多个额外生物目标，其数量取决于力量增益修正。横扫打击需要一把中型或大型武器。当装备大型武器时，还会获得 +1 最小格档修正以及 +1 最大招架修正。
+TalentDescs."Sweeping Blow" @(30)主手近战武器将命中和攻击者邻接的多个额外生物目标，其数量取决于力量增益修正。横扫千军需要一把中型或大型武器。当装备大型武器时，还会获得 +1 最小格档修正以及 +1 最大招架修正。
 TalentDescs."Sweeping Blow".1 
 TalentDescs."Shield Bash" @(30)用盾牌攻击可将目标击退并眩晕目标 D3 回合。盾击不会被格档、闪避或招架。盾牌还会将偏斜修正设为和格档修正相同。
 TalentDescs."Shield Bash".1 
@@ -1080,9 +1080,9 @@ TalentDescs."Strong Will" @(30)允许生物重掷失败的精神检定，并将�
 TalentDescs."Strong Will".1 
 TalentDescs."Trap Master" @(30)允许生物看见隐藏的捕熊夹，站在其上不会触发效果。陷阱大师还能拆解可见的捕熊夹留到以后使用。
 TalentDescs."Trap Master".1 
-TalentDescs."Shapeshift: Wolf" @(30)将生物变为一只狼，把天赋替换为 英勇冲锋，潜行，第六感，敏锐目光（根据等级开放）。
+TalentDescs."Shapeshift: Wolf" @(30)将生物变为一只狼，把天赋替换为 冲锋陷阵，潜行，第六感，敏锐目光（根据等级开放）。
 TalentDescs."Shapeshift: Wolf".1 
-TalentDescs."Shapeshift: Bear" @(30)将生物变为一头熊，把天赋替换为 英勇冲锋，粉碎打击，坚强意志，敏锐目光（根据等级开放）。
+TalentDescs."Shapeshift: Bear" @(30)将生物变为一头熊，把天赋替换为 冲锋陷阵，粉碎打击，坚强意志，敏锐目光（根据等级开放）。
 TalentDescs."Shapeshift: Bear".1 
 TalentDescs."Bestial Wrath" @(30)在变身时增加 D3 物理伤害。这个天赋还会被下列遗产增强：
 TalentDescs."Bestial Wrath".1 兽性大发 ，团队领袖 。
@@ -3555,7 +3555,7 @@ HeritageDescs."Ferocious Bite" @(26)在等级 9 时，将汪汪的恶毒之咬�
 HeritageDescs."Ferocious Bite".1 @(26)把汪汪升到 12 级可以获得这项遗产。
 HeritageDescs."Sharpened Fangs" @(26)汪汪在等级 12 时获得 +D3 物理伤害。
 HeritageDescs."Sharpened Fangs".1 @(26)把汪汪升到 15 级可以获得这项遗产。
-HeritageDescs."Rare Breed" @(26)汪汪在游戏开始时获得 +1 敏捷 +1 耐力，在等级 3 时获得英勇冲锋。
+HeritageDescs."Rare Breed" @(26)汪汪在游戏开始时获得 +1 敏捷 +1 耐力，在等级 3 时获得冲锋陷阵。
 HeritageDescs."Rare Breed".1 @(26)让汪汪杀死骇狼可以解锁这项遗产。
 HeritageDescs."Epic Breed" @(26)汪汪在游戏开始时获得 +1 敏捷 +1 耐力，在等级 6 时获得坚强意志。
 HeritageDescs."Epic Breed".1 @(26)让汪汪杀死一个巨怪可以解锁这项遗产。
