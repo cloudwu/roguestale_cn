@@ -2360,198 +2360,385 @@ Causes MH / 3 + (MH / 10) * X points of magical damage to the target creature wh
 对目标生物造成 MH / 3 + (MH / 10) * X 点魔法伤害，MH 是目标的最大生命值。如果该伤害足以杀死目标，则减少伤害保证目标存活。
 
 Edibles
+食用品
+
 Food and water is required to manage hunger and thirst. Each edible item has a hunger regen value, thirst regen value, or both. When an edible item is consumed, these values are calculated and they increase the creature's hunger and thirst counters accordingly (see Hunger & Thirst).
+食物和水用来维持饥饿条河干渴条。每种食用品都有一个饥饿回复量或干渴回复量。当消费掉食用品，这个量计算出来加到生物的饥饿或干渴计数器上（参见饥饿及干渴）。
 
 Instead of having a chance of being blessed or cursed, edible items have a chance of being fresh or rotten.
+食用品有机会是新鲜的或腐烂的，取代被祝福或被诅咒。
 
 Fresh items set the hunger and thirst counters to the maximum values of the resulting hunger and thirst levels after adding the regen values to the counters (maximum gain for a counter is 359 points if counter % 360 is 0).
+新鲜物品会在饥饿，干渴计数器加上对应值后，设为所处级别的最大值（如果计数器 % 360 是 0 ，计数器设为 359）。
 
 Rotten items reduce the hunger and thirst regen values from the creature's hunger and thirst counters instead of adding them.
+腐败的食物将减少饥饿条或干渴条对应的数值而非加上值。
 
 Some food items can be infectious meaning that there is a chance to be infected with Bloody Flux disease when eating them. This can be avoided by cooking them on a camp fire (throw the item on the fire place).
+有些食物会携带传染病，这意味着在吃下时有机会感染血瘟。可以通过在营火烹饪来避免（把食物投掷到火中）。
 
 Meat
+生肉
+
 Hunger Regen: 360 + 2D6 x 10
 Infectious
+饥饿回复：360 + 2D6 x 10
+传染病
 
 Fried Meat
+烤肉
+
 Hunger Regen: 360 + 2D6 x 10
+饥饿回复：360 + 2D6 x 10
 
 Ribs
+排骨
+
 Hunger Regen: 360 + 2D6 x 10
 Infectious
+饥饿回复：360 + 2D6 x 10
+传染病
 
 Fried Ribs
+烤排骨
+
 Hunger Regen: 360 + 2D6 x 10
+饥饿回复：360 + 2D6 x 10
 
 Fish
+鱼
+
 Hunger Regen: 360 + 2D6 x 10
 Infectious
+饥饿回复：360 + 2D6 x 10
+传染病
 
 Fried Fish
+烤鱼
+
 Hunger Regen: 360 + 2D6 x 10
+饥饿回复：360 + 2D6 x 10
 
 Chicken
+鸡肉
+
 Hunger Regen: 360 + 2D6 x 10
 Infectious
+饥饿回复：360 + 2D6 x 10
+传染病
 
 Fried Chicken
+炸鸡
+
 Hunger Regen: 360 + 2D6 x 10
+饥饿回复：360 + 2D6 x 10
 
 Blood Cap
+血蘑菇
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
 Poisonous
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
+传染病
 
 Fried Cap
+烤蘑菇
+
 Hunger Regen: 120 + D6 x 10
+饥饿回复：120 + D6 x 10
 
 Death Cap
+毒蘑菇
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
 Good Game
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
+游戏愉快
 
 Bread
+面包
+
 Hunger Regen: 360 + 2D6 x 10
+饥饿回复：360 + 2D6 x 10
 
 Cheese
+奶酪
+
 Hunger Regen: 360 + 2D6 x 10
+饥饿回复：360 + 2D6 x 10
 
 Egg
+鸡蛋
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
 Poisonous
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
+传染病
 
 Fried Egg
+烤蛋
+
 Hunger Regen: 120 + D6 x 10
+饥饿回复：120 + D6 x 10
 
 Apple
+苹果
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
 
 Carrot
+胡萝卜
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
 
 Pear
+梨子
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
 
 Tomato
+番茄
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
 
 Plum
+李子
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
 
 Root
+树根
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
 Infectious (not cookable)
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
+传染病（无法烹饪）
 
 Berries
+浆果
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
 
 Cherries
+樱桃
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
 
 Grapes
+葡萄
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
 
 Cabbage
+卷心菜
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
 
 Potato
+土豆
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
 
 Acorn
+橡子
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
 Infectious (not cookable)
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
+传染病（无法烹饪）
 
 Grass
+草
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
 Cures Bleeding, Infectious (not cookable)
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
+治疗流血，传染病（无法烹饪）
 
 Garlic
+大蒜
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
 
 Onion
+洋葱
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
 
 Lemon
+柠檬
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
 
 Pepper
+胡椒
+
 Hunger Regen: 60 + D6 x 10
 Thirst Regen: 60 + D6 x 10
+饥饿回复：60 + D6 x 10
+干渴回复：60 + D6 x 10
 
 Food Ration
+干粮
+
 Hunger Regen: 360 + 2D6 x 10
 Max Number of Uses: 4
+饥饿回复：360 + 2D6 x 10
+最大使用次数：4
 
 Water Flask
+水袋
+
 Thirst Regen: 360 + 2D6 x 10
 Max Number of Uses: 4
+干渴回复：360 + 2D6 x 10
+最大使用次数：4
 
 Dousing a Fire
+灭火
+
 Water flasks can be used to douse you when you have been set on fire. The whole flask will be used when trying to douse yourself and it is not guaranteed to always work. Some fires are just too powerful to put out completely but the fire will always weaken.
+水袋可以被用来在你燃烧时浇灭火焰。用于灭火时，整个水袋都会被用掉，但并不保证一定成功。有些火焰威力很强无法完全扑灭，但总是能削弱火焰。
 
 Alcoholic Beverages
+酒精饮料
+
 Alcoholic beverages are powerful enough to keep the drunk driver of a horse carriage alive while everyone else onboard dies during a crash. Therefore alcoholic beverages apply a Divine Shield with a duration equal to their hunger regen value.
+酒精饮料的威力足以让一辆马车的醉酒司机继续活着，而车上的其他人都在车祸中丧生。因此，酒精饮料会附上一个神圣之盾，其持续时间等于它们的饥饿回复值。
 
 Beer Tankard
+啤酒杯
+
 Hunger Regen: 120 + D6 x 10
 Thirst Regen: 360 + 2D6 x 10
 Max Number of Uses: 2
 Alcoholic
+饥饿回复：120 + D6 x 10
+干渴回复：360 + 2D6 x 10
+最大使用次数：2
+酒精
 
 Mead Bottle
+蜂蜜酒瓶
+
 Hunger Regen: 120 + D6 x 10
 Thirst Regen: 360 + 2D6 x 10
 Max Number of Uses: 2
 Alcoholic
+饥饿回复：120 + D6 x 10
+干渴回复：360 + 2D6 x 10
+最大使用次数：2
+酒精
 
 Cider Bottle
+苹果酒瓶
+
 Hunger Regen: 120 + D6 x 10
 Thirst Regen: 360 + 2D6 x 10
 Max Number of Uses: 2
 Alcoholic
+饥饿回复：120 + D6 x 10
+干渴回复：360 + 2D6 x 10
+最大使用次数：2
+酒精
 
 Wine Bottle
+葡萄酒瓶
+
 Hunger Regen: 120 + D6 x 10
 Thirst Regen: 360 + 2D6 x 10
 Max Number of Uses: 2
 Alcoholic
+饥饿回复：120 + D6 x 10
+干渴回复：360 + 2D6 x 10
+最大使用次数：2
+酒精
 
 Booze Bottle
+酒瓶
+
 Hunger Regen: 120 + D6 x 10
 Max Number of Uses: 4
 Alcoholic
+饥饿回复：120 + D6 x 10
+最大使用次数：4
+酒精
 
 Milk Jar
+牛奶壶
+
 Hunger Regen: 120 + D6 x 10
 Thirst Regen: 360 + 2D6 x 10
 Cures Bloody Flux
+饥饿回复：120 + D6 x 10
+干渴回复：360 + 2D6 x 10
+治疗血瘟
 
 Amulets
+项链
+
 Some amulets teach the wearer a spell that can be cast by using the amulet as an energy source. This will, however, trigger a cooldown on the amulet that prevents the spell from being cast again until the cooldown reaches 0. In addition to casting a spell, an amulet with the qualities mentioned above will trigger a 30 turn cooldown when it is equipped, unless it is on a longer cooldown already. Note that an amulet on a cooldown must be worn in order for the cooldown to reach 0 (the amulet drains energy from the wearer or something...).
+一些项链会教会佩戴者一个法术，法术的施放以项链为能量源。这样施放法术会触发项链的冷却状态，直到冷却值减到 0 项链才能继续使用。除了施法外，具有上述属性的项链在装备后还会触发 30 回合的冷却时间，或是它本身已有更长的冷却时间。注意，项链必须在佩戴时冷却才会下降到 0 （项链在佩戴时才能从佩戴者处获得能量……）。
 
 Blessed amulets can have up to two different enchants on them instead of one. Some blessed amulets can have additional benefits such as stronger bonuses or more powerful spell effects than they would normally have.
+被祝福的项链可以有两个附魔而不是一个。一些被祝福的项链有更多的效益，比如更强的增益，比普通版更强大的法术效果。
 
 Cursed amulets that teach a spell always result to a miscast when the spell is cast. Otherwise cursed amulets have no additional harmful effects besides the usual penalties.
+被诅咒的项链教会的法术总是施法失败。除此之外，被诅咒的项链没有常规惩罚之外的有害效果。
 
 Amulet of Abjuration
+
 Teaches the wearer how to cast Divine Shield that absorbs 5D6 points of damage and lasts for 5D6 x 10 turns or until the shield breaks. Divine Shield has a 180 turn cooldown and it may not be cast again during the cooldown.
 
 	
