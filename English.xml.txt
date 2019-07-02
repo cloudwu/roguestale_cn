@@ -465,7 +465,7 @@ LootTips."Unique Item" 独特物品
 LootTips."Unidentified" 未鉴定
 LootTips."Cannot be enchanted" 无法附魔
 LootTips."Already known" 已知
-LootTips."Crafting Item" 锻造物品
+LootTips."Crafting Item" 制造物品
 LootTips."Main Hand To-Hit Modifier: %d" 主手命中修正：%d
 LootTips."Main Hand Damage Modifier: %d" 主手伤害修正：%d
 LootTips."Offhand To-Hit Modifier: %d" 副手命中修正：%d

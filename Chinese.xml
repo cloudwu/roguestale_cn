@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 2 (190624)" checksum="30914387a07d6b8aaf816abfea5176e283ef7351">
+<strings version="Version 2.00 Beta 2 (190624)" checksum="a141d9b3a42950cd5ad5f1e8ad30443e83c89c2d">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -514,7 +514,7 @@
     <str id="Unidentified" value="Unidentified" local="未鉴定"/>
     <str id="Cannot be enchanted" value="Cannot be enchanted" local="无法附魔"/>
     <str id="Already known" value="Already known" local="已知"/>
-    <str id="Crafting Item" value="Crafting Item" local="锻造物品"/>
+    <str id="Crafting Item" value="Crafting Item" local="制造物品"/>
     <str id="Main Hand To-Hit Modifier: %d" value="Main Hand To-Hit Modifier: %d" local="主手命中修正：%d"/>
     <str id="Main Hand Damage Modifier: %d" value="Main Hand Damage Modifier: %d" local="主手伤害修正：%d"/>
     <str id="Offhand To-Hit Modifier: %d" value="Offhand To-Hit Modifier: %d" local="副手命中修正：%d"/>
