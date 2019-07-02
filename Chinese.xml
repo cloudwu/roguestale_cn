@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 2 (190624)" checksum="913e86ce9594d830efb5df7791eb9b8d77045051">
+<strings version="Version 2.00 Beta 2 (190624)" checksum="30914387a07d6b8aaf816abfea5176e283ef7351">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -2211,7 +2211,7 @@
     <str id="Ring of Scholars" value="Ring of Scholars" local="博学之戒"/>
     <str id="Ring of Searching" value="Ring of Searching" local="探索之戒"/>
     <str id="Ring of Sustenance" value="Ring of Sustenance" local="维生之戒"/>
-    <str id="Ring of Thirst" value="Ring of Thirst" local="饥渴之戒"/>
+    <str id="Ring of Thirst" value="Ring of Thirst" local="干渴之戒"/>
     <str id="Ring of Anxiety" value="Ring of Anxiety" local="焦虑之戒"/>
     <str id="Ring of Bloodlust" value="Ring of Bloodlust" local="杀戮之戒"/>
     <str id="Ring of Conversion" value="Ring of Conversion" local="转化之戒"/>

@@ -2035,7 +2035,7 @@ RingNames."Ring of Resilience" 韧性之戒
 RingNames."Ring of Scholars" 博学之戒
 RingNames."Ring of Searching" 探索之戒
 RingNames."Ring of Sustenance" 维生之戒
-RingNames."Ring of Thirst" 饥渴之戒
+RingNames."Ring of Thirst" 干渴之戒
 RingNames."Ring of Anxiety" 焦虑之戒
 RingNames."Ring of Bloodlust" 杀戮之戒
 RingNames."Ring of Conversion" 转化之戒

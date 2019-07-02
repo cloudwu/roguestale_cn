@@ -348,7 +348,7 @@ Traps & Triggers
 陷阱和机关
 
 Trap damage scales with player level and the base damage is either D3 or D6. Traps that use D3 as base damage can cause up to 10 points of damage (3D3 + 1) at level 20 and traps that use D6 as base damage can cause up to 21 points of damage (3D6 + 3) at level 20. Note that damage caused by traps cannot be resisted in most cases (magic trap is the only exception as long as its damage type isn't magic).
-陷阱伤害根据玩家等级弹性调整，基础伤害为 D3 或 D6 。使用 D3 作为基础伤害的陷阱在 20 级时会造成最高 10 点伤害（3D3 + 1）；使用 D6 作为基础伤害的陷阱在 20 级时会造成最高 21 点伤害（3D6 + 3）。注意，在大多数情况下陷阱造成的伤害无法抵抗（魔法陷阱在它的伤害类型不是魔法类时是唯一的例外）。
+陷阱伤害根据玩家等级弹性调整，基础伤害为 D3 或 D6 。使用 D3 作为基础伤害的陷阱在 20 级时会造成最高 10 点伤害（3D3 + 1）；使用 D6 作为基础伤害的陷阱在 20 级时会造成最高 21 点伤害（3D6 + 3）。注意，在大多数情况下陷阱造成的伤害无法抵抗（魔法陷阱在它的伤害类型不是魔法时是例外）。
  
 There are four types of traps, direct damage, snares, spawners and triggers. Direct damage traps and snares cause damage when you step on them and if you critically fail to rest or move out, snares hold you in place unless you manage to free yourself from the trap, spawners may spawn creatures and triggers trigger something. Most traps can be avoided by levitating above them.
 有四种类型的陷阱：伤害，捕获，孵化，机关。伤害类和捕获类陷阱在你踏上它们时或是在上面休息严重失败或是移开时造成伤害。捕获类陷阱还会在你成功摆脱陷阱前将你留在原地。孵化类陷阱有可能孵化出生物，机关类陷阱会触发一些东西。所有的陷阱都可以通过漂浮来回避。
@@ -2738,700 +2738,1255 @@ Cursed amulets that teach a spell always result to a miscast when the spell is c
 被诅咒的项链教会的法术总是施法失败。除此之外，被诅咒的项链没有常规惩罚之外的有害效果。
 
 Amulet of Abjuration
+结界项链
 
 Teaches the wearer how to cast Divine Shield that absorbs 5D6 points of damage and lasts for 5D6 x 10 turns or until the shield breaks. Divine Shield has a 180 turn cooldown and it may not be cast again during the cooldown.
+教会你施放神圣之盾，它能吸收 5D6 点伤害，持续 5D6 x 10 回合直到盾破损。神圣之盾有 180 回合冷却时间，在冷却时无法施放。
 
-	
 Amulet of Asphyxia
+窒息项链
+
 Causes 1 point of damage per turn when equipped. Amulet of Asphyxia will become magically bound on equip and cannot be unequipped (see Cursed Items).
+佩戴上后每回合造成一点伤害。窒息项链一旦佩戴就会魔法绑定无法取下来（参见诅咒物品）。
 
-	
+
 Amulet of Conjuration
-Teaches the wearer how to cast Conjure Daemon (see Scroll of Summoning). Conjure Daemon has a 180 turn cooldown and it may not be cast again during the cooldown.
+驱魔项链
 
+Teaches the wearer how to cast Conjure Daemon (see Scroll of Summoning). Conjure Daemon has a 180 turn cooldown and it may not be cast again during the cooldown.
+教会佩戴者释放召唤恶魔（参见召唤卷轴）。驱魔项链有 180 回合冷却时间，在冷却时无法施放。
 	
 Amulet of Divination
+占卜项链
+
 Teaches the wearer how to cast Identify Item (see Scroll of Identify). Identify Item has a 60 turn cooldown and it may not be cast again during the cooldown.
+教会佩戴者释放物品鉴定（参见鉴定卷轴）。占卜项链有 180 回合冷却时间，在冷却时无法施放。
 
-	
 Amulet of Enchantment
+附魔项链
+
 Teaches the wearer how to cast Enchant Item (see Scroll of Enchanting). Enchant Item has a 180 turn cooldown and it may not be cast again during the cooldown.
+教会佩戴者释放物品附魔（参见附魔卷轴）。附魔项链有 180 回合冷却时间，在冷却时无法施放。
 
-	
 Amulet of Evocation
+降灵项链
+
 Teaches the wearer how to cast Elemental Orb that counts as an enlarged Flaming, Frozen and Electric Orb but it does not gain the extra damage for being enlarged and its damage modifier is (STA / 2 rounding up). The damage modifier is capped to 3 unless the amulet is blessed in which case it is always 5. Elemental Orb has a 120 turn cooldown and it may not be cast again during the cooldown.
+教会佩戴者释放元素球，它视作一个增大的火焰，冰霜，雷电球，但不会获得增大带来的额外伤害。它的伤害修正为（耐力 / 2 向上取整）。如果项链没有被祝福，那么伤害修正截取到 3 ，祝福过的永远为 5 。元素球有 120 回合冷却时间，在冷却时无法施放。
 
-	
 Amulet of Exhaustion
+枯竭项链
+
 Causes one point of energy damage to the wearer on a D6 roll of 1, 2, and 3. Amulet of Exhaustion will become magically bound on equip and cannot be unequipped (see Cursed Items).
+每回合投出 D6 ，当值为 1 2 3 时对佩戴者造成一点精力伤害。枯竭项链一旦佩戴就会魔法绑定无法取下来（参见诅咒物品）。
 
-	
 Amulet of Fire Ward
+防火项链
+
 Increases fire resistance by 5 and grants immunity against fire effects.
+增加 5 点火焰抗性，并获得火焰效果免疫。
 
-	
 Amulet of Free Action
+自由项链
+
 Grants a haste effect and immunity against slow effects.
+获得加速效果，并免疫迟缓效果。
 
-	
 Amulet of Frost Ward
+防冰项链
+
 Increases frost resistance by 5 and grants immunity against frost effects.
+增加 5 点冰霜抗性，并获得冰霜效果免疫。
 
-	
 Amulet of Ghost Form
+幽灵项链
+
 Turns the wearer ethereal. Ethereal creatures ignore one half of physical, poison and disease damage but suffer double damage from magical, fire, frost and shock spells. Enchanted weapons work normally against ethereal creatures.
+将佩戴者虚灵化。虚灵化的生物忽略一半的物理，毒害，疾病伤害，但加倍魔法，火焰，冰霜，震击伤害。武器上的附魔对虚灵化生物效果正常。
 
-	
 Amulet of Illusion
+幻影项链
+
 Teaches the wearer how to cast Clone Creature that creates a clone of the target creature that aids the caster for 5D6 x 10 turns. Clone Creature has a 180 turn cooldown and it may not be cast again during the cooldown.
+教会佩戴者施放克隆生物，这能创造目标生物的一个克隆体，它会协助施法者 5D6 x 10 回合。克隆生物有 180 回合冷却时间，在冷却时无法施放。
 
-	
 Amulet of Necromancy
+死灵项链
+
 Teaches the wearer how to cast Animate Dead (see Scroll of Animation). Animate Dead has a 180 turn cooldown and it may not be cast again during the cooldown.
+教会佩戴者施放亡灵复生（参见复活卷轴）。亡灵复生有 180 回合冷却时间，在冷却时无法施放。
 
-	
 Amulet of Nine Lives
+九命项链
+
 Restores the wearer to half or full health upon death on a D6 roll of 5 or 6.
+在佩戴者面对死亡时投出一个 D6 ，5 或 6 的话回复一半或全部生命。
 
-	
 Amulet of Pestilence
+鼠疫项链
+
 Summons a giant rat on a D6 roll of a 1. Amulet of Pestilence will become magically bound on equip and cannot be unequipped (see Cursed Items).
+投出 D6 ，如果投出 1 的话召唤一只巨鼠。鼠疫项链一旦佩戴就会魔法绑定无法取下来（参见诅咒物品）。
 
-	
 Amulet of Protection
+防护项链
+
 Increases all resistances by 1 and grants immunity against stun effects.
+增加所有抗性一点，获得眩晕效果的免疫。
 
-	
 Amulet of Reflection
+反射项链
+
 Reflects half or full weapon and orb spell damage back at the attacker on a D6 roll of 5 or 6.
+投出 D6 ，5 或 6 的时候将武器或法球伤害的一半或全部反弹回攻击者。
 
-	
 Amulet of Seven Keys
+密钥项链
+
 Allows the wearer to automatically pick locks and moving no longer breaks stealth (while the wearer is hidden, any normal move to an empty space is a free Silent Move that always succeeds).
+允许佩戴者自动开锁，且移动不再打断潜行（在佩戴者隐身时，任何向空位的普通移动都视为一次免费的潜行且一定成功）。
 
-	
 Amulet of Shock Ward
+防震项链
+
 Increases shock resistance by 5 and grants immunity against shock effects.
+增加 5 点震击抗性，并获得震击效果免疫。
 
-	
 Amulet of Stone Form
+石化项链
+
 Paralyses the wearer for D6 turns, or instantly kills if already paralysed, on a 2D6 roll of 2. Amulet of Stone Form will become magically bound on equip and cannot be unequipped (see Cursed Items).
+投出 2D6 ，如果投出 2 的话麻痹佩戴者 D6 回合，如果已经麻痹直接至死。石化项链一旦佩戴就会魔法绑定无法取下来（参见诅咒物品）。
 
-	
 Amulet of Transmutation
-Teaches the wearer how to cast Transmute Item that converts the targeted item in the caster's inventory into gold coins. Transmute Item has a 60 turn cooldown and it may not be cast again during the cooldown.
+点金项链
 
-	
+Teaches the wearer how to cast Transmute Item that converts the targeted item in the caster's inventory into gold coins. Transmute Item has a 60 turn cooldown and it may not be cast again during the cooldown.
+教会佩戴者施放物品炼金，这能将施法者装备栏中的物品转化为金币。物品炼金有 60 回合冷却时间，在冷却时无法施放。
+
 Amulet of Yendor
+炎达项链
+
 Adorable piece of jewelry, contains no magical powers though.
+可爱的首饰，然而没有魔法效果。
 
 Amulet of Battlemage
+战法项链
+
 Ignores negative effects to spellcasting while wearing armour and or shield.
+穿盔甲或盾牌时忽略它们对施法的负面影响。
 
 Amulet of Domination
+控制项链
+
 Every point of damage you cause has a 17% chance to charm the target for 1 turn.
+你造成的每点伤害都有 17% 的机会魅惑目标一个回合。
 
 Amulet of Geomancy
+风水项链
+
 Teaches the wearer how to cast Alter Terrain.
+教会佩戴者施放地表变形。
 
 Amulet of Radiance
+辐射项链
+
 Gives you an aura with a radius of 1. Auras also make you immune to their effects.
+给你一个半径为 1 的光环。同时能让你免疫光环效果。
 
 Amulet of Sacrifice
+献祭项链
+
 This must be equipped in order to sacrifice something using a sacrificial circle and a ritual.
+在使用献祭圈进行献祭仪式时必须佩戴它。
 
 Amulet of Submission
+投降项链
+
 Every point of damage you receive has a 17% chance to charm you for 1 turn. This amulet is magically bound on equip and cannot be unequipped.
+你受到的每一点伤害都有 17% 的机会被魅惑。这个项链会魔法绑定无法取下来。
 
 Amulet of Uberlyft
+优步项链
+
 Travel button now works after clearing 50% of the current level.
+旅行按钮现在在清空 50% 的楼层后就可以使用。
 
 Amulet of Wizardry
+巫术项链
+
 Teaches the wearer how to cast Arcane Missile.
+教会佩戴者施放奥术飞弹。
 
 Rings
+戒指
+
 Rings that say their effects don't stack, mean that their effects don't stack with effects from similar rings, but will stack with similar effects from other sources. Re-rolls, however, never stack regardless of the source.
+戒指的效果无法叠加，这意味着你无法从相似的戒指中获得叠加效果，不过类似的效果可以从别的来源叠加。然而重置永远不会叠加，无论来源是什么。
 
 Blessed rings can have up to two different enchants on them instead of one. Some blessed rings can have additional benefits such as stronger bonuses or weaker penalties than they would normally have.
+被祝福的戒指可以有两个附魔而不是一个。一些被祝福的戒指有额外的效果，比如更强的增益，比常规版本更少的惩罚。
 
 Cursed rings have no additional harmful effects besides the usual penalties.
+如果戒指被诅咒，除了常规惩罚外，没有额外的有害效果。
 
 Ring of Accuracy
+精准之戒
+
 Allows the wearer to re-roll misses with ranged and thrown weapons.
+允许佩戴者在远程武器和投掷武器射失时重掷命中骰。
 
-	
 Ring of Adornment
+装饰之戒
+
 Looks impressive but contains no magical powers.
+看起来令人印象深刻，但没有魔法力量。
 
-	
 Ring of Brutality
+凶残之戒
+
 Allows the wearer to re-roll misses with melee weapons.
+允许佩戴者在近战武器击空后重掷命中骰。
 
-	
 Ring of Clarity
+清澈之戒
+
 Grants immunity against blind, deafen and silence effects.
+获得对盲眼，耳聋，沉默效果的免疫力。
 
-	
 Ring of Control
+控制之戒
+
 Grants immunity against charm, confuse and paralyse effects.
+获得对魅惑，混乱，麻痹效果的免疫力。
 
-	
 Ring of Deflection
+偏斜之戒
+
 Increases maximum parry modifier by 1 and doubles the base parry modifier. This effect does not stack.
+加倍佩戴者的招架修正。这个效果无法叠加。
 
-	
 Ring of Elements
+元素之戒
+
 Increases fire, frost and shock resistances by 1, and grants immunity against fire, frost and shock effects.
+获得对火焰，冰霜，震击效果的免疫力。
 
-	
 Ring of Evasion
+闪避之戒
+
 Increases maximum block, dodge and parry modifiers by 1, and either block, dodge or parry modifier by 1. This effect does not stack.
+将格挡，闪避或招架修正之一加 1 。这个效果无法叠加。
 
-	
 Ring of Familiar
+密友之戒
+
 Summons and controls a whelp when equipped. This ring is destroyed if the whelp dies.
+装备时召唤并控制一只幼龙。当幼龙死亡时，戒指也会同时摧毁。
 
-	
 Ring of Fortitude
-Increases health by 1 point for every third level starting from the 1st (4th, 7th, and so on), and grants immunity against sleep and fear effects.
+刚毅之戒
 
+Increases health by 1 point for every third level starting from the 1st (4th, 7th, and so on), and grants immunity against sleep and fear effects.
+从一级开始每三级（第四级，第七级，以此类推）获得一点生命获得对沉睡和恐惧效果的免疫力。
 	
 Ring of Freedom
+自由之戒
+
 Grants immunity against slow, knockback and polymorph effects.
+获得对迟缓，击退，变形效果的免疫力。
 
-	
 Ring of Grease
-Forces the wearer to drop the equipped melee weapon or shield on a D6 roll of 1 when attacking, blocking or parrying an attack. In addition, Ring of Grease forces the wearer to re-roll successful ranged to-hit rolls. This ring will become magically bound on equip and cannot be unequipped.
+油腻之戒
 
+Forces the wearer to drop the equipped melee weapon or shield on a D6 roll of 1 when attacking, blocking or parrying an attack. In addition, Ring of Grease forces the wearer to re-roll successful ranged to-hit rolls. This ring will become magically bound on equip and cannot be unequipped.
+强制佩戴者在攻击，格挡或招架攻击后投出 D6 ，投出 1 的话扔下近战武器或盾牌。另外，油腻之戒会强制佩戴者在远程命中后重掷命中骰。这枚戒指一带佩戴就魔法绑定无法取下。
 	
 Ring of Haste
+迅捷之戒
+
 Grants a haste effect at the expense of doubling the food and water consumption rates.
+获得一个加速效果，但食物和水的消耗速度加倍。
 
-	
 Ring of Hunger
+饥饿之戒
+
 Triples food consumption rate. This ring will become magically bound on equip and cannot be unequipped.
+三倍食物消耗速度。这枚戒指一带佩戴就魔法绑定无法取下。
 
-	
 Ring of Immunity
+免疫之戒
+
 Increases poison and disease resistances by 1, and grants immunity against poison, disease and curse effects.
+增加毒害，疾病抗性一点，获得对毒害，疾病和诅咒效果的免疫力。
 
-	
 Ring of Outcasts
+放逐之戒
+
 May contain up to three different armour enchants instead of one.
+可以附魔三次而不是一次。
 
-	
 Ring of Regeneration
+再生之戒
+
 Regenerates one health (plus base stamina modifier divided by two rounding down) per turn and allows the wearer to re-roll failed energy regeneration checks. This ring causes its wearer to become vulnerable to fire.
+每个回合回复一点生命（加上耐力修正除二向下取整），允许佩戴者在精力回复检定失败后重掷，同时会使他弱火。
 
-	
 Ring of Resilience
+韧性之戒
+
 Grants immunity against leech, drain and instant kill effects.
+获得对吸血，噬精和即死效果的免疫力。
 
-	
 Ring of Scholars
+博学之戒
+
 Automatically identifies scrolls and tomes when they are picked up.
+在拾取卷轴和典籍的同时鉴定它们。
 
-	
 Ring of Searching
+探索之戒
+
 Grants a free action that automatically searches the surroundings each turn when taking a move or rest action, and allows the wielder to re-roll failed search checks. This effect does not stack.
+获得一次免费的搜索行动，同时允许佩戴者在搜索检定失败后重掷。这个效果无法叠加。
 
-	
 Ring of Sustenance
-Ignores food and water consumption on either even or odd game turns, depending on the hand the ring is equipped on.
+维生之戒
 
-	
+Ignores food and water consumption on either even or odd game turns, depending on the hand the ring is equipped on.
+在奇数或偶数回合忽略食物和水的消耗，奇偶取决于装在那只手上。
+
 Ring of Thirst
+干渴之戒
+
 Triples water consumption rate. This ring will become magically bound on equip and cannot be unequipped.
+三倍水消耗速度。这枚戒指一带佩戴就魔法绑定无法取下。
 
 Ring of Anxiety
+焦虑之戒
+
 Makes you vulnerable to all damage. This ring is magically bound on equip and cannot be unequipped.
+使你更容易受任何性质的伤害。这枚戒指一带佩戴就魔法绑定无法取下。
 
 Ring of Bloodlust
+杀戮之戒
+
 Heals you for 20% of the physical weapon damage you cause.
+治疗你相当于 20% 你造成的物理伤害。
 
 Ring of Conversion
+转化之戒
+
 Converts all weapon damage you receive into physical damage and reduces it by 10%.
+把所有你受到的伤害减少 10% 并转换为物理伤害。
 
 Ring of Cracking
+裂解之戒
+
 Increases physical damage by 20% with melee and ranged weapons.
+近战和远程武器的物理伤害增加 20% 。
 
 Ring of Noobery
+愚笨之戒
+
 Halves experience gained. This effect does not stack.
+获得的经验减半。这个效果无法叠加。
 
 Ring of Shadows
+暗影之戒
+
 Hides you in plain sight when you take damage.
+在你受到伤害时将你凭空藏匿。
 
 Ring of Shielding
+护盾之戒
+
 Each point of energy counts as 3 points of health. This effect does not stack.
+每点精力计为三点生命。这个效果无法叠加。
 
 Ring of Underdog
+弱势之戒
+
 Increases all resistances by up to 5, the lower your health.
+最多增加所有的抗性五点，生命越低增加越多。
 
 Armours
+护甲
 
 Armour reduces physical damage taken by a number equal to the physical resistance value of the armour. Note that body armour only protects against normal hits and helmets only protect against critical hits.
- 
+护甲能减少一定数值的物理伤害，这个值等于护甲的物理抗性。注意，身体护甲只能保护普通攻击，而头盔只能保护致命一击。
+
 Armour makes it harder to dodge an attack by limiting the wearer's agility bonus modifier. This 'dodge modifier' normally ranges from +1 to +5 but wearing almost any kind of armour may cap it to a lower level than the wearer's dodge modifier is.
+护甲通过限制穿戴者敏捷增益修正，让闪避攻击变得困难。这个“闪避修正”通常范围从 +1 到 +5 ，不过大多数特定类型的护甲会将这个值截断为低于穿戴者原本的闪避修正的一个值。
  
 Armour also interferes spellcasting by causing excess strain and affects the wearer's stamina bonus modifier which is used to cast many offensive spells. This 'cast modifier' normally ranges from +1 to +5, but wearing armour may cap it to a lower level than the wearer's cast modifier is.
+护甲因为会让穿戴者过度紧张而干涉法术施放，它影响了穿戴者用于施放攻击法术的耐力增益修正。这个“施法修正”通常范围从 +1 到 +5 ，不过穿戴护甲会将这个值截断为低于穿戴者原本的施法修正的一个值。
  
 Wearing heavy armour makes it harder to perform certain actions. Weight modifier is a penalty which is applied to Climb, Jump, Sneak and Swim checks.
+穿戴重甲会使施展特定动作变得困难。重量修正对攀爬，跳跃，潜行，游泳检定是一个惩罚。
  
 When an attack causes physical damage the armour itself can be damaged and has to take a durability check to see if it can shrug off the damage or be damaged (or broken if it was already damaged). Armour durability check uses the following formula:
+当攻击者造成物理伤害时护甲本身也可能损坏，这时会进行一次耐久检定，判定是否会损坏（如果已经损坏则会损毁）。护甲的耐久检定使用以下公式：
  
 2D6 > 2 + Critical Failure Modifier
+2D6 > 2 + 致命失败修正
 
 Padded Armour
+棉甲
+
 Physical Resistance: 1
 Chromatic Resistance: 1
 Max Dodge Modifier: +4
 Max Cast Modifier: +4
+物理抗性：1
+法术抗性：1
+最大闪避修正：+4
+最大施法修正：+4
 
 Leather Armour
+皮甲
+
 Physical Resistance: 2
 Chromatic Resistance: 1
 Max Dodge Modifier: +3
 Max Cast Modifier: +3
+物理抗性：2
+法术抗性：1
+最大闪避修正：+3
+最大施法修正：+3
+
 
 Studded Armour
+札甲
+
 Physical Resistance: 3
 Chromatic Resistance: 2
 Max Dodge Modifier: +2
 Max Cast Modifier: +2
 Weight Modifier: -1
+物理抗性：3
+法术抗性：2
+最大闪避修正：+2
+最大施法修正：+2
+重量修正：-1
 
 Chain Armour
+链甲
+
 Physical Resistance: 4
 Chromatic Resistance: 2
 Max Dodge Modifier: +1
 Max Cast Modifier: +1
 Weight Modifier: -2
+物理抗性：4
+法术抗性：2
+最大闪避修正：+1
+最大施法修正：+1
+重量修正：-2
 
 Plate Armour
+板甲
+
 Physical Resistance: 5
 Chromatic Resistance: 2
 Max Dodge Modifier: 0
 Max Cast Modifier: 0
 Weight Modifier: -3
+物理抗性：5
+法术抗性：2
+最大闪避修正：0
+最大施法修正：0
+重量修正：-3
 
 Robes
+长袍
+
 Physical Resistance: 0
 Chromatic Resistance: 1
 Max Dodge Modifier: 4
 Max Cast Modifier: 5
+物理抗性：0
+法术抗性：1
+最大闪避修正：4
+最大施法修正：5
 
 Fine Armours
+精美护甲
 
 Fine quality armours increase max dodge modifier by 1.
+精美质量的护甲增加最大闪避修正一点。
 
 Helmets
+头盔
 
 Helmets reduce physical damage taken by a number equal to the physical resistance value of a worm helmet. Note that helmets only protect against critical hits and body armour only protects against normal hits.
- 
+头盔能减少一定数值的物理伤害，这个值等于头盔的物理抗性。注意，头盔只能保护致命一击，而身体护甲只能保护普通攻击。
+
 Helmets that cover the skull and the face halve the confusion duration of critical hits (rounding down). Helmets also halve the duration of stun effects (rounding down to a minimum of 1).
- 
+保护住头骨和面部的头盔能当致命一击造成的混乱持续时间减半（向下取整）。头盔还能减半眩晕效果的持续时间（向下取整最小为 1）。
+
 Helmet makes it harder to dodge an attack by limiting the wearer's agility bonus modifier. This 'dodge modifier' normally ranges from +1 to +5 but wearing almost any kind of helmet may cap it to a lower level than the wearer's dodge modifier is. 
+头盔通过限制穿戴者的敏捷增益修正来让闪避攻击变得困难。这个“闪避修正”通常范围从 +1 到 +5 ，但是穿戴多数类型的头盔会截断到一个比闪避修正更小的值。
  
 Helmets also interfere spellcasting by concealing the identity and affecting the wearer's charisma bonus modifier which is used to cast many restorative spells. This 'cast modifier' normally ranges from +1 to +5, but wearing a helmet may cap it to a lower level than the wearer's cast modifier is.
+头盔还会因为隐藏了身份而影响施法，这会对使用穿戴者魅力增益修正来释放的多数回复系法术。这个“施法修正”通常范围从 +1 到 +5 ，但是穿戴头盔会截断到一个比施法修正更小的值。
  
 When an attack causes physical damage the helmet itself can be damaged and has to take a durability check to see if it can shrug off the damage or be damaged (or broken if it was already damaged). Helmet durability check uses the following formula:
- 
+当攻击者造成物理伤害时头盔本身也可能损坏，这时会进行一次耐久检定，判定是否会损坏（如果已经损坏则会损毁）。护甲的耐久检定使用以下公式：
+
 2D6 > 2 + Critical Failure Modifier
+2D6 > 2 + 致命失败修正
 
 Padded Cap
+棉帽
+
 Physical Resistance: 1
 Chromatic Resistance: 1
 Max Dodge Modifier: +4
 Max Cast Modifier: +4
+物理抗性：1
+法术抗性：1
+最大闪避修正：+4
+最大施法修正：+4
 
 Leather Cap
+皮帽
+
 Physical Resistance: 1
 Chromatic Resistance: 1
 Max Dodge Modifier: +4
 Max Cast Modifier: +4
+物理抗性：1
+法术抗性：1
+最大闪避修正：+4
+最大施法修正：+4
 
 Studded Cap
+札帽
+
 Physical Resistance: 2
 Chromatic Resistance: 1
 Max Dodge Modifier: +3
 Max Cast Modifier: +3
+物理抗性：2
+法术抗性：1
+最大闪避修正：+3
+最大施法修正：+3
 
 Plate Cap
+板帽
+
 Physical Resistance: 3
 Chromatic Resistance: 1
 Max Dodge Modifier: +2
 Max Cast Modifier: +3
+物理抗性：3
+法术抗性：1
+最大闪避修正：+2
+最大施法修正：+3
 
 Leather Helm
+皮盔
+
 Physical Resistance: 2
 Chromatic Resistance: 1
 Max Dodge Modifier: +3
 Max Cast Modifier: +2
+物理抗性：2
+法术抗性：1
+最大闪避修正：+3
+最大施法修正：+2
 
 Studded Helm
+札盔
+
 Physical Resistance: 3
 Chromatic Resistance: 2
 Max Dodge Modifier: +2
 Max Cast Modifier: +2
+物理抗性：3
+法术抗性：2
+最大闪避修正：+2
+最大施法修正：+2
 
 Chain Helm
+链盔
+
 Physical Resistance: 4
 Chromatic Resistance: 2
 Max Dodge Modifier: +1
 Max Cast Modifier: +1
+物理抗性：4
+法术抗性：2
+最大闪避修正：+1
+最大施法修正：+1
 
 Plate Helm
+板盔
+
 Physical Resistance: 5
 Chromatic Resistance: 2
 Max Dodge Modifier: 0
 Max Cast Modifier: 0
+物理抗性：5
+法术抗性：2
+最大闪避修正：0
+最大施法修正：0
 
 Hats & Cowls
+帽子或风帽
+
 Physical Resistance: 0
 Chromatic Resistance: 1
 Max Dodge Modifier: +4
 Max Cast Modifier: +5
+物理抗性：0
+法术抗性：1
+最大闪避修正：+4
+最大施法修正：+5
 
 Fine Helmets
+精美头盔
 
 Fine quality helmets increase max dodge modifier by 1.
+精美质量的头盔增加最大闪避修正一点。
 
 Accessories
+附件
 
 There are four kind of armour accessories, boots, gloves, vambraces and spaulders. Each one of those has a special rule of its own but they do not provide resistances like armour and helmets do unless they are enchanted.
+有四种护甲附件：靴子，手套，护腕，护肩。每种都有一个特别的规则，但它们不像护甲和头盔那样提供抗性除非它们被附魔。
 
 Boots
+靴子
+
 Boots force the system to attempt a sidestep if a knockback would push you into a chasm or trap.
+靴子在击退导致把你退入峡谷或陷阱时强制系统变成一次侧移。
 
 Gloves
+手套
+
 Gloves cause your disarmed weapon to be placed in your inventory instead of the ground.
+手套让你在武器被缴械时，掉到你的装备栏中而不是地上。
 
 Vambraces
+护腕
+
 Vambraces force the system to re-roll the disarm check if you are disarmed by a critical hit.
+护腕强制在你被致命一击而缴械时重置缴械检定。
 
 Spaulders
+护肩
+
 Spaulders increase your base chance to resist a critical hit disarm effect by 40%.
+护肩提升你抵抗致命一击造成的缴械效果的基础概率 40% 。
 
 Fine Accessories
+精美附件
 
 Fine quality accessories have no additional benefits.
+精美质量的附件没有额外的收益。
 
 Set Bonuses
+套装奖励
 
 Each armour set has a set bonus that is activated when enough items belonging to the set are equipped. Some item sets may have multiple set bonuses but the ones listed here are the common ones that require all 6 items.
+每种护甲套装有一个套装奖励，只有在装备足够数量的属于套装的物品时才生效。有些套装有多个套装奖励，不过这里列出的是最常见的收集 6 个物品的套装。
 
 Padded Armour set
+棉甲套装
+
 Re-roll failed snare checks.
+重掷陷阱检定。
 
 Leather Armour set 
+皮甲套装
+
 Re-roll failed sneak checks.
+重掷潜行检定。
 
 Studded Armour set
+札甲套装
+
 Re-roll failed persuasion checks.
+重掷说服检定。
 
 Plate Armour set
+板甲套装
+
 Re-roll failed intimidation checks.
+重掷恐吓检定。
 
 Chain Armour set 
+链甲套装
+
 Grants immunity to disarm.
+获得缴械免疫。
 
 Arcane Armour set 
+奥术套装
+
 Reduce Arcane cooldown by 50%.
+减少奥术冷却 50% 。
 
 (Spell School) Armour set 
+（法术类别）套装
 Re-roll clearcast (Spell School).
+重掷沉静施法（法术类别）。
 
 Weapons
+武器
 
 Weapons come in three different sizes, small, medium and large. Small weapons are always wielded using one hand, medium weapons may be wielded using one or two hands, and large weapons are always wielded using two hands.
+武器有三种不同的大小：小型，中型，大型。小型武器永远单手把持，中型武器可以单手也可以双手把持，大型武器永远双手把持。
  
 When a weapon attack critically fails or a weapon succesfully parries an attack, is parried or blocked, the weapon has to take a durability check to see if it can shrug off the damage or be damaged (or broken if it was already damaged). Weapon durability check uses the following formula:
+当武器攻击时致命失败，或是武器成功的招架了攻击，或是被招架格挡，武器都要进行一次耐久检定来决定是否会损坏（如果已经损坏则会损毁）。武器的耐久检定使用以下公式：
  
 2D6 > 3 + Critical Failure Modifier
+2D6 > 3 + 致命失败修正
 
 Weapon Special Rules
+武器特殊规则
 
 Special rules with a chance component use a D6 to determine whether the effect takes place or not. If a rule says that an effect takes place on a roll of 5+, it takes place on a D6 roll of a 5 or 6.
+带几率的特殊规则使用一个 D6 来决定效果是否发生。如果规则写的是投出 5+ 产生效果，那么在 D6 投出 5 或 6 时就发生。
 
 Conduit
+导器
+
 Allows the wielder to re-roll failed spell to-hit checks.
+允许使用者重掷失败的法术命中骰。
 
 Crushing
+粉碎
+
 Halves target creature's physical resistance on a roll of 5+.
+在投出 5+ 时减半目标生物的物理抗性。
 
 Durable
+耐用
+
 Allows the weapon to re-roll failed durability checks.
+允许武器重掷耐久检定。
 
 Flailing
+连打
+
 Ignores target creature's block or parry modifier on a roll of 5+.
+在投出 5+ 时忽略目标生物的格挡或招架修正。
 
 Piercing
+穿刺
+
 Ignores target creature's physical resistance on a roll of 6+
+在投出 6+ 时忽略目标生物的物理抗性。
 
 Polearm
+长柄
+
 Allows the wielder to perform melee attacks against creatures within two spaces instead of creatures within one space.
+允许使用者对两格而不是一格内的生物发起物理攻击。
 
 Slashing
+劈砍
+
 Doubles weapon's base damage on a roll of 5+ against creatures that have lower physical resistance value than the attacker's damage modifier divided by 2.
+在投出 5+ 时，对物理抗性小于攻击者伤害修正除 2 的生物加倍武器的基础伤害。
 
 Slow
+迟缓
+
 Slow weapons must be rearmed before they can be used again. This can be done by resting while having a slow weapon equipped.
+迟缓武器必须在再次使用前整备。这可以在装备迟缓武器时，通过休息来完成。
 
 Imbued Spell
+法术灌注
+
 Teaches a spell to its wielder. The spell is forgotten once the weapon is unequipped (assuming that the spell is not otherwise known by the wielder in which case this rule has no effect).
+教会使用者一个法术。当武器没装备时，这个法术会被忘记（如果法术被装备者从其它途径学会，这条规则无效）。
 
 Melee Weapons
+近战武器
+
 Melee weapons are weapons that can be used in close combat. All melee weapons can be thrown but they count as rocks unless they are specified as thrown. Melee weapons use strength modifier for to-hit and damage. Small weapons and medium weapons that are used two-handedly can use agility modifier instead of strength modifier for to-hit and damage, depending which is better.
+近战武器用于近距离战斗。所有的近战武器都可以仍出去，但只能视为岩石，除非它特别标注为投掷类。近战武器使用力量修正判定命中和伤害。小型武器以及中型武器双手使用时，可以使用敏捷修正而不是力量修正判定命中和伤害，这要看哪个修正更好。
 
 Dagger
+匕首
+
 Damage: D3+1
 Type: Small/Melee
 Special Rules: Piercing
 Max Parry Modifier: +2
+伤害：D3+1
+类型：小型/近战
+特殊规则：穿刺
+最大招架修正：+2
 
 Talon
+利爪
+
 Damage: D3+1
 Type: Small/Melee
 Special Rules: Piercing
 Max Parry Modifier: +3
+伤害：D3+1
+类型：小型/近战
+特殊规则：穿刺
+最大招架修正：+3
 
 Sword
+剑
+
 Damage: D6
 Type: Medium/Melee
 Special Rules: Slashing
 Max Parry Modifier: +2
+伤害：D6
+类型：中型/近战
+特殊规则：劈砍
+最大招架修正：+2
 
 Claw
+长爪
+
 Damage: D6
 Type: Small/Medium/Melee
 Special Rules: Piercing
 Max Parry Modifier: +3
+伤害：D6
+类型：小型/中型/近战
+特殊规则：穿刺
+最大招架修正：+3
 
 Hatchet
+小斧
+
 Damage: D3+1
 Type: Small/Melee/Thrown
 Special Rules: Crushing
 Max Parry Modifier: +1
+伤害：D3+1
+类型：小型/近战/投掷
+特殊规则：粉碎
+最大招架修正：+1
 
 Axe
+斧
+
 Damage: D6
 Type: Medium/Melee
 Special Rules: Crushing
 Max Parry Modifier: +1
+伤害：D6
+类型：中型/近战
+特殊规则：粉碎
+最大招架修正：+1
 
 Club
+棒
+
 Damage: D3
 Type: Medium/Melee
 Special Rules: Crushing
 Max Parry Modifier: +1
+伤害：D3
+类型：中型/近战
+特殊规则：粉碎
+最大招架修正：+1
 
 Mace
+钉锤
+
 Damage: D6
 Type: Medium/Melee
 Special Rules:
 Crushing
 Durable
+伤害：D6
+类型：中型/近战
+特殊规则：
+粉碎
+耐用
 
 Hammer
+锤
+
 Damage: D6+1
 Type: Medium/Melee
 Special Rules:
 Crushing
 Durable
+伤害：D6+1
+类型：中型/近战
+特殊规则：
+粉碎
+耐用
 
 Flail
+连枷
+
 Damage: D6
 Type: Medium/Melee
 Special Rules:
 Crushing
 Flailing
+伤害：D6
+类型：中型/近战
+特殊规则：
+粉碎
+连打
 
 Staff
+杖
+
 Damage: D6
 Type: Large/Melee
 Special Rules:
 Conduit
 Polearm
+伤害：D6
+类型：大型/近战
+特殊规则：
+导器
+长柄
 
 Wizard Staff
+法杖
+
 Damage: D6
 Type: Medium/Melee
 Special Rules:
 Conduit
 Polearm
 Imbued Spell
+伤害：D6
+类型：中型/近战
+特殊规则：
+导器
+长柄
+法术灌注
 
 Spear
+长枪
+
 Damage: D6+1
 Type: Large/Melee/Thrown
 Special Rules:
 Piercing
 Polearm
+伤害：D6+1
+类型：大型/近战/投掷
+特殊规则：
+穿刺
+长柄
 
 Mangler
+大剑
+
 Damage: D6+D3
 Type: Large/Melee
 Special Rules:
 Slashing
 Durable
+伤害：D6+D3
+类型：大型/近战
+特殊规则
+劈砍
+耐用
 
 Chopper
+巨斧
+
 Damage: D6+D3
 Type: Large/Melee
 Special Rules:
 Crushing
 Durable
+伤害：D6+D3
+类型：大型/近战
+特殊规则：
+粉碎
+耐用
 
 Crusher
+大锤
+
 Damage: D6+D3
 Type: Large/Melee
 Special Rules:
 Crushing
 Durable
+伤害：D6+D3
+类型：大型/近战
+特殊规则：
+粉碎
+耐用
 
 Digger
+镐
+
 Damage: D6+D3
 Type: Large/Melee
 Special Rules:
 Piercing
 Durable
+伤害：D6+D3
+类型：大型/近战
+特殊规则：
+穿刺
+耐用
 
 Ranged Weapons
+远程武器
+
 Ranged weapons can be used to shoot at range. Ranged weapons require arrows or bolts in order to work. Projectile damage is added to the damage of the weapon. Ranged weapons use agility modifier for to-hit and damage.
+远程武器用于远距离射击。远程武器需要箭才能工作。弹药的伤害追加在武器伤害之上。远程武器通常使用敏捷修正判定命中和伤害。
 
 Branch
+树枝
+
 Damage: D2
 Type: Medium/Ranged
+伤害：D2
+类型：中型/远程
 
 Bow
+弓
+
 Damage: D3
 Type: Medium/Ranged
+伤害：D3
+类型：中型/远程
 
 Recurve
+反曲弓
+
 Damage: D3+1
 Type: Medium/Ranged
+伤害：D3+1
+类型：中型/远程
 
 Crossbow
+十字弓
+
 Damage: 2D3
 Type: Large/Ranged
 Special Rules: Slow
+伤害：2D3
+类型：大型/远程
+特殊规则：迟缓
 
 Repeater
+连弩
+
 Damage: 2D3
 Type: Large/Ranged
+伤害：2D3
+类型：大型/远程
 
 Projectiles
+弹药
 
 Stick
+树棍
+
 Damage: 1
 Stack Size: 12
+伤害：1
+堆大小：12
 
 Arrow
+羽箭
+
 Damage: D3
 Stack Size: 12
 Special Rules: Piercing
+伤害：D3
+堆大小：12
+特殊规则：穿刺
 
 Arrow
+羽箭
+
 Damage: D3+1
 Stack Size: 12
 Special Rules: Piercing
+伤害：D3+1
+堆大小：12
+特殊规则：穿刺
 
 Bolt
+箭头
+
 Damage: D3
 Stack Size: 12
 Special Rules: Piercing
+伤害：D3
+堆大小：12
+特殊规则：穿刺
 
 Bolt
+箭头
+
 Damage: D3+1
 Stack Size: 12
 Special Rules: Piercing
+伤害：D3+1
+堆大小：12
+特殊规则：穿刺
 
 Thrown Weapons
+投掷武器
+
 Thrown weapons are weapons that can only be used by throwing them. Thrown weapons are not equipped like other weapons and instead of equipping them, they are thrown directly from the backpack. Unless specified otherwise, thrown weapons use agility modifier for to-hit and strength modifier for damage.
+投掷武器只能通过投掷它们来使用。投掷武器不需要像别的武器那样装备，它们直接从背包仍出去。除非特殊指明，投掷武器使用敏捷修正判定命中，对伤害使用力量修正。
 
 Rock
+岩石
+
 Damage: 1
 Type: Thrown
+伤害：1
+类型：投掷
 
 Throwing Star
+手里剑
+
 Damage: D3
 Type: Thrown
+伤害：D3
+类型：投掷
 
 Throwing Knife
+飞刀
+
 Damage: D3
 Type: Thrown
+伤害：D3
+类型：投掷
 
 Fine Weapons
+精美武器
 
 Fine quality weapons are more durable, more balanced to allow parrying and lighter to make them easier to handle.
+精美质量的武器更耐用，更容易用来招架，更轻便容易掌握。
 
 Shields
+盾牌
 
 Shields may be used to block one attack of any kind once per turn if the wielder is capable of blocking an attack. Shields do not block the attack automatically but they do provide a penalty modifier that affects the attacker's to-hit roll which may result in the attack being missed. This 'block modifier' equals to the strength bonus modifier of the wielder and it normally ranges from +1 to +5. 
+当使用者可以格挡攻击时，盾牌每个回合可以用来格挡一次任意攻击。盾牌不会自动格挡攻击，但它们提供了一个惩罚修正，这会影响攻击者的命中骰，这可能导致攻击失误。这个“格挡修正”等于使用者的力量修正，通常范围从 +1 到 +5 。
  
 Some shields only provide a certain level of protection and no matter how strong the wielder is, the block modifier may be capped to a lower level than the wielder's block modifier is. Note, however, that all shields grant the wielder a minimum block modifier regardless of the strength of the wielder.
+一些盾牌只能提供一定级别的保护，而无视使用者有多么强壮，格挡修正可能把使用者的格挡修正截断到一个更低的值。注意：不过所有盾牌都会给使用者一个最小格挡值而无视使用者的力量。
  
 Wielding a shield severely hinders spell casting and a spell caster wielding a shield must re-roll successful spell to-hit rolls.
- 
+使用盾牌会严重阻碍法术释放，施法者在使用盾牌时必须重置已经成功的施法命中骰。
+
 When a shield succesfully blocks an attack or an attack made with a shield critically fails, the shield itself can be damaged and has to take a durability check to see if it can shrug off the damage or be damaged (or broken if it was already damaged). Shield durability check uses the following formula:
+当盾牌成功格挡一次攻击，或用盾牌造成攻击严重失败时，盾牌有可能损坏，它需要通过一次耐久检定来决定是否损坏（如果已经损坏则会损毁）。盾牌的耐久检定使用以下公式：
  
 2D6 > 2 + Critical Failure Modifier
+2D6 > 2 + 致命失败修正
 
 Fine Shields
+精美盾牌
 
 Fine quality shields increase shield bash damage by 1.
+精美质量的盾牌提升盾击伤害一点。
 
 Buckler
+小盾
+
 Min Block Modifier: +1
 Max Block Modifier: +2
 Shield Bash Damage: D3
+最小格挡修正：+1
+最大格挡修正：+2
+盾击伤害：D3
 
 Target
+圆盾
+
 Min Block Modifier: +1
 Max Block Modifier: +3
 Shield Bash Damage: D3
+最小格挡修正：+1
+最大格挡修正：+3
+盾击伤害：D3
 
 Shield
+大盾
+
 Min Block Modifier: +2
 Max Block Modifier: +4
 Shield Bash Damage: D6
+最小格挡修正：+2
+最大格挡修正：+4
+盾击伤害：D6
 
 Barrier
+巨盾
+
 Min Block Modifier: +2
 Max Block Modifier: +5
 Shield Bash Damage: D6
+最小格挡修正：+2
+最大格挡修正：+5
+盾击伤害：D6
 
 Crafting
+制造
+
 Crafting becomes available after completing an account bound one time quest to save Artificer Leo Noerde.
+制造会在一个账号完成一次拯救工匠鲁班的任务后开放。
  
 As it turns out, Leo has lost almost all of his schematics detailing how to craft superior quality items and it is up to the player to locate them. Once the player locates a schematic and brings it back to Leo, the item contained in the schematic can then be crafted in the current game and in any subsequent games.
+事实上，鲁班丢失了它的所有用于制造优秀质量物品的图纸，这些需要玩家找回来。一旦玩家找到一张图纸，将其带回给鲁班，这张图纸上记载的物品就在当前以及之后的每局游戏中都可以制造。
  
 There are five different crafting materials and they are called Tithril, Bearskin, Flexweave, Hardwood and Scrap. There are also some items, such as Soul Gems, that are not just crafting materials and they may have some other uses as well.
+有五种不同的制造材料，他们是钛石，熊皮，蛛丝，硬木，和碎片。还有一些物品，比如魂晶，不只是用于制造材料，还能有别的用途。
  
 Note that there might be other sources for finding crafting materials and these are just the most common and easiest ways to find them.
+注意，可能有别的来源找到这些制造材料，下面列出的只是最常规找到它们的途径。
 
 Crafting Materials
+制造材料
 
 Tithril Ore
+钛石矿
 
 Tithril ore can be found when the player digs through a wall or boulder using a digger. If the digging roll is a critical success, tithril ore will be placed on the ground.
+钛石矿可以在玩家使用镐挖掘墙壁或巨石时获得。如果挖掘骰致命成功，钛石矿就会出现在地上。
 
 Bearskin
+熊皮
 
 Bearskin can be found on all bears. All you have to do is to kill one before it kills you and you're good to go.
+熊皮可以在所有熊的身上找到。你要做的所有事情就是在熊杀死你之前杀掉它，祝你好运。
 
 Flexweave
+蛛丝
 
 Flexweave can be found on all spiders that are big enough to eat you. They are even kind enough to supply you with a spindle for the thread.
+蛛丝可以在所有的大到可以吃掉你的蜘蛛身上找到。它们甚至好心地为你提供了一个纺锤丝。
 
 Hardwood
+硬木
 
 Hardwood can be found on any breakable wooden item whether it is a door, chest, sign or whatever. If the roll to break is a critical success, hardwood will be placed on the ground.
+硬木可以在任何破坏的木制物品上找到，比如门，箱子，指示牌或别的什么。如果破坏检定致命成功，硬木就会在地上出现。
 
 Scrap
+碎片
 
 Scrap can be found when the player destroys a weapon, armour or shield by throwing it to a wall. If the roll to hit is a critical success the player receives a scrap in the inventory.
+碎片可以在玩家把武器，护甲，盾牌扔向墙壁摧毁它们时找到。如果命中致命成功，玩家就会在装备栏中得到一块碎片。
 
 Soul Gem
+魂晶
 
 Soul gems can be found on dead spellcasters that use certain spells but there are ways to make them if you don't mind taking them by force.
+魂晶可以在死去的使用特定法术的施法者身上找到，但如果你不介意使用武力的话，也有制造它们的方法。
