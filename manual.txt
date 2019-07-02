@@ -1776,3 +1776,1475 @@ Engraved Pyramidion
 
 Allows apprentice wizards to learn and cast Abyssal spells (learning also requires black soul gems).
 允许巫师学徒学习和施放深渊法术（学习时需要有黑色魂晶）。
+
+Scrolls
+卷轴
+
+Scrolls are single use items that will cast a bound spell when used. A creature wishing to use a scroll must know how to read by having learned the Literacy: Common talent.
+卷轴式一种一次性使用的物品，使用时会施放绑定在上面的法术。生物想使用卷轴必须先知道怎样阅读，即学习读写常识这个天赋。
+
+Scrolls have a power level, or mastery modifier, that ranges from 0 to 5 and determines how powerful the scrolls' effects are. Regular scrolls have a mastery modifier of 0 or 1, adept's scrolls have a mastery modifier of 2 or 3, and master's scrolls have a mastery modifier of 4 or 5.
+卷轴有一个威力等级，或者叫精通修正，其范围从 0 至 5 ，决定了卷轴的效果威力。普通卷轴的精通修正为 0 或 1 ，专家级卷轴的精通修正为 2 或 3 ，大师级卷轴的精通修正为 4 或 5 。
+
+Some of the following scroll descriptions use X instead of (mastery modifier or 1, whichever is higher). For example, if an effect's duration is XD6 x 10 turns and the mastery modifier is 0, the effect lasts for 1D6 x 10 turns.
+下列部分卷轴描述使用 X 替代精通修正和 1 之间较高的值。例如，如果效果的持续时间为 XD6 x 10 回合，精通修正为 0 ，那么最终效果会持续 1D6 x 10 回合。
+
+Scroll of Aggravation
+激怒卷轴
+
+Aggravates all creatures in the current level.
+激怒当前楼层的所有生物。
+
+Scroll of Amnesia
+健忘卷轴
+
+Causes the caster to forget a random knowledge.
+让施法者随机忘却一个知识。
+
+Scroll of Animation
+复活卷轴
+
+Permanently turns a dead human into an undead familiar.
+将一个死去的人类永久的变成一个亡灵伙伴。
+
+Scroll of Banishment
+放逐卷轴
+
+Casts Banish Daemon on all daemons within line of sight (ignores level modifiers).
+尝试驱逐视野中的所有恶魔（忽略级别修正）。
+
+Scroll of Blessing
+祝福卷轴
+
+Removes all curse effects from the target creature, location, or an item.
+移除目标生物，位置或物品上的所有诅咒效果。
+
+Scroll of Darkness
+黑暗卷轴
+
+Blinds the caster for XD6 x 10 turns.
+致盲施法者 XD6 x 10 回合。
+	
+Scroll of Detection
+侦察卷轴
+
+Reveals all hidden map objects to the caster.
+对施法者揭示所有隐藏的地图物品。
+
+Scroll of Dislocation
+移位卷轴
+
+Teleports the target creature to a random location.
+把目标生物传送到一个随机位置。
+
+Scroll of Dispel
+驱散卷轴
+
+Removes all magical effects from the target creature, location, or an item.
+移除目标生物、位置或物品上的所有魔法效果。
+
+Scroll of Enchanting
+附魔卷轴
+
+Enchants the targeted item in the caster's inventory with a random enchant.
+对施法者物品栏中的一件物品附魔。
+
+Scroll of Identify
+鉴定卷轴
+
+Identifies the targeted item in the caster's inventory.
+鉴定施法者物品栏中的一件物品。
+
+Scroll of Invisibility
+隐形卷轴
+
+Turns the target creature invisible for XD6 x 10 turns.
+让目标生物隐形 XD6 x 10 回合。
+	
+Scroll of Knowledge
+知识卷轴
+
+Teaches the caster a random knowledge.
+教会施法者一个随机的知识。
+
+Scroll of Levitation
+漂浮卷轴
+
+Levitates the target creature for XD6 x 10 turns.
+让目标生物浮空 XD6 x 10 回合。
+
+Scroll of Light
+光明卷轴
+
+Turns on all light sources in the current level.
+点亮当前楼层中的所有光源。
+
+Scroll of Polymorph
+变形卷轴
+
+Polymorphs the target creature into a giant rat for XD6 turns.
+把目标生物变形为一只巨鼠 XD6 回合。
+
+Scroll of Recharging
+充能卷轴
+
+Adds X charges to the targeted wand in the caster's inventory.
+对施法者物品栏中的一把魔杖充能 X 次。
+
+Scroll of Summoning
+召唤卷轴
+
+Summons a daemon at the target location and enslaves it for (D6 + X) x 10 turns.
+在目标位置召唤一个恶魔并奴役它 (D6 + X) x 10 回合。
+	
+Scroll of Teleport
+传送卷轴
+
+Teleports the caster to the target location within line of sight.
+将施法者传送到视野中的指定位置。
+
+Scroll of Turning
+超度卷轴
+
+Casts Turn Undead on all undeads within line of sight (ignores level modifiers).
+尝试超度视野中的所有亡灵（忽略级别修正）。
+
+Scroll of Boomshroom
+爆炸菇卷轴
+
+Causes the targeted mushroom patch to explode. May cause a chain reaction.
+引爆目标处的蘑菇，有可能造成连锁反应。
+
+Scroll of Cultivation
+耕种卷轴
+
+Springs up a number of mushroom patches over a large area.
+在一大片区域上种下蘑菇。
+
+Scroll of Disorder
+混乱卷轴
+
+Summons a snake pit and possibly some snakes around it.
+召唤一个蛇坑，可能还会有一些蛇围绕着它。
+
+Scroll of Distraction
+干扰卷轴
+
+Summons up to 6 mirror images and hides you in plain sight.
+召唤最多 6 个镜像，让你凭空藏匿。
+
+Scroll of Entangling
+蛛网卷轴
+
+Captures the target in a spider web and summons some spiders.
+用蜘蛛网捕获目标，并召唤一些蜘蛛。
+
+Scroll of First Aid
+急救卷轴
+
+Stops you from bleeding and applies a renewing touch effect.
+给你止血并施加一个回复之触效果。
+
+Scroll of Forestation
+造林卷轴
+
+Causes the targeted mushroom patch to spawn a treeman. May cause a chain reaction.
+让目标蘑菇长成一个树人。可能产生连锁反应。
+
+Scroll of Gimmiedat
+空手入白刃卷轴
+
+Disarms the target by equipping its main hand weapon in your empty thieving leprachaun hands.
+将目标装备在主手的武器缴械到你的空手中。
+
+Scroll of Soothing
+抚慰卷轴
+
+Soothes all beasts within line of sight.
+抚慰视野中的所有野兽。
+
+Scroll of Time Warp
+时空卷轴
+
+Cancels your current quest and returns you to town, allowing you to try it again later.
+取消你当前的任务并返回城镇，允许你以后再此尝试。
+
+Potions
+药剂
+
+Potions are single use items that can be drank or thrown and will either apply a new magic, poison, or disease effect, or removes one or more of these effects when used.
+药剂师一种一次性使用的物品，它可以喝掉也可以扔出去。它能在使用时给目标附加一个新的魔法，毒害，或是疾病效果，也可能是移除一个或更多的效果。
+
+Potions have a power level, or potency modifier, that ranges from 0 to 5 and determines how powerful the potion's effect is. Diluted potions have a potency modifier of 0 or 1, regular potions have a potency modifier of 2 or 3, and potent potions have a potency modifier of 4 or 5.
+药剂有一个威力等级，或称为效能修正，其范围从 0 至 5 ，决定了药剂的效果威力。稀释的药剂的效能修正为 0 或 1 ，常规药剂的效能修正为 2 或 3 ，强效药剂的效能修正为 4 或 5 。
+
+Some of the following potion descriptions use X instead of (potency modifier or 1, whichever is higher). For example, if an effect's duration is XD6 x 10 turns and the potency modifier is 3, the effect lasts for 3D6 x 10 turns. Potions that cause disease effects have disease power level of X / 2 rounding down.
+下列部分药剂描述使用 X 替代效能修正和 1 之间较高的值。例如，如果效果的持续时间为 XD6 x 10 回合，效能修正为 3 ，那么最终效果会持续 3D6 x 10 回合。药剂导致的疾病威力等级为 X / 2 向下取整。
+
+Poisons can be applied on the main hand weapon and it is done automatically if the owner knows the contents of the potion and uses it. The potency of them is potency / 2 rounding down.
+药剂可以在主手武器上淬毒。只要拥有者知道药剂是什么，在使用药剂的时候就能自动完成。其威力等于效能 / 2 向下取整。
+
+Poisons applied on weapons diminish in potency when the effects are applied on a target creature. Each application lowers the potency by 1. When the potency reaches 0 and the effect is applied again, the poison wears off.
+武器上的淬毒威力会随着毒害侵蚀目标生物而减小。每次侵蚀会减少 1 点威力。当威力变为 0 后，再次侵蚀会让毒效消失。
+
+Potion of Antidote
+解毒药剂
+
+Removes X poison and or disease effects.
+移除 X 个毒害疾病效果。
+
+Potion of Awareness
+意识药剂
+
+Teaches Keen Eye talent for X x 1000 turns.
+教会锐利目光天赋 X x 1000 回合。
+
+Potion of Blindness
+致盲药剂
+
+Applies a Blinding Poison effect for XD6 x 10 turns.
+附上致盲之毒 XD6 x 10 回合。
+
+Potion of Burning
+燃烧药剂
+
+Causes XD6 points of fire damage and sets the target on fire for D6 + X turns.
+造成 XD6 点的火焰伤害，让目标燃烧 D6 + X 回合。
+
+Potion of Charming
+魅惑药剂
+
+Applies a Charming Poison effect for XD6 x 10 turns.
+附上魅惑之毒效果 XD6 x 10 回合。
+
+Potion of Confusion
+混乱药剂
+
+Applies a Confusing Poison effect for XD6 x 10 turns.
+附上混乱之毒效果 XD6 x 10 回合。
+
+Potion of Deafness
+致聋药剂
+
+Applies a Deafening Poison effect for XD6 x 10 turns.
+附上震聋之毒效果 XD6 x 10 回合。
+
+Potion of Death
+死亡药剂
+
+Applies a Deadly Poison effect for XD6 x 10 turns.
+附上死亡之毒效果 XD6 x 10 回合。
+
+Potion of Draining
+噬精药剂
+
+Applies a Draining Poison effect for XD6 x 10 turns.
+附上枯竭之毒效果 XD6 x 10 回合。
+
+Potion of Energy
+精力药剂
+
+Restores X points of energy and applies a magical effect for XD6 x 10 turns that allows the creature to re-roll failed energy regeneration checks.
+回复 X 点精力，并附加一个 XD6 x 10 回合的魔法效果，能让生物重掷精力回复检定。
+
+Potion of Healing
+治疗药剂
+
+Restores XD6 points of health and 1 lost ability point and applies a magical effect for XD6 x 10 turns that allows the creature to re-roll failed health regeneration checks.
+回复 XD6 点生命，并附加一个 XD6 x 10 回合的魔法效果，能让生物重掷生命回复检定。
+
+Potion of Holy Water
+神圣之水
+
+Causes XD6 points of magic damage to daemons and undeads and has a chance to instantly kill them.
+对恶魔和亡灵造成 XD6 点魔法伤害，并由机会立即杀死它们。
+
+Potion of Insight
+洞察药剂
+
+Applies a magical effect for XD6 x 10 turns that allows the creature to identify items just by picking them up.
+附上一个 XD6 x 10 回合的魔法效果，能让生物在拾取物品时立刻鉴定。
+
+Potion of Leeching
+吸血药剂
+
+Applies a Leeching Poison effect for XD6 x 10 turns.
+附上吸血之毒效果 XD6 x 10 回合。
+
+Potion of Literacy
+读写药剂
+
+Teaches Literacy: Common talent for X x 1000 turns.
+教会读写常识天赋 X x 1000 回合。
+
+Potion of Paralysis
+麻痹药剂
+
+Applies a Paralytic Poison effect for XD6 x 10 turns.
+附上麻痹之毒效果 XD6 x 10 回合。
+
+Potion of Sickness
+虚弱药剂
+
+Applies Dungeon Fever and X other disease effects for XD6 x 10 turns (see Diseases).
+附上地城热及 X 个其它疾病效果 XD6 x 10 回合（参见疾病）。
+
+Potion of Silencing
+沉默药剂
+
+Applies a Silencing Poison effect for XD6 x 10 turns.
+附上沉默之毒效果 XD6 x 10 回合。
+
+Potion of Sleeping
+沉睡药剂
+
+Applies a Sleeping Poison effect for XD6 x 10 turns.
+附上沉睡之毒效果 XD6 x 10 回合。
+
+Potion of Slowness
+迟缓药剂
+
+Applies a Slowing Poison effect for XD6 x 10 turns.
+附上迟缓之毒效果 XD6 x 10 回合。
+
+Potion of Swiftness
+加速药剂
+
+Applies a haste effect for XD6 x 10 turns (see Speed Effects).
+附上加速效果 XD6 x 10 回合（参见速度效果）。
+
+Potion of Troll Blood
+巨魔之血
+
+Grants regeneration and makes the imbiber vulnerable to fire for XD6 x 10 turns.
+获得再生能力，并弱火 XD6 x 10 回合。
+
+Potion of Willpower
+意志药剂
+
+Teaches Strong Will talent for X x 1000 turns.
+教会坚强意志天赋 X x 1000 回合。
+
+Potion of Wolf Form
+狼形药剂
+
+Teaches Shapeshift: Wolf talent for X x 1000 turns.
+教会变身：狼天赋 X x 1000 回合。
+
+Potion of Strength
+力量药剂
+
+Increases strength by X for X x 360 turns.
+增加力量 X 点持续 X x 360 回合。
+
+Potion of Agility
+敏捷药剂
+
+Increases agility by X for X x 360 turns.
+增加敏捷 X 点持续 X x 360 回合。
+
+Potion of Stamina
+耐力药剂
+
+Increases stamina by X for X x 360 turns.
+增加耐力 X 点持续 X x 360 回合。
+
+Potion of Charisma
+魅力药剂
+
+Increases charisma by X for X x 360 turns.
+增加魅力 X 点持续 X x 360 回合。
+
+Potion of Clotting
+凝血药剂
+
+Stops bleeding and applies a Draining Poison for (5 - X) x 10 turns.
+止血，附上枯竭之毒 (5 - X) x 10 回合。
+
+Potion of Floating
+漂浮药剂
+
+Applies a levitation effect for XD6 x 10 turns.
+附上浮空效果 XD6 x 10 回合。
+
+Wands
+魔杖
+
+Wands are rechargeable items that will cast a bound spell when used. A creature wishing to use a wand must know how to read by having learned the Literacy: Common talent.
+魔杖是一种可充能的物品，它在使用时能施放绑定的法术。生物想使用魔杖必须先知道怎样阅读，即学习读写常识这个天赋。
+
+Wands can have up to 6 charges depending on the type of the wand. A wand that reaches 0 charges becomes depleted, or in case of a blessed wand, rolls a D6 and on a score of 5+ the wand receives D3 charges, and on any other score the wand loses its blessing and gains 1 charge.
+魔杖最大充能数取决于魔杖类型，最多 6 发。当充能数为 0 时变成耗尽状态，但若是被祝福的魔杖，此时投出一个 D6 ，5+ 时魔杖会获得 D3 充能，其它数字则获得 1 次充能并失去祝福。
+
+Wands have a power level, or mastery modifier, that ranges from 0 to 5 and determines how powerful the wands' effects are. Novice's wands have a mastery modifier of 0 or 1, adept's wands have a mastery modifier of 2 or 3, and master's wands have a mastery modifier of 4 or 5.
+魔杖有一个威力等级，或称为精通修正。其范围从 0 至 5 ，决定了魔杖的效果威力。新手魔杖的精通修正为 0 或 1 ，专家魔杖的精通修正为 2 或 3 ，大师魔杖的精通修正为 4 或 5 。
+
+Wand of Blizzard
+暴雪魔杖
+
+Shoots an amplified and enlarged Frozen Orb at the target location.
+向目标地点发射一颗不断扩张和放大的冰球。
+
+Wand of Burning
+燃烧魔杖
+
+Shoots a flaming stream at the target location hitting everyone on the path. Each creature caught inside the stream will be treated as if being hit by an amplified Flaming Orb.
+向目标地点发射一条燃烧的热浪，对路径上的所有单位造成伤害。热浪中的每个生物都视同被加强火球击中。
+
+Wand of Channeling
+通导魔杖
+
+Allows the caster to channel a known spell through the wand. A spell cast this way draws the required energy from the wand and the spell will always hit its target.
+允许施法者通过魔杖通导一个已知的法术。用此种方式施放的法术从魔杖中获得所需精力，并一定命中目标。
+	
+Wand of Chilling
+严寒魔杖
+
+Shoots a frozen stream at the target location hitting everyone on the path. Each creature caught inside the stream will be treated as if being hit by an amplified Frozen Orb.
+向目标地点发射一条冰冻的寒流，对路径上的所有单位造成伤害。寒流中的每个生物都视同被加强冰球击中。
+	
+Wand of Corruption
+腐败魔杖
+
+Creates a cloud of corruption at the target location. Each creature caught inside the cloud will be afflicted with a Curse of Agony for 2D6 x 10 turns.
+在目标地点制造一团腐败之云，覆盖范围内的所有生物将被附上 2D6 x 10 回合的痛苦诅咒。
+	
+Wand of Crippling
+毁灭魔杖
+
+Shoots a crippling stream at the target location hitting everyone on the path. Each creature caught inside the stream will be affected by D3 random effects with a duration of 2D6 turns from the following list: blindness, confusion, deafness, paralysis, silence, sleep.
+向目标地点发射一束毁灭之光，路径上的所有生物将被附加持续 2D6 回合的 D3 种以下效果：盲眼，混乱，聋耳，麻痹，沉默，沉睡。
+	
+Wand of Crushing
+落石魔杖
+
+Causes a boulder to fall from the ceiling at the target location. Any creature caught under the boulder must pass a reflex check or die instantly. This effect cannot be avoided in any other way except by passing the reflex check.
+向目标地点从天花板落下巨石。巨石下的任何生物都必须通过一次反射检定，否则会立刻死亡。这个效果无法用任何其它方式回避。
+
+Wand of Entrapment
+诱捕魔杖
+
+Creates a web explosion at the target location. Any creature caught within the explosion will be trapped in a spider web.
+在目标地点张开大网，里面的任何生物都会陷入蛛网。
+
+Wand of Excavation
+挖掘魔杖
+
+Creates a spiked pit at the target location, turns a wall into a boulder, or destroys a boulder.
+在目标位置创造一个尖刺坑，或是将墙壁变为巨石，亦或是摧毁一个巨石。
+
+Wand of Freezing
+冰冻魔杖
+
+Causes D6 + (STA / 2 rounded up) points of frost damage to the target creature. If the damage after resistances is one or more, the creature must pass a death check or be frozen solid and die instantly. The damage caused is used as a penalty modifier for the death check.
+对目标生物造成 D6 +（耐力 / 2 向上取整）点的冰霜伤害。如果在除去抗性后的伤害还有一点或更多，生物必须通过一次死亡检定，否则会被立刻冻死。造成的伤害点被用于死亡检定的惩罚修正。
+
+Wand of Infection
+瘟疫魔杖
+
+Shoots an amplified and enlarged Virulent Orb at the target location.
+向目标地点发射一颗不断扩张和放大的瘟疫球。
+	
+Wand of Inferno
+怒火魔杖
+
+Shoots an amplified and enlarged Flaming Orb at the target location.
+向目标地点发射一颗不断扩张和放大的火球。
+
+Wand of Knocking
+击退魔杖
+
+Causes 2D6 points of physical damage to the target creature and knocks it back.
+对目标生物造成 2D6 的物理伤害并击退它。
+	
+Wand of Maelstrom
+漩涡魔杖
+
+Creates a death vortex at the target location. Each creature caught inside the vortex must pass a death check or be sucked inside the vortex and die instantly.
+在目标地点制造一个死亡旋涡，里面的生物必须通过一次死亡检定，否则会被吸入立刻死亡。
+	
+Wand of Melting
+融化魔杖
+
+Causes D6 + (STA / 2 rounded up) points of fire damage to the target creature. If the damage after resistances is one or more, the creature must pass a death check or be melted to a heap of fat and die instantly. The damage caused is used as a penalty modifier for the death check.
+对目标生物造成 D6 +（耐力 / 2 向上取整）点的火焰伤害。如果在除去抗性后的伤害还有一点或更多，生物必须通过一次死亡检定，否则会被立刻融化为脂肪。造成的伤害点被用于死亡检定的惩罚修正。
+
+Wand of Pollution
+污染魔杖
+
+Shoots an amplified and enlarged Venomous Orb at the target location.
+向目标地点发射一颗不断扩张和放大的毒球。
+
+Wand of Shifting
+位移魔杖
+
+Teleports the caster to the target location. If the target location is obstructed by another creature, the caster and the creature switch places between each other.
+将施法者传送到目标地点。如果目标位置被另一个生物占据，则交换施法者和该生物的位置。
+	
+Wand of Shocking
+震击魔杖
+
+Shoots an electric stream at the target location hitting everyone on the path. Each creature caught inside the stream will be treated as if being hit by an amplified Electric Orb.
+向目标地点发射一条的电流，电流中的每个生物都视同被加强电球击中。
+	
+Wand of Tempest
+风暴魔杖
+
+Shoots an amplified and enlarged Electric Orb at the target location.
+向目标地点发射一颗不断扩张和放大的闪电球。
+
+Wand of Wishing
+许愿魔杖
+
+Grants the caster a wish from a list of wishes that may be modified by knowledge. The wish will be granted but rarely in the way as one might expect.
+让施法者许一个愿，愿望列表可能被知识修改。这个愿望将会实现，但很少会像人们所期望的那样。
+	
+Wand of Wonders
+奇迹魔杖
+
+Invokes a random wand effect at the target location.
+对目标位置祈求一个随机的魔杖效果。
+
+Wand of Zapping
+电击魔杖
+
+Causes D6 + (STA / 2 rounded up) points of shock damage to the target creature. If the damage after resistances is one or more, the creature must pass a death check or be reduced to a smoking pair of boots and die instantly. The damage caused is used as a penalty modifier for the death check.
+对目标生物造成 D6 +（耐力 / 2 向上取整）点的震击伤害。如果在除去抗性后的伤害还有一点或更多，生物必须通过一次死亡检定，否则会被立刻只剩下冒烟的靴子。造成的伤害点被用于死亡检定的惩罚修正。
+
+Wand of Baffling
+唠叨魔杖
+
+Shuffles the locations of all creatures within line of sight and confuses them for D3 + X turns.
+打乱视线内所有生物的位置并使其混乱 D3 + X 回合。
+
+Wand of Bloodletting
+噬血魔杖
+
+Applies a bleeding effect to the target creature for X x 30 turns.
+对目标生物附上一个 X x 30 回合的流血效果。
+
+Wand of Disarming
+缴械魔杖
+
+Disarms the target creature by dropping its main hand weapon on the floor.
+缴械目标，让它的主手武器掉落在地板上。
+
+Wand of Ensnaring
+陷阱魔杖
+
+Snares the target in a bear trap and summons X + 1 dire wolves.
+将目标困在捕熊陷阱中同时召唤 X + 1 只凶狼。
+
+Wand of Gobsmacking
+震惊魔杖
+
+Stuns a friend until you break the effect by swapping places.
+让一个朋友持续眩晕，除非你和他交换位置。
+
+Wand of Rituals
+祭奠魔杖
+
+Conjures a 3x3 sacrificial circle that is centered on the cursor.
+以鼠标为中心召唤出一个 3*3 的圆形献祭魔法阵。
+
+Wand of Scripting
+抄写魔杖
+
+Creates an average quality duplicate of a scroll.
+以平均质量复制一个卷轴。
+
+Wand of Torture
+折磨魔杖
+
+Causes MH / 3 + (MH / 10) * X points of magical damage to the target creature where MH is the target's maximum health. If the damage would kill the target it is reduced enough to keep the target alive.
+对目标生物造成 MH / 3 + (MH / 10) * X 点魔法伤害，MH 是目标的最大生命值。如果该伤害足以杀死目标，则减少伤害保证目标存活。
+
+Edibles
+Food and water is required to manage hunger and thirst. Each edible item has a hunger regen value, thirst regen value, or both. When an edible item is consumed, these values are calculated and they increase the creature's hunger and thirst counters accordingly (see Hunger & Thirst).
+
+Instead of having a chance of being blessed or cursed, edible items have a chance of being fresh or rotten.
+
+Fresh items set the hunger and thirst counters to the maximum values of the resulting hunger and thirst levels after adding the regen values to the counters (maximum gain for a counter is 359 points if counter % 360 is 0).
+
+Rotten items reduce the hunger and thirst regen values from the creature's hunger and thirst counters instead of adding them.
+
+Some food items can be infectious meaning that there is a chance to be infected with Bloody Flux disease when eating them. This can be avoided by cooking them on a camp fire (throw the item on the fire place).
+
+Meat
+Hunger Regen: 360 + 2D6 x 10
+Infectious
+
+Fried Meat
+Hunger Regen: 360 + 2D6 x 10
+
+Ribs
+Hunger Regen: 360 + 2D6 x 10
+Infectious
+
+Fried Ribs
+Hunger Regen: 360 + 2D6 x 10
+
+Fish
+Hunger Regen: 360 + 2D6 x 10
+Infectious
+
+Fried Fish
+Hunger Regen: 360 + 2D6 x 10
+
+Chicken
+Hunger Regen: 360 + 2D6 x 10
+Infectious
+
+Fried Chicken
+Hunger Regen: 360 + 2D6 x 10
+
+Blood Cap
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+Poisonous
+
+Fried Cap
+Hunger Regen: 120 + D6 x 10
+
+Death Cap
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+Good Game
+
+Bread
+Hunger Regen: 360 + 2D6 x 10
+
+Cheese
+Hunger Regen: 360 + 2D6 x 10
+
+Egg
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+Poisonous
+
+Fried Egg
+Hunger Regen: 120 + D6 x 10
+
+Apple
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+
+Carrot
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+
+Pear
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+
+Tomato
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+
+Plum
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+
+Root
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+Infectious (not cookable)
+
+Berries
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+
+Cherries
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+
+Grapes
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+
+Cabbage
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+
+Potato
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+
+Acorn
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+Infectious (not cookable)
+
+Grass
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+Cures Bleeding, Infectious (not cookable)
+
+Garlic
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+
+Onion
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+
+Lemon
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+
+Pepper
+Hunger Regen: 60 + D6 x 10
+Thirst Regen: 60 + D6 x 10
+
+Food Ration
+Hunger Regen: 360 + 2D6 x 10
+Max Number of Uses: 4
+
+Water Flask
+Thirst Regen: 360 + 2D6 x 10
+Max Number of Uses: 4
+
+Dousing a Fire
+Water flasks can be used to douse you when you have been set on fire. The whole flask will be used when trying to douse yourself and it is not guaranteed to always work. Some fires are just too powerful to put out completely but the fire will always weaken.
+
+Alcoholic Beverages
+Alcoholic beverages are powerful enough to keep the drunk driver of a horse carriage alive while everyone else onboard dies during a crash. Therefore alcoholic beverages apply a Divine Shield with a duration equal to their hunger regen value.
+
+Beer Tankard
+Hunger Regen: 120 + D6 x 10
+Thirst Regen: 360 + 2D6 x 10
+Max Number of Uses: 2
+Alcoholic
+
+Mead Bottle
+Hunger Regen: 120 + D6 x 10
+Thirst Regen: 360 + 2D6 x 10
+Max Number of Uses: 2
+Alcoholic
+
+Cider Bottle
+Hunger Regen: 120 + D6 x 10
+Thirst Regen: 360 + 2D6 x 10
+Max Number of Uses: 2
+Alcoholic
+
+Wine Bottle
+Hunger Regen: 120 + D6 x 10
+Thirst Regen: 360 + 2D6 x 10
+Max Number of Uses: 2
+Alcoholic
+
+Booze Bottle
+Hunger Regen: 120 + D6 x 10
+Max Number of Uses: 4
+Alcoholic
+
+Milk Jar
+Hunger Regen: 120 + D6 x 10
+Thirst Regen: 360 + 2D6 x 10
+Cures Bloody Flux
+
+Amulets
+Some amulets teach the wearer a spell that can be cast by using the amulet as an energy source. This will, however, trigger a cooldown on the amulet that prevents the spell from being cast again until the cooldown reaches 0. In addition to casting a spell, an amulet with the qualities mentioned above will trigger a 30 turn cooldown when it is equipped, unless it is on a longer cooldown already. Note that an amulet on a cooldown must be worn in order for the cooldown to reach 0 (the amulet drains energy from the wearer or something...).
+
+Blessed amulets can have up to two different enchants on them instead of one. Some blessed amulets can have additional benefits such as stronger bonuses or more powerful spell effects than they would normally have.
+
+Cursed amulets that teach a spell always result to a miscast when the spell is cast. Otherwise cursed amulets have no additional harmful effects besides the usual penalties.
+
+Amulet of Abjuration
+Teaches the wearer how to cast Divine Shield that absorbs 5D6 points of damage and lasts for 5D6 x 10 turns or until the shield breaks. Divine Shield has a 180 turn cooldown and it may not be cast again during the cooldown.
+
+	
+Amulet of Asphyxia
+Causes 1 point of damage per turn when equipped. Amulet of Asphyxia will become magically bound on equip and cannot be unequipped (see Cursed Items).
+
+	
+Amulet of Conjuration
+Teaches the wearer how to cast Conjure Daemon (see Scroll of Summoning). Conjure Daemon has a 180 turn cooldown and it may not be cast again during the cooldown.
+
+	
+Amulet of Divination
+Teaches the wearer how to cast Identify Item (see Scroll of Identify). Identify Item has a 60 turn cooldown and it may not be cast again during the cooldown.
+
+	
+Amulet of Enchantment
+Teaches the wearer how to cast Enchant Item (see Scroll of Enchanting). Enchant Item has a 180 turn cooldown and it may not be cast again during the cooldown.
+
+	
+Amulet of Evocation
+Teaches the wearer how to cast Elemental Orb that counts as an enlarged Flaming, Frozen and Electric Orb but it does not gain the extra damage for being enlarged and its damage modifier is (STA / 2 rounding up). The damage modifier is capped to 3 unless the amulet is blessed in which case it is always 5. Elemental Orb has a 120 turn cooldown and it may not be cast again during the cooldown.
+
+	
+Amulet of Exhaustion
+Causes one point of energy damage to the wearer on a D6 roll of 1, 2, and 3. Amulet of Exhaustion will become magically bound on equip and cannot be unequipped (see Cursed Items).
+
+	
+Amulet of Fire Ward
+Increases fire resistance by 5 and grants immunity against fire effects.
+
+	
+Amulet of Free Action
+Grants a haste effect and immunity against slow effects.
+
+	
+Amulet of Frost Ward
+Increases frost resistance by 5 and grants immunity against frost effects.
+
+	
+Amulet of Ghost Form
+Turns the wearer ethereal. Ethereal creatures ignore one half of physical, poison and disease damage but suffer double damage from magical, fire, frost and shock spells. Enchanted weapons work normally against ethereal creatures.
+
+	
+Amulet of Illusion
+Teaches the wearer how to cast Clone Creature that creates a clone of the target creature that aids the caster for 5D6 x 10 turns. Clone Creature has a 180 turn cooldown and it may not be cast again during the cooldown.
+
+	
+Amulet of Necromancy
+Teaches the wearer how to cast Animate Dead (see Scroll of Animation). Animate Dead has a 180 turn cooldown and it may not be cast again during the cooldown.
+
+	
+Amulet of Nine Lives
+Restores the wearer to half or full health upon death on a D6 roll of 5 or 6.
+
+	
+Amulet of Pestilence
+Summons a giant rat on a D6 roll of a 1. Amulet of Pestilence will become magically bound on equip and cannot be unequipped (see Cursed Items).
+
+	
+Amulet of Protection
+Increases all resistances by 1 and grants immunity against stun effects.
+
+	
+Amulet of Reflection
+Reflects half or full weapon and orb spell damage back at the attacker on a D6 roll of 5 or 6.
+
+	
+Amulet of Seven Keys
+Allows the wearer to automatically pick locks and moving no longer breaks stealth (while the wearer is hidden, any normal move to an empty space is a free Silent Move that always succeeds).
+
+	
+Amulet of Shock Ward
+Increases shock resistance by 5 and grants immunity against shock effects.
+
+	
+Amulet of Stone Form
+Paralyses the wearer for D6 turns, or instantly kills if already paralysed, on a 2D6 roll of 2. Amulet of Stone Form will become magically bound on equip and cannot be unequipped (see Cursed Items).
+
+	
+Amulet of Transmutation
+Teaches the wearer how to cast Transmute Item that converts the targeted item in the caster's inventory into gold coins. Transmute Item has a 60 turn cooldown and it may not be cast again during the cooldown.
+
+	
+Amulet of Yendor
+Adorable piece of jewelry, contains no magical powers though.
+
+Amulet of Battlemage
+Ignores negative effects to spellcasting while wearing armour and or shield.
+
+Amulet of Domination
+Every point of damage you cause has a 17% chance to charm the target for 1 turn.
+
+Amulet of Geomancy
+Teaches the wearer how to cast Alter Terrain.
+
+Amulet of Radiance
+Gives you an aura with a radius of 1. Auras also make you immune to their effects.
+
+Amulet of Sacrifice
+This must be equipped in order to sacrifice something using a sacrificial circle and a ritual.
+
+Amulet of Submission
+Every point of damage you receive has a 17% chance to charm you for 1 turn. This amulet is magically bound on equip and cannot be unequipped.
+
+Amulet of Uberlyft
+Travel button now works after clearing 50% of the current level.
+
+Amulet of Wizardry
+Teaches the wearer how to cast Arcane Missile.
+
+Rings
+Rings that say their effects don't stack, mean that their effects don't stack with effects from similar rings, but will stack with similar effects from other sources. Re-rolls, however, never stack regardless of the source.
+
+Blessed rings can have up to two different enchants on them instead of one. Some blessed rings can have additional benefits such as stronger bonuses or weaker penalties than they would normally have.
+
+Cursed rings have no additional harmful effects besides the usual penalties.
+
+Ring of Accuracy
+Allows the wearer to re-roll misses with ranged and thrown weapons.
+
+	
+Ring of Adornment
+Looks impressive but contains no magical powers.
+
+	
+Ring of Brutality
+Allows the wearer to re-roll misses with melee weapons.
+
+	
+Ring of Clarity
+Grants immunity against blind, deafen and silence effects.
+
+	
+Ring of Control
+Grants immunity against charm, confuse and paralyse effects.
+
+	
+Ring of Deflection
+Increases maximum parry modifier by 1 and doubles the base parry modifier. This effect does not stack.
+
+	
+Ring of Elements
+Increases fire, frost and shock resistances by 1, and grants immunity against fire, frost and shock effects.
+
+	
+Ring of Evasion
+Increases maximum block, dodge and parry modifiers by 1, and either block, dodge or parry modifier by 1. This effect does not stack.
+
+	
+Ring of Familiar
+Summons and controls a whelp when equipped. This ring is destroyed if the whelp dies.
+
+	
+Ring of Fortitude
+Increases health by 1 point for every third level starting from the 1st (4th, 7th, and so on), and grants immunity against sleep and fear effects.
+
+	
+Ring of Freedom
+Grants immunity against slow, knockback and polymorph effects.
+
+	
+Ring of Grease
+Forces the wearer to drop the equipped melee weapon or shield on a D6 roll of 1 when attacking, blocking or parrying an attack. In addition, Ring of Grease forces the wearer to re-roll successful ranged to-hit rolls. This ring will become magically bound on equip and cannot be unequipped.
+
+	
+Ring of Haste
+Grants a haste effect at the expense of doubling the food and water consumption rates.
+
+	
+Ring of Hunger
+Triples food consumption rate. This ring will become magically bound on equip and cannot be unequipped.
+
+	
+Ring of Immunity
+Increases poison and disease resistances by 1, and grants immunity against poison, disease and curse effects.
+
+	
+Ring of Outcasts
+May contain up to three different armour enchants instead of one.
+
+	
+Ring of Regeneration
+Regenerates one health (plus base stamina modifier divided by two rounding down) per turn and allows the wearer to re-roll failed energy regeneration checks. This ring causes its wearer to become vulnerable to fire.
+
+	
+Ring of Resilience
+Grants immunity against leech, drain and instant kill effects.
+
+	
+Ring of Scholars
+Automatically identifies scrolls and tomes when they are picked up.
+
+	
+Ring of Searching
+Grants a free action that automatically searches the surroundings each turn when taking a move or rest action, and allows the wielder to re-roll failed search checks. This effect does not stack.
+
+	
+Ring of Sustenance
+Ignores food and water consumption on either even or odd game turns, depending on the hand the ring is equipped on.
+
+	
+Ring of Thirst
+Triples water consumption rate. This ring will become magically bound on equip and cannot be unequipped.
+
+Ring of Anxiety
+Makes you vulnerable to all damage. This ring is magically bound on equip and cannot be unequipped.
+
+Ring of Bloodlust
+Heals you for 20% of the physical weapon damage you cause.
+
+Ring of Conversion
+Converts all weapon damage you receive into physical damage and reduces it by 10%.
+
+Ring of Cracking
+Increases physical damage by 20% with melee and ranged weapons.
+
+Ring of Noobery
+Halves experience gained. This effect does not stack.
+
+Ring of Shadows
+Hides you in plain sight when you take damage.
+
+Ring of Shielding
+Each point of energy counts as 3 points of health. This effect does not stack.
+
+Ring of Underdog
+Increases all resistances by up to 5, the lower your health.
+
+Armours
+
+Armour reduces physical damage taken by a number equal to the physical resistance value of the armour. Note that body armour only protects against normal hits and helmets only protect against critical hits.
+ 
+Armour makes it harder to dodge an attack by limiting the wearer's agility bonus modifier. This 'dodge modifier' normally ranges from +1 to +5 but wearing almost any kind of armour may cap it to a lower level than the wearer's dodge modifier is.
+ 
+Armour also interferes spellcasting by causing excess strain and affects the wearer's stamina bonus modifier which is used to cast many offensive spells. This 'cast modifier' normally ranges from +1 to +5, but wearing armour may cap it to a lower level than the wearer's cast modifier is.
+ 
+Wearing heavy armour makes it harder to perform certain actions. Weight modifier is a penalty which is applied to Climb, Jump, Sneak and Swim checks.
+ 
+When an attack causes physical damage the armour itself can be damaged and has to take a durability check to see if it can shrug off the damage or be damaged (or broken if it was already damaged). Armour durability check uses the following formula:
+ 
+2D6 > 2 + Critical Failure Modifier
+
+Padded Armour
+Physical Resistance: 1
+Chromatic Resistance: 1
+Max Dodge Modifier: +4
+Max Cast Modifier: +4
+
+Leather Armour
+Physical Resistance: 2
+Chromatic Resistance: 1
+Max Dodge Modifier: +3
+Max Cast Modifier: +3
+
+Studded Armour
+Physical Resistance: 3
+Chromatic Resistance: 2
+Max Dodge Modifier: +2
+Max Cast Modifier: +2
+Weight Modifier: -1
+
+Chain Armour
+Physical Resistance: 4
+Chromatic Resistance: 2
+Max Dodge Modifier: +1
+Max Cast Modifier: +1
+Weight Modifier: -2
+
+Plate Armour
+Physical Resistance: 5
+Chromatic Resistance: 2
+Max Dodge Modifier: 0
+Max Cast Modifier: 0
+Weight Modifier: -3
+
+Robes
+Physical Resistance: 0
+Chromatic Resistance: 1
+Max Dodge Modifier: 4
+Max Cast Modifier: 5
+
+Fine Armours
+
+Fine quality armours increase max dodge modifier by 1.
+
+Helmets
+
+Helmets reduce physical damage taken by a number equal to the physical resistance value of a worm helmet. Note that helmets only protect against critical hits and body armour only protects against normal hits.
+ 
+Helmets that cover the skull and the face halve the confusion duration of critical hits (rounding down). Helmets also halve the duration of stun effects (rounding down to a minimum of 1).
+ 
+Helmet makes it harder to dodge an attack by limiting the wearer's agility bonus modifier. This 'dodge modifier' normally ranges from +1 to +5 but wearing almost any kind of helmet may cap it to a lower level than the wearer's dodge modifier is. 
+ 
+Helmets also interfere spellcasting by concealing the identity and affecting the wearer's charisma bonus modifier which is used to cast many restorative spells. This 'cast modifier' normally ranges from +1 to +5, but wearing a helmet may cap it to a lower level than the wearer's cast modifier is.
+ 
+When an attack causes physical damage the helmet itself can be damaged and has to take a durability check to see if it can shrug off the damage or be damaged (or broken if it was already damaged). Helmet durability check uses the following formula:
+ 
+2D6 > 2 + Critical Failure Modifier
+
+Padded Cap
+Physical Resistance: 1
+Chromatic Resistance: 1
+Max Dodge Modifier: +4
+Max Cast Modifier: +4
+
+Leather Cap
+Physical Resistance: 1
+Chromatic Resistance: 1
+Max Dodge Modifier: +4
+Max Cast Modifier: +4
+
+Studded Cap
+Physical Resistance: 2
+Chromatic Resistance: 1
+Max Dodge Modifier: +3
+Max Cast Modifier: +3
+
+Plate Cap
+Physical Resistance: 3
+Chromatic Resistance: 1
+Max Dodge Modifier: +2
+Max Cast Modifier: +3
+
+Leather Helm
+Physical Resistance: 2
+Chromatic Resistance: 1
+Max Dodge Modifier: +3
+Max Cast Modifier: +2
+
+Studded Helm
+Physical Resistance: 3
+Chromatic Resistance: 2
+Max Dodge Modifier: +2
+Max Cast Modifier: +2
+
+Chain Helm
+Physical Resistance: 4
+Chromatic Resistance: 2
+Max Dodge Modifier: +1
+Max Cast Modifier: +1
+
+Plate Helm
+Physical Resistance: 5
+Chromatic Resistance: 2
+Max Dodge Modifier: 0
+Max Cast Modifier: 0
+
+Hats & Cowls
+Physical Resistance: 0
+Chromatic Resistance: 1
+Max Dodge Modifier: +4
+Max Cast Modifier: +5
+
+Fine Helmets
+
+Fine quality helmets increase max dodge modifier by 1.
+
+Accessories
+
+There are four kind of armour accessories, boots, gloves, vambraces and spaulders. Each one of those has a special rule of its own but they do not provide resistances like armour and helmets do unless they are enchanted.
+
+Boots
+Boots force the system to attempt a sidestep if a knockback would push you into a chasm or trap.
+
+Gloves
+Gloves cause your disarmed weapon to be placed in your inventory instead of the ground.
+
+Vambraces
+Vambraces force the system to re-roll the disarm check if you are disarmed by a critical hit.
+
+Spaulders
+Spaulders increase your base chance to resist a critical hit disarm effect by 40%.
+
+Fine Accessories
+
+Fine quality accessories have no additional benefits.
+
+Set Bonuses
+
+Each armour set has a set bonus that is activated when enough items belonging to the set are equipped. Some item sets may have multiple set bonuses but the ones listed here are the common ones that require all 6 items.
+
+Padded Armour set
+Re-roll failed snare checks.
+
+Leather Armour set 
+Re-roll failed sneak checks.
+
+Studded Armour set
+Re-roll failed persuasion checks.
+
+Plate Armour set
+Re-roll failed intimidation checks.
+
+Chain Armour set 
+Grants immunity to disarm.
+
+Arcane Armour set 
+Reduce Arcane cooldown by 50%.
+
+(Spell School) Armour set 
+Re-roll clearcast (Spell School).
+
+Weapons
+
+Weapons come in three different sizes, small, medium and large. Small weapons are always wielded using one hand, medium weapons may be wielded using one or two hands, and large weapons are always wielded using two hands.
+ 
+When a weapon attack critically fails or a weapon succesfully parries an attack, is parried or blocked, the weapon has to take a durability check to see if it can shrug off the damage or be damaged (or broken if it was already damaged). Weapon durability check uses the following formula:
+ 
+2D6 > 3 + Critical Failure Modifier
+
+Weapon Special Rules
+
+Special rules with a chance component use a D6 to determine whether the effect takes place or not. If a rule says that an effect takes place on a roll of 5+, it takes place on a D6 roll of a 5 or 6.
+
+Conduit
+Allows the wielder to re-roll failed spell to-hit checks.
+
+Crushing
+Halves target creature's physical resistance on a roll of 5+.
+
+Durable
+Allows the weapon to re-roll failed durability checks.
+
+Flailing
+Ignores target creature's block or parry modifier on a roll of 5+.
+
+Piercing
+Ignores target creature's physical resistance on a roll of 6+
+
+Polearm
+Allows the wielder to perform melee attacks against creatures within two spaces instead of creatures within one space.
+
+Slashing
+Doubles weapon's base damage on a roll of 5+ against creatures that have lower physical resistance value than the attacker's damage modifier divided by 2.
+
+Slow
+Slow weapons must be rearmed before they can be used again. This can be done by resting while having a slow weapon equipped.
+
+Imbued Spell
+Teaches a spell to its wielder. The spell is forgotten once the weapon is unequipped (assuming that the spell is not otherwise known by the wielder in which case this rule has no effect).
+
+Melee Weapons
+Melee weapons are weapons that can be used in close combat. All melee weapons can be thrown but they count as rocks unless they are specified as thrown. Melee weapons use strength modifier for to-hit and damage. Small weapons and medium weapons that are used two-handedly can use agility modifier instead of strength modifier for to-hit and damage, depending which is better.
+
+Dagger
+Damage: D3+1
+Type: Small/Melee
+Special Rules: Piercing
+Max Parry Modifier: +2
+
+Talon
+Damage: D3+1
+Type: Small/Melee
+Special Rules: Piercing
+Max Parry Modifier: +3
+
+Sword
+Damage: D6
+Type: Medium/Melee
+Special Rules: Slashing
+Max Parry Modifier: +2
+
+Claw
+Damage: D6
+Type: Small/Medium/Melee
+Special Rules: Piercing
+Max Parry Modifier: +3
+
+Hatchet
+Damage: D3+1
+Type: Small/Melee/Thrown
+Special Rules: Crushing
+Max Parry Modifier: +1
+
+Axe
+Damage: D6
+Type: Medium/Melee
+Special Rules: Crushing
+Max Parry Modifier: +1
+
+Club
+Damage: D3
+Type: Medium/Melee
+Special Rules: Crushing
+Max Parry Modifier: +1
+
+Mace
+Damage: D6
+Type: Medium/Melee
+Special Rules:
+Crushing
+Durable
+
+Hammer
+Damage: D6+1
+Type: Medium/Melee
+Special Rules:
+Crushing
+Durable
+
+Flail
+Damage: D6
+Type: Medium/Melee
+Special Rules:
+Crushing
+Flailing
+
+Staff
+Damage: D6
+Type: Large/Melee
+Special Rules:
+Conduit
+Polearm
+
+Wizard Staff
+Damage: D6
+Type: Medium/Melee
+Special Rules:
+Conduit
+Polearm
+Imbued Spell
+
+Spear
+Damage: D6+1
+Type: Large/Melee/Thrown
+Special Rules:
+Piercing
+Polearm
+
+Mangler
+Damage: D6+D3
+Type: Large/Melee
+Special Rules:
+Slashing
+Durable
+
+Chopper
+Damage: D6+D3
+Type: Large/Melee
+Special Rules:
+Crushing
+Durable
+
+Crusher
+Damage: D6+D3
+Type: Large/Melee
+Special Rules:
+Crushing
+Durable
+
+Digger
+Damage: D6+D3
+Type: Large/Melee
+Special Rules:
+Piercing
+Durable
+
+Ranged Weapons
+Ranged weapons can be used to shoot at range. Ranged weapons require arrows or bolts in order to work. Projectile damage is added to the damage of the weapon. Ranged weapons use agility modifier for to-hit and damage.
+
+Branch
+Damage: D2
+Type: Medium/Ranged
+
+Bow
+Damage: D3
+Type: Medium/Ranged
+
+Recurve
+Damage: D3+1
+Type: Medium/Ranged
+
+Crossbow
+Damage: 2D3
+Type: Large/Ranged
+Special Rules: Slow
+
+Repeater
+Damage: 2D3
+Type: Large/Ranged
+
+Projectiles
+
+Stick
+Damage: 1
+Stack Size: 12
+
+Arrow
+Damage: D3
+Stack Size: 12
+Special Rules: Piercing
+
+Arrow
+Damage: D3+1
+Stack Size: 12
+Special Rules: Piercing
+
+Bolt
+Damage: D3
+Stack Size: 12
+Special Rules: Piercing
+
+Bolt
+Damage: D3+1
+Stack Size: 12
+Special Rules: Piercing
+
+Thrown Weapons
+Thrown weapons are weapons that can only be used by throwing them. Thrown weapons are not equipped like other weapons and instead of equipping them, they are thrown directly from the backpack. Unless specified otherwise, thrown weapons use agility modifier for to-hit and strength modifier for damage.
+
+Rock
+Damage: 1
+Type: Thrown
+
+Throwing Star
+Damage: D3
+Type: Thrown
+
+Throwing Knife
+Damage: D3
+Type: Thrown
+
+Fine Weapons
+
+Fine quality weapons are more durable, more balanced to allow parrying and lighter to make them easier to handle.
+
+Shields
+
+Shields may be used to block one attack of any kind once per turn if the wielder is capable of blocking an attack. Shields do not block the attack automatically but they do provide a penalty modifier that affects the attacker's to-hit roll which may result in the attack being missed. This 'block modifier' equals to the strength bonus modifier of the wielder and it normally ranges from +1 to +5. 
+ 
+Some shields only provide a certain level of protection and no matter how strong the wielder is, the block modifier may be capped to a lower level than the wielder's block modifier is. Note, however, that all shields grant the wielder a minimum block modifier regardless of the strength of the wielder.
+ 
+Wielding a shield severely hinders spell casting and a spell caster wielding a shield must re-roll successful spell to-hit rolls.
+ 
+When a shield succesfully blocks an attack or an attack made with a shield critically fails, the shield itself can be damaged and has to take a durability check to see if it can shrug off the damage or be damaged (or broken if it was already damaged). Shield durability check uses the following formula:
+ 
+2D6 > 2 + Critical Failure Modifier
+
+Fine Shields
+
+Fine quality shields increase shield bash damage by 1.
+
+Buckler
+Min Block Modifier: +1
+Max Block Modifier: +2
+Shield Bash Damage: D3
+
+Target
+Min Block Modifier: +1
+Max Block Modifier: +3
+Shield Bash Damage: D3
+
+Shield
+Min Block Modifier: +2
+Max Block Modifier: +4
+Shield Bash Damage: D6
+
+Barrier
+Min Block Modifier: +2
+Max Block Modifier: +5
+Shield Bash Damage: D6
+
+Crafting
+Crafting becomes available after completing an account bound one time quest to save Artificer Leo Noerde.
+ 
+As it turns out, Leo has lost almost all of his schematics detailing how to craft superior quality items and it is up to the player to locate them. Once the player locates a schematic and brings it back to Leo, the item contained in the schematic can then be crafted in the current game and in any subsequent games.
+ 
+There are five different crafting materials and they are called Tithril, Bearskin, Flexweave, Hardwood and Scrap. There are also some items, such as Soul Gems, that are not just crafting materials and they may have some other uses as well.
+ 
+Note that there might be other sources for finding crafting materials and these are just the most common and easiest ways to find them.
+
+Crafting Materials
+
+Tithril Ore
+
+Tithril ore can be found when the player digs through a wall or boulder using a digger. If the digging roll is a critical success, tithril ore will be placed on the ground.
+
+Bearskin
+
+Bearskin can be found on all bears. All you have to do is to kill one before it kills you and you're good to go.
+
+Flexweave
+
+Flexweave can be found on all spiders that are big enough to eat you. They are even kind enough to supply you with a spindle for the thread.
+
+Hardwood
+
+Hardwood can be found on any breakable wooden item whether it is a door, chest, sign or whatever. If the roll to break is a critical success, hardwood will be placed on the ground.
+
+Scrap
+
+Scrap can be found when the player destroys a weapon, armour or shield by throwing it to a wall. If the roll to hit is a critical success the player receives a scrap in the inventory.
+
+Soul Gem
+
+Soul gems can be found on dead spellcasters that use certain spells but there are ways to make them if you don't mind taking them by force.

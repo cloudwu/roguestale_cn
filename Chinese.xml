@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 2 (190624)" checksum="1e4604874aa5197acd7cccbcc357fad5eb032bea">
+<strings version="Version 2.00 Beta 2 (190624)" checksum="913e86ce9594d830efb5df7791eb9b8d77045051">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -2587,8 +2587,8 @@
     <str id="Wand of Channeling" value="Allows the caster to channel a known spell through the wand." local="允许施法者通过魔杖通导一个已知&#10;的法术。"/>
     <str id="Wand of Chilling" value="Shoots a frozen stream at the target location hitting everyone on the path." local="向目标地点发射一条冰冻的寒流，&#10;对路径上的所有单位造成伤害。"/>
     <str id="Wand of Corruption" value="Creates a cloud of corruption at the target location hitting everyone inside." local="在目标地点制造一团腐败之云，对&#10;覆盖范围内的所有单位造成伤害。"/>
-    <str id="Wand of Crippling" value="Shoots a crippling stream at the target location hitting everyone on the path." local="向目标地点发射一条毁灭的路径，&#10;对路径上的所有单位造成伤害。"/>
-    <str id="Wand of Crushing" value="Causes a boulder to fall from the ceiling at the target location." local="向目标地点的落下巨石。"/>
+    <str id="Wand of Crippling" value="Shoots a crippling stream at the target location hitting everyone on the path." local="向目标地点发射一束毁灭之光，对&#10;路径上的所有单位造成伤害。"/>
+    <str id="Wand of Crushing" value="Causes a boulder to fall from the ceiling at the target location." local="向目标地点落下巨石。"/>
     <str id="Wand of Entrapment" value="Creates a web explosion at the target location trapping everyone inside." local="在目标地点张开大网，困住覆盖范&#10;围内的所有单位。"/>
     <str id="Wand of Excavation" value="The creator of this wand clearly favours brains over muscles." local="这个魔杖的创造者相比于卖力气显&#10;然更爱动脑子。"/>
     <str id="Wand of Freezing" value="Causes frost damage or instantly kills the target creature." local="造成冰霜伤害或者立即杀死目标生&#10;物。"/>

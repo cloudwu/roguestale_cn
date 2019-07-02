@@ -2381,8 +2381,8 @@ WandDescs."Wand of Burning" @(30)向目标地点发射一条燃烧的热浪，�
 WandDescs."Wand of Channeling" @(30)允许施法者通过魔杖通导一个已知的法术。
 WandDescs."Wand of Chilling" @(30)向目标地点发射一条冰冻的寒流，对路径上的所有单位造成伤害。
 WandDescs."Wand of Corruption" @(30)在目标地点制造一团腐败之云，对覆盖范围内的所有单位造成伤害。
-WandDescs."Wand of Crippling" @(30)向目标地点发射一条毁灭的路径，对路径上的所有单位造成伤害。
-WandDescs."Wand of Crushing" @(30)向目标地点的落下巨石。
+WandDescs."Wand of Crippling" @(30)向目标地点发射一束毁灭之光，对路径上的所有单位造成伤害。
+WandDescs."Wand of Crushing" @(30)向目标地点落下巨石。
 WandDescs."Wand of Entrapment" @(30)在目标地点张开大网，困住覆盖范围内的所有单位。
 WandDescs."Wand of Excavation" @(30)这个魔杖的创造者相比于卖力气显然更爱动脑子。
 WandDescs."Wand of Freezing" @(30)造成冰霜伤害或者立即杀死目标生物。
