@@ -494,7 +494,7 @@ Multi Shot
 连珠箭法
 
 Ranged attack that hits the target creature and up to agility bonus modifier number of extra targets that are adjacent to the target creature. Multi Shot cannot be used with slow weapons.
-远程攻击将命中目标生物邻接的多个额外生物目标，数量等于敏捷增益修正值。多重射击不能用于慢速武器。
+远程攻击将命中目标生物邻接的多个额外目标生物，数量等于敏捷增益修正值。连珠箭法不能用于慢速武器。
 
 Quick Shot
 快速射击
