@@ -1938,6 +1938,7 @@ FoodLogs."You drink %s." 你喝着%s。
 FoodLogs."You pour water on yourself and douse the fire." 你把水倒在自己身上，把火浇灭。
 FoodLogs."You pour water on yourself and weaken the fire." 你把水倒在自己身上，火势减弱。
 FoodLogs."You feel a burning stomach ache and your bowel hurts." 你感到肚子一阵绞痛，肠胃受伤。
+FoodLogs."You apply some grass over your wound and stop the bleeding." 你在伤口上敷上了一些药草，止住了血。
 PotionNames."Potion" 药剂
 PotionNames."Potion of Antidote" 解毒药剂
 PotionNames."Potion of Awareness" 意识药剂
@@ -4461,6 +4462,7 @@ ChatStrings."/dog" /dog
 ChatStrings."/resetdog" /resetdog
 ChatStrings."/skipnull" /skipnull
 ChatStrings."/mrgsteam" /mrgsteam
+ChatStrings."/presteam" /presteam
 ChatStrings."/gamepad" /gamepad
 ChatStrings."Type %s to set the number of search attempts (using values 1 through 6)." 输入 %s 来设置搜索尝试次数（从 1 到 6）。
 ChatStrings."Search attempts has been set to %d." 搜索尝试次数被设置为 %d 。
@@ -4479,3 +4481,13 @@ RogueTips."Press %s and type %s to view some basic info." 按下 %s 然后输入
 RogueTips."Hover mouse over your abilities to see how they function." 将鼠标停留在你的属性点上可以看到它们起怎样的效果。
 RogueTips."Boulders can be pushed over entrances to clear a dungeon." 把巨石推入入口可以清空地牢。
 RogueTips."There are hidden menus behind the keys %s, %s, %s and %s." 在按键 %s, %s, %s 和 %s 后面藏有隐藏菜单。
+RogueTips."There is a game manual behind F1 key (or Info + D-pad Up)." 按下 F1 后可以看到一本游戏手册（ 手柄信息键 + 十字键上）。
+SignTexts."Get your enchanted items here!" 在这里获得你的附魔物品！
+SignTexts."Identify items for 20 gold coins!" 鉴定物品需要 20 金币！
+SignTexts."Almost certain death waits down there!" 死亡在下面等着你！
+SignTexts."Gurmur does not fly and is not made of spaghetti!" 咕呣不会飞，它不是用意大利面条做的！
+SignTexts."Do not feed the children of Floaty McFloatface!" 不要投喂浮浮的孩子！
+SignTexts."Bob, get in here and build this cell block!" 鲍勃，进去吧，修好这个区域！
+SignTexts."Dead guys ahead - Zor'Veste" 前面是些死去的家伙 —— Zor'Veste
+SignTexts."There's nothing to see here." 这里没什么好看的。
+SignTexts."Harry's pottery class is cancelled." 哈利的陶艺课被取消了。

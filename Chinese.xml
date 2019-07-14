@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 2 (190624)" checksum="a141d9b3a42950cd5ad5f1e8ad30443e83c89c2d">
+<strings version="Version 2.00 (190713)" checksum="53b4e683b992f8220d7288ac8122047f8cd0273d">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -2106,6 +2106,7 @@
     <str id="You pour water on yourself and douse the fire." value="You pour water on yourself and douse the fire." local="你把水倒在自己身上，把火浇灭。"/>
     <str id="You pour water on yourself and weaken the fire." value="You pour water on yourself and weaken the fire." local="你把水倒在自己身上，火势减弱。"/>
     <str id="You feel a burning stomach ache and your bowel hurts." value="You feel a burning stomach ache and your bowel hurts." local="你感到肚子一阵绞痛，肠胃受伤。"/>
+    <str id="You apply some grass over your wound and stop the bleeding." value="You apply some grass over your wound and stop the bleeding." local="你在伤口上敷上了一些药草，止住了血。"/>
   </FoodLogs>
   <PotionNames>
     <str id="Potion" value="Potion" local="药剂"/>
@@ -4939,6 +4940,7 @@
     <str id="/resetdog" value="/resetdog"/>
     <str id="/skipnull" value="/skipnull"/>
     <str id="/mrgsteam" value="/mrgsteam"/>
+    <str id="/presteam" value="/presteam"/>
     <str id="/gamepad" value="/gamepad"/>
     <str id="Type %s to set the number of search attempts (using values 1 through 6)." value="Type %s to set the number of search attempts (using values 1 through 6)." local="输入 %s 来设置搜索尝试次数（从 1 到 6）。"/>
     <str id="Search attempts has been set to %d." value="Search attempts has been set to %d." local="搜索尝试次数被设置为 %d 。"/>
@@ -4959,5 +4961,17 @@
     <str id="Hover mouse over your abilities to see how they function." value="Hover mouse over your abilities to see how they function." local="将鼠标停留在你的属性点上可以看到它们起怎样的效果。"/>
     <str id="Boulders can be pushed over entrances to clear a dungeon." value="Boulders can be pushed over entrances to clear a dungeon." local="把巨石推入入口可以清空地牢。"/>
     <str id="There are hidden menus behind the keys %s, %s, %s and %s." value="There are hidden menus behind the keys %s, %s, %s and %s." local="在按键 %s, %s, %s 和 %s 后面藏有隐藏菜单。"/>
+    <str id="There is a game manual behind F1 key (or Info + D-pad Up)." value="There is a game manual behind F1 key (or Info + D-pad Up)." local="按下 F1 后可以看到一本游戏手册（ 手柄信息键 + 十字键上）。"/>
   </RogueTips>
+  <SignTexts>
+    <str id="Get your enchanted items here!" value="Get your enchanted items here!" local="在这里获得你的附魔物品！"/>
+    <str id="Identify items for 20 gold coins!" value="Identify items for 20 gold coins!" local="鉴定物品需要 20 金币！"/>
+    <str id="Almost certain death waits down there!" value="Almost certain death waits down there!" local="死亡在下面等着你！"/>
+    <str id="Gurmur does not fly and is not made of spaghetti!" value="Gurmur does not fly and is not made of spaghetti!" local="咕呣不会飞，它不是用意大利面条做的！"/>
+    <str id="Do not feed the children of Floaty McFloatface!" value="Do not feed the children of Floaty McFloatface!" local="不要投喂浮浮的孩子！"/>
+    <str id="Bob, get in here and build this cell block!" value="Bob, get in here and build this cell block!" local="鲍勃，进去吧，修好这个区域！"/>
+    <str id="Dead guys ahead - Zor'Veste" value="Dead guys ahead - Zor'Veste" local="前面是些死去的家伙 —— Zor'Veste"/>
+    <str id="There's nothing to see here." value="There's nothing to see here." local="这里没什么好看的。"/>
+    <str id="Harry's pottery class is cancelled." value="Harry's pottery class is cancelled." local="哈利的陶艺课被取消了。"/>
+  </SignTexts>
 </strings>

@@ -1,4 +1,4 @@
-<strings version="Version 2.00 Beta 2 (190624)" checksum="987f5f00a439d9d8ba60e83429bba008823e9498">
+<strings version="Version 2.00 (190713)" checksum="c09b54c3845aabf2faad1ccd47ce3dba4206c135">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -2106,6 +2106,7 @@
     <str id="You pour water on yourself and douse the fire." value="You pour water on yourself and douse the fire."/>
     <str id="You pour water on yourself and weaken the fire." value="You pour water on yourself and weaken the fire."/>
     <str id="You feel a burning stomach ache and your bowel hurts." value="You feel a burning stomach ache and your bowel hurts."/>
+    <str id="You apply some grass over your wound and stop the bleeding." value="You apply some grass over your wound and stop the bleeding."/>
   </FoodLogs>
   <PotionNames>
     <str id="Potion" value="Potion"/>
@@ -4939,6 +4940,7 @@
     <str id="/resetdog" value="/resetdog"/>
     <str id="/skipnull" value="/skipnull"/>
     <str id="/mrgsteam" value="/mrgsteam"/>
+    <str id="/presteam" value="/presteam"/>
     <str id="/gamepad" value="/gamepad"/>
     <str id="Type %s to set the number of search attempts (using values 1 through 6)." value="Type %s to set the number of search attempts (using values 1 through 6)."/>
     <str id="Search attempts has been set to %d." value="Search attempts has been set to %d."/>
@@ -4959,5 +4961,17 @@
     <str id="Hover mouse over your abilities to see how they function." value="Hover mouse over your abilities to see how they function."/>
     <str id="Boulders can be pushed over entrances to clear a dungeon." value="Boulders can be pushed over entrances to clear a dungeon."/>
     <str id="There are hidden menus behind the keys %s, %s, %s and %s." value="There are hidden menus behind the keys %s, %s, %s and %s."/>
+    <str id="There is a game manual behind F1 key (or Info + D-pad Up)." value="There is a game manual behind F1 key (or Info + D-pad Up)."/>
   </RogueTips>
+  <SignTexts>
+    <str id="Get your enchanted items here!" value="Get your enchanted items here!"/>
+    <str id="Identify items for 20 gold coins!" value="Identify items for 20 gold coins!"/>
+    <str id="Almost certain death waits down there!" value="Almost certain death waits down there!"/>
+    <str id="Gurmur does not fly and is not made of spaghetti!" value="Gurmur does not fly and is not made of spaghetti!"/>
+    <str id="Do not feed the children of Floaty McFloatface!" value="Do not feed the children of Floaty McFloatface!"/>
+    <str id="Bob, get in here and build this cell block!" value="Bob, get in here and build this cell block!"/>
+    <str id="Dead guys ahead - Zor'Veste" value="Dead guys ahead - Zor'Veste"/>
+    <str id="There's nothing to see here." value="There's nothing to see here."/>
+    <str id="Harry's pottery class is cancelled." value="Harry's pottery class is cancelled."/>
+  </SignTexts>
 </strings>
