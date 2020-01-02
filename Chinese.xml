@@ -1,4 +1,4 @@
-<strings version="Version 2.01 (191231)" checksum="de961103ddc5be793cfb2cf81716b064c8d3e4c8">
+<strings version="Version 2.01 (191231)" checksum="1e525435872db9d4eea7e77bf74d405eb866d013">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -904,7 +904,7 @@
     <str id="%s sinks in the water." value="%s sinks in the water." local="%s沉入水中。"/>
     <str id="%s sink in the lava." value="%s sink in the lava." local="%s沉入岩浆。"/>
     <str id="%s sinks in the lava." value="%s sinks in the lava." local="%s沉入岩浆。"/>
-    <str id="%s's mana burn hits you." value="%s's mana burn hits you." local="%s的魔法燃烧击中了你。"/>
+    <str id="%s's mana burn hits you." value="%s's mana burn hits you." local="%s的魔力燃烧击中了你。"/>
     <str id="%s casts an unknown spell." value="%s casts an unknown spell." local="%s施放了一个未知的法术。"/>
     <str id="%s steals one of your rings." value="%s steals one of your rings." local="%s偷了你的一枚戒指。"/>
     <str id="%s gains adrenaline rush." value="%s gains adrenaline rush." local="%s获得了肾上腺素冲击。"/>
@@ -2935,7 +2935,7 @@
     <str id="Whelp" value="Whelp" local="幼龙"/>
     <str id="Bearling" value="Bearling" local="幼熊"/>
     <str id="Big mouth" value="Big mouth" local="大嘴"/>
-    <str id="Ch'Ri" value="Ch'Ri" local="唐玉"/>
+    <str id="Ch'Ri" value="Ch'Ri"/>
     <str id="Balthar" value="Balthar" local="巴塔尔"/>
     <str id="Elemental" value="Elemental" local="元素怪"/>
     <str id="Living earth" value="Living earth" local="地元素"/>
@@ -3570,7 +3570,7 @@
     <str id="COD_INSTANT_DEATH_1" value="%s died of an instant death effect caused by %s own %s." local="%s死于即死效果，它是 %s 自己的 %s 造成的。"/>
     <str id="COD_INSTANT_DEATH_2" value="%s died of an instant death effect caused by %s's %s." local="%s死于即死效果，它是 %s 的 %s 造成的。"/>
     <str id="COD_TRANSMUTE_FAIL" value="%s died of too many lost chest hairs caused by failed transmutation." local="%s的点金术失败，胸毛掉落太多而死。"/>
-    <str id="COD_MANA_BURN" value="%s died of magic damage caused by %s's mana burn." local="%s死于%s的魔法燃烧造成的魔法伤害。"/>
+    <str id="COD_MANA_BURN" value="%s died of magic damage caused by %s's mana burn." local="%s死于%s的魔力燃烧造成的魔法伤害。"/>
   </CauseOfDeath>
   <DamageTypes>
     <str id="physical" value="physical" local="物理"/>
@@ -4045,7 +4045,7 @@
       <str id="paragraph 1" value="This heritage can be unlocked by killing Balthar the Familiar." local="这项遗产可以通过杀死密友巴&#10;塔尔解锁。"/>
     </str>
     <str id="The Shroom Bawl" value="Unlocks an extra stash box." local="解锁一个额外的藏宝箱。">
-      <str id="paragraph 1" value="This heritage can be unlocked by killing Ch'Ri the Blingstealer." local="这项遗产可以通过杀死闪光飞&#10;贼唐玉解锁。"/>
+      <str id="paragraph 1" value="This heritage can be unlocked by killing Ch'Ri the Blingstealer." local="这项遗产可以通过杀死叮叮飞&#10;贼 Ch'Ri 解锁。"/>
     </str>
     <str id="Skaldir's Fate" value="Unlocks an extra stash box." local="解锁一个额外的藏宝箱。">
       <str id="paragraph 1" value="This heritage can be unlocked by killing Skaldir the Timeless." local="这项遗产可以通过杀死永恒的&#10;斯卡迪尔解锁。"/>
@@ -4318,14 +4318,14 @@
     <str id="Burning Anxiety" value="This challenge can be completed by killing Balthar the Familiar while wearing Ring of Anxiety." local="这项挑战可以通过装备有焦虑&#10;之戒时杀死密友巴塔尔来完成&#10;。">
       <str id="paragraph 1" value="This challenge will fail if you are hit by mana burn without being vulnerable to magic." local="如果你被魔法击中的时候并未&#10;受到易受魔法伤害的影响，挑&#10;战失败。"/>
     </str>
-    <str id="Circular Strike" value="This challenge can be completed by finding out the exploitable weakness of Ch'Ri the Blingstealer." local="这项挑战可以通过找出闪光飞&#10;贼唐玉可利用的弱点来完成。"/>
-    <str id="Champ of Champs" value="This challenge can be completed by killing Ch'Ri the Blingstealer without haste effects or exploits and without being poisoned." local="这项挑战可以通过在不依靠加&#10;速效果或弱点，且不被下毒的&#10;前提下杀死闪光飞贼唐玉来完&#10;成。"/>
+    <str id="Circular Strike" value="This challenge can be completed by finding out the exploitable weakness of Ch'Ri the Blingstealer." local="这项挑战可以通过找出叮叮飞&#10;贼 Ch'Ri 可利用的弱点来完成&#10;。"/>
+    <str id="Champ of Champs" value="This challenge can be completed by killing Ch'Ri the Blingstealer without haste effects or exploits and without being poisoned." local="这项挑战可以通过在不依靠加&#10;速效果或弱点，且不被下毒的&#10;前提下杀死叮叮飞贼 Ch'Ri 来&#10;完成。"/>
     <str id="Sands of Time" value="This challenge can be completed by finding out the exploitable weakness of Skaldir the Timeless." local="这项挑战可以通过找出永恒的&#10;斯卡迪尔可利用的弱点来完成&#10;。"/>
     <str id="Skulls and Bones" value="This challenge can be completed by killing Skaldir the Timeless without haste effects or exploits." local="这项挑战可以通过在不依靠加&#10;速效果或弱点的前提下，杀死&#10;永恒的斯卡迪尔来完成。"/>
     <str id="Boney Twin Job" value="This challenge can be completed by killing Skaldir the Timeless twice in a single game." local="这项挑战可以通过在同一局游&#10;戏中杀死斯卡迪尔两次来完成&#10;。"/>
     <str id="Junk Collector" value="This challenge can be completed by completing all collector heritages in any number of games." local="这项挑战可以通过解锁所有收&#10;藏家遗产来完成，不限于在单&#10;局游戏。"/>
     <str id="Fitting Just Us" value="This challenge can be completed by killing Boarstone with the gift crossbow and Slow and Steady talent." local="这项挑战可以通过使用礼物十&#10;字弓在有稳扎稳打天赋的前提&#10;下杀死朱石来完成。"/>
-    <str id="Bloody Club" value="This legendary effect can be imbued by killing Ch'Ri the Blingstealer (only works with a club or fine club)." local="这个传奇效果可以通过杀死闪&#10;光飞贼唐玉来灌注（只对棒和&#10;精美之棒有效）。"/>
+    <str id="Bloody Club" value="This legendary effect can be imbued by killing Ch'Ri the Blingstealer (only works with a club or fine club)." local="这个传奇效果可以通过杀死叮&#10;叮飞贼 Ch'Ri 来灌注（只对棒&#10;和精美之棒有效）。"/>
     <str id="The Seal Club" value="This challenge can be completed by killing the King with a Bloody Club." local="这项挑战可以通过使用血腥之&#10;棒杀死国王来完成。"/>
     <str id="Binding Ritual" value="This challenge can be completed by performing a binding ritual described in the grimoire." local="这项挑战可以通过启动魔法书&#10;中描述的捆绑仪式来完成。"/>
   </ChallengeDescs>

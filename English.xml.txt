@@ -831,7 +831,7 @@ ActionLogs."%s sink in the water." %s沉入水中。
 ActionLogs."%s sinks in the water." %s沉入水中。
 ActionLogs."%s sink in the lava." %s沉入岩浆。
 ActionLogs."%s sinks in the lava." %s沉入岩浆。
-ActionLogs."%s's mana burn hits you." %s的魔法燃烧击中了你。
+ActionLogs."%s's mana burn hits you." %s的魔力燃烧击中了你。
 ActionLogs."%s casts an unknown spell." %s施放了一个未知的法术。
 ActionLogs."%s steals one of your rings." %s偷了你的一枚戒指。
 ActionLogs."%s gains adrenaline rush." %s获得了肾上腺素冲击。
@@ -2712,7 +2712,7 @@ CreatureNames."Devourer" 吞噬者
 CreatureNames."Whelp" 幼龙
 CreatureNames."Bearling" 幼熊
 CreatureNames."Big mouth" 大嘴
-CreatureNames."Ch'Ri" 唐玉
+CreatureNames."Ch'Ri" Ch'Ri
 CreatureNames."Balthar" 巴塔尔
 CreatureNames."Elemental" 元素怪
 CreatureNames."Living earth" 地元素
@@ -3333,7 +3333,7 @@ CauseOfDeath."COD_SPELL_DAMAGE_2" %s死于 %s 伤害，它是 %s 的 %s 造成�
 CauseOfDeath."COD_INSTANT_DEATH_1" %s死于即死效果，它是 %s 自己的 %s 造成的。
 CauseOfDeath."COD_INSTANT_DEATH_2" %s死于即死效果，它是 %s 的 %s 造成的。
 CauseOfDeath."COD_TRANSMUTE_FAIL" %s的点金术失败，胸毛掉落太多而死。
-CauseOfDeath."COD_MANA_BURN" %s死于%s的魔法燃烧造成的魔法伤害。
+CauseOfDeath."COD_MANA_BURN" %s死于%s的魔力燃烧造成的魔法伤害。
 DamageTypes."physical" 物理
 DamageTypes."fire" 火焰
 DamageTypes."frost" 冰霜
@@ -3706,7 +3706,7 @@ HeritageDescs."TheHoardDLC" @(26)注意：这项遗产需要游侠传奇——�
 HeritageDescs."Balthar's Day" @(26)解锁一个额外的藏宝箱。
 HeritageDescs."Balthar's Day".1 @(26)这项遗产可以通过杀死密友巴塔尔解锁。
 HeritageDescs."The Shroom Bawl" @(26)解锁一个额外的藏宝箱。
-HeritageDescs."The Shroom Bawl".1 @(26)这项遗产可以通过杀死闪光飞贼唐玉解锁。
+HeritageDescs."The Shroom Bawl".1 @(26)这项遗产可以通过杀死叮叮飞贼 Ch'Ri 解锁。
 HeritageDescs."Skaldir's Fate" @(26)解锁一个额外的藏宝箱。
 HeritageDescs."Skaldir's Fate".1 @(26)这项遗产可以通过杀死永恒的斯卡迪尔解锁。
 HeritageDescs."Spaulder Collector" @(26)给皮质护甲套装遗产增加一对皮肩甲。
@@ -3925,14 +3925,14 @@ ChallengeDescs."Indivisible Greed" @(26)这项挑战可以在遭遇三个愤怒�
 ChallengeDescs."TheHoardDLC" @(26)注意：这项挑战需要游侠传奇——窖藏 DLC。
 ChallengeDescs."Burning Anxiety" @(26)这项挑战可以通过装备有焦虑之戒时杀死密友巴塔尔来完成。
 ChallengeDescs."Burning Anxiety".1 @(26)如果你被魔法击中的时候并未受到易受魔法伤害的影响，挑战失败。
-ChallengeDescs."Circular Strike" @(26)这项挑战可以通过找出闪光飞贼唐玉可利用的弱点来完成。
-ChallengeDescs."Champ of Champs" @(26)这项挑战可以通过在不依靠加速效果或弱点，且不被下毒的前提下杀死闪光飞贼唐玉来完成。
+ChallengeDescs."Circular Strike" @(26)这项挑战可以通过找出叮叮飞贼 Ch'Ri 可利用的弱点来完成。
+ChallengeDescs."Champ of Champs" @(26)这项挑战可以通过在不依靠加速效果或弱点，且不被下毒的前提下杀死叮叮飞贼 Ch'Ri 来完成。
 ChallengeDescs."Sands of Time" @(26)这项挑战可以通过找出永恒的斯卡迪尔可利用的弱点来完成。
 ChallengeDescs."Skulls and Bones" @(26)这项挑战可以通过在不依靠加速效果或弱点的前提下，杀死永恒的斯卡迪尔来完成。
 ChallengeDescs."Boney Twin Job" @(26)这项挑战可以通过在同一局游戏中杀死斯卡迪尔两次来完成。
 ChallengeDescs."Junk Collector" @(26)这项挑战可以通过解锁所有收藏家遗产来完成，不限于在单局游戏。
 ChallengeDescs."Fitting Just Us" @(26)这项挑战可以通过使用礼物十字弓在有稳扎稳打天赋的前提下杀死朱石来完成。
-ChallengeDescs."Bloody Club" @(26)这个传奇效果可以通过杀死闪光飞贼唐玉来灌注（只对棒和精美之棒有效）。
+ChallengeDescs."Bloody Club" @(26)这个传奇效果可以通过杀死叮叮飞贼 Ch'Ri 来灌注（只对棒和精美之棒有效）。
 ChallengeDescs."The Seal Club" @(26)这项挑战可以通过使用血腥之棒杀死国王来完成。
 ChallengeDescs."Binding Ritual" @(26)这项挑战可以通过启动魔法书中描述的捆绑仪式来完成。
 ChallengeTitles."Select Title" 选择头衔

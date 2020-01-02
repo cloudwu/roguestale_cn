@@ -3990,3 +3990,21 @@ Soul Gem
 
 Soul gems can be found on dead spellcasters that use certain spells but there are ways to make them if you don't mind taking them by force.
 魂晶可以在死去的使用特定法术的施法者身上找到，但如果你不介意使用武力的话，也有制造它们的方法。
+
+Slow and Steady
+稳扎稳打
+
+Ranged attacks made with slow weapons count as using both the Aimed Shot and Steady Shot talents at the same time and they use either strength or agility bonus modifier, whichever is higher.
+使用慢速武器进行的远程攻击同时使用百步穿杨和弹无虚发天赋，使用力量和敏捷增益修正中较高的那个。
+
+Infinite Flask
+无限之瓶
+
+Use this on a potion to copy its contents into the first empty potion in your inventory.
+将其使用在一个药剂上，可以将药剂复制到装备栏中的第一个空药瓶中。
+
+Scribe's Tools
+抄写工具
+
+Use this on a scroll to copy its contents onto the first blank scroll in your inventory.
+将其使用在一个卷轴上，可以将卷轴复制到装备栏中的第一个空白卷轴上。

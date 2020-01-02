@@ -7,6 +7,10 @@ local list = {
 "sideQuestDreadLord.xml",
 "sideQuestEvilGenie.xml",
 "sideQuestExitPrompt.xml",
+"sideQuestBalthar.xml",
+"sideQuestMarksman.xml",
+"sideQuestSkaldir.xml",
+"sideQuestStealer.xml",
 }
 
 local function convert(name)
