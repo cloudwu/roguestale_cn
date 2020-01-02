@@ -3702,7 +3702,7 @@ HeritageDescs."Wester Worshipper" @(26)允许你通过一个雕花金字塔和�
 HeritageDescs."Wester Worshipper".1 @(26)一旦你学会了一门深渊法术，你就可以在背包中有金字塔时施放它。
 HeritageDescs."Wester Worshipper".2 @(26)向工匠行会捐赠一个未鉴定的金字塔可以解锁这项遗产。
 HeritageDescs."Wester Worshipper".3 @(26)(*) 注意：你需要读写：常识以及另一项读写天赋。
-HeritageDescs."TheHoardDLC" @(26)注意：这项遗产需要游侠传奇——窖藏 DLC。
+HeritageDescs."TheHoardDLC" @(26)注意：这项遗产需要游侠传奇——宝藏 DLC。
 HeritageDescs."Balthar's Day" @(26)解锁一个额外的藏宝箱。
 HeritageDescs."Balthar's Day".1 @(26)这项遗产可以通过杀死密友巴塔尔解锁。
 HeritageDescs."The Shroom Bawl" @(26)解锁一个额外的藏宝箱。
@@ -3922,7 +3922,7 @@ ChallengeDescs."Path of Fairness".1 If @(26)如果你测试的答案中只有公
 ChallengeDescs."Path of Compassion" %s 
 ChallengeDescs."Path of Compassion".1 @(26)如果你测试的答案中只有温和的，你会被视为‘%s’。
 ChallengeDescs."Indivisible Greed" @(26)这项挑战可以在遭遇三个愤怒的父亲后重置地牢来完成。
-ChallengeDescs."TheHoardDLC" @(26)注意：这项挑战需要游侠传奇——窖藏 DLC。
+ChallengeDescs."TheHoardDLC" @(26)注意：这项挑战需要游侠传奇——宝藏 DLC。
 ChallengeDescs."Burning Anxiety" @(26)这项挑战可以通过装备有焦虑之戒时杀死密友巴塔尔来完成。
 ChallengeDescs."Burning Anxiety".1 @(26)如果你被魔法击中的时候并未受到易受魔法伤害的影响，挑战失败。
 ChallengeDescs."Circular Strike" @(26)这项挑战可以通过找出叮叮飞贼 Ch'Ri 可利用的弱点来完成。

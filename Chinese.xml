@@ -1,4 +1,4 @@
-<strings version="Version 2.01 (191231)" checksum="1e525435872db9d4eea7e77bf74d405eb866d013">
+<strings version="Version 2.01 (191231)" checksum="9e3f309b5bd4eb363ad53abffb202e891e613bf5">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -4040,7 +4040,7 @@
       <str id="paragraph 2" value="This heritage can be unlocked by attempting to donate an unidentified pyramidion to the Artisan's Guild." local="向工匠行会捐赠一个未鉴定的&#10;金字塔可以解锁这项遗产。"/>
       <str id="paragraph 3" value="(*) Note that you will also need to know Literacy: Common and one of the other literacies." local="(*) 注意：你需要读写：常识&#10;以及另一项读写天赋。"/>
     </str>
-    <str id="TheHoardDLC" value="Note that this heritage requires Rogue's Tale - The Hoard DLC." local="注意：这项遗产需要游侠传奇&#10;——窖藏 DLC。"/>
+    <str id="TheHoardDLC" value="Note that this heritage requires Rogue's Tale - The Hoard DLC." local="注意：这项遗产需要游侠传奇&#10;——宝藏 DLC。"/>
     <str id="Balthar's Day" value="Unlocks an extra stash box." local="解锁一个额外的藏宝箱。">
       <str id="paragraph 1" value="This heritage can be unlocked by killing Balthar the Familiar." local="这项遗产可以通过杀死密友巴&#10;塔尔解锁。"/>
     </str>
@@ -4314,7 +4314,7 @@
       <str id="paragraph 1" value="If you answer the test with gentle answers only, you will be known as '%s'." local="如果你测试的答案中只有温和&#10;的，你会被视为‘%s’。"/>
     </str>
     <str id="Indivisible Greed" value="This challenge can be completed by reseting a dungeon after meeting three angry pops." local="这项挑战可以在遭遇三个愤怒&#10;的父亲后重置地牢来完成。"/>
-    <str id="TheHoardDLC" value="Note that this challenge requires Rogue's Tale - The Hoard DLC." local="注意：这项挑战需要游侠传奇&#10;——窖藏 DLC。"/>
+    <str id="TheHoardDLC" value="Note that this challenge requires Rogue's Tale - The Hoard DLC." local="注意：这项挑战需要游侠传奇&#10;——宝藏 DLC。"/>
     <str id="Burning Anxiety" value="This challenge can be completed by killing Balthar the Familiar while wearing Ring of Anxiety." local="这项挑战可以通过装备有焦虑&#10;之戒时杀死密友巴塔尔来完成&#10;。">
       <str id="paragraph 1" value="This challenge will fail if you are hit by mana burn without being vulnerable to magic." local="如果你被魔法击中的时候并未&#10;受到易受魔法伤害的影响，挑&#10;战失败。"/>
     </str>
