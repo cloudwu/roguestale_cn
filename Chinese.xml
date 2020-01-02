@@ -1,4 +1,4 @@
-<strings version="Version 2.00 (190713)" checksum="53b4e683b992f8220d7288ac8122047f8cd0273d">
+<strings version="Version 2.01 (191231)" checksum="de961103ddc5be793cfb2cf81716b064c8d3e4c8">
   <Grammar>
     <str id="a" value="a" local=""/>
     <str id="an" value="an" local=""/>
@@ -223,8 +223,16 @@
     <str id="Donate %dg" value="Donate %dg" local="捐献 %d 金"/>
     <str id="Feast and rest (%dg)" value="Feast and rest (%dg)" local="饱餐并休息 (%d 金)"/>
     <str id="I'm fully prepared!" value="I'm fully prepared!" local="我已整装待发！"/>
+    <str id="Stash box 1" value="Stash box 1" local="藏宝箱 1"/>
+    <str id="Stash box 2" value="Stash box 2" local="藏宝箱 2"/>
+    <str id="Stash box 3" value="Stash box 3" local="藏宝箱 3"/>
+    <str id="Stash box 4" value="Stash box 4" local="藏宝箱 4"/>
+    <str id="Stash box 5" value="Stash box 5" local="藏宝箱 5"/>
   </GUITown>
   <GUIDesc>
+    <str id="PLAYER_STASH" value="This is your personal stash provided by Leo Noerde." local="这是你的私人藏宝处，由鲁班提供。">
+      <str id="paragraph 1" value="Apparently he was so touched by your heroic deeds that he gave you access to some stash boxes in a secure room." local="显然，他被你的英雄事迹感动了。允&#10;许你使用一间安全屋中的藏宝箱。"/>
+    </str>
     <str id="MARKET_SQUARE" value="You have entered the Market Quarter and here you can trade items with various merchants." local="你进入了商业集市，这里可以和各式&#10;商人交易物品。">
       <str id="paragraph 1" value="Note that once the merchants' inventories  are filled with junk, you can reset them by resting in the inn." local="注意：如果商人的货架被垃圾堆满的&#10;话，你可以通过在旅店休息重置它们&#10;。"/>
     </str>
@@ -234,7 +242,7 @@
     </str>
     <str id="ARTISAN_GUILD" value="You have entered the Artisans' Guild and here you can have your items repaired." local="你进入了工匠行会，在这里你可以修&#10;理你的物品。">
       <str id="paragraph 1" value="If you have unique items, you can donate them to the guild with a drag and drop." local="如果你获得了独特物品，可以通过拖&#10;拽进行会捐献它们。"/>
-      <str id="paragraph 2" value="If you have unidentified charms, you can identify them for free by attempting to donate them to the guild." local="如果你有未鉴定的项链，你可以尝试&#10;将它们捐献给行会来获得免费鉴定。"/>
+      <str id="paragraph 2" value="If you have unidentified charms, you can identify them for free by attempting to donate them to the guild." local="如果你有未鉴定的饰品，你可以尝试&#10;将它们捐献给行会来获得免费鉴定。"/>
       <str id="paragraph 3" value="Note that if you ever need to return some quest item then this is the place to do so." local="注意：如果你需要返还一些任务物品&#10;，这里就是做这事的地方。"/>
     </str>
     <str id="DIVINER_GUILD" value="You have entered the Diviners' Guild and here you can have your items identified." local="你进入了占卜师行会，在这里你可以&#10;鉴定你的物品。"/>
@@ -312,6 +320,9 @@
     <str id="Yeah, yeah, I'm going!" value="Yeah, yeah, I'm going!" local="好的好的，我会去的！"/>
     <str id="Itchy-bitchy die die!" value="Itchy-bitchy die die!" local="骚婊子，去死吧！"/>
     <str id="I hope they have gold!" value="I hope they have gold!" local="希望他们有钱！"/>
+    <str id="Do I have to baby sit?" value="Do I have to baby sit?" local="我需要照看孩子吗？"/>
+    <str id="Early retirement, got it!" value="Early retirement, got it!" local="提前退休，明白了！"/>
+    <str id="Going postal, gotcha!" value="Going postal, gotcha!" local="太疯狂了，明白！"/>
     <str id="How hard can it be?!?" value="How hard can it be?!?" local="能有多难?!?"/>
     <str id="Heh, sure, I got this!" value="Heh, sure, I got this!" local="嘿，当然，我了解了！"/>
     <str id="Accept the quest" value="Accept the quest" local="接受任务"/>
@@ -321,6 +332,10 @@
     <str id="Bandits' Hideout" value="Bandits' Hideout" local="土匪的巢穴"/>
     <str id="Ancient Sewer" value="Ancient Sewer" local="古代下水道"/>
     <str id="Spider Cave" value="Spider Cave" local="蜘蛛洞"/>
+    <str id="Boarding School" value="Boarding School" local="寄宿学校"/>
+    <str id="Ye Olde Books" value="Ye Olde Books" local="古董图书"/>
+    <str id="The Blood Bawl" value="The Blood Bawl" local="血腥嚎叫"/>
+    <str id="Hangman's River" value="Hangman's River" local="绞刑之河"/>
     <str id="Cultists' Lair" value="Cultists' Lair" local="邪教徒的巢穴"/>
     <str id="Nabon's Castle" value="Nabon's Castle" local="腊崩的城堡"/>
     <str id="Frostmourn Keep" value="Frostmourn Keep" local="霜之哀伤城楼"/>
@@ -349,6 +364,21 @@
       <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail." local="注意，一旦你接受了任务，你就必须&#10;在离开地牢前完成这个任务，否则就&#10;算任务失败。"/>
     </str>
     <str id="SPAWN_WORSHIPPERS" value="You accept the quest and head out to do some justified murdering." local="你接受了任务，出发去执行正当的刺杀。"/>
+    <str id="BALTHAR_DESC" value="A local librarian is seeking for some brave adventurer to clear out a familiar in one of their library halls." local="一个本地的图书管理员正在寻找一些&#10;勇敢的冒险家来清理他们图书馆大厅&#10;里的一个熟悉的地方。">
+      <str id="paragraph 1" value="Apparently they sent in a few librarians to remove the familiar but they all died so they had to lock it in." local="很明显，他们派了几个图书管理员去&#10;把那个熟悉的东西拿走，但是他们都&#10;死了，所以他们不得不把它锁起来。"/>
+      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail." local="注意，一旦你接受了任务，你就必须&#10;在离开地牢前完成这个任务，否则就&#10;算任务失败。"/>
+    </str>
+    <str id="SPAWN_BALTHAR" value="You accept the quest and head out to do some familiar stuff." local="你接受了任务，开始做一些熟悉的事情。"/>
+    <str id="STEALER_DESC" value="There is an underground arena where the fighters have no rules but it seems that the organizers have a problem." local="有一个地下竞技场，格斗者不限规则&#10;，但组织者似乎有一个问题。">
+      <str id="paragraph 1" value="The arena champion keeps stealing rings from patrons, thus hurting business, and they want it taken care of." local="竞技场冠军不断地从顾客那里偷戒指&#10;，因此损害了生意，他们想处理掉这&#10;件事。"/>
+      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail." local="注意，一旦你接受了任务，你就必须&#10;在离开地牢前完成这个任务，否则就&#10;算任务失败。"/>
+    </str>
+    <str id="SPAWN_STEALER" value="You accept the quest and head out to do some backstage killing." local="你接受了任务，出去做一些幕后的杀&#10;戮。"/>
+    <str id="MARKSMAN_DESC" value="A post delivery service is seeking someone to deliver a crossbow to a master marksman called Boarstone." local="一家快递公司正在寻找一个人来给一&#10;个叫朱石的神射手送一把十字弓。">
+      <str id="paragraph 1" value="There seems to be some crabs blocking the way and they're willing to pay 20g for delivering the crossbow." local="似乎有一些螃蟹挡住了路，他们愿意&#10;支付 20g 作为十字弓的配送费。"/>
+      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail." local="注意，一旦你接受了任务，你就必须&#10;在离开地牢前完成这个任务，否则就&#10;算任务失败。"/>
+    </str>
+    <str id="SPAWN_MARKSMAN" value="You accept the quest and head out to deliver the crossbow." local="你接受任务，出发去送十字弓。"/>
     <str id="GURMUR_DESC" value="Some cultists have come up with a plan to take over the world by waking up an old monster that should've stayed dead." local="一些邪教徒开启了一个计划，想唤醒&#10;一个本已死去的老怪物来征服世界。">
       <str id="paragraph 1" value="Obviously that is bad but what is even worse is that those cultists are carrying a lot of gold that should be yours." local="这当然很糟糕，但还有更糟的事情是&#10;那些邪教徒带走了本该属于你的大量&#10;金币。"/>
       <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail." local="注意，一旦你接受了任务，你就必须&#10;在离开地牢前完成这个任务，否则就&#10;算任务失败。"/>
@@ -660,6 +690,8 @@
     <str id="You salvage a piece of reusable scrap from the debris." value="You salvage a piece of reusable scrap from the debris." local="你从残骸中抢救出一块可以再利用的碎片。"/>
     <str id="You pull the trigger and shoot %s at %s." value="You pull the trigger and shoot %s at %s." local="你触动了扳机，把%s射向%s 。"/>
     <str id="You pull the trigger but nothing happens." value="You pull the trigger but nothing happens." local="你触动了扳机，但什么也没有发生。"/>
+    <str id="%s seems to be healed by your attack." value="%s seems to be healed by your attack." local="%s似乎被你的攻击治愈了。"/>
+    <str id="The shot hits but it glances off with a whirring sound." value="The shot hits but it glances off with a whirring sound." local="射击命中了，但它发出了嗡嗡的声音。"/>
   </AttackLogs>
   <CastLogs>
     <str id="You cast %s at %s." value="You cast %s at %s." local="你向%2施放了%1。"/>
@@ -822,6 +854,19 @@
     <str id="Select a blessed ring to bind on %s." value="Select a blessed ring to bind on %s." local="选择一个被祝福的戒指绑定在%s之上。"/>
     <str id="You set the time dilation to match 'Even' turns." value="You set the time dilation to match 'Even' turns." local="你设置时间膨胀装置为“偶数”回合。"/>
     <str id="You set the time dilation to match 'Odd' turns." value="You set the time dilation to match 'Odd' turns." local="你设置时间膨胀装置为“奇数”回合。"/>
+    <str id="You can't seem to figure out what to do with the charm." value="You can't seem to figure out what to do with the charm." local="你似乎不知道如何使用这个饰品。"/>
+    <str id="Select a potion to copy with %s." value="Select a potion to copy with %s." local="选择一瓶药剂用%s来复制。"/>
+    <str id="Select a scroll to copy with %s." value="Select a scroll to copy with %s." local="选择一个卷轴用%s来复制。"/>
+    <str id="You can't use %s without an empty potion." value="You can't use %s without an empty potion." local="没有空药瓶就不能使用%s。"/>
+    <str id="You can't use %s without a blank scroll." value="You can't use %s without a blank scroll." local="没有空卷轴就不能使用%s。"/>
+    <str id="You start to read the grimoire and open a page titled 'Chapter I - Skaldir'." value="You start to read the grimoire and open a page titled 'Chapter I - Skaldir'." local="你开始阅读魔法书，翻到标题为“第一章-斯卡迪尔”的那一页。"/>
+    <str id="You continue reading and find a paragraph describing a summoning ritual." value="You continue reading and find a paragraph describing a summoning ritual." local="你继续阅读并找到一个描述召唤仪式的段落。"/>
+    <str id="It reads: Skaldir comes forth when you sacrifice your soul mate." value="It reads: Skaldir comes forth when you sacrifice your soul mate." local="书上写着：当你献祭你的灵魂伴侣时，斯卡迪尔就会出现。"/>
+    <str id="You resume reading and open a page titled 'Chapter II - Spirit Staves'." value="You resume reading and open a page titled 'Chapter II - Spirit Staves'." local="你继续读下去，翻到标题为“第二章——精神法杖”的那一页。"/>
+    <str id="You browse through the page and find a paragraph about a binding ritual." value="You browse through the page and find a paragraph about a binding ritual." local="你继续浏览下去，找到了一段关于捆绑仪式的文字。"/>
+    <str id="It reads: Place a staff and a full wizard's armour set in the circle and..." value="It reads: Place a staff and a full wizard's armour set in the circle and..." local="书上写着： 把一根棍子和一整套巫师护甲放在圈里，然后……"/>
+    <str id="It reads: ...sacrifice a human that has died at least once before." value="It reads: ...sacrifice a human that has died at least once before." local="书上写着：……献祭一个至少死过一次的人。"/>
+    <str id="You try to read the grimoire but it seems to have a head ache and it closes." value="You try to read the grimoire but it seems to have a head ache and it closes." local="你试着去读魔法书，但好像头很疼，就合上了。"/>
   </UseLogs>
   <ActionLogs>
     <str id="You disarm %s." value="You disarm %s." local="你缴械了%s。"/>
@@ -841,6 +886,7 @@
     <str id="You shapeshift into a wolf." value="You shapeshift into a wolf." local="你变身成一只狼。"/>
     <str id="You shapeshift into a bear." value="You shapeshift into a bear." local="你变身成一头熊。"/>
     <str id="%s vanishes." value="%s vanishes." local="%s消失了。"/>
+    <str id="%s explodes." value="%s explodes." local="%s爆炸了。"/>
     <str id="%s dies and sinks in the water." value="%s dies and sinks in the water." local="%s死了，沉入水中。"/>
     <str id="%s dies and sinks in the lava." value="%s dies and sinks in the lava." local="%s死了，沉入岩浆。"/>
     <str id="%s dies." value="%s dies." local="%s死了。"/>
@@ -858,6 +904,10 @@
     <str id="%s sinks in the water." value="%s sinks in the water." local="%s沉入水中。"/>
     <str id="%s sink in the lava." value="%s sink in the lava." local="%s沉入岩浆。"/>
     <str id="%s sinks in the lava." value="%s sinks in the lava." local="%s沉入岩浆。"/>
+    <str id="%s's mana burn hits you." value="%s's mana burn hits you." local="%s的魔法燃烧击中了你。"/>
+    <str id="%s casts an unknown spell." value="%s casts an unknown spell." local="%s施放了一个未知的法术。"/>
+    <str id="%s steals one of your rings." value="%s steals one of your rings." local="%s偷了你的一枚戒指。"/>
+    <str id="%s gains adrenaline rush." value="%s gains adrenaline rush." local="%s获得了肾上腺素冲击。"/>
   </ActionLogs>
   <CombatTexts>
     <str id="Friend Gained" value="Friend Gained" local="获得伙伴"/>
@@ -1131,6 +1181,7 @@
     <str id="Shapeshift: Wolf" value="Shapeshift: Wolf" local="变身：狼"/>
     <str id="Shapeshift: Bear" value="Shapeshift: Bear" local="变身：熊"/>
     <str id="Bestial Wrath" value="Bestial Wrath" local="狂野怒火"/>
+    <str id="Slow and Steady" value="Slow and Steady" local="稳扎稳打"/>
   </TalentNames>
   <TalentDescs>
     <str id="Aimed Shot" value="Ranged attack that causes D3 extra damage instead of 1 for each point of agility bonus modifier." local="远程攻击每点敏捷增益修正获得 D&#10;3 的额外伤害，而非正常的 1 点额&#10;外伤害。"/>
@@ -1197,6 +1248,9 @@
     </str>
     <str id="Bestial Wrath" value="Increases physical damage by D3 while shapeshifted. This talent is also improved by the following heritages:" local="在变身时增加 D3 物理伤害。这个&#10;天赋还会被下列遗产增强：" space="True">
       <str id="paragraph 1" value="Bestial Vigour, Leader of the Pack." local="兽性大发 ，团队领袖 。"/>
+    </str>
+    <str id="Slow and Steady" value="Ranged attacks made with slow weapons count as using both the Aimed Shot and Steady Shot talents at the same" local="使用慢速武器进行的远程攻击同时&#10;使用百步穿杨和弹无虚发天赋，使&#10;用力量和敏捷增益修正中较高的那&#10;个。" space="True">
+      <str id="paragraph 1" value="time and they use either strength or agility bonus modifier, whichever is higher." local=""/>
     </str>
   </TalentDescs>
   <SpellNames>
@@ -1626,6 +1680,17 @@
     <str id="Re-roll clearcast (Abyssal)." value="Re-roll clearcast (Abyssal)." local="重掷沉静施法（深渊）"/>
     <str id="Heals D6 points per turn." value="Heals D6 points per turn." local="每回合治疗 D6 点。"/>
     <str id="Befriend daemons." value="Befriend daemons." local="成为恶魔的朋友。"/>
+    <str id="Grants immunity to snares." value="Grants immunity to snares." local="获得了对陷阱的免疫。"/>
+    <str id="3x stealth damage instead of 2x." value="3x stealth damage instead of 2x." local="将两倍偷袭伤害提高到三倍。"/>
+    <str id="Low health buffs melee damage." value="Low health buffs melee damage." local="生命值低的时候加强近战伤害。"/>
+    <str id="Large weapons hit twice on 5+." value="Large weapons hit twice on 5+." local="大型武器在 5+ 时攻击两次。"/>
+    <str id="Free attack before shield bash." value="Free attack before shield bash." local="盾击前免费攻击。"/>
+    <str id="Auto clearcast (Celestial)." value="Auto clearcast (Celestial)." local="自动沉静施法（天使系）。"/>
+    <str id="Auto clearcast (Draconic)." value="Auto clearcast (Draconic)." local="自动沉静施法（龙系）。"/>
+    <str id="Auto clearcast (Infernal)." value="Auto clearcast (Infernal)." local="自动沉静施法（地狱系）。"/>
+    <str id="Increase set bonus to 75%." value="Increase set bonus to 75%." local="将套装奖励增加到 75%。"/>
+    <str id="Auto clearcast (Bestial)." value="Auto clearcast (Bestial)." local="自动沉静施法（兽性）。"/>
+    <str id="Auto clearcast (Abyssal)." value="Auto clearcast (Abyssal)." local="自动沉静施法（深渊）。"/>
   </ItemSets>
   <AddonNames>
     <str id="Padded Spaulders" value="Padded Spaulders" local="棉护肩"/>
@@ -1925,6 +1990,8 @@
     <str id="Fishing Hook and Line" value="Fishing Hook and Line" local="钓鱼套件"/>
     <str id="Fairy Jizzed Bull Horn" value="Fairy Jizzed Bull Horn" local="仙女摧残过的牛角"/>
     <str id="Engraved Pyramidion" value="Engraved Pyramidion" local="雕花金字塔"/>
+    <str id="Infinite Flask" value="Infinite Flask" local="无限之瓶"/>
+    <str id="Scribe's Tools" value="Scribe's Tools" local="抄写工具"/>
   </CharmNames>
   <CharmDescs>
     <str id="Lucky Number Seven" value="The house always wins, the sooner you realise that the better." local="庄家永远赢，越早意识到这点越好&#10;。"/>
@@ -1957,6 +2024,8 @@
     <str id="Fishing Hook and Line" value="Oh well, this was one of those things that were never intended to be added but here we are." local="好吧，我本来永远都不想加这个东&#10;西的，不过现在有了。"/>
     <str id="Fairy Jizzed Bull Horn" value="This horn wasn't able to avoid a busload of fairies that were offended by its toxic masculinity." local="这个牛角散发出的直男癌气息无可&#10;避免的会招来一车皮深受其害的小&#10;仙女。"/>
     <str id="Engraved Pyramidion" value="This symbolizes the abyssal ways of clipping tips and tops of things that protrude too much." local="这象征着以深渊的方式裁剪掉多余&#10;的东西突出重点。"/>
+    <str id="Infinite Flask" value="This thing provides almost as much liquidity as the magicians at the central reservoir." local="这个东西提供的液体几乎和中央水&#10;库的魔术师一样多。"/>
+    <str id="Scribe's Tools" value="Yuuup, a rare and endangered bird had to die in order to make this fancy set of tools." local="嗯，一种稀有的濒临灭绝的鸟类为&#10;了制造这种奇特的工具不得不死去&#10;。"/>
   </CharmDescs>
   <CharmEffects>
     <str id="Lucky Number Seven" value="All physical damage you deal to enemies also bleeds gold coins." local="在你对敌人造成物理伤害的同时撒&#10;出金币。"/>
@@ -1989,6 +2058,8 @@
     <str id="Fishing Hook and Line" value="Water chasms can now be used to catch fish." local="水峡谷现在可以用来钓鱼。"/>
     <str id="Fairy Jizzed Bull Horn" value="Allows apprentice wizards to learn and cast Bestial spells (learning also requires that you levitate)." local="允许巫师学徒学习和施放兽性法术&#10;（学习时需要浮空）。"/>
     <str id="Engraved Pyramidion" value="Allows apprentice wizards to learn and cast Abyssal spells (learning also requires black soul gems)." local="允许巫师学徒学习和施放深渊法术&#10;（学习时需要有黑色魂晶）。"/>
+    <str id="Infinite Flask" value="Use this on a potion to copy its contents into the first empty potion in your inventory." local="在药剂上使用时，将该药剂复制到&#10;物品栏中的第一个空药瓶中。"/>
+    <str id="Scribe's Tools" value="Use this on a scroll to copy its contents onto the first blank scroll in your inventory." local="在卷轴上使用时，将该卷轴复制到&#10;物品栏中的第一个空白卷轴上。"/>
     <str id="BlessedFamiliar" value="Any drake attempting to attack you becomes your friend permanently." local="任何企图攻击你的龙都会永久变成&#10;你的伙伴。"/>
     <str id="BlessedOutcasts" value="Summons a loot hoarder at the first level of every random dungeon." local="在每个随机地牢的第一层召唤一个&#10;收藏家。"/>
   </CharmEffects>
@@ -2110,6 +2181,7 @@
   </FoodLogs>
   <PotionNames>
     <str id="Potion" value="Potion" local="药剂"/>
+    <str id="Empty Potion" value="Empty Potion" local="空药瓶"/>
     <str id="Potion of Antidote" value="Potion of Antidote" local="解毒药剂"/>
     <str id="Potion of Awareness" value="Potion of Awareness" local="意识药剂"/>
     <str id="Potion of Blindness" value="Potion of Blindness" local="致盲药剂"/>
@@ -2143,6 +2215,7 @@
   </PotionNames>
   <PotionDescs>
     <str id="PotionDesc" value="Remember that most potions are made by mixing mucus and excrements of some unspecified animal." local="记住，大多数药剂是由一些不明动&#10;物的粘液和排泄物混合而成的。"/>
+    <str id="Empty Potion" value="This potion is empty and that's why it's called an empty potion. Cool, isn't it?" local="这个药瓶里什么也没装，这就是为&#10;什么它被称为空药瓶。很酷，不是&#10;吗?"/>
     <str id="Potion of Antidote" value="Contains a mixture that smells and tastes bad enough to cure poisons and diseases." local="里面是一种混合物，气味和味道都&#10;很糟糕，但可以解毒祛病。"/>
     <str id="Potion of Awareness" value="Contains a lovely tonic that causes your pupils to dilate beyond normal range." local="里面是一种可爱的滋补品，使您的&#10;瞳孔扩大超出正常范围。"/>
     <str id="Potion of Blindness" value="Contains blinding poison. How and where it is made remains a mystery though." local="里面是一种致盲的毒药。它从何而&#10;来，怎样制造的仍然是个谜。"/>
@@ -2310,6 +2383,7 @@
   </RuneDescs>
   <ScrollNames>
     <str id="Scroll" value="Scroll" local="卷轴"/>
+    <str id="Blank Scroll" value="Blank Scroll" local="空白卷轴"/>
     <str id="Scroll of Aggravation" value="Scroll of Aggravation" local="激怒卷轴"/>
     <str id="Scroll of Amnesia" value="Scroll of Amnesia" local="健忘卷轴"/>
     <str id="Scroll of Animation" value="Scroll of Animation" local="复活卷轴"/>
@@ -2343,6 +2417,7 @@
   </ScrollNames>
   <ScrollDescs>
     <str id="ScrollDesc" value="In addition to being an excellent form of kindling, scrolls can prove out to be very useful in certain situations." local="除了是一种极佳的引燃材料之外，&#10;卷轴还能在特定处境下起到非常重&#10;要的作用。"/>
+    <str id="Blank Scroll" value="This scroll is blank. Perhaps you should draw a boat with a dozen oars on it and call yourself Floki." local="这个卷轴是空白的。也许你应该画&#10;一艘有一打船桨的船，叫你自己弗&#10;洛基。"/>
     <str id="Scroll of Aggravation" value="Aggravates all creatures in the current level." local="激怒当前楼层的所有生物。"/>
     <str id="Scroll of Amnesia" value="Causes the caster to forget a random knowledge." local="让施法者随机忘却一个知识。"/>
     <str id="Scroll of Animation" value="Permanently turns a dead human into an undead familiar." local="将一个死去的人类永久的变成一个&#10;亡灵伙伴。"/>
@@ -2530,6 +2605,7 @@
     <str id="Soul Gem of Thirst" value="Soul Gem of Thirst" local="干渴魂晶"/>
     <str id="Soul Gem of Wrath" value="Soul Gem of Wrath" local="愤怒魂晶"/>
     <str id="Equalizer" value="Equalizer" local="均衡器"/>
+    <str id="Grimoire" value="Grimoire" local="魔法书"/>
   </ToolNames>
   <ToolDescs>
     <str id="Smoke Bomb" value="Hides you in plain sight. Prolonged use might cause lung cancer according to the sticker at the bottom." local="让你凭空藏匿。底部的标签上写着&#10;，长期使用可能会导致肺癌。"/>
@@ -2546,6 +2622,7 @@
     <str id="Soul Gem" value="These gems are said to contain the souls of innocent victims but in reality there is no such thing as innocent..." local="这些晶石据说内含无辜受害者的灵&#10;魂，但在现实中没有所谓的无辜……"/>
     <str id="Black Soul Gem" value="These gems are said to contain the souls of innocent victims but this one doesn't seem all that innocent..." local="这些晶石据说内含无辜受害者的灵&#10;魂，但这个灵魂看起来并不无辜……"/>
     <str id="Equalizer" value="There's an engraving on the handle saying 'Shall not be infringed'." local="手柄上刻着“不可侵犯”的字样。"/>
+    <str id="Grimoire" value="This book seems to have an eye infection but somehow you still feel compelled to read it." local="这本书似乎会感染你的眼睛，但不&#10;知为什么你还是觉得有必要读一读&#10;。"/>
   </ToolDescs>
   <WandNames>
     <str id="Wand" value="Wand" local="魔杖"/>
@@ -2724,6 +2801,7 @@
     <str id="Staff of the Archmage" value="Staff of the Archmage" local="大法师之杖"/>
     <str id="Staff of the Ice Queen" value="Staff of the Ice Queen" local="冰霜女王之杖"/>
     <str id="Death Star" value="Death Star" local="死星"/>
+    <str id="Torquemada" value="Torquemada" local="狂力之弩"/>
   </WeaponNames>
   <WeaponDescs>
     <str id="Dagger" value="This is a piercing weapon and as such has a chance of ignoring the target's physical resistance." local="这是一种穿刺武器，因此有可&#10;能忽略目标的物理抗性。"/>
@@ -2778,12 +2856,12 @@
     <str id="Wizard Staff 3" value="This weapon teaches its wielder how to cast the Venomous Orb spell." local="这把武器能教会使用者如何施&#10;放毒球术。"/>
     <str id="Wizard Staff 4" value="This weapon teaches its wielder how to cast the Virulent Orb spell." local="这把武器能教会使用者如何施&#10;放疫球术。"/>
     <str id="Wizard Staff 5" value="This weapon teaches its wielder how to cast the Release Soul spell." local="这把武器能教会使用者如何施&#10;放释放灵魂。"/>
-    <str id="Celestial Staff" value="Description..." local="说明……"/>
-    <str id="Draconic Staff" value="Description..." local="说明……"/>
-    <str id="Infernal Staff" value="Description..." local="说明……"/>
-    <str id="Arcane Staff" value="Description..." local="说明……"/>
-    <str id="Bestial Staff" value="Description..." local="说明……"/>
-    <str id="Abyssal Staff" value="Description..." local="说明……"/>
+    <str id="Celestial Staff" value="This weapon contains a spirit called 'Tikku' and it improves the set bonus of a full Celestial armour set." local="这把武器中有一个叫做“白泽”&#10;的灵魂，它提高了全套天使套&#10;装的加成。"/>
+    <str id="Draconic Staff" value="This weapon contains a spirit called 'Keppi' and it improves the set bonus of a full Draconic armour set." local="这把武器中有一个叫做“应龙”&#10;的灵魂，它提高了全套龙系套&#10;装的加成。"/>
+    <str id="Infernal Staff" value="This weapon contains a spirit called 'Sauva' and it improves the set bonus of a full Infernal armour set." local="这把武器中有一个叫做“饕餮”&#10;的灵魂，它提高了全套地狱套&#10;装的加成。"/>
+    <str id="Arcane Staff" value="This weapon contains a spirit called 'Kanki' and it improves the set bonus of a full Arcane armour set." local="这把武器中有一个叫做“麒麟”&#10;的灵魂，它提高了全套奥术套&#10;装的加成。"/>
+    <str id="Bestial Staff" value="This weapon contains a spirit called 'Parru' and it improves the set bonus of a full Bestial armour set." local="这把武器中有一个叫做“诸犍”&#10;的灵魂，它提高了全套兽性套&#10;装的加成。"/>
+    <str id="Abyssal Staff" value="This weapon contains a spirit called 'Tanko' and it improves the set bonus of a full Abyssal armour set." local="这把武器中有一个叫做“混沌”&#10;的灵魂，它提高了全套深渊套&#10;装的加成。"/>
     <str id="Fine Throwing Knife" value="This knife is perfectly balanced to stop those weaklings who try to run away." local="这把飞刀锻造的非常之好，正&#10;好用来阻止那些弱夫逃跑。"/>
     <str id="Fine Throwing Star" value="This weapon is great for those villains who don't mind robbing their victims." local="这把武器对那些肆意抢劫的恶&#10;棍来说太棒了。"/>
     <str id="Gifin's Claw" value="This used to belong to Master Gifin-Gif before you snatched it from his dead body." local="这曾经属于吉夫大师，你从他&#10;的尸体上夺了过来。"/>
@@ -2797,6 +2875,7 @@
     <str id="Staff of the Archmage" value="This used to belong to Archmage Gyffendal and it teaches its wielder how to cast the Flaming Orb spell." local="这曾经属于大法师高焚岱，持&#10;有它的人可以施放火球术。"/>
     <str id="Staff of the Ice Queen" value="This used to belong to Ice Queen Altara and it teaches its wielder how to cast the Frozen Orb spell." local="这曾经属于冰霜女王艾特娜，&#10;持有它的人可以施放冰球术。"/>
     <str id="Death Star" value="These throwing stars are one of the deadliest tools used by the Blackhand assassins." local="这些手里剑是黑手刺客用过的&#10;最致命的武器。"/>
+    <str id="Torquemada" value="This is a cheap knockoff of 'Mad Torque' personal defense crossbow. Made in a sweat shop." local="这是 '狂力弹弓' 的廉价仿制&#10;品。在血汗工厂制造。"/>
   </WeaponDescs>
   <LegendaryNames>
     <str id="Cheesy Musk" value="Cheesy Musk" local="奶酪面具"/>
@@ -2808,6 +2887,7 @@
     <str id="Nightshade" value="Nightshade" local="黑暗幽影"/>
     <str id="Orbus Bomba" value="Orbus Bomba" local="法球炸弹"/>
     <str id="Zombie Dog" value="Zombie Dog" local="僵尸之狗"/>
+    <str id="Bloody Club" value="Bloody Club" local="血腥之棒"/>
   </LegendaryNames>
   <LegendaryDescs>
     <str id="WeaponDesc" value="Well, like it or not, this weapon is now extra shiny with a cool name and it's also unbreakable." local="好吧，不管你喜不喜欢，这个&#10;武器现在有了一个很酷的名字&#10;，而且它是不会坏的。"/>
@@ -2821,6 +2901,7 @@
     <str id="Nightshade" value="Poisons applied to weapons last forever and count as potent when they are applied." local="在武器上的淬毒永远生效，且&#10;视作强效。"/>
     <str id="Orbus Bomba" value="Automatically casts Enlarge Orb at the end of your turn if you are not already affected by it." local="如果你没有施放 法术球增大 &#10;，那么在你的回合结束的时候&#10;就自动施放它。"/>
     <str id="Zombie Dog" value="Woof comes back to life at the start of a new dungeon if he happens to be dead (reset dungeon in town)." local="如果汪汪死了，那么在每个新&#10;的地牢开始时会复活（在城镇&#10;中重置）。"/>
+    <str id="Bloody Club" value="Lucille the head cracking troubadour would be quite envious of the sound effects that this club has." local="露西尔，这个头部裂开的吟游&#10;诗人会非常喜欢这根棍子的声&#10;音效果。"/>
   </LegendaryDescs>
   <CreatureNames>
     <str id="Invisible creature" value="Invisible creature" local="隐形生物"/>
@@ -2838,23 +2919,30 @@
     <str id="Giant snail" value="Giant snail" local="蜗牛"/>
     <str id="Snake" value="Snake" local="蛇"/>
     <str id="Spider" value="Spider" local="蜘蛛"/>
-    <str id="Whelp" value="Whelp" local="幼龙"/>
     <str id="Bat swarm" value="Bat swarm" local="蝙蝠群"/>
     <str id="Rat swarm" value="Rat swarm" local="鼠群"/>
     <str id="Snake swarm" value="Snake swarm" local="蛇群"/>
     <str id="Spider swarm" value="Spider swarm" local="蜘蛛群"/>
     <str id="Snail swarm" value="Snail swarm" local="蜗牛群"/>
     <str id="Spirit wolf" value="Spirit wolf" local="狼精"/>
+    <str id="Fire wurm" value="Fire wurm" local="火焰亚龙"/>
+    <str id="Cave crab" value="Cave crab" local="洞穴蟹"/>
     <str id="Boss" value="Boss" local="首领"/>
     <str id="Gurmur" value="Gurmur" local="咕呣"/>
     <str id="Daemon" value="Daemon" local="恶魔"/>
     <str id="Impaler" value="Impaler" local="吸血鬼"/>
     <str id="Devourer" value="Devourer" local="吞噬者"/>
+    <str id="Whelp" value="Whelp" local="幼龙"/>
+    <str id="Bearling" value="Bearling" local="幼熊"/>
+    <str id="Big mouth" value="Big mouth" local="大嘴"/>
+    <str id="Ch'Ri" value="Ch'Ri" local="唐玉"/>
+    <str id="Balthar" value="Balthar" local="巴塔尔"/>
     <str id="Elemental" value="Elemental" local="元素怪"/>
     <str id="Living earth" value="Living earth" local="地元素"/>
     <str id="Living air" value="Living air" local="气元素"/>
     <str id="Living fire" value="Living fire" local="火元素"/>
     <str id="Living water" value="Living water" local="水元素"/>
+    <str id="Shroomling" value="Shroomling" local="幻菇人"/>
     <str id="Human" value="Human" local="人类"/>
     <str id="Assassin" value="Assassin" local="刺客"/>
     <str id="Duelist" value="Duelist" local="斗士"/>
@@ -2863,6 +2951,7 @@
     <str id="Paladin" value="Paladin" local="圣骑士"/>
     <str id="Archer" value="Archer" local="射手"/>
     <str id="Bowman" value="Bowman" local="弓箭手"/>
+    <str id="Marksman" value="Marksman" local="神射手"/>
     <str id="Ranger" value="Ranger" local="独行侠"/>
     <str id="Cleric" value="Cleric" local="牧师"/>
     <str id="Priest" value="Priest" local="祭司"/>
@@ -2893,6 +2982,8 @@
     <str id="Chronomancer" value="Chronomancer" local="时空术士"/>
     <str id="Worshipper" value="Worshipper" local="信徒"/>
     <str id="Acolyte" value="Acolyte" local="侍僧"/>
+    <str id="Librarian" value="Librarian" local="图书管理员"/>
+    <str id="Boarstone" value="Boarstone" local="朱石"/>
     <str id="Verman" value="Verman" local="韦尔曼"/>
     <str id="Butcher" value="Butcher" local="屠夫"/>
     <str id="Darkseer" value="Darkseer" local="黑暗贤者"/>
@@ -2927,6 +3018,7 @@
     <str id="Triggered Demonrat" value="Triggered Demonrat" local="触发的魔鼠"/>
     <str id="Abyssal claw" value="Abyssal claw" local="深渊之爪"/>
     <str id="Dancing weapon" value="Dancing weapon" local="跳舞的武器"/>
+    <str id="Skaldir" value="Skaldir" local="斯卡迪尔"/>
     <str id="Orc" value="Orc" local="兽人"/>
     <str id="Orc grunt" value="Orc grunt" local="兽人步兵"/>
     <str id="Orc archer" value="Orc archer" local="兽人弓箭手"/>
@@ -2959,6 +3051,7 @@
     <str id="Ghost of Randy" value="Ghost of Randy" local="兰迪的鬼魂"/>
     <str id="Ghost of Sylvie" value="Ghost of Sylvie" local="西尔维的鬼魂"/>
     <str id="Immortal" value="Immortal" local="不朽者"/>
+    <str id="Undead dwarf" value="Undead dwarf" local="矮人亡灵"/>
   </CreatureNames>
   <CreatureLogs>
     <str id="You have gained a friend." value="You have gained a friend." local="你获得了一个伙伴。"/>
@@ -3477,6 +3570,7 @@
     <str id="COD_INSTANT_DEATH_1" value="%s died of an instant death effect caused by %s own %s." local="%s死于即死效果，它是 %s 自己的 %s 造成的。"/>
     <str id="COD_INSTANT_DEATH_2" value="%s died of an instant death effect caused by %s's %s." local="%s死于即死效果，它是 %s 的 %s 造成的。"/>
     <str id="COD_TRANSMUTE_FAIL" value="%s died of too many lost chest hairs caused by failed transmutation." local="%s的点金术失败，胸毛掉落太多而死。"/>
+    <str id="COD_MANA_BURN" value="%s died of magic damage caused by %s's mana burn." local="%s死于%s的魔法燃烧造成的魔法伤害。"/>
   </CauseOfDeath>
   <DamageTypes>
     <str id="physical" value="physical" local="物理"/>
@@ -3713,6 +3807,17 @@
     <str id="Second Amendment" value="Second Amendment" local="第二修正案"/>
     <str id="Rise of Fairies" value="Rise of Fairies" local="精灵飞升"/>
     <str id="Wester Worshipper" value="Wester Worshipper" local="西风崇拜者"/>
+    <str id="Balthar's Day" value="Balthar's Day" local="巴塔尔末日"/>
+    <str id="The Shroom Bawl" value="The Shroom Bawl" local="幻菇哀嚎"/>
+    <str id="Skaldir's Fate" value="Skaldir's Fate" local="斯卡迪尔的宿命"/>
+    <str id="Spaulder Collector" value="Spaulder Collector" local="肩甲收藏家"/>
+    <str id="Vambrace Collector" value="Vambrace Collector" local="臂甲收藏家"/>
+    <str id="Glove Collector" value="Glove Collector" local="手套收藏家"/>
+    <str id="Boot Collector" value="Boot Collector" local="靴子收藏家"/>
+    <str id="Amulet Collector" value="Amulet Collector" local="项链收藏家"/>
+    <str id="Ring Collector" value="Ring Collector" local="戒指收藏家"/>
+    <str id="Charm Collector" value="Charm Collector" local="护符收藏家"/>
+    <str id="Rune Collector" value="Rune Collector" local="符石收藏家"/>
   </HeritageNames>
   <HeritageDescs>
     <str id="This heritage can't be unlocked on casual difficulty level." value="This heritage can't be unlocked on casual difficulty level." local="这项遗产无法在休闲难度级别&#10;下解锁。"/>
@@ -3935,6 +4040,40 @@
       <str id="paragraph 2" value="This heritage can be unlocked by attempting to donate an unidentified pyramidion to the Artisan's Guild." local="向工匠行会捐赠一个未鉴定的&#10;金字塔可以解锁这项遗产。"/>
       <str id="paragraph 3" value="(*) Note that you will also need to know Literacy: Common and one of the other literacies." local="(*) 注意：你需要读写：常识&#10;以及另一项读写天赋。"/>
     </str>
+    <str id="TheHoardDLC" value="Note that this heritage requires Rogue's Tale - The Hoard DLC." local="注意：这项遗产需要游侠传奇&#10;——窖藏 DLC。"/>
+    <str id="Balthar's Day" value="Unlocks an extra stash box." local="解锁一个额外的藏宝箱。">
+      <str id="paragraph 1" value="This heritage can be unlocked by killing Balthar the Familiar." local="这项遗产可以通过杀死密友巴&#10;塔尔解锁。"/>
+    </str>
+    <str id="The Shroom Bawl" value="Unlocks an extra stash box." local="解锁一个额外的藏宝箱。">
+      <str id="paragraph 1" value="This heritage can be unlocked by killing Ch'Ri the Blingstealer." local="这项遗产可以通过杀死闪光飞&#10;贼唐玉解锁。"/>
+    </str>
+    <str id="Skaldir's Fate" value="Unlocks an extra stash box." local="解锁一个额外的藏宝箱。">
+      <str id="paragraph 1" value="This heritage can be unlocked by killing Skaldir the Timeless." local="这项遗产可以通过杀死永恒的&#10;斯卡迪尔解锁。"/>
+    </str>
+    <str id="Spaulder Collector" value="Improves the Leather Armour Set heritage with a pair of leather spaulders." local="给皮质护甲套装遗产增加一对&#10;皮肩甲。">
+      <str id="paragraph 1" value="This heritage can be unlocked by storing 16 different kinds of spaulders in one of your stash boxes." local="这项遗产可以通过在一个藏宝&#10;箱内存放 16 种不同的肩甲来&#10;解锁。"/>
+    </str>
+    <str id="Vambrace Collector" value="Improves the Leather Armour Set heritage with a pair of leather vambraces." local="给皮质护甲套装遗产增加一对&#10;皮臂甲。">
+      <str id="paragraph 1" value="This heritage can be unlocked by storing 16 different kinds of vambraces in one of your stash boxes." local="这项遗产可以通过在一个藏宝&#10;箱内存放 16 种不同的臂甲来&#10;解锁。"/>
+    </str>
+    <str id="Glove Collector" value="Improves the Leather Armour Set heritage with a pair of leather gloves." local="给皮质护甲套装遗产增加一对&#10;皮手套。">
+      <str id="paragraph 1" value="This heritage can be unlocked by storing 16 different kinds of gloves in one of your stash boxes." local="这项遗产可以通过在一个藏宝&#10;箱内存放 16 种不同的手套来&#10;解锁。"/>
+    </str>
+    <str id="Boot Collector" value="Improves the Leather Armour Set heritage with a pair of leather boots." local="给皮质护甲套装遗产增加一对&#10;皮靴子。">
+      <str id="paragraph 1" value="This heritage can be unlocked by storing 16 different kinds of boots in one of your stash boxes." local="这项遗产可以通过在一个藏宝&#10;箱内存放 16 种不同的靴子来&#10;解锁。"/>
+    </str>
+    <str id="Amulet Collector" value="Equips the rogue with a random amulet at the start of the game." local="在游戏开始给游侠装备一个随&#10;机的项链。">
+      <str id="paragraph 1" value="This heritage can be unlocked by storing 30 different kinds of amulets in one of your stash boxes." local="这项遗产可以通过在一个藏宝&#10;箱内存放 30 种不同的项链来&#10;解锁。"/>
+    </str>
+    <str id="Ring Collector" value="Equips the rogue with a random ring at the start of the game." local="在游戏开始给游侠装备一个随&#10;机的戒指。">
+      <str id="paragraph 1" value="This heritage can be unlocked by storing 30 different kinds of rings in one of your stash boxes." local="这项遗产可以通过在一个藏宝&#10;箱内存放 30 种不同的戒指来&#10;解锁。"/>
+    </str>
+    <str id="Charm Collector" value="Equips the rogue with a third leg of the imp at the start of the game." local="在游戏开始给游侠装备小恶魔&#10;的第三条腿。">
+      <str id="paragraph 1" value="This heritage can be unlocked by storing 30 different kinds of charms in one of your stash boxes." local="这项遗产可以通过在一个藏宝&#10;箱内存放 30 种不同的护符来&#10;解锁。"/>
+    </str>
+    <str id="Rune Collector" value="Equips the rogue with a rune of the imp at the start of the game." local="在游戏开始给游侠装备小恶魔&#10;符石。">
+      <str id="paragraph 1" value="This heritage can be unlocked by storing 30 different kinds of runes in one of your stash boxes." local="这项遗产可以通过在一个藏宝&#10;箱内存放 30 种不同的符石来&#10;解锁。"/>
+    </str>
   </HeritageDescs>
   <ChallengeNames>
     <str id="Bottled Rage" value="Bottled Rage" local="药瓶爆裂"/>
@@ -4005,6 +4144,17 @@
     <str id="Path of Fairness" value="Path of Fairness" local="公平之路"/>
     <str id="Path of Compassion" value="Path of Compassion" local="怜悯之路"/>
     <str id="Indivisible Greed" value="Indivisible Greed" local="无尽贪婪"/>
+    <str id="Burning Anxiety" value="Burning Anxiety" local="心急如焚"/>
+    <str id="Circular Strike" value="Circular Strike" local="循环冲击"/>
+    <str id="Champ of Champs" value="Champ of Champs" local="冠军之冠"/>
+    <str id="Sands of Time" value="Sands of Time" local="时间之砂"/>
+    <str id="Skulls and Bones" value="Skulls and Bones" local="骷髅白骨"/>
+    <str id="Boney Twin Job" value="Boney Twin Job" local="白骨成双"/>
+    <str id="Junk Collector" value="Junk Collector" local="垃圾藏家"/>
+    <str id="Fitting Just Us" value="Fitting Just Us" local="据为己有"/>
+    <str id="Bloody Club" value="Bloody Club" local="血腥之棒"/>
+    <str id="The Seal Club" value="The Seal Club" local="封印之棒"/>
+    <str id="Binding Ritual" value="Binding Ritual" local="捆绑仪式"/>
   </ChallengeNames>
   <ChallengeDescs>
     <str id="Unlocks &quot;%s&quot; title." value="Unlocks &quot;%s&quot; title." local="解锁 &quot;%s&quot; 头衔。"/>
@@ -4164,6 +4314,20 @@
       <str id="paragraph 1" value="If you answer the test with gentle answers only, you will be known as '%s'." local="如果你测试的答案中只有温和&#10;的，你会被视为‘%s’。"/>
     </str>
     <str id="Indivisible Greed" value="This challenge can be completed by reseting a dungeon after meeting three angry pops." local="这项挑战可以在遭遇三个愤怒&#10;的父亲后重置地牢来完成。"/>
+    <str id="TheHoardDLC" value="Note that this challenge requires Rogue's Tale - The Hoard DLC." local="注意：这项挑战需要游侠传奇&#10;——窖藏 DLC。"/>
+    <str id="Burning Anxiety" value="This challenge can be completed by killing Balthar the Familiar while wearing Ring of Anxiety." local="这项挑战可以通过装备有焦虑&#10;之戒时杀死密友巴塔尔来完成&#10;。">
+      <str id="paragraph 1" value="This challenge will fail if you are hit by mana burn without being vulnerable to magic." local="如果你被魔法击中的时候并未&#10;受到易受魔法伤害的影响，挑&#10;战失败。"/>
+    </str>
+    <str id="Circular Strike" value="This challenge can be completed by finding out the exploitable weakness of Ch'Ri the Blingstealer." local="这项挑战可以通过找出闪光飞&#10;贼唐玉可利用的弱点来完成。"/>
+    <str id="Champ of Champs" value="This challenge can be completed by killing Ch'Ri the Blingstealer without haste effects or exploits and without being poisoned." local="这项挑战可以通过在不依靠加&#10;速效果或弱点，且不被下毒的&#10;前提下杀死闪光飞贼唐玉来完&#10;成。"/>
+    <str id="Sands of Time" value="This challenge can be completed by finding out the exploitable weakness of Skaldir the Timeless." local="这项挑战可以通过找出永恒的&#10;斯卡迪尔可利用的弱点来完成&#10;。"/>
+    <str id="Skulls and Bones" value="This challenge can be completed by killing Skaldir the Timeless without haste effects or exploits." local="这项挑战可以通过在不依靠加&#10;速效果或弱点的前提下，杀死&#10;永恒的斯卡迪尔来完成。"/>
+    <str id="Boney Twin Job" value="This challenge can be completed by killing Skaldir the Timeless twice in a single game." local="这项挑战可以通过在同一局游&#10;戏中杀死斯卡迪尔两次来完成&#10;。"/>
+    <str id="Junk Collector" value="This challenge can be completed by completing all collector heritages in any number of games." local="这项挑战可以通过解锁所有收&#10;藏家遗产来完成，不限于在单&#10;局游戏。"/>
+    <str id="Fitting Just Us" value="This challenge can be completed by killing Boarstone with the gift crossbow and Slow and Steady talent." local="这项挑战可以通过使用礼物十&#10;字弓在有稳扎稳打天赋的前提&#10;下杀死朱石来完成。"/>
+    <str id="Bloody Club" value="This legendary effect can be imbued by killing Ch'Ri the Blingstealer (only works with a club or fine club)." local="这个传奇效果可以通过杀死闪&#10;光飞贼唐玉来灌注（只对棒和&#10;精美之棒有效）。"/>
+    <str id="The Seal Club" value="This challenge can be completed by killing the King with a Bloody Club." local="这项挑战可以通过使用血腥之&#10;棒杀死国王来完成。"/>
+    <str id="Binding Ritual" value="This challenge can be completed by performing a binding ritual described in the grimoire." local="这项挑战可以通过启动魔法书&#10;中描述的捆绑仪式来完成。"/>
   </ChallengeDescs>
   <ChallengeTitles>
     <str id="Select Title" value="Select Title" local="选择头衔"/>
@@ -4227,6 +4391,17 @@
     <str id="the Fair" value="the Fair" local="公平的"/>
     <str id="the Gentle" value="the Gentle" local="温和的"/>
     <str id="the Greedy" value="the Greedy" local="贪婪的"/>
+    <str id="the Anxious" value="the Anxious" local="焦虑的"/>
+    <str id="the Pitcher" value="the Pitcher" local="投手"/>
+    <str id="the Shroompion" value="the Shroompion" local="幻菇先锋"/>
+    <str id="the Timeworn" value="the Timeworn" local="陈旧的"/>
+    <str id="the Undertaker" value="the Undertaker" local="送葬人"/>
+    <str id="the Bonelord" value="the Bonelord" local="骸骨之王"/>
+    <str id="the Hoarder" value="the Hoarder" local="收藏家"/>
+    <str id="the Hangman" value="the Hangman" local="侩子手"/>
+    <str id="the Bloody" value="the Bloody" local="血腥的"/>
+    <str id="the Clubber" value="the Clubber" local="棒师"/>
+    <str id="the Acolyte" value="the Acolyte" local="侍僧"/>
   </ChallengeTitles>
   <GameLogic>
     <str id="You die. Press %s to continue." value="You die. Press %s to continue." local="你死了。按下 %s 继续。"/>
@@ -4277,6 +4452,7 @@
     <str id="You can't sort items while polymorphed." value="You can't sort items while polymorphed." local="被变形时你无法整理物品。"/>
     <str id="You can't sort items while shapeshifted." value="You can't sort items while shapeshifted." local="你不能在变身状态下整理物品。"/>
     <str id="Inventory sorted successfully." value="Inventory sorted successfully." local="成功整理了物品栏。"/>
+    <str id="Stash box sorted successfully." value="Stash box sorted successfully." local="成功整理了藏宝箱。"/>
     <str id="Something went wrong while sorting the inventory." value="Something went wrong while sorting the inventory." local="在整理物品栏时出了一点问题。"/>
     <str id="Your %s was dropped on the ground." value="Your %s was dropped on the ground." local="你的%s掉到了地上。"/>
     <str id="You probably lost some item but it could've been cursed!." value="You probably lost some item but it could've been cursed!." local="你可能丢了点什么，不过它已经被诅咒了！"/>
@@ -4317,6 +4493,7 @@
   <LootWindow>
     <str id="Buy:" value="Buy:" local="购买："/>
     <str id="Craft:" value="Craft:" local="制造："/>
+    <str id="Fetch:" value="Fetch:" local="获取："/>
     <str id="Loot:" value="Loot:" local="拾取："/>
     <str id="You ask the artisans to craft you %s." value="You ask the artisans to craft you %s." local="你请工匠帮你制造 %s 。"/>
   </LootWindow>
@@ -4340,10 +4517,6 @@
     <str id="Bind ring:" value="Bind ring:" local="绑定戒指："/>
     <str id="You can't wield that in the offhand." value="You can't wield that in the offhand." local="你不能在副手穿戴它。"/>
     <str id="You can't swap that, it's magically bound to you!" value="You can't swap that, it's magically bound to you!" local="你无法交换，它和你魔法绑定了！"/>
-    <str id="You can sell the item by holding down the Ctrl-key." value="You can sell the item by holding down the Ctrl-key." local="你可以按住 Ctrl 键来卖掉物品。"/>
-    <str id="You can store the item by holding down the Ctrl-key." value="You can store the item by holding down the Ctrl-key." local="你可以按住 Ctrl 键来储存物品。"/>
-    <str id="You can sell the item by pressing the Square-button." value="You can sell the item by pressing the Square-button." local="你可以按方块键卖掉物品。"/>
-    <str id="You can store the item by pressing the Square-button." value="You can store the item by pressing the Square-button." local="你可以按方块键储存物品。"/>
     <str id="Primary weapons equipped." value="Primary weapons equipped." local="装备了主要武器。"/>
     <str id="Secondary weapons equipped." value="Secondary weapons equipped." local="装备了次要武器。"/>
     <str id="%s can't be equipped or unequipped while in town." value="%s can't be equipped or unequipped while in town." local="%s 不能在城镇里装备或卸下。"/>
@@ -4401,6 +4574,14 @@
     <str id="You bind %s on %s." value="You bind %s on %s." local="你将 %s 绑定到 %s 上面。"/>
     <str id="You don't have enough free hands to equip that." value="You don't have enough free hands to equip that." local="你没有空出来的手装备它。"/>
     <str id="You don't have enough free space to unequip your %s." value="You don't have enough free space to unequip your %s." local="你没有地方放置卸下的 %s 。"/>
+    <str id="You stash %s." value="You stash %s." local="你存放了%s。"/>
+    <str id="You fetch %s." value="You fetch %s." local="你取出了%s。"/>
+    <str id="You can't stash that at the moment." value="You can't stash that at the moment." local="你现在不能把它存放起来。"/>
+    <str id="You have to unequip the item before stashing it." value="You have to unequip the item before stashing it." local="你必须先卸下装备，然后才能把它存放起来。"/>
+    <str id="You can't copy %s with an infinite flask." value="You can't copy %s with an infinite flask." local="你不能用无限之瓶复制 %s 。"/>
+    <str id="You can't copy %s with scribe's tools." value="You can't copy %s with scribe's tools." local="你不能用抄写工具复制 %s 。"/>
+    <str id="The infinite flask spills over and fills an empty potion." value="The infinite flask spills over and fills an empty potion." local="无限之瓶溢了出来，装满了空药瓶。"/>
+    <str id="Scribe's tools magically copy the contents on a blank scroll." value="Scribe's tools magically copy the contents on a blank scroll." local="抄写工具在空白卷轴上复制了卷轴内容。"/>
   </InventoryWindow>
   <SpellbookWindow>
     <str id="Spellbook" value="Spellbook" local="法术书"/>
@@ -4475,6 +4656,7 @@
     <str id="STR_SECRET" value="I can't tell you that..." local="我不能告诉你……"/>
     <str id="STR_ARCHER" value="I'm an archer." local="我是一个射手。"/>
     <str id="STR_BOWMAN" value="I'm a bowman." local="我是一个弓箭手。"/>
+    <str id="STR_MARKSMAN" value="I'm a marksman." local="我是一个神射手。"/>
     <str id="STR_CLERIC" value="I'm a cleric." local="我是一个牧师。"/>
     <str id="STR_FIGHTER" value="I'm a fighter." local="我是一个战士。"/>
     <str id="STR_HENCHMAN" value="I'm here to protect my master, STR_MASTER." local="我在保护我的师傅，STR_MASTER 。"/>
@@ -4973,5 +5155,9 @@
     <str id="Dead guys ahead - Zor'Veste" value="Dead guys ahead - Zor'Veste" local="前面是些死去的家伙 —— Zor'Veste"/>
     <str id="There's nothing to see here." value="There's nothing to see here." local="这里没什么好看的。"/>
     <str id="Harry's pottery class is cancelled." value="Harry's pottery class is cancelled." local="哈利的陶艺课被取消了。"/>
+    <str id="There's three things that don't hang themselves..." value="There's three things that don't hang themselves..." local="有三样东西不会把自己吊起来……"/>
+    <str id="Ornaments..." value="Ornaments..." local="装饰品……"/>
+    <str id="Drywalls..." value="Drywalls..." local="石膏板……"/>
+    <str id="And targets. Hahaha." value="And targets. Hahaha." local="还有靶子。哈哈哈。"/>
   </SignTexts>
 </strings>

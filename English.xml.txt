@@ -202,6 +202,13 @@ GUITown."%dg" %d 金
 GUITown."Donate %dg" 捐献 %d 金
 GUITown."Feast and rest (%dg)" 饱餐并休息 (%d 金)
 GUITown."I'm fully prepared!" 我已整装待发！
+GUITown."Stash box 1" 藏宝箱 1
+GUITown."Stash box 2" 藏宝箱 2
+GUITown."Stash box 3" 藏宝箱 3
+GUITown."Stash box 4" 藏宝箱 4
+GUITown."Stash box 5" 藏宝箱 5
+GUIDesc."PLAYER_STASH" @(32)这是你的私人藏宝处，由鲁班提供。
+GUIDesc."PLAYER_STASH".1 @(32)显然，他被你的英雄事迹感动了。允许你使用一间安全屋中的藏宝箱。
 GUIDesc."MARKET_SQUARE" @(32)你进入了商业集市，这里可以和各式商人交易物品。
 GUIDesc."MARKET_SQUARE".1 @(32)注意：如果商人的货架被垃圾堆满的话，你可以通过在旅店休息重置它们。
 GUIDesc."LEOS_WORKSHOP" @(32)你进入了鲁班的工坊，在这里你可以交纳一些材料和一点金币打造你要的物品。
@@ -209,7 +216,7 @@ GUIDesc."LEOS_WORKSHOP".1 @(32)如果你有制造材料，图纸或金币，你�
 GUIDesc."LEOS_WORKSHOP".2 @(32)注意：仓储材料只可被用于制造（将物品拖进来可以存放它）。
 GUIDesc."ARTISAN_GUILD" @(32)你进入了工匠行会，在这里你可以修理你的物品。
 GUIDesc."ARTISAN_GUILD".1 @(32)如果你获得了独特物品，可以通过拖拽进行会捐献它们。
-GUIDesc."ARTISAN_GUILD".2 @(32)如果你有未鉴定的项链，你可以尝试将它们捐献给行会来获得免费鉴定。
+GUIDesc."ARTISAN_GUILD".2 @(32)如果你有未鉴定的饰品，你可以尝试将它们捐献给行会来获得免费鉴定。
 GUIDesc."ARTISAN_GUILD".3 @(32)注意：如果你需要返还一些任务物品，这里就是做这事的地方。
 GUIDesc."DIVINER_GUILD" @(32)你进入了占卜师行会，在这里你可以鉴定你的物品。
 GUIDesc."WIZARD_GUILD" @(32)你进入了法师行会，在这里你可以对你的物品附魔。
@@ -277,6 +284,9 @@ Quests."Consider him shaved!" 准备给他修面！
 Quests."Yeah, yeah, I'm going!" 好的好的，我会去的！
 Quests."Itchy-bitchy die die!" 骚婊子，去死吧！
 Quests."I hope they have gold!" 希望他们有钱！
+Quests."Do I have to baby sit?" 我需要照看孩子吗？
+Quests."Early retirement, got it!" 提前退休，明白了！
+Quests."Going postal, gotcha!" 太疯狂了，明白！
 Quests."How hard can it be?!?" 能有多难?!?
 Quests."Heh, sure, I got this!" 嘿，当然，我了解了！
 Quests."Accept the quest" 接受任务
@@ -286,6 +296,10 @@ Quests."Monster Hunt" 狩猎巨怪
 Quests."Bandits' Hideout" 土匪的巢穴
 Quests."Ancient Sewer" 古代下水道
 Quests."Spider Cave" 蜘蛛洞
+Quests."Boarding School" 寄宿学校
+Quests."Ye Olde Books" 古董图书
+Quests."The Blood Bawl" 血腥嚎叫
+Quests."Hangman's River" 绞刑之河
 Quests."Cultists' Lair" 邪教徒的巢穴
 Quests."Nabon's Castle" 腊崩的城堡
 Quests."Frostmourn Keep" 霜之哀伤城楼
@@ -309,6 +323,18 @@ Quests."WORSHIPPERS_DESC" @(32)每次你睡觉时，另一些死亡信徒就会�
 Quests."WORSHIPPERS_DESC".1 @(32)法师行会似乎不喜欢竞争，他们希望你去解决这个问题。
 Quests."WORSHIPPERS_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
 Quests."SPAWN_WORSHIPPERS" 你接受了任务，出发去执行正当的刺杀。
+Quests."BALTHAR_DESC" @(32)一个本地的图书管理员正在寻找一些勇敢的冒险家来清理他们图书馆大厅里的一个熟悉的地方。
+Quests."BALTHAR_DESC".1 @(32)很明显，他们派了几个图书管理员去把那个熟悉的东西拿走，但是他们都死了，所以他们不得不把它锁起来。
+Quests."BALTHAR_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
+Quests."SPAWN_BALTHAR" 你接受了任务，开始做一些熟悉的事情。
+Quests."STEALER_DESC" @(32)有一个地下竞技场，格斗者不限规则，但组织者似乎有一个问题。
+Quests."STEALER_DESC".1 @(32)竞技场冠军不断地从顾客那里偷戒指，因此损害了生意，他们想处理掉这件事。
+Quests."STEALER_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
+Quests."SPAWN_STEALER" @(32)你接受了任务，出去做一些幕后的杀戮。
+Quests."MARKSMAN_DESC" @(32)一家快递公司正在寻找一个人来给一个叫朱石的神射手送一把十字弓。
+Quests."MARKSMAN_DESC".1 @(32)似乎有一些螃蟹挡住了路，他们愿意支付 20g 作为十字弓的配送费。
+Quests."MARKSMAN_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
+Quests."SPAWN_MARKSMAN" 你接受任务，出发去送十字弓。
 Quests."GURMUR_DESC" @(32)一些邪教徒开启了一个计划，想唤醒一个本已死去的老怪物来征服世界。
 Quests."GURMUR_DESC".1 @(32)这当然很糟糕，但还有更糟的事情是那些邪教徒带走了本该属于你的大量金币。
 Quests."GURMUR_DESC".2 @(32)注意，一旦你接受了任务，你就必须在离开地牢前完成这个任务，否则就算任务失败。
@@ -603,6 +629,8 @@ AttackLogs."Oh my G'awd, rocks can no longer be turned into scrap!" 哦，我的
 AttackLogs."You salvage a piece of reusable scrap from the debris." 你从残骸中抢救出一块可以再利用的碎片。
 AttackLogs."You pull the trigger and shoot %s at %s." 你触动了扳机，把%s射向%s 。
 AttackLogs."You pull the trigger but nothing happens." 你触动了扳机，但什么也没有发生。
+AttackLogs."%s seems to be healed by your attack." %s似乎被你的攻击治愈了。
+AttackLogs."The shot hits but it glances off with a whirring sound." 射击命中了，但它发出了嗡嗡的声音。
 CastLogs."You cast %s at %s." 你向%2施放了%1。
 CastLogs."You cast %s on %s." 你在%2之上施放了%1。
 CastLogs."%s casts %s at %s." %1向%3施放了%2。
@@ -755,6 +783,19 @@ UseLogs."You flip a coin and it lands on its tail." 你抛起一枚硬币，它�
 UseLogs."Select a blessed ring to bind on %s." 选择一个被祝福的戒指绑定在%s之上。
 UseLogs."You set the time dilation to match 'Even' turns." 你设置时间膨胀装置为“偶数”回合。
 UseLogs."You set the time dilation to match 'Odd' turns." 你设置时间膨胀装置为“奇数”回合。
+UseLogs."You can't seem to figure out what to do with the charm." 你似乎不知道如何使用这个饰品。
+UseLogs."Select a potion to copy with %s." 选择一瓶药剂用%s来复制。
+UseLogs."Select a scroll to copy with %s." 选择一个卷轴用%s来复制。
+UseLogs."You can't use %s without an empty potion." 没有空药瓶就不能使用%s。
+UseLogs."You can't use %s without a blank scroll." 没有空卷轴就不能使用%s。
+UseLogs."You start to read the grimoire and open a page titled 'Chapter I - Skaldir'." 你开始阅读魔法书，翻到标题为“第一章-斯卡迪尔”的那一页。
+UseLogs."You continue reading and find a paragraph describing a summoning ritual." 你继续阅读并找到一个描述召唤仪式的段落。
+UseLogs."It reads: Skaldir comes forth when you sacrifice your soul mate." 书上写着：当你献祭你的灵魂伴侣时，斯卡迪尔就会出现。
+UseLogs."You resume reading and open a page titled 'Chapter II - Spirit Staves'." 你继续读下去，翻到标题为“第二章——精神法杖”的那一页。
+UseLogs."You browse through the page and find a paragraph about a binding ritual." 你继续浏览下去，找到了一段关于捆绑仪式的文字。
+UseLogs."It reads: Place a staff and a full wizard's armour set in the circle and..." 书上写着： 把一根棍子和一整套巫师护甲放在圈里，然后……
+UseLogs."It reads: ...sacrifice a human that has died at least once before." 书上写着：……献祭一个至少死过一次的人。
+UseLogs."You try to read the grimoire but it seems to have a head ache and it closes." 你试着去读魔法书，但好像头很疼，就合上了。
 ActionLogs."You disarm %s." 你缴械了%s。
 ActionLogs."You sidestep to avoid being knocked back." 你闪到一边，避免被击退。
 ActionLogs."You are knocked back." 你被击退了。
@@ -772,6 +813,7 @@ ActionLogs."You shapeshift back into a human." 你变身回人类。
 ActionLogs."You shapeshift into a wolf." 你变身成一只狼。
 ActionLogs."You shapeshift into a bear." 你变身成一头熊。
 ActionLogs."%s vanishes." %s消失了。
+ActionLogs."%s explodes." %s爆炸了。
 ActionLogs."%s dies and sinks in the water." %s死了，沉入水中。
 ActionLogs."%s dies and sinks in the lava." %s死了，沉入岩浆。
 ActionLogs."%s dies." %s死了。
@@ -789,6 +831,10 @@ ActionLogs."%s sink in the water." %s沉入水中。
 ActionLogs."%s sinks in the water." %s沉入水中。
 ActionLogs."%s sink in the lava." %s沉入岩浆。
 ActionLogs."%s sinks in the lava." %s沉入岩浆。
+ActionLogs."%s's mana burn hits you." %s的魔法燃烧击中了你。
+ActionLogs."%s casts an unknown spell." %s施放了一个未知的法术。
+ActionLogs."%s steals one of your rings." %s偷了你的一枚戒指。
+ActionLogs."%s gains adrenaline rush." %s获得了肾上腺素冲击。
 CombatTexts."Friend Gained" 获得伙伴
 CombatTexts."Friend Lost" 失去伙伴
 CombatTexts."Reflex Save" 反射脱险
@@ -1040,6 +1086,7 @@ TalentNames."Trap Master" 陷阱大师
 TalentNames."Shapeshift: Wolf" 变身：狼
 TalentNames."Shapeshift: Bear" 变身：熊
 TalentNames."Bestial Wrath" 狂野怒火
+TalentNames."Slow and Steady" 稳扎稳打
 TalentDescs."Aimed Shot" @(30)远程攻击每点敏捷增益修正获得 D3 的额外伤害，而非正常的 1 点额外伤害。
 TalentDescs."Multi Shot" @(30)远程攻击将命中目标生物邻接的多个额外生物目标，数量等于敏捷增益修正值。
 TalentDescs."Quick Shot" @(30)远程攻击的射击前生物可以先移动。
@@ -1086,6 +1133,8 @@ TalentDescs."Shapeshift: Bear" @(30)将生物变为一头熊，把天赋替换�
 TalentDescs."Shapeshift: Bear".1 
 TalentDescs."Bestial Wrath" @(30)在变身时增加 D3 物理伤害。这个天赋还会被下列遗产增强：
 TalentDescs."Bestial Wrath".1 兽性大发 ，团队领袖 。
+TalentDescs."Slow and Steady" @(30)使用慢速武器进行的远程攻击同时使用百步穿杨和弹无虚发天赋，使用力量和敏捷增益修正中较高的那个。
+TalentDescs."Slow and Steady".1 
 SpellNames."Cure Disease" 治疗疾病
 SpellNames."Cure Poison" 治疗中毒
 SpellNames."Dispel Magic" 驱散魔法
@@ -1494,6 +1543,17 @@ ItemSets."Re-roll clearcast (Bestial)." 重掷沉静施法（兽性）。
 ItemSets."Re-roll clearcast (Abyssal)." 重掷沉静施法（深渊）
 ItemSets."Heals D6 points per turn." 每回合治疗 D6 点。
 ItemSets."Befriend daemons." 成为恶魔的朋友。
+ItemSets."Grants immunity to snares." 获得了对陷阱的免疫。
+ItemSets."3x stealth damage instead of 2x." 将两倍偷袭伤害提高到三倍。
+ItemSets."Low health buffs melee damage." 生命值低的时候加强近战伤害。
+ItemSets."Large weapons hit twice on 5+." 大型武器在 5+ 时攻击两次。
+ItemSets."Free attack before shield bash." 盾击前免费攻击。
+ItemSets."Auto clearcast (Celestial)." 自动沉静施法（天使系）。
+ItemSets."Auto clearcast (Draconic)." 自动沉静施法（龙系）。
+ItemSets."Auto clearcast (Infernal)." 自动沉静施法（地狱系）。
+ItemSets."Increase set bonus to 75%." 将套装奖励增加到 75%。
+ItemSets."Auto clearcast (Bestial)." 自动沉静施法（兽性）。
+ItemSets."Auto clearcast (Abyssal)." 自动沉静施法（深渊）。
 AddonNames."Padded Spaulders" 棉护肩
 AddonNames."Leather Spaulders" 皮护肩
 AddonNames."Studded Spaulders" 札甲护肩
@@ -1773,6 +1833,8 @@ CharmNames."Time Dilation Device" 时间膨胀装置
 CharmNames."Fishing Hook and Line" 钓鱼套件
 CharmNames."Fairy Jizzed Bull Horn" 仙女摧残过的牛角
 CharmNames."Engraved Pyramidion" 雕花金字塔
+CharmNames."Infinite Flask" 无限之瓶
+CharmNames."Scribe's Tools" 抄写工具
 CharmDescs."Lucky Number Seven" @(30)庄家永远赢，越早意识到这点越好。
 CharmDescs."Fluffy Rabbit's Foot" @(30)这只野兔幸运的用剩下的腿跛着跑掉了。
 CharmDescs."Fragment of Volcanus" @(30)如果这仅仅是块碎片，你很难想象那个东西该有多滚烫。
@@ -1803,6 +1865,8 @@ CharmDescs."Time Dilation Device" @(30)哇喔。游戏里有这么一个超大�
 CharmDescs."Fishing Hook and Line" @(30)好吧，我本来永远都不想加这个东西的，不过现在有了。
 CharmDescs."Fairy Jizzed Bull Horn" @(30)这个牛角散发出的直男癌气息无可避免的会招来一车皮深受其害的小仙女。
 CharmDescs."Engraved Pyramidion" @(30)这象征着以深渊的方式裁剪掉多余的东西突出重点。
+CharmDescs."Infinite Flask" @(30)这个东西提供的液体几乎和中央水库的魔术师一样多。
+CharmDescs."Scribe's Tools" @(30)嗯，一种稀有的濒临灭绝的鸟类为了制造这种奇特的工具不得不死去。
 CharmEffects."Lucky Number Seven" @(30)在你对敌人造成物理伤害的同时撒出金币。
 CharmEffects."Fluffy Rabbit's Foot" @(30)获得针对眩晕效果的免疫力。
 CharmEffects."Fragment of Volcanus" @(30)将附魔在武器上的火焰伤害加倍。
@@ -1833,6 +1897,8 @@ CharmEffects."Time Dilation Device" @(30)你可以用这个耳环把游戏的所
 CharmEffects."Fishing Hook and Line" @(30)水峡谷现在可以用来钓鱼。
 CharmEffects."Fairy Jizzed Bull Horn" @(30)允许巫师学徒学习和施放兽性法术（学习时需要浮空）。
 CharmEffects."Engraved Pyramidion" @(30)允许巫师学徒学习和施放深渊法术（学习时需要有黑色魂晶）。
+CharmEffects."Infinite Flask" @(30)在药剂上使用时，将该药剂复制到物品栏中的第一个空药瓶中。
+CharmEffects."Scribe's Tools" @(30)在卷轴上使用时，将该卷轴复制到物品栏中的第一个空白卷轴上。
 CharmEffects."BlessedFamiliar" @(30)任何企图攻击你的龙都会永久变成你的伙伴。
 CharmEffects."BlessedOutcasts" @(30)在每个随机地牢的第一层召唤一个收藏家。
 CoinNames."Gold Coin" 金币
@@ -1940,6 +2006,7 @@ FoodLogs."You pour water on yourself and weaken the fire." 你把水倒在自己
 FoodLogs."You feel a burning stomach ache and your bowel hurts." 你感到肚子一阵绞痛，肠胃受伤。
 FoodLogs."You apply some grass over your wound and stop the bleeding." 你在伤口上敷上了一些药草，止住了血。
 PotionNames."Potion" 药剂
+PotionNames."Empty Potion" 空药瓶
 PotionNames."Potion of Antidote" 解毒药剂
 PotionNames."Potion of Awareness" 意识药剂
 PotionNames."Potion of Blindness" 致盲药剂
@@ -1971,6 +2038,7 @@ PotionNames."Potion of Charisma" 魅力药剂
 PotionNames."Potion of Clotting" 凝血药剂
 PotionNames."Potion of Floating" 漂浮药剂
 PotionDescs."PotionDesc" @(30)记住，大多数药剂是由一些不明动物的粘液和排泄物混合而成的。
+PotionDescs."Empty Potion" @(30)这个药瓶里什么也没装，这就是为什么它被称为空药瓶。很酷，不是吗?
 PotionDescs."Potion of Antidote" @(30)里面是一种混合物，气味和味道都很糟糕，但可以解毒祛病。
 PotionDescs."Potion of Awareness" @(30)里面是一种可爱的滋补品，使您的瞳孔扩大超出正常范围。
 PotionDescs."Potion of Blindness" @(30)里面是一种致盲的毒药。它从何而来，怎样制造的仍然是个谜。
@@ -2126,6 +2194,7 @@ RuneNames."Rune of the Imp" 小恶魔符石
 RuneDescs."RuneDesc" @(30)真是令人惭愧，因为这块符石，整个种族都得去死。
 RuneDescs."Rune of the Imp" @(30)这块符石能将一件武器变成传奇，使它坚不可摧，并允许你为它命名。
 ScrollNames."Scroll" 卷轴
+ScrollNames."Blank Scroll" 空白卷轴
 ScrollNames."Scroll of Aggravation" 激怒卷轴
 ScrollNames."Scroll of Amnesia" 健忘卷轴
 ScrollNames."Scroll of Animation" 复活卷轴
@@ -2157,6 +2226,7 @@ ScrollNames."Scroll of Gimmiedat" 空手入白刃卷轴
 ScrollNames."Scroll of Soothing" 抚慰卷轴
 ScrollNames."Scroll of Time Warp" 时空卷轴
 ScrollDescs."ScrollDesc" @(30)除了是一种极佳的引燃材料之外，卷轴还能在特定处境下起到非常重要的作用。
+ScrollDescs."Blank Scroll" @(30)这个卷轴是空白的。也许你应该画一艘有一打船桨的船，叫你自己弗洛基。
 ScrollDescs."Scroll of Aggravation" @(30)激怒当前楼层的所有生物。
 ScrollDescs."Scroll of Amnesia" @(30)让施法者随机忘却一个知识。
 ScrollDescs."Scroll of Animation" @(30)将一个死去的人类永久的变成一个亡灵伙伴。
@@ -2330,6 +2400,7 @@ ToolNames."Soul Gem of Sloth" 懒惰魂晶
 ToolNames."Soul Gem of Thirst" 干渴魂晶
 ToolNames."Soul Gem of Wrath" 愤怒魂晶
 ToolNames."Equalizer" 均衡器
+ToolNames."Grimoire" 魔法书
 ToolDescs."Smoke Bomb" @(30)让你凭空藏匿。底部的标签上写着，长期使用可能会导致肺癌。
 ToolDescs."Bear Trap" @(30)陷阱大师可以装备它而不必失去手指。
 ToolDescs."Magic Trap" @(30)陷阱大师可以装备它而不会被烧焦。
@@ -2344,6 +2415,7 @@ ToolDescs."Dog Collar" @(30)当你独自一人做事情的时候，这个项圈�
 ToolDescs."Soul Gem" @(30)这些晶石据说内含无辜受害者的灵魂，但在现实中没有所谓的无辜……
 ToolDescs."Black Soul Gem" @(30)这些晶石据说内含无辜受害者的灵魂，但这个灵魂看起来并不无辜……
 ToolDescs."Equalizer" @(30)手柄上刻着“不可侵犯”的字样。
+ToolDescs."Grimoire" @(30)这本书似乎会感染你的眼睛，但不知为什么你还是觉得有必要读一读。
 WandNames."Wand" 魔杖
 WandNames."Wand of Blizzard" 暴雪魔杖
 WandNames."Wand of Burning" 燃烧魔杖
@@ -2514,6 +2586,7 @@ WeaponNames."Staff of the Trickster" 魔术师之杖
 WeaponNames."Staff of the Archmage" 大法师之杖
 WeaponNames."Staff of the Ice Queen" 冰霜女王之杖
 WeaponNames."Death Star" 死星
+WeaponNames."Torquemada" 狂力之弩
 WeaponDescs."Dagger" @(26)这是一种穿刺武器，因此有可能忽略目标的物理抗性。
 WeaponDescs."Talon" @(26)这把武器用来对付那些坏蛋简直太棒了。
 WeaponDescs."Hatchet" @(26)这是一种投掷近战武器，因此既可以装备使用也可以仍出去造成全部伤害。
@@ -2566,12 +2639,12 @@ WeaponDescs."Wizard Staff 2" @(26)这把武器能教会使用者如何施放电�
 WeaponDescs."Wizard Staff 3" @(26)这把武器能教会使用者如何施放毒球术。
 WeaponDescs."Wizard Staff 4" @(26)这把武器能教会使用者如何施放疫球术。
 WeaponDescs."Wizard Staff 5" @(26)这把武器能教会使用者如何施放释放灵魂。
-WeaponDescs."Celestial Staff" 说明……
-WeaponDescs."Draconic Staff" 说明……
-WeaponDescs."Infernal Staff" 说明……
-WeaponDescs."Arcane Staff" 说明……
-WeaponDescs."Bestial Staff" 说明……
-WeaponDescs."Abyssal Staff" 说明……
+WeaponDescs."Celestial Staff" @(26)这把武器中有一个叫做“白泽”的灵魂，它提高了全套天使套装的加成。
+WeaponDescs."Draconic Staff" @(26)这把武器中有一个叫做“应龙”的灵魂，它提高了全套龙系套装的加成。
+WeaponDescs."Infernal Staff" @(26)这把武器中有一个叫做“饕餮”的灵魂，它提高了全套地狱套装的加成。
+WeaponDescs."Arcane Staff" @(26)这把武器中有一个叫做“麒麟”的灵魂，它提高了全套奥术套装的加成。
+WeaponDescs."Bestial Staff" @(26)这把武器中有一个叫做“诸犍”的灵魂，它提高了全套兽性套装的加成。
+WeaponDescs."Abyssal Staff" @(26)这把武器中有一个叫做“混沌”的灵魂，它提高了全套深渊套装的加成。
 WeaponDescs."Fine Throwing Knife" @(26)这把飞刀锻造的非常之好，正好用来阻止那些弱夫逃跑。
 WeaponDescs."Fine Throwing Star" @(26)这把武器对那些肆意抢劫的恶棍来说太棒了。
 WeaponDescs."Gifin's Claw" @(26)这曾经属于吉夫大师，你从他的尸体上夺了过来。
@@ -2585,6 +2658,7 @@ WeaponDescs."Staff of the Trickster" @(26)这曾经属于魔术师赖安，持�
 WeaponDescs."Staff of the Archmage" @(26)这曾经属于大法师高焚岱，持有它的人可以施放火球术。
 WeaponDescs."Staff of the Ice Queen" @(26)这曾经属于冰霜女王艾特娜，持有它的人可以施放冰球术。
 WeaponDescs."Death Star" @(26)这些手里剑是黑手刺客用过的最致命的武器。
+WeaponDescs."Torquemada" @(26)这是 '狂力弹弓' 的廉价仿制品。在血汗工厂制造。
 LegendaryNames."Cheesy Musk" 奶酪面具
 LegendaryNames."Death Proof" 死亡防护
 LegendaryNames."Flashlight" 闪闪发光
@@ -2594,6 +2668,7 @@ LegendaryNames."Misinvisicast" 幻影迷踪
 LegendaryNames."Nightshade" 黑暗幽影
 LegendaryNames."Orbus Bomba" 法球炸弹
 LegendaryNames."Zombie Dog" 僵尸之狗
+LegendaryNames."Bloody Club" 血腥之棒
 LegendaryDescs."WeaponDesc" @(26)好吧，不管你喜不喜欢，这个武器现在有了一个很酷的名字，而且它是不会坏的。
 LegendaryDescs."EffectDesc" @(26)当这把武器装备在主手且满足灌注条件时，它会获得一个传奇效果。
 LegendaryDescs."Cheesy Musk" @(26)现在洞熊在攻击你的时候自动被驯化。
@@ -2605,6 +2680,7 @@ LegendaryDescs."Misinvisicast" @(26)施法失误在造成其它影响之外一�
 LegendaryDescs."Nightshade" @(26)在武器上的淬毒永远生效，且视作强效。
 LegendaryDescs."Orbus Bomba" @(26)如果你没有施放 法术球增大 ，那么在你的回合结束的时候就自动施放它。
 LegendaryDescs."Zombie Dog" @(26)如果汪汪死了，那么在每个新的地牢开始时会复活（在城镇中重置）。
+LegendaryDescs."Bloody Club" @(26)露西尔，这个头部裂开的吟游诗人会非常喜欢这根棍子的声音效果。
 CreatureNames."Invisible creature" 隐形生物
 CreatureNames."the corpse of %s" %s的尸体
 CreatureNames."a dead %s" 死去的%s
@@ -2620,23 +2696,30 @@ CreatureNames."Giant rat" 巨鼠
 CreatureNames."Giant snail" 蜗牛
 CreatureNames."Snake" 蛇
 CreatureNames."Spider" 蜘蛛
-CreatureNames."Whelp" 幼龙
 CreatureNames."Bat swarm" 蝙蝠群
 CreatureNames."Rat swarm" 鼠群
 CreatureNames."Snake swarm" 蛇群
 CreatureNames."Spider swarm" 蜘蛛群
 CreatureNames."Snail swarm" 蜗牛群
 CreatureNames."Spirit wolf" 狼精
+CreatureNames."Fire wurm" 火焰亚龙
+CreatureNames."Cave crab" 洞穴蟹
 CreatureNames."Boss" 首领
 CreatureNames."Gurmur" 咕呣
 CreatureNames."Daemon" 恶魔
 CreatureNames."Impaler" 吸血鬼
 CreatureNames."Devourer" 吞噬者
+CreatureNames."Whelp" 幼龙
+CreatureNames."Bearling" 幼熊
+CreatureNames."Big mouth" 大嘴
+CreatureNames."Ch'Ri" 唐玉
+CreatureNames."Balthar" 巴塔尔
 CreatureNames."Elemental" 元素怪
 CreatureNames."Living earth" 地元素
 CreatureNames."Living air" 气元素
 CreatureNames."Living fire" 火元素
 CreatureNames."Living water" 水元素
+CreatureNames."Shroomling" 幻菇人
 CreatureNames."Human" 人类
 CreatureNames."Assassin" 刺客
 CreatureNames."Duelist" 斗士
@@ -2645,6 +2728,7 @@ CreatureNames."Warrior" 武士
 CreatureNames."Paladin" 圣骑士
 CreatureNames."Archer" 射手
 CreatureNames."Bowman" 弓箭手
+CreatureNames."Marksman" 神射手
 CreatureNames."Ranger" 独行侠
 CreatureNames."Cleric" 牧师
 CreatureNames."Priest" 祭司
@@ -2675,6 +2759,8 @@ CreatureNames."Ken'nih" 肯'尼斯
 CreatureNames."Chronomancer" 时空术士
 CreatureNames."Worshipper" 信徒
 CreatureNames."Acolyte" 侍僧
+CreatureNames."Librarian" 图书管理员
+CreatureNames."Boarstone" 朱石
 CreatureNames."Verman" 韦尔曼
 CreatureNames."Butcher" 屠夫
 CreatureNames."Darkseer" 黑暗贤者
@@ -2709,6 +2795,7 @@ CreatureNames."Dreadlord Nabon" 黑暗之主腊崩
 CreatureNames."Triggered Demonrat" 触发的魔鼠
 CreatureNames."Abyssal claw" 深渊之爪
 CreatureNames."Dancing weapon" 跳舞的武器
+CreatureNames."Skaldir" 斯卡迪尔
 CreatureNames."Orc" 兽人
 CreatureNames."Orc grunt" 兽人步兵
 CreatureNames."Orc archer" 兽人弓箭手
@@ -2741,6 +2828,7 @@ CreatureNames."Ghost of Norris" 诺里斯的鬼魂
 CreatureNames."Ghost of Randy" 兰迪的鬼魂
 CreatureNames."Ghost of Sylvie" 西尔维的鬼魂
 CreatureNames."Immortal" 不朽者
+CreatureNames."Undead dwarf" 矮人亡灵
 CreatureLogs."You have gained a friend." 你获得了一个伙伴。
 CreatureLogs."You have lost a friend." 你失去了一个伙伴。
 CreatureLogs."%s summons %s." %s 召唤 %s。
@@ -3245,6 +3333,7 @@ CauseOfDeath."COD_SPELL_DAMAGE_2" %s死于 %s 伤害，它是 %s 的 %s 造成�
 CauseOfDeath."COD_INSTANT_DEATH_1" %s死于即死效果，它是 %s 自己的 %s 造成的。
 CauseOfDeath."COD_INSTANT_DEATH_2" %s死于即死效果，它是 %s 的 %s 造成的。
 CauseOfDeath."COD_TRANSMUTE_FAIL" %s的点金术失败，胸毛掉落太多而死。
+CauseOfDeath."COD_MANA_BURN" %s死于%s的魔法燃烧造成的魔法伤害。
 DamageTypes."physical" 物理
 DamageTypes."fire" 火焰
 DamageTypes."frost" 冰霜
@@ -3451,6 +3540,17 @@ HeritageNames."Monster Chow" 巨怪大餐
 HeritageNames."Second Amendment" 第二修正案
 HeritageNames."Rise of Fairies" 精灵飞升
 HeritageNames."Wester Worshipper" 西风崇拜者
+HeritageNames."Balthar's Day" 巴塔尔末日
+HeritageNames."The Shroom Bawl" 幻菇哀嚎
+HeritageNames."Skaldir's Fate" 斯卡迪尔的宿命
+HeritageNames."Spaulder Collector" 肩甲收藏家
+HeritageNames."Vambrace Collector" 臂甲收藏家
+HeritageNames."Glove Collector" 手套收藏家
+HeritageNames."Boot Collector" 靴子收藏家
+HeritageNames."Amulet Collector" 项链收藏家
+HeritageNames."Ring Collector" 戒指收藏家
+HeritageNames."Charm Collector" 护符收藏家
+HeritageNames."Rune Collector" 符石收藏家
 HeritageDescs."This heritage can't be unlocked on casual difficulty level." @(26)这项遗产无法在休闲难度级别下解锁。
 HeritageDescs."This heritage is not available on heroic difficulty level." @(26)这项遗产不能用于英雄难度级别。
 HeritageDescs."Wizard's Staff" @(26)在游戏开始时给游侠装备一把杖。
@@ -3602,6 +3702,29 @@ HeritageDescs."Wester Worshipper" @(26)允许你通过一个雕花金字塔和�
 HeritageDescs."Wester Worshipper".1 @(26)一旦你学会了一门深渊法术，你就可以在背包中有金字塔时施放它。
 HeritageDescs."Wester Worshipper".2 @(26)向工匠行会捐赠一个未鉴定的金字塔可以解锁这项遗产。
 HeritageDescs."Wester Worshipper".3 @(26)(*) 注意：你需要读写：常识以及另一项读写天赋。
+HeritageDescs."TheHoardDLC" @(26)注意：这项遗产需要游侠传奇——窖藏 DLC。
+HeritageDescs."Balthar's Day" @(26)解锁一个额外的藏宝箱。
+HeritageDescs."Balthar's Day".1 @(26)这项遗产可以通过杀死密友巴塔尔解锁。
+HeritageDescs."The Shroom Bawl" @(26)解锁一个额外的藏宝箱。
+HeritageDescs."The Shroom Bawl".1 @(26)这项遗产可以通过杀死闪光飞贼唐玉解锁。
+HeritageDescs."Skaldir's Fate" @(26)解锁一个额外的藏宝箱。
+HeritageDescs."Skaldir's Fate".1 @(26)这项遗产可以通过杀死永恒的斯卡迪尔解锁。
+HeritageDescs."Spaulder Collector" @(26)给皮质护甲套装遗产增加一对皮肩甲。
+HeritageDescs."Spaulder Collector".1 @(26)这项遗产可以通过在一个藏宝箱内存放 16 种不同的肩甲来解锁。
+HeritageDescs."Vambrace Collector" @(26)给皮质护甲套装遗产增加一对皮臂甲。
+HeritageDescs."Vambrace Collector".1 @(26)这项遗产可以通过在一个藏宝箱内存放 16 种不同的臂甲来解锁。
+HeritageDescs."Glove Collector" @(26)给皮质护甲套装遗产增加一对皮手套。
+HeritageDescs."Glove Collector".1 @(26)这项遗产可以通过在一个藏宝箱内存放 16 种不同的手套来解锁。
+HeritageDescs."Boot Collector" @(26)给皮质护甲套装遗产增加一对皮靴子。
+HeritageDescs."Boot Collector".1 @(26)这项遗产可以通过在一个藏宝箱内存放 16 种不同的靴子来解锁。
+HeritageDescs."Amulet Collector" @(26)在游戏开始给游侠装备一个随机的项链。
+HeritageDescs."Amulet Collector".1 @(26)这项遗产可以通过在一个藏宝箱内存放 30 种不同的项链来解锁。
+HeritageDescs."Ring Collector" @(26)在游戏开始给游侠装备一个随机的戒指。
+HeritageDescs."Ring Collector".1 @(26)这项遗产可以通过在一个藏宝箱内存放 30 种不同的戒指来解锁。
+HeritageDescs."Charm Collector" @(26)在游戏开始给游侠装备小恶魔的第三条腿。
+HeritageDescs."Charm Collector".1 @(26)这项遗产可以通过在一个藏宝箱内存放 30 种不同的护符来解锁。
+HeritageDescs."Rune Collector" @(26)在游戏开始给游侠装备小恶魔符石。
+HeritageDescs."Rune Collector".1 @(26)这项遗产可以通过在一个藏宝箱内存放 30 种不同的符石来解锁。
 ChallengeNames."Bottled Rage" 药瓶爆裂
 ChallengeNames."One Stray Shot" 千钧一发
 ChallengeNames."The Curve Ball" 乾坤一掷
@@ -3670,6 +3793,17 @@ ChallengeNames."Path of Cruelty" 残忍之路
 ChallengeNames."Path of Fairness" 公平之路
 ChallengeNames."Path of Compassion" 怜悯之路
 ChallengeNames."Indivisible Greed" 无尽贪婪
+ChallengeNames."Burning Anxiety" 心急如焚
+ChallengeNames."Circular Strike" 循环冲击
+ChallengeNames."Champ of Champs" 冠军之冠
+ChallengeNames."Sands of Time" 时间之砂
+ChallengeNames."Skulls and Bones" 骷髅白骨
+ChallengeNames."Boney Twin Job" 白骨成双
+ChallengeNames."Junk Collector" 垃圾藏家
+ChallengeNames."Fitting Just Us" 据为己有
+ChallengeNames."Bloody Club" 血腥之棒
+ChallengeNames."The Seal Club" 封印之棒
+ChallengeNames."Binding Ritual" 捆绑仪式
 ChallengeDescs."Unlocks &quot;%s&quot; title." 解锁 &quot;%s&quot; 头衔。
 ChallengeDescs."This challenge can't be unlocked on casual difficulty level." @(26)这项挑战无法在休闲难度级别下完成。
 ChallengeDescs."The description of this challenge is hidden until it is completed." @(26)这项挑战的说明只有在完成后才可见。
@@ -3788,6 +3922,19 @@ ChallengeDescs."Path of Fairness".1 If @(26)如果你测试的答案中只有公
 ChallengeDescs."Path of Compassion" %s 
 ChallengeDescs."Path of Compassion".1 @(26)如果你测试的答案中只有温和的，你会被视为‘%s’。
 ChallengeDescs."Indivisible Greed" @(26)这项挑战可以在遭遇三个愤怒的父亲后重置地牢来完成。
+ChallengeDescs."TheHoardDLC" @(26)注意：这项挑战需要游侠传奇——窖藏 DLC。
+ChallengeDescs."Burning Anxiety" @(26)这项挑战可以通过装备有焦虑之戒时杀死密友巴塔尔来完成。
+ChallengeDescs."Burning Anxiety".1 @(26)如果你被魔法击中的时候并未受到易受魔法伤害的影响，挑战失败。
+ChallengeDescs."Circular Strike" @(26)这项挑战可以通过找出闪光飞贼唐玉可利用的弱点来完成。
+ChallengeDescs."Champ of Champs" @(26)这项挑战可以通过在不依靠加速效果或弱点，且不被下毒的前提下杀死闪光飞贼唐玉来完成。
+ChallengeDescs."Sands of Time" @(26)这项挑战可以通过找出永恒的斯卡迪尔可利用的弱点来完成。
+ChallengeDescs."Skulls and Bones" @(26)这项挑战可以通过在不依靠加速效果或弱点的前提下，杀死永恒的斯卡迪尔来完成。
+ChallengeDescs."Boney Twin Job" @(26)这项挑战可以通过在同一局游戏中杀死斯卡迪尔两次来完成。
+ChallengeDescs."Junk Collector" @(26)这项挑战可以通过解锁所有收藏家遗产来完成，不限于在单局游戏。
+ChallengeDescs."Fitting Just Us" @(26)这项挑战可以通过使用礼物十字弓在有稳扎稳打天赋的前提下杀死朱石来完成。
+ChallengeDescs."Bloody Club" @(26)这个传奇效果可以通过杀死闪光飞贼唐玉来灌注（只对棒和精美之棒有效）。
+ChallengeDescs."The Seal Club" @(26)这项挑战可以通过使用血腥之棒杀死国王来完成。
+ChallengeDescs."Binding Ritual" @(26)这项挑战可以通过启动魔法书中描述的捆绑仪式来完成。
 ChallengeTitles."Select Title" 选择头衔
 ChallengeTitles."the Alchemist" 炼金师
 ChallengeTitles."the Archer" 射手
@@ -3849,6 +3996,17 @@ ChallengeTitles."the Cruel" 残忍的
 ChallengeTitles."the Fair" 公平的
 ChallengeTitles."the Gentle" 温和的
 ChallengeTitles."the Greedy" 贪婪的
+ChallengeTitles."the Anxious" 焦虑的
+ChallengeTitles."the Pitcher" 投手
+ChallengeTitles."the Shroompion" 幻菇先锋
+ChallengeTitles."the Timeworn" 陈旧的
+ChallengeTitles."the Undertaker" 送葬人
+ChallengeTitles."the Bonelord" 骸骨之王
+ChallengeTitles."the Hoarder" 收藏家
+ChallengeTitles."the Hangman" 侩子手
+ChallengeTitles."the Bloody" 血腥的
+ChallengeTitles."the Clubber" 棒师
+ChallengeTitles."the Acolyte" 侍僧
 GameLogic."You die. Press %s to continue." 你死了。按下 %s 继续。
 GameLogic."You are asleep and miss your turn." 你睡着了，失去了一个回合。
 GameLogic."You are paralysed and miss your turn." 你被麻痹了，失去了一个回合。
@@ -3895,6 +4053,7 @@ GameScreen."You can't sort items while confused." 你不能在混乱状态下整
 GameScreen."You can't sort items while polymorphed." 被变形时你无法整理物品。
 GameScreen."You can't sort items while shapeshifted." 你不能在变身状态下整理物品。
 GameScreen."Inventory sorted successfully." 成功整理了物品栏。
+GameScreen."Stash box sorted successfully." 成功整理了藏宝箱。
 GameScreen."Something went wrong while sorting the inventory." 在整理物品栏时出了一点问题。
 GameScreen."Your %s was dropped on the ground." 你的%s掉到了地上。
 GameScreen."You probably lost some item but it could've been cursed!." 你可能丢了点什么，不过它已经被诅咒了！
@@ -3933,6 +4092,7 @@ GameScreen."Select a target to look at and press %s:" 选择一个观察的目�
 GameScreen."You can't chat while silenced, duh!" 在沉默时你无法聊天，嘟！
 LootWindow."Buy:" 购买：
 LootWindow."Craft:" 制造：
+LootWindow."Fetch:" 获取：
 LootWindow."Loot:" 拾取：
 LootWindow."You ask the artisans to craft you %s." 你请工匠帮你制造 %s 。
 EnchantWindow."Choose enchant:" 选择附魔：
@@ -3952,10 +4112,6 @@ InventoryWindow."Select:" 选择：
 InventoryWindow."Bind ring:" 绑定戒指：
 InventoryWindow."You can't wield that in the offhand." 你不能在副手穿戴它。
 InventoryWindow."You can't swap that, it's magically bound to you!" 你无法交换，它和你魔法绑定了！
-InventoryWindow."You can sell the item by holding down the Ctrl-key." 你可以按住 Ctrl 键来卖掉物品。
-InventoryWindow."You can store the item by holding down the Ctrl-key." 你可以按住 Ctrl 键来储存物品。
-InventoryWindow."You can sell the item by pressing the Square-button." 你可以按方块键卖掉物品。
-InventoryWindow."You can store the item by pressing the Square-button." 你可以按方块键储存物品。
 InventoryWindow."Primary weapons equipped." 装备了主要武器。
 InventoryWindow."Secondary weapons equipped." 装备了次要武器。
 InventoryWindow."%s can't be equipped or unequipped while in town." %s 不能在城镇里装备或卸下。
@@ -4013,6 +4169,14 @@ InventoryWindow."You can't bind %s on %s." 你无法将 %s 绑定到 %s 上面�
 InventoryWindow."You bind %s on %s." 你将 %s 绑定到 %s 上面。
 InventoryWindow."You don't have enough free hands to equip that." 你没有空出来的手装备它。
 InventoryWindow."You don't have enough free space to unequip your %s." 你没有地方放置卸下的 %s 。
+InventoryWindow."You stash %s." 你存放了%s。
+InventoryWindow."You fetch %s." 你取出了%s。
+InventoryWindow."You can't stash that at the moment." 你现在不能把它存放起来。
+InventoryWindow."You have to unequip the item before stashing it." 你必须先卸下装备，然后才能把它存放起来。
+InventoryWindow."You can't copy %s with an infinite flask." 你不能用无限之瓶复制 %s 。
+InventoryWindow."You can't copy %s with scribe's tools." 你不能用抄写工具复制 %s 。
+InventoryWindow."The infinite flask spills over and fills an empty potion." 无限之瓶溢了出来，装满了空药瓶。
+InventoryWindow."Scribe's tools magically copy the contents on a blank scroll." 抄写工具在空白卷轴上复制了卷轴内容。
 SpellbookWindow."Spellbook" 法术书
 SpellbookWindow."You can't use talents while blinded." 你无法在盲眼时使用天赋。
 SpellbookWindow."You can't use talents while confused." 你无法在混乱时使用天赋。
@@ -4079,6 +4243,7 @@ DialogueWindow."STR_ASK_JOB_2" 那么，你是做什么的？
 DialogueWindow."STR_SECRET" 我不能告诉你……
 DialogueWindow."STR_ARCHER" 我是一个射手。
 DialogueWindow."STR_BOWMAN" 我是一个弓箭手。
+DialogueWindow."STR_MARKSMAN" 我是一个神射手。
 DialogueWindow."STR_CLERIC" 我是一个牧师。
 DialogueWindow."STR_FIGHTER" 我是一个战士。
 DialogueWindow."STR_HENCHMAN" 我在保护我的师傅，STR_MASTER 。
@@ -4491,3 +4656,7 @@ SignTexts."Bob, get in here and build this cell block!" 鲍勃，进去吧，修
 SignTexts."Dead guys ahead - Zor'Veste" 前面是些死去的家伙 —— Zor'Veste
 SignTexts."There's nothing to see here." 这里没什么好看的。
 SignTexts."Harry's pottery class is cancelled." 哈利的陶艺课被取消了。
+SignTexts."There's three things that don't hang themselves..." 有三样东西不会把自己吊起来……
+SignTexts."Ornaments..." 装饰品……
+SignTexts."Drywalls..." 石膏板……
+SignTexts."And targets. Hahaha." 还有靶子。哈哈哈。
