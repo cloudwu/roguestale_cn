@@ -1,0 +1,38 @@
+<dialogue name="sideQuestBalthar" entry="intro" checksum="e3bd4541c6d31fd894718ff3d29dd8882b2c4563">
+  <choices id="intro" title="师傅！">
+    <choice title="嗯，怎么？" response="我学会了一个新的技巧。" result="" next="intro_reply_1"/>
+  </choices>
+  <choices id="intro_reply_1" title="">
+    <choice title="哇，是什么？" response="我可以燃烧每个人的魔力。" result="" next="intro_reply_2"/>
+  </choices>
+  <choices id="intro_reply_2" title="">
+    <choice title="那么，你做到了？" response="是的，是不是很漂亮！" result="" next="intro_reply_3"/>
+  </choices>
+  <choices id="intro_reply_3" title="">
+    <choice title="这些尸体恐怕不这么认为。" response="但现在我不用再受刺激了。" result="" next="intro_reply_4"/>
+  </choices>
+  <choices id="intro_reply_4" title="">
+    <choice title="刺激？" response="是的，这群邪恶的人戳了我！" result="" next="intro_reply_5"/>
+  </choices>
+  <choices id="intro_reply_5" title="">
+    <choice title="戳了你，像我这样，还是？" response="不，啐，用的尖尖的东西。" result="" next="intro_reply_6"/>
+  </choices>
+  <choices id="intro_reply_6" title="">
+    <choice title="哦，行吧，这很好。" response="这很好？" result="" next="intro_reply_7"/>
+  </choices>
+  <choices id="intro_reply_7" title="">
+    <choice title="哦，我说错了。" response="你是来戳我的？" result="" next="intro_reply_8"/>
+  </choices>
+  <choices id="intro_reply_8" title="">
+    <choice title="呜，不是的？" response="撒谎，撒谎，燃烧，燃烧！" result="" next="intro_reply_9"/>
+  </choices>
+  <choices id="intro_reply_9" title=" ">
+    <choice title="在你发疯之前……" response="什么？" result="" next="intro_reply_10"/>
+  </choices>
+  <choices id="intro_reply_10" title=" ">
+    <choice title="魔力燃烧是怎样进行？" response="我能看到你身体里的的蓝色光芒。" result="" next="intro_reply_11"/>
+  </choices>
+  <choices id="intro_reply_11" title=" ">
+    <choice title="然后？" response="我把它点着了，烧吧，烧吧！" result="SET_ENEMY" next=""/>
+  </choices>
+</dialogue>

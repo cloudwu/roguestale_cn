@@ -1,0 +1,47 @@
+<dialogue name="sideQuestSkaldir" entry="intro" checksum="c94d3a298d4daca01da7d0e1cfc6ea1217e66d8e">
+  <choices id="intro" title="我闻到了人类的气味！">
+    <choice title="嗯，骨头的工作使它非常不可能。" response="闭嘴，笨蛋！" result="" next="intro_reply_1"/>
+    <choice title="你找到了我，现在给我指出宝藏。" response="你在这里唯一能找到的宝藏就是死亡！" result="" next="intro_reply_1"/>
+  </choices>
+  <choices id="intro_reply_1" title="">
+    <choice title="无意义的威胁来了。" response="这个人太傲慢了!" result="" next="intro_reply_2"/>
+    <choice title="滴答，滴答，我要杀死一个怪物。" response="滴答，滴答……的确！" result="" next="intro_reply_2"/>
+  </choices>
+  <choices id="intro_reply_2" title="">
+    <choice title="那么，我们到了吗？" response="是的，时辰已到！" result="" next="intro_reply_3"/>
+  </choices>
+  <choices id="intro_reply_3" title="">
+    <choice title="我自己决定时间。" response="傻瓜，我是永恒的，我主宰着时间！" result="" next="intro_reply_4"/>
+    <choice title="我们别闲聊了。" response="随便你。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_4" title="">
+    <choice title="继续，你还有什么要透露的吗?" response="“嗯…没有，什么都没有！" result="" next="intro_reply_5"/>
+    <choice title="我们别闲聊了。" response="随便你。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_5" title="">
+    <choice title="这里就像堆叠起来的纸牌屋。" response="你不能让我屈服！" result="" next="intro_reply_6"/>
+    <choice title="我们别闲聊了。" response="随便你。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_6" title="">
+    <choice title="我希望你师傅的保险里有你。" response="这不关你的事！" result="" next="intro_reply_7"/>
+    <choice title="我们别闲聊了。" response="随便你。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_7" title="">
+    <choice title="我将是你死亡的建筑师。" response="你需要更多的火力！" result="" next="intro_reply_8"/>
+    <choice title="我们别闲聊了。" response="随便你。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_8" title="">
+    <choice title="如果有必要的话，我会把你塞进火炉。" response="我是石棉做的，祝你好运！" result="" next="intro_reply_9"/>
+    <choice title="我们别闲聊了。" response="随便你。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_9" title="">
+    <choice title="我们的脑力体操做完了吗？" response="你还在说话！" result="" next="intro_reply_10"/>
+    <choice title="我们别闲聊了。" response="随便你。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="intro_reply_10" title="">
+    <choice title="好吧，让我们结束这一切。" response="嗯，无所谓。" result="SET_ENEMY" next=""/>
+  </choices>
+  <choices id="set_enemy" title="哈哈哈，继续你的愤怒！">
+    <choice title="你为什么不直接去死呢？" response="因为游戏玩家杀死了所有的额简单首领！" result="SET_ENEMY" next=""/>
+  </choices>
+</dialogue>

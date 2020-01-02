@@ -1,0 +1,26 @@
+<dialogue name="sideQuestStealer" entry="intro" checksum="d8887c483b9ee3ea8abf624671e517729d026e86">
+  <choices id="intro" title="Ch'Ri!">
+    <choice title="什么？" response="Ch'Ri, Ch'Ri!" result="" next="intro_reply_1"/>
+  </choices>
+  <choices id="intro_reply_1" title="">
+    <choice title="哦，好吧。" response="叮，叮, Ch'Ri!" result="" next="intro_reply_2"/>
+  </choices>
+  <choices id="intro_reply_2" title="">
+    <choice title="我想我会叫你 Ch'Ri 叮叮。" response="叮！（你的一枚戒指被偷了）" result="STEAL_RING_1" next="intro_reply_3"/>
+  </choices>
+  <choices id="intro_reply_3" title="">
+    <choice title="嗯，现在应该叫 Ch'Ri 叮叮飞贼了。" response="Ch'Ri!" result="" next="intro_reply_4"/>
+  </choices>
+  <choices id="intro_reply_4" title="">
+    <choice title="把戒指还给我！" response="Ch'Ri, Ch'Ri!" result="" next="intro_reply_5"/>
+  </choices>
+  <choices id="intro_reply_5" title="">
+    <choice title="哇喔，你真行。" response="叮，叮, Ch'Ri!" result="" next="intro_reply_6"/>
+  </choices>
+  <choices id="intro_reply_6" title="">
+    <choice title="我看你还敢再说一次叮！" response="叮！（你的一枚戒指被偷了）" result="STEAL_RING_2" next="intro_reply_7"/>
+  </choices>
+  <choices id="intro_reply_7" title="">
+    <choice title="好吧，就这样了，现在你可以去死了！" response="Ch'Ri!" result="SET_ENEMY" next=""/>
+  </choices>
+</dialogue>
