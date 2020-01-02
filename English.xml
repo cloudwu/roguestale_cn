@@ -1,4 +1,4 @@
-<strings version="Version 2.00 (190713)" checksum="c09b54c3845aabf2faad1ccd47ce3dba4206c135">
+<strings version="Version 2.01 (191231)" checksum="82abf053c86b16f68491f28dcb5260d1e01e31ec">
   <Grammar>
     <str id="a" value="a"/>
     <str id="an" value="an"/>
@@ -223,8 +223,16 @@
     <str id="Donate %dg" value="Donate %dg"/>
     <str id="Feast and rest (%dg)" value="Feast and rest (%dg)"/>
     <str id="I'm fully prepared!" value="I'm fully prepared!"/>
+    <str id="Stash box 1" value="Stash box 1"/>
+    <str id="Stash box 2" value="Stash box 2"/>
+    <str id="Stash box 3" value="Stash box 3"/>
+    <str id="Stash box 4" value="Stash box 4"/>
+    <str id="Stash box 5" value="Stash box 5"/>
   </GUITown>
   <GUIDesc>
+    <str id="PLAYER_STASH" value="This is your personal stash provided by Leo Noerde.">
+      <str id="paragraph 1" value="Apparently he was so touched by your heroic deeds that he gave you access to some stash boxes in a secure room."/>
+    </str>
     <str id="MARKET_SQUARE" value="You have entered the Market Quarter and here you can trade items with various merchants.">
       <str id="paragraph 1" value="Note that once the merchants' inventories  are filled with junk, you can reset them by resting in the inn."/>
     </str>
@@ -312,6 +320,9 @@
     <str id="Yeah, yeah, I'm going!" value="Yeah, yeah, I'm going!"/>
     <str id="Itchy-bitchy die die!" value="Itchy-bitchy die die!"/>
     <str id="I hope they have gold!" value="I hope they have gold!"/>
+    <str id="Do I have to baby sit?" value="Do I have to baby sit?"/>
+    <str id="Early retirement, got it!" value="Early retirement, got it!"/>
+    <str id="Going postal, gotcha!" value="Going postal, gotcha!"/>
     <str id="How hard can it be?!?" value="How hard can it be?!?"/>
     <str id="Heh, sure, I got this!" value="Heh, sure, I got this!"/>
     <str id="Accept the quest" value="Accept the quest"/>
@@ -321,6 +332,10 @@
     <str id="Bandits' Hideout" value="Bandits' Hideout"/>
     <str id="Ancient Sewer" value="Ancient Sewer"/>
     <str id="Spider Cave" value="Spider Cave"/>
+    <str id="Boarding School" value="Boarding School"/>
+    <str id="Ye Olde Books" value="Ye Olde Books"/>
+    <str id="The Blood Bawl" value="The Blood Bawl"/>
+    <str id="Hangman's River" value="Hangman's River"/>
     <str id="Cultists' Lair" value="Cultists' Lair"/>
     <str id="Nabon's Castle" value="Nabon's Castle"/>
     <str id="Frostmourn Keep" value="Frostmourn Keep"/>
@@ -349,6 +364,21 @@
       <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail."/>
     </str>
     <str id="SPAWN_WORSHIPPERS" value="You accept the quest and head out to do some justified murdering."/>
+    <str id="BALTHAR_DESC" value="A local librarian is seeking for some brave adventurer to clear out a familiar in one of their library halls.">
+      <str id="paragraph 1" value="Apparently they sent in a few librarians to remove the familiar but they all died so they had to lock it in."/>
+      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail."/>
+    </str>
+    <str id="SPAWN_BALTHAR" value="You accept the quest and head out to do some familiar stuff."/>
+    <str id="STEALER_DESC" value="There is an underground arena where the fighters have no rules but it seems that the organizers have a problem.">
+      <str id="paragraph 1" value="The arena champion keeps stealing rings from patrons, thus hurting business, and they want it taken care of."/>
+      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail."/>
+    </str>
+    <str id="SPAWN_STEALER" value="You accept the quest and head out to do some backstage killing."/>
+    <str id="MARKSMAN_DESC" value="A post delivery service is seeking someone to deliver a crossbow to a master marksman called Boarstone.">
+      <str id="paragraph 1" value="There seems to be some crabs blocking the way and they're willing to pay 20g for delivering the crossbow."/>
+      <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail."/>
+    </str>
+    <str id="SPAWN_MARKSMAN" value="You accept the quest and head out to deliver the crossbow."/>
     <str id="GURMUR_DESC" value="Some cultists have come up with a plan to take over the world by waking up an old monster that should've stayed dead.">
       <str id="paragraph 1" value="Obviously that is bad but what is even worse is that those cultists are carrying a lot of gold that should be yours."/>
       <str id="paragraph 2" value="Note that once you accept the quest you must finish it before leaving the dungeon or the quest will fail."/>
@@ -660,6 +690,8 @@
     <str id="You salvage a piece of reusable scrap from the debris." value="You salvage a piece of reusable scrap from the debris."/>
     <str id="You pull the trigger and shoot %s at %s." value="You pull the trigger and shoot %s at %s."/>
     <str id="You pull the trigger but nothing happens." value="You pull the trigger but nothing happens."/>
+    <str id="%s seems to be healed by your attack." value="%s seems to be healed by your attack."/>
+    <str id="The shot hits but it glances off with a whirring sound." value="The shot hits but it glances off with a whirring sound."/>
   </AttackLogs>
   <CastLogs>
     <str id="You cast %s at %s." value="You cast %s at %s."/>
@@ -822,6 +854,19 @@
     <str id="Select a blessed ring to bind on %s." value="Select a blessed ring to bind on %s."/>
     <str id="You set the time dilation to match 'Even' turns." value="You set the time dilation to match 'Even' turns."/>
     <str id="You set the time dilation to match 'Odd' turns." value="You set the time dilation to match 'Odd' turns."/>
+    <str id="You can't seem to figure out what to do with the charm." value="You can't seem to figure out what to do with the charm."/>
+    <str id="Select a potion to copy with %s." value="Select a potion to copy with %s."/>
+    <str id="Select a scroll to copy with %s." value="Select a scroll to copy with %s."/>
+    <str id="You can't use %s without an empty potion." value="You can't use %s without an empty potion."/>
+    <str id="You can't use %s without a blank scroll." value="You can't use %s without a blank scroll."/>
+    <str id="You start to read the grimoire and open a page titled 'Chapter I - Skaldir'." value="You start to read the grimoire and open a page titled 'Chapter I - Skaldir'."/>
+    <str id="You continue reading and find a paragraph describing a summoning ritual." value="You continue reading and find a paragraph describing a summoning ritual."/>
+    <str id="It reads: Skaldir comes forth when you sacrifice your soul mate." value="It reads: Skaldir comes forth when you sacrifice your soul mate."/>
+    <str id="You resume reading and open a page titled 'Chapter II - Spirit Staves'." value="You resume reading and open a page titled 'Chapter II - Spirit Staves'."/>
+    <str id="You browse through the page and find a paragraph about a binding ritual." value="You browse through the page and find a paragraph about a binding ritual."/>
+    <str id="It reads: Place a staff and a full wizard's armour set in the circle and..." value="It reads: Place a staff and a full wizard's armour set in the circle and..."/>
+    <str id="It reads: ...sacrifice a human that has died at least once before." value="It reads: ...sacrifice a human that has died at least once before."/>
+    <str id="You try to read the grimoire but it seems to have a head ache and it closes." value="You try to read the grimoire but it seems to have a head ache and it closes."/>
   </UseLogs>
   <ActionLogs>
     <str id="You disarm %s." value="You disarm %s."/>
@@ -841,6 +886,7 @@
     <str id="You shapeshift into a wolf." value="You shapeshift into a wolf."/>
     <str id="You shapeshift into a bear." value="You shapeshift into a bear."/>
     <str id="%s vanishes." value="%s vanishes."/>
+    <str id="%s explodes." value="%s explodes."/>
     <str id="%s dies and sinks in the water." value="%s dies and sinks in the water."/>
     <str id="%s dies and sinks in the lava." value="%s dies and sinks in the lava."/>
     <str id="%s dies." value="%s dies."/>
@@ -858,6 +904,10 @@
     <str id="%s sinks in the water." value="%s sinks in the water."/>
     <str id="%s sink in the lava." value="%s sink in the lava."/>
     <str id="%s sinks in the lava." value="%s sinks in the lava."/>
+    <str id="%s's mana burn hits you." value="%s's mana burn hits you."/>
+    <str id="%s casts an unknown spell." value="%s casts an unknown spell."/>
+    <str id="%s steals one of your rings." value="%s steals one of your rings."/>
+    <str id="%s gains adrenaline rush." value="%s gains adrenaline rush."/>
   </ActionLogs>
   <CombatTexts>
     <str id="Friend Gained" value="Friend Gained"/>
@@ -1131,6 +1181,7 @@
     <str id="Shapeshift: Wolf" value="Shapeshift: Wolf"/>
     <str id="Shapeshift: Bear" value="Shapeshift: Bear"/>
     <str id="Bestial Wrath" value="Bestial Wrath"/>
+    <str id="Slow and Steady" value="Slow and Steady"/>
   </TalentNames>
   <TalentDescs>
     <str id="Aimed Shot" value="Ranged attack that causes D3 extra damage instead of 1 for each point of agility bonus modifier."/>
@@ -1197,6 +1248,9 @@
     </str>
     <str id="Bestial Wrath" value="Increases physical damage by D3 while shapeshifted. This talent is also improved by the following heritages:" space="True">
       <str id="paragraph 1" value="Bestial Vigour, Leader of the Pack."/>
+    </str>
+    <str id="Slow and Steady" value="Ranged attacks made with slow weapons count as using both the Aimed Shot and Steady Shot talents at the same" space="True">
+      <str id="paragraph 1" value="time and they use either strength or agility bonus modifier, whichever is higher."/>
     </str>
   </TalentDescs>
   <SpellNames>
@@ -1626,6 +1680,17 @@
     <str id="Re-roll clearcast (Abyssal)." value="Re-roll clearcast (Abyssal)."/>
     <str id="Heals D6 points per turn." value="Heals D6 points per turn."/>
     <str id="Befriend daemons." value="Befriend daemons."/>
+    <str id="Grants immunity to snares." value="Grants immunity to snares."/>
+    <str id="3x stealth damage instead of 2x." value="3x stealth damage instead of 2x."/>
+    <str id="Low health buffs melee damage." value="Low health buffs melee damage."/>
+    <str id="Large weapons hit twice on 5+." value="Large weapons hit twice on 5+."/>
+    <str id="Free attack before shield bash." value="Free attack before shield bash."/>
+    <str id="Auto clearcast (Celestial)." value="Auto clearcast (Celestial)."/>
+    <str id="Auto clearcast (Draconic)." value="Auto clearcast (Draconic)."/>
+    <str id="Auto clearcast (Infernal)." value="Auto clearcast (Infernal)."/>
+    <str id="Increase set bonus to 75%." value="Increase set bonus to 75%."/>
+    <str id="Auto clearcast (Bestial)." value="Auto clearcast (Bestial)."/>
+    <str id="Auto clearcast (Abyssal)." value="Auto clearcast (Abyssal)."/>
   </ItemSets>
   <AddonNames>
     <str id="Padded Spaulders" value="Padded Spaulders"/>
@@ -1925,6 +1990,8 @@
     <str id="Fishing Hook and Line" value="Fishing Hook and Line"/>
     <str id="Fairy Jizzed Bull Horn" value="Fairy Jizzed Bull Horn"/>
     <str id="Engraved Pyramidion" value="Engraved Pyramidion"/>
+    <str id="Infinite Flask" value="Infinite Flask"/>
+    <str id="Scribe's Tools" value="Scribe's Tools"/>
   </CharmNames>
   <CharmDescs>
     <str id="Lucky Number Seven" value="The house always wins, the sooner you realise that the better."/>
@@ -1957,6 +2024,8 @@
     <str id="Fishing Hook and Line" value="Oh well, this was one of those things that were never intended to be added but here we are."/>
     <str id="Fairy Jizzed Bull Horn" value="This horn wasn't able to avoid a busload of fairies that were offended by its toxic masculinity."/>
     <str id="Engraved Pyramidion" value="This symbolizes the abyssal ways of clipping tips and tops of things that protrude too much."/>
+    <str id="Infinite Flask" value="This thing provides almost as much liquidity as the magicians at the central reservoir."/>
+    <str id="Scribe's Tools" value="Yuuup, a rare and endangered bird had to die in order to make this fancy set of tools."/>
   </CharmDescs>
   <CharmEffects>
     <str id="Lucky Number Seven" value="All physical damage you deal to enemies also bleeds gold coins."/>
@@ -1989,6 +2058,8 @@
     <str id="Fishing Hook and Line" value="Water chasms can now be used to catch fish."/>
     <str id="Fairy Jizzed Bull Horn" value="Allows apprentice wizards to learn and cast Bestial spells (learning also requires that you levitate)."/>
     <str id="Engraved Pyramidion" value="Allows apprentice wizards to learn and cast Abyssal spells (learning also requires black soul gems)."/>
+    <str id="Infinite Flask" value="Use this on a potion to copy its contents into the first empty potion in your inventory."/>
+    <str id="Scribe's Tools" value="Use this on a scroll to copy its contents onto the first blank scroll in your inventory."/>
     <str id="BlessedFamiliar" value="Any drake attempting to attack you becomes your friend permanently."/>
     <str id="BlessedOutcasts" value="Summons a loot hoarder at the first level of every random dungeon."/>
   </CharmEffects>
@@ -2110,6 +2181,7 @@
   </FoodLogs>
   <PotionNames>
     <str id="Potion" value="Potion"/>
+    <str id="Empty Potion" value="Empty Potion"/>
     <str id="Potion of Antidote" value="Potion of Antidote"/>
     <str id="Potion of Awareness" value="Potion of Awareness"/>
     <str id="Potion of Blindness" value="Potion of Blindness"/>
@@ -2143,6 +2215,7 @@
   </PotionNames>
   <PotionDescs>
     <str id="PotionDesc" value="Remember that most potions are made by mixing mucus and excrements of some unspecified animal."/>
+    <str id="Empty Potion" value="This potion is empty and that's why it's called an empty potion. Cool, isn't it?"/>
     <str id="Potion of Antidote" value="Contains a mixture that smells and tastes bad enough to cure poisons and diseases."/>
     <str id="Potion of Awareness" value="Contains a lovely tonic that causes your pupils to dilate beyond normal range."/>
     <str id="Potion of Blindness" value="Contains blinding poison. How and where it is made remains a mystery though."/>
@@ -2310,6 +2383,7 @@
   </RuneDescs>
   <ScrollNames>
     <str id="Scroll" value="Scroll"/>
+    <str id="Blank Scroll" value="Blank Scroll"/>
     <str id="Scroll of Aggravation" value="Scroll of Aggravation"/>
     <str id="Scroll of Amnesia" value="Scroll of Amnesia"/>
     <str id="Scroll of Animation" value="Scroll of Animation"/>
@@ -2343,6 +2417,7 @@
   </ScrollNames>
   <ScrollDescs>
     <str id="ScrollDesc" value="In addition to being an excellent form of kindling, scrolls can prove out to be very useful in certain situations."/>
+    <str id="Blank Scroll" value="This scroll is blank. Perhaps you should draw a boat with a dozen oars on it and call yourself Floki."/>
     <str id="Scroll of Aggravation" value="Aggravates all creatures in the current level."/>
     <str id="Scroll of Amnesia" value="Causes the caster to forget a random knowledge."/>
     <str id="Scroll of Animation" value="Permanently turns a dead human into an undead familiar."/>
@@ -2530,6 +2605,7 @@
     <str id="Soul Gem of Thirst" value="Soul Gem of Thirst"/>
     <str id="Soul Gem of Wrath" value="Soul Gem of Wrath"/>
     <str id="Equalizer" value="Equalizer"/>
+    <str id="Grimoire" value="Grimoire"/>
   </ToolNames>
   <ToolDescs>
     <str id="Smoke Bomb" value="Hides you in plain sight. Prolonged use might cause lung cancer according to the sticker at the bottom."/>
@@ -2546,6 +2622,7 @@
     <str id="Soul Gem" value="These gems are said to contain the souls of innocent victims but in reality there is no such thing as innocent..."/>
     <str id="Black Soul Gem" value="These gems are said to contain the souls of innocent victims but this one doesn't seem all that innocent..."/>
     <str id="Equalizer" value="There's an engraving on the handle saying 'Shall not be infringed'."/>
+    <str id="Grimoire" value="This book seems to have an eye infection but somehow you still feel compelled to read it."/>
   </ToolDescs>
   <WandNames>
     <str id="Wand" value="Wand"/>
@@ -2724,6 +2801,7 @@
     <str id="Staff of the Archmage" value="Staff of the Archmage"/>
     <str id="Staff of the Ice Queen" value="Staff of the Ice Queen"/>
     <str id="Death Star" value="Death Star"/>
+    <str id="Torquemada" value="Torquemada"/>
   </WeaponNames>
   <WeaponDescs>
     <str id="Dagger" value="This is a piercing weapon and as such has a chance of ignoring the target's physical resistance."/>
@@ -2778,12 +2856,12 @@
     <str id="Wizard Staff 3" value="This weapon teaches its wielder how to cast the Venomous Orb spell."/>
     <str id="Wizard Staff 4" value="This weapon teaches its wielder how to cast the Virulent Orb spell."/>
     <str id="Wizard Staff 5" value="This weapon teaches its wielder how to cast the Release Soul spell."/>
-    <str id="Celestial Staff" value="Description..."/>
-    <str id="Draconic Staff" value="Description..."/>
-    <str id="Infernal Staff" value="Description..."/>
-    <str id="Arcane Staff" value="Description..."/>
-    <str id="Bestial Staff" value="Description..."/>
-    <str id="Abyssal Staff" value="Description..."/>
+    <str id="Celestial Staff" value="This weapon contains a spirit called 'Tikku' and it improves the set bonus of a full Celestial armour set."/>
+    <str id="Draconic Staff" value="This weapon contains a spirit called 'Keppi' and it improves the set bonus of a full Draconic armour set."/>
+    <str id="Infernal Staff" value="This weapon contains a spirit called 'Sauva' and it improves the set bonus of a full Infernal armour set."/>
+    <str id="Arcane Staff" value="This weapon contains a spirit called 'Kanki' and it improves the set bonus of a full Arcane armour set."/>
+    <str id="Bestial Staff" value="This weapon contains a spirit called 'Parru' and it improves the set bonus of a full Bestial armour set."/>
+    <str id="Abyssal Staff" value="This weapon contains a spirit called 'Tanko' and it improves the set bonus of a full Abyssal armour set."/>
     <str id="Fine Throwing Knife" value="This knife is perfectly balanced to stop those weaklings who try to run away."/>
     <str id="Fine Throwing Star" value="This weapon is great for those villains who don't mind robbing their victims."/>
     <str id="Gifin's Claw" value="This used to belong to Master Gifin-Gif before you snatched it from his dead body."/>
@@ -2797,6 +2875,7 @@
     <str id="Staff of the Archmage" value="This used to belong to Archmage Gyffendal and it teaches its wielder how to cast the Flaming Orb spell."/>
     <str id="Staff of the Ice Queen" value="This used to belong to Ice Queen Altara and it teaches its wielder how to cast the Frozen Orb spell."/>
     <str id="Death Star" value="These throwing stars are one of the deadliest tools used by the Blackhand assassins."/>
+    <str id="Torquemada" value="This is a cheap knockoff of 'Mad Torque' personal defense crossbow. Made in a sweat shop."/>
   </WeaponDescs>
   <LegendaryNames>
     <str id="Cheesy Musk" value="Cheesy Musk"/>
@@ -2808,6 +2887,7 @@
     <str id="Nightshade" value="Nightshade"/>
     <str id="Orbus Bomba" value="Orbus Bomba"/>
     <str id="Zombie Dog" value="Zombie Dog"/>
+    <str id="Bloody Club" value="Bloody Club"/>
   </LegendaryNames>
   <LegendaryDescs>
     <str id="WeaponDesc" value="Well, like it or not, this weapon is now extra shiny with a cool name and it's also unbreakable."/>
@@ -2821,6 +2901,7 @@
     <str id="Nightshade" value="Poisons applied to weapons last forever and count as potent when they are applied."/>
     <str id="Orbus Bomba" value="Automatically casts Enlarge Orb at the end of your turn if you are not already affected by it."/>
     <str id="Zombie Dog" value="Woof comes back to life at the start of a new dungeon if he happens to be dead (reset dungeon in town)."/>
+    <str id="Bloody Club" value="Lucille the head cracking troubadour would be quite envious of the sound effects that this club has."/>
   </LegendaryDescs>
   <CreatureNames>
     <str id="Invisible creature" value="Invisible creature"/>
@@ -2838,23 +2919,30 @@
     <str id="Giant snail" value="Giant snail"/>
     <str id="Snake" value="Snake"/>
     <str id="Spider" value="Spider"/>
-    <str id="Whelp" value="Whelp"/>
     <str id="Bat swarm" value="Bat swarm"/>
     <str id="Rat swarm" value="Rat swarm"/>
     <str id="Snake swarm" value="Snake swarm"/>
     <str id="Spider swarm" value="Spider swarm"/>
     <str id="Snail swarm" value="Snail swarm"/>
     <str id="Spirit wolf" value="Spirit wolf"/>
+    <str id="Fire wurm" value="Fire wurm"/>
+    <str id="Cave crab" value="Cave crab"/>
     <str id="Boss" value="Boss"/>
     <str id="Gurmur" value="Gurmur"/>
     <str id="Daemon" value="Daemon"/>
     <str id="Impaler" value="Impaler"/>
     <str id="Devourer" value="Devourer"/>
+    <str id="Whelp" value="Whelp"/>
+    <str id="Bearling" value="Bearling"/>
+    <str id="Big mouth" value="Big mouth"/>
+    <str id="Ch'Ri" value="Ch'Ri"/>
+    <str id="Balthar" value="Balthar"/>
     <str id="Elemental" value="Elemental"/>
     <str id="Living earth" value="Living earth"/>
     <str id="Living air" value="Living air"/>
     <str id="Living fire" value="Living fire"/>
     <str id="Living water" value="Living water"/>
+    <str id="Shroomling" value="Shroomling"/>
     <str id="Human" value="Human"/>
     <str id="Assassin" value="Assassin"/>
     <str id="Duelist" value="Duelist"/>
@@ -2863,6 +2951,7 @@
     <str id="Paladin" value="Paladin"/>
     <str id="Archer" value="Archer"/>
     <str id="Bowman" value="Bowman"/>
+    <str id="Marksman" value="Marksman"/>
     <str id="Ranger" value="Ranger"/>
     <str id="Cleric" value="Cleric"/>
     <str id="Priest" value="Priest"/>
@@ -2893,6 +2982,8 @@
     <str id="Chronomancer" value="Chronomancer"/>
     <str id="Worshipper" value="Worshipper"/>
     <str id="Acolyte" value="Acolyte"/>
+    <str id="Librarian" value="Librarian"/>
+    <str id="Boarstone" value="Boarstone"/>
     <str id="Verman" value="Verman"/>
     <str id="Butcher" value="Butcher"/>
     <str id="Darkseer" value="Darkseer"/>
@@ -2927,6 +3018,7 @@
     <str id="Triggered Demonrat" value="Triggered Demonrat"/>
     <str id="Abyssal claw" value="Abyssal claw"/>
     <str id="Dancing weapon" value="Dancing weapon"/>
+    <str id="Skaldir" value="Skaldir"/>
     <str id="Orc" value="Orc"/>
     <str id="Orc grunt" value="Orc grunt"/>
     <str id="Orc archer" value="Orc archer"/>
@@ -2959,6 +3051,7 @@
     <str id="Ghost of Randy" value="Ghost of Randy"/>
     <str id="Ghost of Sylvie" value="Ghost of Sylvie"/>
     <str id="Immortal" value="Immortal"/>
+    <str id="Undead dwarf" value="Undead dwarf"/>
   </CreatureNames>
   <CreatureLogs>
     <str id="You have gained a friend." value="You have gained a friend."/>
@@ -3477,6 +3570,7 @@
     <str id="COD_INSTANT_DEATH_1" value="%s died of an instant death effect caused by %s own %s."/>
     <str id="COD_INSTANT_DEATH_2" value="%s died of an instant death effect caused by %s's %s."/>
     <str id="COD_TRANSMUTE_FAIL" value="%s died of too many lost chest hairs caused by failed transmutation."/>
+    <str id="COD_MANA_BURN" value="%s died of magic damage caused by %s's mana burn."/>
   </CauseOfDeath>
   <DamageTypes>
     <str id="physical" value="physical"/>
@@ -3713,6 +3807,17 @@
     <str id="Second Amendment" value="Second Amendment"/>
     <str id="Rise of Fairies" value="Rise of Fairies"/>
     <str id="Wester Worshipper" value="Wester Worshipper"/>
+    <str id="Balthar's Day" value="Balthar's Day"/>
+    <str id="The Shroom Bawl" value="The Shroom Bawl"/>
+    <str id="Skaldir's Fate" value="Skaldir's Fate"/>
+    <str id="Spaulder Collector" value="Spaulder Collector"/>
+    <str id="Vambrace Collector" value="Vambrace Collector"/>
+    <str id="Glove Collector" value="Glove Collector"/>
+    <str id="Boot Collector" value="Boot Collector"/>
+    <str id="Amulet Collector" value="Amulet Collector"/>
+    <str id="Ring Collector" value="Ring Collector"/>
+    <str id="Charm Collector" value="Charm Collector"/>
+    <str id="Rune Collector" value="Rune Collector"/>
   </HeritageNames>
   <HeritageDescs>
     <str id="This heritage can't be unlocked on casual difficulty level." value="This heritage can't be unlocked on casual difficulty level."/>
@@ -3935,6 +4040,40 @@
       <str id="paragraph 2" value="This heritage can be unlocked by attempting to donate an unidentified pyramidion to the Artisan's Guild."/>
       <str id="paragraph 3" value="(*) Note that you will also need to know Literacy: Common and one of the other literacies."/>
     </str>
+    <str id="TheHoardDLC" value="Note that this heritage requires Rogue's Tale - The Hoard DLC."/>
+    <str id="Balthar's Day" value="Unlocks an extra stash box.">
+      <str id="paragraph 1" value="This heritage can be unlocked by killing Balthar the Familiar."/>
+    </str>
+    <str id="The Shroom Bawl" value="Unlocks an extra stash box.">
+      <str id="paragraph 1" value="This heritage can be unlocked by killing Ch'Ri the Blingstealer."/>
+    </str>
+    <str id="Skaldir's Fate" value="Unlocks an extra stash box.">
+      <str id="paragraph 1" value="This heritage can be unlocked by killing Skaldir the Timeless."/>
+    </str>
+    <str id="Spaulder Collector" value="Improves the Leather Armour Set heritage with a pair of leather spaulders.">
+      <str id="paragraph 1" value="This heritage can be unlocked by storing 16 different kinds of spaulders in one of your stash boxes."/>
+    </str>
+    <str id="Vambrace Collector" value="Improves the Leather Armour Set heritage with a pair of leather vambraces.">
+      <str id="paragraph 1" value="This heritage can be unlocked by storing 16 different kinds of vambraces in one of your stash boxes."/>
+    </str>
+    <str id="Glove Collector" value="Improves the Leather Armour Set heritage with a pair of leather gloves.">
+      <str id="paragraph 1" value="This heritage can be unlocked by storing 16 different kinds of gloves in one of your stash boxes."/>
+    </str>
+    <str id="Boot Collector" value="Improves the Leather Armour Set heritage with a pair of leather boots.">
+      <str id="paragraph 1" value="This heritage can be unlocked by storing 16 different kinds of boots in one of your stash boxes."/>
+    </str>
+    <str id="Amulet Collector" value="Equips the rogue with a random amulet at the start of the game.">
+      <str id="paragraph 1" value="This heritage can be unlocked by storing 30 different kinds of amulets in one of your stash boxes."/>
+    </str>
+    <str id="Ring Collector" value="Equips the rogue with a random ring at the start of the game.">
+      <str id="paragraph 1" value="This heritage can be unlocked by storing 30 different kinds of rings in one of your stash boxes."/>
+    </str>
+    <str id="Charm Collector" value="Equips the rogue with a third leg of the imp at the start of the game.">
+      <str id="paragraph 1" value="This heritage can be unlocked by storing 30 different kinds of charms in one of your stash boxes."/>
+    </str>
+    <str id="Rune Collector" value="Equips the rogue with a rune of the imp at the start of the game.">
+      <str id="paragraph 1" value="This heritage can be unlocked by storing 30 different kinds of runes in one of your stash boxes."/>
+    </str>
   </HeritageDescs>
   <ChallengeNames>
     <str id="Bottled Rage" value="Bottled Rage"/>
@@ -4005,6 +4144,17 @@
     <str id="Path of Fairness" value="Path of Fairness"/>
     <str id="Path of Compassion" value="Path of Compassion"/>
     <str id="Indivisible Greed" value="Indivisible Greed"/>
+    <str id="Burning Anxiety" value="Burning Anxiety"/>
+    <str id="Circular Strike" value="Circular Strike"/>
+    <str id="Champ of Champs" value="Champ of Champs"/>
+    <str id="Sands of Time" value="Sands of Time"/>
+    <str id="Skulls and Bones" value="Skulls and Bones"/>
+    <str id="Boney Twin Job" value="Boney Twin Job"/>
+    <str id="Junk Collector" value="Junk Collector"/>
+    <str id="Fitting Just Us" value="Fitting Just Us"/>
+    <str id="Bloody Club" value="Bloody Club"/>
+    <str id="The Seal Club" value="The Seal Club"/>
+    <str id="Binding Ritual" value="Binding Ritual"/>
   </ChallengeNames>
   <ChallengeDescs>
     <str id="Unlocks &quot;%s&quot; title." value="Unlocks &quot;%s&quot; title."/>
@@ -4164,6 +4314,20 @@
       <str id="paragraph 1" value="If you answer the test with gentle answers only, you will be known as '%s'."/>
     </str>
     <str id="Indivisible Greed" value="This challenge can be completed by reseting a dungeon after meeting three angry pops."/>
+    <str id="TheHoardDLC" value="Note that this challenge requires Rogue's Tale - The Hoard DLC."/>
+    <str id="Burning Anxiety" value="This challenge can be completed by killing Balthar the Familiar while wearing Ring of Anxiety.">
+      <str id="paragraph 1" value="This challenge will fail if you are hit by mana burn without being vulnerable to magic."/>
+    </str>
+    <str id="Circular Strike" value="This challenge can be completed by finding out the exploitable weakness of Ch'Ri the Blingstealer."/>
+    <str id="Champ of Champs" value="This challenge can be completed by killing Ch'Ri the Blingstealer without haste effects or exploits and without being poisoned."/>
+    <str id="Sands of Time" value="This challenge can be completed by finding out the exploitable weakness of Skaldir the Timeless."/>
+    <str id="Skulls and Bones" value="This challenge can be completed by killing Skaldir the Timeless without haste effects or exploits."/>
+    <str id="Boney Twin Job" value="This challenge can be completed by killing Skaldir the Timeless twice in a single game."/>
+    <str id="Junk Collector" value="This challenge can be completed by completing all collector heritages in any number of games."/>
+    <str id="Fitting Just Us" value="This challenge can be completed by killing Boarstone with the gift crossbow and Slow and Steady talent."/>
+    <str id="Bloody Club" value="This legendary effect can be imbued by killing Ch'Ri the Blingstealer (only works with a club or fine club)."/>
+    <str id="The Seal Club" value="This challenge can be completed by killing the King with a Bloody Club."/>
+    <str id="Binding Ritual" value="This challenge can be completed by performing a binding ritual described in the grimoire."/>
   </ChallengeDescs>
   <ChallengeTitles>
     <str id="Select Title" value="Select Title"/>
@@ -4227,6 +4391,17 @@
     <str id="the Fair" value="the Fair"/>
     <str id="the Gentle" value="the Gentle"/>
     <str id="the Greedy" value="the Greedy"/>
+    <str id="the Anxious" value="the Anxious"/>
+    <str id="the Pitcher" value="the Pitcher"/>
+    <str id="the Shroompion" value="the Shroompion"/>
+    <str id="the Timeworn" value="the Timeworn"/>
+    <str id="the Undertaker" value="the Undertaker"/>
+    <str id="the Bonelord" value="the Bonelord"/>
+    <str id="the Hoarder" value="the Hoarder"/>
+    <str id="the Hangman" value="the Hangman"/>
+    <str id="the Bloody" value="the Bloody"/>
+    <str id="the Clubber" value="the Clubber"/>
+    <str id="the Acolyte" value="the Acolyte"/>
   </ChallengeTitles>
   <GameLogic>
     <str id="You die. Press %s to continue." value="You die. Press %s to continue."/>
@@ -4277,6 +4452,7 @@
     <str id="You can't sort items while polymorphed." value="You can't sort items while polymorphed."/>
     <str id="You can't sort items while shapeshifted." value="You can't sort items while shapeshifted."/>
     <str id="Inventory sorted successfully." value="Inventory sorted successfully."/>
+    <str id="Stash box sorted successfully." value="Stash box sorted successfully."/>
     <str id="Something went wrong while sorting the inventory." value="Something went wrong while sorting the inventory."/>
     <str id="Your %s was dropped on the ground." value="Your %s was dropped on the ground."/>
     <str id="You probably lost some item but it could've been cursed!." value="You probably lost some item but it could've been cursed!."/>
@@ -4317,6 +4493,7 @@
   <LootWindow>
     <str id="Buy:" value="Buy:"/>
     <str id="Craft:" value="Craft:"/>
+    <str id="Fetch:" value="Fetch:"/>
     <str id="Loot:" value="Loot:"/>
     <str id="You ask the artisans to craft you %s." value="You ask the artisans to craft you %s."/>
   </LootWindow>
@@ -4340,10 +4517,6 @@
     <str id="Bind ring:" value="Bind ring:"/>
     <str id="You can't wield that in the offhand." value="You can't wield that in the offhand."/>
     <str id="You can't swap that, it's magically bound to you!" value="You can't swap that, it's magically bound to you!"/>
-    <str id="You can sell the item by holding down the Ctrl-key." value="You can sell the item by holding down the Ctrl-key."/>
-    <str id="You can store the item by holding down the Ctrl-key." value="You can store the item by holding down the Ctrl-key."/>
-    <str id="You can sell the item by pressing the Square-button." value="You can sell the item by pressing the Square-button."/>
-    <str id="You can store the item by pressing the Square-button." value="You can store the item by pressing the Square-button."/>
     <str id="Primary weapons equipped." value="Primary weapons equipped."/>
     <str id="Secondary weapons equipped." value="Secondary weapons equipped."/>
     <str id="%s can't be equipped or unequipped while in town." value="%s can't be equipped or unequipped while in town."/>
@@ -4401,6 +4574,14 @@
     <str id="You bind %s on %s." value="You bind %s on %s."/>
     <str id="You don't have enough free hands to equip that." value="You don't have enough free hands to equip that."/>
     <str id="You don't have enough free space to unequip your %s." value="You don't have enough free space to unequip your %s."/>
+    <str id="You stash %s." value="You stash %s."/>
+    <str id="You fetch %s." value="You fetch %s."/>
+    <str id="You can't stash that at the moment." value="You can't stash that at the moment."/>
+    <str id="You have to unequip the item before stashing it." value="You have to unequip the item before stashing it."/>
+    <str id="You can't copy %s with an infinite flask." value="You can't copy %s with an infinite flask."/>
+    <str id="You can't copy %s with scribe's tools." value="You can't copy %s with scribe's tools."/>
+    <str id="The infinite flask spills over and fills an empty potion." value="The infinite flask spills over and fills an empty potion."/>
+    <str id="Scribe's tools magically copy the contents on a blank scroll." value="Scribe's tools magically copy the contents on a blank scroll."/>
   </InventoryWindow>
   <SpellbookWindow>
     <str id="Spellbook" value="Spellbook"/>
@@ -4475,6 +4656,7 @@
     <str id="STR_SECRET" value="I can't tell you that..."/>
     <str id="STR_ARCHER" value="I'm an archer."/>
     <str id="STR_BOWMAN" value="I'm a bowman."/>
+    <str id="STR_MARKSMAN" value="I'm a marksman."/>
     <str id="STR_CLERIC" value="I'm a cleric."/>
     <str id="STR_FIGHTER" value="I'm a fighter."/>
     <str id="STR_HENCHMAN" value="I'm here to protect my master, STR_MASTER."/>
@@ -4973,5 +5155,9 @@
     <str id="Dead guys ahead - Zor'Veste" value="Dead guys ahead - Zor'Veste"/>
     <str id="There's nothing to see here." value="There's nothing to see here."/>
     <str id="Harry's pottery class is cancelled." value="Harry's pottery class is cancelled."/>
+    <str id="There's three things that don't hang themselves..." value="There's three things that don't hang themselves..."/>
+    <str id="Ornaments..." value="Ornaments..."/>
+    <str id="Drywalls..." value="Drywalls..."/>
+    <str id="And targets. Hahaha." value="And targets. Hahaha."/>
   </SignTexts>
 </strings>
