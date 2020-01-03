@@ -45,5 +45,5 @@
     <choice title="我想我要现在该离开了。（旅行）" response="出去的时候别让门撞着了。" result="FINISH_QUEST" next=""/>
     <choice title="实际上，我想你去死！" response="STR_FUBAR" result="SET_ENEMY" next=""/>
   </choices>
-  <choices id="outro" title="完成任务"/>
+  <choices id="outro" title="finish_quest"/>
 </dialogue>
