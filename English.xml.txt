@@ -1545,7 +1545,7 @@ ItemSets."Heals D6 points per turn." 每回合治疗 D6 点。
 ItemSets."Befriend daemons." 成为恶魔的朋友。
 ItemSets."Grants immunity to snares." 获得了对陷阱的免疫。
 ItemSets."3x stealth damage instead of 2x." 将两倍偷袭伤害提高到三倍。
-ItemSets."Low health buffs melee damage." 生命值低的时候加强近战伤害。
+ItemSets."Low health buffs melee damage." 生命值低时加强近战伤害。
 ItemSets."Large weapons hit twice on 5+." 大型武器在 5+ 时攻击两次。
 ItemSets."Free attack before shield bash." 盾击前免费攻击。
 ItemSets."Auto clearcast (Celestial)." 自动沉静施法（天使系）。
