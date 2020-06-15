@@ -512,7 +512,7 @@ Blade Flurry
 剑刃乱舞
 
 Melee attack that receives up to one extra attack per weapon (agility bonus modifier +1 or better for main hand and +3 or better for offhand). Blade Flurry requires either two small weapons or a medium weapon that is used two-handedly.
-近战攻击的每把武器（当敏捷增益修正 +1 或更高时，可针对主手武器；+3 或更高时针对副手武器）获得最一次额外攻击机会。剑刃乱舞需要两把小型武器或将一把中型武器双手使用。
+近战攻击的每把武器（当敏捷增益修正 +1 或更高时，可针对主手武器；+3 或更高时针对副手武器）获得最多一次额外攻击机会。剑刃乱舞需要两把小型武器或将一把中型武器双手使用。
 
 Deadly Throw
 致命投掷

@@ -1091,7 +1091,7 @@ TalentDescs."Aimed Shot" @(30)远程攻击每点敏捷增益修正获得 D3 的�
 TalentDescs."Multi Shot" @(30)远程攻击将命中目标生物邻接的多个额外生物目标，数量等于敏捷增益修正值。
 TalentDescs."Quick Shot" @(30)远程攻击的射击前生物可以先移动。
 TalentDescs."Steady Shot" @(30)远程攻击时，可以重投失败的命中检定，在隐秘状态下能造成双倍伤害。
-TalentDescs."Blade Flurry" @(30)近战攻击的每把武器（当敏捷 +1 及 +3 时）获得最一次额外攻击机会。剑刃乱舞需要两把小型武器或双手使用一把中型武器。
+TalentDescs."Blade Flurry" @(30)近战攻击的每把武器（当敏捷 +1 及 +3 时）获得最多一次额外攻击机会。剑刃乱舞需要两把小型武器或双手使用一把中型武器。
 TalentDescs."Blade Flurry".1 
 TalentDescs."Deadly Throw" @(30)投掷武器攻击的每点属性增益修正获得 D3 额外伤害，而非正常的 1 点额外伤害，依据的属性取力量和敏捷中的较高值。（修正同时针对命中检定）。
 TalentDescs."Deadly Throw".1 
